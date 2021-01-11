@@ -1,0 +1,64 @@
+132 Accountancy
+
+Refer to the sales (journal) book of Koina Supplier of you will find that two
+water purifiers were sold to Raman Traders for ? 2,100 each, out of which one
+purifier was returned back due to the manufacturing defect (credit note no.
+10 / 20 1 7). In this case, the sales return (Journal) book will be prepared
+as follows :
+
+Sales Return (Journal) Book
+
+Date Credoit Name of the customer L.F. Amount
+(Account to be credited)
+
+10/20107 Raman Traders 2,100
+2, —1_00
+
+Posting to the sales return Journal requires that the customer s account —be
+credited with the amount of returns and the sales return account be debited
+with the periodical total in the same way as is done in case of posting from the
+purchases journal.
+
+ 
+
+Raman Traders Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+-_I_- SalesRetum I 2100
+
+Sales Return Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+Sundries 2,100
+as per sales
+return book
+
+Illustration 5
+
+Enter the following transactions of M/s Hi—Life Fashions in purchases and purchases
+return book and post them to the ledger accounts for the month of September 2014:
+
+Details
+
+Purchase of following goods on credit from M/s Ratna Traders,
+as per Invoice No.7 14:
+25 Shirts @ ?300 per shirt
+
+ 
+
+ 
+
+20 Pants @ ?700 per pant
+
+Less 10% trade discount
+
+Purchase of following goods on credit from M/s Bombay Fashion House,
+as per Invoice No.327 ;
+
+ 
+
+2019-2020

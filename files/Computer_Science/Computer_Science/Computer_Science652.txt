@@ -1,0 +1,45 @@
+G-13
+Glossary
+memory accesses, I/O activities, operating send message routine A routine used by a
+system overhead, CPU execution time, and processor in machines with private memo 
+so on. ries to pass to another processor.
+restartableinstruction An instmction that sensitivity list The list of signals that spec 
+can resume execution after an exception is ifies when an always block should be
+resolved without the exception's affecting reevaluated.
+the result of the instruction. separate compilation Splitting a program
+return address A link to thecalling sitethat across many files, each of which can be
+allows a procedure to retum to the proper compiled without knowledge ofwhat is in
+address; in MIPSit is stored in register $r a. the other files.
+rotation latency Also called delay. The sequential logic A group oflogic elements
+time required for the desired sector of a disk that contain memory and hence whose val 
+to rotate under the read/write head; usually ue depends on the inputs as well as the cur 
+assumed to be halfthe rotation time. rent contents of the memory.
+round Method to make the intermediate Server A computer used for mnning larger
+floating-point result fit the floating-point programs for multiple users often simulta 
+format; the goal is typically to find the near  neously and typically accessed only via a
+est number that can be represented in the network.
+format. set-associative cache A cache that has a
+scientific notation A notation that renders fixed number oflocations (at least two)
+numbers with a single digit to the left ofthe where each block can be placed.
+decimal point. set-up time The minimum time that the
+secondary memory Nonvolatile memory input to a memory device must be valid be 
+used to store programs and data between fore the clock edge.
+mns; typically consists ofmagnetic disks in shared memory A memory for a parallel
+today's computers. processor with a single address space, im 
+sector One ofthe segm ents that make up a plying implicit communication with loads
+track on a magnetic disk; a sector is the and stores.
+smallest amount ofinformation that is read sign-extend To increase the size ofa data
+or written on a disk. item by replicating the high-order sign bit
+seek The process ofpositioning a read/write of the original data item in the high-order
+head over the proper track on a disk. bits ofthe larger, destination data item.
+segmentation A variable-size address silicon A natural element which is a semi 
+mapping scheme in which an address con  conductor.
+sists oftwo parts: a segment number, which silicon crystal ingot A rod composed of a
+is mapped to a physical address, and a seg  silicon crystal that is between 6 and 12 inch 
+ment offset. es in diameter and about 12 to 24 inches
+selector value Also called control value. long.
+The control signal that is used to select one simple programmable logic device
+ofthe input values ofa multiplexor as the (SPLD) Programmablelogic device usually
+output ofthe multiplexor. containing either a single PAi or PLA.
+semiconductor A substance that does not single precision A floating-point value
+conduct electricity welL represented in a single 32-bit word.

@@ -1,0 +1,76 @@
+i Physics
+
+depending on their resistivities, in an increasing order of their values.
+Metals have low resistivities in the range of 10”8 52m to 1045 52m. At the
+other end are insulators like ceramic, rubber and plastics having
+resistivities 1018 times greater than metals or more. In between the two
+are the semiconductors. These, however, have resistivities
+characteristically decreasing with a rise in temperature. The resistivities
+of semiconductors are also affected by presence of small amount of
+impurities. This last feature is exploited in use of semiconductors for
+electronic devices.
+
+TABLE 3. 1 RESISTIVITIES OF SOME MATERIALS
+
+ 
+
+Conductors
+Silver
+
+Copper
+Aluminium
+Tungsten
+
+Iron
+
+Platinum
+Mercury
+Nichrome
+
+(alloy of Ni, Fe, Cr)
+Manganin (alloy)
+
+Semiconductors
+Carbon (graphite)
+Germanium
+Silicon
+Insulators
+
+Pure Water
+
+Glass
+
+Hard Rubber
+NaCl
+
+Fused Quartz
+
+102
+
+1.6 x 10*8 0.0041
+1.7 x 10*8 0.0068
+2.7 x 10“8 0.0043
+5.6 x 10*8 0.0045
+10 x 10*8 0.0065
+11 x 10*8 0.0039
+98 x 10*8 0.0009
+~100 x 1023 0.0004
+48 x 10*8 0.002 x 10—3
+3.5 x 10‘5 — 0.0005
+0.46 —0.05
+2300 —0.07
+2.5 x 105
+1010 _ 1014
+1013 _ 1016
+~1014
+~1016
+
+Commercially produced resistors for domestic use or in laboratories
+are of two major types: wire bound resistors and carbon resistors. Wire
+bound resistors are made by winding the wires of an alloy, viz., manganin,
+constantan, nichrome or similar ones. The choice of these materials is
+dictated mostly by the fact that their resistivities are relatively insensitive
+to temperature. These resistances are typically in the range of a fraction
+of an ohm to a few hundred ohms.
+
+2019-20

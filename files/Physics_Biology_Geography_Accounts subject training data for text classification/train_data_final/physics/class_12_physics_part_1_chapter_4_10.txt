@@ -1,0 +1,65 @@
+l Physics
+
+the resulting nuclear reactions. It is also used to implant ions into solids
+and modify their properties or even synthesise new materials. It is used
+in hospitals to produce radioactive substances which can be used in
+diagnosis and treatment.
+
+Example 4.4 A cyclotron’s oscillator frequency is 10 MHz. What
+should be the operating magnetic field for accelerating protons? If
+the radius of its ‘dees’ is 60 cm, what is the kinetic energy (in MeV) of
+the proton beam produced by the accelerator.
+
+(6 =1.60 x 10‘19 c, mp = 1.67 x 10*27 kg, 1 MeV = 1.6 x 10*13 J).
+
+Solution The oscillator frequency should be same as proton’s
+cyclotron frequency.
+Using Eqs. (4.5) and [4.6(a)] we have
+
+B = 21: m v/q =6.3 x1.67 x 10*27 x 107 / (1.6 x 10—19) = 0.66 T
+Final velocity of protons is
+
+v = rX 21: v = 0.6 m X 6.3 ><lO7 = 3.78 X 107 m/s.
+
+E= 1/2 my2 = 1.67 x10‘27 x 14.3 x 1014 / (2 x 1.6 x 1043) = 7 MeV.
+
+ACCELERATORS m INDIA
+
+India has been an early entrant in the area of accelerator-based research. The vision of
+Dr. Meghnath Saha created a 37 " Cyclotron in the Saha Institute of Nuclear Physics in
+Kolkata in 1953. This was soon followed by a series of Cockroft—Walton type of accelerators
+established in Tata Institute of Fundamental Research (TIFR), Mumbai, Aligarh Muslim
+University (AMU), Aligarh, Bose Institute, Kolkata and Andhra University, Waltair.
+
+The sixties saw the commissioning of a number of Van de Graaff accelerators: a 5.5 MV
+terminal machine in Bhabha Atomic Research Centre (BARC), Mumbai (1963); a 2 MV terminal
+machine in Indian Institute of Technology (IIT), Kanpur; a 400 kV terminal machine in Banaras
+Hindu University (BHU), Varanasi; and Punjabi University, Patiala. One 66 cm Cyclotron
+donated by the Rochester University of USA was commissioned in Panjab University,
+Chandigarh. A small electron accelerator was also established in University of Pune, Pune.
+
+In a major initiative taken in the seventies and eighties, a Variable Energy Cyclotron was
+built indigenously in Variable Energy Cyclotron Centre [VECC), Kolkata; 2 MVTandem Van
+de Graaff accelerator was developed and built in BARC and a 14 MV Tandem Pelletron
+accelerator was installed in TIFR.
+
+This was soon followed by a l 5 MVTandem Pelletron established by University Grants
+Commission (UGC), as an inter-university facility in Inter-University Accelerator Centre
+(IUAC), New Delhi; a 3 MVTandem Pelletron in Institute of Physics, Bhubaneswar; and two
+1.7 MVTandetrons inAtomic Minerals Directorate for Exploration and Research, Hyderabad
+and Indira Gandhi Centre for Atomic Research, Kalpakkam. Both TIFR and IUAC are
+augmenting their facilities with the addition of superconducting LINAC modules to accelerate
+the ions to higher energies.
+
+Besides these ion accelerators, the Department of Atomic Energy (DAE) has developed
+many electron accelerators. A 2 GeV Synchrotron Radiation Source is being built in Raja
+Ramanna Centre for Advanced Technologies, Indore.
+
+The Department of Atomic Energy is considering Accelerator Driven Systems (ADS) for
+power production and ﬁssile material breeding as future options. ‘
+
+EXAMPLE 4.4
+
+142
+
+2019-20

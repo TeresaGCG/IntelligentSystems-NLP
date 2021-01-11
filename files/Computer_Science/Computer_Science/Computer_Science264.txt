@@ -1,0 +1,37 @@
+248 Chapter 4 Assessing and Understanding Performance
+Hardware The equations in our previous examples do not include any reference to the number
+of instructions needed for the program. However, since the compiler clearly gener 
+Software
+ated instmctions to execute, and the computer had to execute the instructions to
+Interface
+run the program, the execution time must depend on the number of instructions in
+a program. One way to think about execution time is that it equals the number of
+instructions executed multiplied by the average time per instruction. Therefore, the
+number of clock cycles required for a program can be written as
+~cles
+CPU clock cycles = Instructions for a program X Avera&e clock
+per IIlstructlon
+dock cycles per instruction The term clock cycles per instruction, which is the average number of clock
+(CPI) Average number ofdock
+cycles each instruction takes to execute, is often abbreviated as CPI. Since different
+cycles per instruction for a pro 
+instructions may take different amounts of time depending on what they do, CPI
+gram or program fragment.
+is an average of all the instructions executed in the program. CPI provides one
+way of comparing two different implementations of the same instruction set
+architecture, since the instruction count required for a program will, of course, be
+the same.
+Using the Performance Equation
+EXAMPLE Suppose we have two implementations of the same instruction set architec 
+ture. Computer A has a clock cycle time of 250 ps and a CPI of 2.0 for some
+program, and computer B has a clock cycle time of 500 ps and a CPI of 1.2
+for the sa me program. Which computer is faster for this program, and by
+how much?
+We know that each computer executes the same number of instructions for
+ANSWER
+the program; let's call this number 1. First, find the number of processor clock
+cycles for each computer:
+CPU clock cycles = 1X 2.0
+A
+CPU clock cycles = 1 X 1.2
+B

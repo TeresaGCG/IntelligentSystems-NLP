@@ -1,0 +1,39 @@
+7.4 Virtual Memory 523
+On every reference, we look up the virtual page number in the TLB. If we get a
+hit, the physical page number is used to form the address, and the corresponding
+reference bit is turned on. If the processor is performing a write, the dirty bit is
+also turned on. If a miss in the TLB occurs, we must determine whether it is a
+page fault or merely a TLB miss. If the page exists in memory, then the TLB miss
+indicates only that the translation is missing. In such cases, the processor can
+handle the TLB miss by loading the translation from the page table into the TLB
+and then trying the reference again. If the page is not present in memory, then
+the TLB miss indicates a true page fault. In this case, the processor invokes the
+operating system using an exception. Because the TLB has many fewer entries
+than the number of pages in main memory, TLB misses will be much more fre 
+quent than true page faults.
+TLB misses can be handled either in hardware or in software. In practice, with
+care there can be little performance difference between the two approaches
+because the basic operations are the same in either case.
+After a TLB miss occurs and the missing translation has been retrieved from
+the page table, we will need to select a TLB entry to replace. Because the reference
+and dirty bits are contained in the TLB entry, we need to copy these bits back to
+the page table entry when we replace an entry. These bits are the only portion of
+the TLB entry that can be changed. Using write-back-that is, copying these
+entries back at miss time rather than when they are written- is very efficient,
+since we expect the TLB miss rate to be small. Some systems use other techniques
+to approximate the reference and dirty bits, eliminating the need to write into the
+TLB except to load a new table entry on a miss.
+Some typical values for a TLB might be
+• TLB size: 16-5 12 entries
+• Block size: 1-2 page table entries (typically 4-8 bytes each)
+• Hit time: 0.5-1 clock cycle
+• Miss penalty: 10-100 clock cycles
+• Miss rate: 0.0 1%- 1%
+Designers have used a wide variety of associativities in TLBs. Some systems use
+small, fully associative TLBs because a fully associative mapping has a lower miss
+rate; furthermore, since the TLB is small, the cost of a fully associative mapping is
+not too high. Other systems use large TLBs, often with small associativity. With a
+fully associative mapping, choosing the entry to replace becomes tricky since
+implementing a hardware LRU scheme is too expensive. Furthermore, since TLB
+misses are much more frequent than page faults and thus must be handled more
+cheaply, we cannot afford an expensive software algorithm, as we can for page

@@ -1,0 +1,58 @@
+Issue and Redemption of Debentures 1 23
+
+Illustration 26
+
+On April 0 1, 2013, a company made an issue of 10,000, 9% Debentures of
+Rs 100 each at Rs. 92 per debenture. The terms of issue provided for the redemption
+of 2,000 debentures every year starting from the March 3 1 , 20 1 6 either by conversion
+in to equity shares of Rs 20 each or by draw of lot at per at the company’s option.
+On March 31, 2016, company redemption, 2,000, 9% debentures by converting
+them into Equity shares of Rs 20 each. Give the necessary Journal entries.
+
+Books of a Company
+Journal
+
+Date Particulars Credit
+Amount Amount
+
+9% Debentures A/c 2.00.000
+To Debentureholders A/c 1.84.000
+To Statement of Proﬁt & Loss 9,600
+
+To Discount on Issue of Debentures A/c 8,400
+(Amount due to debentureholders on redemption
+by conversion)
+
+ 
+
+Mar. 3 1 Debentureholders A/c Dr. 1.84.000
+To Equity Share Capital A/c 1,84,000
+(New equity shares issued to debentureholders)
+Working Notes :—
+i. Total Discount on the issue of 10,000 Debentures = 10,00,000 x 8
+
+ 
+
+100
+= Rs 80,000
+
+Amount of Discount to be written off is determined as follows :
+
+— Atutntuu — Antut Au
+
+2013—14 10,00, 000 80, 000 x % = 16, 000
+
+2014—15 10,00,000 80,000 x % = 16.000
+
+2015-16 10,00,000 80,000 x % 16,000
+
+2016—17 8,00,000 80,000 x % 12,800
+
+2017-18 6,00,000 80,000x 9,600
+
+xi
+25
+2018—19 4,00,000 80,000x % 6,400
+1
+
+2019—20 20,000 80, 000 x— 25 3,200

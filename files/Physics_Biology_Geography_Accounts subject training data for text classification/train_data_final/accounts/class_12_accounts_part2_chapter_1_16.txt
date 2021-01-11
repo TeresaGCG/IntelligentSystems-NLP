@@ -1,0 +1,51 @@
+Accounting for Share Capital 1 7
+
+1.6.2 Calls in Advance
+
+Sometimes shareholders pay a part or the whole of the amount of the calls not
+yet made. The amount so received from the shareholders is known as “Calls in
+Advance". The amount received in advance is a liability of the company and
+should be credited to ‘Call in Advance Account.” The amount received will be
+adjusted towards the payment of calls as and when they becomes due. Table F
+of the Companies Act provides for the payment of interest on calls in advance at
+a rate not exceeding 12% per annum.
+
+The following joumal entIy is recorded for the amount of calls received in advance.
+
+Bank A/c Dr.
+To Calls in Advance A/c
+(Amount received on call in advance)
+
+On the due date of the calls, the amount of ‘Calls in Advance' is adjusted by the
+following entry :
+
+Calls in Advance A/c Dr.
+To Particular Call A/c
+{Calls in advance adjusted with the call money due)
+
+The balance in ‘Calls in Advance' account is shown as a separate item under the
+title Equity and Liabilities in the company’s balance sheet under the head ‘cw'rent
+liabilities’, as sub-head ‘others current liabilities’. It is not added to the amount of
+paid—up capital.
+
+As ‘Calls in Advance' is a liability of the company, it is under obligation, if
+provided by the Articles, to pay interest on such amount from the date of its
+receipt up to the date when appropriate call is due for payment. A stipulation is
+generally made in the Articles regarding the rate at which interest is payable.
+However, if Articles are silent on this account, Table F is applicable which provides
+for interest on calls in advance at a rate not exceeding 12% per annum.
+
+The accounting treatment of interest on Calls in Advance is as follows:
+
+1. For Payment of Interest
+Interest on Calls in Advance A/c Dr.
+To Bank A/c
+(Interest paid on Calls in Advance)
+Or
+2. (a) For Interest due
+Interest on Calls in Advance A/c Dr.
+To Sundry Shareholder’s A/c
+[Interest paid on Calls in Advance)
+2. (b) For Interest Paid
+Sundry Shareholder’s A/c Dr.
+To Bank A/c

@@ -1,0 +1,38 @@
+5.6 Exceptions 341
+or external; we use the term interrtlpt only when the event is externally caused.
+The Intel IA-32 architecture uses the word interrupt for all these events.
+Interrupts were initially created to handle unexpected events like arithmetic
+overflow and to signal requests for service from I/O devices. The same basic
+mechanism was extended to handle internally generated exceptions as well. Here
+are some examples showing whether the situation is generated internally by the
+processor or externally generated:
+Type of event From where? MIPS terminology
+I/O device request Extemal Interrupt
+Invoke the operating system from user program Internal Exception
+Arithmetic overflow Internal Exception
+Using an undefined instruction Internal Exception
+Hardware malfunctions Either Exception or interrupt
+Many of the requirements to support exceptions come from the specific situa 
+tion that causes an exception to occur. Accordingly, we will return to this topic in
+Chapter 7, when we discuss memory hierarchies, and in Chapter 8, when we dis 
+cuss li D, and we better understand the motivation for additional capabilities in
+the exception mechanism. In this section, we deal with the control implementa 
+tion for detecting two types of exceptions that arise from the portions of the
+instruction set and implementation that we have already discussed.
+Detecting exceptional conditions and taking the appropriate action is often on the
+critical timing path of a machine, which determines the clock cycle time and thus
+performance. Without proper attention to exceptions during design of the control
+unit, attempts to add exceptions to a complicated implementation can significantly
+reduce performance, as well as complicate the task of getting the design correct.
+How Exceptions Are Handled
+The two types of exceptions that our current implementation can generate are
+execution of an undefined instruction and an arithmetic overflow. The basic
+action that the machine must perform when an exception occurs is to save the
+address of the offending instruction in the exception program counter (EPC) and
+then transfer control to the operating system at some specified address.
+The operating system can then take the appropriate action, which may
+involve providing some service to the user program, taking some predefined
+action in response to an overflow, or stopping the execution of the program
+and reporting an error. After performing whatever action is required because
+of the exception, the operating system can terminate the program or may con  
+tinue its execution, using the EPC to determine where to restart the execution

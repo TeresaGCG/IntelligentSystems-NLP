@@ -1,0 +1,71 @@
+Current
+Electricity
+
+ 
+
+VAB = 2 A x 2 s2 = 4 V
+
+The voltage drop across BC is
+VBC=2AX 1 Q=2V
+
+Finally, the voltage drop across CD is
+
+2
+
+VCD=12QXIS=12QX[§]A=8V.
+
+This can alternately be obtained by multiplying total current
+between C and D by the equivalent resistance between C and D,
+that is,
+
+VCD=2AX4Q=8V
+
+Note that the total voltage drop across AD is 4 V + 2 V + 8 V = 14 V.
+Thus, the terminal voltage of the battery is 14 V, while its emf is 16 V.
+The loss of the voltage (= 2 V) is accounted for by the internal resistance
+
+lﬂofthebatteryL‘ZAX 19=2V].
+
+3. 12 CELLS IN SERIES AND IN PARALLEL
+
+Like resistors, cells can be combined together in an electric circuit. And
+like resistors, one can, for calculating currents and voltages in a circuit,
+replace a combination of cells by an equivalent cell.
+
+51 £2 Seq I
+I
+o—<—{|—o—<—(|—<—o E o—<—{|—<—o
+A I r B r C A I r C
+1 2 eq
+
+FIGURE 3.20 Two cells of emfs £1 and 82 in the sen’es. rl. r2 are their
+internal resistances. For connections across A and C. the combination
+
+can be considered as one cell of emf Em and an internal resistance rm.
+
+Consider ﬁrst two cells in series (Fig. 3.20), where one terminal of the
+two cells is joined together leaving the other terminal in either cell free.
+81, 82 are the emfs of the two cells and r1, r2 their internal resistances,
+respectively.
+
+Let V(A), V(B), V(C) be the potentials at points A, B and C shown in
+Fig. 3.20. Then V(A) — V(B) is the potential difference between the positive
+and negative terminals of the ﬁrst cell. We have already calculated it in
+Eq. (3.57) and hence,
+
+VAB E V(A)— V(B): £1 — Ir1 (3.60)
+Similarly,
+VBCEV(B)—V(C)=.92—Ir2 (3.61)
+
+Hence, the potential difference between the terminals A and C of the
+combination is
+
+VAC 5 V(A)— V(C): V(A) — V(B) + V(B)— V(C)
+
+=(.91+.92)—I(r1 +r2) (3.62)
+
+2019-20
+
+Q's EI’IJMIVXH
+
+113

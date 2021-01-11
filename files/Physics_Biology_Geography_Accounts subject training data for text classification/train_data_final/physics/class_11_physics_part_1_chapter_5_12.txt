@@ -1,0 +1,126 @@
+LAWS OF MOTION
+
+lOl
+
+ 
+
+since we are talking of uncharged and non-
+magnetic bodies in mechanics. At the microscopic
+level, all bodies are made of charged constituents
+(nuclei and electrons) and the various contact
+forces arising due to elasticity of bodies, molecular
+collisions and impacts, etc. can ultimately be
+traced to the electrical forces between the charged
+constituents of different bodies. The detailed
+microscopic origin of these forces is, however,
+complex and not useful for handling problems in
+mechanics at the macroscopic scale. This is why
+they are treated as different types of forces with
+their characteristic properties determined
+empirically.
+
+5.9. 1 Friction
+
+Let us return to the example of a body of mass m
+at rest on a horizontal table. The force of gravity
+(mg) is cancelled by the normal reaction force
+(N) of the table. Now suppose a force Fis applied
+horizontally to the body. We know from
+experience that a small applied force may not
+be enough to move the body. But if the applied
+force Fwere the only external force on the body,
+it must move with acceleration F/ m, however
+small. Clearly, the body remains at rest because
+some other force comes into play in the
+horizontal direction and opposes the applied
+force F, resulting in zero net force on the body.
+This force fS parallel to the surface of the body in
+contact with the table is known as frictional
+force, or simply friction (Fig. 5.10(a)). The
+subscript stands for static friction to distinguish
+it from kinetic friction fk that we consider later
+(Fig. 5.10(b)). Note that static friction does not
+
+ 
+
+(a) (b)
+
+Fig. 5.10 Static and sliding friction: (a) Impending
+motion of the body is opposed by static
+friction. When external force exceeds the
+maximum limit of static friction, the body
+begins to move. (b) Once the body is in
+motion, it is subject to sliding or kinetic friction
+which opposes relative motion between the
+two surfaces in contact. Kinetic friction is
+usually less than the maximum value of static
+
+friction.
+
+exist by itself. When there is no applied force,
+there is no static friction. It comes into play the
+moment there is an applied force. As the applied
+force F increases, fS also increases, remaining
+equal and opposite to the applied force (up to a
+certain limit), keeping the body at rest. Hence, it
+is called static friction. Static friction opposes
+impending motion. The term impending motion
+means motion that would take place (but does
+not actually take place) under the applied force,
+if friction were absent.
+
+We know from experience that as the applied
+force exceeds a certain limit, the body begins to
+
+move. It is found experimentally that the limiting
+
+value of static friction (f5 )max is independent of
+
+the area of contact and varies with the normal
+force (N) approximately as :
+
+(fs )m = MN (513)
+
+where us is a constant of proportionality
+depending only on the nature of the surfaces in
+contact. The constant [.15 is called the coefficient
+of static friction. The law of static friction may
+thus be written as
+
+fs 3 [.15 N (5.14)
+
+If the applied force F exceeds (f5 )max the body
+
+begins to slide on the surface. It is found
+experimentally that when relative motion has
+started, the frictional force decreases from the
+
+static maximum value (fs )max . Frictional force
+
+that opposes relative motion between surfaces
+in contact is called kinetic or sliding friction and
+is denoted by fk . Kinetic friction, like static
+friction, is found to be independent of the area
+of contact. Further, it is nearly independent of
+the velocity. It satisfies a law similar to that for
+static friction:
+
+fk 2 #kN (5.15)
+
+where pk the coefficient of kinetic friction,
+depends only on the surfaces in contact. As
+mentioned above, experiments show that pk is
+less than [.15. When relative motion has begun,
+the acceleration of the body according to the
+second law is ( F —fk )/ m. For a body moving with
+constant velocity, F =fk. If the applied force on
+the body is removed, its acceleration is — fk / m
+and it eventually comes to a stop.
+
+The laws of friction given above do not have
+the status of fundamental laws like those for
+gravitational, electric and magnetic forces. They
+
+are empirical relations that are only
+
+2019-20

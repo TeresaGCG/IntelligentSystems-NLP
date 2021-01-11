@@ -1,0 +1,70 @@
+18 Chapter 1 Computer Abstractions and Technology
+Through the Looking Glass
+Through compl/ter displays
+1have landed an airplane on
+The most fascinating I/O device is probably the graphics display. Based on televi 
+the deck ofa moving carrier,
+sion technology, a cathode ray tube (CRT) display scans an image one line at a
+observed a fluclear particle
+time, 30 to 75 times per second. At this refresh rate, people don't notice a flicker on
+hit a potential well, j10wn in
+the screen.
+a rocket at nearly the speed
+The image is composed of a matrix of picture elements, or pixels, which can be
+oflight and watched a com 
+represented as a matrix of bits, called a bit map. Depending on the size of the
+puter reveal its innermost
+screen and the resolution, the display m atrix ranges in size from 512 X 340 to
+workings.
+1920 X 1280 pixels in 2003. The simplest display has I bit per pixel, allowing it to
+Ivan Sutherland, the "father"
+be black or white. For displays that support 256 different shades of black and
+of computer graphics, quoted
+white, sometimes called gray-scale displays, 8 bits per pixel are required. A color
+in "Computer Software for
+display might use 8 bits for each of the three colo rs (red, blue, and green), for
+Graphics:' Scientific American,
+24 bits per pixel, permitting millions of different colors to be displayed.
+1984
+All laptop and handheld computers, calculators, cellular phones, and many
+desktop com puters use flat-panel or liquid crystal displays (LCDs) instead of
+CRTs to get a thin, low-power display. The main difference is that the LCD pixel is
+cathode ray tube (CRT)
+display A display, such as a not the source of light; instead it controls the transmission of light. A typical LCD
+television set, that displays an
+includes rod-shaped molecules in a liquid that fo rm a twisting helix that bends
+image using an electron beam
+light entering the display, from either a light source behind the display o r less
+scanned across a screen.
+often from reflected light. The rods straighten out when a current is applied and
+pixel The smallest individual no longer bend the light; since the liquid crystal m aterial is between two screens
+picnlrc element. Screen are polarized at 90 degrees, the light cannot pass through unless it is bent. Today,
+composed ofhundreds ofthou 
+most LCD displays use an active matrix that has a tiny transistor switch at each
+sands to millions ofpixels, orga 
+pixel to precisely control current and make sharper images. As in a CRT, a red 
+nized in a matrix.
+green-blue mask associated with each pixel determines the intensity of the three
+flat panel display, liquid uys  colo r components in the final image; in a color active matrix LCD, there are three
+tal display A display technol 
+transistor switches at each pixel.
+ogy using a thin layer ofliquid
+No matter what the display, the computer hardware support for graphics con 
+polymers that can be used to
+sists mainly of a raster refresh buffer, or frame buffer, to store the bit map. The
+transmit or block light accord 
+image to be represented on-screen is sto red in the frame buffer, and the bit pattern
+ingto whether a charge is
+applied. per pixel is read out to the graphics display at the refresh rate. Figure 1.7 shows a
+frame buffer with 4 bits per pixel.
+active matrix display Aliquid
+The goal of the bit map is to faithfully represent what is on the screen. The
+crystal display using a transistor
+challenges in graphics systems arise because the human eye is very good at
+to control the transmission of
+light at each individual pixel. detecting even subtle changes on the screen. For example, when the screen is being
+updated, the eye can detect the inconsistency between the portion of the screen
+that has changed and that which hasn't.
+Opening the Box
+If we open the box containing the computer, we see a fascinating board of thin
+green plastic, covered with dozens of small gray or black rectangles. Figure 1.8

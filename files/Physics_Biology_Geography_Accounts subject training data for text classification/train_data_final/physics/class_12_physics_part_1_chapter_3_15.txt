@@ -1,0 +1,65 @@
+108
+
+ 
+
+ 
+
+i Physics
+
+Consider two resistors R1 and R2 in series. The charge which leaves R1
+must be entering R2. Since current measures the rate of ﬂow of charge,
+this means that the same current I ﬂows through R1 and R2. By Ohm’s law:
+
+Potential difference across R1 = V1 = I R1, and
+
+Potential difference across R2 = V2 = I R2.
+The potential difference Vacross the combination is V1+V2. Hence,
+V= V1+ V2 = 1(R1 + R2) (3.36)
+
+This is as if the combination had an equivalent resistance Reg, which
+by Ohm’s law is
+
+Req a; = (R1 + R2) (3.37)
+
+If we had three resistors connected in series, then similarly
+
+V=IR1 +IR2+IR3=I(R1+ R2+ R3). (3.38)
+
+This obviously can be extended to a series combination of any number
+n of resistors R1, R2 ..... , Rn. The equivalent resistance Req is
+
+Req=R1+R2+...+R11 (3.39)
+
+Consider now the parallel combination of two resistors (Fig. 3.15).
+The charge that ﬂows in at A from the left ﬂows out partly through R1
+and partly through R2. The currents I, 11, I2 shown in the figure are the
+rates of ﬂow of charge at the points indicated. Hence,
+
+I: 11 + 12 (3.40)
+
+The potential difference between A and B is given by the Ohm’s law
+applied to R1
+
+V: 11 R1 (3.41)
+Also, Ohm’s law applied to R2 gives
+V: I2 R2 (3.42)
+I — 11 + I2 — R1 R2 R1 R2 (3.43)
+
+If the combination was replaced by an equivalent resistance Req, we
+would have, by Ohm’s law
+
+PL
+
+—Req (3.44)
+Hence,
+
+;_i+i
+
+Reg R1 R2 (3.45)
+
+We can easily see how this extends to three resistors in parallel
+(Fig. 3.16).
+
+FIGURE 3.16 Parallel combination of three resistors RI. R2 and R3.
+
+2019-20

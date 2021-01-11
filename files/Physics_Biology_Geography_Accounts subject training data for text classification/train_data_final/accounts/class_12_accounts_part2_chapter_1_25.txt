@@ -1,0 +1,48 @@
+2 6 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Solution
+
+Books of Janta Papers Limited
+Journal
+
+First Alternative
+
+January 0 1 Bank A/c Dr. 20,00,000
+To Equity Share Application A/c 20,00,000
+
+(Money received on applications for 4,00,000
+shares @ Rs. 5 per share)
+
+Equity Share Application A/c . 20,00,000
+To Equity Share Capital A/c 5,00,000
+To Bank A/c 15,00,000
+(Transfer of application money on 1,00,000
+shares to share capital and money refunded
+on rejected applications)
+Equity Share Alloiinent A/c Dr. 7,50,000
+To Equity Share Capital A/c 7,50,000
+(Amount due on the allotment of 1,00,000
+shares @ Rs 7.50 per share)
+Bank A/c . 7.50.000
+To Equity Share Alloiinent A/c 7,50,000
+(Allotment money received)
+
+Equity Share First Call A/c Dr. 750,000
+To Equity Share Capital A/c 7,50,000
+
+(First call money due on 1,00,000 shares @
+Rs. 7.50 per share)
+
+Bank A/c .
+To Equity Share First Call A/c 7,50,000
+(First call money received)
+
+Equity Share Second and Final Call A/c Dr. 5,00,000
+To Equity Share Capital A/c 5.00.000
+
+(Final Call money due on 1,00,000 shares
+@ Rs. 5 per share)
+
+Bank A/c Dr. 5.00.000
+To Equity Share Second and Final Call A/ 5,00,000
+(Final call money received)

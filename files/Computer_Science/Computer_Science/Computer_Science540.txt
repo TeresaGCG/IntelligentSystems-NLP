@@ -1,0 +1,43 @@
+524 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+faults. As a result, many systems provide some support fo r randomly choosing an
+entry to replace. We'll examine replacement schemes in a little more detail in
+Section 7.5.
+The Intrinsity FastMATH TLB
+To see these ideas in a real processor, let's take a closer look at the TLB of the
+Intrinsity FastMATH. The memory system uses 4 KB pages and a 32-bit address
+space; thus, the virnlal page number is 20 bits long, as in the top of Figure 7.24.
+The physical address is the same size as the virtual address. The TLB contains 16
+entries, is fully associative, and is shared between the instruction and data refer 
+ences. Each entry is 64 bits wide and contains a 20-bit tag (which is the virtual
+page number fo r that TLB entry), the corresponding physical page number (also
+20 bits), a valid bit, a dirty bit, and other bookkeeping bits.
+Figure 7.24 shows the TLB and one of the caches, while Figure 7.25 shows the
+steps in processing a read or write request. \-Vhen a TLB miss occurs, the MIPS
+hardware saves the page number of the reference in a special register and generates
+an exception. The exception invokes the operating system, which handles the miss
+in software. To find the physical address for the missing page, the TLB miss rou 
+tine indexes the page table using the page number of the virtual address and the
+page table register, which indicates the starting address of the active process page
+table. Using a special set of system instructions that can update the TLB, the oper 
+ating system places the physical address from the page table into the TLB. A TLB
+miss takes about 13 clock cycles, assuming the code and the page table entry are in
+the instruction cache and data cache, respectively. (We will see the MIPS TLB
+code on page 534) A true page fault occurs if the page table entry does not have a
+valid physical address. The hardware maintains an index that indicates the recom 
+mended entry to replace; the recommended entry is chosen randomly.
+There is an extra complication for write requests: namely, the write access bit in
+the TLB must be checked. This bit prevents the program from writing into pages
+for which it has only read access. If the program attem pts a write and the write
+access bit is off, an exception is generated. The write access bit forms pa rt of the
+protection mechanism, which we discuss shortly.
+Integrating Virtual Memory, TLBs, and Caches
+Our virtual memory and cache systems work together as a hierarchy, so that data
+cannot be in the cache unless it is present in main memory. The operating system
+plays an important role in maintaining this hierarchy by flushing the contents of
+any page from the cache, when it decides to migrate that page to disk. At the same
+as
+time, the modifies the page tables and TLB, so that an attempt to access any
+data on the page will generate a page fault.
+Under the best of circumstances, a virtual address is translated by the TLB and
+sent to the cache where the appropriate data is found, retrieved, and sent back to
+the processor. In the worst case, a reference can miss in all three components of

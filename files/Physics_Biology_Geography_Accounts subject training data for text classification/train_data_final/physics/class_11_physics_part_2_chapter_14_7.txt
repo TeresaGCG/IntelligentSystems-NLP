@@ -1,0 +1,103 @@
+348
+
+PHYSICS
+
+(b) In this case at t= 0, OP makes an angle of
+
+900 = 1 with the x—aXis. After a time t, it
+2
+
+covers an angle of at in the clockwise
+T
+
+sense and makes an angle of (g — 2%t)
+
+with the x—axis. The projection of OP on the
+x—axis at time t is given by
+
+x(t) =Bcos (2—2115)
+
+2 T
+= Bsin (zit)
+T
+For T=3O s,
+x(t) =Bsin (1 t)
+15
+
+Writing this as x (t) = B cos (ﬁt — g] , and
+
+comparing with Eq. (14.4). We find that this
+
+represents a SHM of amplitude B, period 30 s,
+
+and an initial phase of —g. 4
+
+14.5 VELOCITY AND ACCELERATION IN
+SIMPLE HARMONIC MOTION
+
+The speed of a particle v in uniform circular
+motion is its angular speed (0 times the radius
+of the circle A.
+
+v= (0A (14.8)
+
+The direction of velocity 9 at a time t is along
+
+the tangent to the circle at the point where the
+particle is located at that instant. From the
+geometry of Fig. 14. 1 1, it is clear that the velocity
+of the projection particle P’ at time t is
+
+v(t) = —wA sin (wt + (p) (14.9)
+
+ 
+
+Fig. 1 4.1 1 The velocity, v (t), of the particle P’ is the
+
+projection of the velocity 6 of the
+reference particle, P.
+
+2019-20
+
+where the negative sign shows that v (t) has a
+direction opposite to the positive direction of
+x—axis. Eq. (14.9) gives the instantaneous
+velocity of a particle executing SHM, where
+displacement is given by Eq. (14.4). We can, of
+course, obtain this equation without using
+geometrical argument, directly by differentiating
+(Eq. 14.4) with respect of t:
+
+v(t)=%x(t) (14.10)
+The method of reference circle can be similarly
+used for obtaining instantaneous acceleration
+of a particle undergoing SHM. We know that the
+centripetal acceleration of a particle P in uniform
+circular motion has a magnitude v2/A or cozA,
+and it is directed towards the centre i.e., the
+direction is along P0. The instantaneous
+acceleration of the projection particle P’ is then
+(See Fig. 14.12)
+
+a (t) = —a)2A cos (wt + (1))
+= —a)2x(t) (14.11)
+
+ 
+
+Fig. 1 4. 1 2 The acceleration, a(t), of the particle P’is
+the projection of the acceleration a of the
+reference particle P.
+
+Eq. (14.1 1) gives the acceleration of a particle
+in SHM. The same equation can again be
+obtained directly by differentiating velocity v(t)
+given by Eq. (14.9) with respect to time:
+
+d
+=_ (14.12)
+a(t) dt v(t)
+
+We note from Eq. (14.1 1) the important
+property that acceleration of a particle in SHM
+is proportional to displacement. For X(t) > O,
+a(t) < 0 and for x(t) < O, a(t) > O. Thus,whatever

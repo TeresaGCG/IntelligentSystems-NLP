@@ -1,0 +1,67 @@
+i Physics
+
+ 
+
+The derivation of Eqs. (12.1 7) — (12.19) involves the assumption that
+the electronic orbits are circular, though orbits under inverse square
+force are, in general elliptical. (Planets move in elliptical orbits under the
+inverse square gravitational force of the sun.) However, it was shown by
+the German physicist Arnold Sommerfeld (1868 — 195 1) that, when the
+restriction of circular orbit is relaxed, these equations continue to hold
+even for elliptic orbits.
+
+ORBIT VS STATE (ORBITAL PICTURE) OF ELECTRON IN ATOM
+
+We are introduced to the Bohr Model of atom one time or the other in the course of
+physics. This model has its place in the history of quantum mechanics and particularly
+in explaining the structure of an atom. It has become a milestone since Bohr introduced
+the revolutionary idea of definite energy orbits for the electrons, contrary to the classical
+picture requiring an accelerating particle to radiate. Bohr also introduced the idea of
+quantisation of angular momentum of electrons moving in definite orbits. Thus it was a
+semi-classical picture of the structure of atom.
+
+Now with the development of quantum mechanics, we have a better understanding
+of the structure of atom. Solutions of the Schrodinger wave equation assign a wave-like
+description to the electrons bound in an atom due to attractive forces of the protons.
+
+An orbit of the electron in the Bohr model is the circular path of motion of an electron
+around the nucleus. But according to quantum mechanics, we cannot associate a deﬁnite
+path with the motion of the electrons in an atom. We can only talk about the probability
+of finding an electron in a certain region of space around the nucleus. This probability
+can be inferred from the one-electron wave function called the orbital. This function
+depends only on the coordinates of the electron.
+
+It is therefore essential that we understand the subtle differences that em'st in the two
+models:
+
+0 Bohr model is valid for only one-electron atoms / ions; an energy value, assigned to
+each orbit, depends on the principal quantum number n in this model. We know
+that energy associated with a stationary state of an electron depends on n only, for
+one-electron atoms / ions. For a multi-electron atom / ion, this is not true.
+
+0 The solution of the Schrodinger wave equation, obtained for hydrogen-like atoms /
+ions, called the wave function, gives information about the probability of ﬁnding an
+electron in various regions around the nucleus. This orbital has no resemblance
+whatsoever with the orbit defined for an electron in the Bohr model.
+
+Example 12.5 A 10 kg satellite circles earth once every 2 h in an
+orbit having a radius of 8000 km. Assuming that Bohr’s angular
+momentum postulate applies to satellites just as it does to an electron
+
+From Eq. (12.13), we have
+m u" rn = nh/21t
+
+In
+
+N’ in the hydrogen atom, find the quantum number of the orbit of the
+"‘ satellite.
+
+3
+
+5 Solution
+
+It}
+
+426
+
+2019-20

@@ -1,0 +1,37 @@
+198 Chapter 3 Arithmetic: for Computers
+shifting to the right, but if one number were positive and the other were
+negative, it would be possible for the sum to have many leading Os, requir 
+ing left shifts. Whenever the exponent is increased or decreased, we must
+check for overflow or underflow-that is, we must make sure that the ex 
+ponent still fits in its field.
+Step 4. Since we assumed that the significa nd can be only four digits long (exclud 
+ing the sign), we must round the number. In our grammar school algo 
+rithm, the rules tnmcate the number if the digit to the right ofthe desired
+point is between 0 and 4 and add I to the digit if the number to the right
+is between 5 and 9. The number
+2
+1.00 15,<'n X 10
+is rounded to four digits in the significand to
+2
+1.002 X 10
+ten
+since the fourth digit to the right of the decimal point was between Sand
+9. Notice that ifwe have bad luck on rounding, such as adding I to a string
+of 9s, the sum may no longer be normalized and we would need to per 
+form step 3 again.
+Figure 3.1 6 shows the algorithm for binary floating-point addition that follows
+this decimal example. Steps I and 2 are similar to the exa mple just
+discussed: adjust the significand of the number with the smaller exponent and
+then add the two significands. Step 3 normalizes the results, forcing a check for
+overflow or underflow. The test for overflow and underflow in step 3 depends on
+the precision of the operands. Recall that the pattern of all zero bits in the expo 
+nent is reserved and used for the floating-point representation of zero. Also, the
+pattern of all one bits in the exponent is reserved for indicating values and situa 
+tions outside the scope of normal floating-point numbers (see the Elaboration on
+page 2 17). Thus, for single precision, the maximum exponent is 127, and the min 
+imum exponent is - 126. The limits for double precision are 1023 and - 1022.
+Decimal Floating-Point Addition
+Try adding the numbers O.Sten and -0.437S in binary using the algorithm
+ten
+EXAMPLE
+in Figure 3.16.

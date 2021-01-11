@@ -1,0 +1,50 @@
+3.6 Floating Point 197
+Elaboration: In an attempt to increase range without removing bits from the signifi 
+cand, some computers before the IEEE 754 standard used a base other than 2. For
+example, the IBM 360 and 370 mainframe computers use base 16. Since changing the
+IBM exponent by one means shifting the significand by 4 bits, "normalized" base 16
+numbers can have up to 3 leading bits of Os! Hence, hexadecimal digits mean that up
+to 3 bits must be dropped from the significand, which leads to surprising problems in
+the accuracy of floating-point arithmetic, as noted in Section .
+Roating·Point Addition
+Let's add numbers in scientific notation by hand to illustrate the problem s in
+1
++
+floating-point addition: 9.999 X WI 1.61O X 10- . Assume that we can store
+ten ten
+only four decimal digits of the significand and two decimal digits of the exponent.
+Step 1. To be able to add these numbers properly, we must align the decimal
+point of the number that has the smaller exponent. Hence, we need a fo rm
+1
+of the smaller number, 1.6lO X 10- , that matches the larger exponent.
+ten
+We obtain this by observing that there are multiple representations of an
+unnormalized floating-point number in scientific notation:
+1
+1.6 1O X 10- = 0.1 61O X 10° = 0.0 16 10 X WI
+ten ten ten
+The number on the right is the version we desire, since its exponent
+matches the exponent of the larger number, 9.999 X WI. Thus the first
+ten
+step shifts the significand of the smaller number to the right until its cor 
+rected exponent matches that of the larger number. But we can represent
+only four decimal digits so, after shifting, the number is really:
+I
+0.0 16 X 10
+ten
+Step 2. Next comes the addition of the significands:
+9.999
+ten
++
+0.0 16
+ten
+1O.0 15
+ten
+The sum is 10.0 15 X WI.
+ten
+Step 3. This sum is not in normalized scientific notation, so we need to adjust it:
+I 2
+10.0 15 X 10 = 1.00 15 X 10
+ten ten
+Thus, after the addition we may have to shift the sum to put it into nor 
+malized fo rm, adjusting the exponent appropriately. This example shows

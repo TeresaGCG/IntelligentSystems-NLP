@@ -1,0 +1,34 @@
+506 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+The effective CPI with one level of caching is given by
++
+Total CPI = Base CPI Memory-stall cycles per instruction
+For the processor with one level of caching,
++ +
+Total CPI = 1.0 Memory-stall cycles per instruction = 1.0 2% x 500 = 11.0
+With two levels of cache, a miss in the primary (or first-level) cache can be
+satisfied either by the secondary cache or by main memory. The miss penalty
+for an access to the second-level cache is
+5 ns
+25 clock cycles
+0.2
+ns
+dock cyd~
+If the miss is satisfied in the secondary cache, then this is the entire miss penal 
+ty. If the miss needs to go to main memory, then the total miss penalty is the
+sum of the secondary cache access time and the main memory access time.
+Thus, for a two-level cache, total CPI is the sum of the stall cycles from both
+levels of cache and the base CPI:
++
+Total CPI = 1 Primary stalls per instruction
++
+Secondary stalls per instruction
++ + + +
+= 1 2% x 25 0.5% x 500 = 1 0.5 2.5 = 4.0
+Thus, the processor with the secondary cache is faster by
+11.0 = 2.8
+4.0
+Alternatively, we could have computed the stall cycles by summing the stall cycles
+of those references that hit in the secondary cache ((2% - 0.5%) x 25 = 0.4) and
+those references that go to main memory, which must include the cost to access
+the seconda ry cache as well as the main memory access time (0.5% x (25 + 500) =
+2.6). The sum, 1.0 + 0.4 + 2.6, is again 4.0.

@@ -1,0 +1,25 @@
+Decimals
+87
+If the denominator of the fraction being converted is not a power of
+10, then converting from a fraction to a decimal number involves expand-
+ing on our method of division. In Chapter 1 we discussed long division
+and the concept of a remainder. The remainder was the number “left
+over” when the divisor did not divide evenly into the dividend. With
+decimal numbers, division doesn’t stop with a remainder, it keeps going,
+and going, and going, until a pattern is discovered. Remember that all
+rational numbers have a decimal representation that either terminates
+or establishes a pattern. Converting a fraction to a decimal number
+involves long division until you reach the point of finding the remain-
+der. At this point, instead of stopping, you insert a decimal point and a 0
+to the right of the decimal point and continue with the long division pro-
+cess. The decimal point serves to divide the integral part and the frac-
+tional part.
+Example 3
+Convert  to a decimal number.
+Solution:
+If we were writing   as a mixed number, we would have stopped
+when the result of the subtraction was 17, and our answer would have
+been . Because we were converting   to a decimal number, we had
+to keep going until the division process terminated with a remainder of 0,
+or until a pattern was established. In this case the division process termi-
+nated with a remainder of 0.

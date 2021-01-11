@@ -1,0 +1,81 @@
+Magnetism and
+Moﬁer
+
+The individual atoms (or ions or molecules) of a paramagnetic material
+possess a permanent magnetic dipole moment of their own. On account
+of the ceaseless random thermal motion of the atoms, no net magnetisation
+is seen. In the presence of an external field BO, which is strong enough,
+and at low temperatures, the individual atomic dipole moment can be
+made to align and point in the same direction as BO. Figure 5.12(b) shows
+a bar of paramagnetic material placed in an external ﬁeld. The ﬁeld lines
+gets concentrated inside the material, and the ﬁeld inside is enhanced. In
+most cases, as is evident from Table 5.2, this enhancement is slight, being
+one part in 105. When placed in a non-uniform magnetic ﬁeld, the bar
+will tend to move from weak ﬁeld to strong.
+
+Some paramagnetic materials are aluminium, sodium, calcium,
+oxygen (at STP) and copper chloride. Experimentally, one ﬁnds that the
+magnetisation of a paramagnetic material is inversely proportional to the
+absolute temperature T,
+
+BO
+M_c7: w2mw
+
+or equivalently, using Eqs. (5.12) and (5.17)
+
+__&
+z _ C T [5.20031]
+
+This is known as Curie ’3 law, after its discoverer Pieree Curie (1859-
+1906). The constant C is called Curie ’s constant. Thus, for a paramagnetic
+material both x and ,ur depend not only on the material, but also
+(in a simple fashion) on the sample temperature. As the field is
+increased or the temperature is lowered, the magnetisation increases until
+it reaches the saturation value Ms, at which point all the dipoles are
+perfectly aligned with the ﬁeld. Beyond this, Curie’s law [Eq. (5.20)] is no
+longer valid.
+
+5.6.3 Ferromagnetism
+
+Ferromagnetic substances are those which gets strongly magnetised when
+placed in an external magnetic ﬁeld. They have strong tendency to move
+from a region of weak magnetic ﬁeld to strong magnetic ﬁeld, i.e., they get
+strongly attracted to a magnet.
+
+The individual atoms (or ions or molecules) in a ferromagnetic material
+possess a dipole moment as in a paramagnetic material. However, they
+interact with one another in such a way that they spontaneously align
+themselves in a common direction over a macroscopic volume called
+domain. The explanation of this cooperative effect requires quantum
+mechanics and is beyond the scope of this textbook. Each domain has a
+net magnetisation. Typical domain size is 1mm and the domain contains
+about 1011 atoms. In the ﬁrst instant, the magnetisation varies randomly
+from domain to domain and there is no bulk magnetisation. This is shown
+in Fig. 5. 13(a). When we apply an external magnetic ﬁeld BO, the domains
+orient themselves in the direction of B0 and simultaneously the domain
+oriented in the direction of B0 grow in size. This existence of domains and
+their motion in B0 are not speculations. One may observe this under a
+microscope after sprinkling a liquid suspension of powdered
+
+2019-20
+
+B
+
+'u
+‘0
+
+$319 'uiewop 'smnamw spouse“
+
+uuq'5pumppauBPW/sois/tqd/alonmdﬁew
+
+/989| log/(1w nuILuoD/saomosoau o! iconpg/BJO'pa-apu 'MMM/ﬂdllt]
+
+ 
+
+FIGURE 5. 13
+
+(a) Randomly
+oriented domains.
+(b) Aligned domains.
+
+193

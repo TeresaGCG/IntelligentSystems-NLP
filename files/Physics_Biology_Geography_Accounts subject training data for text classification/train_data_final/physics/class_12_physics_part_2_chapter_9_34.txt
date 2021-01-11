@@ -1,0 +1,62 @@
+Roy Optics and
+Optical Instruments
+
+ 
+
+m = me x m0 where me = 1 + [D/fe], is the magnification due to the
+eyepiece and mo is the magnification produced by the objective.
+
+Approximately,
+L D
+
+m = — >< —
+f o f e
+
+where f0 and fe are the focal lengths of the objective and eyepiece,
+respectively, and L is the distance between their focal points.
+
+Magnifying power m of a telescope is the ratio of the angle [3 subtended
+at the eye by the image to the angle a subtended at the eye by the
+object.
+
+m = _ﬂ = L
+a fe
+where f0 and fe are the focal lengths of the objective and eyepiece,
+respectively.
+
+POINTS TO PONDER
+
+The laws of reﬂection and refraction are true for all surfaces and
+pairs of media at the point of the incidence.
+
+The real image of an object placed between f and 2 f from a convex lens
+can be seen on a screen placed at the image location. If the screen is
+removed, is the image still there? This question puzzles many, because
+it is difficult to reconcile ourselves with an image suspended in air
+without a screen. But the image does exist. Rays from a given point
+on the object are converging to an image point in space and diverging
+away. The screen simply diffuses these rays, some of which reach our
+eye and we see the image. This can be seen by the images formed in
+air during a laser show.
+
+Image formation needs regular reﬂection/ refraction. In principle, all
+rays from a given point should reach the same image point. This is
+why you do not see your image by an irregular reﬂecting object, say
+the page of a book.
+
+Thick lenses give coloured images due to dispersion. The variety in
+colour of objects we see around us is due to the constituent colours
+of the light incident on them. A monochromatic light may produce an
+entirely different perception about the colours on an object as seen in
+white light.
+
+For a simple microscope, the angular size of the object equals the
+angular size of the image. Yet it offers magnification because we can
+keep the small object much closer to the eye than 25 cm and hence
+have it subtend a large angle. The image is at 25 cm which we can see.
+Without the microscope, you would need to keep the small object at
+25 cm which would subtend a very small angle.
+
+2019-20
+
+343

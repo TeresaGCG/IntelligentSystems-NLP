@@ -1,0 +1,41 @@
+576 Chapter 8
+Data disks Check disks
+RAIDO u u u u
+(No redundancy)
+Widely used
+RAID 1 U U U U U U U U
+(Mirroring)
+EMC, HP(Tandem), IBM
+RAID 2 U U U U U U U
+(Error correction ccx:le)
+Unused
+RAID3 U U U U U
+(Bit-interleaved parity)
+Storage Concepts
+RAID4 U U U U U
+(Block-interleaving parity)
+Network Appliance
+RAID S U U U U U
+(Distributed block 
+interleaved parity)
+Widely used
+RAID6 U U U U U U
+(P + Q redundancy )
+Rarely used
+FIGURE 8.6 RAID for an example of four data disks showing extra cheek disks per RAID
+level and companies that use each level. Figures 8.7 and 8.8 explain the difference between RAID
+3, RAID 4, and RAID 5.
+Bit-Interleaved Parity (RAID 3)
+The cost of higher availability can be reduced to 1/N, where N is the number of
+protection group The group disks in a protection group. Rather than have a complete copy of the original data
+of data disks or blocks that share for each disk, we need only add enough redundant information to restore the lost
+a common check disk or block.
+information on a failure. Reads or writes go to all disks in the group, with one
+extra disk to hold the check information in case there is a fa ilure. RAID 3 is popu 
+lar in applications with large data sets, such as multimedia and some scientific
+codes.
+Parity is one such scheme. Readers unfamiliar with parity can think of the
+redundant disk as having the sum of all the data in the other disks. When a disk
+fails, then you subtract all the data in the good disks from the parity disk; the
+remaining information must be the missing information. Parity is simply the sum
+modulo two.

@@ -1,0 +1,13 @@
+6.14 Exercises 463
+§6. !, page 384: 1. Stall on the LW result. 2. Bypass the ADD result. 3. No stall or Answers to
+bypass required. Check Yourself
+§6.2, page 399: Statements 2 and 5 are correct; the rest are incorrect.
+§6.6, page 426: 1. Predict not taken. 2. Predict taken. 3. Dynamic prediction.
+§6.7, " page 6.7-3: Statements ! and 3 are both true.
+§6.7, " page 6.7-7: Only statement #3 is completely accurate.
+§6.8, page 432: Only #4 is totally accurate. #2 is partially accurate.
+§6.9, page 447: Speculation: both; reorder buffer: hardwa re; register renaming:
+both; out-of-order execution: hardware; predication: software; branch prediction:
+both; VLIW: software; superscalar: hardware; EPIC: both, since there is substantial
+hardware support; multiple issue: both; dynamic scheduling: hardware.
+§6. !0, page 450: All the statements are false.

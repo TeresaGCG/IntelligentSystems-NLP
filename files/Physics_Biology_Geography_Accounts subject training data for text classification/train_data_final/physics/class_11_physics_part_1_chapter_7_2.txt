@@ -1,0 +1,76 @@
+SYSTEMS OF PARTICLES AND ROTA’I‘IONAL MOTION
+
+143
+
+ 
+
+  
+ 
+
+Fig. 7.4 A rigid body rotation about the z—axis (Each
+point of the body such as P1 or
+P2 describes a circle with its centre (C 1
+
+or C2) on the axis of rotation. The radius of
+
+the circle (rlor r2) is the perpendicular
+distance of the point (P1 or P2) from the
+axis. A point on the axis like P3 remains
+stationary).
+
+every particle of the body moves in a circle,
+which lies in a plane perpendicular to the axis
+and has its centre on the axis. Fig. 7 .4 shows
+the rotational motion of a rigid body about a fixed
+axis (the z—axis of the frame of reference). Let P1
+be a particle of the rigid body, arbitrarily chosen
+and at a distance r1 from fixed axis. The particle
+P1 describes a circle of radius r1 with its centre
+C1 on the fixed axis. The circle lies in a plane
+perpendicular to the axis. The figure also shows
+another particle P2 of the rigid body, P2 is at a
+distance r2 from the fixed axis. The particle P2
+moves in a circle of radius r2 and with centre C2
+on the axis. This circle, too, lies in a plane
+perpendicular to the axis. Note that the circles
+described by P1 and P2 may lie in different planes;
+both these planes, however, are perpendicular
+to the fixed axis. For any particle on the axis
+like P3, r = 0. Any such particle remains
+stationary while the body rotates. This is
+expected since the axis of rotation is fixed.
+
+Fig. 7.5 (a) A spinning top
+(The point of contact of the top with the
+ground, its tip 0, is ﬁxed.)
+
+Axis of oscillation
+
+ 
+
+Fig. 7.5 (b) An oscillating table fan with rotating
+blades. The pivot of the fan, point 0, is
+ﬁxed. The blades of the fan are under
+rotational motion, whereas, the axis of
+
+rotation of the fan blades is oscillating.
+
+In some examples of rotation, however, the
+axis may not be fixed. A prominent example of
+this kind of rotation is a top spinning in place
+[Fig. 7.5(a)]. (We assume that the top does not
+slip from place to place and so does not have
+translational motion.) We know from experience
+that the axis of such a spinning top moves
+around the vertical through its point of contact
+with the ground, sweeping out a cone as shown
+in Fig. 7 .5(a). (This movement of the axis of the
+top around the vertical is termed precession.)
+Note, the point of contact of the top with
+ground is fixed. The axis of rotation of the top
+at any instant passes through the point of
+contact. Another simple example of this kind of
+rotation is the oscillating table fan or a pedestal
+fan [Fig.7 .5(b)]. You may have observed that the
+
+2019-20

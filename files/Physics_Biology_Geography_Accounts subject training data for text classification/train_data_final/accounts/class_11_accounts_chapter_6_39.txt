@@ -1,0 +1,97 @@
+Trial Balance and Rectification of Errors 219
+
+10. Rectify the following errors:
+
+(a)
+(b)
+(C)
+(d)
+(C)
+
+Credit sales to Mohan ? 7,000 were posted to Karan.
+
+Credit purchases from Rohan ? 9,000 were posted to Gobind.
+Goods returned to Rakesh ? 4,000 were posted to Naresh.
+Goods returned from Mahesh ? 1,000 were posted to Manish.
+Cash sales ? 2,000 were posted to commission account.
+
+1 1. Rectify the following errors assuming that a suspense account was opened.
+Ascertain the difference in trial balance.
+
+(a)
+(b)
+
+(C)
+(d)
+
+(C)
+
+Credit sales to Mohan ? 7,000 were posted to the credit of his account.
+
+Credit purchases from Rohan ? 9,000 were posted to the debit of his
+account as ? 6,000.
+
+Goods returned to Rakesh ? 4,000 were posted to the credit of his
+account.
+
+Goods returned from Mahesh ? 1,000 were posted to the debit of his
+account as ? 2,000.
+
+Cash sales ? 2,000 were posted to the debit of sales account as ? 5,000.
+
+(Ans: Difference in trial balance ? 3,000 excess debit).
+
+12. Rectify the following errors assuming that a suspense account was opened.
+Ascertain the difference in trial balance.
+
+(a)
+(b)
+
+(C)
+(d)
+
+(6)
+
+Credit sales to Mohan ? 7,000 were posted to Karan as ? 5,000.
+
+Credit purchases from Rohan ? 9,000 were posted to the debit of Gobind
+as ? 10,000.
+
+Goods returned to Rakesh ? 4,000 were posted to the credit of Naresh
+as ? 3,000.
+
+Goods returned from Mahesh ? 1 ,000 were posted to the debit of Manish
+as ? 2,000.
+
+Cash sales ? 2,000 were posted to commission account as ? 200.
+
+(Ans: Difference in trial balance ? 14, 800 excess debit).
+
+13. Rectify the following errors assuming that suspense account was opened.
+Ascertain the difference in trial balance.
+
+(a)
+(b)
+(C)
+(d)
+
+(C)
+
+Credit sales to Mohan ? 7,000 were recorded in Purchase Book. However,
+Mohan’s account was correctly debited.
+
+Credit purchases from Rohan ? 9,000 were recorded in sales book.
+However, Rohan’s account was correctly credited.
+
+Goods returned to Rakesh ? 4,000 were recorded in sales return book.
+However, Rakesh’s account was correctly debited.
+
+Goods returned from Mahesh ? 1 ,000 were recorded through purchases
+return book. However, Mahesh’s account was correctly credited.
+
+Goods returned to Naresh ? 2,000 were recorded through purchases
+book. However, Naresh’s account was correctly debited.
+
+(Ans: Difference in trial balance ? 6,000 excess debit).
+
+2019-2020

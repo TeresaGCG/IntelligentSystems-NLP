@@ -1,0 +1,77 @@
+216
+
+ 
+
+ 
+
+i Physics
+
+ 
+
+Thus, mechanical energy which was needed to move the arm P9 is
+converted into electrical energy (the induced emf) and then to thermal energy.
+There is an interesting relationship between the charge ﬂow through
+the circuit and the change in the magnetic ﬂux. From Faraday’s law, we
+have learnt that the magnitude of the induced emf is,
+A453
+
+|éi= At
+
+However,
+
+_ _§
+|€|—Ir— Atr
+
+ 
+
+Thus,
+
+“has.
+
+r
+
+Example 6.8 Refer to Fig. 6.12(a). The arm P9 of the rectangular
+conductor is moved from x = O, outwards. The uniform magnetic ﬁeld is
+perpendicular to the plane and extends from x = O to x = b and is zero
+for x > b. Only the arm PQ possesses substantial resistance r. Consider
+the situation when the arm P9 is pulled outwards from x = O to x = 2b,
+and is then moved back to x = O with constant speed 0. Obtain expressions
+for the ﬂux, the induced emf, the force necessaiy to pull the arm and the
+power dissipated as Joule heat. Sketch the variation of these quantities
+with distance.
+
+W
+or.
+E
+
+ 
+
+. . l:—
+o o 0 ii
+0 o 0 ii
+0 o ‘ ii
+0 o o E:
+o o o :i—
+'—
+o o c c o o o o 0 ii
+a o o o o o o o o H
+x=0 x=b x=2b
+(a)
+FIGUREGJZ
+
+Solution Let us first consider the forward motion from x = O to x = 2b
+The ﬂux c153 linked with the circuit SPQR is
+
+453:le OSx<b
+=Blb be<2b
+
+w
+‘9‘ The induced emf is,
+E = Ilia
+dt
+= —Blv O S x < b
+{I}
+
+= be<2b
+
+2019-20

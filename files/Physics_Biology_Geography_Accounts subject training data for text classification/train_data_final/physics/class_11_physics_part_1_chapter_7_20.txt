@@ -1,0 +1,85 @@
+SYSTEMS OF PARTICLES AND ROTA'I‘IONAL MOTION
+
+161
+
+examples and identify the fulcrum, the effort and
+effort arm, and the load and the load arm of the
+lever in each case.
+
+You may easily show that the principle of
+moment holds even when the parallel forces F1
+and F2 are not perpendicular, but act at some
+
+angle, to the lever.
+
+7.8.2 Centre of gravity
+
+Many of you may have the experience of
+balancing your notebook on the tip of a finger.
+Figure 7 .24 illustrates a similar experiment that
+you can easily perform. Take an irregular-
+shaped cardboard having mass M and a narrow
+tipped object like a pencil. You can locate by trial
+and error a point G on the cardboard where it
+can be balanced on the tip of the pencil. (The
+cardboard remains horizontal in this position.)
+This point of balance is the centre of gravity (CG)
+of the cardboard. The tip of the pencil provides
+a vertically upward force due to which the
+cardboard is in mechanical equilibrium. As
+shown in the Fig. 7 .24, the reaction of the tip is
+equal and opposite to Mg and hence the
+cardboard is in translational equilibrium. It is
+also in rotational equilibrium; if it were not so,
+due to the unbalanced torque it would tilt and
+fall. There are torques on the card board due to
+the forces of gravity like mlg, ng etc, acting
+on the individual particles that make up the
+cardboard.
+
+ 
+
+Fig. 7.24 Balancing a cardboard on the tip of a
+pencil. The point of support, G, is the
+centre of gravity.
+
+The CG of the cardboard is so located that
+
+the total torque on it due to the forces mg, mg
+. etc. is zero.
+
+If ri is the position vector of the ith particle
+of an extended body with respect to its CG, then
+the torque about the CG, due to the force of
+gravity on the particle is It: riX mg. The total
+gravitational torque about the CG is zero, i.e.
+
+tg=Zti=Zrixmig=0 (7.33)
+
+We may therefore, define the CG of a body
+as that point where the total gravitational torque
+on the body is zero.
+
+We notice that in Eq. (7 .33), g is the same
+for all particles, and hence it comes out of the
+summation. This gives, since g is non-zero,
+
+Z mirl. = 0. Remember that the position vectors
+
+(1",) are taken with respect to the CG. Now, in
+accordance with the reasoning given below
+Eq. (7.4a) in Sec. 7 .2, if the sum is zero, the origin
+must be the centre of mass of the body. Thus,
+the centre of gravity of the body coincides with
+the centre of mass in uniform gravity or gravity-
+free space. We note that this is true because
+the body being small, g does not
+
+ 
+
+Fig. 7.25 Determining the centre of gravity of a body
+of irregular shape. The centre of gravity G
+lies on the vertical AA 1 through the point
+of suspension of the body A.
+
+2019-20

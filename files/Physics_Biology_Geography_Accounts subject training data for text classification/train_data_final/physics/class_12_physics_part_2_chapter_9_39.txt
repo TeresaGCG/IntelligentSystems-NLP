@@ -1,0 +1,49 @@
+348
+
+l Physics
+
+9.30
+
+9.31
+
+9.32
+
+ 
+
+(C) What is the height of the final image of the tower if it is formed at
+25 cm?
+
+A Cassegrain telescope uses two mirrors as shown in Fig. 9.30. Such
+a telescope is built with the mirrors 20 mm apart. If the radius of
+curvature of the large mirror is 220mm and the small mirror is
+140 mm, where will the final image of an object at infinity be?
+
+Light incident normally on a plane mirror attached to a galvanometer
+coil retraces backwards as shown in Fig. 9.33. A current in the coil
+produces a deﬂection of 35° of the mirror. What is the displacement
+of the reﬂected spot of light on a screen placed 1.5 m away?
+
+ 
+
+—>
+
+4—1.5m
+S
+
+ 
+
+FIGURE 9.33
+
+Figure 9.34 shows an equiconvex lens (of refractive index 1.50) in
+contact with a liquid layer on top of a plane mirror. A small needle
+with its tip on the principal axis is moved along the axis until its
+inverted image is found at the position of the needle. The distance of
+the needle from the lens is measured to be 45.0cm. The liquid is
+removed and the experiment is repeated. The new distance is
+measured to be 30.0 cm. What is the refractive index of the liquid?
+
+ 
+
+FIGURE 9.34
+
+2019-20

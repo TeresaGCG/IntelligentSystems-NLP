@@ -1,0 +1,38 @@
+4.2 CPU Performance and Its Factors 249
+Now we can compute the CPU time for each computer:
+CPU time CPU clock cycles" X Clock cycle time"
+A
+IX2.0x250 ps = 500 X Ips
+Likewise, for B:
+CPU time = 1X 1.2 X 500 ps = 600 X1ps
+B
+Clearly, computer A is faster. The amount faster is given by the ratio of the
+execution times:
+CPU performance Execution time
+A B = 600x/ ps = 1.2
+CPU performance Execution time" 500x/ps
+B
+We ca n conclude that computer A is 1.2 times as fast as computer B for this
+program.
+We can now write this basic performance equation in terms of instruction count
+(the number of instructions executed by the program), CPI, and clock cycle time:
+CPU time = Instruction count CPI Clock cycle time
+X X
+. = Instruction count XCPI
+CPU time
+Clock rate
+These formulas are particularly useful because they separate the three key factors
+that affect performance. 'lVe can use these formulas to compare two different
+implementations or to evaluate a design alternative if we know its impact on these
+three parameters
+How can we determine the value of these factors in the performance equation?
+We can measure the CPU execution time by running the program, and the clock
+cycle time is usually published as part of the documentation for a computer. The
+instruction count and CPI can be more difficult to obtain. Of course, if we know
+the clock rate and CPU execution time, we need only one of the instruction count
+or the CPI to determine the other.
+We can measure the instruction count by using software tools that profile the
+execution or by using a simulator of the architecnlfe. Alternatively, we can use
+hardware counters, which are included on many processors, to record a variety of
+measurements, including the number of instructions executed, the average CPI,
+and often, the sources of performance loss. Since the instruction count depends

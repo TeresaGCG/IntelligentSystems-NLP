@@ -1,0 +1,72 @@
+i Physics
+
+Region of
+strong ﬁeld
+
+FIGURE 1.16 Dependence of
+electric field strength on the
+distance and its relation to the
+
+   
+
+Region Of It is the relative density of lines in different regions which is
+weak ﬁeld important.
+
+We draw the ﬁgure on the plane of paper, i.e., in two-
+dimensions but we live in three-dimensions. So if one wishes
+to estimate the density of ﬁeld lines, one has to consider the
+number of lines per unit cross-sectional area, perpendicular
+to the lines. Since the electric ﬁeld decreases as the square of
+the distance from a point charge and the area enclosing the
+charge increases as the square of the distance, the number
+of ﬁeld lines crossing the enclosing area remains constant,
+whatever may be the distance of the area from the charge.
+
+We started by saying that the field lines carry information
+about the direction of electric ﬁeld at different points in space.
+Having drawn a certain set of field lines, the relative density
+(i.e., closeness) of the ﬁeld lines at different points indicates
+
+number of ﬁeld lines. the relative strength of electric ﬁeld at those points. The ﬁeld
+
+24
+
+lines crowd where the ﬁeld is strong and are spaced apart
+where it is weak. Figure 1.16 shows a set of ﬁeld lines. We
+can imagine two equal and small elements of area placed at points R and
+S normal to the ﬁeld lines there. The number of field lines in our picture
+cutting the area elements is proportional to the magnitude of field at
+these points. The picture shows that the ﬁeld at R is stronger than at S.
+
+To understand the dependence of the ﬁeld lines on the area, or rather
+the solid angle subtended by an area element, let us try to relate the
+area with the solid angle, a generalisation of angle to three dimensions.
+Recall how a (plane) angle is defined in two-dimensions. Let a small
+transverse line element Al be placed at a distance r from a point 0. Then
+the angle subtended by Al at O can be approximated as A9 = Al/ r.
+Likewise, in three-dimensions the solid angle* subtended by a small
+perpendicular plane area AS, at a distance r, can be written as
+A52 = AS/ r2. We know that in a given solid angle the number of radial
+field lines is the same. In Fig. 1.16, for two points P1 and P2 at distances
+r1 and r2 from the charge, the element of area subtending the solid angle
+A52 is 132A52 at P1 and an element of area r22A52 at P2, respectively. The
+number of lines (say n) cutting these area elements are the same. The
+number of ﬁeld lines, cutting unit area element is therefore n/ ( r12 A52) at
+P1 and n/(r22 A52) at P2, respectively. Since n and A52 are common, the
+strength of the field clearly has a 1 / r2 dependence.
+
+The picture of ﬁeld lines was invented by Faraday to develop an
+intuitive non-mathematical way of visualising electric ﬁelds around
+charged configurations. Faraday called them lines of force. This term is
+somewhat misleading, especially in case of magnetic ﬁelds. The more
+appropriate term is field lines (electric or magnetic) that we have
+adopted in this book.
+
+Electric ﬁeld lines are thus a way of pictorially mapping the electric
+ﬁeld around a conﬁguration of charges. An electric ﬁeld line is, in general,
+
+* Solid angle is a measure of a cone. Consider the intersection of the given cone
+with a sphere of radius R. The solid angle A52 of the cone is defined to be equal
+to AS/Rz, where AS is the area on the sphere cut out by the cone.
+
+2019-20

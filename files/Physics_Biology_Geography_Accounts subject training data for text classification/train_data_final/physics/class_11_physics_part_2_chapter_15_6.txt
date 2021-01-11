@@ -1,0 +1,126 @@
+WAVES
+
+373
+
+Example 15.2 A wave travelling along a
+string is described by.
+
+y(x. t) = 0.005 sin (80.0 x— 3.0 t).
+
+in which the numerical constants are in
+SI units (0.005 m. 80.0 rad m". and
+
+3.0 rad s“). Calculate (a) the amplitude.
+(b) the wavelength. and (c) the period and
+frequency of the wave. Also. calculate the
+displacement y of the wave at a distance
+x= 30.0 cm and time t= 20 s ‘?
+
+Answer On comparing this displacement
+equation with Eq. (15.2),
+
+y (x, t) = asin (kx— wt),
+
+we find
+
+(a) the amplitude of the wave is 0.005 m = 5 mm.
+
+(b) the angular wave number k and angular
+frequency a) are
+
+k = 80.0 m‘1 and a) = 3.0 S‘1
+
+We, then, relate the wavelength /’L to k through
+Eq. (15.6),
+/'L = 27c/ k
+
+_ 27;
+80.0 m—1
+= 7.85 cm
+
+(c) Now, we relate Tto a) by the relation
+T = 21c/ 60
+
+_ 27:
+3.0 s_1
+= 2.09 s
+
+ 
+
+and frequency, v = 1 / T = 0.48 Hz
+
+The displacement y at x = 30.0 cm and
+time t = 20 s is given by
+
+y = (0.005 m) Sin (80.0 X 0.3 — 3.0 X 20)
+
+= (0.005 m) sin (—36 + 127:)
+= (0.005 m) sin (1.699)
+= (0.005 m) sin (97°) 2 5 mm 4
+
+15.4 THE SPEED OF A TRAVELLING WAVE
+
+To determine the speed of propagation of a
+travelling wave, we can fix our attention on any
+particular point on the wave (characterised by
+some value of the phase) and see how that point
+moves in time. It is convenient to look at the
+
+ 
+
+motion of the crest of the wave. Fig. 15.8 gives
+the shape of the wave at two instants of time,
+which differ by a small time internal At. The
+entire wave pattern is seen to shift to the right
+(positive direction of x—aXis) by a distance Ax. In
+particular, the crest shown by a clot (0) moves a
+
+y
+
+Ax “At
+H
+
+—>
+
+t
+
+Fig. 1 5.8 Progression of a harmonic wave from time
+t to t + At. where At is a small interval.
+The wave pattern as a whole shifts to the
+right. The crest of the wave (or a point with
+any ﬁxed phase) moves right by the distance
+Ax in time At.
+
+distance Ax in time At. The speed of the wave is
+then Ax/At. We can put the clot (c) on a point
+with any other phase. It will move with the same
+speed v (otherwise the wave pattern will not
+remain fixed). The motion of a fixed phase point
+on the wave is given by
+
+kx — (at = constant (15.10)
+
+Thus, as time t changes, the position x of the
+fixed phase point must change so that the phase
+remains constant. Thus,
+
+kx — cat = k(x+Ax) — w(t+A t)
+or k Ax — coAt =0
+Taking Ax, Atvanishingly small, this gives
+
+£2 2: D (15.11)
+dt k
+Relating a) to Tand k to 7t, we get
+v:2_7w:gv:i
+2W)» T (15.12)
+
+Eq. (15.12), a general relation for all
+progressive waves, shows that in the time
+required for one full oscillation by any
+constituent of the medium, the wave pattern
+travels a distance equal to the wavelength of the
+wave. It should be noted that the speed of a
+mechanical wave is determined by the inertial
+(linear mass density for strings, mass density
+
+2019-20

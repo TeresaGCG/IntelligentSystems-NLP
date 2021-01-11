@@ -1,0 +1,40 @@
+592 Chapter 8
+.c-
+.s.
+0 g.Q)
+."
+"n"
+o~ .~
+w< _• .o.
+=>E
+15 8 4 1 0
+Interrupt
+mask
+Branch Pending Exception
+delay interrupts code
+FIGURE 8.13 The Cause and Status registers. This version ofthe Cause register corresponds to
+the MIPS-32 architecture. The earlier MIPS I architecture had three nested sets of kernel/user and interrupt
+iii
+enable bits to support nested interrupts. Section A.7 in Appendix A has more detials aboU1these regis 
+ters.
+each bit in the pending interrupt field of the Cause register. To enable the corre 
+sponding interrupt, there must be a 1 in the mask field at that bit position. Once
+an interrupt occurs, the operating system can find the reason in the exception
+code field of the Status register: 0 means an interrupt occurred, with other values
+for the exceptions mentioned in Chapter 7.
+Here are the steps that must occur in handling an interrupt:
+1. Logically AND the pending interrupt field and the interrupt mask field to
+see which enabled interrupts could be the culprit. Copies are made of these
+two registers using the mfcO instruction.
+2. Select the higher priority of these interrupts. The software convention
+IS
+that the leftmost is the highest priority.
+3. Save the interrupt mask field of the Status register.
+4. Change the interrupt mask field to disable all interrupts of equal or lower
+priority.
+5. Save the processor state needed to handle the interrupt.
+6. To allow higher-priority interrupts, set the interrupt enable bit of the Cause
+register to 1.
+7. Call the appropriate interrupt routine.
+8. Before restoring state, set the interrupt enable bit of the Cause register to O.
+This allows you to restore the interrupt mask field.

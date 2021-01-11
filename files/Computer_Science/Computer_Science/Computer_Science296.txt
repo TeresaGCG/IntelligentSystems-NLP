@@ -1,0 +1,35 @@
+Computers
+Moving People Faster
+in the
+and More Safely
+Real World
+Problem: Find ways to help transport people curves, can be unsafe at the higher speeds;
+quickly while maintaining safety, comfort, and since the TGV was designed to run on existing
+efficiency. track, finding a fail-safe method to communi 
+cate track conditions was critical.
+Solution: For more than 20 years, computers The TGV designers solved this problem by a
+have played an increasingly important role in the clever signaling system, called TVM ( Transmis 
+control of transportation systems including sioll Voie-Machine), that runs through the rails
+planes, trains, automobiles, and even ships. Essen  and is picked up by antennas in the locomotive.
+tially aU modern transportation systems rely on The track is divided into blocks, which are typi 
+computers to enhance their safety, comfort, and cally about 1.5 krn in le ngth. Shorter blocks are
+efficiency. Computers also play a critical role in used when track conditions change quickly or
+improving fuel consumption and reducing air where a higher degree of safety is critical, such
+pollution. In these two pages, we examine some of as in the Chunnel, where the block length is
+the uses of computers in trains and automobiles. about one-tenth as long. Transmitters at the
+In designing pipelines we must prevent hazards,at beginning of each block are used to communi 
+aUcosts, and we try to avoid pipeline delays. Com  cate instructions to the cab, where they are car 
+puter-controlled trains try to do the same: hazards ried out by an engineer; a computer also
+are life-threatening and can never be permitted, watches the communications, and implements
+and delays are to be avoided! the commands if the engineer fails to.
+a
+The French TGV ( Train Gra nde Vitesse) is
+o ne of the fastest train systems in the world,
+with a typical top speed of 300 km/hour. Tra 
+ditionally, trains were controlled by an engi 
+neer, using a set of track-side lights and signals
+that tell the engineer to proceed , slow down,
+or stop. At 300 km/hour, it is difficult to read
+such signals, and easy to miss one completely,
+leading to a possible disaster. In addition,
+some tracks, such as those containing tight The Eurostar TGY train In Nice, France.

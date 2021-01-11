@@ -1,0 +1,29 @@
+Integers
+39
+Example 4
+Find the sum: (−5) + (−6)
+Solution: (−5) + (−6) = −(5 + 6) = −11
+When you add two integers that have opposite signs, find the differ-
+ence between their absolute values. Then, think about the sign of your
+answer. If the integer with the larger absolute value is negative, your an-
+swer will be negative. If the integer with the larger absolute value is posi-
+tive, then your answer will be positive. The integer with the larger absolute
+value determines whether the answer will be positive or negative.
+Example 5
+Find the sum: 18 + (−6)
+Solution: Find the difference between their absolute values:
+18− 6= 12
+The integer with the larger absolute value is 18, so the answer will
+be positive.
+18+ (−6) = 12
+Notice that 18 + (−6) can be thought of as 18 − 6. Adding integers with
+opposite signs and finding the difference between the magnitudes of the
+two integers gives the same result. You can think of subtraction as add-
+ing two integers that have opposite signs.
+Example 6
+Find the sum: (−12) + 5
+Solution: Find the difference between their absolute values:
+12− 5= 7
+The integer with the larger absolute value is −12, so our answer
+should be negative:
+(−12) + 5 = −7

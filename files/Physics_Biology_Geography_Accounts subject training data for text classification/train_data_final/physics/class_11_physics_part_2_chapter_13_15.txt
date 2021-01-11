@@ -1,0 +1,51 @@
+PHYSICS
+—
+
+absorption, the energy in each mode being equal to 1/2 k3 T. Each translational and
+rotational degree of freedom corresponds to one energy mode of absorption and has
+energy 1/2 k3 T. Each vibrational frequency has two modes of energy (kinetic and potential)
+with corresponding energy equal to
+
+2 X 1/2 kBT= kBT.
+
+Using the law of equipartition of energy, the molar specific heats of gases can be
+determined and the values are in agreement with the experimental values of specific
+heats of several gases. The agreement can be improved by including vibrational modes
+of motion.
+
+The mean free path lis the average distance covered by a molecule between two successive
+collisions :
+
+l
+x/Enﬂ'd2
+
+where n is the number density and d the diameter of the molecule.
+
+1:
+
+POINTS TO PONDER
+
+1. Pressure of a ﬂuid is not only exerted on the wall. Pressure exists everywhere in a ﬂuid.
+Any layer of gas inside the volume of a container is in equilibrium because the pressure
+is the same on both sides of the layer.
+
+We should not have an exaggerated idea of the intermolecular distance in a gas. At
+ordinary pressures and temperatures, this is only 10 times or so the interatomic distance
+in solids and liquids. What is different is the mean free path which in a gas is 100
+times the interatomic distance and 1000 times the size of the molecule.
+
+The law of equipartition of energy is stated thus: the energl for each degree of freedom
+in thermal equilibrium is 1/2 kB T. Each quadratic term in the total energl expression of
+a molecule is to be counted as a degree of freedom. Thus, each vibrational mode gives
+2 (not 1) degrees of freedom (kinetic and potential energl modes), corresponding to the
+energ] 2 X 1/2 kB T= kB T.
+
+Molecules of air in a room do not all fall and settle on the ground (due to gravity)
+because of their high speeds and incessant collisions. In equilibrium, there is a very
+slight increase in density at lower heights (like in the atmosphere). The effect is small
+since the potential energl (mgh) for ordinary heights is much less than the average
+kinetic energl 1A mu2 of the molecules.
+
+< v2 > is not always equal to ( < v >)2. The average of a squared quantity is not necessarily
+
+the square of the average. Can you ﬁnd examples for this statement.

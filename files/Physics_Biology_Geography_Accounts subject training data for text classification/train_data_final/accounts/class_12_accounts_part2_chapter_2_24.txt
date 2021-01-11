@@ -1,0 +1,54 @@
+96
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+Issue at discount and redemption at premium
+Bank A/c Dr.
+To Debenture Application & Allotment A/c
+[Receipt of application money)
+
+Debenture Application & Allotment A/c Dr.
+Loss on Issue of Debentures A/c Dr. (with discount on issue plus
+premium on redemption)
+To Debentures A/c (with nominal value of debenture)
+To Premium on Redemption (with premium on redemption)
+of Debentures A/c
+
+(Allotment of debentures at a discount
+and redeemable at premium)
+
+Issued at a premium and redeemable at premium
+
+Bank A/c Dr.
+To Debenture Application & Allotment A/c
+(Receipt of application money)
+
+Debenture Application & Allotment A/c Dr.
+Loss on Issue of Debentures A/c Dr. (with premium on redemption)
+To Debentures A/c (with nominal value of debenture)
+To Securities Premium Reserve A/c (with premium on issue)
+To Premium on Redemption of (with premium on redemption)
+Debentures A/c
+
+Notes: 1. When debentures are redeemable at a premium, a provision has to be made
+
+right at the time of the issue by debiting the amount to ‘Loss on Issue of
+Debentures A/c’. It may be noted that when debentures are issued at a
+discount and are redeemable at a premium, the amount of discount on issue
+is also debited to ‘Loss on Issue of Debentures'. It may be noted that when
+the debentures are issued at a discount and are redeemable at par, the amount
+debited to ‘Discount on Issue of Debentures A/c' as usual.
+
+2. Premium on redemption is a liability of a company payable in future. It is a
+provision and is shown under the head Non—current liabilities under sub-
+head ‘Long—term Borrowings’ until debentures are redeemed.
+
+3. Loss on issue of debentures is a capital loss and it is to be written-oil gradually
+charged to statement of proﬁt and loss or securities premium account.
+
+Illustration 1 5
+
+Give Journal entries for the following:
+
+1. Issue of Rs 1,00,000, 9% debentures of Rs 100 each at par and
+redeemable at par.

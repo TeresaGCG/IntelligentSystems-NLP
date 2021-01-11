@@ -1,0 +1,132 @@
+MOTION IN A STRAIGHT LINE
+
+43
+
+ 
+
+is equal to the average speed. This is not always
+the case, as you will see in the following example.
+
+> Example 3.1 A car is moving along a
+straight line. say OP in Fig. 3.1. It moves
+from O to P in 18 s and returns from P to Q
+in 6.0 s. What are the average velocity
+
+and average speed of the car in going (a)
+from O to P ? and (b) from O to P and back
+to Q ‘?
+
+Answer (a)
+
+Displacement
+Average velocity = —
+
+Time interval
+
+— +
+v = ﬂ = + 20 m s’1
+18 s
+Path length
+Average speed 2 —
+Time interval
+= 360 m
+
+= 20 m s’1
+
+ 
+
+185
+
+Thus, in this case the average speed is equal to
+the magnitude of the average velocity.
+(b) In this case,
+
+, Displacement +240 m
+Average veloaty = — = ——
+Time interval (18 + 6.0) s
+
+=+ 10 m s‘1
+Average speed = Path-length = OP + PQ
+Time interval At
+=(360+120) n1= 20 m s'1
+24 s
+
+Thus, in this case the average speed is not equal
+to the magnitude of the average velocity. This
+happens because the motion here involves
+change in direction so that the path length is
+greater than the magnitude of displacement.
+This shows that speed is, in general, greater
+than the magnitude of the velocity. 4
+
+If the car in Example 3.1 moves from O to P
+
+and comes back to O in the same time interval,
+average speed is 20 m/s but the average velocity
+is zero !
+
+ 
+
+3.4 INSTANTANEOUS VELOCITY AND SPEED
+
+The average velocity tells us how fast an object
+has been moving over a given time interval but
+does not tell us how fast it moves at different
+instants of time during that interval. For this,
+we define instantaneous velocity or simply
+velocity v at an instant t.
+
+The velocity at an instant is defined as the
+limit of the average velocity as the time interval
+Atbecomes infinitesimally small. In other words,
+
+. Ax
+v = lim — (3.3a)
+At —> 0 At
+: d_X (3.313)
+dt
+where the symbol A1110 stands for the operation
+
+of taking limit as At—>O of the quantity on its
+right. In the language of calculus, the quantity
+on the right hand side of Eq. (3.3a) is the
+differential coefficient of xwith respect to tand
+
+dx
+
+is denoted by E (see Appendix 3.1). It is the
+
+rate of change of position with respect to time,
+
+at that instant.
+
+We can use Eq. (3.3a) for obtaining the value
+of velocity at an instant either graphically or
+numerically. Suppose that we want to obtain
+graphically the value of velocity at time t = 4 s
+(point P) for the motion of the car represented
+in Fig. 3.3. The figure has been redrawn in
+Fig. 3.6 choosing different scales to facilitate the
+
+20
+
+18
+16
+14
+12
+10
+
+x(m)
+
+ 
+
+owhmoo
+
+2 2.5 3 3.5 4 4.5 5 5.5 6
+t(S)—>
+
+Fig. 3.6 Determining velocity from position— time
+graph. Velocity at t = 4 s is the slope of the
+tangent to the graph at that instant.
+
+2019-20

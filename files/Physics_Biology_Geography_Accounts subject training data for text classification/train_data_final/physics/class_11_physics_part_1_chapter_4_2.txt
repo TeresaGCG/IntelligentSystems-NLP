@@ -1,0 +1,108 @@
+MOTION IN A PLANE
+
+67
+
+ 
+
+P P'
+O
+Q 0' Q'
+(a) (b)
+
+Fig. 4.2 [a] Two equal vectors A and B. (b) Two
+vectors A’ and B’ are unequal though they
+are of the same length.
+
+as A = B. Note that in Fig. 4.2(b), vectors A’ and
+B’ have the same magnitude but they are not
+equal because they have different directions.
+Even if we shift B’ parallel to itself so that its tail
+9’ coincides with the tail 0’ of A’ , the tip S’ of B’
+
+does not coincide with the tip P’ of A’ .
+
+4.3 MULTIPLICATION OF VECTORS BY REAL
+NUMBERS
+
+Multiplying a vector A with a positive number 7L
+gives a vector whose magnitude is changed by
+the factor 7L but the direction is the same as that
+of A :
+
+| MI =7L| Al 1990.
+
+For example, if A is multiplied by 2, the resultant
+vector 2A is in the same direction as A and has
+
+amagnitude twice of IAI as shown in Fig. 4.3(a).
+
+Multiplying a vector A by a negative number
+4L gives another vector whose direction is
+opposite to the direction of A and whose
+magnitude is 7L times IAI .
+
+Multiplying a given vector A by negative
+numbers, say —1 and —1.5, gives vectors as
+shown in Fig 4.3(b).
+
+/A7
+K
+
+(a)
+
+y
+(y
+44
+
+(b)
+
+Fig. 4.3 [a] Vector A and the resultant vector after
+multiplying A by a positive number 2.
+[b] Vector A and resultant vectors after
+multiplying it by a negative number —1
+and —1 .5.
+
+The factor7tby which avectorAis multiplied
+could be a scalar having its own physical
+dimension. Then, the dimension of 7L A is the
+product of the dimensions of 7L and A. For
+example, if we multiply a constant velocity vector
+by duration (of time), we get a displacement
+vector.
+
+4.4 ADDITION AND SUBTRACTION OF
+VECTORS — GRAPHICAL METHOD
+
+As mentioned in section 4.2, vectors, by
+definition, obey the triangle law or equivalently,
+the parallelogram law of addition. We shall now
+describe this law of addition using the graphical
+method. Let us consider two vectors A and B that
+lie in a plane as shown in Fig. 4.4(a). The lengths
+of the line segments representing these vectors
+are proportional to the magnitude of the vectors.
+To find the sum A + B, we place vector B so that
+its tail is at the head of the vector A, as in
+Fig. 4.4(b). Then, we join the tail of A to the head
+of B. This line 09 represents a vector R, that is,
+the sum of the vectors A and B. Since, in this
+procedure of vector addition, vectors are
+
+ 
+
+ 
+
+(a) 0’)
+Q A
+K
+”5:3 B
+n .
+C
+[c] (d)
+
+Fig. 4.4 [a] Vectors A and B. [b] Vectors A and B
+added graphically. (c) Vectors B and A
+added graphically. (d) Illustrating the
+associative law of vector addition.
+
+2019-20

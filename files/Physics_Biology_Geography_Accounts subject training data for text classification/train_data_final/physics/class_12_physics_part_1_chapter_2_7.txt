@@ -1,0 +1,83 @@
+58
+
+i Physics
+
+EXAMPLE 2.2
+
+ 
+
+ 
+
+1 q1 q2 qn
+= — + — + ...... + —
+47CSO (r11, r2P rnP (2' 1 8)
+
+If we have a continuous charge distribution characterised by a charge
+density p (r), we divide it, as before, into small volume elements each of
+size AU and carrying a charge pAv. We then determine the potential due
+to each volume element and sum (strictly speaking , integrate) over all
+such contributions, and thus determine the potential due to the entire
+distribution.
+
+We have seen in Chapter 1 that for a uniformly charged spherical shell,
+the electric ﬁeld outside the shell is as if the entire charge is concentrated
+at the centre. Thus, the potential outside the shell is given by
+
+1 q
+471.90 ; (r 2 R) [2.19(a)]
+
+V:
+
+ 
+
+where q is the total charge on the shell and R its radius. The electric field
+inside the shell is zero. This implies (Section 2.6) that potential is constant
+inside the shell (as no work is done in moving a charge inside the shell),
+and, therefore, equals its value at the surface, which is
+
+V = 1 q
+
+47:80 E [2.19(b)]
+
+ 
+
+Example 2.2 Two charges 3 X 10'8 C and —2 X 10‘8 C are located
+15 cm apart. At what point on the line joining the two charges is the
+electric potential zero? Take the potential at infinity to be zero.
+
+Solution Let us take the origin 0 at the location of the positive charge.
+The line joining the two charges is taken to be the x-axis; the negative
+charge is taken to be on the right side of the origin (Fig. 2.7).
+
+o P A
+O—X——O
+3x10‘sC 150‘“ -2x10‘BC
+FIGURE 2.7
+
+Let P be the required point on the x-axis where the potential is zero.
+If x is the x-coordinate of P, obviously x must be positive. (There is no
+possibility of potentials due to the two charges adding up to zero for
+x < 0.) If x lies between 0 and A, we have
+
+ 
+
+1 [3x108 2x10'8 ]—0
+
+47t80 xxio-2 — (15—x)><1o-2
+
+where x is in cm. That is,
+3 2
+
+§ _ 1 5 — x _
+which gives x = 9 cm.
+If x lies on the extended line 0A, the required condition is
+
+3 2
+
+x x—15_
+
+ 
+
+ 
+
+2019-20

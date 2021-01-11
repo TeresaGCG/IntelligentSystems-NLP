@@ -1,0 +1,35 @@
+Perhaps the area of art conservation that ure below, are two images of a painting: one
+has been most affected by the availability of shown in normal light (on the left) and one
+low-cost, high-performance computation has using the infrared reflectography technique
+been painting restoration. Three techniques  (on the right).
+infrared reflectography, ultraviolet imaging, Restorers use ultraviolet imaging to look at
+and X-radiography- have found the heaviest the original colors of a painting that has been
+use. Because of the need for highly precise, retouched. X-radiography provides similar
+high resolution imaging, computer controlled information, since white and yellow pigments
+cameras or X-ray scanners are used in all these that were covered or painted over appear
+techniques. This results in a patchwork of darker due to their lead content.
+images, which are then stitched together by a Scanning technologies have also been
+computer. The combination of computer con  applied to three-dimensional art objects, such
+trolled motion of a camera or X-ray scanner as sculpture. Michelangelo's David was
+and subsequent computer composition of tens scanned using a laser range finder by a group
+to thousands of images permits that scanning led by Professor Marc Levoy at Stanford. The
+of large surfaces at very high resolution. resulting database for a scan with 0.29 mm
+Infrared reflectography uses light in the resolution consists of over 2 billion polygons
+near-infrared spectrum and a digital camera and 32 gigabytes of data. The Digital Miche 
+to detect the intensity of reflection of the light langelo project has created a detailed model of
+from the surface of a painting, mural, or the famous sculpture useful both for conser 
+fresco. This technique is useful for finding the vation as well as an educational tool for stu 
+underdrawing that most artists use to initially dents around the world. Two of the many
+sketch out the forms in a painting. The under  images that can be derived from the three 
+drawing, typically done in black, often using dimensional scan as shown opposite.
+charcoal, absorbs the infrared light. In the fig-
+To learn more see these references on
+11II
+the library
+Conserving paintings, a site dedicated to Harvard Uni 
+versity's digital imaging lab.
+Sistine Chapel, a short background on the Sistine
+Chapel.
+The Digital Michelangelo project
+An Image from the Sistine Chapel In normal light
+(left) and In Infrared (right).

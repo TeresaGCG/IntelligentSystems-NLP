@@ -1,0 +1,42 @@
+7.8 Concluding Remarks 553
+AMD
+Intrlnsity 5""
+Opteron FastMATH Intel Pentium 4 Intel PXA250 UltraSPARC IV
+Instruction set architedure 1A·32, AMD64 MIPS32 IA-32 ARM SPARC v9
+Intended application server embedded desktop 10WilOwer embedded server
+2
+Die size (mm ) (2004) 193 122 217 356
+Instructions issued/clock 3 2 3 RISC ops 1 4 ,2
+Clock rate (2004) 2.0 GHz 2.0 GHz 3.2 GHz 0.4 GHz 1.2 GHz
+Instruction cache 64 KB, 16 KB, 12000 RISC op trace 32 KB, 32 KB,
+2.way set direct mapped cache (-96 KB) 32.way set 4.way set
+associative associative associative
+Latency (clocks) 3? 4 4 1 2
+Data cache 64 KB, 16 KB, 8 KB, 32 KB, 64 KB,
+2.way set 1~"" 4--way 32.way set 4.way set
+associative set associative set associative associative associative
+Latency (clocks) 3 3 2 1 2
+TLB entries (IjD/L2 TLB) 40/40/512/ 16 128/128 32/32 128/512
+512
+Minimum page sire 41<8 41<8 4 KB 1 KB 81<8
+On~hip L2 cache 1024 KB, 1024 KB, 512 KB,
+16-way set +way set S-way set
+associative associative associative
+Ofkhip L2 cache 16 MB, 2.way
+set associative
+Block size (L1/L2, bytes) 64 64 64/128 32 32
+FIGURE 7.36 Desktop, embedded, and server microprocessors In 2004. From amemory hierarchy perspective,the primary differences
+between c.1tegories is the L2 cache. There is no L2 cache for the low-power embedded, a large on-chip L2 for the embedded and desktop, and 16 MB
+offchip for the server. The processor dock rates also vary: 0.4 GHz for low-power embedded, I GHz or higher for the rest. Note that UltraSPARC IV
+has two processors on the chip.
+increases in memory bandwidth. This potentially higher memory bandwidth has
+enabled designers to increase cache block sizes with smaller increases in the miss
+penalty.
+Recent Trends
+The challenge in designing memory hierarchies to close this growing gap, as we
+noted in the Big Picture on page 545, is that all the hardware design choices fo r
+memory hierarchies have both a positive and negative effect on performance. This
+means that for each level of the hierarchy there is an optimal performance point
+per program, which must include some misses. If this is the case, how can we
+overcome the growing gap between processor speeds and lower levels of the hier 
+archy? This question is currently the topic of much resea rch.

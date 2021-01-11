@@ -1,0 +1,70 @@
+the south magnetic pole. There is some confusion in the
+nomenclature of the poles. If one looks at the magnetic
+ﬁeld lines of the earth (Fig. 5.8), one sees that unlike in the
+case of a bar magnet, the ﬁeld lines go into the earth at the
+north magnetic pole (Nm) and come out from the south
+magnetic pole (Sm). The convention arose because the
+magnetic north was the direction to which the north
+pole of a magnetic needle pointed; the north pole of
+a magnet was so named as it was the north seeking
+pole. Thus, in reality, the north magnetic pole behaves
+
+FIGURE 5.8 The earth as a giant like the south pole of a bar magnet inside the earth and
+magnetic dipole. viceversa.
+
+EXAMPLE 5.8
+
+Example 5.8 The earth’s magnetic field at the equator is approximately
+0.4 G. Estimate the earth’s dipole moment.
+
+Solution From Eq. (5.7), the equatorial magnetic ﬁeld is,
+
+,u m
+BE = 41(tr3
+We are given that BE ~ 0.4 G = 4 X 10*3 T. For r, we take the radius of
+the earth 6.4 X 106 m. Hence,
+_4><10*5 ><(6.4><106)3
+— #0 / 47‘
+
+ 
+
+m =4 x 102x (6.4 x 10“)3 (yo/41: = 10—7)
+
+= 1.05 x 1023A m2
+This is close to the value 8 X 1022 A m2 quoted in geomagnetic texts.
+
+5.4. 1 Magnetic declination and dip
+
+Consider a point on the earth’s surface. At such a point, the direction of
+the longitude circle determines the geographic north-south direction, the
+line of longitude towards the north pole being the direction of
+
+True North true north. The vertical plane containing the longitude circle
+
+ 
+
+and the axis of rotation of the earth is called the geographic
+meridian. In a similar way, one can deﬁne magnetic meridian
+of a place as the vertical plane which passes through the
+imaginary line joining the magnetic north and the south poles.
+This plane would intersect the surface of the earth in a
+longitude like circle. A magnetic needle, which is free to swing
+horizontally, would then lie in the magnetic meridian and the
+north pole of the needle would point towards the magnetic
+north pole. Since the line joining the magnetic poles is titled
+with respect to the geographic axis of the earth, the magnetic
+meridian at a point makes angle with the geographic meridian.
+
+FIGURE 5_9 A magnetic needle This, then, is the angle between the true geographic north and
+free to move in horizontal plane the north shown by a compass needle. This angle is called the
+points toward the magnetic magnetic declination or simply declination (Fig. 5.9).
+
+186
+
+north~south
+direction.
+
+The declination is greater at higher latitudes and smaller
+near the equator. The declination in India is small, it being
+
+2019-20

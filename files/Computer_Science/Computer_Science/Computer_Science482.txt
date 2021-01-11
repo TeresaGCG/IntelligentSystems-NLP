@@ -1,0 +1,13 @@
+Large and Fast:
+Exploiting
+Memory Hierarchy
+Ideally one wonld desire an indefinitely large memory
+capacity such that any particular word would be
+immediately available. ... We are forced to
+recognize the possibility ofconstructing a hierarchy of
+memories, each ofwhich hasgreater capacity than the
+preceding but which is /ess quickly accessible.
+A. W. Burks, H. H. Goldstine, and J. von Neulllann
+of if
+Pmiminilry tl~ Logical lNsign an f1«troni€ Computing ErGtrument, 1946
+DiSCWS6iolf

@@ -1,0 +1,43 @@
+49.
+Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+ory and bus. Banks are also valuable on writes. Each bank can write indepen 
+dently, quadrupling the write bandwidth and leading to fewer stalls in a write 
+through cache. As we will see, an alternative strategy for writes makes interleaving
+even more attractive.
+Elaboration: Memory chips are organized to produce a number of output bits, usu 
+ally 4 to 32, with 8 or 16 being the most popular in 2004. We describe the organization
+of a RAM as d x w, where d is the number of addressable locations (the depth) and w is
+the output (or width of each location). One path to improving the rate at which we trans 
+fer data from the memory to the caches is to take advantage of the structure of
+DRAMs. DRAMs are logically organized as rectangular arrays, and access time is
+divided into row access and column access. DRAMs buffer a row of bits inside the
+DRAM for column access. They also come with optional timing signals that allow
+repeated accesses to the buffer without a row access time. This capability, originally
+called page mode, has gone through a series of enhancements. In page mode, the
+buffer acts like an SRAM; by changing column address, random bits can be accessed in
+the buffer until the next row access. This capability changes the access time signifi 
+cantly, since the access time to bits in the row is much lower. Figure 7.12 shows how
+the density, cost, and access time of DRAMS have changed over the years.
+The newest development is DDR SDRAMs (double data rate synchronous DRAMs).
+SDRAMs provide for a burst access to data from a series of sequential locations in the
+DRAM. An SDRAM is supplied with a starting address and a burst length. The data in
+the burst is transferred under control of a clock signal, which in 2004 can run at up to
+Total access time to Column access
+Year Introduced Chip size $ per MB a new row/ column time to existing row
+1980 64 Kbit $1500 250 ns 150 ns
+1983 256 Kbit $500 185 ns 100 ns
+1985 1 Mbit $200 135 ns 40 ns
+1989 4 Mbit $50 110 ns 40 ns
+1992 16 Mbit $15 90 ns 30 ns
+1996 64 Mbit $10 60 ns 12 ns
+1998 128 Mbit $4 60ns 10 ns
+2000 256 Mbit $1 55ns 7"
+2002 512 Mbit $0.25 50",
+5 "'
+2004 1024 Mbit $0.10 45ns
+3 "'
+FIGURE 7.12 DRAM size Increased by multiples of four approximately once every three
+years until 1996, and thereafter doubling approximately every two years. The improve 
+ments in access time have been slower but continuous, and cost almost tracks density improvements,
+although cost is often affected by other issues, such as availability and demand. The cost per meg.1byte is not
+adjusted for inflation.

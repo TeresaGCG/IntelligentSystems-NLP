@@ -1,0 +1,23 @@
+PHYSICS
+
+The zeroth law of thermodynamics states that ‘two systems in thermal equilibrium with a
+third system separately are in thermal equilibrium with each other”. The Zeroth Law leads
+to the concept of temperature.
+
+Internal energy of a system is the sum of kinetic energies and potential energies of the
+molecular constituents of the system. It does not include the over—all kinetic energy of
+the system. Heat and work are two modes of energy transfer to the system. Heat is the
+energy transfer arising due to temperature difference between the system and the
+surroundings. Work is energy transfer brought. about. by other means. such as moving
+
+the piston of a cylinder containing the gas. by raising or lowering some weight. connected
+to it.
+
+The first. law of thermodynamics is the general law of conservation of energy applied to
+any system in which energy transfer from or to the surroundings (through heat and
+work) is taken into account. It states that
+
+AQ =AU+ AW
+
+where AQ is the heat supplied to the system. AWis the work done by the system and AU
+is the change in internal energy of the system.

@@ -1,0 +1,78 @@
+278
+
+ 
+
+ 
+
+i Physics
+
+EXAMPLE 8. 2
+
+EXAMPLE 8. 3
+
+ 
+
+When the sun shines on your hand, you feel the energy being
+absorbed from the electromagnetic waves (your hands get warm).
+Electromagnetic waves also transfer momentum to your hand but
+because 0 is very large, the amount of momentum transferred is extremely
+small and you do not feel the pressure. In 1903, the American scientists
+Nicols and Hull succeeded in measuring radiation pressure of
+visible light and verified Eq. (8.12). It was found to be of the order of
+7 X 1043 N /m2. Thus, on a surface of area 10 cm2, the force due to radiation
+is only about 7 X 10‘9 N.
+
+The great technological importance of electromagnetic waves stems
+from their capability to carry energy from one place to another. The
+radio and TV signals from broadcasting stations carry energy. Light
+
+carries energy from the sun to the earth, thus making life possible on
+the earth.
+
+Example 8.2 A plane electromagnetic wave of frequency
+25 MHz travels in free space along the x—direction. At a particular
+point in space and time, E = 6.3 j V/m. What is B at this point?
+
+Solution Using Eq. (8.10), the magnitude of B is
+
+B:—
+c
+
+=w=2ixio$T
+3x10 m/s
+
+To find the direction, we note that E is along y-direction and the
+wave propagates along x-axis. Therefore, B should be in a direction
+perpendicular to both x- and y—axes. Using vector algebra, E X B should
+be along x-direction. Since, (+3) X (+11) = i, B is along the z—direction.
+Thus, B = 2.1 x 10—8 kT
+
+Example 8.3 The magnetic field in a plane electromagnetic wave is
+given by By = (2 x 10”) T sin (0.5x103x+1.5x10“t).
+
+(a) What is the wavelength and frequency of the wave?
+(b) Write an expression for the electric field.
+
+Solution
+(a) Comparing the given equation with
+
+_ - 271: 5+1
+By—Bosm l T
+
+2a
+
+A = —
+we get 0.5x1o3 m
+
+= 1.26 cm,
+
+and %= V: (1.5x10“)/2n =23.9 GHz
+
+(b) E0 = Boc = 2X10“7T x 3 x 108 m/s = 6 x 101 V/m
+The electric field component is perpendicular to the direction of
+propagation and the direction of magnetic field. Therefore, the
+electric field component along the z-aXis is obtained as
+
+E2 = 60 sin (0.5 x 103x + 1.5 x 1011 t) V/m
+
+2019-20

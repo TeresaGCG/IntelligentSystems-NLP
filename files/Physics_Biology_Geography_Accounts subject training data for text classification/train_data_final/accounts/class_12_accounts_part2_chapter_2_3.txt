@@ -1,0 +1,43 @@
+Issue and Redemption of Debentures 75
+
+(b) Zero Coupon Rate Debentures: These debentures do not carry a speciﬁc
+rate of interest. In order to compensate the investors, such debentures
+are issued at substantial discount and the difference between the
+nominal value and the issue price is treated as the amount of interest
+related to the duration of the debentures.
+
+2.3.5 From the view Point of Registration
+
+(a) Registered Debentures: Registered debentures are those debentures
+in respect of which all details including names, addresses and
+particulars of holding of the debentureholders are entered in a register
+kept by the company. Such debentures can be transferred only by
+executing a regular transfer deed.
+
+(b) Bearer Debentures: Bearer debentures are the debentures which can
+be transferred by way of delivery and the company does not keep any
+record of the debentureholdeRs Interest on debentures is paid to a
+person who produces the interest coupon attached to such debentures.
+
+ 
+
+Types of Debenture / Bond
+Security Tenure Mode of Coupon Registration
+| l Redemption rate I
+Secured/ Unsecured/ Redeemable Perpetual/ Convertible Non- Zero Speciﬁc Registered Unregistered]
+Mortgage Naked debenture lrredeemable debenture convertible coupon rate debenture Bearer
+debenture debenture debenture debenture rate/Deep debenture
+DiscountRate
+Fully Partly
+
+convertible convertible
+debenture debenture
+
+2.4 Issue of Debentures
+
+The procedure for the issue of debentures is the same as that for the issue of shares.
+The intending investors apply for debentures on the basis of the prospectus issued
+by the company. The company may either ask for the entire amount to be paid on
+application or by means of instalments on application, on allotment and on various
+calls. Debentures can be issued at par, at a premium or at a discount. They can
+also be issued for consideration other than cash or as a collateral security.

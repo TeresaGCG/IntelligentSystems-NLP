@@ -1,0 +1,118 @@
+40
+
+PHYSICS
+
+a rectangular coordinate system consisting of
+three mutually perpenducular axes, labelled X-,
+Y-, and Z- axes. The point of intersection of these
+three axes is called origin (0) and serves as the
+reference point. The coordinates (x, y. z) of an
+object describe the position of the object with
+respect to this coordinate system. To measure
+time, we position a clock in this system. This
+coordinate system along with a clock constitutes
+a frame of reference.
+
+If one or more coordinates of an object change
+with time, we say that the object is in motion.
+Otherwise, the object is said to be at rest with
+respect to this frame of reference.
+
+The choice of a set of axes in a frame of
+reference depends upon the situation. For
+example, for describing motion in one dimension,
+we need only one axis. To describe motion in
+two/ three dimensions, we need a set of two/
+three axes.
+
+Description of an event depends on the frame
+of reference chosen for the description. For
+example, when you say that a car is moving on
+a road, you are describing the car with respect
+to a frame of reference attached to you or to the
+ground. But with respect to a frame of reference
+attached with a person sitting in the car, the
+car is at rest.
+
+To describe motion along a straight line, we
+can choose an axis, say X-axis, so that it
+coincides with the path of the object. We then
+measure the position of the object with reference
+to a conveniently chosen origin, say O, as shown
+in Fig. 3.1. Positions to the right of O are taken
+as positive and to the left of O, as negative.
+Following this convention, the position
+coordinates of point P and Q in Fig. 3.1 are +360
+m and +240 m. Similarly, the position coordinate
+of point R is —120 m.
+
+Path length
+
+Consider the motion of a car along a straight
+line. We choose the x-axis such that it coincides
+
+R O
+
+with the path of the car’s motion and origin of
+the axis as the point from where the car started
+moving, i.e. the carwas at x= O at t= 0 (Fig. 3.1).
+Let P, Q and R represent the positions of the car
+at different instants of time. Consider two cases
+of motion. In the first case, the car moves from
+O to P. Then the distance moved by the car is
+OP = +360 m. This distance is called the path
+length traversed by the car. In the second
+case, the car moves from O to P and then moves
+back from P to Q. During this course of motion,
+the path length traversed is OP + PQ = + 360 m
++ (+120 m) = + 480 m. Path length is a scalar
+quantity — a quantity that has a magnitude
+only and no direction (see Chapter 4).
+
+Displacement
+
+It is useful to define another quantity
+displacement as the change in position. Let
+x1 and x2 be the positions of an object at time t1
+and t2. Then its displacement, denoted by Ax, in
+time At = (t2 - t1), is given by the difference
+between the final and initial positions :
+
+Ax = x2— x1
+(We use the Greek letter delta (A) to denote a
+change in a quantity.)
+If x2 > x1, Ax is positive; and if x2 < x1, Ax is
+negative.
+
+Displacement has both magnitude and
+direction. Such quantities are represented by
+vectors. You will read about vectors in the next
+chapter. Presently, we are dealing with motion
+along a straight line (also called rectilinear
+motion) only. In one-dimensional motion, there
+are only two directions (backward and forward,
+upward and downward) in which an object can
+move, and these two directions can easily be
+specified by + and — signs. For example,
+displacement of the car in moving from O to P is :
+
+Ax=x2—x1 = (+360 m) —Om= +360m
+
+The displacement has a magnitude of 360 m and
+is directed in the positive x direction as indicated
+by the + sign. Similarly, the displacement of the
+car from P to Q is 240 m— 360 m = — 120 m. The
+
+Q P
+
+—|—l—|—l—l—|—|—l—I—l—l—l—I—l—l—
+
+-l60 -120 -80 -40 0 40 80 120 160 200 240 280 320 360 400 m
+
+‘X
+
++x
+
+Fig. 3. 1 x—axis, origin and positions of a car at different times.
+
+2019-20

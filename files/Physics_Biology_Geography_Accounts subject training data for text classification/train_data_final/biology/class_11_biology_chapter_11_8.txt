@@ -1,0 +1,69 @@
+TRANSPORT IN PLANTS
+
+Let us discuss another experiment where a
+solution of sucrose in water taken in a funnel is
+separated from pure water in a beaker by a
+selectively permeable membrane (Figure 1 1.4).
+You can get this kind of a membrane in an egg.
+Remove the yolk and albumin through a small
+hole at one end of the egg, and place the shell
+in dilute solution of hydrochloric acid for a few
+hours. The egg shell dissolves leaving the
+membrane intact. Water will move into the funnel,
+resulting in rise in the level of the solution in the
+funnel. This will continue till the equilibrium is
+reached. In case sucrose does diffuse out
+through the membrane, will this equilibrium be
+ever reached?
+
+External pressure can be applied from the
+upper part of the funnel such that no water
+diffuses into the funnel through the membrane.
+This pressure required to prevent water from
+diffusing is in fact, the osmotic pressure and this
+is the function of the solute concentration; more
+the solute concentration, greater will be the
+pressure required to prevent water from diffusing
+in. Numerically osmotic pressure is equivalent
+to the osmotic potential, but the sign is
+opposite.Osmotic pressure is the positive
+pressure applied, while osmotic potential is
+negative.
+
+1 1 .2 .3 Plasmolysis
+
+The behaviour of the plant cells (or tissues) with
+regard to water movement depends on the
+surrounding solution. If the external solution
+balances the osmotic pressure of the cytoplasm,
+it is said to be isotonic. If the external solution
+is more dilute than the cytoplasm, it is
+hypotonic and if the external solution is more
+concentrated, it is hypertonic. Cells swell in
+hypotonic solutions and shrink in hypertonic
+ones.
+
+Plasmolysis occurs when water moves out of
+the cell and the cell membrane of a plant cell
+shrinks away from its cell wall. This occurs when
+
+181
+
+Pressure
+
+1
+
+ 
+
+Figure 11.4 A demonstration of osmosis. A
+thistle funnel is filled with
+sucrose solution and kept
+inverted in a beaker containing
+water. (a) Water will diffuse
+across the membrane (as
+shown by arrows) to raise the
+level of the solution in the
+funnel (b) Pressure can be
+applied as shown to stop the
+water movement into the
+funnel

@@ -1,0 +1,40 @@
+558 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+size in words. Using set associativity adds 0.2 ns to the cache access time. Using the
+first 1million references of gee, find the best I and 0 cache organizations, given the
+available SRAMs.
+II
+7.23 (10 ) <§§7.2, 8.5> For More Practice: Cache Configurations
+7.24 (10 ) <§§7.2, 8.5> " For More Practice: Cache Configurations
+7.25 (10 ) <§7.3> .. For More Practice: Cache Operation
+II
+7.26 (10 ) <§7.3> For More Practice: Cache Operation
+II
+7.27 (10 ) <§7.3> For More Practice: Cache Operation
+7.28 [5J <§7.3> Associativity usually improves the miss ratio, but not always.
+Give a short series of address references for which a two-way set-associative cache
+with LRU replacement would experience more misses than a direct-mapped cache
+of the same size.
+7.29 (15) <§7.3> Suppose a com puter's address size is k bits (using byte address 
+ing), the cache size is S bytes, the block size is B bytes, and the cache is A-way set 
+b
+associative. Assume that B is a power of two, so B = 2 . Figure out what the follow 
+ing quantities are in terms of 5, B, A, b, and k: the number of sets in the cache, the
+number of index bits in the address, and the number of bits needed to implement
+the cache (see Exercise 7. 12).
+III
+7.30 (10 ) <§7.3> For More Practice: Cache Configurations.
+III
+7.31 (10 ) <§7.3> For More Practice: Cache Configurations.
+7.32 (20 ) <§7.3> Consider three processors with different cache configurations:
+• Cache 1: Direct-mapped with one-word blocks
+• Cache 2: Direct-mapped with four-word blocks
+• Cache 3: Two-way set associative with four-word blocks
+The following miss rate measurements have been made:
+• Cache 1: Instruction miss rate is 4%; data miss rate is 6%.
+• Cache 2: Instruction miss rate is 2%; data miss rate is 4%.
+• Cache 3: Instruction miss rate is 2%; data miss rate is 3%.
+For these processors, one-half of the instructions contain a data reference. Assume
++
+that the cache miss penalty is 6 Block size in words. The CPI for this workload
+was measured on a processor with cache 1 and was found to be 2.0. Determine
+which processor spends the most cycles on cache misses.

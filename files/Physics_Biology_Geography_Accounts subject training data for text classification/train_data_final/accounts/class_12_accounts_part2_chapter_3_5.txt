@@ -1,0 +1,53 @@
+1 44 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Important Features of Presentation
+
+1. It applies to all Indian companies preparing financial statement
+commencing on or after April 0 1, 201 1.
+
+2. It does not apply to (i) Insurance or Banking Company, (ii) Company for
+which a form of balance sheet or income statement is speciﬁed under
+any other Act.
+
+3. Accounting standards shall prevail over Schedule III of the Companies
+Act, 2013.
+
+4. Disclosure on the face of the ﬁnancial statements or in the notes are
+essential and mandatory.
+
+5. Terms in the revised Schedule III will carry the meaning as deﬁned by
+the applicable accounting standards.
+
+6. Balance to be maintained between excessive details that may not assist
+users of ﬁnancial statements and not providing important information.
+
+7. Current and non-current bifurcation of assets and liabilities is applicable.
+
+Box 1
+Rounding-off Rule for figures in the Presentation of Financial Statements
+Rounding off of ﬁgures to be reported in the ﬁnancial statements is based on the size of
+turnover:
+
+1. Turnover < Rs.100 crore: Nearest hundreds, thousands, lakhs or millions or
+decimal thereof;
+
+2. Turnover > Rs. 100 crore: Nearest lakhs or millions or decimal thereof:
+
+ 
+
+8. Rounding off requirements is mandatory (refer box 1).
+9. Vertical format for presentation of ﬁnancial statement is prescribed (refer
+Exhibit 3. 1).
+1 0. Debit balance in the statement of proﬁt and loss to be disclosed as negative
+ﬁgure under the head “Surplus”.
+1 1. Mandatory disclosure for share application money pending allotment.
+12. ‘Sundry Debtors' and ‘Sundry Creditors' replaced by terms ‘Trade
+Receivables’ and ‘Trade Payables’.
+
+Shareholders Fund
+
+The shareholders' funds are sub-classiﬁed on the face of the balance sheet.
+a) Share Capital
+b) Reserves and Surplus
+
+c) Money received against Share Warrants

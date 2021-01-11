@@ -1,0 +1,65 @@
+Alternating Current
+
+ 
+
+with the source frequency and the attractive force would average to
+zero. Thus, the ac ampere must be defined in terms of some property
+that is independent of the direction of the current. Joule heating
+is such a property, and there is one ampere of rms value of
+alternating current in a circuit if the current produces the same
+average heating effect as one ampere of dc current would produce
+under the same conditions.
+
+In an ac circuit, while adding voltages across different elements, one
+should take care of their phases properly. For example, if VR and VC
+are voltages across R and C. respectively in an RC circuit, then the
+
+total voltage across RC combination is VRC =‘IVE +VC2j and not
+VR + VC since VC is 7r/2 out of phase of VR.
+
+Though in a phasor diagram, voltage and current are represented by
+vectors, these quantities are not really vectors themselves. They are
+scalar quantities. It so happens that the amplitudes and phases of
+harmonically varying scalars combine mathematically in the same
+way as do the projections of rotating vectors of corresponding
+magnitudes and directions. The “rotating vectors” that represent
+harmonically varying scalar quantities are introduced only to provide
+us with a simple way of adding these quantities using a rule that
+we already know as the law of vector addition.
+
+There are no power losses associated with pure capacitances and pure
+inductances in an ac circuit. The only element that dissipates energy
+in an ac circuit is the resistive element.
+
+In a RLC circuit, resonance phenomenon occur when XL = XC or
+
+I
+(00 = —. For resonance to occur, the presence of both L and C
+
+x/E
+
+elements in the circuit is a must. With only one of these (L or C)
+elements, there is no possibility of voltage cancellation and hence,
+no resonance is possible.
+
+The power factor in a RLC circuit is a measure of how close the
+circuit is to expending the maximum power.
+
+.In generators and motors, the roles of input and output are
+reversed. In a motor, electric energy is the input and mechanical
+energy is the output. In a generator, mechanical energy is the
+input and electric energy is the output. Both devices simply
+transform energy from one form to another.
+
+. A transformer (step—up) changes a low—voltage into a high—voltage.
+This does not violate the law of conservation of energy. The
+current is reduced by the same proportion.
+
+. The choice of whether the description of an oscillatory motion is
+by means of sines or cosines or by their linear combinations is
+unimportant, since changing the zero—time position transforms
+the one to the other.
+
+ 
+
+265

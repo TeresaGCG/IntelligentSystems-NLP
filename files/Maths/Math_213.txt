@@ -1,0 +1,19 @@
+Monomials and Polynomials
+213
+3.
+4.
+Lesson 11-4: Multiplying Polynomials
+In order to understand how to multiply two polynomials together, it
+is best to start with how to multiply a monomial and a polynomial. The
+key to multiplying a monomial and a polynomial together is to use the
+distributive property and the rules for multiplying numbers with the
+same base.
+Example 1
+Find the product: 6(2x − 8)
+Solution:
+Example 2
+Find the product: x(2x + 3)
+Solution:
+Example 3
+Find the product: 3x2(2x3 − 8)
+Solution:

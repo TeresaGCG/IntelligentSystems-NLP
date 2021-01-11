@@ -1,0 +1,124 @@
+i:
+«D
+00
+r—l
+_'.
+m
+l\
+3
+>.
+g
+b
+g
+2
+2
+
+ 
+
+208
+
+ 
+
+Michael Faraday
+1867]
+numerous contributions to
+science, viz., the discovery
+of electromagnetic
+
+[1791-
+Faraday made
+
+induction, the laws of
+electrolysis, benzene, and
+the fact that the plane of
+polarisation is rotated in an
+electric field. He is also
+credited with the invention
+of the electric motor, the
+electric generator and the
+transformer. He is widely
+regarded as the greatest
+experimental scientist of
+the nineteenth century.
+
+ 
+
+ 
+
+ 
+
+The magnitude of the induced emf in a circuit is equal
+to the time rate of change of magnetic ﬂux through the
+circuit.
+
+Mathematically, the induced emf is given by
+
+_dqu
+
+8: dt (6.3)
+
+The negative sign indicates the direction of 8 and hence
+the direction of current in a closed loop. This will be
+discussed in detail in the next section.
+
+In the case of a closely wound coil of N turns, change
+of ﬂux associated with each turn, is the same. Therefore,
+the expression for the total induced emf is given by
+
+ 
+
+dqu
+dt
+
+The induced emf can be increased by increasing the
+number of turns N of a closed coil.
+
+From Eqs. (6.1) and (6.2), we see that the ﬂux can be
+varied by changing any one or more of the terms B, A and
+6. In Experiments 6.1 and 6.2 in Section 6.2, the ﬂux is
+changed by varying B. The ﬂux can also be altered by
+changing the shape of a coil (that is, by shrinking it or
+stretching it) in a magnetic ﬁeld, or rotating a coil in a
+magnetic field such that the angle 0 between B and A
+changes. In these cases too, an emf is induced in the
+respective coils.
+
+8=—N
+
+ 
+
+(6.4)
+
+Example 6. 1 Consider Experiment 6.2. (a) What would you do to obtain
+a large deﬂection of the galvanometer? (b) How would you demonstrate
+the presence of an induced current in the absence of a galvanometer?
+
+Solution
+
+(a) To obtain a large deﬂection, one or more of the following steps can
+be taken: (i) Use a rod made of soft iron inside the coil C2, (ii) Connect
+the coil to a powerful battery, and (iii) Move the arrangement rapidly
+towards the test coil Cl.
+
+(b) Replace the galvanometer by a small bulb, the kind one ﬁnds in a
+
+EXAMPLE 6. 1
+
+small torch light. The relative motion between the two coils will cause
+the bulb to glow and thus demonstrate the presence of an induced
+current.
+
+In experimental physics one must leam to innovate. Michael Faraday
+who is ranked as one of the best experimentalists ever; was legendary
+
+for his innovative skills.
+
+EXAMPLE 6.2
+
+Example 6.2 A square loop of side 10 cm and resistance 0.5 Q is
+placed vertically in the east-west plane. A uniform magnetic field of
+0.10 T is set up across the plane in the north-east direction. The
+magnetic ﬁeld is decreased to zero in 0.70 s at a steady rate. Determine
+the magnitudes of induced emf and current during this time-interval.
+
+2019-20

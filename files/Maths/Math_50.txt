@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+50
+To find the reciprocal of a fraction, the numerator becomes the de-
+nominator and the denominator becomes the numerator. In other words,
+the reciprocal of the fraction   is the fraction  . The reciprocal of an
+integer is the fraction whose numerator is 1 and whose denominator is
+equal to the integer. In other words, the reciprocal of a is  .
+Fractions can involve positive or negative numbers in the numerator
+or the denominator. The following fractions are all equal in value:
+If your fraction is negative, it doesn’t matter whether the negative
+sign is in front of the fraction, associated with the numerator or associ-
+ated with the denominator. Remember that fractions involve division,
+and the sign of a quotient will be negative if the divisor and the dividend
+have opposite signs. Remember that the parts of a fraction correspond to
+the parts of a quotient.
+While I’m on the subject of negative signs, recall that the product of
+two negative numbers is a positive number, and a negative number di-
+vided by a negative number is a positive number. The same rule holds for
+fractions: If both the numerator and the denominator are negative, then
+the overall fraction will be positive.
+Lesson 3-1: Multiplying Fractions
+Multiplying fractions is very straightforward. When multiplying two
+fractions, multiply the two numerators together to get the numerator of
+the product and multiply the two denominators together to get the de-
+nominator of the product. We can write this algebraically as:
+Example 1
+Find the product:
+Solution: Multiply the two numerators together and the two
+denominators together:
+www.ebook3000.com

@@ -1,0 +1,52 @@
+BIOLOGY
+
+of complete nucleotide sequence of human genome during last decade
+has set in a new era of genomics. In the last section, the essentials of
+human genome sequencing and its consequences will also be discussed.
+
+Let us begin our discussion by ﬁrst understanding the structure of
+the most interesting molecule in the living system, that is, the DNA. In
+subsequent sections, we will understand that why it is the most abundant
+genetic material, and what its relationship is with RNA.
+
+6. 1 THE DNA
+
+DNA is a long polymer of deoxyribonucleotides. The length of DNA is
+usually deﬁned as number of nucleotides (or a pair of nucleotide referred
+to as base pairs) present in it. This also is the characteristic of an organism.
+For example, a bacteriophage known as ch X174 has 5386 nucleotides,
+Bacteriophage lambda has 48502 base pairs (bp), Escherichia coli has
+4.6 X 106 bp, and haploid content of human DNA is 3.3 X 109 bp. Let us
+discuss the structure of such a long polymer.
+
+6. 1. 1 Structure of Polynucleotide Chain
+
+Let us recapitulate the chemical structure of a polynucleotide chain (DNA
+or RNA). A nucleotide has three components — a nitrogenous base, a
+pentose sugar (ribose in case of RNA, and deoxyribose for DNA), and a
+phosphate group. There are two types of nitrogenous bases — Purines
+(Adenine and Guanine), and Pyrimidines (Cytosine, Uracil and Thymine).
+Cytosine is common for both DNA and RNA and Thymine is present in
+DNA. Uracil is present in RNA at the place of Thymine. A nitrogenous
+base is linked to the OH of l'C pentose sugar through a N-glycosidic
+linkage to form a nucleoside, such as adenosine or deoxyadenosine,
+guanosine or deoxyguanosine, cytidine or deoxycytidine and uridine or
+deoxythymidine. When a phosphate group is linked to OH of BIG of a
+nucleoside through phosphoester linkage, a corresponding nucleotide
+(or deoxynucleotide depending upon the type of sugar present) is formed.
+Two nucleotides are linked through 3,-5' phosphodiester linkage to form
+a dinucleotide. More nucleotides can be joined in such a manner to form
+a polynucleotide chain. A polymer thus formed has at one end a free
+
+5’ phosphate
+
+is
+
+  
+  
+
+3 ’ hydroxyl
+
+Figure 6.1 A Polynucleotide chain
+
+2019—2020

@@ -1,0 +1,38 @@
+One challenge is that the stopping distance ability to steer during the severe braking that
+for the TGV is nominally four blocks (some  might occur in emergency conditions. By detect 
+what shorter in an absolute emergency). The ing wheel lockup and alternately applying and
+time to travel four blocks is 1.2 minutes, and releasing the brakes under computer control, an
+the newest signaling system trains are run at a antilock brake system can avoid wheel lockup.
+3 minute headway, even in fog! So the system Airbags use a force sensor to detect severe
+must monitor the presence of all trains and deacceleration, which occurs during a collision.
+ensure the most important property: only one The airbags are deployed by a computer that
+train ever occupies a block of track at the same reads the sensor. The new generation of airbags
+time! The system constantly communicates uses a two-stage deployment: when the deaccel 
+the maximum safe speed for the current block, eration indicates a collision of moderate severity,
+improving performance and safety. the airbag inflates more slowly, reducing the pos 
+The TVM system has been built with eA1ensive sibility of passenger injury from rapid deploy 
+attention to safety, which means heavy use of ment in a moderate collision. Reliability of these
+redundancy to ensure the operation of the system safety systems has been enhanced by a com 
+in the face of failure of a component. The failure puter-controlled test that is run every time the
+rate ofTVM has been estimated at less than 1 fail  vehicle is started.
+ure in a million years. This attention to safety has Modern ignition systems in automobiles aim to
+paid off. in over two decades of service, there have enhance mileage while reducing pollution. Hap 
+been no fatal accidents caused by a TVM failure pily these two goals are doubly congruent:
+The images on the previous page and below enhancing mileage reduces pollution through the
+show the Eurostar TGV and the cab and oper  use of less fuel, and mileage is enhanced by more
+ator's seat. effective combustion, which also reduces the
+Computers have also played a key role in mak  emission of partially combusted fuel. Computers
+ing cars safer, more efficient, and less polluting. control the injection of fuel, the amount of air
+The modern automobile has dozens of micro  injected, and the spark timing, which must
+processors controlling everything from braking, change as the engine runs faster. Careful control of
+to ignition, to air bag deployment. these elements over the full operating range from
+In the area of safety, airbags and antilock brakes 1000 to 6000 RPM and different temperature con 
+have been two of the most important innovations ditions has helped improve mileage and reduce
+since the seat belt. Antilock brakes preserve the pollution.
+To learn more see these references on
+IIiI
+the library
+"An investigation of the Therac-25 accidents," Nancy G.
+Leveson and Clark S. Tumer.IEEE Computer, 26(7): 18 
+41, July 1993.
+The Interior of a Eurostar TGV cab.

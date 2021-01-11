@@ -1,0 +1,54 @@
+170 Chapter 3 Arithmetic: for Computers
+Elaboration: Two's complement gets its name from the rule that the unsigned sum
+n
+of an n-bit number and its negative is 2 ; hence, the complement or negation of a two's
+n
+complement number x is 2 - x.
+A third alternative representation is called ones complement. The negative of a
+one's complement is found by inverting each bit, from 0 to 1 and from 1 to 0, which
+n
+helps explain its name since the complement of x is 2 - x - 1. It was also an attempt
+to be a better solution than sign and magnitude, and several scientific computers did
+use the notation. This representation is similar to two's complement except that it also
+has two Os: 00 OOtwo is positive 0 and 11 ... ll is negative O. The most nega-
+two
+tive number 10 00Otwo represents -2,147,483,647 , and so the positives and
+ten
+negatives are balanced. One's complement adders did need an extra step to subtract a
+number, and hence two's complement dominates today.
+A final notation, which we will look at when we discuss floating point, is to represent
+the most negative value by 00 ... ooo.wo and the most positive value represented by
+biased notation A notation 11. .. ll ' with 0 typically having the value 10 ... OOtwo' This is called a biased
+two
+that represents the most notation, since it biases the number such that the number plus the bias has a nonneg 
+negative value by 00 ... OOOrwo
+ative representation.
+and the most positive value by
+11 ... I1 with 0 typically
+,
+two
+having the value 10 ... 00
+1"'0' Elaboration: For signed decimal numbers we used "-" to represent negative
+thereby biasing the number
+because there are no limits to the size of a decimal number. Given a fixed word size,
+such that the number plus the
+binary and hexadecimal bit strings can encode the sign, and hence we do not normally
+bias has a nonnegative
+use "+" or "-" with binary or hexadecimal notation.
+representation.
+Subtraction: Addition's
+Tricky Pal
+Addition and Subtraction
+No. 10, Top Ten Courses for
+Athletes at a Football Factory,
+David Letterman et aL, Book of
+Top Tell Lists, 1990
+Addition is just what you would expect in computers. Digits are added bit by bit
+from right to left, with carries passed to the next digit to the left, just as you would
+do by hand. Subtraction uses addition: The appropriate operand is simply negated
+before being added.
+Binary Addition and Subtraction
+Let's try adding 6 to 7 in binary and then subtracting 6 from 7 in
+ten ten ten ten
+EXAMPLE
+binary.

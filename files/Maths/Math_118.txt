@@ -1,0 +1,21 @@
+Homework Helpers: Basic Math and Pre-Algebra
+118
+Multiply both fractions by 1
+Make the denominators the same 
+Simplify
+Now that our variables are one side and the numbers are on the
+other side, we can solve the equation. Multiply both sides of the
+equation by   and simplify:
+Multiply both sides by 
+Simplify
+Write your answer as either an improper fraction or a mixed
+number.
+The last step is to check our work.
+When , the left-hand side of the equation gives
+ and the right-hand side of the equation gives
+Both sides calculate to  , so our solution is correct.
+Example 3
+Solve the equation: 5x= 2x+ 6
+Solution: Gather the variables on one side of the equation and
+the numbers on the other side. Then solve the equation.
+www.ebook3000.com

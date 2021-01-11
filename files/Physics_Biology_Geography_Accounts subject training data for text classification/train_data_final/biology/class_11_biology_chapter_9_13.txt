@@ -1,0 +1,57 @@
+BIOMOLECULES
+
+for every 10°C change in either direction. Catalysed reactions proceed at
+rates vastly higher than that of uncatalysed ones. When enzyme catalysed
+reactions are observed, the rate would be vastly higher than the same but
+uncatalysed reaction. For example
+
+Carbonic anhydrase
+CO2 + H20 H2CO3
+
+carbon dioxide water carbonic acid
+
+In the absence of any enzyme this reaction is very slow, with about
+200 molecules of H2CO3 being formed in an hour. However, by using the
+enzyme present within the cytoplasm called carbonic anhydrase, the
+reaction speeds dramatically with about 600,000 molecules being formed
+every second. The enzyme has accelerated the reaction rate by about 10
+million times. The power of enzymes is incredible indeed!
+
+There are thousands of types of enzymes each catalysing a unique
+chemical or metabolic reaction. A multistep chemical reaction, when each
+of the steps is catalysed by the same enzyme complex or different enzymes,
+is called a metabolic pathway. For example,
+
+Glucose —> 2 Pyruvic acid
+C H O + 02—) 2C3H‘1 O3+2H20
+
+6126
+
+is actually a metabolic pathway in which glucose becomes pyruvic acid
+through ten different enzyme catalysed metabolic reactions. When you
+study respiration in Chapter 14 you will study these reactions. At this
+stage you should know that this very metabolic pathway with one or two
+additional reactions gives rise to a variety of metabolic end products. In
+our skeletal muscle, under anaerobic conditions, lactic acid is formed.
+Under normal aerobic conditions, pyruvic acid is formed. In yeast, during
+fermentation, the same pathway leads to the production of ethanol
+(alcohol). Hence, in different conditions different products are possible.
+
+9.12.2 How do Enzymes bring about such High Rates of
+Chemical Conversions?
+
+To understand this we should study enzymes a little more. We have already
+understood the idea of an ‘active site’. The chemical or metabolic conversion
+refers to a reaction. The chemical which is converted into a product is
+called a ‘substrate’. Hence enzymes, i.e. proteins with three dimensional
+structures including an ‘active site’, convert a substrate (8) into a product
+(P). Symbolically, this can be depicted as:
+
+S—>P
+
+It is now understood that the substrate ‘8’ has to bind the enzyme at
+its ‘active site’ within a given cleft or pocket. The substrate has to diffuse
+
+201 93-2020
+
+155

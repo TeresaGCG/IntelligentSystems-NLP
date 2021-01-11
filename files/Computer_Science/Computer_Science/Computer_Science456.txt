@@ -1,0 +1,46 @@
+440 Chapter 6 Enhancing Performance with Plpellnlng
+ALU or branch Instruction Data transfer Instruction Clock cycle
+,.
+Loop: addi $s l , $s l. 16 1. St O, 0($ s1) 1
+$t l, 12{$ s l) 2
+addu StO.StO. Ss2 1. $t 2. 8 ($ s1 ) 3
+addu Stl , $t1 . Ss2 1. $t3. 4( Ss1) 4
+addu $t2.$t2. $s2 '" $tO. 16{$ sl) 5
+addu St3.St3. Ss2 '" $tl. 12( Ss1 ) 6
+'" $t 2• B{S s l) 7
+boe $sl. $ze ro.Loop '" St3. 4($ 51) 8
+FIGURE 6.47 The unrolled and scheduled code of Figure 6.46 as It would look on a static
+two-lssue MIPS pipeline. The empty slots are naps. Since the first instruction in the loop decrements
+$s 1 by 16, the addresses loaded are the original value of $s 1, then that address minus 4, minus 8, and
+minus 12.
+The Intel IA-64 Architecture
+The IA-64 architecnlfe is a register-register, RI SC-style instruction set like the 64 
+bit version of the MIPS architecture (called MIPS-64), but with several unique
+features to support explicit, compiler-driven exploitation of ILP. Intel calls the
+approach EPIC (Explicitly Parallel Instruction Computer). The major differences
+between IA-64 and the MIPS architecture are the following:
+I. IA-64 has many more registers than MIPS, including 128 integer and 128
+floating-point registers, as well as 8 special registers for branches and 64 1 
+bit condition registers. In addition, IA-64 supports register windows in a
+fashion similar to the original Berkeley RI SC and Sun SPARC architectures.
+2. IA-64 places instructions into bundles that have a fixed format and explicit
+designation of dependences.
+3. IA-64 includes special instructions and capabilities for speculation and for
+branch elimination, which increase the amount of ILP that ca n be
+exploited.
+The IA-64 architecnlfe is designed to achieve the major benefits of a VLIW 
+implicit parallelism among operations in an instruction and fixed formatting of
+the operation fields-while maintaining greater flexibility than a VLIW normally
+allows. The IA-64 architecture uses two different concepts to achieve this flexibil 
+instruction group In IA-64, a ity: instruction groups and bundles.
+sequence of consecutive instruc  An instruction group is a sequence of consecutive instructions with no register
+tions with no register data
+data dependences among them. All the instructions in a group could be executed
+dependences among them.
+in parallel if sufficient hardware resources existed and if any dependences through
+stop In IA-64, an explicit indi  memory were preserved. An instruction group can be arbitrarily long, but the
+cator of a break between inde  compiler must explicitly indicate the boundary between one instruction group
+pendent and dependent
+and another. This boundary is indicated by placing a stop between two instruc 
+instructions.
+tions that belong to different groups.

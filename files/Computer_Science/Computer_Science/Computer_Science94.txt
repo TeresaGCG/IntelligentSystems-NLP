@@ -1,0 +1,47 @@
+78 Chapter 2 Instructions: Language of the Computer
+MIPS machine language
+Name Format Example Comments
+,dd R 0 18 19 17 0 32 ,dd $51.$s2.$s3
+"" R 0 18 19 17 0 34 'ob $51.$s2.$s3
+" I 35 18 17 100 $51.100($52)
+.- ."-
+I 43 18 17 100 $51.100($52)
+'"' R 0 18 19 17 0 36 '"' $5 1. $52.$53
+" R 0 18 19 17 0 37 " $5 1. $52.$53
+'" R 0 18 19 17 0 39 "" $5 1. $52.$53
+and1 I 12 18 17 100 dnd i $5 1,$52.100
+",
+ori I 13 18 17 100 $5 1,$52.100
+," ,"
+R 0 0 18 17 10 0 $51.$52.10
+,,' ,,'
+R 0 0 18 17 10 2 $51.$52.10
+b" I 4 17 18 25 b" S51.Ss2.100
+b", I 5 17 18 25 b", $51.$s2.100
+,it R 0 18 19 17 I 0 I 42 ,it $51.$s2.$s3
+j J 2 2500 j 10000 (see Se<:tion 2.9)
+Field size 6 bits 5 bits 5 bits 5 bits 5 bits 6 bits All MIPS instructions 32 bits
+0'
+R·fonnat R ffi " '" shamt iuocl Arithmetic instruction format
+0'
+Hannat I ffi " address Data transfer, branch fannat
+FIGURE 2.13 MIPS machine language revealed through Section 2.6. Hig.hlighted portions show MIPS structures introduced in Section 2.6.
+The ,·format, used for jwnp instructions, is explained in Section 2.9. Section 2.9 also explains the proper values in address fields ofbranch instructions.
+3. More decision statements mean fewer lines of code, which generally
+reduces coding time.
+4. More decision statements mean fewer lines of code, which generally results
+in the execution of fewer operations.
+Why does C provide two sets of operators for AND (& and &&) and two sets of
+II)
+operators for OR (I and while MIPS doesn't?
+I
+1. Logical operations AND and OR implement & and while conditional
+II.
+branches implement && and
+II
+2. The previous statement has it backwards: && and correspond to logical
+I
+operations while & and map to conditional branches.
+II
+3. They are redundant and mean the same thing: && and are simply inher 
+ited from the programming language B, the predecessor of C.

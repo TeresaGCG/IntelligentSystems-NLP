@@ -1,0 +1,80 @@
+i Physics
+
+ 
+
+N2 turns
+
+FIGURE 6.15 Two long co—axial
+solenoids of same
+
+220
+
+length l.
+
+and intrinsic material properties. This aspect is akin to capacitance which
+for a parallel plate capacitor depends on the plate area and plate separation
+(geometry) and the dielectric constant K of the intervening medium
+(intrinsic material property).
+
+Inductance is a scalar quantity. It has the dimensions of [M LZT‘2A‘2]
+given by the dimensions of ﬂux divided by the dimensions of current. The
+SI unit of inductance is henry and is denoted by H. It is named in honour
+of Joseph Henry who discovered electromagnetic induction in USA,
+independently of Faraday in England.
+
+6.9. 1 Mutual inductance
+
+Consider Fig. 6. 1 5 which shows two long co-axial solenoids each of length
+i. We denote the radius of the inner solenoid S1 by r1 and the number of
+turns per unit length by n1. The corresponding quantities for the outer
+solenoid S2 are r2 and n2, respectively. Let N1 and N2 be the total number
+of turns of coils S1 and S2, respectively.
+
+When a current I2 is set up through S , it in turn sets up a magnetic
+ﬂux through SI. Let us denote it by (1)1. The corresponding ﬂux linkage
+with solenoid S1 is
+
+N1 951 = M1212 (6.9)
+
+M12 is called the mutual inductance of solenoid S1 with respect to
+solenoid S2. It is also referred to as the coefﬁcient of mutual induction.
+
+For these simple co-axial solenoids it is possible to calculate M12. The
+
+magnetic ﬁeld due to the current I2 in S2 is ,uon212. The resulting ﬂux linkage
+with coil S1 is,
+
+N1? = (nil) (TU-12) (#011212)
+
+= ,uon1n27tr121 12 (6.10)
+
+where nllis the total number of turns in solenoid SI. Thus, from Eq. (6.9)
+and Eq. (6.10),
+
+M12 = ,uonlngnrfl (6.1 1)
+
+Note that we neglected the edge effects and considered
+the magnetic field ,uon212 to be uniform throughout the
+length and width of the solenoid S2. This is a good
+approximation keeping in mind that the solenoid is long,
+implying 1 >> r2.
+
+We now consider the reverse case. A current I1 is
+
+passed through the solenoid S1 and the ﬂux linkage with
+coil S2 is,
+
+N243 = M I (6.12)
+
+211
+
+M21 is called the mutual inductance of solenoid 82 with
+respect to solenoid SI.
+
+The ﬂux due to the current I1 in S1 can be assumed to
+be conﬁned solely inside S1 since the solenoids are very
+long. Thus, ﬂux linkage with solenoid S2 is
+
+N2¢2 : (”21) (“’12) (#0n111)
+
+2019-20

@@ -1,0 +1,16 @@
+Operations With Fractions
+63
+Solution: Find the common denominator: 12 and 5 are relatively
+prime so their common denominator is 60. Both of the denomi-
+nators need to be changed:
+Now we are ready to subtract:
+Example 4
+Evaluate:
+Solution: Find the common denominator: 30 = 2 × 3 × 5  and 5 is
+prime, so their common denominator is 30. Only the second
+fraction’s denominator needs to be changed:
+Now we are ready to subtract:
+Lesson 3-5 Review
+Subtract the following fractions:
+1. 3.
+2. 4.

@@ -1,0 +1,89 @@
+Moving Charges and
+Magnetism
+
+4.5 MAGNETIC FIELD DUE To A CURRENT ELEMENT,
+BIOT-SAVART LAW
+
+All magnetic ﬁelds that we know are due to currents (or moving charges)
+and due to intrinsic magnetic moments of particles. Here, we
+
+shall study the relation between current and the magnetic ﬁeld
+
+it produces. It is given by the Biot-Savart’s law. Figure 4.9 shows
+
+a ﬁnite conductor XY carrying current I . Consider an inﬁnitesimal Y
+element dl of the conductor. The magnetic field dB due to this
+element is to be determined at a point P which is at a distance r
+
+from it. Let 0 be the angle between dl and the displacement vector
+
+r. According to Biot—Savart’s law, the magnitude of the magnetic
+
+ﬁeld dB is proportional to the current I, the element length I dll ,
+
+and inversely proportional to the square of the distance r. Its
+direction* is perpendicular to the plane containing dl and r .
+
+Thus, in vector notation,
+
+ 
+
+ 
+
+Current element
+
+ 
+
+Idlxr
+dB 0: 3
+r FIGURE 4.9 Illustration of
+#0 Idl><r the Blot—Savart law. The
+= _ 3 [4_11(a)] current element 1 dl
+47‘ r produces a field dB at a
+where ,uO/47t is a constant of proportionality. The above (“Stance r- The ® Sign
+
+expression holds when the medium is vacuum.
+The magnitude of this ﬁeld is,
+
+|dB| = [4.1 MW
+
+47: r2
+
+where we have used the property of cross-product. Equation [4.1 1 (a)]
+constitutes our basic equation for the magnetic ﬁeld. The proportionality
+constant in SI units has the exact value,
+
+& = —7
+476 10 Tm/A [4.11(C)]
+
+We call ,uO the permeability of free space (or vacuum).
+
+The Biot-Savart law for the magnetic ﬁeld has certain similarities, as
+well as, differences with the Coulomb’s law for the electrostatic ﬁeld. Some
+of these are:
+
+(i) Both are long range, since both depend inversely on the square of
+distance from the source to the point of interest. The principle of
+superposition applies to both fields. [In this connection, note that
+the magnetic ﬁeld is linear in the source I dl just as the electrostatic
+ﬁeld is linear in its source: the electric charge]
+
+(ii) The electrostatic ﬁeld is produced by a scalar source, namely, the
+electric charge. The magnetic ﬁeld is produced by a vector source
+I dl.
+
+* The sense of le r is also given by the Right Hand Screw mle : Look at the
+plane containing vectors dl and 1'. Imagine moving from the first vector towards
+second vector. If the movement is anticlockwise, the resultant is towards you.
+If it is clockwise, the resultant is away from you.
+
+2019-20
+
+indicates that the
+field is perpendicular
+to the plane of this
+,uo Idl sine page and directed
+
+into it.
+
+143

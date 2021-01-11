@@ -1,0 +1,103 @@
+5.5
+
+5.6
+
+5.7
+
+5.8
+
+5.9
+
+5.10
+
+5.11
+
+5.12
+
+5.13
+
+5.14
+
+Magnetism and
+Mo’r’rer
+
+ 
+
+A closely wound solenoid of 800 turns and area of cross section
+2.5 X 10’4 m2 carries a current of 3.0 A. Explain the sense in which
+the solenoid acts like a bar magnet. What is its associated magnetic
+moment?
+
+If the solenoid in Exercise 5.5 is free to turn about the vertical
+direction and a uniform horizontal magnetic field of 0.25 T is applied,
+what is the magnitude of torque on the solenoid when its axis makes
+an angle of 30° with the direction of applied field?
+
+A bar magnet of magnetic moment 1.5 J T ’1 lies aligned with the
+direction of a uniform magnetic ﬁeld of 0.22 T.
+
+(a) What is the amount of work required by an external torque to
+turn the magnet so as to align its magnetic moment: (i) normal
+to the field direction, (ii) opposite to the field direction?
+
+(b) What is the torque on the magnet in cases (i) and (ii)?
+
+A closely wound solenoid of 2000 turns and area of cross-section
+
+1.6 X 10’4 m2, carrying a current of 4.0 A, is suspended through its
+
+centre allowing it to turn in a horizontal plane.
+
+(a) What is the magnetic moment associated with the solenoid?
+
+(b) What is the force and torque on the solenoid if a uniform
+horizontal magnetic field of 7.5 X 10’2 T is set up at an angle of
+30° with the axis of the solenoid?
+
+A circular coil of 16 turns and radius 10 cm carrying a current of
+
+0.75 A rests with its plane normal to an external ﬁeld of magnitude
+
+5.0 X 10’2 T. The coil is free to turn about an axis in its plane
+
+perpendicular to the field direction. When the coil is turned slightly
+
+and released, it oscillates about its stable equilibrium with a
+
+frequency of 2.0 s’l. What is the moment of inertia of the coil about
+
+its axis of rotation?
+
+A magnetic needle free to rotate in a vertical plane parallel to the
+magnetic meridian has its north tip pointing down at 22° with the
+horizontal. The horizontal component of the earth’s magnetic field
+at the place is known to be 0.35 G. Determine the magnitude of the
+earth’s magnetic field at the place.
+
+At a certain location in Africa, a compass points 12° west of the
+geographic north. The north tip of the magnetic needle of a dip circle
+placed in the plane of magnetic meridian points 60° above the
+horizontal. The horizontal component of the earth’s ﬁeld is measured
+to be 0.16 G. Specify the direction and magnitude of the earth’s field
+at the location.
+
+A short bar magnet has a magnetic moment of 0.48 J T’l. Give the
+direction and magnitude of the magnetic field produced by the magnet
+at a distance of 10 cm from the centre of the magnet on (a) the axis,
+(b) the equatorial lines (normal bisector) of the magnet.
+
+A short bar magnet placed in a horizontal plane has its axis aligned
+along the magnetic north-south direction. Null points are found on
+the axis of the magnet at 14 cm from the centre of the magnet. The
+earth’s magnetic field at the place is 0.36 G and the angle of dip is
+zero. What is the total magnetic ﬁeld on the normal bisector of the
+magnet at the same distance as the null—point (i.e., 14 cm) from the
+centre of the magnet? (At null points, ﬁeld due to a magnet is equal
+and opposite to the horizontal component of earth’s magnetic field.)
+
+If the bar magnet in exercise 5.13 is turned around by 180°, where
+will the new null points be located?
+
+2019-20
+
+201

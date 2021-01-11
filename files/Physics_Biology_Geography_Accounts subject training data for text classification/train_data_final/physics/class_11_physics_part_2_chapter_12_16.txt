@@ -1,0 +1,54 @@
+The specific heat capacity of a substance is defined by
+
+where m is the mass of the substance and AQ is the heat required to change its
+temperature by AT. The molar specific heat capacity of a substance is defined by
+
+0:139
+,u AT
+
+where u is the number of moles of the substance. For a solid, the law of equipartition
+of energy gives
+C = 3 R
+
+which generally agrees with experiment at ordinary temperatures.
+
+Calorie is the old unit of heat. 1 calorie is the amount of heat required to raise the
+temperature of 1 g of water from 14.5 °C to 15.5 °C. 1 cal = 4.186 J.
+
+For an ideal gas, the molar specific heat capacities at constant pressure and volume
+satisfy the relation
+Cp — CL, = R
+
+where R is the universal gas constant.
+
+Equilibrium states of a thermodynamic system are described by state variables. The
+value of a state variable depends only on the particular state, not on the path used to
+arrive at that state. Examples of state variables are pressure (P), volume (V), temperature
+(T), and mass (m). Heat and work are not state variables. An Equation of State (like
+the ideal gas equation PV = ,u RT) is a relation connecting different state variables.
+
+A quasi—static process is an infinitely slow process such that the system remains in
+thermal and mechanical equilibrium with the surroundings throughout. In a
+quasi—static process, the pressure and temperature of the environment can differ from
+those of the system only infinitesimally.
+
+In an isothermal expansion of an ideal gas from volume V1 to V2 at temperature Tthe
+heat absorbed (Q) equals the work done (W) by the gas, each given by
+
+[V21
+Q— — [.LRT ln V1,
+
+In an adiabatic process of an ideal gas
+PV 7 = constant
+where
+
+Work done by an ideal gas in an adiabatic change of state from (P1, V1, T1) to (P2, V2, T2)
+is
+
+WzyRm—n)
+y»1
+
+. Heat engine is a device in which a system undergoes a cyclic process resulting in
+conversion of heat into work. If Q1 is the heat absorbed from the source, Q2 is the heat
+released to the sink, and the work output in one cycle is W. the efficiency 11 of the engine
+is:

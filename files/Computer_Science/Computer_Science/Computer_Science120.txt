@@ -1,0 +1,35 @@
+104 Chapter 2 Instructions: Language of the Computer
+Name Fields Comments
+Field size 6 bits 5 bits 5 bits 5 bits 5 bits 6 bits All MIPS instructions 32 bits
+0'
+R·format " rt '" shamt furoct Arithmetic instruction format
+0'
+I{ormat " rt address/immediate Transfer. branch. imm. format
+0'
+J.format target address Jump instruction format
+FIGURE 2.26 MIPS Instruction formats In Chapter 2. Highlighted portions show instruction formats introduced
+in this section.
+Check
+What is the range of addresses for conditional branches in M IPS (K = 1024)?
+Yourself
+I. Addresses between 0 and 64K - I
+2. Addresses between 0 and 256K - I
+3. Addresses up to about 32K before the branch to about 32K after
+4. Addresses up to about 128K before the branch to about 128K after
+What is the range of addresses for jump and jump and link in M IPS (M = 1024K)?
+1. Addresses between 0 and 64M - I
+2. Addresses between 0 and 256M - I
+3. Addresses up to about 32M before the branch to about 32M after
+4. Addresses up to about 128M before the branch to about 128M after
+5. Anywhere within a block of 64M addresses where the PC supplies the upper
+6 bits
+6. Anywhere within a block of 256M addresses where the PC supplies the
+upper 4 bits
+What is the M IPS assembly language instruction corresponding to the machine
+instruction with the value 0000 OOOOhex?
+I. J
+2. R- format
+3. addi
+4. s11
+5. mfcO
+6. Undefined opcode: there is no legal instruction that corresponds to O.

@@ -1,0 +1,82 @@
+188
+
+PHYSICS
+
+(b) Now if the mass at vertex A is doubled
+then
+
+= GZITILZm j : 4G1’1’12j:
+F53 = FGB and FCC = FGC
+Fl? 2 FéA + F63 + Foo
+F1; =2Gm2j 4
+For the gravitational force between an extended
+object (like the earth) and a point mass, Eq. (8.5) is not
+
+directly applicable. Each point mass in the extended
+object will exert a force on the given point mass and
+
+F51;
+
+ 
+
+Fig. 8.5 Three equal masses are placed at the three these force will not all be in the e 1' tion We
+
+rtic the A ABC. A 2 ' l d
+2: theeieiftroid G. mass m LS p ace have to add up these forces vecton'ally for all the point
+
+masses in the extended object to get the total force.
+This is easily done using calculus. For two special
+FGA = j cases, a simple law results when you do that :
+
+(1) The force of attraction between a hollow
+) A - spherical shell of uniform density and a
+FGB = — (—i cos 30" — j sin 30”) point mass situated outside is just as if
+the entire mass of the shell is
+
+Gm (2m) concentrated at the centre of the shell.
+
+FGC Z 1 (+i COS 3‘00 ‘j sin 300) Qualitatively this can be understood as
+From the principle of superposition and the law fOH9WS: GrfWitaﬁonal forces caused by the
+of vector addition, the resultant gravitational vanous regions ofthe shell have components
+force FR on (2m) is along the line joining the point mass to the
+
+FR = FGA + Fog + Foc centre as well as along a direction
+
+Alternatively, one expects on the basis of
+symmetry that the resultant force ought to be
+
+ZCFO .
+
+2 i. 2 : o i. ' o prependicular to this line. The components
+FR 2 ZGm J + 2Gm (‘1 COS 30 _J s1n 30 ) prependicular to this line cancel out when
+
++ 2Gm2( i cos 300 _ 3 sin 300) = 0 summing over all regions of the shell leaving
+only a resultant force along the line joining
+the point to the centre. The magnitude of
+this force works out to be as stated above.
+
+Newton's Principia
+
+ 
+
+Kepler had formulated his third law by 1619. The announcement of the underlying universal law of
+gravitation came about seventy years later with the publication in 1687 of Newton‘s masterpiece
+Philosophiae Naturalis Principia Mathematics, often simply called the Principia.
+
+Around 1685, Edmund Halley [after whom the famous Halley's comet is named). came to visit
+Newton at Cambridge and asked him about the nature of the trajectory of a body moving under the
+inﬂuence of an inverse square law. Without hesitation Newton replied that it had to be an ellipse.
+and further that he had worked it out long ago around 1665 when he was forced to retire to his farm
+house from Cambridge on account of a plague outbreak. Unfortunately. Newton had lost his papers.
+Halley prevailed upon Newton to produce his work in book form and agreed to bear the cost of
+publication. Newton accomplished this feat in eighteen months of superhuman effort. The Principia
+is a singular scientiﬁc masterpiece and in the words of Lagrange it is “the greatest production of the
+human mind.“ The Indian born astrophysicist and Nobel laureate S. Chandrasekhar spent ten years
+writing a treatise on the Principia. His book. Newton's Principia for the Common Reader brings
+into sharp focus the beauty. clarity and breath taking economy of Newton‘s methods.
+
+ 
+
+ 
+
+2019-20

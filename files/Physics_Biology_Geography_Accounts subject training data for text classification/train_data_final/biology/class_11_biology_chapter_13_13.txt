@@ -1,0 +1,82 @@
+PHOTOSYNTHESIS IN HIGHER PLANTS
+
+Now study the pathway shown in Figure 1 3.9. This pathway that has
+been named the Hatch and Slack Pathway, is again a cyclic process. Let
+us study the pathway by listing the steps.
+
+The primary CO2 acceptor is a 3-carbon molecule phosphoenol
+pyruvate (PEP) and is present in the mesophyll cells. The enzyme
+responsible for this ﬁxation is PEP carboxylase or PEPcase. It is important
+to register that the mesophyll cells lack RuBisCO enzyme. The C 4 acid
+OAA is formed in the mesophyll cells.
+
+It then forms other 4—carbon compounds like malic acid or aspartic
+acid in the mesophyll cells itself, which are transported to the bundle
+sheath cells. In the bundle sheath cells these C 4 acids are broken down
+to release CO2 and a 3-carbon molecule.
+
+The 3-carbon molecule is transported back to the mesophyll where it
+is converted to PEP again, thus, completing the cycle.
+
+The CO2 released in the bundle sheath cells enters the C3 or the Calvin
+pathway, a pathway common to all plants. The bundle sheath cells are
+
+Atmospheric C02
+
+ 
+
+     
+      
+    
+     
+  
+
+Plasma
+membrane
+
+Mcsophyll
+cell
+
+Cell wall
+
+H €03- Phosphoenol-
+
+I pyruvate
+
+C4 acid C3 acid
+
+Fixation by
+Calvin cycle
+
+1
+
+co2
+
+Decarboxylation C‘3 acid
+
+      
+ 
+
+Plasm0~
+desmata
+
+Bundle l
+sheath
+
+cell
+
+<.
+
+    
+      
+   
+ 
+
+ 
+ 
+
+Figure 13.9 Diagrammatic representation of the Hatch and Slack Pathway
+
+2019-2020
+
+219

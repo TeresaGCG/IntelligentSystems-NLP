@@ -1,0 +1,136 @@
+spheres. When the separation between two spheres is much
+larger than the radius of each sphere, the charged spheres
+may be regarded as point charges. However, the charges
+on the spheres were unknown, to begin with. How then
+could he discover a relation like Eq. (1 . 1)? Coulomb
+thought of the following simple way: Suppose the charge
+on a metallic sphere is q. If the sphere is put in contact
+with an identical uncharged sphere, the charge will spread
+over the two spheres. By symmetry, the charge on each
+sphere will be q/ 2*. Repeating this process, we can get
+charges q/ 2, q/ 4, etc. Coulomb varied the distance for a
+ﬁxed pair of charges and measured the force for different
+separations. He then varied the charges in pairs, keeping
+the distance fixed for each pair. Comparing forces for
+different pairs of charges at different distances, Coulomb
+arrived at the relation, Eq. (1.1).
+
+Coulomb’s law, a simple mathematical statement,
+was initially experimentally arrived at in the manner
+described above. While the original experiments
+established it at a macroscopic scale, it has also been
+established down to subatomic level (r ~ 10‘10 m).
+
+Coulomb discovered his law without knowing the
+explicit magnitude of the charge. In fact, it is the other
+way round: Coulomb’s law can now be employed to
+furnish a definition for a unit of charge. In the relation,
+Eq. (1.1), kis so far arbitrary. We can choose any positive
+value of k. The choice of k determines the size of the unit
+of charge. In SI units, the value of k is about 9 X 109
+Nm2
+
+C2
+called a coulomb which we defined earlier in Section
+1.4. Putting this value of k in Eq. (1.1), we see that for
+q1=q2=1C,r=1m
+
+F: 9 x 109 N
+
+That is, 1 C is the charge that when placed at a
+distance of 1 m from another charge of the same
+magnitude in vacuum experiences an electrical force of
+repulsion of magnitude 9 X 109 N. One coulomb is
+evidently too big a unit to be used. In practice, in
+
+electrostatics, one uses smaller units like 1 mC or 1 “C.
+The constant k in Eq. (1.1) is usually put as
+
+ 
+
+. The unit of charge that results from this choice is
+
+Electric Charges
+and Fields
+
+ 
+
+Charles Augustin de
+Coulomb (1736 - 1806)
+Coulomb, a French
+physicist, began his career
+as a military engineer in
+the West Indies. In 1776, he
+returned to Paris and
+retired to a small estate to
+do his scientific research.
+He invented a torsion
+balance to measure the
+quantity of a force and used
+it for determination of
+forces of electric attraction
+or repulsion between small
+charged spheres. He thus
+arrived in 1785 at the
+inverse square law relation,
+now known as Coulomb’s
+law. The law had been
+anticipated by Priestley and
+also by Cavendish earlier,
+though Cavendish never
+published his results.
+Coulomb also found the
+inverse square law of force
+between unlike and like
+magnetic poles.
+
+k = 1 /47580 for later convenience, so that Coulomb’s law is written as
+
+1 |q1q2|
+
+47:80 r2
+
+ 
+
+F:
+
+(1.2)
+
+so is called the permittivity of free space . The value of 80 in SI units is
+
+80 = 8.854 x 10—12 c2 N‘lm‘2
+
+* Implicit in this is the assumption of additivity of Charges and conservation:
+
+two charges (q/ 2 each) add up to make a total charge q.
+
+2019-20
+
+CE
+FJ
+CD
+{>
+C
+C)
+5
+d
+2
+U
+F1
+0
+O
+E
+O
+a
+DJ
+3
+03
+0
+,L
+00
+O
+92
+
+ 
+
+11

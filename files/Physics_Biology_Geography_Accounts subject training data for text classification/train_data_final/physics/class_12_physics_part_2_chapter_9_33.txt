@@ -1,0 +1,68 @@
+342
+
+l Physics
+
+ 
+
+4, Mirror equation:
+
+1 1 1
+_+_=_
+
+vuf
+
+where u and v are object and image distances, respectively and f is the
+focal length of the mirror. f is (approximately) half the radius of
+curvature R. f is negative for concave mirror; f is positive for a convex
+mirror.
+
+For a prism of the angle A, of refractive index n2 placed in a medium
+of refractive index n1,
+
+E _ sm[(A+Dm)/2]
+
+n = _
+21 n1 sin(A /2)
+
+where Dm is the angle of minimum deviation,
+
+For refraction through a spherical interface (from medium 1 to 2 of
+refractive index n1 and n2, respectively]
+”2 n1 _ n2 _ n1
+
+ 
+
+v u R
+Thin lens formula
+
+1 1 _ 1
+
+S _ Z _ ?
+Lens maker’s formula
+1 _ (Ia—4%; a]
+f — ”'1 R1 R2
+
+R1 and R2 are the radii of curvature of the lens surfaces, f is positive
+for a converging lens; f is negative for a diverging lens. The power of a
+lens P = 1 /f.
+
+The SI unit for power of a lens is dioptre (D): 1 D = l m"1.
+
+If several thin lenses of focal length fl, f2, f3,.. are in contact, the
+effective focal length of their combination, is given by
+
+1 1 1 1
+
+—=—+ —+ —+ oa-
+
+f f1 f2 f3
+The total power of a combination of several lenses is
+P=P1+P2+P3+...
+Dispersion is the splitting of light into its constituent colour.
+Magnifying power m of a simple microscope is given by m = 1 + (D/ f ),
+where D = 25 cm is the least distance of distinct vision and f is the
+
+focal length of the convex lens. If the image is at infinity, m = D/ f. For
+a compound microscope, the magnifying power is given by
+
+2019-20

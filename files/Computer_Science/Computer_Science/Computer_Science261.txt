@@ -1,0 +1,51 @@
+4.1 Introduction 245
+recognizes this distinction, is the time the CPU spends computing for this task
+and does not include time spent waiting for I/O or running other programs.
+(Remember, though, that the response time experienced by the user will be the
+elapsed time of the program, not the CPU time.) CPU time can be further divided
+into the CPU time spent in the program, called user CPU time, and the CPU time user CPU time The CPU time
+spent in the operating system performing tasks on behalf of the program, called spent in a program itself.
+system CPU time. Differentiating between system and user CPU time is difficult
+system CPU time The CPU
+to do accurately because it is often hard to assign responsibility for operating sys 
+time spent in the operating sys 
+tem activities to one user program rather than another and because of the func  tem performing tasks on behalf
+tionality differences among operating systems. ofthe program.
+For consistency, we maintain a distinction between performance based on
+elapsed time and that based on CPU execution time. We will use the term system
+performance to refer to elapsed time on an unloaded system, and use CPU perfor 
+mance to refer to user CPU time. We will focus on CPU performance in this chap 
+ter, although our discussions of how to summarize performance can be applied to
+either elapsed time or to CPU time measurements.
+Although as computer users we care about time, when we examine the details
+of a computer it's convenient to think about performance in other metries. In par 
+ticular, computer designers may want to think about a computer by using a mea 
+sure that relates to how fast the hardware can perform basic functions. Almost all
+dock cyd e Also called tick,
+computers are constructed using a clock that runs at a constant rate and deter 
+dock tick, dock period, dock,
+mines when events take place in the hardware. These discrete time intervals are
+cyde. The time for one dock
+called clock cycles (or ticks, clock ticks, clock periods, clocks, cycles). Designers
+period, usually ofthe processor
+refer to the length of a clock period both as the time for a complete clock cycle
+dock, which runs at a constant
+(e.g., 0.25 nanoseconds, 0.25 ns, 250 picoseconds, or 250 ps) and as the clock rate rate.
+(e.g., 4 gigahertz, or 4 GHz), which is the inverse of the clock period. In the next
+dock period The length of
+section, we will formalize the relationship between the clock cycles of the hard 
+each clock cycle.
+ware designer and the seconds of the computer user.
+Different applications are sensitive to different aspects of the performance of a com  Understanding
+puter system. Many applications, especially those running on servers, depend as
+Program
+much on I/O performance, which, in turn, relies on both hardware and software,
+Performance
+and total elapsed time measured by a wall clock is the measurement of interest. In
+some application environments, the user may care about throughput, response
+time, or a complex combination of the two (e.g., maximum throughput with a
+worst-case response time). To improve the performance of a program, one must
+have a clear definition of what performance metric matters and then proceed to
+look for the performance bottlenecks by measuring program execution and looking
+for the likely bottlenecks. In the following chapters, we will describe how to search
+for bottlenecks and improve performance in various parts of the system.

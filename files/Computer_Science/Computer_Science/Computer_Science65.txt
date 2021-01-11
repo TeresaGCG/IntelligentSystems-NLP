@@ -1,0 +1,43 @@
+2.2 Operations of the Computer Hardware 49
+By lea rning how to represent instructions, you will also discover the secret of
+computing: the stored-program concept. Moreover you will exercise your "for  stored-program concept The
+idea that instructions and data
+eign language" skills by writing programs in the language of the computer and
+ofmany types can be stored in
+running them on the simulator that comes with this book. You will also see the
+memory as numbers, leading to
+impact of programming languages and compiler optimization on performance.
+thestored program computer.
+We conclude with a look at the historical evolution of instruction sets and an
+overview of other computer dialects.
+The chosen instruction set comes from MIPS, which is typical of instruction
+sets designed since the 1980s. Almost 100 million of these popular microproces 
+sors were manufactured in 2002, and they are found in products from ATI Tech 
+nologies, Broadcom, Cisco, NEC, Nintendo, Silicon Graphics, Sony, Texas
+Instruments, and Toshiba, among others.
+We reveal the MIPS instruction set a piece at a time, giving the rationale along
+with the computer strucnlfes. This top-down, step-by-step tutorial weaves the
+components with their explanations, making assembly language more palatable.
+To keep the overall picture in mind, each section ends with a figure summarizing
+the MIPS instruction set revealed thus far, highlighting the portions presented in
+that section.
+There must certainly be
+instrllctions for performing
+Operations of the Computer Hardware
+the fundamental arithmetic
+operations.
+Burks, Goldstine, and von
+Every computer must be able to perform arithmetic. The MIPS assembly language
+Neumann, 1947
+notation
+adda , b , c
+instructs a computer to add the two variables band c and to put their sum in a.
+This notation is rigid in that each MIPS arithmetic instruction performs only
+one operation and must always have exactly three variables. For example, suppose
+we want to place the sum of variables b, c, d, and e into variable a. (In this section
+we are being deliberately vague about what a "variable" is; in the next section we'll
+expla in in detail.)
+The following sequence of instructions adds the four variables:
+adda , b , c # The sum of band c is placed in a .
+adda , a , d # The sum of b , c , and d is now in a .
+adda , a , e # The sum of b , c , d , and e is now in a .

@@ -1,0 +1,40 @@
+8.12 Exercises 617
+fers that use 16-word blocks. Also compute the effective number of bus transac 
+tions per second for each case.
+8.20 [5 <§8.5> Exercise 8.19 demonstrates that using larger block sizes results in
+J
+an increase in the maximum sustained bandwidth that can be achieved. Under
+what conditions might a designer tend to favor smaller block sizes? Specifically,
+why would a designer choose a block size of 4 instead of 16 (assuming all of the
+characteristics are as identified in Exercise 8.19)?
+8.21 [15) <§8.5> This question examines in more detail how increasing the block
+size for bus transactions decreases the total latency required and increases the max 
+imum sustainable bandwidth. In Exercise 8.19, two different block sizes are con 
+sidered (4 words and 16 words). Compute the total latency and the maximum
+bandwidth for all of the possible block sizes (between 4 and 16) and plot your
+results. Summarize what you learn by looking at your graph.
+8.22 [15) <§8.5> This exercise is similar to Exercise 8.21. This time fix the block
+size at 4 and 16 (as in Exercise 8.19), but compute latencies and bandwidths for
+reads of different sizes. Specifically, consider reads of from 4 to 256 words, and use
+as many data points as you need to construct a meaningful graph. Use your graph
+to help determine at what point block sizes of 16 result in a reduced latency when
+compared with block sizes of 4.
+8.23 (10 ) <§8.S> This exercise examines a design alternative to the system
+described in Exercise 8.18 that may improve the performance ofwrites. For writes,
+assume all of the characteristics reported in Exercise 8.18 as well as the following:
+The first 4 words are written 200 ns after the address is available, and each
+new write takes 20 ns. Assume a bus transfer of the most recent data to
+write, and a write of the previous 4 words can be overlapped.
+The performance analysis reported in the exa mple would thus remain unchanged
+for writes (in actuality, some minor changes might exist due to the need to com 
+pute error correction codes, etc., but we'll ignore this). An alternative bus scheme
+relies on separate 32-bit address and data lines. This will permit an address and
+data to be transmitted in the same cycle. For this bus alternative, what will the
+latency of the entire 256-word transfer be? What is the sustained bandwidth? Con 
+sider block sizes of 4 and 8 words. When do you think the alternative scheme
+would be heavily favored?
+8.24 <20> <§8.5> Consider an asynchronous bus used to interface an I/O
+device to the memory system described in Exercise 8.18. Each I/O request asks
+for 16 words of data from the memory, which, along with the I/O device, has a
+4-word bus. Assume the same type of handshaking protocol as appears in Figure
+8.10 on page 584 except that it is extended so that the memory can continue the

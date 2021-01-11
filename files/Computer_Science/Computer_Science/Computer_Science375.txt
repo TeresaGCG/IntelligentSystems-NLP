@@ -1,0 +1,44 @@
+5.13 Exercises 359
+18
+5.40 (IS) <§5.5> For More Practice: Adding Instructions to the Datapath
+1&
+5.41 (IS) <§5.5> For More Practice: Adding Instructions to the Datapath
+1&
+5.42 (IS) <§5.5> For More Practice: Adding Instructions to the Datapath
+1&
+5.43 (IS) <§5.5> For More Practice: Adding Instructions to the Datapath
+1&
+5.44 (IS) <§5.5> For More Practice: Adding Instructions to the Datapath
+15
+5.45 (20) <§5.5> For More Practice: Adding Instructions to the Datapath
+18
+5.46 (10 ) <§5.5> For More Practice: Adding Instructions to the Datapath
+II
+5.47 (IS) <§§5.1-5.5> For More Practice: Comparing Processor Performance
+II
+5.48 (20) <§5.5> For More Practice: Implementing Instructions in MIPS
+5.49 (30) <§5.6> We wish to add the instruction ere t (exception return) to the
+muiticycle datapath described in this chapter. A primary task of the e ret instruc 
+tion is to reload the PC with the renInl address at which an exception, or error trap
+occurred. Suppose that if the processor is serving an error trap, then the PC has to
+be loaded from a register ErrorPC. Othenvise the processor is serving an excep 
+tion) the PC has to be loaded from EPC. Suppose that there is a bit in the cause reg 
+ister called trap to encode an error trap when it occurs and to save the PC in the
+ErrorPC register. Add any necessary datapaths and control signals to the muiticy 
+cle datapath of Figure 5.39 on page 344 to accommodate the trap/exception call
+and renInl, and show the necessary modifications to the finite state machine of
+Figure 5.40 on page 345 to implement the ere t instruction. You can photocopy
+the figures to make it easier to show your modifications.
+5.50 (61 <§5.6> Exceptions occur when a control flow change is required to han 
+dle an unexpected event in the processor. How can the cause and the instruction
+that caused the exception, be represented by the hardwa re in a MIPS machine?
+Give two examples for conditions that a processor can handle by restarting execu 
+tion of instnlctions after handling the exception, and two others for exceptions
+that lead to program termination.
+5.51 (61 <§5.6> Exception detection is an important aspect of exception han 
+dling. Try to identify the cycle in which the following exceptions can be detected
+for the multicycle datapath in Figure 5.28 on page 323.
+Consider the following exceptions:
+a. Divide by zero exception (suppose we use the same ALU for division in one
+cycle, and that it is recognized by the rest of the control)
+b. Overflow exception

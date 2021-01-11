@@ -1,0 +1,41 @@
+2.10 Translating and Starting a Program 113
+Text I Text I
+Lt l I t l
+- -
+j"1 j"1
+• •• • ••
+l lw l lw re=t
+~
+je je
+• •• • ••
+Data I Data I --.
+~
+Text I
+• ••
+.-
+D
+1i 1
+j
+• ••
+Text I
+Dynamic LinkerlLoader
+Remap DLL Routine
+J ~
+• ••
+Datarrext Text I
+DLL Routine DLL Routine
+• •• ~ • ••
+~
+je je
+1'1 First call to DLL routine (b) Subsequent calls to DLL routine
+FtGURE 2.29 Dynamically linked library via lazy procedure linkage. (a) Steps for the first
+time a caU is made to the DLL routine. (b) The steps to find the routine, remap it, and link it are skipped on
+subsequent calls. As we will see in Chapter 7, the operating system may avoid copying the desired routine by
+remapping it using virtual memory management.
+Like many instances in our field, this trick relies on a level of indirection. Figure
+2.29 shows the technique. It starts with the nonlocal routines calling a set of
+dummy routines at the end of the program, with one entry per nonlocal routine.
+These dummy entries each contain an indirect jump.
+The first time the library routine is called, the program calls the dummy entry
+and follows the indirect jump. It points to code that puts a number in a register to
+identify the desired library routine and then jumps to the dynamic linker-loader.

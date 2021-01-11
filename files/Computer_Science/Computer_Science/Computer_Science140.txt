@@ -1,0 +1,40 @@
+124 Chapter 2 Instructions: Language of the Computer
+Procedure body
+,"
+swap: H l. Sa 1. 2 $regStl - ~ * 4
+.dd Hl. SaO. Stl reg Stl - v + (~ * 4)
+If reg Stl nas the address of v[ n
+HO.O(Hl) If reg HO (temp) - v[n
+" H2.4(Hl) If reg H2 - v[~ + 1]
+" If ref ers to next element of v
+" H2.0(Hl) If v[n - reg St2
+" HO.4($ t l) If v[~+l ] - reg $tO ( t emp)
+Procedure return
+'co
+je # returo to ca 11 i og routi ne
+FIGURE 2.34 MIPS assembly code of the procedure sw~p In Figure 2.33.
+void sort (i ot v[]. int 0 )
+{
+i nti.J:
+<
+f or (i = 0: i n: 1 += 1) {
+= >= > =
+f or (j i - 1: J 0 && v[j] v[j + 1]: J 1) (
+swap{v.j) :
+{
+FIGURE 2.SS A C procedure that performs a sort on the array v.
+Code for the Body of the Procedure r t
+SO
+The procedure body consists of two nested for loops and a call to swap that
+includes parameters. Let's unwrap the code from the outside to the middle.
+The first translation step is the first for loop:
+<
+fo r (i = 0 ; i n ; i += 1) (
+Recall that the C for statement has three parts: initialization, loop test, and itera 
+tion increment. It takes just one instruction to initialize i to 0, the fi rst part of the
+for statement:
+move $50 . $zero
+(Remember that move is a pseudoinstruction provided by the assembler for the
+convenience of the assembly language programmer; see page 107.) It also takes
+just one instruction to increment i , the last part of the for statement:
+addi $50 . $50 . 1 Iti += l

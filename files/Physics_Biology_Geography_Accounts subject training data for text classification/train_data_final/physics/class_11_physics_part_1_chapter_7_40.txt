@@ -1,0 +1,67 @@
+SYSTEMS OF PARTICLES AND ROTA'I‘IONAL MOTION lSl
+
+ 
+
+are the linear velocities of the points A, B and C on the disc shown in Fig. 7.41? Will the disc roll in
+the direction indicated ?
+
+A
+
+ 
+
+Fig. 7.41
+
+7.29 Explain why friction is necessary to make the disc in Fig. 7.41 roll in the direction indicated.
+
+[a] Give the direction of frictional force at B, and the sense of frictional torque, before perfect rolling
+begins.
+
+[b] What is the force of friction after perfect rolling begins ?
+
+7.30 A solid disc and a ring, both of radius 10 cm are placed on a horizontal table
+simultaneously, with initial angular speed equal to 10 7|: rad s‘1. Which of the two will start to roll
+earlier ? The co—efficient of kinetic friction is ,uk = 0.2.
+
+7.31 A cylinder of mass 10 kg and radius 15 cm is rolling perfectly on a plane of inclination 300. The co—
+efficient of static friction lis = 0.25.
+[a] How much is the force of friction acting on the cylinder ?
+
+(b) What is the work done against friction during rolling ?
+(c) If the inclination 0 of the plane is increased, at what value of 6 does the cylinder begin to skid,
+
+and not roll perfectly ?
+
+7.32 Read each statement below carefully, and state, with reasons, if it is true or false;
+(a) During rolling, the force of friction acts in the same direction as the direction of motion of the CM
+
+of the body.
+[b] The instantaneous speed of the point of contact during rolling is zero.
+(c) The instantaneous acceleration of the point of contact during rolling is zero.
+[d] For perfect rolling motion, work done against friction is zero.
+(e) A wheel moving down a perfectly frictionless inclined plane will undergo slipping [not rolling]
+
+motion.
+7.33 Separation of Motion of a system of particles into motion of the centre of mass and motion about the
+
+centre of mass :
+
+(a) Show p = p; + miV
+
+where pi is the momentum of the ith particle (of mass m) and p’i = mi v’i. Note v’i is the velocity
+of the ith particle relative to the centre of mass.
+
+Also, prove using the definition of the centre of mass 2 p; = O
+
+[b] Show K = K’+ 1/2MV2
+
+where K is the total kinetic energy of the system of particles, K, is the total kinetic energy of the
+
+system when the particle velocities are taken with respect to the centre of mass and W/ 2 is the
+kinetic energy of the translation of the system as a whole (i.e. of the centre of mass motion of the
+system]. The result has been used in Sec. 7.14.
+
+[c] Show L=L’+R><MV
+
+where L’ = Z r’i X p; is the angular momentum of the system about the centre of mass with
+
+2019-20

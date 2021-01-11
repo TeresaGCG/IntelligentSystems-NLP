@@ -1,0 +1,101 @@
+350
+
+PHYSICS
+
+ 
+
+ 
+
+Fig. 14.14
+
+Answer Let the mass be displaced by a small
+distance x to the right side of the equilibrium
+position, as shown in Fig. 14.15. Under this
+situation the spring on the left side gets
+
+ 
+
+Fig. 14.15
+
+elongated by a length equal to x and that on
+the right side gets compressed by the same
+length. The forces acting on the mass are
+then,
+
+F1 = —kx (force exerted by the spring on
+
+the left side, trying to pull the
+mass towards the mean
+position)
+
+F2 = —kx (force exerted by the spring on
+the right side, trying to push the
+mass towards the mean
+position)
+
+The net force, F, acting on the mass is then
+given by,
+
+F =—2kx
+
+Hence the force acting on the mass is
+proportional to the displacement and is directed
+towards the mean position; therefore, the motion
+executed by the mass is simple harmonic. The
+time period of oscillations is,
+
+[m
+T=27c — 4
+2k
+
+2019-20
+
+14.7 ENERGY IN SIMPLE HARMONIC
+MOTION
+
+Both kinetic and potential energies of a particle
+in SHM vary between zero and their maximum
+values.
+
+In section 14.5 we have seen that the velocity
+of a particle executing SHM, is a periodic
+function of time. It is zero at the extreme positions
+of displacement. Therefore, the kinetic energy (K)
+of such a particle, which is defined as
+
+K=lmv2
+
+2
+
+= g m (02A2 sin2(a)t + ¢)
+
+=ékA2sin2(wt+¢) (14.15)
+
+is also a periodic function of time, being zero
+when the displacement is maximum and
+maximum when the particle is at the mean
+position. Note, since the sign of v is immaterial
+in K, the period of K is T/ 2.
+
+What is the potential energy (U) of a particle
+executing simple harmonic motion? In
+Chapter 6, we have seen that the concept of
+potential energy is possible only for conservative
+forces. The spring force F = —kx is a conservative
+force, with associated potential energy
+
+1
+U=§kx2 (14.16)
+
+Hence the potential energy of a particle
+executing simple harmonic motion is,
+
+U(x) = l kx2
+2
+=ékA2c052(a)t+¢) (14.17)
+
+Thus, the potential energy of a particle
+executing simple harmonic motion is also
+periodic, with period T/ 2, being zero at the mean
+position and maximum at the extreme
+displacements.

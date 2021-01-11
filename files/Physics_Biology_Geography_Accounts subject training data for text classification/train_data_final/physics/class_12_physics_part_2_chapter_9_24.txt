@@ -1,0 +1,47 @@
+Roy Optics and
+Optical Instruments
+
+9.7. 1 The rainbow
+
+The rainbow is an example of the dispersion of sunlight by the water
+drops in the atmosphere. This is a phenomenon due to combined effect
+of dispersion, refraction and reﬂection of sunlight by spherical water
+droplets of rain. The conditions for observing a rainbow are that the Sun
+should be shining in one part of the sky (say near western horizon) while
+it is raining in the opposite part of the sky (say eastern horizon).
+An observer can therefore see a rainbow only when his back is towards
+the Sun.
+
+In order to understand the formation of rainbows, consider
+Fig. 9.25(a). Sunlight is first refracted as it enters a raindrop, which causes
+the different wavelengths (colours) of white light to separate. Longer
+wangelength of light (red) are bent the least while the shorter wavelength
+(violet) are bent the most. Next, these component rays strike the inner
+surface of the water drop and get internally reﬂected if the angle between
+the refracted ray and normal to the drop surface is greater then the critical
+angle (48° in this case). The reﬂected light is refracted again when it comes
+out of the drop, as shown in the figure. It is found that the violet light
+emerges at an angle of 40° related to the incoming sunlight and red light
+emerges at an angle of 42°. For other colours, angles lie in between these
+two values.
+
+Figure 9.25(b) explains the formation of primary rainbow. We see
+that red light from drop 1 and violet light from drop 2 reach the observer’s
+eye. The violet from drop 1 and red light from drop 2 are directed at level
+above or below the observer. Thus the observer sees a rainbow with
+red colour on the top and violet on the bottom. The primary
+rainbow is a result of three-step process, that is, refraction, reﬂection
+and refraction.
+
+ 
+
+smoqugm ;o uoneuuog
+
+LL11L|'SM()([/>|l‘l'OD'SDudOlP'MMM/ﬂduq
+SMoqugBJ/npa'mon‘oa'MMM//:d11L| (it:
+
+ 
+
+333
+
+2019-20

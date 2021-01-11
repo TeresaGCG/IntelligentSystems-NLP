@@ -1,0 +1,79 @@
+l Physics
+
+For a thin lens, BI1 = D11. Adding
+Eqs. (9.17) and (9.18), we get
+n1 n1 ( 1 1 )
+—+—=(n2—nl)k + l
+OB In BC1 DC2
+Suppose the object is at inﬁnity, i.e.,
+OB —> co and DI =f, Eq. (9.19) gives
+
+ 
+
+ 
+
+(9.19)
+
+n1 ( 1 1 )
+—= (n2 —n1) L + J
+f BC1 DC2
+The point where image of an object
+placed at infinity is formed is called the
+focus F, of the lens and the distance f gives
+its focal length. A lens has two foci, F and
+
+F“, on either side of it (Fig. 9.19). By the
+
+ 
+
+ 
+
+(9.20)
+
+sign convention,
+BC1 = + R1,
+DC = —R
+
+ 
+
+So Eq. (9.20) can be written as
+
+1:“, 41;) an :9 921
+f 21 k 21 (. )
+
+R1 R2 ”'1
+Equation (9.21) is known as the lens
+maker’s formula. It is useful to design
+lenses of desired focal length using surfaces
+of suitable radii of curvature. Note that the
+formula is true for a concave lens also. In
+
+ 
+
+(c) that case Rlis negative, R2 positive and
+FIGURE 9.18 (a) The position of object. and the therefore,f is negative.
+image formed by a double convex lens. From Eqs- (9-19) and (920), we get
+(b) Refraction at the first spherical surface and n n n
+(C) Refraction at the second spherical surface. 0—113+311 = 71 (9.22)
+
+Again, in the thin lens approximation, B and D are both close to the
+optical centre of the lens. Applying the sign convention,
+B0 = — u, D1 = +1), we get
+
+l_l_i
+v u_f 923
+
+Equation (9.23) is the familiar thin lens formula. Though we derived
+it for a real image formed by a convex lens, the formula is valid for both
+convex as well as concave lenses and for both real and virtual images.
+
+It is worth mentioning that the two foci, F and F’, of a double convex
+or concave lens are equidistant from the optical centre. The focus on the
+side of the (original) source of light is called the ﬁrst focal point, whereas
+the other is called the second focal point.
+
+To find the image of an object by a lens, we can, in principle, take any
+
+326 two rays emanating from a point on an object; trace their paths using
+
+2019-20

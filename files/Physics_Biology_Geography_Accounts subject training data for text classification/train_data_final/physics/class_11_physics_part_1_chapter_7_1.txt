@@ -1,0 +1,75 @@
+I42
+
+PHYSICS
+
+ 
+
+B‘ C
+
+Fig 7. 1 Translational (sliding) motion of a block down
+an inclined plane.
+(Any point like P1 or P2 of the block moves
+with the same velocity at any instant of time.)
+
+block sliding down an inclined plane without any
+sidewise movement. The block is taken as a rigid
+body. Its motion down the plane is such that all
+the particles of the body are moving together,
+i.e. they have the same velocity at any instant
+of time. The rigid body here is in pure
+translational motion (Fig. 7. 1).
+
+In pure translational motion at any
+instant of time, all particles of the body have
+the same velocity.
+
+Consider now the rolling motion of a solid
+metallic or wooden cylinder down the same
+inclined plane (Fig. 7.2). The rigid body in this
+problem, namely the cylinder, shifts from the
+top to the bottom of the inclined plane, and thus,
+seems to have translational motion. But as Fig.
+7 .2 shows, all its particles are not moving with
+the same velocity at any instant. The body,
+therefore, is not in pure translational motion.
+Its motion is translational plus ‘something else.’
+
+    
+
+B C
+
+Fig. 7.2 Rolling motion of a cylinder. It is not pure
+translational motion. Points P1, P2, P3 and P4
+have different velocities (shown by arrows)
+at any instant of time. In fact, the velocity of
+the point of contact P3 is zero at any instant,
+if the cylinder rolls without slipping.
+
+In order to understand what this ‘something
+else’ is, let us take a rigid body so constrained
+that it cannot have translational motion. The
+
+2019-20
+
+most common way to constrain a rigid body so
+that it does not have translational motion is to
+fix it along a straight line. The only possible
+motion of such a rigid body is rotation. The line
+or fixed axis about which the body is rotating is
+its axis of rotation. If you look around, you will
+come across many examples of rotation about
+an axis, a ceiling fan, a potter’s wheel, a giant
+wheel in a fair, a merry-go-round and so on (Fig
+7.3(a) and (b)).
+
+ 
+
+(b)
+Fig. 7.3 Rotation about a ﬁxed axis
+
+(a) A ceiling fan
+(b) A potter’s wheel.
+
+Let us try to understand what rotation is,
+what characterises rotation. You may notice that
+in rotation of a rigid body about a ﬁxed axis,

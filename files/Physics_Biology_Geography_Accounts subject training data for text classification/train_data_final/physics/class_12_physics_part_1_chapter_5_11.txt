@@ -1,0 +1,104 @@
+184
+
+i Physics
+
+‘9.
+m
+g
+If]
+
+ 
+
+(b)
+
+(C)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+ 
+
+Wrong. Magnetic field lines (like electric field lines) can never cross
+each other, because otherwise the direction of ﬁeld at the point of
+intersection is ambiguous. There is further error in the figure.
+Magnetostatic ﬁeld lines can never form closed loops around empty
+space. A closed loop of static magnetic field line must enclose a
+region across which a current is passing. By contrast, electrostatic
+field lines can never form closed loops, neither in empty space,
+nor when the loop encloses charges.
+
+Right. Magnetic lines are completely confined within a toroid.
+Nothing wrong here in field lines forming closed loops, since each
+loop encloses a region across which a current passes. Note, for
+clarity of figure, only a few field lines within the toroid have been
+shown. Actually, the entire region enclosed by the windings
+contains magnetic field.
+
+Wrong. Field lines due to a solenoid at its ends and outside cannot
+be so completely straight and confined; such a thing violates
+Ampere’s law. The lines should curve out at both ends, and meet
+eventually to form closed loops.
+
+Right. These are field lines outside and inside a bar magnet. Note
+carefully the direction of ﬁeld lines inside. Not all field lines emanate
+out of a north pole (or converge into a south pole). Around both
+the N-pole, and the S-pole, the net ﬂux of the ﬁeld is zero.
+
+Wrong. These field lines cannot possibly represent a magnetic ﬁeld.
+Look at the upper region. All the ﬁeld lines seem to emanate out of
+the shaded plate. The net ﬂux through a surface surrounding the
+shaded plate is not zero. This is impossible for a magnetic ﬁeld.
+The given field lines, in fact, show the electrostatic field lines
+around a positively charged upper plate and a negatively charged
+lower plate. The difference between Fig. [5.7 (e) and (f)] should be
+carefully grasped.
+
+Wrong. Magnetic ﬁeld lines between two pole pieces cannot be
+precisely straight at the ends. Some fringing of lines is inevitable.
+Otherwise, Ampere’s law is violated. This is also true for electric
+field lines.
+
+Example 5.7
+
+(a)
+
+(b)
+
+(C)
+(d)
+
+(e)
+
+Magnetic ﬁeld lines show the direction (at every point) along which
+a small magnetised needle aligns (at the point). Do the magnetic
+ﬁeld lines also represent the lines of force on a moving charged
+particle at every point?
+
+Magnetic ﬁeld lines can be entirely confined within the core of a
+toroid, but not within a straight solenoid. Why?
+
+If magnetic monopoles existed, how would the Gauss’s law of
+magnetism be modiﬁed?
+
+Does a bar magnet exert a torque on itself due to its own field?
+Does one element of a current-carrying wire exert a force on another
+element of the same wire?
+
+Magnetic field arises due to charges in motion. Can a system have
+magnetic moments even though its net charge is zero?
+
+Solution
+
+(a)
+
+No. The magnetic force is always normal to B (remember magnetic
+force = qv X B). It is misleading to call magnetic ﬁeld lines as lines
+
+of force.
+
+2019-20

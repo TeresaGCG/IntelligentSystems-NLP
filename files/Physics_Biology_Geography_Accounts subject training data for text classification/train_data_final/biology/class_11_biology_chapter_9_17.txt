@@ -1,0 +1,49 @@
+BIOMOLECULES 159
+
+Isomerases: Includes all enzymes catalysing inter-conversion of optical,
+geometric or positional isomers.
+
+Ligases: Enzymes catalysing the linking together of 2 compounds, e. g.,
+enzymes which catalyse joining of C-0, C-S, C-N, P-O etc. bonds.
+
+9. 12.6 Co-factors
+
+Enzymes are composed of one or several polypeptide chains. However,
+there are a number of cases in which non-protein constituents called co-
+factors are bound to the the enzyme to make the enzyme catalytically
+active. In these instances, the protein portion of the enzymes is called the
+apoenzyme. Three kinds of cofactors may be identiﬁed: prosthetic groups,
+co-enzymes and metal ions.
+
+Prosthetic groups are organic compounds and are distinguished from
+other cofactors in that they are tightly bound to the apoenzyme. For
+example, in peroxidase and catalase, which catalyze the breakdown of
+hydrogen peroxide to water and oxygen, haem is the prosthetic group
+and it is a part of the active site of the enzyme.
+
+Co-enzymes are also organic compounds but their association with
+the apoenzyme is only transient, usually occurring during the course of
+catalysis. Furthermore, co-enzymes serve as co-factors in a number of
+different enzyme catalyzed reactions. The essential chemical components
+of many coenzymes are vitamins, e. g., coenzyme nicotinamide adenine
+dinucleotide (NAD) and NADP contain the vitamin niacin.
+
+A number of enzymes require metal ions for their activity which form
+coordination bonds with side chains at the active site and at the same
+time form one or more cordination bonds with the substrate, e. g., zinc is
+a cofactor for the proteolytic enzyme carboxypeptidase.
+
+Catalytic activity is lost when the co-factor is removed from the enzyme
+which testiﬁes that they play a crucial role in the catalytic activity of the
+
+enzyme.
+
+SUMMARY
+
+Although there is a bewildering diversity of living organisms, their chemical
+composition and metabolic reactions appear to be remarkably similar. The
+elemental composition of living tissues and non-living matter appear also to be
+similar when analysed qualitatively. However, a closer examination reveals that
+the relative abundance of carbon, hydrogen and oxygen is higher in living systems
+when compared to inanimate matter. The most abundant chemical in living
+organisms is water. There are thousands of small molecular weight (< 1000 Da)

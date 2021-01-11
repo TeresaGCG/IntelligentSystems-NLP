@@ -1,0 +1,47 @@
+292 Chapter 5 The Processor: Datapath and Control
+buses. In such cases, labels on the bus lines will make it clear that we are concate 
+nating buses to form a wider bus. Arrows are also added to help clarify the direc 
+tion of the flow of data between elements. Finally, color indicates a control signal
+as opposed to a signal that ca rries data; this distinction will become clea rer as we
+proceed through this chapter.
+Check
+True or false: Because the register file is both read and w ritten on the same
+clock cycle, any MIPS datapath using edge-triggered w rites must have more
+Yourself
+than one copy of the register file.
+Building a Datapath
+A reasonable way to start a datapath design is to examine the major components
+required to execute each class of MIPS instruction. Let's start by looking at which
+datapatb element A func  datapath elements each instruction needs. When we show the datapath elements,
+tional unit used to operate on or we will also show their control signals.
+hold data within a processor. In
+Figure 5.5 shows the first element we need: a memory unit to store the
+the MIPS implementation the
+instructions of a program and supply instructions given an address. Figure 5.5
+datapath elements include the
+also shows a register, which we call the program counter (PC), that is used to
+instruction and data memories,
+hold the address of the current instruction. Lastly, we will need an adder to
+the register file, the arithmetic
+increment the PC to the address of the next instruction. This adder, which is
+logic unit (ALU), and adders.
+combinational, can be built from the ALU we described in Chapter 3 and
+program counter (PC) The
+designed in detail in Appendix B, simply by wiring the control lines so that the
+register containing the address
+control always specifies an add operation. We will draw such an ALU with the
+ofthe instruction in the pro 
+label Add, as in Figure 5.5, to indicate that it has been permanently made an
+gram being executed
+adder and cannot perform the other ALU functions.
+To execute any instruction, we must start by fetching the instruction from
+memory. To prepare for executing the next instruction, we must also increment
+the program counter so that it points at the next instruction, 4 bytes later.
+Figure 5.6 shows how the three elements from Figure 5.5 are combined to form a
+datapath that fetches instructions and increments the PC to obtain the address of
+the next sequential instruction.
+Now let's consider the R-format instructions (see Figure 2.7 on page 67). They
+all read two registers, perform an ALU operation on the contents of the registers,
+and write the result. We call these instructions either R-type instructions or arith 
+metic-logical instructions (since they perform arithmetic or logical operations).
+This instruction class includes add, sub, and, or, and sl t , which were intro-

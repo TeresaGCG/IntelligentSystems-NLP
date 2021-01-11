@@ -1,0 +1,42 @@
+5.5 A Multleyele Implementation 321
+Because the datapath shown in Figure 5.26 takes multiple clock cycles per
+instruction, it will require a different set of control signals. The programmer-visible
+state units (the PC, the memory, and the registers) as well as the lR will need write
+control signals. The memory will also need a read signal. We can use the ALU con 
+II
+trol unit from the single-cycle datapath (see Figure 5. 13 and Appendix C) to
+control the ALU here as well. Finally, each of the two-input multiplexors requires a
+single control line, while the four-input multiplexor requires two control lines.
+Figure 5.27 shows the datapath of Figure 5.26 with these control lines added.
+The multicycle datapath still requires additions to support branches and
+jumps; after these additions, we will see how the instructions are sequenced and
+then generate the datapath control.
+With the jump instruction and branch instruction, there are three possible
+sources for the value to be written into the PC:
++
+1. The output of the ALU, which is the value PC 4 during instruction fetch.
+This value should be stored directly into the pc.
+2. The register ALUOut, which is where we will store the address of the branch
+target after it is computed.
+3. The lower 26 bits of the Instruction register OR) shifted left by two and
+concatenated with the upper 4 bits of the incremented PC, which is the
+source when the instruction is a jump.
+As we observed when we implemented the single-cycle control, the PC is
+written both unconditionally and conditionally. During a normal increment
+and for jumps, the PC is written unconditionally. If the instruction is a condi 
+tional branch, the incremented PC is replaced with the value in ALUOut only if
+the two designated registers are equal. Hence, our implementation uses two
+sepa rate control signals: PCWrite, which causes an unconditional write of the
+PC, and PCWriteCond, which causes a write of the PC if the branch condition
+is also true.
+We need to connect these two control signals to the PC write control. Just as we
+did in the single-cycle datapath, we will use a few gates to derive the PC write con 
+trol signal from PCWrite, PCWriteCond, and the Zero signal of the ALU, which is
+used to detect if the two register operands of a beq are equal. To determine
+whether the PC should be written during a conditional branch, we AND together
+the Zero signal of the ALU with the PCWriteCond. The output of this AND gate is
+then ORed with PCWrite, which is the unconditional PC write signal. The output
+of this OR gate is connected to the write control signal for the Pc.
+Figure 5.28 shows the complete multicycle datapath and control unit, includ 
+ing the additional control signals and multiplexor for implementing the PC
+updating.

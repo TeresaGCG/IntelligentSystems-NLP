@@ -1,0 +1,82 @@
+Current
+Electricity
+
+Resistors in the higher range are made mostly from carbon. Carbon
+resistors are compact, inexpensive and thus ﬁnd extensive use in electronic
+circuits. Carbon resistors are small in size and hence their values are
+given using a colour code.
+
+TABLE 3.2 RESISTOR COLOUR CODES
+
+ 
+
+ 
+
+Black 0 1
+
+Brown 1 1 O 1
+
+Red 2 102
+
+Orange 3 1 03
+
+Yellow 4 1 04
+
+Green 5 1 05
+
+Blue 6 1 O6
+
+Violet 7 107
+
+Gray 8 1 08
+
+White 9 109
+
+Gold 1 0‘1 5
+Silver 1 0‘2 1 O
+No colour 20
+
+The resistors have a set of co-axial coloured rings
+on them whose signiﬁcance are listed in Table 3.2. The
+ﬁrst two bands from the end indicate the first two
+
+     
+
+signiﬁcant figures of the resistance in ohms. The third I, #
+band indicates the decimal multiplier (as listed in Table / / \ \
+3.2). The last band stands for tolerance or possible Red Red Red Silver
+
+variation in percentage about the indicated values.
+Sometimes, this last band is absent and that indicates
+a tolerance of 20% (Fig. 3.8). For example, if the four
+colours are orange, blue, yellow and gold, the resistance
+value is 36 X 104 £2, with a tolerence value of 5%.
+
+(a)
+
+Violet
+
+3.8 TEMPERATURE DEPENDENCE OF
+RESISTIVITY
+
+The resistivity of a material is found to be dependent on
+the temperature. Different materials do not exhibit the
+same dependence on temperatures. Over a limited range
+of temperatures, that is not too large, the resistivity of a
+metallic conductor is approximately given by,
+
+p, = p0 [1 + a (T—TOJI (3.26)
+
+Where pT is the resistivity at a temperature T and p0 is the same at a
+reference temperature To. a is called the temperature co-eﬁicient of
+resistivity, and from Eq. (3.26), the dimension of 0c is (Temperature)‘1. 103
+
+ 
+
+(b)
+
+FIGURE 3.8 Colour coded resistors
+(a) (22 x 102 o) i 10%.
+(b) (47 X 10 Q) i 5%.
+
+2019-20

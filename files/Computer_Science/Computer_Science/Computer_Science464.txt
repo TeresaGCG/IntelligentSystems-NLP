@@ -1,0 +1,42 @@
+448 Chapter 6 Enhancing Performance with Plpellnlng
+Real Stuff: The Pentium 4 Pipeline
+In the last chapter, we discussed how the Pentium 4 fetched and translated IA-32
+instructions into microoperations. The microoperations are then executed by a
+sophisticated, dynamically scheduled, speculative pipeline capable of sustaining
+a execution rate of three microoperations per clock cycle. This section focuses on
+tl
+that microoperation pipeline. The Pentium 4 combines multiple issue with deep
+pipelining so as to achieve both a low CPl and a high clock rate.
+When we consider the design of sophisticated, dynamically scheduled proces 
+sors, the design of the functional units, the cache and register file, instruction
+issue, and overall pipeline control become intermingled, making it difficult to
+sepa rate out the datapath from the pipeline. Because of this, many engineers and
+microarchitecture The orga  researchers have adopted the term microarchitecture to refer to the detailed
+nization ofthe processor, internal architecture of a processor. Figure 6.50 shows the microarchitecture of
+including the major functional
+the Pentium 4, focusing on the strucnIres for executing the microoperations.
+units, their interconnection, and
+Another way to look at the Pentium 4 is to see the pipeline stages that a typical
+control.
+instruction goes through. Figure 6.5 1 shows the pipeline structure and the typical
+number of clock cycles spent in each; of course, the number of clock cycles varies
+due to the nature of dynamic scheduling as well as the requirements of individual
+microoperations.
+The Pentium 4, and the earlier Pentium III and Pentium Pro, all use the tech 
+nique of decoding IA-32 instructions into microoperations and executing those
+microoperations using a speculative pipeline with multiple functional units. In
+fact, the basic microarchitecture is similar, and all these processors can complete
+up to three microoperations per cycle. The Pentium 4 gains its performance
+advantage over the Pentium III through several enhancements:
+1. A pipeline that is roughly twice as deep (approximately 20 cycles versus 10)
+and can run almost twice as fast in the same technology
+2. More functional units (7 versus 5)
+3. Support for a larger number of outstanding operations (126 versus 40)
+4. The use of a trace cache (see Chapter 7) and a much better branch predictor
+(4K entries versus 512)
+5. Other enhancements to the memory system, which we discuss in Chapter 7
+architectural registers The
+instruction set visible registers Elaboration: The Pentium 4 uses a scheme for resolving antidependences and incor 
+of a processor; for example, in rect speculation that uses a reorder buffer together with register renaming. Register
+MIPS, these are the 32 integer renaming explicitly renames the architectural registers in a processor (8 in the case of
+and 16 floating-point registers. IA-32) to a larger set of physical registers (128 in the Pentium 4). The Pentium 4 uses

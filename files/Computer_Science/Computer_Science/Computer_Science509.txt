@@ -1,0 +1,38 @@
+7.3 Measuring and Improving Cache Performance 493
+Writes I" · · I" . . I )
+Write-stall cycles X nte miss rate X nte miss pena ty
+'v 'v
+(
+Program
++
+Write buffer stalls
+Because the write buffer stalls depend on the timing of writes, and not just the
+frequency, it is not possible to give a simple equation to compute such stalls. For 
+tunately, in systems with a reasonable write buffer depth (e.g., four or more
+words) and a memory capable of accepting writes at a rate that significantly
+exceeds the average write frequency in programs (e.g., by a factor of two), the
+write buffer stalls will be small, and we can safely ignore them. If a system did not
+meet these criteria, it would not be well designed; instead, the designer should have
+used either a deeper write buffer or a write-back organization.
+Write-back schemes also have potential additional stalls arising from the need
+to write a cache block back to memory when the block is replaced. We will discuss
+this more in Section 7.5.
+In most write-through cache o rganizations, the read and write miss penalties
+are the same (the time to fetch the block from memory). If we assume that the
+write buffer stalls are negligible, we can combine the reads and writes by using a
+single miss rate and the miss penalty:
+Memory accesses XMiss rate X Miss penalty
+Memory-stall clock cycles
+Program
+We can also factor this as
+Misse~
+Memory-stall clock cycles = Instructions X XMiss penalty
+Program InstructIOn
+Let's consider a simple example to help us understand the impact of cache perfor 
+mance on processor performance.
+Calculating Cache Performance
+Assume an instruction cache miss rate for a program is 2% and a data cache EXAMPLE
+miss rate is 4%. If a processor has a CPI of 2 without any memory stalls and
+the miss penalty is 100 cycles fo r all misses, determine how much faster a pro 
+cessor would run with a perfect cache that never missed. Use the instruction
+frequencies for SPECint2000 from Chapter 3, Figure 3.26, on page 228.

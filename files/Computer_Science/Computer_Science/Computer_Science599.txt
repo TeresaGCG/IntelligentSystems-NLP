@@ -1,0 +1,46 @@
+8.4 Buses and other Connections between Processors, Memory, and I/ O Devlc:es 583
+Characteristic: Flrewlre (1394) USB 2.0
+Bus type I/O I/O
+Basic data bus width (signals) 4 2
+Clocking asynchronous asynchronous
+Theoretical peak bandwidth 50 MBjsec (Firewire 400) or 0.2 MBjsec (low speed),
+100 MBjsec (Firewire 800) 1.5 MBjsec (full speed),
+or 60 MBjsec (high speed)
+Hot plugable ye' y"
+Maximum number of devices 63 127
+Maximum bus length 4.5 meters 5 meters
+(copper wire)
+Standard name IEEE 1394, 1394b USE Implementors Forum
+FtGURE 8.9 Key c:haracteristlc:s of two dominant I/O bus standards.
+Synchronous buses have two major disadvantages, however. First, every device
+on the bus must run at the same clock rate. Second, because of clock skew prob 
+lems, synchronous buses cannot be long if they are fast (see " Appendix B for a
+discussion of clock skew). Processor-memory buses are often synchronous
+because the devices communicating are close, small in number, and prepa red to
+operate at high clock rates.
+An asynchronous bus is not clocked. Because it is not clocked,an asynchronous
+bus can accommodate a wide variety of devices, and the bus can be lengthened
+without worrying about clock skew or synchronization problems. Both Firewire
+and USE 2.0 are asynchronous. To coordinate the transmission of data between
+sender and receiver, an asynchronous bus uses a handshaking protocol. A hand  handshaking protocol A
+shaking protocol consists of a series of steps in which the sender and receiver pro  series ofsteps used to coordi 
+nate asynchronous bus transfers
+ceed to the next step only when both parties agree. The protocol is implemented
+in which the sender and receiver
+with an additional set of control lines.
+proceed to the next step only
+A simple example will illustrate how asynchronous buses work. Let's consider a
+when both parties agree that
+device requesting a word of data from the memory system. Assume that there are
+the current step has been
+three control lines:
+completed.
+I. ReadReq: Used to indicate a read request for memory. The address is put
+on the data lines at the same time.
+2. DataRdy: Used to indicate that the data word is now ready on the data
+lines. In an output transaction, the memory will assert this signal since it is
+providing the data. In an input transaction, an I/O device would assert this
+signal, since it would provide data. In either case, the data is placed on the
+data lines at the same time.
+3. Ack: Used to acknowledge the ReadReq or the DataRdy signal of the other
+party.

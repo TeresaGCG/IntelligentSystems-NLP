@@ -1,0 +1,39 @@
+Algebra and Geometry
+181
+Quadrilaterals can also be classified by the size of their interiorangles.
+If all four angles of a quadrilateral are right angles, then the quadrilateral
+is called a rectangle. If all four angles of a quadrilateral are right angles
+and all four sides have the same length, the quadrilateral is a square.
+Figure 10.4 illustrates examples of
+these types of quadrilaterals.
+A rectangle, a rhombus, and a
+square are special types of parallelo-
+grams. Because they are parallelo-
+grams, they have the property that
+their opposite sides have the same Rectangle Square
+length. When we describe a rectangle
+we only need to specify the length of
+Figure 10.4
+two adjacent sides. We call these sides
+thelength and width of the rectangle.
+It doesn’t matter which side we call the length and which side we call the
+width. We can always rotate the rectangle to give it a different orienta-
+tion. Fortunately, rotating a polygon (or any shape, for that matter)
+doesn’t change the length of the sides of the polygon. It only changes its
+orientation and how we see it. Of course, using the word length to repre-
+sent two ideas can be confusing. We use “length” to refer to one side of a
+rectangle, and we use “length” when discussing measurements in general.
+You should understand which usage is appropriate from the context of
+the problem. Don’t let it bother you when I talk about the length of the
+length of a rectangle.
+With a square, we only need to specify the length of one of its sides,
+as all four sides have the same length. The sides of a square are referred
+to as just that: sides of the square.
+It is easy to introduce algebra into problems that involve geometry,
+as we will see in the following sections. We will start with line segments
+and then turn our attention to triangles and other polygons.
+Lesson 10-2: Midpoint
+We have already combined algebra and geometry to create the Car-
+tesian coordinate system. This coordinate system makes graphing points
+and lines a breeze. This coordinate system also helps determine the mid-
+point of a line segment.

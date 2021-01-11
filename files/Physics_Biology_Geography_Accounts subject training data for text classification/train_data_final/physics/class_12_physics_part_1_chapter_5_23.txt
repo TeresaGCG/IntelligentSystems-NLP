@@ -1,0 +1,84 @@
+magnets can be made in a variety of ways. One can hold an
+iron rod in the north-south direction and hammer it repeatedly.
+The method is illustrated in Fig. 5.1 5. The illustration is from
+a 400 year old book to emphasise that the making of
+permanent magnets is an old art. One can also hold a steel
+rod and stroke it with one end of a bar magnet a large number
+of times, always in the same sense to make a permanent
+magnet.
+
+An efficient way to make a permanent magnet is to place a
+ferromagnetic rod in a solenoid and pass a current. The
+magnetic ﬁeld of the solenoid magnetises the rod.
+
+The hysteresis curve (Fig. 5.14) allows us to select suitable
+materials for permanent magnets. The material should have
+
+ 
+
+FIGURE 5.15 A blacksmith
+
+forging a pemiancnt magnet by
+striking a red~hot rod of iron
+
+kept in the nortlrsouth high retentivity so that the magnet is strong and high coercivity
+direction with a hammer. The so that the magnetisation is not erased by stray magnetic ﬁelds,
+sketch is recreated from an temperature ﬂuctuations or minor mechanical damage.
+illustration in De Magnete. a Further, the material should have a high permeability. Steel is
+work PllbliSth in 1600 and one-favoured choice. It has a slightly smaller retentivity than
+amhored by William Gilben' soft iron but this is outweighed by the much smaller coercivity
+
+the court physician to Queen
+
+of soft iron. Other suitable materials for permanent magnets
+Elizabeth of England.
+
+are alnico, cobalt steel and ticonal.
+
+Core of electromagnets are made of ferromagnetic materials
+which have high permeability and low retentivity. Soft iron is a suitable
+material for electromagnets. On placing a soft iron rod in a solenoid and
+passing a current, we increase the magnetism of the solenoid by a
+thousand fold. When we switch off the solenoid current, the magnetism is
+effectively switched off since the soft iron core has a low retentivity. The
+arrangement is shown in Fig. 5.16.
+
+ 
+
+ 
+
+ 
+
+1.3.
+E.E :_ \ \ '-\ . »\ \ \“I 2'
+
+i
+.2 5 WWW
+u—IF: " lucv
+“gas
+a;
+Z;
+we
+(6}
+6.9
+SE
+
+ 
+
+Ill! <~>
+
+PHEQZCS FIGURE 5.16 A soft iron core in solenoid acts as an electromagnet.
+
+In certain applications, the material goes through an ac cycle of
+magnetisation for a long period. This is the case in transformer cores and
+telephone diaphragms. The hysteresis curve of such materials must be
+narrow. The energy dissipated and the heating will consequently be small.
+The material must have a high resistivity to lower eddy current losses.
+You will study about eddy currents in Chapter 6.
+
+Electromagnets are used in electric bells, loudspeakers and telephone
+diaphragms. Giant electromagnets are used in cranes to lift machinery,
+
+196 and bulk quantities of iron and steel.
+
+2019-20

@@ -1,0 +1,48 @@
+1 1 4 Accountancy : Company Accounts and Analysis of Financial Statements
+Solution:
+
+Books of XYZ Ltd.
+Journal
+
+To Debenture Application and
+Allotment A/c
+
+(Application money received on debentures)
+
+April 0 1 Debenture Application and Allotment A/c
+Loss on Issue of Debentures A/c
+To 15% Debentures A/c
+To Premium on Redemption of
+Debentures A/c
+(Issue of Debentures at 10% discount an
+redeemable at 10% premium)
+
+Balance in Statement of Proﬁt and loss
+To Debenture Redemption Reserve A/c
+(Transfer of proﬁts to DRR)
+
+April 30 Debenture Redemption Investment A/c
+
+(Required amount invested in DRI)
+
+Bank A/c
+
+To Debenture Redemption Investment
+(DRI encashed at the time of redemption
+of debentures)
+
+March 31 1 5% Debentures A/c
+Premium on Redemption of
+Debentures A/c
+
+To Debentureholders A/c
+(Amount due on redemption)
+
+March 31 Debentureholders A/c
+To Bank A/c
+(Amount paid to debentureholders)
+
+March 31 Debenture Redemption Reserve A/c
+To General Reserve
+(Transfer of DR to General Reserve
+After redemption of debentures)

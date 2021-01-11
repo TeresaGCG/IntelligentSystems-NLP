@@ -1,0 +1,78 @@
+PLANT GROWTH AND DEVELOPMENT
+
+The growth rate shows an increase that may be
+arithmetic or geometrical (Figure 15.4).
+
+In arithmetic growth, following mitotic cell
+division, only one daughter cell continues to divide
+while the other differentiates and matures. The
+simplest expression of arithmetic growth is
+exempliﬁed by a root elongating at a constant rate.
+Look at Figure 15.5. On plotting the length of the
+organ against time, a linear curve is obtained.
+Mathematically, it is expressed as
+
+E=g+n
+
+Lt = length at time ‘t’
+
+L0 = length at time ‘zero’
+
+r = growth rate / elongation per unit time.
+
+Let us now see what happens in geometrical
+growth. In most systems, the initial growth is slow
+(lag phase), and it increases rapidly thereafter — at
+an exponential rate (log or exponential phase). Here,
+both the progeny cells following mitotic cell division
+retain the ability to divide and continue to do so.
+However, with limited nutrient supply, the growth
+slows down leading to a stationary phase. If we plot
+the parameter of growth against time, we get a typical
+sigmoid or S—curve (Figure 15.6). A sigmoid curve
+is a characteristic of living organism growing in a
+natural environment. It is typical for all cells, tissues
+and organs of a plant. Can you think of more similar
+examples? What kind of a curve can you expect in
+a tree showing seasonal activities?
+
+The exponential growth can be expressed as
+
+W1 = WO ert
+
+W1 = ﬁnal size (weight, height, number etc.)
+WO = initial size at the beginning of the period
+r = growth rate
+
+t = time of growth
+
+e = base of natural logarithms
+
+Here, r is the relative growth rate and is also the
+measure of the ability of the plant to produce new
+plant material, referred to as efficiency index. Hence,
+the ﬁnal size of W1 depends on the initial size, W0.
+
+243
+
+Height of the plant
+
+ 
+
+Figure 15.5 Constant linear growth, a plot
+of length L against time t
+
+Stationary phase
+
+Size/weight of the organ
+
+Lag phase
+
+ 
+
+Time
+
+Figure 15.6 An idealised sigmoid growth
+curve typical of cells in culture,
+and many higher plants and
+plant organs

@@ -1,0 +1,100 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+ 
+
+We can rearrange the above terms to obtain
+
+1 1
+P1+(§) p012 + pgh1= P2+ (5] p022 + [)th
+
+(10.12)
+This is Bernoulli’s equation. Since 1 and 2
+refer to any two locations along the pipeline,
+we may write the expression in general as
+
+E
+
+1
+P+ ( )pv2 + pgh = constant (10.13)
+
+ 
+
+Fig. 10.9 The ﬂow of an ideal ﬂuid in a pipe of
+varying cross section. The ﬂuid in a
+
+section of length v 1At moves to the section
+of length vZAt in time At.
+
+In words, the Bernoulli’s relation may be
+stated as follows: As we move along a streamline
+the sum of the pressure (P), the kinetic energy
+
+pv2
+
+per unit volume [ 2 j and the potential energy
+
+per unit volume (p gh) remains a constant.
+
+Note that in applying the energy conservation
+principle, there is an assumption that no energy
+is lost due to friction. But in fact, when ﬂuids
+ﬂow. some energy does get lost due to internal
+friction. This arises due to the fact that in a
+ﬂuid ﬂow, the different layers of the ﬂuid ﬂow
+with different velocities. These layers exert
+frictional forces on each other resulting in a loss
+of energy. This property of the ﬂuid is called
+viscosity and is discussed in more detail in a
+later section. The lost kinetic energy of the ﬂuid
+gets converted into heat energy. Thus,
+Bernoulli’s equation ideally applies to ﬂuids with
+zero viscosity or non-viscous ﬂuids. Another
+
+restriction on application of Bernoulli theorem
+is that the ﬂuids must be incompressible, as
+the elastic energy of the ﬂuid is also not taken
+into consideration. In practice, it has a large
+number of useful applications and can help
+explain a wide variety of phenomena for low
+viscosity incompressible ﬂuids. Bernoulli’s
+equation also does not hold for non-steady or
+turbulent ﬂows, because in that situation
+velocity and pressure are constantly ﬂuctuating
+in time.
+
+When a ﬂuid is at rest i.e., its velocity is zero
+everywhere, Bernoulli’s equation becomes
+
+P1+ pgh1= P2 + pgh.
+(Pl—P2) = pg (’12—’11)
+which is same as Eq. (10.6).
+
+10.4.1 Speed of Efﬂux: Torricelli's Law
+
+The word efﬂux means ﬂuid outﬂow. Torricelli
+discovered that the speed of efﬂux from an open
+tank is given by a formula identical to that of a
+freely falling body. Consider a tank containing
+a liquid of density p with a small hole in its side
+at a height yl from the bottom (see Fig. 10.10).
+The air above the liquid, whose surface is at
+height y2. is at pressure P. From the equation
+of continuity [Eq. (10. 10)] we have
+
+v1A1=v2A2
+A1
+
+v 2—D
+
+2 A2 1
+
+ 
+
+Fig. 10.10 Torricelli’s law. The speed of efﬂux, v1,
+from the side of the container is given by
+the application of Bernoulli’s equation.
+If the container is open at the top to the
+
+atmosphere then v1 = ./2 g h .
+
+2019-20

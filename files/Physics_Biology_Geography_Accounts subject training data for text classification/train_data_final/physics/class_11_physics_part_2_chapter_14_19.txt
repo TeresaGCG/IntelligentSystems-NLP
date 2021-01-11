@@ -1,0 +1,65 @@
+360
+
+10.
+
+PI IYSICS
+
+ 
+
+The frequency v of periodic or oscillatory motion is the number of oscillations per
+unit time. In the SI, it is measured in hertz :
+
+1 hertz = 1 Hz = 1 oscillation per second = 1s‘1
+
+In simple harmonic motion [SHM], the displacement x (t) of a particle from its
+equilibrium position is given by,
+
+x (t) = A cos (cot + q) ) (displacement),
+
+in which A is the amplitude of the displacement, the quantity (cot + (1)] is the phase of
+the motion, and q) is the phase constant. The angular frequency a) is related to the
+period and frequency of the motion by,
+
+a) = ? = 27W (angular frequency].
+
+Simple harmonic motion can also be viewed as the projection of uniform circular
+motion on the diameter of the circle in which the latter motion occurs.
+
+The particle velocity and acceleration during SHM as functions of time are given by,
+v (t) = —mA sin (cot + (p) (velocity),
+a (t) = —w2A cos [cot + (1)]
+
+= —(o2x [t] [acceleration],
+
+Thus we see that both velocity and acceleration of a body executing simple harmonic
+motion are periodic functions, having the velocity amplitude vm=coA and acceleration
+amplitude am =co 2A, respectively.
+
+The force acting in a simple harmonic motion is proportional to the displacement and
+is always directed towards the centre of motion.
+
+A particle executing simple harmonic motion has, at any time, kinetic energy
+K = 1/2 va and potential energy U = 1/2 W. If no friction is present the mechanical
+energy of the system, E = K + U always remains constant even though K and U change
+with time.
+
+A particle of mass m oscillating under the inﬂuence of Hooke’s law restoring force
+given by F = — k x exhibits simple harmonic motion with
+
+a) = — (angular frequency)
+
+T : 275E [period]
+
+Such a system is also called a linear oscillator.
+
+The motion of a simple pendulum swinging through small angles is approximately
+simple harmonic. The period of oscillation is given by,
+
+T=27£\/E
+g
+
+The mechanical energy in a real oscillating system decreases during oscillations because
+external forces, such as drag, inhibit the oscillations and transfer mechanical energy
+to thermal energy. The real oscillator and its motion are then said to be damped. If the
+
+2019-20

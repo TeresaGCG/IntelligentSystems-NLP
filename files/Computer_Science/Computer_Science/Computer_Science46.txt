@@ -1,0 +1,51 @@
+3.
+Chapter 1 Computer Abstractions and Technology
+on each wafer, creating the transistors, conductors, and insulators discussed ear 
+lier. Today's integrated circuits contain only one layer of transistors but may have
+from two to eight levels of metal conductor, separated by layers of insulators.
+A single microscopic flaw in the wafer itself or in one of the dozens of pattern 
+defect A microscopic flaw in a ing steps can result in that area of the wafer failing. These defects, as they are
+wafer or in patterning steps that
+called, make it virnlally impossible to mallufacnlre a perfect wafer. To cope with
+can result in the failure ofthe
+imperfection, several strategies have been used, but the simplest is to place many
+die containing that defect.
+independent components on a single wafer. The patterned wafer is then chopped
+up, or diced, into these components, called dies and more informally known as
+die The individual rectangular
+sections that are cut from a chips. Figure 1.1 5 is a photograph of a wafer containing Pentium 4 microproces 
+wafer, more informally known
+sors before they have been diced; earlier, Figure 1.9 on page 21 showed all indi 
+as chips.
+vidual die of the Pentium 4 and its major components.
+Dicing enables you to discard only those dies that were unlucky enough to con 
+yield The percentage of good tain the flaws, rather than the whole wafer. This concept is quantified by the yield
+dies from the total number of of a process, which is defined as the percentage of good dies from the total number
+dies on the wafer.
+of dies on the wafer.
+The cost of all integrated circuit rises quickly as the die size increases, due both
+to the lower yield and the smaller number of large dies that fit on a wafer. To
+reduce the cost, a large die is often "shrunk" by using the next generation process,
+which incorporates smaller sizes for both transistors and wires. This improves the
+yield and the die count per wafer. (An " Integrated Circuit Cost section on the
+CD probes these issues further.)
+Once you've found good dies, they are connected to the input/output pins of
+a package, using a process called bonding. These packaged parts are tested a fin al
+time, since mistakes can occur in packaging, and then they are shipped to cus 
+tomers.
+Another increasingly important design constraint is power. Power is a chal 
+lenge for two reasons. First, power must be brought in alld distributed around the
+chip; modern microprocessors use hundreds of pins just for power and ground!
+Similarly, multiple levels of interconnect are used solely for power and ground dis 
+tribution to portions of the chip. Second, power is dissipated as heat and must be
+removed. An Intel Pentium 4 at 3.06 GHz burns 82 watts, which must be removed
+2
+from a chip whose surface area is just over I cm 1 Figure 1.1 6 shows a 3.06 GHz
+Pentium 4 mounted on top of its heat sink, which in turn sits right next to the fan
+in the box shown in Figure 1.8 (on page 19)!
+What determines the power consumed by all integrated circuit? Ignoring tech 
+nology and circuit specifics, the power is proportional to the product of the num 
+ber of transistors switched times the frequency they are switched. Thus, in general,
+higher clock rates or higher transistor counts lead to higller power. For example,
+the Intel Itanium 2 has four times the transistors of the Intel Pentium 4; althougll
+its clock rate is only one-half that of the Pentium 4, the Itanium burns 130 watts

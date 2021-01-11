@@ -1,0 +1,60 @@
+MOLECULAR BASIS OF INHERITANCE
+
+in some viruses, RNA is the genetic material (for example, Tobacco Mosaic
+viruses, QB bacteriophage, etc.). Answer to some of the questions such as,
+why DNA is the predominant genetic material, whereas RNA performs
+dynamic functions of messenger and adapter has to be found from the
+differences between chemical structures of the two nucleic acid molecules.
+
+Can you recall the two chemical differences between DNA and RNA?
+
+A molecule that can act as a genetic material must fulﬁll the following
+criteria:
+(i) It should be able to generate its replica (Replication).
+
+(ii) It should be stable chemically and structurally.
+
+(iii) It should provide the scope for slow changes (mutation) that
+are required for evolution.
+
+(iv) It should be able to express itself in the form of 'Mendelian
+Characters’.
+
+If one examines each requirement one by one, because of rule of base
+pairing and complementarity, both the nucleic acids DNA and RNA) have
+the ability to direct their duplications. The other molecules in the living
+system, such as proteins fail to fulﬁll ﬁrst criteria itself.
+
+The genetic material should be stable enough not to change with
+different stages of life cycle, age or with change in physiology of the
+organism. Stability as one of the properties of genetic material was very
+evident in Grifﬁth’s ‘transforming principle’ itself that heat, which killed
+the bacteria, at least did not destroy some of the properties of genetic
+material. This now can easily be explained in light of the DNA that the
+two strands being complementary if separated by heating come together,
+when appropriate conditions are provided. Further, 2'-OH group present
+at every nucleotide in RNA is a reactive group and makes RNA labile and
+easily degradable. RNA is also now known to be catalytic, hence reactive.
+Therefore, DNA chemically is less reactive and structurally more stable
+when compared to RNA. Therefore, among the two nucleic acids, the DNA
+is a better genetic material.
+
+In fact, the presence of thymine at the place of uracil also confers
+additional stability to DNA. (Detailed discussion about this requires
+understanding of the process of repair in DNA, and you will study these
+processes in higher classes.)
+
+Both DNA and RNA are able to mutate. In fact, RNA being unstable,
+mutate at a faster rate. Consequently, viruses having RNA genome and
+having shorter life span mutate and evolve faster.
+
+RNA can directly code for the synthesis of proteins, hence can easily
+express the characters. DNA, however, is dependent on RNA for synthesis
+of proteins. The protein synthesising machinery has evolved around RNA.
+The above discussion indicate that both RNA and DNA can function as
+
+2019—2020
+
+ 
+
+103

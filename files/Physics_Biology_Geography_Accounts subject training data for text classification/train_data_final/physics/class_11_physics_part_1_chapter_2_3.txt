@@ -1,0 +1,131 @@
+UNITS AND MEASUREMENT
+
+19
+
+the radius AS = BS so that AB = b = D 6 where
+6 is in radians.
+
+b
+
+D= _
+(9 (2.1)
+
+Fig. 2.2 Parallax method.
+
+Having determined D, we can employ a similar
+method to determine the size or angular diameter
+of the planet. If dis the diameter of the planet
+and a the angular size of the planet (the angle
+subtended by d at the earth), we have
+
+a = d/ D (2.2)
+
+The angle 06 can be measured from the same
+location on the earth. It is the angle between
+the two directions when two diametrically
+opposite points of the planet are viewed through
+the telescope. Since D is known, the diameter d
+of the planet can be determined using Eq. (2.2).
+
+Example 2.1 Calculate the angle of
+(a) 10 (degree) (b) 1’ (minute of are or arcmin)
+
+and (c) l”(second of are or are second) in
+radians. Use 360°=27t rad, 1°=60’ and
+1’ = 60 ”
+
+Answer (a) We have 3600: 21c rad
+10 = (n /180) rad = 1.745X10‘2 rad
+
+(b) 10 = 60’ = 1.745><10‘2 rad
+
+1’ = 2.908X10‘1 rad : 2.91><10‘4 rad
+(c) 1’ = 60” = 2.908X10‘4 rad
+
+1” = 4.847X10‘4 rad : 4.85><10‘6 rad 4
+Example 2.2 A man wishes to estimate
+the distance of a nearby tower from him.
+He stands at a point A in front of the tower
+C and spots a very distant object O in line
+with AC. He then walks perpendicular to
+AC up to B. a distance of 100 m. and looks
+at O and C again. Since 0 is very distant.
+the direction 80 is practically the same as
+
+ 
+
+ 
+
+AO; but he ﬁnds the line of sight of C shifted
+from the original line of sight by an angle 0
+= 400 (6 is known as parallax) estimate
+the distance of the tower C from his original
+position A.
+
+ 
+
+Distant object
+
+A
+
+l O
+l
+l
+
+_._..____._.___..___._.__-_.___._._._..___.___._.p
+
+a:
+
+ 
+
+W—
+
+A
+‘— 100m—>
+
+Fig. 2.3
+Answer We have, parallax angle 6 = 400
+From Fig. 2.3, AB = AC tan 9
+AC = AB/tane = 100 m/tan 400
+= 100m/0.8391 = 119m 4
+
+b Example 2.3 The moon is observed from
+two diametrically opposite points A and B
+on Earth. The angle 6 subtended at the
+
+moon by the two directions of observation
+is 1" 54’. Given the diameter of the Earth to
+
+be about 1.276 x 107 m. compute the
+distance of the moon from the Earth.
+
+Answer We have 0 = 1° 54' = 1 14'
+
+ 
+
+= (1 14 x 60)” x (4.85 x 10‘6) rad
+
+= 3.32 x 10‘2 rad,
+since 1" = 4.85 x 10—6 rad.
+
+Also b = AB = 1.276x107m
+
+Hence from Eq. (2.1), we have the earth-moon
+
+distance,
+D = b / 0
+
+= 1.276x107
+3.32x10‘2
+
+=3.84><108m 4
+
+Example 2.4 The Sun's angular diameter
+is measured to be 1920”. The distance Dof
+
+the Sun from the Earth is 1.496 ><1011 m.
+What is the diameter of the Sun ?
+
+ 
+
+2019-20

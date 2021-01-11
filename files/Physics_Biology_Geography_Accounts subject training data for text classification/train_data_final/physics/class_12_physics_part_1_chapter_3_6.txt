@@ -1,0 +1,90 @@
+0':
+
+Electricity
+
+ 
+
+ne2
+
+m
+
+ 
+
+Current
+
+1- (3.23)
+
+We thus see that a very simple picture of electrical conduction
+reproduces Ohm’s law. We have, of course, made assumptions that T
+and n are constants, independent of E. We shall, in the next section,
+discuss the limitations of Ohm’s law.
+
+Example 3.1 (a) Estimate the average drift speed of conduction
+electrons in a copper wire of cross-sectional area 1.0 X 10‘7 m2 carrying
+a current of 1.5 A. Assume that each copper atom contributes roughly
+one conduction electron. The density of copper is 9.0 X 103 kg/m3,
+and its atomic mass is 63.5 u. (b) Compare the drift speed obtained
+above with, (i) thermal speeds of copper atoms at ordinary
+temperatures, (ii) speed of propagation of electric field along the
+conductor which causes the drift motion.
+
+Solution
+
+(a)
+
+(b)
+
+The direction of drift velocity of conduction electrons is opposite
+to the electric field direction, i.e., electrons drift in the direction
+of increasing potential. The drift speed vd is given by Eq. (3.18)
+vd = (I/neA)
+
+Now, e = 1.6 x 10‘19 c, A = 1.0 x 10‘7m2, I = 1.5 A. The density of
+conduction electrons, n is equal to the number of atoms per cubic
+metre (assuming one conduction electron per Cu atom as is
+reasonable from its valence electron count of one). A cubic metre
+of copper has a mass of 9.0 X 103 kg. Since 6.0 X 1023 copper
+atoms have a mass of 63.5 g,
+
+6.0 x 1023
+n = —
+63.5
+
+= 8.5 x 1028 m"3
+
+x 9.0 x 106
+
+which gives,
+
+1.5
+U =
+d 8.5x1o28 ><1.6><1o-19 xl.0><10'7
+
+= 1.1 X 10‘3ms‘1 = 1.1 mm s‘1
+
+(i) At a temperature T, the thermal speed“ of a copper atom of
+mass M is obtained from [<(1/2) Mv2 > = (3/2) kBT) and is thus
+
+typically of the order of \lkBT/M , where (:5 is the Boltzmann
+
+constant. For copper at 300 K, this is about 2 X 102 m/s. This
+figure indicates the random vibrational speeds of copper atoms
+in a conductor. Note that the drift speed of electrons is much
+smaller, about 10‘5 times the typical thermal speed at ordinary
+temperatures.
+
+(ii) An electric field travelling along the conductor has a speed of
+an electromagnetic wave, namely equal to 3.0 X 108 m s‘1
+(You will learn about this in Chapter 8). The drift speed is, in
+
+comparison, extremely small; smaller by a factor of 10—11.
+
+ 
+
+* See Eq. (13.23) of Chapter 13 from Class XI book.
+
+2019-20
+
+I '8 31mg
+
+99

@@ -1,0 +1,28 @@
+Integers
+41
+same as adding the opposite. When subtracting a negative number, it
+may help to realize that subtracting a negative is the same as adding. Two
+wrongs may not make a right, but two negatives definitely make a posi-
+tive. Keep this in mind as we work the next examples.
+Example 1
+Find  6 − (−2).
+Solution: We are subtracting the opposite of 2. As discussed
+earlier, the opposite of a negative number is a positive number,
+and our problem actually turns into one involving addition:
+6− (−2) = 6 + 2 = 8
+Example 2
+Find−6− (−4).
+Solution: We are subtracting the opposite of 4, so our problem
+turns into one involving the sum of two integers with opposite
+signs:
+−6− (−4) = −6+ 4 =−2
+Example 3
+Find –5 − 3.
+Solution: We can write –5 − 3 as –5 + (−3), which is very similar to
+one of the problems we worked in the last section:
+–5+ (−3) = −8
+Lesson 2-3 Review
+Find the following differences:
+1. 8 −(−3) 4. −6− 4
+2. −2− (−5) 5. 15 − (−3)
+3. −3− (−8) 6. −10− 3

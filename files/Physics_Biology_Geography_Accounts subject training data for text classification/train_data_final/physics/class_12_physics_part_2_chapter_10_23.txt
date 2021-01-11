@@ -1,0 +1,71 @@
+l Physics
+
+ 
+
+DETERMINE THE RESOLVING POWER OF YOUR EYE
+
+You can estimate the resolving power of your eye with a simple experiment. Make
+black stripes of equal width separated by white stripes; see ﬁgure here. All the black
+stripes should be of equal width, while the width of the intermediate white stripes should
+increase as you go from the left to the right. For example, let all black stripes have a width
+of 5 mm. Let the width of the ﬁrst two white stripes be 0.5 mm each, the next two white
+stripes be 1 mm each, the next two 1.5 mm each, etc. Paste this pattern on a wall in a
+room or laboratory, at the height of your eye.
+
+Now watch the pattern, preferably with one eye. By moving away or closer to the wall,
+ﬁnd the position where you can just see some two black stripes as separate stripes. All
+the black stripes to the left of this stripe would merge into one another and would not be
+distinguishable. On the other hand, the black stripes to the right of this would be more
+and more clearly visible. Note the width d of the white stripe which separates the two
+regions, and measure the distance D of the wall from your eye. Then d/ D is the resolution
+of your eye.
+
+You have watched specks of dust ﬂoating in air in a sunbeam entering through your
+window. Find the distance (of a speck) which you can clearly see and distinguish from a
+neighbouring speck. Knowing the resolution of your eye and the distance of the speck,
+
+estimate the size of the speck of dust. ‘
+
+When the separation between two points in a microscopic specimen
+is comparable to the wavelength A of the light, the diffraction effects
+become important. The image of a point object will again be a diffraction
+
+pattern whose size in the image plane will be
+
+1.22 A)
+D
+
+Two objects whose images are closer than this distance will not be
+resolved, they will be seen as one. The corresponding minimum
+
+separation, dmin, in the object plane is given by
+
+[um/m
+
+1.221 1
+D .
+
+ 
+
+as: u[ (10.27)
+
+ 
+
+ 
+
+. U
+01', SIHCC m = —
+
+f
+
+1.22f/1
+= T
+Now, combining Eqs. (10.26) and (10.28), we get
+at ‘ 2 1.221
+374 mm 2tan,8
+
+(10.28)
+
+ 
+
+2019-20

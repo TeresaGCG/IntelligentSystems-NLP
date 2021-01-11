@@ -1,0 +1,27 @@
+202 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Solution:
+
+5. 7.2 Debt to Capital Employed Ratio
+
+The Debt to capital employed ratio refers to the ratio of long-term debt to the
+total of external and internal funds (capital employed or net assets). It is computed
+as follows:
+
+Debt to Capital Employed Ratio = Long-term Debt/ Capital Employed [or Net Assets)
+
+Capital employed is equal to the long—term debt + shareholders' funds.
+Alternatively, it may be taken as net assets which are equal to the total assets —
+current liabilities taking the data of Illustration 7, capital employed shall work
+out to Rs. 5,00,000 + Rs. 15,00,000 = Rs. 20,00,000. Similarly, Net Assets as
+Rs. 25,00,000 — Rs. 5,00,000 = Rs. 20,00,000 and the Debt to capital employed
+ratio as Rs. 5,00,000/Rs. 20,00,000 = 0.25: 1.
+
+Signiﬁcance: Like debt-equity ratio, it shows proportion of long—term debts in
+capital employed. Low ratio provides security to lenders and high ratio helps
+management in trading on equity. In the above case, the debt to Capital Employed
+ratio is less than half which indicates reasonable funding by debt and adequate
+security of debt.
+
+It may be noted that Debt to Capital Employed Ratio can also be computed
+in relation to total assets. In that case, it usually refers to the ratio of total debts

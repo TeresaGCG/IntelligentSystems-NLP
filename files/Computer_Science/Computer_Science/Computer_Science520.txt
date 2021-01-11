@@ -1,0 +1,38 @@
+504 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Size of Tags versus Set Associativity
+EXAMPLE Increasing associativity requires more comparators, and more tag bits per cache
+block. Assuming a cadle of 4K blocks, a four-word block size, and a 32-bit ad 
+dress, find the total number of sets and the total number of tag bits for caches that
+are direct mapped, two-way and four-way set associative, and fullyassociative.
+4
+ANSWER Since there are 16 (=2 ) bytes per block, a 32-bit address yields 32 - 4 = 28
+bits to be used for index and tag. The direct-mapped cache has the same
+number of sets as blocks, and hence 12 bits of index, since log2(4K) = 12;
+hence, the total number of tag bits is (28 - 12) X4K = 16 X4K = 64 Kbits.
+Each degree of associativity decreases the number of sets by a factor of two and
+thus decreases the number of bits used to index the cadle by one and increases the
+number of bits in the tag by one. Thus, for a two-way set-associative cache, there
+are 2Ksets,and the total number of tagbits is (28-11) X2x 2K= 34 X2K= 68 Kbits.
+For a four-way set-associative cache, the total number of sets is IK, and the total
+number of tag bits is (28 - 10) X4 X IK = 72 X IK = 72 Kbits.
+For a fully associative cache, there is only one set with 4K blocks, and the tag
+is 28 bits, leading to a total of 28 X4K X I = 11 2K tag bits.
+Choosing Which Block to Replace
+When a miss occurs in a direct-mapped cache, the requested block can go in
+exactly one position, and the block occupying that position must be replaced. In
+an associative cache, we have a choice of where to place the requested block, and
+hence a choice of which block to replace. In a fully associative cache, all blocks are
+candidates for replacement. In a set-associative cache, we must choose among the
+blocks in the selected set.
+least recently used (LRlJ) A The most commonly used scheme is least recently used (LRU), which we used
+replacement scheme in which in the previous example. In an LRU scheme. The block replaced is the one that has
+the block replaced is the one
+been unused for the longest time. LRU replacement is implemented by keeping
+that has been unused for the
+track of when each element in a set was used relative to the other elements in the
+longest time.
+set. For a two-way set-associative cache, tracking when the two elements were
+used can be implemented by keeping a single bit in each set and setting the bit to
+indicate an element whenever that element is referenced. As associativity
+increases, implementing LRU gets harder; in Section 7.5, we will see an alternative
+scheme for replacement.

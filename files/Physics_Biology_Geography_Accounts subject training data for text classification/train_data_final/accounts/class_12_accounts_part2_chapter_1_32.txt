@@ -1,0 +1,55 @@
+Accounting for Share Capital 3 3
+
+When shares are issued at par
+Handa Limited . 5.40.000
+
+To Share Capital A/c 5.40.000
+(5.400 Shares issued at par)
+
+When shares are issued at premium of 20%
+Handa Limited . 5.40.000
+To Share Capital A/c 4.50.000
+To Securities Premium Reserve A/c 90.000
+4.500 shares issued at Rs. 120 0 er share
+
+ 
+
+Illustration 9
+
+J indal and Company purchased a machine from High Life Machine Limited for
+Rs.3,80,000. As per purchase agreement, Rs. 20,000 were paid in cash and
+balance by issue of shares of Rs. 100 each. What will be the entries passed if the
+shares are issued :
+
+(a) at par
+
+(b) at 20% premium
+
+Solution:
+
+Number of shares will be calculated as follows:
+(a) When shares issued at par
+
+—Rs. 3’60’000 = 3,600 shares
+Rs.100
+
+(b) When shares issued at premium
+
+w = 3.000 shares
+Rs. 120
+
+Books of Jindal and Company
+Journal
+
+Machine A/c 3.80.000
+To Bank A/c 20,000
+To High Life Machine Limited 3.60.000
+
+(Machine purchased and Rs. 20,000 paid in cash
+and the balance paid by issue of share)
+
+When shares are issued at par
+High Life Machine Limited . 3.60.000
+
+To Share Capital A/c 3.60.000
+(3.600 Shares are Rs. 100 each)

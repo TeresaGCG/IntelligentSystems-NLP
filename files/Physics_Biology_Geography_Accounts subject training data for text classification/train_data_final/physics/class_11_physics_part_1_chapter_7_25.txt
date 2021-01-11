@@ -1,0 +1,81 @@
+166
+
+PHYSICS
+
+ 
+
+Planar Body
+
+ 
+
+Fig. 7.29 Theorem of perpendicular axes
+applicable to a planar body; x and y axes
+are two perpendicular axes in the plane
+and the z—axis is perpendicular to the
+plane.
+
+The figure shows a planar body. An axis
+perpendicular to the body through a point 0 is
+taken as the z—axis. Two mutually perpendicular
+axes lying in the plane of the body and
+concurrent with z—axis, i.e., passing through 0,
+are taken as the x and y-axes. The theorem
+states that
+
+[Z = IX + 1y (7.36)
+
+Let us look at the usefulness of the theorem
+through an example.
+
+> Example 7.10 What is the moment of
+inertia of a disc about one of its diameters?
+
+ 
+
+Fig. 7.30 Moment of inertia of a disc about a
+diameter, given its moment of inertia about
+the perpendicular axis through its centre.
+
+2019-20
+
+Answer We assume the moment of inertia of
+the disc about an axis perpendicular to it and
+through its centre to be known; it is MR2/ 2,
+where M is the mass of the disc and R is its
+radius (Table 7.1)
+
+The disc can be considered to be a planar
+body. Hence the theorem of perpendicular axes
+is applicable to it. As shown in Fig. 7 .30, we
+take three concurrent axes through the centre
+of the disc, 0, as the x—, y— and z—axes; x— and
+y—axes lie in the plane of the disc and z—axis is
+perpendicular to it. By the theorem of
+perpendicular axes,
+
+IZ=IX+Iy
+
+Now, x and y axes are along two diameters
+of the disc, and by symmetry the moment of
+inertia of the disc is the same about any
+diameter. Hence
+
+IX = Iy
+and IZ = 21X
+But 12 = MR2/ 2
+
+So finally, IX = [2/2 = MR2/4
+Thus the moment of inertia of a disc about
+any of its diameter is MR2 / 4 . 4
+
+Find similarly the moment of inertia of a
+ring about any of its diameters. Will the theorem
+be applicable to a solid cylinder?
+
+ 
+
+Fig.7.31 The theorem of parallel axes The z and z’
+axes are two parallel axes separated by a
+distance a; O is the centre of mass of the
+
+body, 00' = a.

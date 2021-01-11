@@ -1,0 +1,66 @@
+Electromagnetic
+Waves
+
+We brieﬂy describe these different types of electromagnetic waves, in
+order of decreasing wavelengths.
+
+8.4. 1 Radio waves
+
+Radio waves are produced by the accelerated motion of charges in conducting
+wires. They are used in radio and television communication systems. They
+are generally in the frequency range from 500 kHz to about 1000 MHZ.
+The AM (amplitude modulated) band is from 530 kHz to 1 710 kHz. Higher
+frequencies upto 54 MHZ are used for short wave bands. TV waves range
+from 54 MHZ to 890 MHZ. The FM (frequency modulated) radio band
+extends from 88 MHZ to 108 MHZ. Cellular phones use radio waves to
+transmit voice communication in the ultrahigh frequency (UHF) band. How
+these waves are transmitted and received is described in Chapter 15.
+
+8.4.2 Microwaves
+
+Microwaves (short-wavelength radio waves), with frequencies in the
+gigahertZ (GHZ) range, are produced by special vacuum tubes (called
+klystrons, magnetrons and Gunn diodes). Due to their short wavelengths,
+they are suitable for the radar systems used in aircraft navigation. Radar
+also provides the basis for the speed guns used to time fast balls, tennis-
+serves, and automobiles. Microwave ovens are an interesting domestic
+application of these waves. In such ovens, the frequency of the microwaves
+is selected to match the resonant frequency of water molecules so that
+energy from the waves is transferred efficiently to the kinetic energy of
+the molecules. This raises the temperature of any food containing water.
+
+MICROWAVE OVEN
+
+The spectrum of electromagnetic radiation contains a part known as microwaves. These
+waves have frequency and energy smaller than visible light and wavelength larger than it.
+What is the principle of a microwave oven and how does it work?
+
+Our objective is to cook food or warm it up. All food items such as fruit, vegetables,
+meat, cereals, etc. , contain water as a constituent. Now, what does it mean when we say that
+a certain object has become warmer? When the temperature of a body rises, the energy of
+the random motion of atoms and molecules increases and the molecules travel or vibrate or
+rotate with higher energies. The frequency of rotation of water molecules is about
+2.45 gigahertZ (GHZ). If water receives microwaves of this frequency, its molecules absorb
+this radiation, which is equivalent to heating up water. These molecules share this energy
+with neighbouring food molecules, heating up the food.
+
+One should use porcelain vessels and not metal containers in a microwave oven because
+of the danger of getting a shock from accumulated electric charges. Metals may also melt
+from heating. The porcelain container remains unaffected and cool, because its large
+molecules vibrate and rotate with much smaller frequencies, and thus cannot absorb
+microwaves. Hence, they do not get heated up.
+
+Thus, the basic principle of a microwave oven is to generate microwave radiation of
+appropriate frequency in the working space of the oven where we keep food. This way
+energy is not wasted in heating up the vessel. In the conventional heating method, the vessel
+on the burner gets heated first, and then the food inside gets heated because of transfer of
+energy from the vessel. In the microwave oven, on the other hand, energy is directly delivered
+to water molecules which is shared by the entire food.
+
+Microwave
+
+ 
+
+281
+
+2019-20

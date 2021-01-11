@@ -1,0 +1,34 @@
+270 Chapter 4 Assessing and Understanding Performance
+As examples such as this show, MIPS can fail to give true pienne of
+:I
+performance-even when comparing two versions of the same program on the
+same computer. In Section 2.7, we discuss other uses of the term MIPS, and how
+such usages can also be misleading.
+Check
+Consider the following performance measurements for a program:
+Yourself
+Measurement Computer A Computer B
+Instruction count 10 billion 8 billion
+Clock rate 4 GHz 4 GHz
+ePi 1.0 1.1
+\Vhich computer has the higher MIPS rating?
+3.
+b. Which computer is faster?
+Concluding Remarks
+Although we have focused on performance and how to evaluate it in this chapter,
+designing only for performance without considering cost, functionality, and other
+requirements is unrealistic. All computer designers must balance performance
+and cost. Of course, there exists a domain of high-performance design, in which
+performance is the primary goal and cost is secondary. Much of the supercom 
+puter and high-end server industry designs in this fashion. At the other extreme is
+low-cost design, typified by the embedded market, where cost and power take pre 
+cedence over performance. In the middle are most desktop designs, as well as low 
+end servers; these computers require cost/performance design, in which the
+designer balances cost against performance. Examples from the desktop computer
+industry typify the kinds of trade-offs that designers in this region must live with.
+We have seen in this chapter that there is a reliable method of determining and
+reporting performance, using the execution time of real programs as the metric.
+This execution time is related to other important measurements we can make by
+the following equation:
+Seconds Instructions XClock cycles X Seconds
+Program Program Instruction Clock cycle

@@ -1,0 +1,75 @@
+—
+Now, let us calculate the strength of the magnetic field. It is
+E 2.9 Vm-1
+B =—’"‘S=—= . ><1 ‘9T
+3 ""5 c 3 x 108 m s‘1 9 6 O
+a Again, since the field in the light beam is sinusoidal, the peak
+-= magnetic field is B0 = ‘5 Bm = 1.4 x 10—8 T. Note that although the
+E energy in the magnetic field is equal to the energy in the electric
+a field, the magnetic field strength is evidently very weak.
+8.4 ELECTROMAGNETIC SPECTRUM
+At the time Maxwell predicted the em'stence of electromagnetic waves, the
+only familiar electromagnetic waves were the visible light waves. The existence
+of ultraviolet and infrared waves was barely established. By the end of the
+nineteenth century, X—rays and gamma rays had also been discovered. We
+3050 \ now know that, electromagnetic waves include visible light waves, X—rays,
+'3; it} gamma rays, radio waves, microwaves, ultraviolet and infrared waves. The
+25 E classiﬁcation of em waves according to frequency is the electromagnetic
+a; spectrum (Fig. 8.5). There is no sham division between one kind of wave
+E g and the next. The classiﬁcation is based roughly on how the waves are
+E g g produced and / or detected.
+i—t
+5 FE; COP E'equency, Hz Wavelength, m
+3 a"?
+m 3 C. 10“ — 10-...
+E). 001:5, 10“ — v13 400nm
+Q) —m’ up 21 10
+$5 9:) 10 _ Gamma rays 10—12 Violet
+N ‘ “ 102° —
+E g $ 19 10‘“ 1" 450
+e E .E 10 _' —_X-rays 10-10
+H E i 18 _ :’
+8 2i :4 10 10*?" Blue
+E E E 1017 _ 10—8
+1016 _ Ultraviolet 500 nm
+' . 104
+. 1015 _ .
+P s 14 10% Green
+10 — ._
+1013 10'5
+”10" 550 n
+10” — '- 4
+11 _| 1Q
+10 Microwaves 1 0:? Yellow
+10‘° — _ 4‘.
+109 _ Short radio waves — 10 600 n
+. . . 1 Orange
+108 — T1 dFM d
+107 }- C CVISIOII an ra 10—{ 101
+106 _ AM radio 10: 650 nm
+105 _ 10 Red
+10“
+10" — — Long radio waves 105
+10“ — 106 700n
+102 — 7
+10
+10 —
+280 FIGURE 8.5 The electromagnetic spectrum. with common names for various
+
+ 
+
+        
+   
+      
+    
+ 
+
+ 
+
+ 
+
+ 
+
+part of it. The various regions do not have sharply deﬁned boundaries.
+
+2019-20

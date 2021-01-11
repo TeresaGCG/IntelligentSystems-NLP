@@ -1,0 +1,92 @@
+9.10
+
+9.11
+
+9.12
+
+9.13
+
+9.14
+
+9.15
+
+9.16
+
+9.17
+
+Roy Optics and
+
+Optical Instruments
+
+ 
+
+What is the focal length of a convex lens of focal length 30cm in
+contact with a concave lens of focal length 20cm? Is the system a
+converging or a diverging lens? Ignore thickness of the lenses.
+
+A compound microscope consists of an objective lens of focal length
+2.0cm and an eyepiece of focal length 6.25cm separated by a
+distance of 15cm. How far from the objective should an object be
+placed in order to obtain the final image at (a) the least distance of
+distinct vision (25cm), and (b) at infinity? What is the magnifying
+power of the microscope in each case?
+
+A person with a normal near point (25cm) using a compound
+microscope with objective of focal length 8.0 mm and an eyepiece of
+focal length 2.5cm can bring an object placed at 9.0mm from the
+objective in sharp focus. What is the separation between the two
+lenses? Calculate the magnifying power of the microscope,
+
+A small telescope has an objective lens of focal length 144cm and
+an eyepiece of focal length 6.0cm. What is the magnifying power of
+the telescope? What is the separation between the objective and
+the eyepiece?
+
+(a) A giant refracting telescope at an observatory has an objective
+lens of focal length 15m. If an eyepiece of focal length 1.0 cm is
+used, what is the angular magnification of the telescope?
+
+(b) If this telescope is used to view the moon, what is the diameter
+of the image of the moon formed by the objective lens? The
+diameter of the moon is 3.48 X 106m, and the radius of lunar
+orbit is 3.8 x 108m.
+
+Use the mirror equation to deduce that:
+
+(a) an object placed between f and 2 f of a concave mirror produces
+a real image beyond 2f.
+
+(b) a convex mirror always produces a virtual image independent
+of the location of the object.
+
+(c) the virtual image produced by a convex mirror is always
+diminished in size and is located between the focus and
+the pole.
+
+(d) an object placed between the pole and focus of a concave mirror
+produces a virtual and enlarged image.
+
+(Note: This exercise helps you deduce algebraically properties of
+
+images that one obtains from explicit ray diagrams]
+
+A small pin fixed on a table top is viewed from above from a distance
+of 50cm. By what distance would the pin appear to be raised if it is
+viewed from the same point through a 15cm thick glass slab held
+parallel to the table? Refractive index of glass = 1.5. Does the answer
+depend on the location of the slab?
+
+(a) Figure 9.32 shows a cross-section of a ‘light pipe’ made of a
+glass fibre of refractive index 1.68. The outer covering of the
+pipe is made of a material of refractive index 1.44. What is the
+range of the angles of the incident rays with the axis of the pipe
+for which total reﬂections inside the pipe take place, as shown
+in the figure.
+
+ 
+
+FIGURE 9.32
+
+2019-20
+
+345

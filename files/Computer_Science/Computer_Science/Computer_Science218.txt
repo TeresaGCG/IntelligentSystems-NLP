@@ -1,0 +1,39 @@
+202 Chapter 3 Arithmetic: for Computers
+Roating·Point Multiplication
+Now that we have explained floating-point addition, let's try floating-point multi 
+plication. We start by multiplying decimal numbers in scientific notation by
+5
+10
+hand: l.llOten X 10 X9.200 X 10- . Assume that we can store only four digits
+ten
+of the significand and two digits of the exponent.
+Step I. Unlike addition, we calculate the exponent of the product by simply add 
+ing the exponents of the opera nds together:
+New exponent = 10 + (-5) = 5
+Let's do this with the biased exponents as well to make sure we obtain the
+same result: 10+ 127= 137,and -5+ 127= 122, so
+New exponent = 137 + 122 = 259
+This result is too large for the 8-bit exponent field, so something is amiss!
+The problem is with the bias because we are adding the biases as well as
+the exponents:
+New exponent = (10+ 127) + (-5 +127)= (5 +2x 127) =259
+Accordingly, to get the correct biased slim when we add biased nllmbers, we
+mllst 5lIbtract the biasfrom the slim:
+New exponent = 137 + 122- 127= 259- 127 = 132 = (5 + 127)
+and 5 is indeed the exponent we calculated initially.
+Step 2. Next comes the multiplication of the significands:
+1.1 IOten
+x 9.200
+ten
+0000
+0000
+2220
+9990
+102 12000
+ten
+There are three digits to the right of the decimal for each operand, so the
+decimal point is placed six digits from the right in the product significand:
+10.212000
+ten
+Assuming that we can keep only three digits to the right of the decimal
+point, the product is 10.212 X 105.

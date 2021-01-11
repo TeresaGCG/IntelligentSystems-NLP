@@ -1,0 +1,70 @@
+Moving Charges and
+
+ 
+
+Magnetism
+Fm = 1b LBa
+I I
+= ﬂ; wad” L (4.23)
+
+It is of course possible to compute the force on ‘a’ due to ‘b’. From
+considerations similar to above we can ﬁnd the force Fab, on a segment of
+length L of ‘a’ due to the current in ‘b’. It is equal in magnitude to Fba,
+and directed towards ‘b’. Thus,
+
+Fba = —Fab (4 ' 24)
+
+Note that this is consistent with Newton’s third Law. Thus, at least for
+parallel conductors and steady currents, we have shown that the
+Biot—Savart law and the Lorentz force yield results in accordance with
+Newton’s third Law*.
+
+We have seen from above that currents ﬂowing in the same direction
+attract each other. One can show that oppositely directed currents repel
+each other. Thus,
+
+Parallel currents attract, and antiparallel currents repel.
+
+This rule is the opposite of what we find in electrostatics. Like (same
+sign) charges repel each other, but like (parallel) currents attract each
+other.
+
+Let jga represent the magnitude of the force Fba per unit length. Then,
+from Eq. (4.23),
+
+ 
+
+#01 a1 b
+fba _ 2 1: d
+
+The above expression is used to deﬁne the ampere (A), which is one
+of the seven SI base units.
+
+The ampere is the value of that steady current which, when maintained
+in each of the two very long, straight, parallel conductors of negligible
+cross-section, and placed one metre apart in vacuum, would produce
+on each of these conductors a force equal to 2 X 10‘7 newtons per metre
+of length.
+
+This deﬁnition of the ampere was adopted in 1946. It is a theoretical
+definition. In practice, one must eliminate the effect of the earth’s magnetic
+field and substitute very long wires by multiturn coils of appropriate
+geometries. An instrument called the current balance is used to measure
+this mechanical force.
+
+The SI unit of charge, namely, the coulomb, can now be defined in
+terms of the ampere.
+
+When a steady current of 1A is set up in a conductor, the quantity of
+charge that ﬂows through its cross-section in ls is one coulomb (10).
+
+(4.25)
+
+* It turns out that when we have time—dependent currents and/ or charges in
+motion, Newton’s third law may not hold for forces between charges and/ or
+conductors. An essential consequence of the Newton’s third law in mechanics
+is conservation of momentum of an isolated system. This, however, holds even
+for the case of time—dependent situations with electromagnetic fields, provided
+the momentum carried by fields is also taken into account. 155
+
+2019-20

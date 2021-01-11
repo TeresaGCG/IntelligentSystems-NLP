@@ -1,0 +1,88 @@
+The lowest energy level in the
+conduction band is shown as EC and
+highest energy level in the valence band
+is shown as EV. Above EC and below EV
+there are a large number of closely spaced
+energy levels, as shown in Fig. 14.1.
+
+The gap between the top of the valence
+band and bottom of the conduction band
+is called the energy band gap (Energy gap
+Eg). It may be large, small, or zero,
+depending upon the material. These
+different situations, are depicted in Fig.
+14.2 and discussed below:
+
+Case I: This refers to a situation, as
+shown in Fig. 14.2(a). One can have a
+metal either when the conduction band
+is partially ﬁlled and the balanced band
+is partially empty or when the conduction
+and valance bands overlap. When there
+is overlap electrons from valence band can
+easily move into the conduction band.
+
+This situation makes a large number of
+
+ 
+
+Semiconductor Electronics:
+Materials, Devices and
+
+ 
+
+Simple CerUIl'S
+4 N states
+E9
+::::::::::::2.1.1::::::::::::::_EV
+ﬁlled :-_=_=_=:-_=_=_=_=.=535333333333333333333:- 4 N states
+Inﬁnitely large number of
+states each occupied by
+two electrons at 0 K
+
+FIGURE 14.1 The energy band positions in a
+semiconductor at O K. The upper band. called the
+conduction band. consists of infinitely large number
+of closely spaced energy states. The lower band.
+called the valence band, consists of closely spaced
+completely filled energy states.
+
+electrons available for electrical conduction. When the valence band is
+partially empty, electrons from its lower level can move to higher level
+making conduction possible. Therefore, the resistance of such materials
+
+is low or the conductivity is high.
+
+ 
+
+m m Overlapping
+.2 '31) conduction band
+a” — “mum "
+3 EC band a (E 0)
+G) O)
+8 EV— 8 EV
+b b E
+{:1 band LI}
+(1) (ii)
+(a)
+/ Empty
+Ec ‘7‘ ' conduction
+
+$2 band
+"-1 U)
+E? .2
+8 E9 > 3 6V :2; i: EC
+0.)
+a 5 Eg < 3 eV
+g s:
+0 EV 3 EV
+% Valence 8
+
+band [5‘
+
+(b) (C)
+FIGURE 14.2 Difference between energy bands of (a) metals. 471
+
+(b) insulators and (c) semiconductors.
+
+2019-20

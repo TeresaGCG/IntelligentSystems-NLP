@@ -1,0 +1,70 @@
+i Physics
+
+The formulation of Bohr model involves electrical force between
+positively charged nucleus and electron. It does not include the
+electrical forces between electrons which necessarily appear in
+multi-electron atoms.
+
+(ii) While the Bohr’s model correctly predicts the frequencies of the light
+emitted by hydrogenic atoms, the model is unable to explain the
+relative intensities of the frequencies in the spectrum. In emission
+spectrum of hydrogen, some of the visible frequencies have weak
+intensity, others strong. Why? Experimental observations depict that
+some transitions are more favoured than others. Bohr’s model is
+unable to account for the intensity variations.
+
+Bohr’s model presents an elegant picture of an atom and cannot be
+
+generalised to complex atoms. For complex atoms we have to use a new
+
+and radical theory based on Quantum Mechanics, which provides a more
+complete picture of the atomic structure.
+
+LASER LIGHT
+
+Imagine a crowded market place or a railway platform with people entering a gate and
+going towards all directions. Their footsteps are random and there is no phase correlation
+between them. On the other hand, think of a large number of soldiers in a regulated march.
+Their footsteps are very well correlated. See figure here.
+This is similar to the difference between light emitted by
+
+an ordinary source like a candle or a bulb and that emitted fﬁﬂwfg;
+
+by a laser. The acronym LASER stands for Light Ampliﬁcation (5 {V33 :5 ,r’
+
+by Stimulated Emission of Radiation. Since its development 2:: 5::
+
+in 1960, it has entered into all areas of science and technology. f, ”1 ~13;
+
+It has found applications in physics, chemistry, biology, ‘“ ‘r “
+medicine, surgery, engineering, etc. There are low power (a) Light from a bulb
+lasers, with a power of 0.5 mW, called pencil lasers, which
+
+serve as pointers. There are also lasers of different power, WWW ”ZZLW
+suitable for delicate surgery of eye or glands in the stomach. mm Wﬁ w»
+Finally, there are lasers which can cut or weld steel. (b) Laser light
+
+Light is emitted from a source in the form of packets of
+waves. Light coming out from an ordinary source contains a mixture of many wavelengths.
+There is also no phase relation between the various waves. Therefore, such light, even if it is
+passed through an aperture, spreads very fast and the beam size increases rapidly with
+distance. In the case of laser light, the wavelength of each packet is almost the same. Also
+the average length of the packet of waves is much larger. This means that there is better
+phase correlation over a longer duration of time. This results in reducing the divergence of
+a laser beam substantially.
+
+If there are N atoms in a source, each emitting light with intensity I, then the total
+intensity produced by an ordinary source is proportional to N1, whereas in a laser source,
+it is proportional to N21. Considering that N is very large, we see that the light from a laser
+can be much stronger than that from an ordinary source.
+
+When astronauts of the Apollo missions visited the moon, they placed a mirror on its
+surface, facing the earth. Then scientists on the earth sent a strong laser beam, which was
+reﬂected by the mirror on the moon and received back on the earth. The size of the reﬂected
+laser beam and the time taken for the round trip were measured. This allowed a very
+accurate determination of (a) the extremely small divergence of a laser beam and (b) the
+distance of the moon from the earth. ‘
+
+432
+
+2019-20

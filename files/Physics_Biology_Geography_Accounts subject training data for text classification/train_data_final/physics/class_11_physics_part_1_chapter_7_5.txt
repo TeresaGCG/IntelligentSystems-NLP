@@ -1,0 +1,124 @@
+146
+
+PHYSICS
+
+ 
+
+small, we can treat the body as a continuous
+distribution of mass. We subdivide the body into
+n small elements of mass; Aml, A1712..- Amn; the
+1“Lh element Amiis taken to be located about the
+point (xi, yi, 29- The coordinates of the centre of
+mass are then approximately given by
+
+A . . A . . A . .
+X_ Z( W. ,Y_ Z( mJy. ,Z_ Z( m.)z.
+ZAmi ZAmi ZN“:
+As we make n bigger and bigger and each
+Ami smaller and smaller, these expressions
+
+become exact. In that case, we denote the sums
+over iby integrals. Thus,
+
+ZAmi —>Idm=M,
+
+ 
+
+ 
+
+Z (Ami)xi —> Ix dm,
+
+2 (Ami)yi —> Iydm,
+
+and Z (Ami)zi —> [2 dm
+
+Here M is the total mass of the body. The
+coordinates of the centre of mass now are
+
+x: i
+M
+The vector expression equivalent to these
+
+three scalar expressions is
+
+J-xdm,Y= ﬁ J-ydmand ZzﬁJ-zdm (7.5a)
+
+R=ﬁjrdm (75b)
+
+If we choose, the centre of mass as the origin
+of our coordinate system,
+
+R=0
+i.e.,Irdm=0
+or dem=Iydm=Izdm=O (7.6)
+
+Often we have to calculate the centre of mass
+of homogeneous bodies of regular shapes like
+rings, discs, spheres, rods etc. (By a
+homogeneous body we mean a body with
+uniformly distributed mass.) By using symmetry
+consideration, we can easily show that the
+centres of mass of these bodies lie at their
+geometric centres.
+
+dm dm
+
+ 
+
+Fig. 7.8 Detemining the CM of a thin rod.
+
+2019-20
+
+Let us consider a thin rod, whose width and
+breath (in case the cross section of the rod is
+rectangular) or radius (in case the cross section
+of the rod is cylindrical) is much smaller than
+its length. Taking the origin to be at the
+geometric centre of the rod and x—axis to be
+along the length of the rod, we can say that on
+account of reﬂection symmetry, for every
+element dm of the rod at x, there is an element
+of the same mass dm located at —x (Fig. 7 .8).
+
+The net contribution of every such pair to
+
+the integral and hence the integral dem itself
+
+is zero. From Eq. (7.6), the point for which the
+integral itself is zero, is the centre of mass.
+Thus, the centre of mass of a homogenous thin
+rod coincides with its geometric centre. This can
+be understood on the basis of reﬂection symmetry.
+
+The same symmetry argument will apply to
+homogeneous rings, discs, spheres, or even
+thick rods of circular or rectangular cross
+section. For all such bodies you will realise that
+for every element dm at a point (x, y, 2) one can
+always take an element of the same mass at
+the point (—x, —y, —z). (In other words, the origin
+is a point of reﬂection symmetry for these
+bodies.) As a result, the integrals in Eq. (7.5 a)
+all are zero. This means that for all the above
+bodies, their centre of mass coincides with their
+geometric centre.
+
+p Example 7.1 Find the centre of mass of
+three particles at the vertices of an
+equilateral triangle. The masses of the
+
+particles are 100g, 150g, and 200g
+respectively. Each side of the equilateral
+triangle is 0.5m long.
+
+ 
+
+Answer
+
+200 g B(o.2s,o.25/§)
+
+(025,0) A(0.5,0)
+
+ 
+
+Fig. 7.9

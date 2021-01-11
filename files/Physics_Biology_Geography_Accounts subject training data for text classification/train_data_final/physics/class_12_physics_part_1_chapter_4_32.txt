@@ -1,0 +1,86 @@
+I Physics
+
+    
+
+Pointer —>
+
+FIGURE 4.24 The moving coil
+galvanometer. Its elements are
+described in the text. Depending on
+
+Scale
+
+Soft-iron
+core
+
+  
+
+coil galvanometer (MCG). It is a device whose principle can be understood
+on the basis of our discussion in Section 4.10.
+
+The galvanometer consists of a coil, with many turns, free to rotate
+about a fixed axis (Fig. 4.24), in a uniform radial magnetic field. There is
+a cylindrical soft iron core which not only makes the ﬁeld radial but also
+increases the strength of the magnetic ﬁeld. When a current ﬂows through
+the coil, a torque acts on it. This torque is given by Eq. (4.26) to be
+
+17 = N1 AB
+where the symbols have their usual meaning. Since the field is radial by
+design, we have taken sin 9 = 1 in the above expression for the torque.
+The magnetic torque NIAB tends to rotate the coil. A spring SP provides a
+
+counter torque k¢ that balances the magnetic torque NIAB; resulting in a
+steady angular deﬂection ¢. In equilibrium
+
+k¢ = NIAB
+where k is the torsional constant of the spring; i.e. the restoring torque
+
+per unit twist. The deﬂection ¢ is indicated on the scale by a pointer
+attached to the spring. We have
+
+¢ = ($)1 (4.38)
+
+The quantity in brackets is a constant for a given
+galvanometer.
+
+The galvanometer can be used in a number of ways.
+It can be used as a detector to check if a current is
+ﬂowing in the circuit. We have come across this usage
+in the Wheatstone’s bridge arrangement. In this usage
+the neutral position of the pointer (when no current is
+ﬂowing through the galvanometer) is in the middle of
+the scale and not at the left end as shown in Fig.4.24.
+Depending on the direction of the current, the pointer’s
+deﬂection is either to the right or the left.
+
+The galvanometer cannot as such be used as an
+ammeter to measure the value of the current in a given
+circuit. This is for two reasons: (i) Galvanometer is a
+very sensitive device, it gives a full-scale deﬂection for
+a current of the order of ,uA. (ii) For measuring
+currents, the galvanometer has to be connected in
+series, and as it has a large resistance, this will change
+
+Permanent magnet
+
+Uniform radial the value of the current in the circuit. To overcome
+magnetic ﬁeld these difficulties, one attaches a small resistance rs,
+
+called shunt resistance, in parallel with
+the galvanometer coil; so that most of the current
+passes through the shunt. The resistance of this
+
+the requirement. this device can be arrangement is,
+used as a current detector or for ~ -
+RG rs/ (RG + rs) — rs 1f RG >> rs
+
+measuring the value of the current
+(ammeter) or voltage (voltmeter).
+
+164
+
+If rS has small value, in relation to the resistance of
+the rest of the circuit Re, the effect of introducing the
+measuring instrument is also small and negligible. This
+
+2019-20

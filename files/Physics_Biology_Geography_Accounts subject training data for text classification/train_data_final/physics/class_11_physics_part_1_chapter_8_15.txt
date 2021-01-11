@@ -1,0 +1,95 @@
+198
+
+PHYSICS
+
+recorded in the spring balance is zero since the
+spring is not stretched at all. If the object were
+a human being, he or she will not feel his weight
+since there is no upward force on him. Thus,
+when an object is in free fall, it is weightless and
+this phenomenon is usually called the
+phenomenon of weightlessness.
+
+In a satellite around the earth, every part
+and parcel of the satellite has an acceleration
+towards the centre of the earth which is exactly
+
+the value of earth’s acceleration due to gravity
+at that position. Thus in the satellite everything
+inside it is in a state of free fall. This is just as if
+we were falling towards the earth from a height.
+Thus, in a manned satellite, people inside
+experience no gravity. Gravity for us defines the
+vertical direction and thus for them there are no
+horizontal or vertical directions, all directions are
+the same. Pictures of astronauts ﬂoating in a
+satellite show this fact.
+
+SUMMARY
+
+1. Newton’s law of universal gravitation states that the gravitational force of attraction
+between any two particles of masses m1 and m2 separated by a distance rhas the magnitude
+
+mlm2
+
+2
+T
+
+F=G
+
+ 
+
+where G is the universal gravitational constant, which has the value 6.672 ><1(T11 N m2 kg.
+
+2. If we have to find the resultant gravitational force acting on the particle In due to a
+number of masses M1, M2, ....Mnetc. we use the principle of superposition. Let F1, F2, ....Fn
+be the individual forces due to M1, M2, ....Mn_ each given by the law of gravitation. From
+the principle of superposition each force acts independently and uninﬂuenced by the
+other bodies. The resultant force FR is then found by vector addition
+
+n
+FR=F1+F2+ ...... +Fn=ZFi
+i=1
+
+where the symbol ‘2' stands for summation.
+
+3. Kepler’s laws of planetary motion state that
+
+(a) All planets move in elliptical orbits with the Sun at one of the focal points
+
+(b) The radius vector drawn from the Sun to a planet sweeps out equal areas in equal
+time intervals. This follows from the fact that the force of gravitation on the planet is
+central and hence angular momentum is conserved.
+
+(c) The square of the orbital period of a planet is proportional to the cube of the semi—
+major axis of the elliptical orbit of the planet
+
+The period T and radius R of the circular orbit of a planet about the Sun are related
+
+by
+
+ 
+
+T2 = 4“2 R3
+GMS
+
+where MS is the mass of the Sun. Most planets have nearly circular orbits about the
+Sun. For elliptical orbits, the above equation is valid if R is replaced by the semi—major
+
+axis, (L
+4. The acceleration due to gravity.
+
+[a] at a height h above the earth's surface
+
+ 
+
+ 
+
+GM
+900 = —E2
+(RE + h)
+GME 2h
+R; 1 _ E for h<< RE
+g(h) = g(0)(1 — E] where g(0) = GIVE
+RE RE
+2019-20

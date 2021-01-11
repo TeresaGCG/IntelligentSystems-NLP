@@ -1,0 +1,56 @@
+4 8 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Illustration 1 7
+
+On January 1, 20 1 5, the Director of X Ltd. issued for public subscription 50,000
+equity shares of Rs. 10 each at Rs. 12 per share payable as to Rs. 5 on application
+(including premium), Rs. 4 on allotment and the balance on call on May 01,
+20 1 5.
+
+The lists were closed on February 10, 20 15 by which date applications for
+70,000 shares were received. Of the cash received Rs. 40,000 was returned and
+Rs.60,000 was applied to the amount due on allotment, the balance of which
+was paid on February 16, 2015.
+
+All the shareholders paid the call due on May 0 1, 20 1 5 with the exception of
+an allottee of 500 shares.
+
+These shares were forfeited on September 29, 2015 and reissued us fully
+paid at Rs. 8 per share on November 0 1, 2015.
+
+The company, as a matter of policy, does not maintain a calls-in—arrears
+account.
+
+Give journal entries to record these share capital transactions in the books
+of X. Ltd.
+
+Solution:
+Book of X. Ltd.
+Journal
+
+Date Particulars Debit Credit
+201 5 Amount Amount
+
+Feb. 10 Bank A/c 3.50.000
+
+To Equity Share Application A/c 3.50.000
+(Amount received on application for
+70,000 shares @ Rs. 5 per share
+Including Premium)
+
+Equity Share Application A/c . 2.50.000
+To Equity Share Capital A/c 1.50.000
+
+To Securities Premium Reserve A/c 1.00.000
+
+(Transfer of application money on 50,000
+shares to share capital and premium
+accounts consequent upon allotment)
+
+Equity Share Application A/c . 1.00.000
+To Bank A/c
+
+To Equity Share Alloiinent A/c
+(Excess application money credited to share
+allotment and money refunded on rejected
+application)

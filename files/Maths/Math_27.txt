@@ -1,0 +1,21 @@
+Numbers
+27
+If, on the other hand, you successfully find a prime number that
+divides into the composite number, do the division to find the other fac-
+tor that, when multiplied by the prime number you just discovered, gives
+your original number. Start to factor this new number. Keep going until
+the last factor you are left with is a prime number. This process is called
+creating a factor tree. When you are done you will have a list of prime
+numbers that multiply to give you your original number.
+Example 1
+Create a factor tree for 420.
+Solution: 420 is even because it ends in 0, so let’s
+start by dividing it by 2:
+So 420 = 2 × 210.
+Now we need to factor 210. Because 210 is
+even, it is also evenly divisible by 2:
+Now our factor tree is growing:
+420= 2 × 210= 2 × 2 × 105.
+Now we need to factor 105. It is not even so it
+is not divisible by 2. The sum of the digits is
+1 + 0 + 5 = 6, which is evenly divisible by 3:

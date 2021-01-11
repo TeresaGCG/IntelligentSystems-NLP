@@ -1,0 +1,73 @@
+OSCILLATIONS 361
+
+ 
+
+ll.
+
+damping force is given by F d = —bv, where v is the velocity of the oscillator and b is a
+damping constant, then the displacement of the oscillator is given by,
+
+x (t) = Ae-bt/Zm cos [w’t + ¢)
+
+where (0’, the angular frequency of the damped oscillator, is given by
+
+b2
+(0’ =
+
+ 
+
+m_24m
+
+If the damping constant is small then (o’z (o, where co is the angular frequency of the
+undamped oscillator. The mechanical energy E of the damped oscillator is given by
+
+E(t) = ékAze'bt/m
+
+If an external force with angular frequency (0d acts on an oscillating system with natural
+angular frequency a), the system oscillates with angular frequency (0d. The amplitude of
+oscillations is the greatest when
+
+cod=w
+
+a condition called resonance.
+
+m... M... w—m
+
+Period 5 The least time for
+motion to repeat itself
+
+Frequency v (Off) [T1] 8‘1 v = %
+
+Angular frequency a) [T‘l] s‘1 a) = 2 71' V
+
+Phase constant 4; Dimensionless rad Initial value of phase of
+displacement in SHM
+
+Force constant k [MT—2] N m‘1 Simple harmonic motion
+
+= — k x
+
+ 
+
+POINTS TO PONDER
+
+ 
+
+The period T is the (cast time after which motion repeats itself. Thus. motion repeats
+itself after nT where n is an integer.
+
+Every periodic motion is not simple hamionic motion. Only that periodic motion
+governed by the force law F = — kx is simple harmonic.
+
+Circular motion can arise due to an inverse~square law force (as in planetary motion)
+as well as due to simple harmonic force in two dimensions equal to: —mar”r. In the
+latter case. the phases of motion, in two perpendicular directions (x and y] must differ
+by TE/2. Thus. for example, a particle subject to a force —m(02r with initial position (0.
+A) and velocity [coA. 0) will move uniformly in a circle of radius A.
+
+For linear simple harmonic motion with a given a). two initial conditions are necessary
+and sufficient to determine the motion completely. The initial conditions may be (i)
+initial position and initial velocity or (ii) amplitude and phase or (iii) energy
+and phase.
+
+2019-20

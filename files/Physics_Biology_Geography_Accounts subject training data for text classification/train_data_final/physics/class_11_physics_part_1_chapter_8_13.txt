@@ -1,0 +1,122 @@
+196
+
+PHYSICS
+
+Considering gravitational potential energy at
+infinity to be zero, the potential energy at distance
+(Re+h) from the centre of the earth is
+
+GmME
+(RE—+h) (8.41)
+
+The K.E is positive whereas the PE is
+negative. However, in magnitude the K.E. is half
+the RE, so that the total E is
+
+G m ME
+2(RE +h) (842)
+
+The total energy of an circularly orbiting
+satellite is thus negative, with the potential
+energy being negative but twice is magnitude of
+the positive kinetic energy.
+
+When the orbit of a satellite becomes
+elliptic, both the K.E. and RE. vary from point
+to point. The total energy which remains
+constant is negative as in the circular orbit case.
+This is what we expect, since as we have
+discussed before if the total energy is positive or
+zero, the object escapes to infinity. Satellites
+are always at finite distance from the earth and
+hence their energies cannot be positive or zero.
+
+P.E=—
+
+E =K.E+P.E=—
+
+Example 8.8 A 400 kg satellite is in a circular
+orbit of radius 2RE about the Earth. How much
+
+energl is required to transfer it to a circular
+orbit of radius 4RE? What are the changes in
+the kinetic and potential energies ?
+
+ 
+
+Answer Initially,
+
+4 RE
+While ﬁnally
+E f = _ GM_Em
+8 RE
+The change in the total energy is
+AE = Ef — E,
+
+ 
+
+_GMEm_ GME mRE
+8RE Rg 8
+
+ngE _ 9.81x400x6.37><106
+
+ 
+
+AE: =3.13x109J
+8 8
+The kinetic energy is reduced and it mimics
+AE, namely, AK=Kf— [=—3.13>< 109J.
+
+The change in potential energy is twice the
+change in the total energy, namely
+AV=Vf—V}=—6.25><109J 4
+
+2019-20
+
+8.11 GEOSTATIONARY AND POLAR
+SATELLITES
+
+An interesting phenomenon arises if in we
+arrange the value of (RE+ h) such that T in
+Eq. (8.37) becomes equal to 24 hours. If the
+circular orbit is in the equatorial plane of the
+earth, such a satellite, having the same period
+as the period of rotation of the earth about its
+own axis would appear stationery viewed from
+a point on earth. The (RE + h) for this purpose
+works out to be large as compared to RE :
+
+(8.43)
+
+T2GM “3
+tar—E]
+
+47!2
+
+and for T= 24 hours, hworks out to be 35800 km.
+which is much larger than RE. Satellites in a
+circular orbits around the earth in the
+equatorial plane with T = 24 hours are called
+Geostationery Satellites. Clearly, since the earth
+rotates with the same period, the satellite would
+appear fixed from any point on earth. It takes
+very powerful rockets to throw up a satellite to
+such large heights above the earth but this has
+been done in view of the several benefits of many
+practical applications.
+
+ 
+
+Fig. 8.1 1 A Polar satellite. A strip on earth’s surface
+(shown shaded) is visible from the satellite
+during one cycle. For the next revolution of
+the satellite, the earth has rotated a little
+on its axis so that an adjacent strip becomes
+visible.
+
+It is known that electromagnetic waves above
+a certain frequency are not reﬂected from
+ionosphere. Radio waves used for radio
+broadcast which are in the frequency range 2
+MHZ to 10 MHZ, are below the critical frequency.
+They are therefore reﬂected by the ionosphere.

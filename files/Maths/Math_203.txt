@@ -1,0 +1,24 @@
+Algebra and Geometry
+203
+The area is roughly 78.54 ft2.
+Lesson 10-8 Review
+Find the area and circumference of circles with the following:
+1. Radius is 5 inches 3. Diameter is 8 inches
+2. Radius is 16 inches 4. Diameter is 10 inches
+Answer Key
+Lesson 10-2 Review
+1.
+2. (−6, 8)
+Lesson 10-3 Review
+1. 90 inches
+2. 12.5 centimeters
+3. 6 meters
+4. 20 inches
+5. No, it violates the triangle inequality, because 10 + 12 < 25.
+Lesson 10-4 Review
+1.
+2. Let x represent the length one of the legs. Then the length of the hypotenuse
+is 2x. Use the Pythagorean Theorem to solve for x: x2+ 62= (2x)2.
+.
+The sides of the triangle are 6,   and  , so the perimeter is  .
+3. No, because the Pythagorean Theorem is not satisfied.

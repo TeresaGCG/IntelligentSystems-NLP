@@ -1,0 +1,32 @@
+Homework Helpers: Basic Math and Pre-Algebra
+196
+point (c, b) is the key to the distance formula, because it is the point that
+helps form the right triangle. Now we need to find the lengths of the legs
+of our right triangle.
+Because our endpoints involve variables, there is no way that we will
+be able to determine which x-coordinate is bigger. We will need to use
+absolute value symbols to make sure that our lengths are positive.
+(cid:96) The horizontal leg is the line segment with endpoints (a, b)
+and (c, b); the length of the horizontal leg is c − a.
+(cid:96) The vertical leg is the line segment with endpoints (c, b) and
+(c, d); the length of the vertical leg is d − b.
+Now we can use the Pythagorean Theorem to find the length of the
+hypotenuse, which is the distance between the points (a, b) and (c, d):
+I dropped the absolute value symbols in the second step. The reason
+for this is that when we square a number, whether it is positive or nega-
+tive, the result will always be a positive number, so the absolute value
+symbols are no longer necessary. Keeping them around only makes the
+formula more complicated; because they don’t add anything of value, it is
+not worth including them in the equation.
+Looking at the distance formula, we see that the distance between
+two points involves squaring the difference between the x-coordinates,
+squaring the difference between the y-coordinates, adding the two re-
+sults, and then taking the square root of that sum. There is no need to
+find the mysterious point, and there is no need to draw a picture. The
+distance formula gives the correct result every time.
+Let me mention again the importance of understanding where the
+distance formula comes from: the Pythagorean Theorem. If you do get
+stuck and forget the distance formula, graph the two points, find the
+mysterious third point to create a right triangle, and use the Pythagorean
+Theorem.
+www.ebook3000.com

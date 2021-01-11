@@ -1,0 +1,50 @@
+1 0 Accountancy : Company Accounts andAnalysis of Financial Statements
+
+The journal entries with regard to allotment of shares are as follows:
+
+1. For Transfer oprplication Money
+
+Share Application A/c Dr.
+To Share Capital A/c
+(Application money on __ Shares allotted/
+
+transferred to Share Capital)
+2. For Money Reﬁmded on Rejected Application
+Share Application A/c Dr.
+To Bank A/c
+(Application money returned on rejected application for _shares)
+3. For Amount Due on Allotment
+Share Allotment A/c Dr.
+To Share Capital A/c
+4. For Adjustment of Excess Application Money
+Share Application A/c Dr.
+To Share Allotment A/c
+(Application Money on _Shares @ Rs_per shares
+adjusted to the amount due on allotment).
+5. For Receipt ofAllotment Money
+Bank A/c Dr.
+To Share Allotment A/c
+
+(Allotment money received on _Shares @
+Rs. — per share Combined Account)
+
+Note:— The journal entries (2) and (4) can also be combined as follows:
+Share Application A/c
+To Share Allotment A/c
+To Bank A/c
+(Excess application money adjusted to share
+allotment and balance refunded)
+
+Sometimes a combined account for share application and share allotment called
+‘Share Application and Allotment Account' is opened in the books of a company.
+The combined account is based on the reasoning that allotment without
+application is impossible while application without allotment is meaningless.
+These two stages of share capital are closely inter-related. When a combined
+account is maintained, journal entries are recorded in the following manner:
+
+1. For Receipt of Application and Allotment
+Bank A/c Dr.
+To Share Application and Allotment A/c
+
+(Money received on applications for shares
+@ Rs. per share).

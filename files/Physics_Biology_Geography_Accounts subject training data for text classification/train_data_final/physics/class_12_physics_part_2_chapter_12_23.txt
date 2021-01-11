@@ -1,0 +1,93 @@
+11.20
+
+11.21
+
+11.22
+
+11.23
+
+11.24
+
+11.25
+
+ 
+
+ 
+
+Dual Nature of Radiation
+
+and Muller
+
+ 
+
+ADDITIONAL EXERCISES
+
+(a) Estimate the speed with which electrons emitted from a heated
+emitter of an evacuated tube impinge on the collector maintained
+at a potential difference of 500 V with respect to the emitter.
+Ignore the small initial speeds of the electrons. The
+
+specific charge of the electron, i.e., its e/m is given to be
+1.76 x 1011 C kgil.
+
+(b) Use the same formula you employ in (a) to obtain electron speed
+for an collector potential of 10 MV. Do you see what is wrong ? In
+what way is the formula to be modified?
+
+(a) A monoenergetic electron beam with electron speed of
+5.20 X 106 m s’1 is subject to a magnetic ﬁeld of 1.30 X 10’4 T
+normal to the beam velocity. What is the radius of the circle traced
+by the beam, given 6/ m for electron equals 1.76 X 1011C kg’l.
+
+(b) Is the formula you employ in (a) valid for calculating radius of
+the path of a 20 MeV electron beam? If not, in what way is it
+modified?
+
+[Notez Exercises 11.20(b) and 11.21(b) take you to relativistic
+
+mechanics which is beyond the scope of this book. They have been
+
+inserted here simply to emphasise the point that the formulas you
+use in part (a) of the exercises are not valid at very high speeds or
+
+energies. See answers at the end to know what ‘very high speed or
+energy’ means.]
+
+An electron gun with its collector at a potential of 100 V fires out
+electrons in a spherical bulb containing hydrogen gas at low
+pressure (~10’2 mm of Hg). A magnetic field of 2.83 X 10’4 T curves
+the path of the electrons in a circular orbit of radius 12.0 cm. (The
+path can be viewed because the gas ions in the path focus the beam
+by attracting electrons, and emitting light by electron capture; this
+method is known as the ‘fine beam tube’ method.) Determine
+e/ m from the data.
+
+(a) An X-ray tube produces a continuous spectrum of radiation with
+its short wavelength end at 0.45 A. What is the maximum energy
+of a photon in the radiation?
+
+(b) From your answer to (a), guess what order of accelerating voltage
+(for electrons) is required in such a tube?
+
+In an accelerator experiment on high-energy collisions of electrons
+with positrons, a certain event is interpreted as annihilation of an
+electron-positron pair of total energy 10.2 BeV into two y—rays of
+equal energy. What is the wavelength associated with each y—ray?
+(1BeV = 109 eV)
+
+Estimating the following two numbers should be interesting. The
+first number will tell you why radio engineers do not need to worry
+
+much about photons! The second number tells you why our eye can
+never ‘count photons’, even in barely detectable light.
+
+(a) The number of photons emitted per second by a Medium wave
+transmitter of 10 kW power, emitting radiowaves of wavelength
+500 m.
+
+(b) The number of photons entering the pupil of our eye per second
+corresponding to the minimum intensity of white light that we
+
+2019-20
+
+409

@@ -1,0 +1,38 @@
+2.18 Concluding Remarks 145
+Less is more.
+Robert Browning, Andrea del
+Concluding Remarks
+Sarto, 1855
+The two principles of the stored-program computer are the use of instructions that
+are indistinguishable from numbers and the use of alterable memory for pro 
+grams. These principles allow a single machine to aid environmental scientists,
+financial advisers, and novelists in their specialties. The selection of a set of
+instructions that the machine can understand demands a delicate balance among
+the number of instructions needed to execute a program, the number of clock
+cycles needed by an instruction, and the speed of the clock. Four design principles
+guide the authors of instruction sets in making that delicate balance:
+I. Simplicity favors regl/larity. Regula rity motivates many features of the MIPS
+instruction set: keeping all instructions a single size, always requiring three
+register operands in arithmetic instructions, and keeping the register fields
+in the same place in each instruction format.
+2. Smaller is faster. The desire for speed is the reason that MIPS has 32 regis 
+ters rather than many more.
+3. Milke the common case fast. Examples of making the common MIPS case
+fast include PC-relative addressing for conditional branches and immediate
+addressing for constant operands.
+4. Good design demands good compromises. One MIPS example was the com 
+promise between providing for larger addresses and constants in instruc 
+tions and keeping all instructions the same length.
+Above this machine level is assembly language, a language that humans can
+read. The assembler translates it into the binary numbers that machines can
+understand, and it even "extends" the instruction set by creating symbolic instruc 
+tions that aren't in the hardware. For instance, constants or addresses that are too
+big are broken into properly sized pieces, common variations of instructions are
+given their own name, and so on. Figure 2.47 lists the MIPS instructions we have
+covered so far, both real and pseudoinstructions.
+These instructions are not born equal; the popularity of the few dominates the
+many. For example, Figure 2.48 shows the popularity of each class of instructions
+for SPEC2000. The varying popularity of instructions plays an important role in
+the chapters on performance, datapath, control, and pipelining.
+Each category of MIPS instructions is associated with constructs that appear in
+programming languages:

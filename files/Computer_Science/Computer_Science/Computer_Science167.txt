@@ -1,0 +1,37 @@
+2.20 Exercises 151
+o(
+lw 1t4. 1t4 )
+add It I . $zero, $zero
+lnner : add I t3 . $al, Itl
+lw I t3 . 0($t3)
+bne I t3 . 1t4. ski p
+addi $vO , $vO , I
+ski p: addi$ tl . Itl . 4
+bne It I . $a3 , lnner
+addi ItO. ItO . 4
+bne ItO. $a2, outer
+2.31 [10] <§§2.3, 2.6, 2.9> Assume that the code from Exercise 2.30 is run on a ma 
+chine with a 2 GHz clock that requires the following number ofcycles for eadl instruc 
+tion:
+Instruction Cycles
+I
+add.add1.s11 1
+lw.l>ne
+2
+In the worst case, how many seconds will it take to execute this code?
+2.32 [5] <§2.9> Show the single MIPS instruction or minimal sequence of in 
+structions for this C statement:
+b ~ 25 I a ;
+Assume that a corresponds to register $tO and b corresponds to register $t1.
+II
+2.33 (10 ) <§2.9> For More Practice: Translating from C to MIPS
+2.34 [10) <§§ 2.3, 2.6, 2.9> The following program tries to copy words from the
+address in register $aO to the address in register $a1, counting the number of
+words copied in register $vO. The program stops copying when it finds a word
+equal to 0. You do not have to preserve the contents of registers $v 1, $a0, and $a 1.
+This terminating word should be copied but not counted.
+addi $vO , $zero, 0 II Initialize count
+loop : lw $vI, OllaOI II Read next word from source
+sw $vI, 0lla1l II Write to destination
+addi $aO, $aO, 4 II Advance pointer to next source
+addi $al, $a1, 4 II Advance pointer to next destination

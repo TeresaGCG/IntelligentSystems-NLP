@@ -1,0 +1,121 @@
+WORK. ENERGY AND POWER
+
+129
+
+Answer The downward force on the elevator is
+F= mg+Ff= (1800 x 10) + 4000 = 22000 N
+
+The motor must supply enough power to balance
+this force. Hence,
+
+P=F.v=22000><2=44000W=59hp 4
+6. 12 COLLISIONS
+
+In physics we study motion (change in position).
+At the same time, we try to discover physical
+quantities, which do not change in a physical
+process. The laws of momentum and energy
+conservation are typical examples. In this
+section we shall apply these laws to a commonly
+encountered phenomena, namely collisions.
+Several games such as billiards, marbles or
+carrom involve collisions.We shall study the
+collision of two masses in an idealised form.
+
+Consider two masses m1 and m2. The particle
+m1 is moving with speed 1)”, the subscript ‘i’
+implying initial. We can cosider m2 to be at rest.
+No loss of generality is involved in making such
+a selection. In this situation the mass m1
+collides with the stationary mass m2 and this
+is depicted in Fig. 6.10.
+
+y /,0/L1f
+/ m1
+//
+”1
+.l_. g—
+m1 m2\ 92 x
+\
+\
+\
+\
+m2 U2f
+
+Fig. 6. 1 0 Collisionofmass m1, withastationmy mass m2.
+
+The masses m1 and m2 ﬂy-off in different
+directions. We shall see that there are
+relationships, which connect the masses, the
+velocities and the angles.
+
+6.12.1 Elastic and Inelastic Collisions
+
+In all collisions the total linear momentum is
+conserved; the initial momentum of the system
+is equal to the final momentum of the system.
+One can argue this as follows. When two objects
+collide, the mutual impulsive forces acting over
+the collision time At cause a change in their
+respective momenta :
+
+Apl = F12 At
+Ap2 = F21 At
+
+where F12 is the force exerted on the first particle
+
+by the second particle. F21 is likewise the force
+exerted on the second particle by the ﬁrst particle.
+Now from Newton’s third law, F12 = — F21. This
+implies
+
+Ap1 + Ap2 = 0
+
+The above conclusion is true even though the
+forces vary in a complex fashion during the
+collision time At. Since the third law is true at
+every instant, the total impulse on the ﬁrst object
+is equal and opposite to that on the second.
+
+On the other hand, the total kinetic energy of
+the system is not necessarily conserved. The
+impact and deformation during collision may
+generate heat and sound. Part of the initial ldnetic
+energy is transformed into other forms of energy.
+A useful way to visualise the deformation during
+collision is in terms of a ‘compressed spring’. If
+the ‘spring’ connecting the two masses regains
+its original shape without loss in energy, then
+the initial kinetic energy is equal to the ﬁnal
+kinetic energy but the kinetic energy during the
+collision time At is not constant. Such a collision
+is called an elastic collision. On the other hand
+the deformation may not be relieved and the two
+bodies could move together after the collision. A
+collision in which the two particles move together
+after the collision is called a completely inelastic
+collision. The intermediate case where the
+deformation is partly relieved and some of the
+initial kinetic energy is lost is more common and
+is appropriately called an inelastic collision.
+
+6. 12.2 Collisions in One Dimension
+
+Consider first a completely inelastic collision
+in one dimension. Then, in Fig. 6.10,
+
+0 1 = 0 2 = 0
+mlvu = (m1+m2)vf (momentum conservation)
+
+m1
+
+f m1+m2 u (6.23)
+
+The loss in kinetic energy on collision is
+
+1 1
+AK = Emlvi. —§(m1 + m2)vj.
+= 1m v2. — 1171—12112. [using Eq. (6.23)]
+2 1 h 2 m1+m2 h
+2 m1 + m2
+2019-20

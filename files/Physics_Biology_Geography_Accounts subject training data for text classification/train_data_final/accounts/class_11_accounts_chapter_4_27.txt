@@ -1,0 +1,62 @@
+126 Accountancy
+
+Aug. 04 Purchased from M/ s Neema Electronics [invoice no. 3250): 20 Mini—size T.V.
+@ ?2.000 per piece, 15 Tape recorders @ ? 12,500 per piece. Trade discount
+on all items @ 20%.
+Bought from M / s Pawan Electronics (invoice no. 8260): 10 Video cassettes @
+? 150 per piece. 20 Tape recorders @ ? 1.650 per piece. Trade discout
+@ 10% on purchases.
+
+Purchased from M / s. Northern Electronics (invoice no. 4256): 15 Northern
+stereos @ ? 4.000 per piece. 20 Northern colour T.V. @ ? 14,500 per piece.
+Trade discount @ 12.5%.
+
+Purchased from M/ s Neema Electronics [Invoice No. 3294): 10 Mini—size T.V. @
+? 1 .000 per piece. 5 Colour T.V. @ ? 12,500 per piece. Trade discount
+@ 20%.
+
+Bought from M / s Pawan Electronics: [Invoice No. 8281) 20 Video cassettes @
+150 per piece 25 Tape recorders @ i 1.600 per piece. Trade discount @ 10%
+
+on purchases.
+
+ 
+
+Books of Kanika Traders
+Purchases (Journal) Book
+
+Date Invoice Name of Supplier L.F. Amount
+No. (Account to be credited) ?
+
+Neema Electronics 1 ,82,000
+Pawan Electronics 3 1 .050
+
+Northern Electronics 3.06.250
+Neema Electronics 54.000
+Pawan Electronics 38.700
+
+6.12.000
+
+ 
+
+Posting from the purchases journal is done daily to their respective accounts
+with the relevant amounts on the credit side. The total of the purchases journal
+is periodically posted to the debit of the purchases account normally on the
+monthly basis. However, if the number of transactions is very large, this total
+may be done and posted at some other convenient time interval such as daily,
+weekly or fortnightly. The posting from the purchases journal to the ledger
+from is illustrated as follows:
+
+Books of Kanika Electronics
+Neema Electronics
+
+Dr. Cr.
+? ?
+
+2017
+Aug.04 Purchases 1.82.000
+Aug. 26 Purchases 54.000
+
+   
+
+2019-2020

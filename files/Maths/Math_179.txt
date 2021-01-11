@@ -1,0 +1,27 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Algebra and Geometry
+Algebra and geometry go hand in hand, thanks in part to Rene
+Descartes. Algebra provides a systematic way to approach computational
+problems in geometry. Before get into the algebra of geometry, we have
+to discuss some basic geometric shapes. Our focus will be on the most
+interesting and common geometric shapes: polygons.
+Lesson 10-1: Polygons
+A polygon is a closed plane figure with at least three sides. The sides
+meet only at their endpoints. The point where two sides meet is called a
+vertex. The name of a polygon is determined by the number of sides that
+it has. A triangle is a polygon with three sides. A quadrilateral is a poly-
+gon with four sides. There are many different kinds of quadrilaterals.
+Squares, rectangles, parallelograms, and trapezoids are just a few types
+of quadrilaterals.
+The smallest number of sides that a polygon can have is three. A
+three-sided polygon is called a triangle. Triangles can be classified by
+theirangle measures. A triangle whose interior angles are all less than 90°
+is called an acute triangle. A triangle that has one angle that is equal to
+90° is called a right triangle. A triangle that has one angle that is greater
+than 90° is called an obtuse triangle. A triangle whose angles all have the
+same measure is called an equiangular triangle. One important feature
+about triangles is that the sum of the interior angles is 180°. Figure 10.1 on
+page 180 shows examples of acute, right, obtuse, and equiangular triangles.
+Triangles can also be classified by the lengths of their sides. If all
+three sides of the triangle have different lengths, the triangle is scalene.
+179

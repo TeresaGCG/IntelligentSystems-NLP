@@ -1,0 +1,41 @@
+260 Chapter 4 Assessing and Understanding Performance
+Integer benchmarks FP benchmarks
+Description
+gzip Compression wupwise Quantum chromodynamics
+'p' FPGA cin:uit placementand routing swim Shallow water model
+goo The Gnu C compiler Multigrid solver in 3.Q potential field
+mol Combinatorial optimization applu Parabolic/ elliptic partial differential equation
+crafty Chess program mesa Three-dimensional graphics library
+parser Word processing program galgel Computational fluid dynamics
+Computer visualization ,rt Image re<:ognition using neural networks
+pertbmk pert application equake Seismic wave propagation simulation
+g,p
+Group theory, interpreter facerec Image re<:ognition of faces
+vortex Obje<:t~riented database ammp Computational chemistry
+bzip2 Compression lucas Primality testing
+twolf Place and rote simulator fma3d Crash simulation using finite-element method
+sixtrack HiglHmergy nuclear physics accelerator design
+apsi Meteorology: pollutant distribution
+FIGURE 4.5 The SPEC CPU2000 benchmarks. The 12 integer benchntarks in the left half of the
+table are written in C and C++, while the floating-point benchmarks in the right half are written in Fortran
+(77 or 90) and C. For more information on SPEC and on the SPEC benchmarks, see www.spec.org. The
+SPEC CPU benchmarks use wall dock tinte as the metric, but because there is little 110, they measure CPU
+performance.
+For a given instruction set architecture, lIlcreases CPU performance can
+III
+come from three sources:
+1. Increases in clock rate
+2. Improvements in processor orga nization that lower the CPI
+3. Compiler enhancements that lower the instruction count or generate
+instructions with a lower average CPI (e.g., by using simpler instructions)
+To illustrate such performance improvements, Figure 4.6 shows the SPEC
+CINT2000 and CFP2000 measurements for a series of Intel Pentium III and Pen 
+tium 4 processors measured using the Dell Precision desktop computers. Since
+SPEC requires that the benchmarks be run on real hardware and the memory sys 
+tem has a significant effect on performance, other systems with these processors
+may produce different performance levels. In addition to the clock rate differ 
+ences, the Pentium III and Pentium 4 use different pipeline structures, which we
+describe in more detail in Chapter 6.
+There are several important observations from these two performance graphs.
+First, observe that the performance of each of these processors scales almost lin 
+early with clock rate increases. Often this is not the case, since losses in the mem-

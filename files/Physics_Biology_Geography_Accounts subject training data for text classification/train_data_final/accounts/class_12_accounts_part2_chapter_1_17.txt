@@ -1,0 +1,65 @@
+1 8 Accountancy : Company Accounts andAnalysis of Financial Statements
+
+Illustration 4
+
+Konica Limited registered with an authorised equity capital of Rs. 2,00,000
+divided into 2,000 shares of Rs. 100 each, issued for subscription of 1 ,000
+shares payable at Rs. 25 per share on application, Rs. 30 per share on allotment,
+Rs. 20 per share on ﬁrst call and the balance as and when required.
+
+Application money on 1,000 shares was duly received and allotment was
+made to them. The allotment amount was received in full, but when the ﬁrst call
+was made, one shareholder failed to pay the amount on 100 shares held by him
+and another shareholder with 50 shares, paid the entire amount on his shares.
+The company did not make any other call.
+
+Give the necessary journal entries in the books of the company to record
+these share capital transactions.
+
+Solution
+
+Books of Konica Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amow'it Amount
+(Rs. ) (Rs. )
+
+Bank A/c Dr.
+To Equity Share Application A/c
+
+(Money received on application for 1,000
+
+shares @ Rs. 25 per share)
+
+Equity Share Application A/c Dr.
+To Equity Share Capital A/c
+
+(Transfer of application money on 1,000 shares
+
+to share capital)
+
+Equity Share AlloiInent A/c
+
+To Equity Share Capital A/c
+(Amount due on the allotment of 1,000
+shares @ Rs. 30 per share)
+
+Bank A/c
+To Equity Share Allomient A/c
+(Allotment money received)
+
+Equity Share First Call A/c
+
+To Equity Share Capital A/c
+(First call money due on 1,000 shares @
+Rs. 20 per share)
+
+Bank A/c
+Calls in Arrears A/c
+To Equity Share First Call A/c
+To Calls in Advance A/c
+(First call money received on 900 shares, calls in
+arrears for 100 shares @ R520 per share and calls
+
+in advance for 50 shares @ R525 per share.)

@@ -1,0 +1,35 @@
+2.7 Supporting Procedures in Computer Hardware 81
+Compiling a C Procedure That Doesn't Call Another Procedure
+Let's turn the example on page 51 into a C procedure: EXAMPLE
+int leaCexample (int g , int h , int i, int j)
+I
+int f ;
+f = (g + h) - (i + j) ;
+return f ;
+J
+\Vhat is the compiled MIPS assembly code?
+The parameter variables g, h, i, and j correspond to the argument registers
+ANSWER
+$aO, $a1, $a2, and $a3, and f corresponds to $sO. The compiled program
+starts with the label of the procedure:
+leaf_example :
+The next step is to save the registers used by the procedure. The C assignment
+statement in the procedure body is identical to the example on page 51,
+which uses two temporary registers. Thus, we need to save three registers:
+$sO, HO, and $tl. We "push" the old values onto the stack by creating space
+for three words on the stack and then store them:
+addi $sp ,$ sp , - 12 # adjust stack to make room for 3 items
+sw $tI, 8($sp) # save register $tl for use afterwards
+sw $tO, 4($sp) # save register $tO for use afterwards
+sw $sO , O($sp) # save register $sO for use afterwards
+Figure 2. 14 shows the stack before, during, and after the procedure call. The
+next three statements correspond to the body of the procedure, which follows
+the example on page 5 1:
+#
+add $t0 ,$ aO ,$ a1 register $tO contains g + h
+#
+add $tI,$a2 ,$ a3 register $t1 contains i + j
+#
+sub $sO ,$t O,$ t1 f = $tO - HI, which is (g + h) - (i + j)
+To return the value of f , we copy it into a renlfll value register:
+add $vO ,$ sO ,$z ero # returns f ($vO = $sO + 0)

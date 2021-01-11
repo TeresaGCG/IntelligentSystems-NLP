@@ -1,0 +1,79 @@
+3.3 Addition and Subtraction 175
+MIPS assembly language
+, ,
+Category Instruction Example Meaning Comments
+,
+, , ,,3
+odd ,dd $s1. $s2. $s3 , ,1 , + Three operands; overflow detected
+,,3
+, ,
+subtract ;ob $s1. $s2. $s3 , ,1 , Three operands; overflow detected
+, ,1 +
+add immediate add i $sl. $s2.100 ,,' 100 + constant; overflow detected
+,,3
+' ;1
+add unsigned addu $s1.$s2. $s3 ,,' + Three operands; overflow undetected
+,,3
+Arithmetic ' ;1
+subtract unsigned subu $s1.$s2. $s3 - ,,' Three operands; overflow undetected
+' ;1
+add immediate addiu $sl.$s2.100 + 100 + constant; overflow undetected
+unsigned
+' ;1
+move from mfcO $sl.$epc $epc Used to copy Exception PC plus other
+coprocessor register special registers
+load word lw $s1.100 {$ s2 ) , ,1 Memoryl $s2 + 100J Word from memory to register
+' ;1
+,w +
+store word $s 1 .100{$ s2 ) Memory L$ s2 100J Word from register to memory
+load half unsigned 1he $sl.100{ $s2) $sl _ Memory[$s2 + 10O] Halfword memory to register
+Data ' ;1
+store half ,h $sl. 100{ $s2) Memory($s 2 + 100] _ Halfword register to memory
+transfer
+load byte unsigned 1be $sl.100{ $s2) $sl _ Memory[$s2 + 1001 Byte from memory to register
+store byte ,b $sl.100{ $s2) Memory($s 2 +100] - $sl Byte from register to memory
+16
+load upper immediate 1ui $s1. 100 $sl _1,0,0'. 2 Loads constant in upper 16 bits
+, ,3
+, ,1
+00' "d $s1. $s2. $s3 ,& Three reg. operands; bit.tly-bit AND
+" ,,3
+' ;1
+" $s1. $s2. $s3 - I Three reg. operands; bit.tly-bit OR
+0'
+' ;1 I
+00' 0" $sl. $s2. $s3 ,($ s2 $s 3 ) Three reg. operands; bit.tly-bit NOR
+"
+' ;1
+Logical and immediate and i $sl. $s2. 100 & 100 Bit.tly-bit AND with constant
+,
+"
+' ;1
+or immediate on $sl. $s2.100 - ,,' I 100 Bit.tly-bit OR with constant
+' ;1 «
+,11
+shift left logical $sl. $s2. 10 ,,' 10 Shift left by constant
+' ;1 »
+shift right logical HI $s1. $s2. 10 10 Shift right by constant
+branch on equal b,q $s1. $s2.25 if {$sl __ $s2)goto Equal test; pc.,elative branch
+PC +4+100
+branch on not equal bo, $s1. $s2.25 if {$sl !- $s2)goto Not equal test; PC-relative
+PC +4+100
+set on less than ,It $s1. $s2. $s3 if {$s2 < $s3) $s1 _1; Compare less than; two's complement
+Conditional else $sl " O
+branch set less than slti $sl. $s2. 100 if {$s2 < 100) $sl _1; Compare < constant; two's
+immediate else $sl " O complement
+set less than unsign s ltu $s1. $s2. $s3 if {$s2< $s3) $s 1_1; Compare less than; unsigned
+else $s l" O
+set less than s Iti u $sl. $s2. 100 if {$s2 < 100) $s1" 1; Compare < constant; unsigned
+immediate unsigned else $s l" O
+jump 2500 go to 10CX>O Jump to target address
+J
+'n
+Uncondi·
+jump register go to $ r a For switch, procedure return
+F
+tionaljump 'n
+jump and link j a1 2500 _ PC + 4; go to 10000 For procedure call
+FIGURE 3.4 MIPS architecture revealed thus far. To save space in the table, it does not include the registers and memory found in Figure
+3.1 on page 169. Color indic.1tes the portions revealed since Figure 3.1. MIPS machine language is also on the MIPS reference summary card.

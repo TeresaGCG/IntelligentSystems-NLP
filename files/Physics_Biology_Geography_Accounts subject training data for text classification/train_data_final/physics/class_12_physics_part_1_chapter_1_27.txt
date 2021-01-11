@@ -1,0 +1,90 @@
+i PhySICS
+F—Za ‘ The total field atPis
+EH1 E_q p
+r—r ---------- 9 -------- *-—~:-q0 q 1 1
+I 2 EZE +E : _
+r ' “I ‘q 47:80 (r—a)2 (r+a)2 P
+_ q 4ar
+_ 47580 (r2_a2)2 P (1.14)
+Forr>>a
+4qa -
+\\ E:
+/\ EatP 47t€or3 P (r>> a) (1.15)
+
+(ii) For points on the equatorial plane
+
+The magnitudes of the electric ﬁelds due to the two
+charges +q and —q are given by
+
+q l
+E :
+“I 47:60 r2 + a2
+
+ 
+
+ 
+
+ 
+
+[1. l6(a)]
+
+q l
+E :
+’q 47:80 r2 + a2
+
+ 
+
+ 
+
+[1. l6(b)]
+
+ 
+
+FIGURE 1.20 Electric field of a dipole and are equa1_
+at (a) a POint 0“ the aXiSv (b) a POint The directions of E+ and E_ are as shown in
+on the equatorial plane Of the diP‘ﬂe- Fig. 1.20(b). Clearly, the componentsqnormal to the dipole
+p 15 the .dlpOle niomem VCCIOY Of aids cancel away. The components along the dipole axis
+magmde p _ q x 2a and add up. The total electric ﬁeld is opposite to I". We have
+
+directed from —q to q. -
+E =—(E+q+ E_q) cosB P
+
+2qa
+—47t£ (r2+a2)3/2p (1.17)
+
+At large distances (r >> a), this reduces to
+
+2 a -
+4—752?!) (T >> a) (1.18)
+
+From Eqs. (1. 15) and (1 . 18), it is clear that the dipole ﬁeld at large
+distances does not involve q and a separately; it depends on the product
+qa. This suggests the definition of dipole moment. The dipole moment
+vector p of an electric dipole is defined by
+
+p =q><2a13 (1.19)
+that is, it is a vector whose magnitude is charge q times the separation
+2a (between the pair of charges q, —q) and the direction is along the line
+from —q to q. In terms of p, the electric field of a dipole at large distances
+takes simple forms:
+
+At a point on the dipole axis
+
+E:—
+
+ 
+
+: 3 (r >> a) (1.20)
+
+At a point on the equatorial plane
+
+P
+
+E = —
+47t£0r3
+
+ 
+
+28 (r>> a) (1.21)
+
+2019-20

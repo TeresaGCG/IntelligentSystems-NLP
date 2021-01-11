@@ -1,0 +1,39 @@
+410 Chapter 6 Enhancing Performance with Plpellnlng
+Mux control Source Explanation
+ForwardA _ 00 IDj EX The first ALU operand comes from the register file.
+ForwardA _ 10 EXjMEM The first ALU operand is forwarded from the prior ALU result.
+ForwardA _ 01 MEMj WS The first ALU operand is forwarded from data memory or an earlier
+ALU result.
+ForwardS _ 00 IDj EX The second ALU operand comes from the register file.
+ForwardS _ 10 EXjMEM The second ALU operand is forwarded from the prior ALU result.
+ForwardS _ 01 MEMj WS The second ALU operand is forwarded from data memory or an
+earlier ALU result.
+FIGURE 6.31 The control values for the forwarding multiplexors In Figure 6.30. The signed
+immediate that is another input to the ALU is described in theelaboration at the end ofthis section.
+2. MEM hazard:
+i f (M EM/WB . RegW r i t e
+*
+and (M EM/WB . Regis t er Rd
+0)
+and (MEM/WB . Regis t er Rd ID/ EX. Regis t erRsll ForwardA 01
+i f (M EM/WB . RegW r i t e
+*
+and (M EM/WB . Regis t er Rd
+0 )
+and (MEM/WB . Regis t er Rd ID / EX. Regis t erRt ll ForwardB 01
+=
+As mentioned above, there is no hazard in the WB stage because we assume
+that the register file supplies the correct result if the instruction in the ID stage
+reads the same register written by the instruction in the WB stage. Such a register
+file performs another form of forwarding, but it occurs within the register file.
+One complication is potential data hazards between the result of the instruc 
+tion in the WB stage, the result of the instruction in the MEM stage, and the
+source operand of the instruction in the ALU stage. For example, when summing
+a vector of numbers in a single register, a sequence of instructions will all read and
+write to the same register:
+add $1,$1,$2
+add $1,$1,$3
+add $1,$1,$4
+In this case, the result is forwarded from the MEM stage because the result in
+the MEM stage is the more recent result. Thus the control for the MEM haza rd
+would be (with the additions highlighted)

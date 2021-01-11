@@ -1,0 +1,48 @@
+BIOMOLECULES
+
+Plant cell walls are made of cellulose. Paper made from plant pulp
+and cotton ﬁbre is cellulosic. There are more complex polysaccharides
+in nature. They have as building blocks, amino-sugars and chemically
+modified sugars (e. g., glucosamine, N-acetyl galactosamine, etc.).
+Exoskeletons of arthropods, for example, have a complex
+polysaccharide called chitin. These complex polysaccharides are mostly
+homopolymers.
+
+9.6 NUCLEIC ACIDS
+
+The other type of macromolecule that one would find in the acid
+insoluble fraction of any living tissue is the nucleic acid. These are
+polynucleotides. Together with polysaccharides and polypeptides these
+comprise the true macromolecular fraction of any living tissue or cell.
+For nucleic acids, the building block is a nucleotide. A nucleotide has
+three chemically distinct components. One is a heterocyclic compound,
+the second is a monosaccharide and the third a phosphoric acid or
+phosphate.
+
+As you notice in Figure 9.1, the heterocyclic compounds in nucleic
+acids are the nitrogenous bases named adenine, guanine, uracil,
+cytosine, and thymine. Adenine and Guanine are substituted purines
+while the rest are substituted pyrimidines. The skeletal heterocyclic ring
+is called as purine and pyrimidine respectively. The sugar found in
+polynucleotides is either ribose (a monosaccharide pentose) or 2’
+deoxyribose. A nucleic acid containing deoxyribose is called
+deoxyribonucleic acid (DNA) while that which contains ribose is called
+ribonucleic acid (RNA).
+
+9.7 STRUCTURE OF PROTEINS
+
+Proteins, as mentioned earlier, are heteropolymers containing strings
+of amino acids. Structure of molecules means different things in
+different contexts. In inorganic chemistry, the structure invariably
+refers to the molecular formulae (e.g., NaCl, MgClZ, etc.). Organic
+chemists always write a two dimensional view of the molecules while
+representing the structure of the molecules (e.g., benzene,
+naphthalene, etc.). Physicists conjure up the three dimensional views
+of molecular structures while biologists describe the protein structure
+at four levels. The sequence of amino acids i.e., the positional
+information in a protein — which is the first amino acid, which is
+second, and so on — is called the primary structure (Figure 9.3) of a
+protein. A protein is imagined as a line, the left end represented by
+the first amino acid and the right end represented by the last amino
+
+149

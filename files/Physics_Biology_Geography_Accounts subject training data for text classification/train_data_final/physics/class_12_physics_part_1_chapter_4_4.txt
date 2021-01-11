@@ -1,0 +1,60 @@
+l Physics
+
+drift velocity vd (see Chapter 3). In the presence of an external magnetic
+field B, the force on these carriers is:
+
+F = (nlA)q vd x B
+where q is the value of the charge on a carrier. Now nq v01 is the current
+
+density j and | (nq vd) IA is the current I (see Chapter 3 for the discussion
+of current and current density). Thus,
+F = [(nqu)lA] x B = [jAl] x B
+= I l x B (4.4)
+where lis a vector of magnitude L the length of the rod, and with a direction
+identical to the current I . Note that the current I is not a vector. In the last
+step leading to Eq. (4.4), we have transferred the vector sign from j to 1.
+Equation (4.4) holds for a straight rod. In this equation, B is the external
+
+magnetic field. It is not the field produced by the current-carrying rod. If
+the wire has an arbitrary shape we can calculate the Lorentz force on it
+
+by considering it as a collection of linear strips dlj and summing
+F = 21d:j x B
+i
+
+This summation can be converted to an integral in most cases.
+
+ON PERMITTIVITY AND PERMEABILITY
+
+In the universal law of gravitation, we say that any two point masses exert a force on
+each other which is proportional to the product of the masses m1, m2 and inversely
+proportional to the square of the distance r between them. We write it as F= Gm1m2/ r2
+where G is the universal constant of gravitation. Similarly, in Coulomb’s law of electrostatics
+we write the force between two point charges q1, q2, separated by a distance r as
+F = kq1q2/ r2 where k is a constant of proportionality. In SI units, k is taken as
+1 /4TC8 where s is the permittivity of the medium. Also in magnetism, we get another
+constant, which in SI units, is taken as [.1/47t where ,u is the permeability of the medium.
+
+Although G, 8 and ,u arise as proportionality constants, there is a difference between
+gravitational force and electromagnetic force. While the gravitational force does not depend
+on the intervening medium, the electromagnetic force depends on the medium between
+the two charges or magnets. Hence, while G is a universal constant, 8 and ,u depend on
+the medium. They have different values for different media. The product 8/.1 turns out to
+be related to the speed 0 of electromagnetic radiation in the medium through 8/.1 = 1 / 02.
+
+Electric permittivity 8 is a physical quantity that describes how an electric field affects
+and is affected by a medium. It is determined by the ability of a material to polarise in
+response to an applied field, and thereby to cancel, partially, the ﬁeld inside the material.
+Similarly, magnetic permeability ,u is the ability of a substance to acquire magnetisation in
+magnetic fields. It is a measure of the extent to which magnetic field can penetrate matter.
+
+Example 4.1 A straight wire of mass 200 g and length 1.5 m carries
+a current of 2 A. It is suspended in mid-air by a uniform horizontal
+magnetic field B (Fig. 4.3). What is the magnitude of the magnetic
+field?
+
+EXAMPLE 4. 1
+
+136
+
+2019-20

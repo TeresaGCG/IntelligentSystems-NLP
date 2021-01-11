@@ -1,0 +1,35 @@
+7.3 Measuring and Improving Cache Performance 499
+One-way set associative
+(direct mapped)
+Block Tag Data
+o
+Two-way set associative
+1
+Set Tag Data Tag Data
+2
+o
+3
+1
+4
+2
+5
+3
+6
+7
+Four-way set associative
+Sol Tag Data Tag Data Tag Data Tag Data
+o I EE I EE I
+1
+Eight-way set associative (fully associative)
+Tag Data Tag Data Tag Data Tag Data Tag Data Tag Data Tag Data Tag Data
+D 0 0 _ -----,DOD OOL-I 0 0
+FtGURE 7.14 An elght-block cache configured as direct mapped, two-way set associa 
+tive, four-way set associative, and fully associative. The total size ofthe cache in blocks is equal
+to the munber of sets times the associativity. Thus, for a fixed cache size, increasing the associativity
+decreases the nwnber of sets, while increasing the munber of elements per set. With eight blocks, an eight 
+way set-associative cache is the same as a fully associative cache.
+Misses and Associativity in Caches
+Assume there are three small caches, each consisting of four one-word blocks. EXAMPLE
+One cache is fully associative, a second is two-way set associative, and the
+third is direct mapped. Find the number of misses for each cache organiza 
+tion given the following sequence of block addresses: 0, 8, 0,6,8.

@@ -1,0 +1,45 @@
+6.3 Plpellned Control 401
+Instruction Instruction Desired AW control
+•
+opcode operation Function code ALU action Input
+LW ()() load word )()(J()(J()( ,dd 0010
+SW ()() store word )()(J()(J()( ,dd 0010
+Branch equal 01 branch equal )()(J()(J()( subtract 0110
+R.type 10 ,dd 100000 ,dd 0010
+R"pe 10 subtract 100010 subtract 0110
+eo'
+R"pe 10 AND 100100 0000
+R"pe 10 DR 100101 0' 0001
+R"pe 10 set on less than 101010 set on less than 0111
+FIGURE 6.23 A copy of Figure 5.12 on page 302. This figure shows how the ALU control bits are
+set depending on theALUOp control bits and the different function codes for the R-type instruction.
+Signal name Effect when deasserted (0) Effect when asserted (1)
+RegDst The register destination number for the Write register The register destination number for the Write register comes from
+comes from the rt field (bits 20:16). the rd field (bits 15:11).
+Reg'Nrite None. The register on the Write register input is written with the value on
+the Write data input.
+ALUSrc The second ALU operand comes from the second The second ALU operand is the sign.extended, lower 16 bits of the
+register file output (Read data 2). instruction.
+PCSrc The PC is replaced by the output of the adder that The PC is replaced by the output of the adder that computes the
+computes the value of PC + 4. branch target.
+MemRead None. Data memory contents designated by the address input are put on
+the Read data output.
+MemWrite None. Data memory contents designated by the address input are
+replaced by the value on the Write data input.
+MemtoReg The value fed to the register Write data input comes The value fed to the register Write data input comes from the data
+from the ALU. memory.
+FIGURE 6.24 A copy of Figure 5.16 on page 306. The function ofeach of seven control signals is defined. The ALU control lines (ALUOp)
+are defined in the second column of Figure 6.23. When a I-bit control to a two-way multiplexor is asserted, the multiplexor selects the input corre 
+sponding to I. Otherwise, if the control is deasserted, the multiplexor selects the 0 input. Note that PCSrc is controlled by an AND gate in Figure 6.22.
+If the Branch signal and theALU Zero signal are both set, then PCSrc is I; otherwise, it is o. Control sets the Branch signal only during a beq instruc 
+tion; otherwise, PCSrc is set to o.
+Execution/ address calculation stage Memory access stage Write-back stage
+control lines control lines control lines
+Reg ALU ALU ALU Mem Mem Reg Mem to
+Dst Opl OpD S" Branch Read Write Write Reg
+R·format 1 1 D D 0 0 D 1 0
+1w 0 D D 1 0 1 D 1 1
+;W X 0 D 1 0 0 1 D X
+beq X 0 1 D 1 0 D D X
+FIGURE 6.25 The values of the control lines are the same as In Figure 5.18 on page 308, but they have been shuffled Into
+three groups corresponding to the last three pipeline stages.

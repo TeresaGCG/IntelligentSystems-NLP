@@ -1,0 +1,77 @@
+Wove Optics
+
+ 
+
+You have already encountered Doppler effect for sound waves in
+Chapter 15 of Class XI textbook. For velocities small compared to the
+speed of light, we can use the same formulae which we use for sound
+waves. The fractional change in frequency Av/v is given by —vr81 di 81 / c, where
+vradial is the component of the source velocity along the line joining the
+observer to the source relative to the observer; vra di 81 is considered positive
+when the source moves away from the observer. Thus, the Doppler shift
+can be expressed as:
+
+AV _ Uradial
+
+V C
+
+ 
+
+(10.9)
+
+The formula given above is valid only when the speed of the source is
+small compared to that of light. A more accurate formula for the Doppler
+effect which is valid even when the speeds are close to that of light, requires
+the use of Einstein’s special theory of relativity. The Doppler effect for
+light is very important in astronomy. It is the basis for the measurements
+of the radial velocities of distant galaxies.
+
+Example 10.1 What speed should a galaxy move with respect
+to us so that the sodium line at 589.0 nm is observed
+at 589.6 nm?
+
+Av A)»
+
+Solution Since vi = c, 7 = *7 (for small changes in v and A). For
+
+A?» = 589.6 — 589.0 = + 0.6 nm
+we get [using Eq. (10.9)]
+
+ﬂ__A_/l__vmdm
+
+ 
+
+ 
+
+V 2. c
+~ 0.6 _ 5 _1
+or, vradial =+€£589.0)_+3’06X10 ms
+
+= 306 km/s
+Therefore, the galaxy is moving away from us.
+
+Example 10.2
+
+(a) When monochromatic light is incident on a surface separating
+two media, the reﬂected and refracted light both have the same
+frequency as the incident frequency. Explain why?
+
+(b) When light travels from a rarer to a denser medium, the speed
+decreases. Does the reduction in speed imply a reduction in the
+energy carried by the light wave?
+
+(c) In the wave picture of light, intensity of light is determined by the
+square of the amplitude of the wave. What determines the intensity
+of light in the photon picture of light.
+
+Solution
+(a) Reﬂection and refraction arise through interaction of incident light
+with the atomic constituents of matter. Atoms may be viewed as
+
+2019-20
+
+{'01 511mg
+
+Z'OI GI’IJWVXGI
+
+359

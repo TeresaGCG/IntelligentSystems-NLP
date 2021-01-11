@@ -1,0 +1,44 @@
+6.1 An Overview of Plpellnlng 379
+Both add instructions have a haza rd because of their respective dependence
+ANSWER
+on the immediately preceding 1w instruction. Notice that bypassing elimi 
+nates several other potential hazards including the dependence of the first
+add on the first 1wand any haza rds for store instructions. Moving up the
+third 1winstruction eliminates both hazards:
+lw I tl , O(ltO)
+lw ItZ , 4(lt1)
+lw 1t4, 8(101)
+add 1t3 , Itl , ltZ
+sw 1t3 , lZ(ltO)
+add 1t5 , Itl , lt4
+sw 1t5 , 16(ltO)
+On a pipelined processor with forwarding, the reordered sequence will
+complete in two fewer cycles than the original version.
+Forwarding yields another insight into the MIPS architecnlre, in addition to
+the four mentioned on page 374-375. Each MIPS instruction writes at most one
+result and does so near the end of the pipeline. Forwarding is harder if there are
+multiple results to forward per instruction or they need to write a result early on
+in instruction execution.
+Elaboration: The name "forwarding" comes from the idea that the result is passed
+forward from an earlier instruction to a later instruction. "Bypassing" comes from pass 
+ing the result by the register file to the desired unit.
+Control Hazards
+The third type of haza rd is called a control hazard, arising from the need to make control hazard Also called
+a decision based on the results of one instruction while others are executing. branch hazard. An occurrence
+in which the proper instruction
+Suppose our laundry crew was given the happy task of cleaning the uniforms of
+cannot execute in the proper
+a football team. Given how filthy the laundry is, we need to determine whether the
+clock cycle because the instruc 
+detergent and water temperature setting we select is strong enough to get the uni 
+tion that was fetched is not the
+forms clean but not so strong that the uniforms wear out sooner. In our laundry
+one that is needed; that is, the
+pipeline, we have to wa it until the second stage to examine the dry uniform to see
+flow ofinstruction addresses is
+if we need to change the washer setup or not. What to do? not what the pipeline expected.
+Here is the first of two solutions to control hazards in the laundry room and its
+computer equivalent.
+Stall: Just operate sequentially until the first batch is dry and then repeat until
+you have the right formula. This conservative option certainly works, but it is
+slow.

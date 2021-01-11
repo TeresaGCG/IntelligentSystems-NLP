@@ -1,0 +1,99 @@
+l Physics
+
+ 
+
+ 
+
+9 .-' ‘-. ¢ 6. 5
+..-....(} -------- .43 ------- ,.....
+""" _.' ..-.""'Q.—. ‘.~--."":7—-.“----‘
+
+9 ': .0 1 :' ‘0
+
+‘-. 4 2. ,- » .3
+----- @.m...___. 0-..
+--o. ------ r3 . -.-;-- e- ......
+:' 9 .0 Q \021; 9
+i : 5 58‘ \= ‘.
+o '-, 9 156 "6.
+. ------ 0-.3 '. ....... 00‘ o
+......
+
+(b)
+
+FIGURE 14.8 (a) Trivalent
+acceptor atom (In, Al, B etc.)
+doped in tetravalent Si or Ge
+lattice giving p—type semicon-
+
+ductor. (b) Commonly used
+schematic representation of
+p—type material which shows
+
+only the fixed core of the
+substituent acceptor with
+one effective additional
+negative charge and its
+associated hole.
+
+semiconductor doped with pentavalent impurity, electrons
+become the majority carriers and holes the minority carriers.
+These semiconductors are, therefore, known as n-type
+semiconductors. For n-type semiconductors, we have,
+
+119 >>nh
+
+(ii) p-type semiconductor
+
+(14.3)
+
+This is obtained when Si or Ge is doped with a trivalent impurity
+like Al, B, In, etc. The dopant has one valence electron less than
+Si or Ge and, therefore, this atom can form covalent bonds with
+neighbouring three Si atoms but does not have any electron to
+offer to the fourth Si atom. So the bond between the fourth
+neighbour and the trivalent atom has a vacancy or hole as shown
+in Fig. 14.8. Since the neighbouring Si atom in the lattice wants
+an electron in place of a hole, an electron in the outer orbit of
+an atom in the neighbourhood may jump to ﬁll this vacancy,
+leaving a vacancy or hole at its own site. Thus the hole is
+available for conduction. Note that the trivalent foreign atom
+becomes effectively negatively charged when it shares fourth
+electron with neighbouring Si atom. Therefore, the dopant atom
+of p-type material can be treated as core of one negative charge
+along with its associated hole as shown in Fig. 14.8(b). It is
+obvious that one acceptor atom gives one hole. These holes are
+in addition to the intrinsically generated holes while the source
+of conduction electrons is only intrinsic generation. Thus, for
+such a material, the holes are the majority carriers and electrons
+are minority carriers. Therefore, extrinsic semiconductors doped
+with trivalent impurity are called p-type semiconductors. For
+p-type semiconductors, the recombination process will reduce
+the number (ni)of intrinsically generated electrons to ne. We
+have, for p-type semiconductors
+
+nh >> ne (14.4)
+
+Note that the crystal maintains an overall charge neutrality
+as the charge of additional charge carriers is just equal and
+opposite to that of the ionised cores in the lattice.
+
+In extrinsic semiconductors, because of the abundance of
+majority current carriers, the minority carriers produced
+thermally have more chance of meeting majority carriers and
+
+thus getting destroyed. Hence, the dopant, by adding a large number of
+current carriers of one type, which become the majority carriers, indirectly
+helps to reduce the intrinsic concentration of minority carriers.
+
+The semiconductor’s energy band structure is affected by doping. In
+the case of extrinsic semiconductors, additional energy states due to donor
+impurities (ED) and acceptor impurities (E A) also exist. In the energy band
+diagram of n-type Si semiconductor, the donor energy level ED is slightly
+below the bottom EC of the conduction band and electrons from this level
+move into the conduction band with very small supply of energy At room
+temperature, most of the donor atoms get ionised but very few (~ 10‘”)
+atoms of Si get ionised. So the conduction band will have most electrons
+476 coming from the donor impurities, as shown in Fig. 14.9(a). Similarly,
+
+2019-20

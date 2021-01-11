@@ -1,0 +1,53 @@
+1 1 8 Accountancy : Company Accounts and Analysis of Financial Statements
+
+debentures are termed as redemption by purchase in the open market. The
+advantage of such an option is that a company can redeem the debentures at its
+convenience whenever it has surplus funds. Secondly, the company can purchase
+them when they are available in market at a discount.
+
+When the debentures are purchased from the market at a discount and
+cancelled, the journal entries are recorded as follows :
+
+1. On purchase of own debentures for immediate cancellation
+Debentures A/c Dr.
+To Bank A/c
+
+To Proﬁt on Redemption of Debentures A/c
+2. On transfer of Proﬁt on Redemption
+Proﬁt on Redemption of Debenture A/c Dr.
+To Capital Reserve
+
+In case, the debentures are purchased from the market at a price which is above
+the nominal value of debenture, the excess will be debited to loss on redemption
+of debentures. The journal entry in that case will be
+
+1. Debentures A/c Dr.
+Loss on Redemption of Debentures A/c Dr.
+
+To Bank A/c
+2. Statement of proﬁt and loss Dr.
+
+To Loss on Redemption of Debentures A/c
+
+Illustration 22
+
+X Ltd. purchased its own debentures of Rs 100 each of the face value of Rs
+20,000 from the open market for cancellation at Rs 92. Record necessary j oumal
+entries.
+
+Solution:
+
+Books of X Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(Rs) (Rs)
+
+ 
+
+Debentures A/c Dr. 20,000
+To Bank A/c 18,400
+To Proﬁt on Redemption of Debentures A/c 1.600
+[Own debentures purchased at Rs 92
+from the market)

@@ -1,0 +1,74 @@
+Moving Charges and
+Magnetism
+
+This is larger than the value 2X10’7 Nm’1 quoted in the definition
+of the ampere. Hence it is important to eliminate the effect Of the
+earth’s magnetic ﬁeld and other stray fields while standardising
+the ampere.
+
+The direction of the force is downwards. This direction may be {‘1
+obtained by the directional property of cross product of vectors. E
+
+(b) When the current is ﬂowing from south to north, r-
+9 = 0° :
+
+f = 0 L-
+
+0
+
+Hence there is no force on the conductor.
+
+4. 10 TORQUE ON CURRENT LOOP, MAGNETIC DIPOLE
+
+4. 10. 1 Torque on a rectangular current loop in a uniform
+magnetic ﬁeld
+
+We now show that a rectangular loop carrying a steady current I and
+placed in a uniform magnetic ﬁeld experiences a torque. It does not
+experience a net force. This behaviour is analogous to
+
+that Of electric dipole in a uniform electric field 6 R a . 3.
+otat10nax1s
+
+(Section 1.12).
+
+We first consider the simple case when the
+rectangular loop is placed such that the uniform
+magnetic field B is in the plane of the loop. This is
+illustrated in Fig. 4.2 1(a).
+
+The field exerts no force on the two arms AD and BC
+Of the loop. It is perpendicular to the arm AB Of the loop
+and exerts a force F1 on it which is directed into the
+plane Of the loop. Its magnitude is,
+
+F1 = I b B
+Similarly, it exerts a force F2 on the arm CD and F2
+is directed out Of the plane Of the paper.
+
+ 
+
+F2 = I b B = F1 F,
+Thus, the net force on the loop is zero. There is a
+torque on the loop due to the pair of forces F1 and F2. a/2 a/2
+Figure 4.2l(b) shows a View Of the loop from the AD (— _><_
+end. It shows that the torque on the loop tends to rotate
+it anticlockwise. This torque is (in magnitude), m
+a a F1
+= F — F —
+T 1 2 + 2 2 (b)
+a a FIGURE 4.21 (a) A rectangular
+= H935 + H3135 = I(ab)B current~carrying coil in uniform
+
+magnetic field. The magnetic moment
+= IA B (4'26) m points downwards. The torque 1: is
+
+whereA= ab is the area of the rectangle. along the axis and tends to rotate the
+coil anticlockwise. (b) The couple
+
+We next consider the case when the plane Of the loop, acting on the coil
+
+is not along the magnetic ﬁeld, but makes an angle with 1 57
+it. We take the angle between the ﬁeld and the normal to
+
+2019-20

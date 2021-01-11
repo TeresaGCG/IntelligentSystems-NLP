@@ -1,0 +1,116 @@
+124
+
+PHYSICS
+
+ 
+
+external force Fdoes work + kxf / 2. If the block
+
+is moved from an initial displacement xi to a
+final displacement xf , the work done by the
+spring force W5 is
+
+k X? k X? (6.17)
+
+2 2
+
+ 
+
+ 
+
+WS=—){jkxdx 2
+
+Thus the work done by the spring force depends
+only on the end points. Specifically, if the block
+is pulled from xi and allowed to return to xi ;
+
+ 
+
+ 
+
+= (6.18)
+The work done by the spring force in a cyclic
+process is zero. We have explicitly demonstrated
+that the spring force (i) is position dependent
+only as first stated by Hooke, (FS = — kx); (ii)
+does work which only depends on the initial and
+final positions, e.g. Eq. (6.17). Thus, the spring
+force is a conservative force.
+
+We deﬁne the potential energy V(x) of the spring
+to be zero when block and spring system is in the
+equilibrium position. For an extension (or
+compression) x the above analysis suggests that
+
+2
+
+V(x) = I“? (6.19)
+You may easily verify that — dV/dx = — kx, the
+spring force. If the block of mass m in Fig. 6.7 is
+extended to xm and released from rest, then its
+total mechanical energy at any arbitrary point x,
+where xlies between —xm and + xm will be given by
+
+1k xr2n=lk x2+lm v2
+
+2 2 2
+where we have invoked the conservation of
+mechanical energy. This suggests that the speed
+and the kinetic energy will be maximum at the
+equilibrium position, x = 0, i.e.,
+
+1 1
+Em v3. = 5k x31
+where um is the maximum speed.
+k
+or Um: — Xm
+m
+
+Note that k/ m has the dimensions of [T2] and
+our equation is dimensionally correct. The
+kinetic energy gets converted to potential energy
+
+2019-20
+
+and vice versa, however, the total mechanical
+energy remains constant. This is graphically
+depicted in Fig. 6.8.
+
+ 
+
+"(m
+
+Fig. 6.8 Parabolic plots of the potential energy Vand
+kinetic energy K of a block attached to a
+spring obeying Hooke’s law. The two plots
+are complementary, one decreasing as the
+other increases. The total mechanical
+energy E = K + V remains constant.
+
+p Erample 6.8 To simulate car accidents. auto
+manufacturers study the collisions ofmoving
+cars with mounted springs of different spring
+constants. Consider a typical simulation with
+a car of mass 1000 kg moving with a speed
+
+18.0 km/ h on a smooth road and colliding
+with a horizontally mounted spring of spring
+constant 6.25 X 103 N mt‘. What is the
+maximum compression of the spring ?
+
+ 
+
+Answer At maximum compression the kinetic
+energy of the car is converted entirely into the
+potential energy of the spring.
+
+The kinetic energy of the moving car is
+
+K = 1.25 X 104J
+
+where we have converted 18 Ian h’1 to 5 m s“1 [It is
+useful to remember that 36 km h"1 = 10 m s‘1].
+At maximum compression xm, the potential
+energy V of the spring is equal to the kinetic
+energy K of the moving car from the principle of
+conservation of mechanical energy.

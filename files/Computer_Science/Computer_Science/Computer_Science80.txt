@@ -1,0 +1,38 @@
+64 Chapter 2 Instructions: Language of the Computer
+The 16-bit address means a load word instruction can load any word within a
+ 
+15 13
+region of ± 2 or 32,768 bytes (±2 or 8192 words) of the address in the base reR
+ister rs. Similarly, add immediate is limited to constants no larger than ± 2 .
+(Chapter 3 explains how to represent negative numbers.) We see that more than
+32 registers would be difficult in this format, as the rs and rt fields would each
+need another bit, making it harder to fit everything in one word.
+Let's look at the load word instruction from page 57:
+1w $t O,32 ( $s 3 l # Temporary reg $t O ge t s A[8]
+Here, 19 (for $ 53) is placed in the rs field, 8 (fo r $tO) is placed in the rt field, and
+32 is placed in the address field. Note that the meaning of the rt field has changed
+for this instruction: in a load word instruction, the rt field specifies the destina 
+tion register, which receives the result of the load.
+Although multiple formats complicate the hardware, we can reduce the com 
+plexity by keeping the formats similar. For example, the first three fields of the R 
+type and I-type formats are the same size and have the same names; the fourth
+field in I-type is equal to the length of the last three fields of R-type.
+In case you were wondering, the formats are distinguished by the values in the
+first field: each format is assigned a distinct set of values in the first field (op) so
+that the hardware knows whether to treat the last half of the instruction as three
+fields (R-type) or as a single field (I-type). Figure 2.6 shows the numbers used in
+each field for the MIPS instructions covered through Section 2.3.
+. . . . . . . . . . . . . . .
+Instruction address
+'dd R 0 '"' '"' '"' 0 32,., n.a.
+sub (subtract) R 0 '"' '"' '"' 0 34~ n.a.
+"".
+add i mmediate I '"' '"' n.a. n.a. n.a. constant
+1W(load word) I 35 '"' '"' n.a. n.a. n.a. address
+ten
+sw (store word) I 43 '"' '"' n.a. n.a. n.a. address
+ten
+FIGURE 2.6 MIPS Instruction encoding. In the table above, "reg~ means a register number between
+o and 31, ·address~ means a I6-bit address, and "n.a.~ (not applic.1ble) means this field does not appear in
+this format. Note that add and sub instructions have the &1me value in the op field; the hardware uses the
+nUlct field to decide the variant of the operation:add (32) or subtract (34).

@@ -1,0 +1,73 @@
+218
+
+Accountancy
+
+Rectify the following errors:
+(a) Salary paid ? 5,000 was debited to employee’s personal account.
+(b) Rent Paid ? 4,000 was posted to landlord’s personal account.
+
+(c) Goods withdrawn by proprietor for personal use ? 1,000 were debited
+to sundry expenses account.
+
+(d) Cash received from Kohli ? 2,000 was posted to Kapur’s account.
+[e] Cash paid to Babu ? 1,500 was posted to Sabu’s account.
+
+Rectify the following errors:
+
+(a) Credit Sales to Mohan ? 7,000 were recorded in purchases book.
+(b) Credit Purchases from Rohan ? 9,00 were recorded in sales book.
+
+(c) Goods returned to Rakesh ? 4,000 were recorded in the sales return
+book.
+
+(d) Goods returned from Mahesh ? 1 ,000 were recorded in purchases return
+book.
+
+(e) Goods returned from Nahesh ? 2,000 were recorded in purchases book.
+Rectify the following errors:
+
+[a] Sales book overcast by ? 700.
+
+(b) Purchases book overcast by ? 500.
+
+(c) Sales return book overcast by ? 300.
+
+(d) Purchase return book overcast by ? 200.
+Rectify the following errors:
+
+(a) Sales book undercast by ?300.
+
+(b) Purchases book undercast by ?400.
+
+[c] Return Inwards book undercast by ?200.
+(d) Return outwards book undercast by ?100.
+
+Rectify the following errors and ascertain the amount of difference in trial
+balance by preparing suspense account:
+
+[a] Credit sales to Mohan ? 7,000 were not posted.
+
+[b] Credit purchases from Rohan ? 9,000 were not posted.
+(c) Goods returned to Rakesh ? 4,000 were not posted.
+
+[d] Goods returned from Mahesh ? 1,000 were not posted.
+(e) Cash paid to Ganesh ? 3,000 was not posted.
+
+(ﬂ Cash sales ? 2,000 were not posted.
+(Ans: Difference in trial balance ? 2,000 excess credit).
+
+9. Rectify the following errors and ascertain the amount of difference in trial
+
+balance by preparing suspense account:
+
+[a] Credit sales to Mohan ? 7,000 were posted as ? 9,000.
+
+[b] Credit purchases from Rohan ? 9,000 were posted as ? 6,000.
+(c) Goods returned to Rakesh ? 4,000 were posted as ? 5,000.
+
+(d) Goods returned from Mahesh ? 1,000 were posted as ? 3,000.
+(e) Cash sales ? 2,000 were posted as ? 200.
+
+(Ans: Difference in trial balance ? 5,800 excess debit.)
+
+2019-2020

@@ -1,0 +1,78 @@
+230
+
+6.3
+
+6.4
+
+6.5
+
+6.6
+
+6.7
+
+6.8
+
+6.9
+
+6.10
+
+ 
+
+Use Lenz’s law to determine the direction of induced current in the
+situations described by Fig. 6.19:
+
+(a) A wire of irregular shape turning into a circular shape;
+
+(b) A circular loop being deformed into a narrow straight wire.
+
+   
+
+FIGURE 6. 19
+
+A long solenoid with 15 turns per cm has a small loop of area 2.0 cm2
+placed inside the solenoid normal to its axis. If the current carried
+by the solenoid changes steadily from 2.0 A to 4.0 A in 0.1 s, what is
+the induced emf in the loop while the current is changing?
+
+A rectangular wire loop of sides 8 cm and 2 cm with a small cut is
+moving out of a region of uniform magnetic field of magnitude 0.3 T
+directed normal to the loop. What is the emf developed across the
+cut if the velocity of the loop is 1 cm s'1 in a direction normal to the
+(a) longer side, (b) shorter side of the loop? For how long does the
+induced voltage last in each case?
+
+A 1.0 m long metallic rod is rotated with an angular frequency of
+400 rad s‘l about an axis normal to the rod passing through its one
+end. The other end of the rod is in contact with a circular metallic
+ring. A constant and uniform magnetic ﬁeld of 0.5 T parallel to the
+axis exists everywhere. Calculate the emf developed between the
+centre and the ring.
+
+A circular coil of radius 8.0 cm and 20 turns is rotated about its
+vertical diameter with an angular speed of 50 rad S‘1 in a uniform
+horizontal magnetic field of magnitude 3.0 x 10‘2 T. Obtain the
+maximum and average emf induced in the coil. If the coil forms a
+closed loop of resistance 10 Q, calculate the maximum value of current
+in the coil. Calculate the average power loss due to Joule heating.
+Where does this power come from?
+
+A horizontal straight wire 10 m long extending from east to west is
+falling with a speed of 5.0 m s‘l, at right angles to the horizontal
+component of the earth’s magnetic field, 0.30 x 10‘4 Wb m‘2.
+
+(a) What is the instantaneous value of the emf induced in the wire?
+(b) What is the direction of the emf?
+
+(c) Which end of the wire is at the higher electrical potential?
+
+Current in a circuit falls from 5.0 A to 0.0 A in 0.1 s. If an average emf
+of 200 V induced, give an estimate of the self-inductance of the circuit.
+
+A pair of adjacent coils has a mutual inductance of 1.5 H. If the
+current in one coil changes from O to 20 A in 0.5 s, what is the
+change of ﬂux linkage with the other coil?
+
+A jet plane is travelling towards west at a speed of 1800 km/ h. What
+is the voltage difference developed between the ends of the wing
+
+2019-20

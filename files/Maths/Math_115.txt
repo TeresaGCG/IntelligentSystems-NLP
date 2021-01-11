@@ -1,0 +1,20 @@
+Expressions and Equations
+115
+Example 4
+Solve the equation: 4x= −9
+Solution: Divide both sides of the equation by 4 and simplify:
+ 4 x= − 9
+Divide both sides of the equation by 4
+Simplify
+Of course you could have just multiplied both sides of the equation
+by .
+The last step is to check our work.
+Is  equal to −9? Yes.
+Example 5
+Solve the equation: 
+Solution: Multiply both sides of the equation by the reciprocal
+of  (which is  ) and simplify:
+Multiply both sides of the equation by 
+Simplify x= −10
+Finally, check our work.
+Is  equal to 8? Yes.

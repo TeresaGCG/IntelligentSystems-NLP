@@ -1,0 +1,39 @@
+556 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+7.3 [ IOJ <§7.2> Describe the general charJcteristics of:l program that would ex 
+hibit very high amounts of temporal locality but very little spatial locality with re 
+gard to data accesses. Provide an example program (pseudocode is fine).
+7.4 [ IOJ <§7.2> Describe the general characteristics of a program that would ex 
+hibit very little temporal locality but very high amounts of spatial locality with re 
+ga rd to data accesses. Provide an example program (pseudocode is fine).
+7.5 [3/3J <§7.2> A new processor can use either a write-through or write-back
+cache selectable through softwa re.
+Assume the processor will run data intensive applications with a large num 
+3.
+ber of load and store operations. Explain which cache write policy should be
+used.
+b. Consider the same question but this time for a safety critical system
+III
+which data integrity is more important than memory performance.
+7.6 [IOJ <§7.2> 18 For More Practice: Locality.
+7.7 [IOJ <§7.2> 18 For More Practice: Locality.
+II
+7.8 [IOJ <§7.2> For More Practice: Locality.
+7.9 [ IOJ <§7.2> Here is a series of address references given as word addresses: 2,
+3, 11 , 16,2 1, 13, 64, 48, 19, 11 , 3, 22, 4, 27, 6, and 11. Assuming a direct-mapped
+cache with 16 one-word blocks that is initially empty, label each reference in the
+list as a hit or a miss and show the final contents of the cache.
+7.10 (10) <§7.2> Using the series of references given in Exercise 7.9, show the hits
+and misses and fin al cache contents for a direct-mapped cache with four-word
+blocks and a total size of 16 words.
+7.11 (15) <§7.2> Given the following pseudocode:
+int array[lOOOO , lOOOOO] ;
+fo r each element array[i][j] (
+array[i][j] array[i][j] *2;
+=
+I
+write two C programs that implement this algorithm: one should access the ele 
+ments of the array in row-major order, and the other should access them in col 
+umn-major order. Compare the execution times of the two programs. \Vhat does
+this tell you about the effects of memory layout on cache performance?
+7.12 (10 ) <§7.2> Compute the total number of bits required to implement the
+cache in Figure 7.9 on page 486. This number is different from the size of the

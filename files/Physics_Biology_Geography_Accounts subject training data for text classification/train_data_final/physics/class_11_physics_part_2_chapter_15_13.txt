@@ -1,0 +1,76 @@
+380
+
+PHYSICS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 1 5. 1 2 Stationary waves arising from superposition of two hamonic waves travelling in opposite directions.
+Note that the positions of zero displacement (nodes) remain ﬁxed at all times.
+
+positions of antinodes (where the amplitude is
+the largest) are given by the largest value of sin
+kx:
+
+lsin kxl = 1
+which implies
+
+kx= (n+ 1/2) 7:; n=0, 1, 2, 3,
+
+With k = 27r//’L, we get
+
+x=(n+1/2)% ;n=0, 1,2, 3,... (15.39)
+
+Again the distance between any two consecutive
+
+antinodes is %. Eq. (15.38) can be applied to
+
+the case of a stretched string of length L fixed
+at both ends. Taking one end to be at x = O, the
+boundary conditions are that x = O and x = L
+are positions of nodes. The x = 0 condition is
+already satisfied. The x = L node condition
+requires that the length L is related to 7L by
+
+A
+
+L=n§; n=1,2,3,... (15.40)
+
+2019-20
+
+Thus, the possible wavelengths of stationary
+waves are constrained by the relation
+
+= 2L .
+n
+with corresponding frequencies
+
+/l n= 1, 2, 3, (15.41)
+
+v = nv , for n= 1, 2, 3, (15.42)
+
+2L
+
+ 
+
+We have thus obtained the natural frequencies
+- the normal modes of oscillation of the system.
+The lowest possible natural frequency of a
+system is called its fundamental mode or the
+ﬁrst harmonic. For the stretched string fixed
+
+v
+at either end it is given by v = i, corresponding
+to n = 1 of Eq. (15.42). Here v is the speed of
+wave determined by the properties of the
+medium. The n = 2 frequency is called the
+second harmonic; n = 3 is the third harmonic

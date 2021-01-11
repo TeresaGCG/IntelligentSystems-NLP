@@ -1,0 +1,42 @@
+Hag
+
+FIGURE 4.28
+
+ 
+
+4.25 A circular coil of 20 turns and radius 10 cm is placed in a uniform
+magnetic field of 0.10 T normal to the plane of the coil. If the current
+in the coil is 5.0 A, what is the
+(a) total torque on the coil,
+
+(b) total force on the coil,
+
+(c) average force on each electron in the coil due to the magnetic
+field?
+
+(The coil is made of copper wire of cross-sectional area 10’5 m2, and
+
+the free electron density in copper is given to be about
+
+1029 m‘s.)
+
+4.26 A solenoid 60 cm long and of radius 4.0 cm has 3 layers of windings
+of 300 turns each. A 2.0 cm long wire of mass 25 g lies inside the
+solenoid (near its centre) normal to its axis; both the wire and the
+axis of the solenoid are in the horizontal plane. The wire is connected
+through two leads parallel to the axis of the solenoid to an external
+battery which supplies a current of 6.0 A in the wire. What value of
+current (with appropriate sense of circulation) in the windings of
+the solenoid can support the weight of the wire? 9 = 9.8 m s22.
+
+4.27 A galvanometer coil has a resistance of 12 Q and the metre shows
+full scale deﬂection for a current of 3 mA. How will you convert the
+metre into a voltmeter of range 0 to 18 V?
+
+4.28 A galvanometer coil has a resistance of 15 Q and the metre shows
+full scale deﬂection for a current of 4 mA. How will you convert the
+metre into an ammeter of range 0 to 6 A?
+
+172
+
+2019-20

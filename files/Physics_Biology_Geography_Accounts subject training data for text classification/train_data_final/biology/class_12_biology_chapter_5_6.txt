@@ -1,0 +1,68 @@
+PRINCIPLES OF INHERITANCE AND VARIATION (\
+
+the Tt plant is heterozygous for genes controlling
+one character (height), it is a monohybrid and the
+cross between TT and tt is a monohybrid cross.
+
+From the observation that the recessive parental
+trait is expressed without any blending in the F2 1
+generation, we can infer that, when the tall and ’ Dwarf
+dwarf plant produce gametes, by the process of
+meiosis, the alleles of the parental pair separate or
+segregate from each other and only one allele is
+transmitted to a gamete. This segregation of alleles
+is a random process and so there is a 50 per cent
+chance of a gamete containing either allele, as has
+been veriﬁed by the results of the crossings. In this
+way the gametes of the tall TT plants have the allele
+T and the gametes of the dwarf tt plants have the
+allele t. During fertilisation the two alleles, T from
+one parent say, through the pollen, and t from the
+other parent, then through the egg, are united to
+
+Gametes
+
+    
+
+produce zygotes that have one T allele and one t L‘” szlf‘mg L“:
+
+allele. In other words the hybrids have Tt. Since T1111 T1111
+these hybrids contain alleles which express
+
+contrasting traits, the plants are heterozygous. The Gametes . . Gametes
+production of gametes by the parents, the formation
+
+  
+
+of the zygotes, the F1 and F2 plants can be . .
+understood from a diagram called Punnett Square ”IT
+
+as shown in Figure 5.4. It was developed by a British F2 generation
+
+geneticist, Reginald C. Punnett. It is a graphical ”[1: %
+
+representation to calculate the probability of all
+possible genotypes of offspring in a genetic cross.
+The possible gametes are written on two sides, Phenotypic ratio . tall . dwarf
+usually the top row and left columns. All possible ' 3 1
+combinations are represented in boxes below in the Genotypic ratio : ’IT : Tt : tt
+squares, which generates a square output form. 1 : 2 2 1
+
+The Punnett Square shows the parental tallTT Figure 5-4 A Punnett square used to
+(male) and dwarf tt (female) plants, the gametes underStand a typical monOhybﬁd
+
+cross conducted by Mendel
+produced by them and, the F1 Tt progeny. The F1 between true-breeding tall plants
+
+plants of genotype Tt are self-pollinated. The and true-breeding dwarf plants
+symbols 9 and o" are used to denote the female
+(eggs) and male (pollen) of the F1 generation, respectively. The F1 plant of
+the genotype Tt when self-pollinated, produces gametes of the genotype
+—
+
+T and t in equal proportion. When fertilisation takes place, the pollen
+grains of genotype T have a 50 per cent chance to pollinate eggs of the
+genotype T, as well as of genotype t. Also pollen grains of genotype t have
+a 50 per cent chance of pollinating eggs of genotype T, as well as of
+
+2019-2020

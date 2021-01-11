@@ -1,0 +1,76 @@
+176
+
+10.
+
+ll.
+
+12.
+
+13.
+
+14.
+
+PHYSICS
+
+The vector or cross product of two vector 3 and b is a vector written as axb. The
+magnitude of this vector is absine and its direction is given by the right handed screw
+or the right hand rule.
+
+The linear velocity of a particle of a rigid body rotating about a fixed axis is given by
+v = 0) x r, where r is the position vector of the particle with respect to an origin along
+the fixed axis. The relation applies even to more general rotation of a rigid body with
+one point fixed. In that case r is the position vector of the particle with respect to the
+fixed point taken as the origin.
+
+The centre of mass of a system of n particles is defined as the point whose position
+vector is
+
+R : Emil}
+M
+
+Velocity of the centre of mass of a system of particles is given by V = P/ M, where P is the
+linear momentum of the system. The centre of mass moves as if all the mass of the
+system is concentrated at this point and all the extemal forces act at it. If the total
+external force on the system is zero, then the total linear momentum of the system is
+constant.
+
+The angular momentum of a system of n particles about the origin is
+
+L : irixpi
+i=1
+
+The torque or moment of force on a system of n particles about the origin is
+
+1:21;. ><Fi
+1
+
+The force F: acting on the 1‘" particle includes the external as well as internal forces.
+Assuming Newton's third law of motion and that forces between any two particles act
+along the line joining the particles, we can show cm = 0 and
+
+dL
+5 = ‘m
+A rigid body is in mechanical equilibrium if
+(1) it is in translational equilibrium, i.e. , the total external force on it is zero : 2 Fl. = O ,
+
+and
+[2] it is in rotational equilibrium, i.e. the total external torque on it is zero :
+
+£11.: ZrixFi=0.
+
+The centre of gravity of an extended body is that point where the total gravitational
+torque on the body is zero.
+
+The moment of intertia of a rigid body about an axis is defined by the formula I = Z mirl.2
+where rl is the perpendicular distance of the ith point of the body from the axis. The
+
+1 2
+kinetic energy of rotation is K =5 Ia) .
+
+The theorem of parallel axes: I; :12 + Ma2 , allows us to determine the moment of
+
+intertia of a rigid body about an axis as the sum of the moment of inertia of the body
+about a parallel axis through its centre of mass and the product of mass and square of
+the perpendicular distance between these two axes.
+
+2019-20

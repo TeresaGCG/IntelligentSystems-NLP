@@ -1,0 +1,38 @@
+6.1 An Overview of Plpellnlng 371
+6 PM 7 8 9 10 11 12 1 ' AM
+Time--,II~-,II~-J1~-l==-;-lI~-1==l~-'·'1=::IIII--
+Task
+order
+A
+B
+c
+D
+6 PM 7 8 9 10 11 12 1 ' AM
+Task
+order
+~iiii.
+A
+~iii.
+B
+~iii.
+c
+~iii.
+D
+FIGURE 6.1 The laundry analogy for p1pellnlng. Ann, Brian, Cathy, and Don each have dirty
+clothes to be washed, dried, folded, and put away. The washer, dryer, ~folder," and "storer" each take 30
+minutes for their task. Sequential laundry takes 8 hours for four loads of wash, while pipelined laundry
+takes just 3.5 hours. We show the pipeline stage of different loads over time by showing copies of the four
+resources on this two-dimensional time line, but we really have just one of each resource.
+take about 5 times as long as 1 load, while 20 loads of sequential laundry takes 20
+times as long as 1 load. It's only 2.3 times faster in Figure 6.1 because we only
+show 4 loads. Notice that at the beginning and end of the workload in the pipe 
+lined version in Figure 6. 1, the pipeline is not completely full, this start-up and
+wind-down affects performance when the number of tasks is not large compared
+to the number of stages in the pipeline. If the number of loads is much larger than
+4, then the stages will be full most of the time and the increase in throughput will
+be very close to 4.
+The same principles apply to processors where we pipeline instruction
+execution. MIPS instructions classically take five steps:
+1. Fetch instruction from memory.
+2. Read registers while decoding the instruction. The format of MIPS instruc 
+tions allows reading and decoding to occur simultaneously.

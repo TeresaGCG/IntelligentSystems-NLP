@@ -1,0 +1,63 @@
+Alternating Current
+
+The average power loss over a complete cycle is given by
+P = V I cos¢
+The term cosd) is called the powerfactor.
+
+In a purely inductive or capacitive circuit, cosd) = O and no power is
+dissipated even though a current is ﬂowing in the circuit. In such cases,
+current is referred to as a wattless current.
+
+The phase relationship between current and voltage in an ac circuit
+can be shown conveniently by representing voltage and current by
+rotating vectors called phasors. A phasor is a vector which rotates
+about the origin with angular speed a). The magnitude of a phasor
+represents the amplitude or peak value of the quantity (voltage or
+current) represented by the phasor.
+
+The analysis of an ac circuit is facilitated by the use of a phasor
+diagram.
+
+An interesting characteristic of a series RLC circuit is the
+phenomenon of resonance. The circuit exhibits resonance, i.e.,
+the amplitude of the current is maximum at the resonant
+
+frequency, 600 = L. The quality factor Q defined by
+
+M
+
+(00L _ 1
+R wOCR
+
+the higher value of Q indicating sharper peak in the current.
+
+is an indicator of the sharpness of the resonance,
+
+Q:
+
+A circuit containing an inductor L and a capacitor C (initially
+charged) with no ac source and no resistors exhibits free
+oscillations. The charge q of the capacitor satisfies the equation
+of simple harmonic motion:
+
+and therefore, the frequency a) of free oscillation is (00 = \/L— .
+
+energy in the system oscillates between the capacitor and the
+inductor but their sum or the total energy is constant in time.
+
+. A transformer consists of an iron core on which are bound a
+primary coil of Np turns and a secondary coil of NS turns. If the
+primary coil is connected to an ac source, the primary and
+secondary voltages are related by
+
+NS
+VS=[N ]V,
+
+p
+
+and the currents are related by
+
+If the secondary coil has a greater number of turns than the primary, the
+voltage is stepped—up (VS > Vp). This type of arrangement is called a step—
+up transformer. If the secondary coil has turns less than the primary, we
+have a step—down transformer.

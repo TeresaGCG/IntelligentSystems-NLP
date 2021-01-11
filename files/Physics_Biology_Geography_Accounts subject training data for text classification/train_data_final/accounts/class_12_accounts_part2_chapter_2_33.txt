@@ -1,0 +1,61 @@
+Issue and Redemption of Debentures 1 05
+
+Do it Yourself
+
+Diwakar enterprises Ltd. Issued 10,00,000, 6% debentures on April 1, 20 16.
+Interest is paid on September 30, 20 16 and March 3 1, 20 17.
+
+Record necessary journal entries assuming that income tax is deducted @ 10%
+
+of the amount of interest.
+
+Laser India Ltd. Issued 7,00,000, 8% debentures of Rs 100 each at par. Interest
+is to be paid on these debentures half-yearly on September 30 and March 31,
+every year. Record necessary j ournal entries asuming that income tax is deducted
+@ 10% of the amount of interest.
+
+ 
+
+2.10 Writing-off Discount/Loss on Issue of Debentures
+
+The discount/ loss on issue of debentures is a capital loss or a ﬁctitious asset
+and, therefore, must be written-off during the life time of debentures. The
+amount of discount/ loss on issue of debentures should normally not be
+written-off in the year of issue itself since the benefit of the debentures would
+accrue to the company till their redemption. The discount/ loss on it is,
+therefore, treated as capital loss. The discount may be charged to Securities
+Premium A/c or may be written—off over 3 to 5 years through statement of
+profit and loss as per guidelines issued by ICAI. In case, however, there are
+no capital profits or if the capital proﬁts are not adequate, the amount of
+such discount/ loss can be written—off against the revenue profits every year
+
+by passing the following journal entry.
+Statement of Proﬁt and Loss Dr.
+To Discount/ Loss on Issue of
+Debentures A/c
+
+(Discount/ loss on issue of debentures
+written-oft]
+
+There are two methods, which can be adopted to write off discount/ loss on
+
+issue of debentures against the revenue profits. These are as follows.
+
+1. Fixed Instalment Method: When the debentures are redeemed at the end of
+a speciﬁed period, the total amount of discount should be written off in equal
+instalments of ﬁxed amount over that period. For example, if the debentures
+are to be redeemed after 10 years then out of the total amount of discount of
+Rs. 1 ,00,000, Rs. 10,000 will be written-off every year.
+
+2. Fluctuating Instalment Method: When debentures are repaid by annual
+drawings or in instalments, the discount should be written-off in the ratio of
+debentures outstanding as at the end of each accounting year. The amount
+of discount, under this method, goes on reducing year. The amount of
+discount, under this method, goes on reducing every year and so this method
+may also be known as Reducing Instalment Method.
+
+For example, a company issues Rs. 1 5,00,000, 9% debentures at a discount of
+
+10% redeemable by annual drawings of Rs. 3,00,000 at the end of each year.
+
+The amount of discount to be written-off will be calculated as under:

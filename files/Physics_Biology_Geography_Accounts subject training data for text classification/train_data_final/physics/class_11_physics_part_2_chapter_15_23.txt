@@ -1,0 +1,79 @@
+390
+
+ 
+
+18. The Doppler effect is a change in the observed frequency of a wave when the source (S)
+or the observer (0) or both move[s) relative to the medium. For sound the observed
+frequency v is given in terms of the source frequency v0 by
+
+0+1}
+0
+
+V = V —
+0 v + v
+
+s
+here u is the speed of sound through the medium, Do is the velocity of observer relative
+to the medium, and us is the source velocity relative to the medium. In using this
+formula, velocities in the direction OS should be treated as positive and those opposite
+
+to it should be taken to be negative.
+
+5...... —m
+,1 [L] m
+
+    
+   
+         
+     
+     
+
+Remarks
+
+     
+
+Physical quantity
+
+Wavelength Distance between two consecutive
+points with the same phase.
+
+Propagation k [L'l] III—1 k = E
+
+constant 1
+
+Wave speed v [LT—1] m s"1 v = VA
+
+Beat frequency vb”, [T‘ 1] 5‘1 Difference of two close frequencies
+
+of super - osin;
+
+POINTS TO PONDER
+
+l. A wave is not motion of matter as a whole in a medium. A wind is different from the
+sound wave in air. The former involves motion of air from one place to the other. The
+latter involves compressions and rarefactions of layers of air.
+
+In a wave. emery and not the matter Is transferred from one point to the other.
+
+In a mechanical wave. energy transfer takes place because of the coupling through
+elastic forces between neighbouring oscillating parts of the medium.
+
+Transverse waves can propagate only in medium with shear modulus of elasticity.
+Longitudinal waves need bulk modulus of elasticity and are therefore. possible in all
+media, solids. liquids and gases.
+
+In a harmonic progressive wave of a given frequency. all particles have the same
+amplitude but different phases at a given instant of time. In a stationary wave. all
+particles between two nodes have the same phase at a given instant but have different
+amplitudes.
+
+Relative to an observer at rest in a medium the speed of a mechanical wave in that
+medium (1)) depends only on elastic and other properties [such as mass density) of
+the medium. It does not depend on the velocity of the source.
+
+For an observer moving with velocity I.)0 relative to the medium. the speed of a wave is
+obviously different from u and is given by v i 00.
+
+2019-20
+
+PHYSICS

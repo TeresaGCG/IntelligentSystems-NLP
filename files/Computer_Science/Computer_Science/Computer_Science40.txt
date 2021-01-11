@@ -1,0 +1,12 @@
+24
+Chapter 1 Computer Abstractions and Technology
+FIGURE 1.11 A disk showing 10 disk platters and the read/ write heads.
+BIG Both hardware and software consist of hierarchical layers, with each
+The
+lower layer hiding details from the level above. This principle of abstrac 
+Picture tion is the way both hardware designers and software designers cope with
+the complexity of computer systems. One key interface between the levels
+of abstraction is the instruction set architecture-the interface between the
+hardware and low-level software. This abstract interface enables many
+implementations of varying cost and performance to run identical soft  
+ware.

@@ -1,0 +1,44 @@
+608 Chapter 8
+of tapes. As disks are closed systems, disk heads need only read the platters
+enclosed with them, and this advantage explains why disks are improving much
+more rapidly.
+Today, some orga nizations have dropped tapes altogether, using networks and
+remote disks to replicate the data geographically. The sites are picked so that disas 
+ters would not take out both sites, enabling instantaneous recovery time. (Long
+recovery time is another serious drawback to the serial nature of magnetic tapes.)
+Such a solution depends on advances in disk capacity and network bandwidth to
+make economic sense, but these two are getting much greater investment and
+hence have better recent records of accomplishment than tape.
+Fallacy: A 100 ME/sec blls can transfer 100 MB ofdata in 1 second.
+First, you generally cannot use 100% of any computer resource. For a bus, you
+would be fortunate to get 70% to 80% of the peak bandwidth. Time to send the
+address, time to acknowledge the signals, and stalls while waiting to use a busy bus
+are among the reasons you cannot use 100% of a bus.
+Second, the definition of a megabyte of storage and a megabyte per second of
+bandwidth do not agree. As we discussed on page 597, I/O bandwidth measures
+6
+are usually quoted in base 10 (Le., 1 MB/sec = 10 bytes/sec), while 1 MB of data
+20
+is typically a base 2 measure (Le., 1 MB = 2 bytes). How significant is this dis 
+tinction? If we could use 100% of the bus for data transfer, the time to transfer 100
+MB of data on a lOO-MB/sec bus is actually
+"
+JOQ X 2 = ~ = 1.048576'" 1.05 second
+6
+100 X 10 1,000,000
+A similar but larger error is introduced when we treat a gigabyte of data trans 
+9 30
+ferred or stored as equivalent, meaning 10 versus 2 bytes.
+Pitfall: Trying to provide featllres only within the network versus end to end.
+The concern is providing at a lower level features that can only be accomplished at
+the highest level, thus only partially satisfying the communication demand.
+Saltzer, Reed, and Clark [1984) give the end-to-end argument as
+The function in question can completely and correctly be specified only with the
+knowledge and help ofthe application standing at the endpoints ofthe commu 
+nication system. Therefore, providing that questionedfunction as a featllre of
+the communication system itselfis not possible.
+Their example of the pitfall was a network at MIT that used several gateways, each
+of which added a checksum from one gateway to the next. The programmers of
+the application assumed the checksum guaranteed accuracy, incorrectly believing
+that the message was protected while stored in the memory of each gateway. One
+gateway developed a transient failure that swapped one pair of bytes per million

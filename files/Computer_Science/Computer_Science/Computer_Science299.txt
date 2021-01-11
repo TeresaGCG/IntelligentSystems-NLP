@@ -1,0 +1,17 @@
+5.1 Introduction 284
+5.2 Logic Design Conventions 289
+5.3 Building a Datapath 292
+5.4 A Simple Implementation Scheme 300
+5.5 A Multicycle Implementation 318
+5.6 Exceptions 340
+Microprogramming: Simplifying Control Design 346
+• 5.7
+An Introduction to Digital Design Using a Hadw.-e Design Language 346
+• 5.8
+5.9 Real Stuff: The Organization of Recent Pentium Implementations 347
+5.10 Fallacies and Pitfalls 350
+5.11 Concluding Remarks 352
+• 5.12 Historical Perspective and Further Reading 353
+5.13 Exercises 354
+The Five Classic Components of a Computer
+Interlace

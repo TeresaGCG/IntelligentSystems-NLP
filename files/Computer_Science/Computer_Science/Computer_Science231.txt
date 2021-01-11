@@ -1,0 +1,50 @@
+3.6 Floating Point 215
+Since the worst case for rounding would be when the actual number is halfway
+between two floating-point representations, accuracy in floating point is normally
+measured in terms of the number of bits in error in the least significant bits of the
+significand; the measure is called the number of units in the last place, or ulp. If a units in the last place
+number was off by 2 in the least significant bits, it would be called off by 2 ulps. (ulp) The number ofbits in
+error in the least significant bits
+Provided there is no overflow, underflow, or invalid operation exceptions, IEEE
+ofthe significand between the
+754 guarantees that the computer uses the number that is within one-half ulp.
+actual number and the number
+that can be prepresented.
+Elaboration: Although the example above really needed just one extra digit, multiply
+can need two. A binary product may have one leading 0 bit; hence, the normalizing step
+must shift the product 1 bit left. This shifts the guard digit into the least significant bit
+of the product, leaving the round bit to help accurately round the product.
+There are four rounding modes: always round up (toward +(0), always round down
+(toward -(0), truncate, and round to nearest even. The final mode determines what to
+do if the number is exactly halfway in between. The Internal Revenue Service always
+rounds 0.50 dollars up, possibly to the benefit of the IRS. A more equitable way would
+be to round up this case half the time and round down the other half. IEEE 754 says
+that if the least significant bit retained in a halfway case would be odd, add one; if it's
+even, truncate. This method always creates a 0 in the least significant bit in the tie 
+breaking case, giving the rounding mode its name. This mode is the most commonly
+used, and the only one that Java supports.
+The goal of the extra rounding bits is to allow the computer to get the same results
+as if the intermediate results were calculated to infinite precision and then rounded.
+To support this goal and rounding to the nearest even, the standard has a third bit
+in addition to guard and round; it is set whenever there are nonzero bits to the right of
+the round bit. This sticky bit allows the computer to see the difference between sticky bit A bit used in round 
+0.50 ... OOten and 0.50 ... 01 when rounding. ing in addition to guard and
+ten
+round that is set whenever there
+The sticky bit may be set, for example, during addition, when the smaller number is
+1 2 are nonzero bits to the right of
+shifted to the right. Suppose we added 5.0iten x 10- to 2.34ten x 10 in the example
+the round bit.
+above. Even with guard and round, we would be adding 0.0050 to 2.34, with a sum of
+2.3450. The sticky bit would be set since there are nonzero bits to the right. Without
+the sticky bit to remember whether any ls were shifted off, we would assume the num 
+ber is equal to 2.345000...00 and round to the nearest even of 2.34. With the sticky
+bit to remember that the number is larger than 2.345000...00, we round instead to
+2.35.
+Summary
+The Big Picture below reinforces the stored-program concept from Chapter 2; the
+meaning of the information cannot be determined just by looking at the bits, for
+the same bits can represent a variety of objects. This section shows that computer
+arithmetic is finite and thus can disagree with natural arithmetic. For example, the
+IEEE 754 standard floating-point representation
+(_I )s X( I +Fraction) X2(Exponent - bias)

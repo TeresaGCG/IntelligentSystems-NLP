@@ -1,0 +1,70 @@
+262
+
+ 
+
+ 
+
+SUMMARY
+
+An alternating voltage U = Um Sin (0t applied to a resistor R drives a
+
+U
+
+m
+
+R . The current is in phase with
+
+current i = im sinwt in the resistor, im =
+
+the applied voltage.
+
+For an alternating current i = im sin cot passing through a resistor R, the
+average power loss P (averaged over a cycle) due to joule heating is
+(1/2 )ijnR. To express it in the same form as the dc power (P = 12R), a
+special value of current is used. It is called root mean square (rms)
+
+current and is donoted by I:
+
+I = 1'" = 0.707 im
+
+J5
+
+Similarly. the rms voltage is defined by
+
+V = Um = 0.707vm
+
+J5
+We have P = IV = 12R
+
+An ac voltage U = um sin cot applied to a pure inductor L, drives a current
+in the inductor i = im sin (cot — n/Z), where im = vm/XL. XL = (0L is called
+inductive reactance. The current in the inductor lags the voltage by
+n/ 2. The average power supplied to an inductor over one complete cycle
+
+is zero.
+An ac voltage U = um sincot applied to a capacitor drives a current in the
+
+capacitor: 1' = im sin (wt + TI/ 2). Here.
+
+i _ X _ L . ..
+m — ~ c — (0C rs called capacrtwe reactance.
+
+The current through the capacitor is 7t/ 2 ahead of the applied voltage.
+As in the case of inductor, the average power supplied to a capacitor
+over one complete cycle is zero.
+
+For a series RLC circuit driven by voltage U = um sin cut. the current is
+given by i = im sin (cot + (/>)
+
+U
+
+m
+
+where i = —
+R2 + (X0 _ XL )2
+
+m
+
+and ¢ : tan’l H
+
+Z = R2 +(XC —XL)2 is called the impedance of the circuit.

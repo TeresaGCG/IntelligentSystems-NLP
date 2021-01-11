@@ -1,0 +1,59 @@
+6 2 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Termes Used in the Chapter
+
+1. Joint Stock Company 16. Premium on Shares
+
+2. Share Capital 17. Application Money
+
+3. Authorised Capital 18. Minimum Subscription
+4. Issued Capital 19. Calls on Shares
+
+5. Unissued Capital 20. Calls in Arrears
+
+6. Subscribed Capital 21. Calls in Advance
+
+7. Subscribed and fully paid-up 22. Over subscription
+
+8. Subscribed but not fully paid up 23. Under subscription
+
+9. Paid-up Capital 24. Forfeiture of Shares
+10. Reserve Capital 25. Reissue of forfeited shares
+11. Shares 26. Buy-back of Shares
+12. Preference Shares
+13. Non-redeemable Preference Shares
+14. Equity Shares
+15. Issue of Shares for Consideration
+
+Other than Cash
+Summary
+
+Company: An organisation consisting of individuals called ‘shareholders’ by virtue
+of their holding the shares of a company, who can act as legal person as regards
+its business through board of directors.
+
+Share: Fractional part of the capital, and forms the basis of ownership in a company.
+Shares are generally of two types, viz. equity shares and preference shares,
+according to the provisions of the Companies Act, 2013. Preference shares again
+are of different types based on varying shades of rights attached to them.
+
+Share Capital of a company is collected by issuing shares to either a select
+group of persons through the route of private placements and/ or offered to the
+public for subscription. Thus, the issue of shares is basic to the capital of a
+company. Shares are issued either for cash or for consideration other than
+cash, the former being more common. Shares are said to be issued for
+consideration other than cash when a company purchases business, or some
+asset/ assets, and the vendors have agreed to receive payment in the form of
+fully paid shares of a company.
+
+Stages of Share Issue: The issue of shares for cash is required to be made in strict
+conformity with the procedure laid down by law for the same. When shares are
+issued for cash, the amount on them can be collected at one or more of the following
+stages:
+
+(i) Application for shares
+(ii) Allotment of shares
+(iii) Call/ Calls on shares.
+
+Calls in Arrears: Sometimes, the full amount called on allotment and/ or call (calls)
+is not received from the allottees/ shareholders. The amount not so received are

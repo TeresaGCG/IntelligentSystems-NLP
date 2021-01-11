@@ -1,0 +1,49 @@
+430 Chapter 6 Enhancing Performance with Plpellnlng
+add ","', "
+Iw " ~, 00(' 1)
+.-
+-
+-
+-
+,
+,
+"l"
+.• •
+..
+~
+_.
+-
+-
+ow $:'5, '000($01 or' 13,
+.-
+-
+--
+,
+,
+" •
+'1"
+0•
+•
+,~~
+.-
+"
+-
+0•
+"
+•0
+_.
+•
+-
+-
+"
+0
+•
+•
+•
+....-......
+•
+FIGURE 6.43 The result of an exception due to arithmetic overflow In the add Instruction. The overflow is detected during the EX
+stage of clock 6, saving the address following the add in the EPC register (4C + 4 = SObu)' Overflow causes aU the Flush signals to be set near the end
+ofthis clock cycle, deasserting control values (setting them to 0) for the add. Clock cycle 7shows the instructions converted to bubbles in the pipeline
+plU'i the fetching ofthe first instruction of the exception routine---sw $25 .1 OOO{ $0 )- from instruction location 4000 0040!><I' Note that the and
+and or instructions, which are prior to the add, still complete. Although not shown, theALU overflow signal is an input to the control unit.

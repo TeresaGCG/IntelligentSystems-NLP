@@ -1,0 +1,104 @@
+i Physics
+
+F
+1"
+Al R
+r
+0
+
+Line charge A9 = 1 Al
+
+I P
+I
+R
+0
+
+Surface charge AQ = O'AS
+
+ 
+
+Volume charge AQ = PAV
+
+FIGURE 1.24
+Definition Of linear,
+surface and volume
+
+charge densities.
+In each case. the
+element (Al. AS. AV)
+Chosen is small on
+the macroscopic
+scale but contains
+a very large number
+of microscopic
+constituents.
+
+32
+
+discussion, the charged comb ‘polarises’ the piece Of paper, i.e., induces
+a net dipole moment in the direction of ﬁeld. Further, the electric ﬁeld
+due to the comb is not uniform. In this situation, it is easily seen that the
+paper should move in the direction of the comb!
+
+1. 13 CONTINUOUS CHARGE DISTRIBUTION
+
+We have so far dealt with charge conﬁgurations involving discrete charges
+q1, q2, qn. One reason why we restricted to discrete charges is that the
+mathematical treatment is simpler and does not involve calculus. For
+many purposes, however, it is impractical to work in terms Of discrete
+charges and we need to work with continuous charge distributions. For
+example, on the surface of a charged conductor, it is impractical to specify
+the charge distribution in terms Of the locations of the microscopic charged
+constituents. It is more feasible to consider an area element AS (Fig. 1.24)
+on the surface of the conductor (which is very small on the macroscopic
+scale but big enough to include a very large number of electrons) and
+specify the charge AQ on that element. We then deﬁne a surface charge
+density a at the area element by
+
+AQ
+
+0':—
+AS
+
+We can do this at different points on the conductor and thus arrive at
+a continuous function 6, called the surface charge density. The surface
+charge density (7 so deﬁned ignores the quantisation of charge and the
+discontinuity in charge distribution at the microscopic level*. 6 represents
+macroscopic surface charge density, which in a sense, is a smoothed out
+average of the microscopic charge density over an area element AS which,
+as said before, is large microscopically but small macroscopically. The
+units for a are C / m2.
+
+Similar considerations apply for a line charge distribution and a volume
+charge distribution. The linear charge density 1 of a wire is deﬁned by
+
+AQ
+
+,1 _
+Al (1.24)
+
+where Al is a small line element of wire on the macroscopic scale that,
+however, includes a large number Of microscopic charged constituents,
+and AQ is the charge contained in that line element. The units for A are
+C / m. The volume charge density (sometimes simply called charge density)
+is defined in a similar manner:
+
+AQ
+
+“E
+
+where AQ is the charge included in the macroscopically small volume
+element AV that includes a large number of microscopic charged
+constituents. The units for p are C / m3.
+
+The notion of continuous charge distribution is similar to that we
+adopt for continuous mass distribution in mechanics. When we refer to
+
+(1.23)
+
+(1.25)
+
+* At the microscopic level, charge distribution is discontinuous, because they are
+discrete charges separated by intervening space where there is no charge.
+
+2019-20

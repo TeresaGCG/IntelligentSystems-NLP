@@ -1,0 +1,76 @@
+364
+
+PHYSICS
+
+14.7
+
+14.8
+
+14.9
+
+14.10
+
+14.11
+
+14.12
+
+The motion of a particle executing simple harmonic motion is described by the
+displacement function,
+
+x(t] = A cos [cot+ (1)].
+
+If the initial [t = 0) position of the particle is 1 cm and its initial velocity is (0 cm/ s,
+what are its amplitude and initial phase angle ? The angular frequency of the
+particle is 7r. 5*. If instead of the cosine function, we choose the sine function to
+describe the SHM : x = B sin (wt + a), what are the amplitude and initial phase of the
+particle with the above initial conditions.
+
+A spring balance has a scale that reads from 0 to 50 kg. The length of the scale is 20
+cm. Abody suspended from this balance, when displaced and released, oscillates
+with a period of 0.6 s. What is the weight of the body ?
+
+A spring having with a spring constant 1200 N m’1 is mounted on a horizontal
+table as shown in Fig. 14.24. A mass of 3 kg is attached to the free end of the
+
+spring. The mass is then pulled sideways to a distance of 2.0 cm and released.
+
+”0!!!!
+
+Fig. 14.24
+
+Determine [i] the frequency of oscillations, [ii] maximum acceleration of the mass,
+and [iii] the maximum speed of the mass.
+
+In Exercise 14.9, let us take the position of mass when the spring is unstreched as
+x = 0, and the direction from left to right as the positive direction of
+x—axis. Give x as a function of time t for the oscillating mass if at the moment we
+start the stopwatch [t = 0], the mass is
+
+(a) at the mean position,
+
+[b] at the maximum stretched position, and
+
+[c] at the maximum compressed position.
+
+In what way do these functions for SHM differ from each other, in frequency, in
+amplitude or the initial phase?
+
+Figures 14.25 correspond to two circular motions. The radius of the circle, the
+period of revolution, the initial position, and the sense of revolution (i.e. clockwise
+or anti—clockwise) are indicated on each figure.
+
+T=25
+
+ 
+
+(a) (b)
+
+Fig. 14.25
+
+Obtain the corresponding simple harmonic motions of the x—projection of the radius
+vector of the revolving particle P, in each case.
+
+Plot the corresponding reference circle for each of the following simple harmonic
+motions. Indicate the initial [t =0) position of the particle, the radius of the circle,
+
+2019-20

@@ -1,0 +1,70 @@
+Moving Charges and
+
+Magnetism
+
+ 
+
+(iv) There exists a simple rule to determine the direction of the magnetic
+ﬁeld due to a long wire. This rule, called the right-hand rule*, is:
+Grasp the wire in your right hand with your extended thumb pointing
+
+in the direction of the current. Your fingers will curl around in the
+
+direction of the magnetic field.
+
+Ampere’s circuital law is not new in content from Biot-Savart law.
+Both relate the magnetic ﬁeld and the current, and both express the same
+physical consequences of a steady electrical current. Ampere’s law is to
+Biot—Savart law, what Gauss’s law is to Coulomb’s law. Both, Ampere’s
+and Gauss’s law relate a physical quantity on the periphery or boundary
+(magnetic or electric ﬁeld) to another physical quantity, namely, the source,
+in the interior (current or charge). We also note that Ampere’s circuital
+law holds for steady currents which do not ﬂuctuate with time. The
+following example will help us understand what is meant by the term
+enclosed current.
+
+Example 4.8 Figure 4.15 shows a long straight wire of a circular
+cross-section (radius a) carrying steady current I. The current I is
+uniformly distributed across this cross-section. Calculate the
+magnetic field in the region r < a and r > a.
+
+ 
+
+FIGURE 4. 15
+
+Solution (a) Consider the case r > a. The Amperian loop, labelled 2,
+is a circle concentric with the cross-section. For this loop,
+
+L = 2 7: r
+
+1‘a = Current enclosed by the loop = I
+
+The result is the familiar expression for a long straight wire
+
+B (27: r) = #01
+
+ 
+
+B: #01
+
+2m [4.19(a)]
+
+l
+Boc—
+r (r>a)
+
+(b) Consider the case r < a. The Amperian loop is a circle labelled 1.
+For this loop, taking the radius of the circle to be r,
+
+L=21tr
+
+* Note that there are two distinct right—hand rules: One which gives the direction
+of B on the axis of current—loop and the other which gives direction of B
+for a straight conducting wire. Fingers and thumb play different roles in
+the two.
+
+2019-20
+
+9 '17 mama
+
+149

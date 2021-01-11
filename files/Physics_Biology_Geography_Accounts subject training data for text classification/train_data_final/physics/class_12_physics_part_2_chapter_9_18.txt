@@ -1,0 +1,85 @@
+Roy Optics and
+Optical Instruments
+
+the laws of refraction and ﬁnd the point where . .
+
+the refracted rays meet (or appear to meet). In ObJCCt 4— v —>
+
+practice, however, it is convenient to choose any
+
+two of the following rays:
+
+(i) A ray emanating from the object parallel to
+the principal axis of the lens after refraction
+passes through the second principal focus
+F’ (in a convex lens) or appears to diverge (in
+a concave lens) from the ﬁrst principal focus F. Image
+
+(ii) A ray of light, passing through the optical '
+centre of the lens, emerges without any
+deviation after refraction.
+
+(iii) A ray of light passing through the first
+principal focus (for a convex lens) or
+appearing to meet at it (for a concave lens)
+emerges parallel to the principal axis after
+refraction.
+
+Figures 9.19(a) and (b) illustrate these rules
+for a convex and a concave lens, respectively.
+You should practice drawing similar ray
+diagrams for different positions of the object with (b)
+respect to the lens and also verify that the lens
+formula, Eq. (9.23), holds good for all cases.
+
+Here again it must be remembered that each
+point on an object gives out inﬁnite number of
+rays. All these rays will pass through the same image point after refraction
+at the lens.
+
+Magniﬁcation (m) produced by a lens is defined, like that for a mirror,
+as the ratio of the size of the image to that of the object. Proceeding in the
+same way as for spherical mirrors, it is easily seen that for a lens
+_ h' _ v
+m — h — u (9.24)
+
+When we apply the sign convention, we see that, for erect (and virtual)
+image formed by a convex or concave lens, m is positive, while for an
+inverted (and real) image, m is negative.
+
+ 
+   
+
+ 
+
+--------q
+
+(a)
+
+ 
+
+FIGURE 9.19 Tracing rays through (a)
+convex lens (b) concave lens.
+
+ 
+
+Example 9.7 A magician during a show makes a glass lens with
+n = 1.47 disappear in a trough of liquid. What is the refractive index
+of the liquid? Could the liquid be water?
+
+Solution
+
+The refractive index of the liquid must be equal to 1.47 in order to
+make the lens disappear. This means n1 = n2. This gives 1 / f =0 or
+f —9 oo. The lens in the liquid will act like a plane sheet of glass. No,
+
+the liquid is not water. It could be glycerine.
+
+L'6 mama
+
+9.5.3 Power of a lens
+
+Power of a lens is a measure of the convergence or divergence, which a
+lens introduces in the light falling on it. Clearly, a lens of shorter focal 327
+
+2019-20

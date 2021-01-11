@@ -1,0 +1,51 @@
+9.
+Chapter 2 Instructions: Language of the Computer
+. . . MIPS machine language
+Name Example Comments
+'dd R 0 18 19 17 0 32 'dd $51.$s2.$s3
+'ob
+"" R 0 18 19 17 0 34 $51.$s2.$s3
+" I 35 18 17 100 $51.100($s2)
+"
+" I 43 18 17 100 " $51.100($s2)
+'"' R 0 18 19 17 0 36 '"' $s1.$s2,$s3
+" R 0 18 19 17 0 37 " $s1.$s2,$s3
+"" R 0 18 19 17 0 39 "" $s1.$s2,$s3
+and1 I 12 18 17 100 dnd i $s l ,$s2.100
+",
+ori I 13 18 17 100 $s l ,$s2.100
+;11 R 0 0 18 17 10 0 ,11 $s1.$s2.10
+;,1 R 0 0 18 17 10 2 ;,1 $51.$s2.10
+b', b',
+I 4 17 18 25 $51.$s2.100
+b",
+b"'
+I 5 17 18 25 $51,$s2.100
+;it R 0 18 19 17 I 0 I 42 ,it $51.$s2.$s3
+j J 2 2500 10000 (see Section 2.9)
+jc R 0 31 I 0 I 0 I 0 I 8 j, $rn
+j" J 3 2500 j" 10000 (see Section 2.9)
+Field size 6 bits 5 bits 5 bits 5 bits 5 bits 6 bits All MIPS instructions 32 bits
+R·fonnat R op " " " shamt tuncl Arithmetic instruction format
+Honnat I op " " address Data transfer, branch fonnat
+FIGURE 2.20 MIPS machine language revealed through Section 2.7. Highlighted portions show MIPS assembly language structures
+introduced in Section 2.7. The j·formm, used for jump and jump-and-link instructions, is explained in Section 2.9. This section also explains why
+putting 25 in the address field of beQ and bne machine language instructions is equivalent to !OO in assembly language.
+@I
+>
+i( =
+(wow open tab at bar is
+Communicating with People
+great)
+Fourth line of the keyboard
+poem "Hatless Atlas," 199 1
+Computers were invented to crunch numbers, but as soon as they became com  
+(some give names to ASCII
+mercially viable they were used to process text. Most computers today use 8-bit
+characters: "!" is"wow," "(" is
+"I" bytes to represent characters, with the American Standard Code for Information
+open, is bar, and so on)
+Interchange (ASCII) being the representation that nea rly everyone follows. Figure
+2.2 1 summarizes ASCII.
+A series of instructions can extract a byte from a word, so load word and store
+word are sufficient for transferring bytes as well as words. Because of the popularity

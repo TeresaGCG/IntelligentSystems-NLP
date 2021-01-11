@@ -1,0 +1,90 @@
+LAWS OF MOTION
+
+107
+
+ 
+
+directed upwards (not shown in the
+figure).
+
+(ii) the force on the ﬂoor by the system
+(action); the force on the system by the
+ﬂoor (reaction). In addition, for (b), the
+force on the block by the cylinder and
+the force on the cylinder by the block
+also constitute an action-reaction pair.
+
+The important thing to remember is that an
+action-reaction pair consists of mutual forces
+which are always equal and opposite between
+two bodies. Two forces on the same body which
+happen to be equal and opposite can never
+constitute an action-reaction pair. The force of
+
+gravity on the mass in (a) or (b) and the normal
+force on the mass by the ﬂoor are not action-
+reaction pairs. These forces happen to be equal
+and opposite for (a) since the mass is at rest.
+They are not so for case (b), as seen already.
+The weight of the system is 270 N, while the
+normal force R’ is 267.3 N. 4
+
+The practice of drawing free-body diagrams is
+of great help in solving problems in mechanics.
+It allows you to clearly define your system and
+consider all forces on the system due to objects
+that are not part of the system itself. A number
+of exercises in this and subsequent chapters will
+help you cultivate this practice.
+
+SUMNIARY
+
+Aristotle's View that a force is necessary to keep a body in uniform motion is wrong. A
+force is necessary in practice to counter the opposing force of friction.
+Galileo extrapolated simple observations on motion of bodies on inclined planes, and
+arrived at the law of inertia. Newton’s first law of motion is the same law rephrased
+thus: “Everybody continues to be in its state of rest or of unifom motion in a straight line,
+unless compelled by some external force to act otherwise’. In simple terms, the First Law
+is “If external force on a body is zero, its acceleration is zero".
+Momentum (p) of a body is the product of its mass (m) and velocity (V) :
+
+p = mv
+Newton’s second law of motion :
+The rate of change of momentum of a body is proportional to the applied force and takes
+place in the direction in which the force acts. Thus
+
+F=kd—p=kma
+
+dt
+
+where F is the net external force on the body and a its acceleration. We set the constant
+of proportionality k = 1 in SI units. Then
+
+The SI unit of force is newton : 1 N = 1 kg m s2,
+
+[a] The second law is consistent with the First Law [F = 0 implies a = 0)
+
+(b) It is a vector equation
+
+(c) It is applicable to a particle, and also to a body or a system of particles, provided F
+is the total external force on the system and a is the acceleration of the system as
+a whole.
+
+(d) F at a point at a certain instant determines a at the same point at that instant.
+That is the Second Law is a local law; a at an instant does not depend on the
+history of motion.
+
+Impulse is the product of force and time which equals change in momentum.
+
+The notion of impulse is useful when a large force acts for a short time to produce a
+
+measurable change in momentum. Since the time of action of the force is very short,
+
+one can assume that there is no appreciable change in the position of the body during
+the action of the impulsive force.
+
+Newton’s third law of motion:
+
+To every action, there is always an equal and opposite reaction
+
+2019-20

@@ -1,0 +1,124 @@
+104
+
+PHYSICS
+
+5. 10 CIRCUIAR MOTION
+
+We have seen in Chapter 4 that acceleration of
+a body moving in a circle of radius R with uniform
+speed I) is v2/ R directed towards the centre.
+According to the second law, the force f providing
+this acceleration is : C
+
+fC=
+
+mvz
+R
+
+where m is the mass of the body. This force
+directed forwards the centre is called the
+centripetal force. For a stone rotated in a circle
+by a string, the centripetal force is provided by
+the tension in the string. The centripetal force
+for motion of a planet around the sun is the
+
+ 
+
+(5.16)
+
+ 
+
+is the static friction that provides the centripetal
+acceleration. Static friction opposes the
+impending motion of the car moving away from
+the circle. Using equation (5.14) 8: (5.16) we get
+the result
+
+2
+
+TnU
+S N
+R #5
+
+v2 S #5an =#ng
+
+ 
+
+f:
+
+ 
+
+l... N: mg]
+
+which is independent of the mass of the car.
+This shows that for a given value of us and R,
+there is a maximum speed of circular motion of
+the car possible, namely
+
+vmax : [ung (5' 18)
+
+N Noose
+
+  
+
+(b)
+
+Fig. 5. 1 4 Circular motion of a car on (a) a level road, (b) a banked road.
+
+gravitational force on the planet due to the sun.
+For a car taking a circular turn on a horizontal
+road, the centripetal force is the force of friction.
+
+The circular motion of a car on a ﬂat and
+banked road give interesting application of the
+laws of motion.
+
+Motion of a car on a level road
+Three forces act on the car (Fig. 5.14(a):
+
+(i) The weight of the car, mg
+(ii) Normal reaction, N
+(iii) Frictional force, f
+
+As there is no acceleration in the vertical
+direction
+
+N — mg = O
+
+N = mg (5.17)
+The centripetal force required for circular motion
+is along the surface of the road, and is provided
+by the component of the contact force between
+road and the car tyres along the surface. This
+by definition is the frictional force. Note that it
+
+2019-20
+
+Motion of a car on a banked road
+
+We can reduce the contribution of friction to the
+circular motion of the car if the road is banked
+(Fig. 5. l4(b)). Since there is no acceleration along
+the vertical direction, the net force along this
+direction must be zero. Hence,
+
+Ncos 0 = mg +fsin 6 (5.19a)
+The centripetal force is provided by the horizontal
+components of N and f.
+mv2
+
+R
+
+ 
+
+Nsin 0 +fcos 0 = (5.19b)
+
+But f s ysN
+
+Thus to obtain vmax we put
+
+f=%N-
+
+Then Eqs. (5. 19a) and (5. 19b) become
+
+Ncos g = mg+ #SN sin 0 (5.20a)

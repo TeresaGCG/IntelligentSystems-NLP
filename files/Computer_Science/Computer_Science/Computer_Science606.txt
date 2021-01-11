@@ -1,0 +1,51 @@
+59.
+Chapter 8
+Actually performing a read or write of data to fulfill a program request usually
+requires several separate I/O operations. Furthermore, the processor may have to
+interrogate the status of the device between individual commands to determine
+whether the command completed successfully. For example, a simple printer has
+two I/O device registers-one for status information and one for data to be
+printed. The Status register contains a done bit, set by the printer when it has
+printed a character, and an error bit, indicating that the printer is jammed or out
+of paper. Each byte of data to be printed is put into the Data register. The proces 
+sor must then wait until the printer sets the done bit before it can place another
+character in the buffer. The processor must also check the error bit to determine if
+a problem has occurred. Each of these operations requires a separate I/O device
+access.
+ItO instru(;tions A dedicated Elaboration: The alternative to memory-mapped I/O is to use dedicated I/O instruc 
+instruction that is lIsed to give a tions in the processor. These I/O instructions can specify both the device number and
+va
+command to an device and
+the command word (or the location of the command word in memory). The processor
+that specifies both the device
+communicates the device address via a set of wires normally included as part of the
+number and the command
+I/O bus. The actual command can be transmitted over the data lines in the bus. Exam 
+word (or the location ofthe
+ples of computers with I/O instructions are the IntellA-32 and the IBM 370 computers.
+command word in memory).
+By making the I/O instructions illegal to execute when not in kernel or supervisor
+mode, user programs can be prevented from accessing the devices directly.
+Communicating with the Processor
+The process of periodically checking status bits to see if it is time for the next I/O
+polling The process ofperiodi  operation, as in the previous example, is called polling. Polling is the simplest way
+cally checking the status ofan for an I/O device to communicate with the processor. The I/O device simply puts
+I/O device to determine the
+the information in a Status register, and the processor must come and get the
+need to sen'ice the device.
+information. The processor is totally in control and does all the work.
+Polling can be used in several different ways. Real-time embedded applications
+poll the I/O devices since the I/O rates are predetermined and it makes I/O over 
+head more predictable, which is helpful for real time. As we will see, this allows
+polling to be used even when the I/O rate is somewhat higher.
+The disadvantage of polling is that it can waste a lot of processor time because
+processors are so much faster than I/O devices. The processor may read the Status
+register many times, only to find that the device has not yet completed a compara 
+tively slow I/O operation, or that the mouse has not budged since the last time it
+was polled. \-Vhen the device completes an operation, we must still read the status
+to determine whether it was successful.
+interrupt-driven ItO An I/O
+scheme that employs interrupts The overhead in a polling interface was recognized long ago, leading to the
+to indicate to the processor that invention of interrupts to notify the processor when an I/O device requires atten 
+an I/O device needs attention.
+tion from the processor. Interrupt-driven I/O, which is used by almost all systems

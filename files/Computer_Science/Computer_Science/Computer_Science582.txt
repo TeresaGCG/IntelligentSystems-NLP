@@ -1,0 +1,37 @@
+566 Chapter 8
+Introduction
+Although users can get frustrated if their computer hangs and must be rebooted,
+they become apoplectic if their storage system crashes and they lose information.
+Thus, the bar for dependability is much higher for storage than for computation.
+Networks also plan for failures in communication, including several mechanisms
+to detect and recover from such failures. Hence, I/O systems generally place much
+greater emphasis on dependability and cost, while processors and memory focus
+on performance and cost.
+I/O systems must also plan for expandability and for diversity of devices, which
+is not a concern for processors. Expandability is related to storage capacity, which
+is another design parameter for I/O systems; systems may need a lower bound of
+storage capacity to fulfill their role.
+Although performance plays a smaller role for I/O, it is more complex. For
+example, with some devices we may care primarily about access latency, while
+with others throughput is crucial. Furthermore, performance depends on many
+aspects of the system: the device characteristics, the connection between the
+device and the rest of the system, the memory hierarchy, and the operating sys 
+tem. Figure 8.1 shows the structure of a simple system with its I/O. All of the com 
+ponents, from the individual I/O devices to the processor to the system software,
+will affect the dependability, expandability, and performance of tasks that include
+110.
+I/O devices are incredibly diverse. Three characteristics are useful in organizing
+this wide variety:
+• Behavior: Input (read once), output (write only, cannot be read), or storage
+(can be reread and usually rewritten).
+• Partner: Either a human or a machine is at the other end of the I/O device,
+either feeding data on input or reading data on output.
+• Data rate: The peak rate at which data can be transferred between the I/O
+device and the main memory or processor. It is useful to know what maxi 
+mum demand the device may generate.
+For exa mple, a keyboard is an inpl/tdevice used by a hI/mall with a peak data rate
+of about 10 bytes per second. Figure 8.2 shows some of the I/O devices connected
+to computers.
+In Chapter 1, we briefly discussed four important and characteristic I/O
+devices: mice, graphics displays, disks, and networks. In this chapter we go into
+much more depth on disk storage and networks.

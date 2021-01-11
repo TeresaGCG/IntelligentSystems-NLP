@@ -1,0 +1,12 @@
+278 Chapter 4 Assessing and Understanding Performance
+The article never discussed how the nature of the instructions should impact the
+definition of "powerful." For each article you collect, describe why you think it is
+misleading or incorrect. Good places to look for material include the business or
+technology sections of newspapers, magazines (both articles and ads), and the
+Internet (newsgroups and the Web).
+Answers to §4.1 , page 246: 1. a: both, b: latency, c: neither. 2. 7 sec.
+Check Yourself §4.2, page 253: 6.
+§4.3, page 258: 1. F, F, F, T. 2. T, F, F, T
+§4.4, page 265: b.
+§4.5, page 270: Computer A. b. Computer B.
+3.

@@ -1,0 +1,63 @@
+l Physics
+
+1.19
+
+1.20
+
+1.21
+
+1.22
+
+1.23
+
+1.24
+
+1.25
+
+1.26
+
+48
+
+ 
+
+ 
+
+A point charge of 2.0 ”C is at the centre of a cubic Gaussian
+surface 9.0 cm on edge. What is the net electric ﬂux through the
+surface?
+
+A point charge causes an electric ﬂux of —1.0 X 103 NmZ/C to pass
+through a spherical Gaussian surface of 10.0 cm radius centred on
+the charge. (a) If the radius of the Gaussian surface were doubled,
+how much ﬂux would pass through the surface? (b) What is the
+value of the point charge?
+
+A conducting sphere of radius 10 cm has an unknown charge. If
+the electric field 20 cm from the centre of the sphere is 1.5 X 103 N/ C
+and points radially inward, what is the net charge on the sphere?
+
+A uniformly charged conducting sphere of 2.4 m diameter has a
+surface charge density of 80.0 uC/mz. (a) Find the charge on the
+sphere. (b) What is the total electric ﬂux leaving the surface of the
+sphere?
+
+An infinite line charge produces a field of 9 X 104 N/ C at a distance
+of 2 cm. Calculate the linear charge density.
+
+Two large, thin metal plates are parallel and close to each other. On
+their inner faces, the plates have surface charge densities of opposite
+signs and of magnitude 17.0 X 10522 C / m2. What is E: (a) in the outer
+region of the first plate, (b) in the outer region of the second plate,
+and (c) between the plates?
+
+ADDITIONAL EXERCISES
+
+An oil drop of 12 excess electrons is held stationary under a constant
+electric field of 2.55 X 104 NC’1 (Millikan’s oil drop experiment). The
+density of the oil is 1.26 g cm13. Estimate the radius of the drop.
+(9 = 9.81 m s2; 6 = 1.60 X 10’19 C).
+
+Which among the curves shown in Fig. 1.35 cannot possibly
+represent electrostatic field lines?
+
+2019-20

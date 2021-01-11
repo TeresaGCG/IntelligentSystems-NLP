@@ -1,0 +1,79 @@
+Electric Charges
+
+ 
+
+ 
+
+and Fields
+_ P
+E — 4neor3 (r/a >> 1)
+_ 5x10‘8 Cm X 1 M
+' 41:(8.854><1O‘12C2 N-1 111-2) (15)3 ><1045 m3 g
+= 1.33 x 105 N C'l. r
+The direction of electric field in this case is opposite to the direction H
+of the dipole moment vector. Again, the result agrees With that obtained I"
+before. 8
+
+1. 12 DIPOLE IN A UNIFORM EXTERNAL FIELD
+
+Consider a permanent dipole of dipole moment p in a uniform qE
+external field E, as shown in Fig. 1.22. (By permanent dipole, we
+mean that p exists irrespective of E; it has not been induced by E.) IE
+
+There is a force qE on q and a force —qE on —q. The net force on
+the dipole is zero, since E is uniform. However, the charges are _q
+separated, so the forces act at different points, resulting in a torque
+on the dipole. When the net force is zero, the torque (couple) is
+independent of the origin. Its magnitude equals the magnitude of FIGURE 1-22 Di100le in a
+each force multiplied by the arm of the couple (perpendicular uniform 6190”“ ﬁeld-
+distance between the two antiparallel forces).
+
+Magnitude of torque = q E X 2 a sine
+
+= 2 q a E sin6
+Its direction is normal to the plane of the paper, coming out of it.
+The magnitude of p X E is also p E sine and its direction E
+
+is normal to the paper, coming out of it. Thus,
+Force on —q
+
+T = p X E (1.22) ‘— mq
+This torque will tend to align the dipole with the ﬁeld 0" __ O
+E. When p is aligned with E, the torque is zero. —q P q
+
+What happens if the field is not uniform? In that case, , ,
+. . . . Directlon of net force = —>
+the net force w111 ev1dently be non-zero. In addition there Direction of increasing ﬁeld = _.
+will, in general, be a torque on the system as before. The
+
+ 
+
+general case is involved, so let us consider the simpler (a)
+
+situations when p is parallel to E or antiparallel to E. In
+
+either case, the net torque is zero, but there is a net force E
+
+on the dipole if E is not uniform.
+Figure 1.23 is self-explanatory. It is easily seen that O _____ ‘—"'0
+
+when p is parallel to E, the dipole has a net force in the q P —q
+
+direction of increasing field. When p is antiparallel to E, Force on q
+
+the net force on the dipole is in the direction of decreasing —’ m _q
+
+field. In general, the force depends on the orientation of p Direction of net force = ‘_
+
+With respect to E. Direction of increasing ﬁeld = —>
+This brings us to a common observation in frictional (b)
+
+electricity. A comb run through dry hair attracts pieces of FIGURE 123 Electric force on a
+
+paper. The comb, as we know, acquires charge through dipole: (a) E parallel to p. (b) E
+
+friction. But the paper is not charged. What then explains antiparallel to p.
+
+the attractive force? Taking the clue from the preceding 3 1
+
+2019-20

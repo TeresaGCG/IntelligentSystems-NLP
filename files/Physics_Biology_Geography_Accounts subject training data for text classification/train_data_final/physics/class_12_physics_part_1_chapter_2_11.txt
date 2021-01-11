@@ -1,0 +1,93 @@
+i Physics
+
+T” where r12 is the distance between points 1 and 2.
+
+ 
+
+ 
+
+q, Since electrostatic force is conservative, this work gets
+
+stored in the form of potential energy of the system. Thus,
+
+ql the potential energy of a system of two charges q1 and q2 is
+FIGURE 2. 13 Potential energy of a U _ 1 qlq2
+
+system of charges (11 and (12 is _ 47:80 r12 (2-22)
+
+directly proportional to the product
+of charges and inversely to the Obviously, if q2 was brought first to its present location and
+distance between them. q1 brought later, the potential energy Uwould be the same.
+
+More generally, the potential energy expression,
+Eq. (2.22), is unaltered whatever way the charges are brought to the speciﬁed
+locations, because of path-independence of work for electrostatic force.
+
+Equation (2.22) is true for any sign of qland (12. If q1q2 > 0, potential
+energy is positive. This is as expected, since for like charges (q1q2 > O),
+electrostatic force is repulsive and a positive amount of work is needed to
+be done against this force to bring the charges from infinity to a finite
+distance apart. For unlike charges (q1 q2 < O), the electrostatic force is
+attractive. In that case, a positive amount of work is needed against this
+force to take the charges from the given location to inﬁnity. In other words,
+a negative amount of work is needed for the reverse path (from infinity to
+the present locations), so the potential energy is negative.
+
+Equation (2.22) is easily generalised for a system of any number of
+point charges. Let us calculate the potential energy of a system of three
+charges q1, q2 and q3 located at r1, r2, :3, respectively. To bring q1 first
+from inﬁnity to r1, no work is required. Next we bring q2 from infinity to
+:2. As before, work done in this step is
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 q q
+V r = 1 2 2.2
+q2 1( 2) 47:80 r12 ( 3)
+The charges q1 and q2 produce a potential, which at any point P is
+given by
+1
+V12 = [iﬁl—ZJ (2.24)
+’ 47.580 rlP r2P
+Work done next in bringing q3 from infinity to the point 1'3 is q3 times
+V1, 2 at 1'3
+1
+q3V1,2(r3)= [‘1qu + “3] (2.25)
+qs 47t80 r13 r23
+q2 The total work done in assembling the charges
+r13 at the given locations is obtained by adding the work
+r” done in different steps [Eq. (2.23) and Eq. (2.25)],
+ql 1 q q q q q q
+_ 1 2 1 3 2 3
+FIGURE 2.14 Potential energy of a U _ 47t80( 1‘12 + r13 + r23 J (2'26)
+
+system of three charges is given by
+Eq. (2.26). with the notation given
+in the figure.
+
+Again, because of the conservative nature of the
+electrostatic force (or equivalently, the path
+independence of work done), the ﬁnal expression for
+U, Eq. (2.26), is independent of the manner in which
+
+62 the configuration is assembled. The potential energy
+
+2019-20

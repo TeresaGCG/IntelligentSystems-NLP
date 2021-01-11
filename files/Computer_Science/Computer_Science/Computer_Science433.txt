@@ -1,0 +1,32 @@
+6.6 Branch Hazards 417
+Time (in clock cycles) ----------------------------_.
+CC 1 CC 2 CC' CC' CC S CC ' CC, CC B CC'
+Program
+execution
+order
+(in instructions)
+40 beq $1, $3, 28
+-,
+44 and $12, $2, $5 ",
+48 or$13,$6,$2
+52 add $14, $2, $2
+-,
+72 Iw $4, 50($7)
+9,
+FIGURE 6.37 The Impact of the pipeline on the branch Instruction. The numbers to the left of the instruction (40, 44, ... ) are the
+addresses of the instructions. Since the branch instruction decides whether to branch in the MEM stage----clock cycle 4 for the beq instruction
+above----the three sequential instructions that follow the branch will be fetched and begin execution. Without intervemion, those three following
+instructions will begin execution before beq branches to 1wat location 72. (Figure 6.7on p.1ge 380 assumed extra hardware to reduce the control haz·
+ard to 1clock cycle; this figure uses the nonoptimized datap.1th.)
+when the branch would occur in this pipeline. An instruction must be fetched at
+every clock cycle to sustain the pipeline, yet in our design the decision about
+whether to branch doesn't occur until the MEM pipeline stage. As mentioned in
+Section 6.1 , this delay in determining the proper instruction to fetch is called a
+control hazard or branch hazard, in contrast to the data hazards we have just
+examined.
+This section on control hazards is shorter than the previous sections on data
+haza rds. The reasons are that control haza rds are relatively simple to understand,
+they occur less frequently than data hazards, and there is nothing as effective
+against control hazards as forwarding is for data hazards. Hence, we use simpler
+schemes. We look at two schemes for resolving control hazards and one optimiza 
+tion to improve these schemes.

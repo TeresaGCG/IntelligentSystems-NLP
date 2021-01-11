@@ -1,0 +1,61 @@
+Electric Charges
+and Fields
+
+where n is any integer, positive or negative. This basic unit of charge is the
+charge that an electron or proton carries. By convention, the charge on an
+electron is taken to be negative; therefore charge on an electron is written
+as —e and that on a proton as +e.
+
+The fact that electric charge is always an integral multiple of e is termed
+as quantisation of charge. There are a large number of situations in physics
+where certain physical quantities are quantised. The quantisation of charge
+was first suggested by the experimental laws of electrolysis discovered by
+English experimentalist Faraday. It was experimentally demonstrated by
+Millikan in l 9 1 2.
+
+In the International System (SI) of Units, a unit of charge is called a
+coulomb and is denoted by the symbol C. A coulomb is deﬁned in terms
+the unit of the electric current which you are going to learn in a subsequent
+chapter. In terms of this definition, one coulomb is the charge ﬂowing
+through a wire in 1 s if the current is l A (ampere), (see Chapter 2 of Class
+XI, Physics Textbook , Part I). In this system, the value of the basic unit of
+charge is
+
+e = 1.602192 x 10—190
+
+Thus, there are about 6 X 1018 electrons in a charge of —1C. In
+
+electrostatics, charges of this large magnitude are seldom encountered
+and hence we use smaller units l “C (micro coulomb) = 1043 C or 1 mC
+(milli coulomb) = 10—3 c.
+
+If the protons and electrons are the only basic charges in the universe,
+all the observable charges have to be integral multiples of e. Thus, if a
+body contains n1 electrons and n2 protons, the total amount of charge on
+the body is n2 X e + n1 X (—e) = (n2 — n1) e. Since n1 and n2 are integers, their
+difference is also an integer. Thus the charge on any body is always an
+integral multiple of e and can be increased or decreased also in steps of e.
+
+The step size e is, however, very small because at the macroscopic
+level, we deal with charges of a few ”C. At this scale the fact that charge of
+a body can increase or decrease in units of e is not visible. In this respect,
+the grainy nature of the charge is lost and it appears to be continuous.
+
+This situation can be compared with the geometrical concepts of points
+and lines. A dotted line viewed from a distance appears continuous to
+us but is not continuous in reality. As many points very close to
+each other normally give an impression of a continuous line, many
+small charges taken together appear as a continuous charge
+distribution.
+
+At the macroscopic level, one deals with charges that are enormous
+compared to the magnitude of charge e. Since e = 1.6 X 10‘19 C, a charge
+of magnitude, say l ”C, contains something like 1013 times the electronic
+charge. At this scale, the fact that charge can increase or decrease only in
+units of e is not very different from saying that charge can take continuous
+values. Thus, at the macroscopic level, the quantisation of charge has no
+practical consequence and can be ignored. However, at the microscopic
+level, where the charges involved are of the order of a few tens or hundreds
+of e, i.e., they can be counted, they appear in discrete lumps and
+
+2019-20

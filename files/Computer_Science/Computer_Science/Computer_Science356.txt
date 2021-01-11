@@ -1,0 +1,41 @@
+340 Chapter 5 The Processor: Datapath and Control
+where there is a one-state difference between two sequences of states, the Mealy
+machine may unify the states by making the outputs depend on the inputs.
+Understanding For a processor with a given clock rate, the relative performance between two code
+segments will be determined by the product of the CPI and the instruction count
+Program
+to execute each segment. As we have seen here, instructions can vary in their CPI ,
+Performance
+even for a simple processor. In the next two chapters, we will see that the intro 
+duction of pipelining and the use of caches create even larger opportunities for
+variation in the CPI. Although many factors that affect the CPI are controlled by
+the hardware designer, the programmer, the compiler, and software system dictate
+what instructions are executed, and it is this process that determines what the
+effective CPI fo r the program will be. Programmers seeking to improve perfor 
+mance must understand the role of CPI and the factors that affect it.
+Check I. True or false: Since the jump instruction does not depend on the register
+values or on computing the branch target address, it can be completed dur 
+Yourself
+ing the second state, rather than waiting until the third.
+2. True, false, or maybe: The control signal PCWriteCond can be replaced by
+PCSource[O) .
+Exceptions
+exception Also called inter  Control is the most challenging aspect of processor design: it is both the hardest
+rupt.An unscheduled event that
+part to get right and the hardest part to make fast. One of the hardest parts of con 
+disrupts program execution;
+trol is implementing exceptions and interrupts-events other than branches or
+lIsed to detect overflow.
+jumps that change the normal flow of instruction execution. An exception is an
+interrupt An exception that unexpected event from within the processor; arithmetic overflow is an example of
+comes from outside of the pro 
+an exception. An interrupt is an event that also causes an unexpected change in
+cessor. (Some architectures
+control flow but comes from outside of the processor. Interrupts are used by I/O
+use the term inrerrllpr for all
+devices to communicate with the processor, as we will see in Chapter 8.
+exceptions.)
+Many architectures and authors do not distinguish between interrupts and
+exceptions, often using the older name interrupt to refer to both types of events.
+We follow the MIPS convention, using the term exception to refer to any unex 
+pected change in control flow without distinguishing whether the cause is internal

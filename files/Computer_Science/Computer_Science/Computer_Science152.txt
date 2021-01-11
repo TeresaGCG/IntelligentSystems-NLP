@@ -1,0 +1,43 @@
+136 Chapter 2 Instructions: Language of the Computer
+• 2001 : Intel added yet another 144 instructions, this time labeled SSE2. The
+new data type is double-precision arithmetic, which allows pairs of 64-bit
+floating-point operations in parallel. Almost all of these 144 instructions are
+versions of existing MMX and SSE instructions that operate on 64 bits of
+data in parallel. Not only does this change enable more multimedia opera 
+tions, it gives the compiler a different target for floating-point operations
+than the unique stack architecture. Compilers can choose to use the eight
+SSE registers as floating-point registers like those found in other computers.
+This change has boosted floating-point performance on the Pentium 4, the
+first microprocessor to include SSE2 instructions.
+• 2003: A company other than Intel enhanced the IA-32 architecnlre this time.
+AMD announced a set of architectural extensions to increase the address space
+from 32 to 64 bits. Similar to the transition from a 16- to 32-bit address space
+in 1985 with the 80386, AMD64 widens all registers to 64 bits. It also increases
+the number of registers to 16 and increases the number of 128-bit SSE regis 
+ters to 16. The primary ISA change comes from adding a new mode called
+IOflg mode that redefines the execution of all IA-32 instructions with 64-bit
+addresses and data. To address the larger number of registers, it adds a new
+prefix to instmctions. Depending how you count, long mode also adds 4 to 10
+new instructions and drops 27 old ones. PC-relative data addressing is another
+extension. AMD64 still has a mode that is identical to IA-32 (legacy mode) plus
+a mode that restricts user programs to IA-32 but allows operating systems to
+use AMD64 (compatability mode). These modes allow a more graceful transi 
+tion to 64-bit addressing than the HP/lntel IA-64 arcllitecture.
+• 2004: Intel capinilates and embraces AMD64, relabeling it Extended Memory
+64 Technology (EM64T). The major difference is that Intel added a 128-bit
+atomic compare and swap instruction, which probably should have been
+included in AM 0 64. At the same time, Intel announced another generation of
+media extensions. SSE3 adds 13 instmctions to support complex arithmetic,
+graphics operations on arrays of structures, video encoding, floating point
+conversion, and thread synchronization (see Chapter 9). AMD will offer SSE3
+in subsequent chips and it will almost certainly add the missing atomic swap
+instmction to AMD64 to maintain binary compatibility with Intel.
+This history illustrates the impact of the "golden handcuffs" of compatibility on
+the IA-32, as the existing software base at each step was too important to jeopar 
+dize with significant architectural changes.
+Whatever the artistic failures of the IA-32, keep in mind that there are more
+instances of this architectural family on desktops than of any other architecture,
+increasing by 100 million per year. Nevertheless, this checkered ancestry has led to
+an architecture that is difficult to explain and impossible to love.
+Brace yourself for what you are about to see! Do flOt try to read this section
+with the care you would need to write IA-32 programs; the goal instead is to give

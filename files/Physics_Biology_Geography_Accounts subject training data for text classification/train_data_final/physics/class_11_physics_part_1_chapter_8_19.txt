@@ -1,0 +1,68 @@
+202 PHYSICS
+—
+
+8.17
+
+8.18
+
+8.19
+
+8.20
+
+8.21
+
+weigh half way down to the centre of the earth if it weighed 250 N on the surface ?
+A rocket is fired vertically with a speed of 5 km s’1 from the earth’s surface. How far
+from the earth does the rocket go before returning to the earth ? Mass of the earth
+= 6.0 x 1024 kg; mean radius of the earth = 6.4 x 106 m; G = 6.67 x 10’11 N m2 kg’2.
+The escape speed of a projectile on the earth’s surface is 11.2 km s4. A body is
+projected out with thrice this speed. What is the speed of the body far away from the
+earth? Ignore the presence of the sun and other planets.
+
+A satellite orbits the earth at a height of 400 km above the surface. How much
+energy must be expended to rocket the satellite out of the earth's gravitational
+inﬂuence? Mass of the satellite = 200 kg; mass of the earth = 6.0><1024 kg; radius of
+the earth = 6.4 x 106 m; G = 6.67 x 10’11 N m2 kg’z.
+
+Two stars each of one solar mass [= 2><1030 kg] are approaching each other for a head
+on collision. When they are a distance 109 km, their speeds are negligible. What is
+the speed with which they collide ? The radius of each star is 104 km. Assume the
+stars to remain undistorted until they collide. [Use the known value of G).
+
+Two heavy spheres each of mass 100 kg and radius 0.10 m are placed 1.0 m apart
+on a horizontal table. What is the gravitational force and potential at the mid point
+of the line joining the centres of the spheres ? Is an object placed at that point in
+equilibrium? If so, is the equilibrium stable or unstable ?
+
+Additional Exercises
+
+8.22
+
+8.23
+
+8.24
+
+8.25
+
+As you have learnt in the text, a geostationary satellite orbits the earth at a height of
+nearly 36,000 km from the surface of the earth. What is the potential due to earth’s
+gravity at the site of this satellite ? (Take the potential energy at infinity to be zero).
+Mass of the earth = 6.0><1024 kg, radius = 6400 km.
+
+A star 2.5 times the mass of the sun and collapsed to a size of 12 km rotates with a
+speed of 1.2 rev. per second. (Extremely compact stars of this kind are known as
+neutron stars. Certain stellar objects called pulsars belong to this category]. Will an
+object placed on its equator remain stuck to its surface due to gravity ? [mass of the
+sun = 2x1050 kg).
+
+A spaceship is stationed on Mars. How much energy must be expended on the
+spaceship to launch it out of the solar system ? Mass of the space ship = 1000 kg;
+mass of the sun = 2><1030 kg; mass of mars = 6.4)(1023 kg; radius of mars = 3395 km;
+radius of the orbit of mars = 2.28 ><108 km; G = 6.67><10’11 N m2 kgz.
+
+A rocket is fired ‘vertically’ from the surface of mars with a speed of 2 km s’l. If 20%
+of its initial energy is lost due to martian atmospheric resistance, how far will the
+rocket go from the surface of mars before returning to it ? Mass of mars = 6.4)(1023 kg;
+radius of mars = 3395 km; G = 6.67><10’11 N m2 kgz.
+
+2019-20

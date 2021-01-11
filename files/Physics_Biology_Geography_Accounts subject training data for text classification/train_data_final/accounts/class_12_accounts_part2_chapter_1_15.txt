@@ -1,0 +1,50 @@
+1 6 Accountancy : Company Accounts andAnalysis of Financial Statements
+
+Solution:
+
+Books of Cronic Limited
+Journal
+
+Bank A/c
+
+To Share Application A/c
+(Money received on applications for
+10,000 shares @ Rs. 2.50 per share)
+
+Equity Share Application A/c
+
+To Share Capital A/c
+(Transfer of application money on 10,000
+shares to share capital)
+
+Equity Share Allotment A/c
+
+To Share Capital A/c
+(Amount due on the allotment of 10,000
+shares @ Rs. 3 per share)
+
+Bank A/c
+To Share Allotment A/c
+
+(Allotment money received)
+
+Share First Call A/c
+
+To Share Capital A/c
+(First call money due on 10,000 shares
+@ Rs. 2 per share)
+
+Bank A/c
+To Share First Call A/c
+(First call money received)
+
+Share Second and Final Call A/c
+To Share Capital A/c
+(Final call money due)
+
+Bank A/c
+Call in Arrears A/c
+To Share Second and Final Call A/c
+
+(Final call money received except that
+of 100 shares)

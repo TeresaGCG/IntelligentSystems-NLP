@@ -1,0 +1,46 @@
+with phenotype
+
+Number of individuals
+
+136
+
+ 
+
+ 
+
+BIOLOGY
+
+7.7 HARDY-WEINBERG PRINCIPLE
+
+In a given population one can find out the frequency of occurrence of
+alleles of a gene or a locus. This frequency is supposed to remain ﬁxed
+and even remain the same through generations. Hardy-Weinberg principle
+stated it using algebraic equations.
+
+This principle says that allele frequencies in a population are stable
+and is constant from generation to generation. The gene pool (total genes
+and their alleles in a population) remains a constant. This is called
+genetic equilibrium. Sum total of all the allelic frequencies is 1. Individual
+
+Peak gets higher
+and narrower
+
+individuals
+
+Phenotypes are favoured one action I
+favoured
+
+by natural
+selection
+
+Medium-sized ‘ Peak shifts in
+
+ 
+
+Figure 7.8 Diagrammatic representation of the operation of natural selection on different
+
+traits :
+
+(a) Stabilising (b) Directional and (c) Disruptive
+
+2019—2020

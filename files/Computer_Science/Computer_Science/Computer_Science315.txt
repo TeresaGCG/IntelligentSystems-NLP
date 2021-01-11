@@ -1,0 +1,60 @@
+5.3 Building a Datapath 299
+Read
+ALU operation
+"
+register 1
+Read
+I MemWrite
+data 1
+Read
+f- MemtoReg
+Ze~
+register 2
+Instruction ALUSrc
+ALU
+. Registers Read i0 ALU Read
+Address 1
+Wn~e
+data 2 result data
+M
+M
+register
+,
+," f- - "
+,..
+Write 0
+1
+data
+Data
+I ; Write
+memory
+RegWrite
+data
+16 32
+I MemRead
+Sign
+extend
+\
+FIGURE 5.10 The datapath for the memory Instructions and the R·type Instructions. ThIS example shows how
+a single datapath can be assembled from the pieces in Figures 5.7 and 5.8 by adding multiplexors.l\I.u multiplexors are needed,
+as described as in the example.
+the datapath from R-type and memory instructions (Figure 5.10 on page 299),
+and the datapath for branches (Figure 5.9 on page 297). Figure 5. 11 shows the
+datapath we obtain by composing the separate pieces. The branch instruction uses
+the main ALU for comparison of the register operands, so we must keep the
+adder in Figure 5.9 for computing the branch target address. An additional mul 
+tiplexor is required to select either the sequentially following instruction address
++
+(PC 4) or the branch target address to be written into the Pc.
+Now that we have completed this simple datapath, we can add the control unit.
+The control unit must be able to take inputs and generate a write signal for each
+state element, the selector control fo r each multiplexor, and the ALU control. The
+ALU control is different in a number of ways, and it will be useful to design it first
+before we design the rest of the control unit.
+Which of the following is correct for a load instruction? Check
+Yourself
+a. MemtoReg should be set to cause the data from memory to be sent to the
+register file.
+b. MemtoReg should be set to cause the correct register destination to be sent
+to the register file.
+c. We do not care about the setting of MemtoReg.

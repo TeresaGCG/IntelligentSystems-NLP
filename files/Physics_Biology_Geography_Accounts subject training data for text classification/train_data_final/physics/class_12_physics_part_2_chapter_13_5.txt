@@ -1,0 +1,74 @@
+Nuclei
+
+the nuclear mass M is found to be always less than this. For example, let
+us consider 1:0 ; a nucleus which has 8 neutrons and 8 protons. We
+have
+
+Mass of 8 neutrons = 8 X 1.00866 u
+Mass of 8 protons = 8 X 1.00727 u
+
+Mass of 8 electrons = 8 X 0.00055 u
+
+Therefore the expected mass of 1SO nucleus
+
+= 8 X 2.01593 u = 16.12744 u.
+
+The atomic mass of 1860 found from mass spectroscopy experiments
+is seen to be 15.99493 u. Substracting the mass of 8 electrons (8 X 0.00055 u)
+from this, we get the experimental mass of ISO nucleus to be 1 5.99053 u.
+
+Thus, we find that the mass of the ISO nucleus is less than the total
+mass of its constituents by 0.1 369 1u. The difference in mass of a nucleus
+and its constituents, AM, is called the mass defect, and is given by
+
+AM=[Zmp+(A—Z)mn]—M (13.7)
+
+What is the meaning of the mass defect? It is here that Einstein’s
+equivalence of mass and energy plays a role. Since the mass of the oxygen
+nucleus is less that the sum of the masses of its constituents (8 protons
+and 8 neutrons, in the unbound state), the equivalent energy of the oxygen
+nucleus is less than that of the sum of the equivalent energies of its
+constituents. If one wants to break the oxygen nucleus into 8 protons
+and 8 neutrons, this extra energy AM c2, has to supplied. This energy
+required Eb is related to the mass defect by
+
+Eb=AMc2 (13.8)
+
+Example 13.3 Find the energy equivalent of one atomic mass unit,
+first in Joules and then in MeV. Using this, express the mass defect
+of 1860 in MeV/c2.
+
+Solution
+
+lu = 1.6605 x 10‘27 kg
+
+To convert it into energy units, we multiply it by c2 and find that
+
+energy equivalent = 1.6605 X 10—27 X (2.9979 X 108)2 kg mZ/s2
+= 1.4924 x 10‘10 J
+
+1.4924x10'10
+1.602x 10—19
+
+0.9315 x 109 eV
+
+931.5 MeV
+
+or, 1u = 931.5 MeV/c2
+
+For 1860, AM = 0.13691 u = 0.13691X931.5 MeV/c2
+= 127.5 MeV/c2
+
+The energy needed to separate 1860 into its constituents is thus
+127.5 MeV/c2.
+
+eV
+
+If a certain number of neutrons and protons are brought together to
+form a nucleus of a certain charge and mass, an energy Eb will be released
+
+2019-20
+
+8'81 El’ldWVXﬂ
+
+443

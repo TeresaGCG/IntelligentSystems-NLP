@@ -1,0 +1,78 @@
+222
+
+ 
+
+ 
+
+i Physics
+
+Now, let us recollect Experiment 6.3 in Section 6.2. In that experiment,
+emf is induced in coil C1 wherever there was any change in current through
+coil C2. Let ‘1’1 be the ﬂux through coil C1 (say of N1 turns) when current in
+coil 02 is 12.
+
+Then, from Eq. (6.9), we have
+
+MQ=M5
+
+For currents varrying with time,
+
+MMQ) MMA)
+
+ 
+
+dt dt
+
+Since induced emf in coil C1 is given by
+.9 _ _ dam)
+1 _ _
+
+dt
+
+We get,
+
+_ME£
+
+d t
+
+It shows that varying current in a coil can induce emf in a neighbouring
+coil. The magnitude of the induced emf depends upon the rate of change
+of current and mutual inductance of the two coils.
+
+6.9.2 Self-inductance
+
+In the previous sub-section, we considered the ﬂux in one solenoid due
+to the current in the other. It is also possible that emf is induced in a
+single isolated coil due to change of ﬂux through the coil by means of
+varying the current through the same coil. This phenomenon is called
+self-induction. In this case, ﬂux linkage through a coil of N turns is
+proportional to the current through the coil and is expressed as
+
+N%«I
+
+Ng=L1 $13
+
+where constant of proportionality Lis called self-inductance of the coil. It
+is also called the coeﬁicient of self-induction of the coil. When the current
+is varied, the ﬂux linked with the coil also changes and an emf is induced
+in the coil. Using Eq. (6.15), the induced emf is given by
+
+ 
+
+gram.)
+dt
+dI
+€__LE (6.16)
+
+Thus, the self-induced emf always opposes any change (increase or
+decrease) of current in the coil.
+
+It is possible to calculate the self-inductance for circuits with simple
+geometries. Let us calculate the self-inductance of a long solenoid of cross-
+sectional area A and length I, having nturns per unit length. The magnetic
+field due to a current I ﬂowing in the solenoid is B = #0 n I (neglecting edge
+effects, as before). The total ﬂux linked with the solenoid is
+
+N¢B = (“IX/”0n I)(A)
+
+2019-20

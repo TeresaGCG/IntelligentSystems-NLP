@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+54
+fraction. The numerator of the improper fraction is the result when you
+take the product of the whole number and the denominator of the mixed
+number and add it to the numerator of the fractional part of the mixed
+number. The denominator of the improper fraction will be the same as
+the denominator of the fraction in the mixed number.
+Example 3
+Convert  to an improper fraction.
+Solution:
+The numerator of the improper fraction will be 4 × 3 + 2 = 14,
+and the denominator of the improper fraction will be 3. The
+improper fraction is:
+You can always check your answer by doing the division again. If you
+are able to convert your improper fraction into the original mixed num-
+ber, you should have confidence in your answer.
+Example 4
+Convert  to an improper fraction.
+Solution:
+The numerator of the improper fraction will be 5 × 11 + 6 = 61,
+and the denominator of the improper fraction will be 11. The
+improper fraction is:
+Converting between one form and another doesn’t really count as a
+“simplification.” One way to truly simplify fractions is to pull out fac-
+tors that are common to both the numerator and the denominator. In
+order to do this, you must completely factor both the numerator and
+the denominator and use the properties  and  . A fraction
+is reduced if the numerator and the denominator have no common fac-
+tors other than 1. Remember from Lesson 1-7 that when two numbers
+have no common factors they are called relatively prime.
+www.ebook3000.com

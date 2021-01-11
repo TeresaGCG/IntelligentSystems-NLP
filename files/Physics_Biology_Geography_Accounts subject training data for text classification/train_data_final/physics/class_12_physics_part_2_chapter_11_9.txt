@@ -1,0 +1,66 @@
+Duol Nature of Radiation
+
+and Matter
+
+0 In Einstein’s picture, the basic elementary process involved in
+photoelectric effect is the absorption of a light quantum by an electron.
+This process is instantaneous. Thus, whatever may be the intensity
+i.e., the number of quanta of radiation per unit area per unit time,
+photoelectric emission is instantaneous. Low intensity does not mean
+delay in emission, since the basic elementary process is the same.
+Intensity only determines how many electrons are able to participate
+in the elementary process (absorption of a light quantum by a single
+electron) and, therefore, the photoelectric current.
+
+Using Eq. (1 1.1), the photoelectric equation, Eq. (1 1.2), can be
+
+written as
+
+eV0=hv—¢0; for VZVO
+
+or V0: [ﬂy—E (11.4)
+e e
+
+This is an important result. It predicts that the V0 versus v curve is a
+straight line with slope = (h/ e), independent of the nature of the material.
+During 1 906- 1 9 1 6, Millikan performed a series of experiments on
+photoelectric effect, aimed at disproving Einstein’s photoelectric equation.
+He measured the slope of the straight line obtained for sodium, similar to
+that shown in Fig. 1 1.5. Using the known value of e, he determined the
+value of Planck’s constant h. This value was close to the value of Planck’s
+contant (= 6.626 X 10‘34J s) determined in an entirely different context.
+In this way, in 1 9 16, Millikan proved the validity of Einstein’s photoelectric
+equation, instead of disproving it.
+
+The successful explanation of photoelectric effect using the hypothesis
+of light quanta and the experimental determination of values of hand $0,
+in agreement with values obtained from other experiments, led to the
+acceptance of Einstein’s picture of photoelectric effect. Millikan verified
+photoelectric equation with great precision, for a number of alkali metals
+
+over a wide range of radiation frequencies.
+
+1 1.7 PARTICLE NATURE OF LIGHT: THE PHOTON
+
+Photoelectric effect thus gave evidence to the strange fact that light in
+interaction with matter behaved as if it was made of quanta or packets of
+energy, each of energy h v.
+
+Is the light quantum of energy to be associated with a particle? Einstein
+arrived at the important result, that the light quantum can also be
+associated with momentum (h v/ c). A definite value of energy as well as
+momentum is a strong sign that the light quantum can be associated
+with a particle. This particle was later named photon. The particle-like
+behaviour of light was further confirmed, in 1924, by the experiment of
+AH. Compton (1892-1962) on scattering of X-rays from electrons. In
+192 1, Einstein was awarded the Nobel Prize in Physics for his contribution
+to theoretical physics and the photoelectric effect. In 1923, Millikan was
+awarded the Nobel Prize in physics for his work on the elementary
+charge of electricity and on the photoelectric effect.
+
+We can summarise the photon picture of electromagnetic radiation
+as follows:
+
+2019-20
+
+395

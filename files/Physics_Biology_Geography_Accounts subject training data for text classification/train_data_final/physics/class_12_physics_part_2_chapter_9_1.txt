@@ -1,0 +1,65 @@
+i Physics
+
+ 
+
+them. The path is called a ray of light, and a bundle of such rays
+
+constitutes a beam of light.
+
+In this chapter, we consider the phenomena of reﬂection, refraction
+and dispersion of light, using the ray picture of light. Using the basic
+laws of reﬂection and refraction, we shall study the image formation by
+plane and spherical reﬂecting and refracting surfaces. We then go on to
+describe the construction and working of some important optical
+
+instruments, including the human eye.
+
+PARTICLE MODEL OF LIGHT
+
+Newton’s fundamental contributions to mathematics, mechanics, and gravitation often blind
+us to his deep experimental and theoretical study of light. He made pioneering contributions
+in the ﬁeld of optics. He further developed the corpuscular model of light proposed by
+Descartes. It presumes that light energy is concentrated in tiny particles called corpuscles.
+He further assumed that corpuscles of light were massless elastic particles. With his
+understanding of mechanics, he could come up with a simple model of reﬂection and
+refraction. It is a common observation that a ball bouncing from a smooth plane surface
+obeys the laws of reﬂection. When this is an elastic collision, the magnitude of the velocity
+remains the same. As the surface is smooth, there is no force acting parallel to the surface,
+so the component of momentum in this direction also remains the same. Only the component
+perpendicular to the surface, i.e., the normal component of the momentum, gets reversed
+in reﬂection. Newton argued that smooth surfaces like mirrors reﬂect the corpuscles in a
+similar manner.
+
+In order to explain the phenomena of refraction, Newton postulated that the speed of
+the corpuscles was greater in water or glass than in air. However, later on it was discovered
+that the speed of light is less in water or glass than in air.
+
+In the field of optics, Newton — the experimenter, was greater than Newton — the theorist.
+He himself observed many phenomena, which were difficult to understand in terms of
+particle nature of light. For example, the colours observed due to a thin ﬁlm of oil on water.
+Property of partial reﬂection of light is yet another such example. Everyone who has looked
+into the water in a pond sees image of the face in it, but also sees the bottom of the pond.
+Newton argued that some of the corpuscles, which fall on the water, get reﬂected and some
+get transmitted. But what property could distinguish these two kinds of corpuscles? Newton
+had to postulate some kind of unpredictable, chance phenomenon, which decided whether
+an individual corpuscle would be reﬂected or not. In explaining other phenomena, however,
+the corpuscles were presumed to behave as if they are identical. Such a dilemma does not
+occur in the wave picture of light. An incoming wave can be divided into two weaker waves
+at the boundary between air and water.
+
+9.2 REFLECTION OF LIGHT BY SPHERICAL MIRRORS
+
+We are familiar with the laws of reﬂection. The angle of reﬂection (i.e., the
+
+angle between reﬂected ray and the normal to the reﬂecting surface or
+
+the mirror) equals the angle of incidence (angle between incident ray and
+the normal). Also that the incident ray, reﬂected ray and the normal to
+the reﬂecting surface at the point of incidence lie in the same plane
+(Fig. 9.1). These laws are valid at each point on any reﬂecting surface
+
+whether plane or curved. However, we shall restrict our discussion to the
+
+3 1 0 special case of curved surfaces, that is, spherical surfaces. The normal in
+
+2019-20

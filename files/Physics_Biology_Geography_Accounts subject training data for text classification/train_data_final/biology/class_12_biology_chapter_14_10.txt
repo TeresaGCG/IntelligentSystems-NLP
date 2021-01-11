@@ -1,0 +1,58 @@
+ORGANISMS AND POPULATIONS
+
+a group of individuals resulting from even asexual reproduction is also
+generally considered a population for the purpose of ecological studies.
+All the cormorants in a wetland, rats in an abandoned dwelling, teakwood
+trees in a forest tract, bacteria in a culture plate and lotus plants in a
+pond, are some examples of a population. In earlier chapters you have
+learnt that although an individual organism is the one that has to cope
+with a changed environment, it is at the population level that natural
+selection operates to evolve the desired traits. Population ecology is,
+therefore, an important area because it links ecology to population genetics
+and evolution.
+
+A population has certain attributes whereas, an individual organism
+does not. An individual may have births and deaths, but a population has
+birth rates and death rates. In a population these rates refer to per capita
+births and deaths. The rates, hence, expressed are change in numbers
+(increase or decrease) with respect to members of the population. Here is an
+example. If in a pond there were 20 lotus plants last year and through
+reproduction 8 new plants are added, taking the current population to 28,
+we calculate the birth rate as 8/20 = 0.4 offspring per lotus per year. If 4
+individuals in a laboratory population of 40 fruitﬂies died during a speciﬁed
+time interval, say a week, the death rate in the population during that period
+is 4/40 = 0.1 individuals per fruitﬂy per week.
+
+Another attribute characteristic of a population is sex ratio. An
+individual is either a male or a female but a population has a sex ratio
+(e. g., 60 per cent of the population are females and 40 per cent males).
+
+A population at any given time is composed of individuals of
+different ages. If the age distribution (per cent individuals of a given
+age or age group) is plotted for the population, the resulting structure
+is called an age pyramid (Figure 13.4). For human population, the
+age pyramids generally show age distribution of males and females in
+a diagram. The shape of the pyramids reﬂects the growth status of
+the population - (a) whether it is growing, (b) stable or (c) declining.
+
+ 
+
+Post-reproductive
+
+Reproductive
+
+Pre-reproductive
+
+Expanding Declining
+
+Figure 13.4 Representation of age pyramids for human population
+
+The size of the population tells us a lot about its status in the habitat.
+Whatever ecological processes we wish to investigate in a population, be
+it the outcome of competition with another species, the impact of a
+
+2019—2020
+
+ 
+
+227

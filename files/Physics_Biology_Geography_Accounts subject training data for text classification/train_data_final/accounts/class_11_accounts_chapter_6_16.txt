@@ -1,0 +1,33 @@
+196 Accountancy
+
+Correct effect should have been:
+
+The rectification entry will be:
+
+4. Cash received from Karim ? 6,000 posted to Nadeem.
+This is the error of ........................................
+
+State the wrong entry recorded in the book of accounts:
+
+Correct effect should have been:
+
+The rectification entry will be:
+
+ 
+
+6. 6.2 Rectification of Errors Affecting Trial Balance
+
+The errors which affect only one account can be rectified by giving an exaplanatory
+note in the account affected or by recording a journal entry with the help of the
+Suspense Account. Suspense Account is explained later in this chapter. Examples
+of such errors are error of casting; error of carrying forward; error of balancing;
+error of posting to correct account but with wrong amount; error of posting to the
+correct account but on the wrong side; posting to the wrong side with the wrong
+amount; omitting to show an account in the trial balance.
+
+An error in the books of original entry, if discovered before it is posted to the
+ledger, may be corrected by crossing out the wrong amount by a single line and
+writing the correct amount above the crossed amount and initialling it. An error
+in an amount posted to the correct ledger account may also be corrected in a
+
+2019-2020

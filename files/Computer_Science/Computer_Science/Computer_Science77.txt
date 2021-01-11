@@ -1,0 +1,36 @@
+2.4 Representing instructions in the Computer 61
+Translating a MIPS Assembly Instruction into a Machine Instruction
+Let's do the next step in the refinement of the MIPS language as an example. EXAMPLE
+We'll show the real MIPS language version of the instruction represented
+symbolically as
+add $tO,$sl,$s2
+first as a combination of decimal numbers and then of binary numbers.
+The decimal representation is ANSWER
+o o
+17 18 8 32
+Eadl of these segm ents of an instruction is called a fie/d. The first and last fields
+(containing 0 and 32 in this case) in combination tell the MIPS computer that
+this instruction performs addition. The second field gives the number of the reg 
+ister that is the first source operand of the addition operation (17 = $s 1), and the
+third field gives the other source operand for the addition (18 = $s 2).The fourth
+field contains the number of the register that is to receive the sum (8 = $to).The
+fifth field is unused in this instruction, so it is set to O. Thus, this instruction adds
+register $s 1 to register $s 2 and places the sum in register $to.
+This instruction can also be represented as fields of binary numbers as op 
+posed to decimal:
+000000 10001 10010 01000 00000 100000
+6 bits 5 bits 5 bits 5 bits 5 bits 6 bits
+To distinguish it from assembly language, we call the numeric version of
+machine language Binary rep 
+instructions machine language and a sequence of such instructions machine code.
+resentation used for communi 
+This layout of the instruction is called the instruction format. As you can see
+cation within a computer
+from counting the number of bits, this MIPS instruction takes exactly 32 bits  system.
+the same size as a data word. In keeping with our design principle that simplicity
+instruction format A form of
+favors regularity, all MIPS instructions are 32 bits long.
+representation ofan instruction
+It would appear that you would now be reading and writing long, tedious strings of
+composed offields ofbinary
+binary numbers. We avoid that tedium by using a higher base than binary that con- numbers.

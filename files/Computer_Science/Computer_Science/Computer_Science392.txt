@@ -1,0 +1,49 @@
+376 Chapter 6 Enhancing Performance with Plpellnlng
+Data Hazards
+data hazard Also called pipe  Data hazards occur when the pipeline must be stalled because one step must wait
+line data hazard. An occurrence for another to complete. Suppose you found a sock at the folding station for
+in which a planned instruction
+which no match existed. One possible strategy is to run down to your room and
+cannot execute in the proper
+search through your clothes bureau to see if you can find the match. Obviously,
+clock cycle because data that is
+while you are doing the search, loads that have completed drying and are ready to
+needed to exeUite the instruc 
+fold and those that have finished washing and are ready to dry must wait.
+tion is not yet available.
+In a computer pipeline, data hazards arise from the dependence of one instruc 
+tion on an earlier one that is still in the pipeline (a relationship that does not really
+exist when doing laundry). For example, suppose we have an add instruction fol 
+lowed immediately by a subtract instruction that uses the sum ($ sO):
+add $sO , $tO , $t1
+sub $tZ , $sO , $t3
+Without intervention, a data hazard could severely stall the pipeline. The add
+instruction doesn't write its result until the fifth stage, meaning that we would
+have to add three bubbles to the pipeline.
+Although we could try to rely on compilers to remove all such hazards, the
+results would not be satisfactory. These dependences happen just too often and
+the delay is just too long to expect the compiler to rescue us from this dilemma.
+The primary solution is based on the observation that we don't need to wait for
+forwarding Also called
+the instruction to complete before trying to resolve the data hazard. For the code
+bypassing. A method of
+resolving a data hazard by sequence above, as soon as the ALU creates the sum for the add, we can supply it
+retrieving the missing data as an input for the subtract. Adding extra hardware to retrieve the missing item
+element from internal buffers
+early from the internal resources is called forwarding or bypassing.
+rather than waiting for it to
+arrive from programmer-visible
+registers or memory.
+Forwarding with Two Instructions
+For the two instructions above, show what pipeline stages would be con 
+EXAMPLE
+nected by forwarding. Use the drawing in Figure 6.4 to represent the datapath
+during the five stages of the pipeline. Align a copy of the datapath for each
+instruction, similar to the laundry pipeline in Figure 6.1.
+Figure 6.5 shows the connection to forward the value in $sO after the execu 
+ANSWER
+tion stage of the add instruction as input to the execution stage of the su b in 
+struction.
+In this graphical representation of events, forwarding paths are valid only if the
+destination stage is later in time than the source stage. For example, there cannot
+be a valid fonva rding path from the output of the memory access stage in the first

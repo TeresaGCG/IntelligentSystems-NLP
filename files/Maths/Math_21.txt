@@ -1,0 +1,23 @@
+Numbers
+21
+one-digit number, and add the two results together. There’s just one twist:
+When you work out the second product you must shift your numbers to
+the left by putting a 0 in the ones’ place. This is because the second
+number is in the tens’ place; you’ve already taken care of the ones’ place
+with the first product. This method will become clearer once I discuss
+the distributive property.
+Example 3
+Find the product: 32 × 43
+Solution:
+Work out the Then, focus on the 4 Now add the two
+problem 32 × 3 in 43 and multiply products together:
+(ones): 32 × 4(tens).
+Remember to put a 0
+in the ones’ place in
+the product:
+So 32 × 43= 1,376.
+Example 4
+Find the product: 68 × 23
+Solution: Break the problem up into two products: 68 × 3 (ones)
+and 68 × 2 (tens) add the results:
+So 68 × 23= 1,564.

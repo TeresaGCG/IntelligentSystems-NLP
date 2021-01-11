@@ -1,0 +1,43 @@
+2.10 Translating and Starting a Program 109
+compile and assemble each procedure independently, so that a change to one line
+would require compiling and assembling only one procedure. This alternative
+requires a new systems program, called a link editor or linker, whidl takes all the linker Also called link editor.
+independently assembled machine language programs and "stitdles" them together. A systems program that com 
+bines independently assembled
+There are three steps for the linker:
+machinelanguage programs and
+I. Place code and data modules symbolically in memory. resolves all undefined labels into
+an executable file.
+2. Determine the addresses of data and instruction labels.
+3. Patch both the internal and external references.
+The linker uses the relocation information and symbol table in each object
+module to resolve all undefined labels. Such references occur in branch instruc 
+tions, jump instructions, and data addresses, so the job of this program is much
+like that of an editor: It finds the old addresses and replaces them with the new
+addresses. Editing is the origin of the name "link editor," or linker for short. The
+reason a linker makes sense is that it is much faster to patch code than it is to
+recompile and reassemble.
+If all external references are resolved, the linker next determines the memory
+locations each module will occupy. Recall that Figure 2. 17 on page 87 shows the
+MIPS convention for allocation of program and data to memory. Since the files
+were assembled in isolation, the assembler could not know where a module's
+instructions and data will be placed relative to other modules. When the linker
+places a module in memory, all absolute references, that is, memory addresses that
+are not relative to a register, must be relocated to reflect its true location.
+The linker produces an executable file that can be run on a computer. Typi  executable file A ti.mctional
+cally, this file has the same format as an object file, except that it contains no unre  program in the fonnat ofan
+object fIle that contains no unre 
+solved references. It is possible to have partially linked files, such as library
+solved references, relocation
+routines, which still have unresolved addresses and hence result in object files.
+information, symbol table, or
+debugging information.
+Unking Object Files
+Link the two object files below. Show updated addresses of the first few in  EXAMPLE
+structions of the completed executable file. We show the instructions in as 
+sembly language just to make the example understandable; in reality, the
+instructions would be numbers.
+Note that in the object files we have highlighted the addresses and symbols
+that must be updated in the link process: the instructions that refer to the
+addresses of procedures A and B and the instructions that refer to the
+addresses of data words Xand Y.

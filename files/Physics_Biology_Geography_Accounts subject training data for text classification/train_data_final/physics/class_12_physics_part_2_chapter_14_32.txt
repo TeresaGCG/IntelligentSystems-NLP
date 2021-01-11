@@ -1,0 +1,48 @@
+Semiconductor Electronics:
+
+Materials, Devices and
+
+Simple Circuits
+
+ 
+
+14.13 You are given two circuits as shown in Fig. 14.38, which consist
+of NAND gates. Identify the logic operation carried out by the two
+
+circuits.
+
+A A
+Y Y
+B B
+
+(a) (b)
+FIGURE 14.38
+
+14.14 Write the truth table for circuit given in Fig. 14.39 below consisting
+of NOR gates and identify the logic operation (OR, AND, NOT) which
+this circuit is performing.
+
+A A
+
+B B
+FIGURE 14.39
+
+(Hint: A = 0, B = 1 then A and B inputs of second NOR gate will be 0
+and hence Y=1. Similarly work out the values of Y for other
+combinations of A and B. Compare with the truth table of OR, AND,
+
+NOT gates and ﬁnd the correct one.)
+
+14. 15 Write the truth table for the circuits given in Fig. 14.40 consisting of
+NOR gates only. Identify the logic operations (OR, AND, NOT) performed
+
+by the two circuits.
+
+ 
+
+(a) (b)
+FIGURE 14.40
+
+2019—20
+
+499

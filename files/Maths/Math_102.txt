@@ -1,0 +1,20 @@
+Homework Helpers: Basic Math and Pre-Algebra
+102
+Example 6
+Compare:  and 
+Solution: We could find the lowest common denominator and
+then compare numerators. I’d like to illustrate the second ap-
+proach here, just for a change.
+First, convert each fraction to a decimal number:
+So:  and 
+Now compare the decimal representations. Both numbers have a
+3 in the tenth’s place, so they tie.
+ has a 5 in the hundredth’s place and
+ has a 6 in the hundredth’s place, so   wins.
+Therefore
+We can also compare a fraction and a decimal number. For this com-
+parison you can either convert the fraction to a decimal number and then
+compare the two decimal numbers, or you can convert the decimal num-
+ber to a fraction, and then compare the two fractions. You will get the
+same result regardless of the method you choose.
+www.ebook3000.com

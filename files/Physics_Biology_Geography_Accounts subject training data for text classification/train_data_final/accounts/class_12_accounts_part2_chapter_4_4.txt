@@ -1,0 +1,32 @@
+170
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+Trend Analysis: It is a technique of studying the operational results and
+ﬁnancial position over a series of years. Using the previous years' data of a
+business enterprise, trend analysis can be done to observe the percentage
+changes over time in the selected data. The trend percentage is the
+percentage relationship, in which each item of different years bear to the
+same item in the base year. Trend analysis is important because, with its
+long run view, it may point to basic changes in the nature of the business.
+By looking at a trend in a particular ratio, one may ﬁnd whether the ratio
+is falling, rising or remaining relatively constant. From this observation, a
+problem is detected or the sign of good or poor management is detected.
+
+Ratio Analysis: It describes the significant relationship which exists
+between various items of a balance sheet and a statement of proﬁt and
+loss of a ﬁrm. As a technique of ﬁnancial analysis, accounting ratios measure
+the comparative signiﬁcance of the individual items of the income and
+position statements. It is possible to assess the proﬁtability, solvency and
+efﬁciency of an enterprise through the technique of ratio analysis.
+
+Cash Flow Analysis: It refers to the analysis of actual movement of cash
+into and out of an organisation. The ﬂow of cash into the business is called
+as cash inﬂow or positive cash ﬂow and the ﬂow of cash out of the ﬁrm is
+called as cash outﬂow or a negative cash ﬂow. The difference between the
+inﬂow and outﬂow of cash is the net cash ﬂow. Cash ﬂow statement is
+prepared to project the manner in which the cash has been received and
+has been utilised during an accounting year as it shows the sources of
+cash receipts and also the purposes for which payments are made. Thus,
+it summarises the causes for the changes in cash position of a business
+enterprise between dates of two balance sheets.

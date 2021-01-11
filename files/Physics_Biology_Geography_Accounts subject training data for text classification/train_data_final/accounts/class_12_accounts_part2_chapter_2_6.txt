@@ -1,0 +1,64 @@
+78 Accountancy : Company Accounts and Analysis of Financial Statements
+
+2.4.2 Issue of Debentures at a Discount
+
+When a debenture is issued at a price below its nominal value, it is said to be
+issued at a discount. For example, the issue of Rs. 100 debentures at Rs. 95,
+Rs. 5 being the amount of discount. Discount on issue of debentures is a capital
+loss and is shown under the line item ‘Other Non-Current Assets' or ‘Other
+Current Assets’ depending upon the time period in which it is to be written off.
+The discount on issue of debentures can be written off either by debiting it to
+Statement of Proﬁt and Loss or out of Securities Premium Reserve A/c, if any,
+during the life time of debentures.
+
+Discount on issue of debentures to be written off within 12 months of the
+balance sheet date or the period of operating cycle is shown under ‘Other Current
+Assets' and the part which is to be written off after 12 months of balance sheet is
+shown under ‘Other Non-Current Assets'.
+
+The Companies Act, 2013 does not impose any restrictions upon the issue
+
+of debentures at a discount.
+Illustration 2
+
+TV Components Ltd., issued 10,000, 12% debentures of Rs 100 each at a
+discount of 5% payable as follows:
+
+On application Rs 40
+
+On allotment Rs 55
+
+Show the journal entries including those for cash, assuming that all the
+instalments were duly collected. Also show the relevant portion of the balance sheet.
+
+Solution:
+Books of TV Components Ltd.
+
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(R5) (R5)
+
+Bank A/c Dr. 4.00.000
+To 12% Debenture Application A/c 4.00.000
+
+(Receipt of application money @ Rs 30 per
+debenture)
+
+12% Debenture Application A/c .
+To 12% Debenture A/c 4.00.000
+
+(Transfer of application money to debenture
+account)
+
+12% Debenture Allotment A/c . 5.50.000
+
+Discount on Issue of Debentures A/c 50,000
+
+To 12% Debenture A/c 6.00.000
+(AlloiInent money due on debentures)
+
+BankA/c . 5.50.000
+To 12% Debenture Allotment A/c 5.50.000
+(Receipt of allotment money on debentures)

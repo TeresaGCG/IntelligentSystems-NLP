@@ -1,0 +1,79 @@
+Moving Charges and
+Magnetism
+
+ﬁeld vanish (become zero) if velocity and magnetic ﬁeld are parallel
+or anti-parallel. The force acts in a (sideways) direction perpendicular
+
+to both the velocity and the magnetic ﬁeld.
+
+Its direction is given by the screw rule or
+
+right hand rule for vector (or cross) product
+
+as illustrated in Fig. 4.2.
+
+(iii) The magnetic force is zero if charge is not
+moving (as then Iv | = 0). Only a moving
+charge feels the magnetic force.
+
+The expression for the magnetic force helps
+us to deﬁne the unit of the magnetic ﬁeld, if
+one takes q, F and v, all to be unity in the force
+equationF= q[v X B] =qusin 0 11, where 9
+is the angle between v and B [see Fig. 4.2 (a)].
+The magnitude of magnetic field B is 1 SI unit,
+when the force acting on a unit charge (1 C),
+moving perpendicular to B with a speed 1m/s,
+is one newton.
+
+Dimensionally, we have [B] = [F/qv] and the unit
+
+of B are Newton second / (coulomb metre). This
+
+unit is called tesla (T) named after Nikola Tesla
+
+ 
+
+ 
+
+FIGURE 4.2 The direction of the magnetic
+force acting on a charged particle. (at) The
+force on a positively charged particle with
+velocity v and making an angle 9 with the
+magnetic field B is given by the right»hand
+rule. (b) A moving charged particle q is
+deﬂected in an opposite sense to —q in the
+presence of magnetic field.
+
+(1856 — 1943). Tesla is a rather large unit. A smaller unit (non-SI) called
+gauss (= 1041 tesla) is also often used. The earth’s magnetic ﬁeld is about
+3.6 X 10‘5 T. Table 4.1 lists magnetic ﬁelds over a wide range in the
+
+universe.
+
+TABLE 4. 1 ORDER OF MAGNITUDES OF MAGNETIC FIELDS IN A VARIETY OF PHYSICAL SITUATIONS
+
+Surface of a neutron star
+
+Typical large ﬁeld in a laboratory
+Near a small bar magnet
+
+On the earth’s surface
+
+Human nerve ﬁbre
+
+Interstellar space
+
+108
+
+4.2.3 Magnetic force on a current-carrying conductor
+
+We can extend the analysis for force due to magnetic field on a single
+moving charge to a straight rod carrying current. Consider a rod of a
+uniform cross-sectional area A and length 1. We shall assume one kind
+of mobile carriers as in a conductor (here electrons). Let the number
+density of these mobile charge carriers in it be n. Then the total number
+of mobile charge carriers in it is nlA. For a steady current I in this
+conducting rod, we may assume that each mobile carrier has an average 135
+
+2019-20

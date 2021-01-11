@@ -1,0 +1,40 @@
+516 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Hardware The page table, together with the program counter and the registers, specifies the
+state of a program. If we want to allow another program to use the processor, we
+Software
+must save this state. Later, after restoring this state, the program ca n continue
+Interface
+execution. 'lVe often refer to this state as a process. The process is considered active
+when it is in possession of the processor; otherwise, it is considered inactive. The
+operating system can make a process active by loading the process's state, includ 
+ing the program counter, which will initiate execution at the value of the saved
+program counter.
+The process's address space, and hence all the data it can access in memory, is
+defined by its page table, which resides in memory. Rather than save the entire
+page table, the operating system simply loads the page table register to point to
+the page table of the process it wants to make active. Each process has its own page
+table, since different processes use the same virtual addresses. The operating sys 
+tem is responsible for allocating the physical memory and updating the page
+tables, so that the virtual address spaces of different processes do not collide. Ai;
+we will see shortly, the use of separate page tables also provides protection of one
+process from another.
+Figure 7.2 1 uses the page table register, the virtual address, and the indicated
+page table to show how the hardware can form a physical address. A valid bit is
+used in each page table entry, just as we did in a cache. If the bit is off, the page is
+not present in main memory and a page fault occurs. If the bit is on, the page is
+in memory and the entry contains the physical page number.
+Because the page table contains a mapping for every possible virtual page, no
+tags are required. In cache terminology, the index that is used to access the page
+table consists of the full block address, which is the virtual page number.
+Page Faults
+If the valid bit for a virtual page is off, a page fault occurs. The operating system
+must be given control. This transfer is done with the exception mechanism, which
+we discuss later in this section. Once the operating system gets control, it must
+find the page in the next level of the hiera rchy (usually magnetic disk) and decide
+where to place the requested page in main memory.
+The virtual address alone does not immediately tell us where the page is on
+disk. Returning to our library analogy, we cannot find the location of a library
+book on the shelves just by knowing its title. Instead, we go to the catalog and look
+up the book, obtaining an address for the location on the shelves, such as the
+Library of Congress call number. Likewise, in a virnlal memory system, we must
+keep track of the location on disk of each page in virtual address space.

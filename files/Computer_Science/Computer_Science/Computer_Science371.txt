@@ -1,0 +1,37 @@
+5.13 Exercises 355
+5.7 [2-3 monthsJ <§§5.1-5.4> Using standa rd pa rts, build a machine that imple 
+ments the single-cycle machine in this chapter.
+5.8 [ 15J <§5.4> We wish to add the instruction j r Uump register) to the single-cy 
+cle datapath described in this chapter. Add any necessary datapaths and control sig 
+nals to the single-cycle datapath of Figure 5. 17 on page 307 and show the necessary
+additions to Figure 5. 18 on page 308. You can photocopy these figures to make it
+faster to show the additions.
+5.9 [ IOJ <§5.4> This question is similar to Exercise 5.8 except that we wish to add
+the instruction s 11 (shift left logical), which is described in Section 2.5.
+5.10 [IS) <§5.4> This question is similar to Exercise 5.8 except that we wish to
+add the instruction 1ui (load upper immediate), which is described in Section 2.9.
+5.11 (20) <§5.4> This question is similar to Exercise 5.8 except that we wish to
+add a variant ofthe 1w(load word) instruction, which increments the index regis 
+ter after loading word from memory. This instruction (1_i ne) corresponds to the
+following two instructions:
+1w $rs,l($rt l
+addi $rt,$rt,l
+5.12 [5 J <§5.4> Explain why it is not possible to modify the single-cycle imple 
+mentation to implement the load with increment instruction described in Exercise
+5. 12 without modifying the register file.
+5.13 [7J <§5.4> Consider the single-cycle datapath in Figure 5. 17. Afriend is pro 
+posing to modify this single-cycle datapath by eliminating the control signal Mem 
+toReg. The multiplexor that has MemtoReg as an input will instead use either the
+ALUSrc or the MemRead control signal. Will your friend's modification work?
+Can one of the two signals (MemRead and ALUSrc) substitute for the other? Ex 
+plain.
+5.14 (10 ) <§5.4> MIPS chooses to simplify the structure of its instructions. The
+way we implement complex instructions through the use of MIPS instructions is
+to decompose such complex instructions into multiple simpler MIPS ones. Show
+how MIPS can implement the instruction swap $r s, $rt, which swaps the con 
+tents of registers $r sand $rt. Consider the case in which there is an available reg 
+ister that may be destroyed as well as the care in which no such register exists.
+If the implementation of this instruction in hardware will increase the clock period
+of a single-instruction implementation by 10%, what percentage of swap operations
+in the instruction mix would recommend implementing it in hardware?
+5.15 [5J <§5.4> . For More Practice: Effects of Faults in Control Multiplexors

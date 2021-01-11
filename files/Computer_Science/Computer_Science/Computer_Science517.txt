@@ -1,0 +1,38 @@
+7.3 Measuring and Improving Cache Performance 501
+. .
+Contents of cache blocks after reference
+Address of memory
+block accessed Set 0 Set 0 Set 1 Set 1
+0 miss Memory(O]
+8 miss Memory[O) Memory[8)
+0 hit Memory[O) Memory[8]
+6 miss Memory[O) Memory[6)
+8 miss Memory(8] Memory[6]
+Notice that when block 6 is referenced, it replaces block 8, since block 8 has
+o.
+been less recently referenced than block The two-way set-associative cache
+has four misses, one less than the direct-mapped cache.
+The fully associative cache has four cache blocks (in a single set); any memo 
+ry block can be stored in any cache block. The fully associative cache has the
+best performance, with only three misses:
+. .
+Contents of cache blocks after reference
+Address of memory
+block accessed Block 0 Block 1 Block 2 Block 3
+0 miss Memory(O]
+8 miss Memory[O) Memory[8)
+0 hit Memory[O) Memory[8]
+6 miss Memory[O) Memory[8] Memory(6)
+8 hit Memory[O) Memory[8] Memory[6]
+For this series of references, three misses is the best we can do because three
+unique block addresses are accessed. Notice that if we had eight blocks in the
+cache, there would be no replacements in the two-way set-associative cache
+(check this for yourself), and it would have the same number of misses as the
+fully associative cache. Similarly, if we had ]6 blocks, all three caches would
+have the same number of misses. This change in miss rate shows us that cache
+size and associativity are not independent in determining cache performance.
+How much of a reduction in the miss rate is achieved by associativity? Figure 7.] 5
+shows the improvement for the SPEC2000 bendlmarks for a 64 KB data cache with
+a ]6-word block, and associativity ranging from direct mapped to eight-way. Going
+from one-way to two-way associativity decreases the miss rate by about ]5%, but
+there is little further improvement in going to higher associativity.

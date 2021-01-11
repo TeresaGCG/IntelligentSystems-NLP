@@ -1,0 +1,142 @@
+18
+
+PHYSICS
+
+ 
+
+Table 2.2 Some units retained for general use (Though outside SI)
+
+roentgen
+
+quintal
+
+barn
+
+are
+
+hectare
+
+standard atmospheric pressure
+
+Note that when mole is used, the elementary
+entities must be specified. These entities
+may be atoms, molecules, ions, electrons,
+other particles or specified groups of such
+particles.
+
+We employ units for some physical quantities
+that can be derived from the seven base units
+(Appendix A 6). Some derived units in terms of
+the SI base units are given in (Appendix A 6.1).
+Some SI derived units are given special names
+(AppendixA 6.2) and some derived SI units make
+use of these units with special names and the
+seven base units (Appendix A 6.3). These are
+given in AppendixA 6.2 and A 6.3 for your ready
+reference. Other units retained for general use
+are given in Table 2.2.
+
+Common SI preﬁxes and symbols for multiples
+and sub-multiples are given in Appendix A2.
+General guidelines for using symbols for physical
+quantities, chemical elements and nuclides are
+given in Appendix A7 and those for SI units and
+some other units are given in Appendix A8 for
+your guidance and ready reference.
+
+2.3 MEASUREMENT OF LENGTH
+
+You are already familiar with some direct methods
+for the measurement of length. For example, a
+metre scale is used for lengths from 10’3m to 102
+m. A vernier callipers is used for lengths to an
+accuracy of 10‘4 m. A screw gauge and a
+spherometer can be used to measure lengths as
+less as to l O’5m. To measure lengths beyond these
+ranges, we make use of some special indirect
+methods.
+
+2019-20
+
+5‘
+F3
+
+930‘an
+
+5‘
+SD
+
+ 
+
+h
+d
+X
+L
+t
+C
+
+60 min = 3600 s
+
+24 h = 86400 s
+
+365.25 d = 3.156 x 107 5
+1° = (11/ 180) rad
+
+I dma = 10“3 m3
+
+103 kg
+
+200 mg
+
+0.1 MPa = 105Pa
+
+3.7 x 10‘0 s“
+
+2.58 x 10“ C/kg
+
+100 kg
+
+100 fm2= 10‘28 m2
+
+1 dam“ = 10‘ m2
+
+1 hm2 = 104 m2
+
+101325 Pa = 1.013 x 105 Pa
+
+2.3.1 Measurement of Large Distances
+
+Large distances such as the distance of a planet
+or a star from the earth cannot be measured
+directly with a metre scale. An important method
+in such cases is the parallax method.
+
+When you hold a pencil in front of you against
+some specific point on the background (a wall)
+and look at the pencil first through your left eye
+A (closing the right eye) and then look at the
+pencil through your right eye B (closing the left
+eye), you would notice that the position of the
+pencil seems to change with respect to the point
+on the wall. This is called parallax. The
+distance between the two points of observation
+is called the basis. In this example, the basis is
+the distance between the eyes.
+
+To measure the distance D of a far away
+planet S by the parallax method, we observe it
+from two different positions (observatories) A and
+B on the Earth, separated by distance AB = b
+at the same time as shown in Fig. 2.2. We
+measure the angle between the two directions
+along which the planet is viewed at these two
+points. The AASB in Fig. 2.2 represented by
+symbol 0 is called the parallax angle or
+parallactic angle.
+
+As the planet is very far away, 5 << 1, and
+
+therefore, 0 is very small. Then we
+
+approximately take AB as an arc of length b of a
+circle with centre at S and the distance D as

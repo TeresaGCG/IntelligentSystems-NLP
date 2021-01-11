@@ -1,0 +1,41 @@
+4.4 Real Stuff: Two SPEC Benchmarks and the Performance of Recent Intel Processors 25.
+\Vhich of the following statements is true?
+a. A is faster than B for program 1.
+b. A is faster than B for program 2.
+c. A is faster than B for a workload with equal numbers of executions of pro 
+gram I and 2.
+d. A is faster than B for a workload with twice as many executions of program
+I as of program 2.
+Real Stuff: Two SPEC Benchmarks
+and the Performance of Recent
+Intel Processors
+SPEC (System Performance Evaluation Corporation) is an effort fund ed and
+supported by a number of computer vendors to create standard sets of bench 
+marks for modern computer systems. It began in 1989 focusing on benchmark 
+ing workstations and servers using CPU-intensive benchmarks. (A more
+detailed history is contained in Section 4.7.) Today, SPEC offers a dozen differ 
+ent benchmark sets designed to test a wide variety of computing environments
+using real applications and strictly specified execution rules and reporting
+requirements. The SPEC benchmark sets include benchmarks for CPU perfor 
+mance, graphics, high -performance computing, object-oriented computing,
+lava applications, client-server models, mail systems, file systems, and \Veb serv 
+ers. In this section, we examine the performance of a variety of Dell computer
+systems that use Pentium III and Pentium 4 processors using a CPU perfor 
+mance benchmark and a Web-oriented system benchmark.
+Performance with SPEC CPU Benchmarks
+The latest release of the SPEC CPU benchmarks is the SPEC CPU2000 suite, system performance evalua 
+which consists of 12 integer and 14 floating-point programs, as shown in Figure tion cooperative (SPEC)
+benchmark A set ofstandard
+4.5. The SPEC CPU benchmarks are intended to measure CPU performance,
+CPU-intensive, integer and
+although wall clock time is the reported measurement. Separate summaries are
+floating point benchmarks
+reported for the integer and floating-point benchmark sets. The execution time
+based on real programs.
+measurements are first normalized by dividing the execution time on a Sun Ultra
+5_ 10 with a 300 MHz processor by the execution time on the measu red computer;
+this normalization yields a measure, called the SPEC ratio, which has the advan 
+tage that bigger numeric results indicate faster performance (i.e., SPEC ratio is the
+inverse of execution time). A CINT2000 or C FP2000 summary measurement is
+obtained by taking the geometric mean of the SPEC ratios. (See the In More
+Depth section on the CD for a discussion of trade-offs in using geometric mean.)

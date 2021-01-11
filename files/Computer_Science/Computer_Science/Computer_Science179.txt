@@ -1,0 +1,48 @@
+3.2 Signed and Unsigned Numbers 163
+Given that there was no obvious better alternative, the final solution was to
+pick the representation that made the hardware simple: leading as mean positive,
+and leading Is mean negative. This convention for representing signed binary
+numbers is called two's complement representation:
+0000 0000 0000 0000 0000 0000 0000 OOOOtwo - ° ten
+0000 0000 0000 0000 0000 0000 0000 0001 two - 1ten
+0000 0000 0000 0000 0000 0000 0000 0010two - 2ten
+0111 111111111111 11111111 1111 1101 - 2 , 147 ,4 83 , 645
+two ten
+0111 111111111111 11111111 11111110 - 2 , 147 ,4 83 , 646
+two ten
+0111 111111111111 11111111 11l1l1l1two - 2 , 147 ,4 83 , 647 ten
+1000 0000 0000 0000 0000 0000 0000 OOOOtwo - - 2 , 147 ,4 83 , 648
+ten
+1000 0000 0000 0000 0000 0000 0000 0001 - - 2 , 147 ,4 83 , 647 ten
+two
+1000 0000 0000 0000 0000 0000 0000 0010 - - 2 , 147 ,483 , 646
+two ten
+1111 111111111111 11111111 11111101 two - - 3ten
+1111 111111111111 11111111 11111110two - - 2ten
+1111 111111111111 11111111 1111 11 11 two - - l ten
+31
+The positive half of the numbers, from a to 2, 147,483,647 (2 - I), use the
+ten
+same representation as before. The following bit pattern (1000 ... ooOOt\o,"o) rep 
+31
+resents the most negative number -2, 147,483,648 (_2 ). It is followed by a
+ten
+declining set of negative numbers: -2, I47,483,647 (1000 ... 000 Itwo) down to
+ten
+- Iten(i lll ... llil two)·
+Two's complement does have one negative number, -2, 147,483,648 , that has
+ten
+no corresponding positive number. Such imbalance was a worry to the inattentive
+programmer, but sign and magnitude had problems for both the programmer and
+the hardware designer. Consequently, every computer today uses two's comple 
+ment binary representations for signed numbers.
+Two's complement representation has the advantage that all negative numbers
+have a I in the most significa nt bit. Consequently, hardware needs to test only this
+bit to see if a number is positive or negative (with a considered positive). This bit
+is often called the sign bit. By recognizing the role of the sign bit, we can represent
+positive and negative 32-bit numbers in terms of the bit value times a power of 2:
+31 29 1
+(x3 1 X_2 ) + (x30 X230) + (x29 X2 ) + ... + (x l X2 ) + (xOX20)
+31
+The sign bit is multiplied by _2 , and the rest of the bits are then multiplied by
+positive versions of their respective base values.

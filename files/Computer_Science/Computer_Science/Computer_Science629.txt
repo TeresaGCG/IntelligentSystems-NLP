@@ -1,0 +1,37 @@
+8.12 Exercises 613
+fd open( "r aw disk device " ) ;
+=
+fo r (i 0 ; i < measurement s ; i ++ ) (
+=
+Ii t ime t he f ollowing sequence , and out put <i , t ime>
+lsee k(fd , i * SINGL E_S ECTOR , SEE K_CUR) ;
+wri t e(fd , bu ffer , SI NGL E_S ECTOR) ;
+I
+close( f d) ;
+The basic algorithm skips through the disk, increasing the distance of the seek by
+one sector before every write, and outputs the distance and time for each write.
+The raw device interface is used to avoid file system optimizations. SI NGL E_
+SECTOR is the size of a single sector in bytes. The SEE K_CU Rargument to 1see k
+moves the file pointer an amount relative to the current pointer. A technical
+report describing Skippy and two other disk drive benchmarks (run in seconds or
+minutes rather than hours or days) is at http://sunsite.berkeley.edli/DienstIUI/2.01
+Describe/ncstrl.lIcb/CSD-99-1063.
+Run the Skippy algorithm on a disk drive of your choosing.
+a. What is the number of heads?
+b. The number of platters?
+c. What is the rotational latency?
+d. What is the head switch time (the time to switch the head that is reading
+from one disk surface to another without moving the arm; that is, in the
+same cylinder)?
+e. What is the cylinder switch time? (It is the time to move the arm to the next
+sequential cylinder.)
+8.7 (20J <§8.3> Figure 8.1 7 shows the output from running the benchmark
+Skippy on a disk.
+a. What is the number of heads?
+b. The number of platters?
+c. What is the rotational latency?
+d. What is the head switch time (the time to switch the head that is reading
+from one disk surface to another without moving the arm; that is, in the
+same cylinder)?
+e. What is the cylinder switch time (the time to move the arm to the next
+sequential cylinder)?

@@ -1,0 +1,71 @@
+144
+
+ 
+
+ 
+
+ 
+
+i Physics
+
+ 
+
+(iii) The electrostatic field is along the displacement vector joining the
+source and the ﬁeld point. The magnetic ﬁeld is perpendicular to the
+plane containing the displacement vector 1' and the current element
+I dl.
+
+(iv) There is an angle dependence in the Biot—Savart law which is not
+present in the electrostatic case. In Fig. 4.9, the magnetic field at any
+point in the direction of dl (the dashed line) is zero. Along this line,
+9 = 0, sin 6 = O and from Eq. [4.1 1(a)], IdBI = 0.
+
+There is an interesting relation between 80, the permittivity of free
+space; ,uo, the permeability of free space; and c, the speed of light in
+vacuum:
+
+ 
+
+#0 1 —7 1 1
+= 4 _ 2 2— __
+80% (“a“) 4n 9x109 (10 ) (3x108)2 c2
+
+We will discuss this connection further in Chapter 8 on the
+electromagnetic waves. Since the speed of light in vacuum is constant,
+the product #080 is fixed in magnitude. Choosing the value of either so or
+
+,uo, fixes the value of the other. In 81 units, #0 is fixed to be equal to
+47: X 10‘7 in magnitude.
+
+Example 4.5 An element Al 2 Axi is placed at the origin and carries
+
+a large current I = 10 A (Fig. 4.10). What is the magnetic field on the
+y-aXis at a distance of 0.5 m. Ax = 1 cm.
+
+ 
+
+—*Ax‘—
+
+FIGURE 4.10
+Solution
+I dl sin (9
+IdB I = 5—; r—, [using Eq. (4.1 1)]
+
+dl=Ax=lO'2m,I=lOA, r=0.5m=y, ﬂO/4n=10'7TTm
+
+0=90°;sin0=l
+
+10“7 x 10 x 10'2
+25 x 10'2
+The direction of the field is in the +z-direction. This is so since,
+
+|dB| = = 4 x 10‘8 T
+
+dlxr=Axixyj = yAX(i><i) =yAxf:
+
+We remind you of the following cyclic property of cross-products,
+ixj=li;jxli=i;lixi=j
+
+Note that the field is small in magnitude.
+
+2019-20

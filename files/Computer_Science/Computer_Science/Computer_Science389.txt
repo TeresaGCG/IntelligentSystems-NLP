@@ -1,0 +1,65 @@
+6.1 An Overview of Plpellnlng 373
+. .
+Instruction ALU Dl!IIlRl!lII· I
+liiiillaill .
+Instruction class fetch operation
+Load word (1 w) 200 ps 100 ps 200 ps 200 ps 100 ps 800 ps
+Store word (sw) 200 ps 100 ps 200 ps 200 ps 700 ps
+R.fonnat (add, sub, and, 200 ps 100 ps 200 ps 100 ps 600 ps
+or, s1t)
+Branch (beq) 200 ps 100 ps 200 ps 500 ps
+FIGURE 6.2 Total time for each Instruction calculated from the time for each compo 
+nent. This calculation assumes that the multiplexors, control unit, PC accesses, and sign extension unit
+have no delay.
+Program
+4CO~O,--_60~O,----,8~OCO_--,'~OOO::.:c_C12~OC0,--,--'4~OO=-_'C6~OO=-_'"8~O"O<.
+execution C2OO;::-__
+order Time I •
+(in instructions) ...
+..,
+0_1_ ",
+Iw $1, 100($0) Ilnsll\lCllon "0
+, ~
+,
+• ..
+Insll\lCllon 0_1...
+Iw $2, 200($0) 800 ps '" "0
+f~lch ~,~
+• •
+Insll\lCllon
+Iw $3, 300($0) 800ps
+f~lch
+•
+•••
+800 ps
+Program
+~
+execution 2_0rO__4_0,0--__6_0,-0-__8,OO 'O,O_O__1,2O_O _'_4,0-0__
+order Time •
+(in instructions)
+",
+Iw $1, 100($0) Inst,u,,c"1lon "" "0 O_la
+..
+~
+Instl\lCllon ", O_t_
+Iw $2, 200($0) 200 ps "0 ""
+lelch
+~~
+,
+..
+",
+Instruction 0••
+Iw $3, 300($0) "0
+200 ps
+fetch _o:e...
+, , ,
+• • • • • • •
+200 ps 200 ps 200 ps 200 ps 200 ps
+FIGURE 6.3 Single-eycle, nonplpellned execution In top versus plpellned execution In
+bottom. Both U'ie the &1me hardware components, whose time is listed in Figure 6.2. In this case we see a
+fourfold speedup on average time between instructions, from BOO ps down to 200 ps. Compare this figure to
+Figure 6.1. For the laundry, we assumed aU stages were equal. If the dryer were slowest, then the dryer stage
+would set the stage time. The computer pipeline stage times are limited by the slowest resource, either the
+ALU operation or the memory access. We assume the write to the register file occurs in the first half of the
+clock cycle and the read from the register file occurs in the second half. We use this asswnption throughout
+this chapter.

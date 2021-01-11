@@ -1,0 +1,77 @@
+Wove Optics
+
+ 
+
+(In each operation, take all parameters, other than the one specified,
+to remain unchanged.)
+
+Solution
+
+(61)
+
+(b)
+
+(C)
+
+(d)
+
+(e)
+
+(f)
+
+Angular separation of the fringes remains constant
+(= xi/d). The actual separation of the fringes increases in
+proportion to the distance of the screen from the plane of the
+two slits.
+
+The separation of the fringes (and also angular separation)
+decreases. See, however, the condition mentioned in (d) below.
+
+The separation of the fringes (and also angular separation)
+decreases. See, however, the condition mentioned in ((1) below.
+
+Let s be the size of the source and S its distance from the plane of
+the two slits. For interference fringes to be seen, the condition
+s/S < M d should be satisfied; otherwise, interference patterns
+produced by different parts of the source overlap and no fringes
+are seen. Thus, as S decreases (i.e., the source slit is brought
+closer), the interference pattern gets less and less sharp, and
+when the source is brought too close for this condition to be valid,
+the fringes disappear. Till this happens, the fringe separation
+remains fixed.
+
+Same as in (d). As the source slit width increases, fringe pattern
+gets less and less sharp. When the source slit is so Wide that the
+condition 3/8 S X/d is not satisfied, the interference pattern
+disappears.
+
+The interference patterns due to different component colours of
+white light overlap (incoherently). The central bright fringes for
+different colours are at the same position. Therefore, the central
+fringe is ”white. For a point P for which SZP —SIP = 7‘12/ 2, where 7‘1:
+(z 4000 A) represents the wavelength for the blue colour, the blue
+component will be absent and the fringe will appear red in colour.
+Slightly farther away where 829—819 = 7‘1; = 7»/ 2 where Kr (22 8000 A)
+is the wavelength for the red colour, the fringe will be predominantly
+blue.
+
+Thus, the fringe closest on either side of the central white fringe
+is red and the farthest will appear blue. After a few fringes, no
+clear fringe pattern is seen.
+
+10.6 DIFFRACTION
+
+If we look clearly at the shadow cast by an opaque object, close to the
+region of geometrical shadow, there are alternate dark and bright regions
+just like in interference. This happens due to the phenomenon of
+diffraction. Diffraction is a general characteristic exhibited by all types of
+waves, be it sound waves, light waves, water waves or matter waves. Since
+the wavelength of light is much smaller than the dimensions of most
+obstacles; we do not encounter diffraction effects of light in everyday
+observations. However, the ﬁnite resolution of our eye or of optical
+
+2019-20
+
+f'OI snmvxq
+
+367

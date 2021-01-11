@@ -1,0 +1,58 @@
+Roy Optics and
+Opmnlmﬁmmems
+
+ 
+
+Example 9.1 Suppose that the lower half of the concave mirror’s
+reﬂecting surface in Fig. 9.5 is covered with an opaque (non-reﬂective)
+material. What effect will this have on the image of an object placed
+in front of the mirror?
+
+Solution You may think that the image will now show only half of the
+object, but taking the laws of reﬂection to be true for all points of the
+remaining part of the mirror, the image wﬂl be that of the whole object.
+However, as the area of the reﬂecting surface has been reduced, the
+intensity of the image will be low (in this case, hali).
+
+Example 9.2 A mobile phone lies along the principal axis of a concave
+mirror, as shown in Fig. 9.7. Show by suitable diagram, the formation
+of its image. Explain why the magniﬁcation is not uniform. Wiﬂ the
+distortion of image depend on the location of the phone with respect
+to the mirror?
+
+ 
+
+ 
+
+FIGURE 9.7
+
+Solution
+
+The ray diagram for the formation of the image of the phone is shown
+in Fig. 9.7. The image of the part which is on the plane perpendicular
+to principal axis will be on the same plane. It will be of the same size,
+i.e., B’C = BC. You can yourself realise why the image is distorted.
+
+Example 9.3 An object is placed at (i) 10 cm, (ii) 5 cm in front of a
+concave mirror of radius of curvature 15 cm. Find the position, nature,
+and magnification of the image in each case.
+
+Solution
+The focal lengthf= —15/2 cm = —7.5 cm
+(i)The object distance u = —10 cm. Then Eq. (9.7) gives
+
+ 
+
+l L _ L
+U —10 —7.5
+v- le7.5 _ 30
+or — _2.5 — — cm
+The image is 30 cm from the mirror on the same side as the object.
+. . . _ 15%“
+Also, magnification m — u (_10)
+
+The image is magniﬁed, real and inverted.
+
+315
+
+2019-20

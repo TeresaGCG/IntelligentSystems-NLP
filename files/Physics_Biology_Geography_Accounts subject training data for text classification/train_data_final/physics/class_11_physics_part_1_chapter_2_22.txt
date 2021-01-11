@@ -1,0 +1,36 @@
+38
+
+return after reﬂection at the Moon’s surface. How much is the radius of the lunar
+orbit around the Earth ?
+
+2.30 A SONAR [sound navigation and ranging) uses ultrasonic waves to detect and locate
+objects under water. In a submarine equipped with a SONAR, the time delay between
+generation of a probe wave and the reception of its echo after reﬂection from an
+enemy submarine is found to be 77.0 s. What is the distance of the enemy submarine?
+(Speed of sound in water = 1450 m s4].
+
+2.3 1 The farthest objects in our Universe discovered by modern astronomers are so distant
+that light emitted by them takes billions of years to reach the Earth. These objects
+[known as quasars] have many puzzling features, which have not yet been satisfactorily
+explained. What is the distance in km of a quasar from which light takes 3.0 billion
+years to reach us ?
+
+2.32 It is a well known fact that during a total solar eclipse the disk of the moon almost
+completely covers the disk of the Sun. From this fact and from the information you
+can gather from examples 2.3 and 2.4, determine the approximate diameter of the
+moon.
+
+2.33 A great physicist of this century [P.A.M. Dirac] loved playing with numerical values of
+Fundamental constants of nature. This led him to an interesting observation. Dirac
+found that from the basic constants of atomic physics (0, e, mass of electron, mass of
+proton] and the gravitational constant G, he could arrive at a number with the
+dimension of time. Further, it was a very large number, its magnitude being close to
+the present estimate on the age of the universe [~15 billion years]. From the table of
+fundamental constants in this book, try to see if you too can construct this number
+[or any other interesting number you can think of ]. If its coincidence with the age of
+the universe were significant, what would this imply for the constancy of fundamental
+constants?
+
+2019-20
+
+PHYSICS

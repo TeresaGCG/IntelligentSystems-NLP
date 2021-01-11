@@ -1,0 +1,137 @@
+172
+
+PHYSICS
+
+p = mv,
+l=(Omev)+(Cmev)
+
+The magnitude of the linear velocity v of the
+particle at P is given by v = cori where ri is the
+length of GP or the perpendicular distance of P
+from the axis of rotation. Further, v is tangential
+at P to the circle which the particle describes.
+Using the right-hand rule one can check that
+Cva is parallel to the fixed axis. The unit
+vector along the fixed axis (chosen as the z—axis)
+is 1; . Hence
+
+/\
+
+CP><mv=rl(mv)k
+
+= mrfw’ﬁ (since v: 6011)
+
+Similarly, we can check that 00 Xv is
+perpendicular to the fixed axis. Let us denote
+the part of 1 along the fixed axis (i.e. the z-axis)
+by 12, then
+
+lZ = Cmev = mrfwﬁ
+
+and l=lZ+OC><mv
+
+We note that 12 is parallel to the fixed axis,
+but] is not. In general, for a particle, the angular
+momentum l is not along the axis of rotation,
+i.e. for a particle, l and a) are not necessarily
+parallel. Compare this with the corresponding
+fact in translation. For a particle, p and v are
+always parallel to each other.
+
+For computing the total angular momentum
+of the whole rigid body, we add up the
+contribution of each particle of the body.
+
+Thus L=Zli=21iz +20Ci xmivi
+
+We denote by L i and LZ the components
+
+of L respectively perpendicular to the z—axis
+and along the z-axis;
+
+Li = Z 00, x mivi (7.44a)
+
+where m. and vi are respectively the mass and
+the velocity of the Eh particle and C1 is the centre
+of the circle described by the particle;
+
+and Lz=zliz=[z mirizjwk
+
+or L2 2 leaf: (7.44b)
+
+The last step follows since the perpendicular
+distance of the {“1 particle from the axis is r1;
+and by definition the moment of inertia of the
+
+body about the axis of rotation is I = 2 min? .
+
+2019-20
+
+Note L =LZ + Ll (7.44c)
+
+The rigid bodies which we have mainly
+considered in this chapter are symmetric about
+the axis of rotation, i.e. the axis of rotation is
+one of their symmetry axes. For such bodies,
+for a given 00‘, for every particle which has a
+velocity vi , there is another particle of velocity
+—vi located diametrically opposite on the circle
+with centre Ci described by the particle. Together
+
+such pairs will contribute zero to L l and as a
+
+result for symmetric bodies L i is zero, and
+hence
+
+L = L2 = Ian? (7.44d)
+
+For bodies, which are not symmetric about
+the axis of rotation, L is not equal to L2 and
+hence L does not lie along the axis of rotation.
+
+Referring to Table 7. 1, can you tell in which
+cases L = szill not apply?
+
+Let us differentiate Eq. (7 .44b). Since f! is a
+fixed (constant) vector, we get
+
+d d
+
+—— L = — I k
+dt( 2) (dt( an]
+Now, Eq. (7 .28b) states
+
+dL _
+dt _
+As we have seen in the last section, only
+those components of the external torques which
+
+are along the axis of rotation, need to be taken
+into account, when we discuss rotation about a
+
+17
+
+fixed axis. This means we can take 1: = TE.
+
+Since L = LZ + L i and the direction of LZ (vector
+
+f! ) is fixed, it follows that for rotation about a
+fixed axis,
+
+ 
+
+ 
+
+sz A
+dt = 1k (7 .45a)
+dL
+
+and 01: =0 (7.45b)
+
+Thus, for rotation about a fixed axis, the
+component of angular momentum
+perpendicular to the fixed axis is constant. As
+
+L2 :10]; , we get from Eq. (7.45a),
+
+ditUw): r (7.45c)

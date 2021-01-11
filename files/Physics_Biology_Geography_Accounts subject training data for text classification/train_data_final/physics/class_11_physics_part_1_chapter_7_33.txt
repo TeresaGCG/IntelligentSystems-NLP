@@ -1,0 +1,106 @@
+174
+
+PHYSICS
+
+which is in contact with the surface is at rest
+on the surface.
+
+We have remarked earlier that rolling motion
+is a combination of rotation and translation. We
+know that the translational motion of a system
+of particles is the motion of its centre of mass.
+
+ 
+
+Fig. 7.37 The rolling motion (without slipping) of a
+disc on a level surface. Note at any instant,
+the point of contact P0 of the disc with the
+surface is at rest; the centre of mass of
+the disc moves with velocity, vcm. The disc
+rotates with angular velocity 6:; about its
+axis which passes through C; vcm =Rw,
+where R is the radius of the disc.
+
+Let ch be the velocity of the centre of mass
+and therefore the translational velocity of the
+disc. Since the centre of mass of the rolling disc
+is at its geometric centre C (Fig. 7. 37), vcm is
+the velocity of C. It is parallel to the level
+surface. The rotational motion of the disc is
+about its symmetry axis, which passes through
+C. Thus, the velocity of any point of the disc,
+like P0, P1 or P2, consists of two parts, one is the
+translational velocity ch and the other is the
+linear velocity vr on account of rotation. The
+magnitude of VT is Dr: M), where wis the angular
+velocity of the rotation of the disc about the axis
+and r is the distance of the point from the axis
+(i.e. from C). The velocity vr is directed
+perpendicular to the radius vector of the given
+point with respect to C. In Fig. 7 .37 , the velocity
+of the point P2 (v2) and its components vrand
+vcmare shown; vrhere is perpendicular to CP2 .
+It is easy to show that vZ is perpendicular to the
+line POPZ. Therefore the line passing through PO
+and parallel to a) is called the instantaneous axis
+of rotation.
+
+2019-20
+
+At Po, the linear velocity, vr, due to rotation
+is directed exactly opposite to the translational
+velocity ch- Further the magnitude of vrhere is
+Ra), where R is the radius of the disc. The
+condition that P0 is instantaneously at rest
+requires um = Ra). Thus for the disc the condition
+for rolling without slipping is
+
+vcm = R0) (7.47)
+
+Incidentally, this means that the velocity of
+point P1 at the top of the disc (v1) has a
+magnitude vcm+ Ra) or 2 v6m and is directed
+parallel to the level surface. The condition (7 .47)
+applies to all rolling bodies.
+
+7.14. 1 Kinetic Energy of Rolling Motion
+
+Our next task will be to obtain an expression
+for the kinetic energy of a rolling body. The
+kinetic energy of a rolling body can be separated
+into kinetic energy of translation and kinetic
+energy of rotation. This is a special case of a
+general result for a system of particles,
+according to which the kinetic energy of a
+system of particles (K) can be separated into
+the kinetic energy of translational motion of the
+centre of mass (MW/2) and kinetic energy of
+rotational motion about the centre of mass of
+the system of particles (K’). Thus,
+
+K=K’+ MV2 /2 (7.48)
+
+We assume this general result (see Exercise
+7.3 1), and apply it to the case of rolling motion.
+In our notation, the kinetic energy of the centre
+of mass, i.e., the kinetic energy of translation,
+of the rolling body is mvzcm / 2, where m is the
+mass of the body and vcm is the centre of the
+mass velocity. Since the motion of the rolling
+body about the centre of mass is rotation, K’
+represents the kinetic energy of rotation of the
+body; K’=I(o2/2 , where I is the moment of
+inertia about the appropriate axis, which is the
+symmetry axis of the rolling body. The kinetic
+energy of a rolling body, therefore, is given by
+
+1 2 1 2
+K:— 10) + —m1)
+2 2 cm (7.493)
+
+Substituting I = mk2 where k = the
+corresponding radius of gyration of the body
+and um: R 03, we get
+
+1 k2
+or K = 5m03m[1+—] (7.4913)

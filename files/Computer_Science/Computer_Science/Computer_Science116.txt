@@ -1,0 +1,33 @@
+100 Chapter 2 Instructions: Language of the Computer
+MIPS Addressing Mode Summary
+addressing mode One of sev  Multiple forms of addressing are generically called addressing modes. The MIPS
+eral addressing regimes
+addressing modes are the following:
+delimited by their varied use of
+operands and/or addresses. I. Register addressing, where the operand is a register
+2. Base or displacement addressing, where the operand is at the memory loca 
+tion whose address is the sum of a register and a constant in the instmction
+3. Immediate addressing, where the operand is a constant within the instruc 
+tion itself
+4. PC-relative addressing, where the address is the sum of the PC and a con 
+stant in the instruction
+5. Pseudodirect addressing, where the jump address is the 26 bits of the
+instruction concatenated with the upper bits of the PC
+Hardware Although we show the MIPSarchitecture as having 32-bit addresses, nearly all micro 
+II
+processors (including MIPS) have 64-bit address extensions (see Appendix D).
+Software
+TIlese extensions were in response to the needs of softwa re for larger programs. The
+Interface
+process of instruction set extension allows architectures to expand in a way that lets
+software move compatibly upward to the next generation of architecture.
+Note that a single operation can use more than one addressing mode. Add, for
+example, uses both immediate (addi) and register (add) addressing. Figure 2.24
+II
+shows how operands are identified for each addressing mode. In More Depth
+shows other addressing modes found in the IBM PowerPC.
+Decoding Machine Language
+Sometimes you are forced to reverse-engineer machine language to create the origi 
+nal assembly language. One example is when looking at a core dump. Figure 2.25
+shows the MIPS encoding of the fields for the MIPS machine language. This figure
+helps when translating by hand between assembly language and machine language.

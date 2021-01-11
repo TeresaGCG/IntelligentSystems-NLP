@@ -1,0 +1,45 @@
+120 Chapter 2 Instructions: Language of the Computer
+tra nsformations that reduce overhead on indexing arrays, essentially replacing
+array indexing with pointer accesses. Rather than examine induction variable
+elimination in depth, we point the reader to Section 2. 15, which compares the
+use of array indexing and pointers; for most loops, the tra nsformation from the
+more obvious array code to the pointer code can be perfo rmed by a modern
+optimizing compiler.
+Optimization Summary
+Figure 2.32 gives exa mples of typical optimizations, and the last column indi 
+cates where the optimization is performed in the gee compiler. It is sometimes
+difficult to separate some of the simpler optimizations- local and processor 
+dependent optimizations- from transformations done in the code generator,
+and some optimizations are done multiple times, especially local optimizations,
+which may be performed before and after global optimization as well as during
+code generation.
+Optimization name Explanation gee level
+High level At or near the source level; processor independent
+03
+Procedure integration Replace procedure call by procedure body
+L=I Within straighWne code
+01
+Common subexpression elimination Replace two instances of the same computation by single copy
+01
+Constant propagation Replace all instances of a variable that is assigned a constant with the
+constant
+Stack height reduction Rearrange expression tree to minimize resources needed for expression 01
+evaluation
+Global Across a branch
+02
+Global common subexpression elimination Same as local, but this version crosses branches
+02
+Copy propagation Replace all instances of a variable A that has been assigned X(I.e.,A '" Xl with X
+02
+Code motion Remove code from a loop that computes same value each iteration of the loop
+02
+Induction variable elimination Simplify/ eliminate array addressing calculations within loops
+Processor dependent Depends on processor knewledge
+Strength reduction Many examples; replace multiply by a constant with shifts 01
+01
+Pipeline scheduling Reorder instructions to improve pipeline perlormance
+01
+Branch offset optimization Choose the shortest branch displacement that reaches target
+FIGURE 2.32 Major types of optimizations and examples In eaeh elass. The third column shows when these occur at different
+levels of optimization in gcc. The Gnu organization calls the three optimization levels medium (01), full (0 2), and full with integration of
+small procedures(03).

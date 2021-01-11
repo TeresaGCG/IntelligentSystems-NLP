@@ -1,0 +1,29 @@
+5.5 A Multleycle Implementation 337
+From state 1
+(Op '" 'BEQ')
+~_~~~Branch completion
+8
+ALUSrcA '" 1
+ALUSrcB", 00
+ALUOp", 01
+PCWriteCond
+PCSource '" 01
+-------./-
+To state 0
+(Figure 5.32)
+FIGURE 5.35 The branch Instruction requires a single state. The first thre<> outputs that are
+asserted cause the ALU to compare the registers (ALUSrcA, ALUSrcB, and ALUOp), while the signals
+PCSource and PCWriteCond perform the conditional write if the branch condition is true. Notice that we
+do not use the value written intoALUOut; instead, we U'ie onlythe Zero output of the ALU. The branch tar 
+get address is read from ALUOut, where it was saved at the end ofstate 1.
+From state 1
+(Op '" 'J')
+~..J_,Jump completion
+9
+PCWrite
+PCSource '" 10
+To state 0
+(Figure 5.32)
+FIGURE 5.36 The jump Instruction requires a single state that asserts two control sig 
+nals to write the PC with the lower 26 bits of the Instruction register shifted left 2 bits
+and concatenated to the upper 4 bits of the PC of this Instruction.

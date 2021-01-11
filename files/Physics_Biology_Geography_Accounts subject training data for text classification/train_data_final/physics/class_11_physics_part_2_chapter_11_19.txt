@@ -1,0 +1,22 @@
+THERMAL PROPERTIES OF MA’I'I‘ER
+—
+
+Heat is a fonn of energy that ﬂows between a body and its surrounding medium by
+virtue of temperature difference between them. The degree of hotness of the body is
+quantitatively represented by temperature.
+
+A temperature—measuring device (thermometer) makes use of some measurable property
+(called thermometric property) that. changes with temperature. Different thermometers
+lead to different temperature scales. To construct a temperature scale. two fixed points
+are chosen and assigned some arbitrary values of temperature. The two numbers fix
+the origin of the scale and the size of its unit.
+
+The Celsius temperature (t) and the Farenheit temperare (tFJare related by
+
+tF = (9/5) tc + 32
+
+The ideal gas equation connecting pressure (P), volume (V) and absolute temperature (’1)
+is :
+
+PV = ,uRT
+where L1 is the number of moles and R is the universal gas constant.

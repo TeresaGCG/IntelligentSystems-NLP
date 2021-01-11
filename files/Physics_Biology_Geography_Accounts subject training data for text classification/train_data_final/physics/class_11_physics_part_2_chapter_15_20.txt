@@ -1,0 +1,102 @@
+WAVES
+
+387
+
+the observer counts n crests and the observer
+records the period of the wave as equal to Tgiven by
+
+2 {1+ vs-vo ]: 0[v+vs]
+v + v0 n+1)0
+(15.54)
+
+The frequency v observed by the observer is
+given by
+
+v: v0 [N ”0] (15.55)
+v+vS
+
+Consider a passenger sitting in a train moving
+on a straight track. Suppose she hears a whistle
+sounded by the driver of the train. What
+frequency will she measure or hear? Here both
+the observer and the source are moving with
+the same velocity, so there will be no shift in
+frequency and the passenger will note the
+natural frequency. But an observer outside who
+is stationary with respect to the track will note
+a higher frequency if the train is approaching
+him and a lower frequency when it recedes
+from him.
+
+Note that we have defined the direction from
+the observer to the source as the positive
+direction. Therefore, if the observer is moving
+towards the source, we has a positive (numerical)
+value whereas if 0 is moving away from S, DC
+has a negative value. On the other hand, if S is
+moving away from 0, US has a positive value
+whereas if it is moving towards 0, US has a
+negative value. The sound emitted by the source
+travels in all directions. It is that part of sound
+coming towards the observer which the observer
+receives and detects. Therefore, the relative
+velocity of sound with respect to the observer is
+v+ Do in all cases.
+
+ 
+
+ 
+
+ 
+
+Example 15.7 A rocket is moving at a
+speed of 200 m 5’1 towards a stationary
+target. While moving, it emits a wave of
+frequency 1000 Hz. Some of the sound
+
+reaching the target gets reﬂected back to the
+rocket as an echo. Calculate (1) the
+frequency of the sound as detected by the
+target and (2) the frequency of the echo as
+detected by the rocket.
+
+ 
+
+Answer (1) The observer is at rest and the
+source is moving with a speed of 200 m S'l. Since
+this is comparable with the velocity of sound,
+330 m S'l, we must use Eq. (15.50) and not the
+approximate Eq. (15.51). Since the source is
+approaching a stationary target, v0 = O, and us
+must be replaced by —vs. Thus, we have
+
+—1
+v
+v = v0[l— Ts]
+
+v = 1000 HZ X [1 — 200 m S'1/330 m s4]-1
+
+: 2540 HZ
+
+(2) The target is now the source (because it is
+the source of echo) and the rocket’s detector is
+now the detector or observer (because it detects
+echo). Thus, vs = O and v0 has a positive value.
+The frequency of the sound emitted by the source
+(the target) is v, the frequency intercepted by
+the target and not v0. Therefore, the frequency
+as registered by the rocket is
+
+v+v
+v’=v o
+v
+
+—1 —1
+=254OHzx 200ms +3301ms
+330 ms
+
+2 4080 HZ 4
+
+ 
+
+2019-20

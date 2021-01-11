@@ -1,0 +1,65 @@
+Duol Nature of Radiation
+and Mo’r’rer
+
+ 
+
+Every body at any temperature emits radiation of all wavelengths. It also absorbs radiation falling on it.
+A body which absorbs all the radiation falling on it is called a black body. It is an ideal concept in physics, like
+concepts of a point mass or uniform motion. A graph of the intensity of radiation emitted by a body versus
+wavelength is called the black body spectrum No theory in those days could explain the complete black body
+spectrum!
+
+In 1900, Planck hit upon a novel idea. If we assume, he said, that radiation is emitted in packets of energy
+instead of continuously as in a wave, then we can explain the black body spectrum. Planck himself regarded
+these quanta, or packets, as a property of emission and absorption, rather than that of light. He derived a
+formula which agreed with the entire spectrum. This was a confusing mixture of wave and particle pictures —
+radiation is emitted as a particle, it travels as a wave, and is again absorbed as a particle! Moreover, this put
+physicists in a dilemma. Should we again accept the particle picture of light just to explain one phenomenon?
+Then what happens to the phenomena of interference and diffraction which cannot be explained by the
+particle model?
+
+But soon in 1905, Einstein explained the photoelectric effect by assuming the particle picture of light.
+In 1907, Debye explained the low temperature specific heats of solids by using the particle picture for lattice
+vibrations in a crystalline solid. Both these phenomena belonging to widely diverse areas of physics could be
+explained only by the particle model and not by the wave model. In 1923, Compton’s x—ray scattering experiments
+from atoms also went in favour of the particle picture. This increased the dilemma further.
+
+Thus by 1923, physicists faced with the following situation. (a) There were some phenomena like rectilinear
+propagation, reﬂection, refraction, which could be explained by either particle model or by wave model. (b)
+There were some phenomena such as diffraction and interference which could be explained only by the wave
+model but not by the particle model. (c) There were some phenomena such as black body radiation, photoelectric
+effect, and Compton scattering which could be explained only by the particle model but not by the wave model.
+Somebody in those days aptly remarked that light behaves as a particle on Mondays, Wednesdays and Fridays,
+and as a wave on Tuesdays, Thursdays and Saturdays, and we don't talk of light on Sundays!
+
+In 1924, de Broglie proposed his theory of wave—particle duality in which he said that not only photons
+of light but also ‘particles’ of matter such as electrons and atoms possess a dual character, sometimes
+behaving like a particle and sometimes as a wave. He gave a formula connecting their mass, velocity, momentum
+(particle characteristics), with their wavelength and frequency [wave characteristics)! In 1927 Thomson, and
+Davisson and Germer, in separate experiments, showed that electrons did behave like waves with a wavelength
+which agreed with that given by de Broglie’s formula. Their experiment was on diffraction of electrons through
+crystalline solids, in which the regular arrangement of atoms acted like a grating. Very soon, diffraction
+experiments with other ‘particles’ such as neutrons and protons were performed and these too confirmed with
+de Broglie’s formula. This confirmed wave—particle duality as an established principle of physics. Here was a
+principle, physicists thought, which explained all the phenomena mentioned above not only for light but also
+for the so—called particles.
+
+But there was no basic theoretical foundation for wave—particle duality. De Broglie’s proposal was
+merely a qualitative argument based on symmetry of nature. Wave—particle duality was at best a principle, not
+an outcome of a sound fundamental theory. It is true that all experiments whatever agreed with de Broglie
+formula. But physics does not work that way. On the one hand, it needs experimental confirmation, while on
+the other hand, it also needs sound theoretical basis for the models proposed. This was developed over the
+next two decades. Dirac developed his theory of radiation in about 1928, and Heisenberg and Pauli gave it a
+firm footing by 1930. Tomonaga, Schwinger, and Feynman, in late 1940s, produced further refinements and
+cleared the theory of inconsistencies which were noticed. All these theories mainly put wave—particle duality
+on a theoretical footing.
+
+Although the story continues, it grows more and more complex and beyond the scope of this note. But
+we have here the essential structure of what happened, and let us be satisfied with it at the moment. Now it
+is regarded as a natural consequence of present theories of physics that electromagnetic radiation as well as
+particles of matter exhibit both wave and particle properties in different experiments, and sometimes even in
+the different parts of the same experiment.
+
+413
+
+2019-20

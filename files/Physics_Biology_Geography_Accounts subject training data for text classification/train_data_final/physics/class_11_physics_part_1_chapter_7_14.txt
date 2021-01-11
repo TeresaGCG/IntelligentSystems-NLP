@@ -1,0 +1,107 @@
+SYSTEMS OF PARTICLES AND ROTA’I‘IONAL MOTION
+
+Z
+
+ 
+
+X
+
+Fig. 7.18 17 = 1' x F, ris perpendicular to the plane
+containing r and F, and its direction is
+given by the right handed screw rule.
+
+If a force acts on a single particle at a point
+P whose position with respect to the origin 0 is
+given by the position vector 1' (Fig. 7 . 18), the
+moment of the force acting on the particle with
+respect to the origin 0 is defined as the vector
+product
+
+1: = r x F (7.23)
+
+The moment of force (or torque) is a vector
+quantity. The symbol 1: stands for the Greek
+letter tau. The magnitude of 1: is
+
+1': rFsin0 (7.24a)
+where r is the magnitude of the position vector
+r, i.e. the length OP, Fis the magnitude of force
+F and 0 is the angle between 1' and F as
+shown.
+
+Moment of force has dimensions M LZT'Z.
+Its dimensions are the same as those of work
+or energy. It is, however, a very different physical
+quantity than work. Moment of a force is a
+vector, while work is a scalar. The SI unit of
+moment of force is newton metre (N m). The
+magnitude of the moment of force may be
+written
+
+1 = (r sin 0)F = riF (7.24b)
+or 2': rFsin6= rFi (7.240)
+
+where ri = r sine is the perpendicular distance
+
+of the line of action of F from the origin and
+FJ: Fsin 6) is the component of F in the
+direction perpendicular to 1'. Note that 1' = 0 if
+r= O, F= O or 0 = Ooor 1800 . Thus, the moment
+of a force vanishes if either the magnitude of
+the force is zero, or if the line of action of the
+force passes through the origin.
+
+One may note that since rXF is a vector
+product, properties of a vector product of two
+vectors apply to it. If the direction of F is
+reversed, the direction of the moment of force
+is reversed. If directions of both r and F are
+reversed, the direction of the moment of force
+remains the same.
+
+7.7.2 Angular momentum of a particle
+
+Just as the moment of a force is the rotational
+analogue of force in linear motion, the quantity
+angular momentum is the rotational analogue
+of linear momentum. We shall first define
+angular momentum for the special case of a
+single particle and look at its usefulness in the
+context of single particle motion. We shall then
+extend the deﬁnition of angular momentum to
+systems of particles including rigid bodies.
+
+Like moment of a force, angular momentum
+is also a vector product. It could also be referred
+to as moment of (linear) momentum. From this
+term one could guess how angular momentum
+is defined.
+
+Consider a particle of mass m and linear
+momentum p at a position 1' relative to the origin
+0. The angular momentum] of the particle with
+respect to the origin 0 is defined to be
+
+1 = r x p (7 .25a)
+
+The magnitude of the angular momentum
+vector is
+
+l=rpsin6 (7.26a)
+
+where p is the magnitude of p and 0 is the angle
+between 1' and p. We may write
+
+l=rpl or rip (7.26b)
+
+where rl (= r sine) is the perpendicular distance
+of the directional line of p from the origin and
+p i (= p sin 6) is the component of p in a direction
+
+perpendicular to r. We expect the angular
+momentum to be zero (1 = 0), if the linear
+momentum vanishes (p = 0), if the particle is at
+the origin (r = O), or if the directional line of p
+passes through the origin 6 = O0 or 180°.
+
+2019-20

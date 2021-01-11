@@ -1,0 +1,47 @@
+528 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+latency. When a cache miss occurs, however, the processor needs to translate the
+address to a physical address so that it can fetch the cache block from main memory.
+When the cache is accessed with a virtual address and pages are shared between
+programs (which may access them with different virtual addresses), there is the possi 
+aliasing A situation in which bility of aliasing. Aliasing occurs when the same object has two names-in this case,
+the same object is accessed by two virtual addresses for the same page. This ambiguity creates a problem because a
+two addresses; can occur in vir 
+word on such a page may be cached in two different locations, each corresponding to
+tual memorywhen there are two
+different virtual addresses. This ambiguity would allow one program to write the data
+virtual addresses for the same
+without the other program being aware that the data had changed. Completely virtually
+physical page.
+addressed caches either introduce design limitations on the cache and TLB to reduce
+aliases or require the operating system, and possibly the user, to take steps to ensure
+that aliases do not occur.
+Figure 7.24 assumed a 4 KB page size, but it's really 16 KB. The lntrinsity FastMATH
+uses such a memory system organization. The cache and TLB are still accessed in par 
+allel, so the upper 2 bits of the cache index must be virtual. Hence, up to four cache
+entries could be aliased to the same physical memory address. As the L2 cache on the
+chip includes all entries in the L1 caches, on a L1 miss it checks the other three possi 
+ble cache locations in the L2 cache for aliases. If it finds one, it flushes it from the
+caches to prevent aliases from occurring.
+A common compromise between these two design points is caches that are virtually
+indexed (sometimes using just the page offset portion of the address, which is really a
+physical address since it is untranslated), but use physical tags. These designs, which
+are virtually indexed but physically tagged, attempt to achieve the performance advan 
+tages of virtually indexed caches with the architecturally simpler advantages of a physi 
+physically addressed cache A cally addressed cache. For example, there is no alias problem in this case. The L1 data
+cache that is addressed by a cache of the Pentium 4 is an example as would the lntrinsity if the page size was 4 KB.
+physical address. To pull off this trick, there must be careful coordination between the minimum page
+size, the cache size, and associativity.
+Elaboration: The FastMATH TLB is a bit more complicated than in Figure 7.24. MIPS
+includes two physical page mappings per virtual page number, thereby mapping an even 
+odd pair of virtual page numbers into two physical page numbers. Hence, the tag is 1 bit
+narrower since each entry corresponds to two pages. The least significant bit of the vir 
+tual page number selects between the two physical pages. There are separate book 
+keeping bits for each physical page. This optimization doubles the amount of memory
+mapped per TLB entry. As the Elaboration on page 530 explains, the tag field actually
+includes an B-bit address space ID field to reduce the cost of context switches. To sup 
+port the variable page sizes mentioned on page 537, there is also a 32-bit mask field
+that determines the dividing line between the virtual page address and the page offset.
+Implementing Protection with Virtual Memory
+One of the most important functions for virtual memory is to allow sharing of a
+single main memory by multiple processes, while providing memory protection
+among these processes and the operating system. The protection mechanism must

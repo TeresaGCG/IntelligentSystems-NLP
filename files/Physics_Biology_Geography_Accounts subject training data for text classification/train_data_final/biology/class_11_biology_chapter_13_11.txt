@@ -1,0 +1,45 @@
+2.
+
+ 
+
+PHOTOSYNTHESIS IN HIGHER PLANTS
+
+Atmosphere
+
+Ribulose-1,5- C02 + H20
+bisphosphate
+Q Carboxylation
+ADP \
+Regeneration
+@ 3-phosphoglycerate
+
+A avii
+
+ATP
+/— ATP
+@ Reduction +
+NADPH
+l 33; ni / K
+» We
+*plgifgsphate
+‘ ADP
++
+Pi +NADP*
+
+Sucrose, starch
+
+Figure 13.8 The Calvin cycle proceeds in three stages : (l) carboxylation, during which
+CO2 combines with ribulose-l ,5-bisphosphate; (2) reduction, during which
+carbohydrate is formed at the expense of the photochemically made ATP
+and NADPH; and (3) regeneration during which the CO2 acceptor ribulose-
+1,5-bisphosphate is formed again so that the cycle continues
+
+Reduction —These are a series of reactions that lead to the formation
+of glucose. The steps involve utilisation of 2 molecules of ATP for
+phosphorylation and two of NADPH for reduction per CO2 molecule
+ﬁxed. The ﬁxation of six molecules of CO2 and 6 turns of the cycle are
+required for the formation of one molecule of glucose from the pathway.
+
+Regeneration — Regeneration of the CO2 acceptor molecule RuBP is
+crucial if the cycle is to continue uninterrupted. The regeneration
+steps require one ATP for phosphorylation to form RuBP.

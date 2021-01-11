@@ -1,0 +1,39 @@
+8.10 Concluding Remarks 609
+bytes transferred. Over time the source code of one operating system was repeat 
+edly passed through the gateway, thereby corrupting the code. The only solution
+was to correct the infected source files by comparing to paper listings and repair 
+ing the code by hand! Had the checksums been calculated and checked by the
+application running on the end systems, safety would have been assured.
+There is a useful role for intermediate checks, however, provided that end-to 
+end checking is available. End-to-end checking may show that something is broken
+between two nodes, but it doesn't point to where the problem is. Intermediate
+checks ca n discover what is broken. You need both for repair.
+Pitfall: Movingfunctions from the CPU to the I/O processor, expecting to improve
+performance without a careful analysis.
+There are many examples of this pitfall trapping people, although I/O processors,
+when properly used, can certainly enhance performance. A frequent instance of
+this fa llacy is the use of intelligent I/O interfaces, which, because of the higher
+overhead to set up an I/O request, can turn out to have worse latency than a pro 
+cessor-directed I/O activity (although if the processor is freed up sufficiently, sys 
+tem throughput may still increase). Frequently, performance falls when the I/O
+processor has much lower performance than the main processor. Consequently, a
+small atTIount of main processor time is replaced with a larger amount of I/O pro 
+cessor time. Workstation designers have seen both these phenomena repeatedly.
+Myer and Sutherland [1968) wrote a classic paper on the trade-off of complex 
+ity and performance in I/O controllers. Borrowing the religious concept of the
+"wheel of reincarnation," they eventually noticed they were caught in a loop of
+continuously increasing the power of an I/O processor until it needed its own sim 
+pler coprocessor:
+We approached the task by starting with a simple scheme and then adding com 
+mands and features that we felt would enhance the power ofthe machine.
+Gradually the {display] processor became more complex . ... Finally the display
+processor came to resemble a fllll-fiedged computer with some special graphics
+featllres. A nd then a strange thing happened. We felt compelled to add to the
+processor a second, subsidiary processor, which, itself, began to grow in com 
+plexity. It was then that we discovered the disturbing truth. Designing a display
+processor can become a never-ending cyclical process. In fact, wefound the pro 
+cess frustrating that we have come to call it the "wheel ofreincarnation."
+50
+Concluding Remarks
+I/O systems are evaluated on several different characteristics: dependability; the
+variety of I/O devices supported; the maximum number of I/O devices; cost; and

@@ -1,0 +1,42 @@
+5.5 A Multleyele Implementation 325
+Breaking the Instruction Execution into Clock Cycles
+Given the datapath in Figure 5.28, we now need to look at what should happen in
+each clock cycle of the multicycle execution, since this will determine what addi 
+tional control signals may be needed, as well as the setting of the control signals. Our
+goal in breaking the execution into clock cycles should be to maximize performance.
+We can begin by breaking the execution of any instruction into a series of steps, each
+taking one clock cycle, attempting to keep the amount of work per cycle roughly
+equal. For example, we will restrict each step to contain at most one ALU operation,
+or one register file access, or one memory access. With this restriction, the clock
+cycle could be as short as the longest of these operations.
+Recall that at the end of every clock cycle any data values that will be needed on
+a subsequent cycle must be stored into a register, which can be either one of the
+major state elements (e.g., the PC, the register file, or the mem ory), a temporary
+register written on every clock cycle (e.g., A, B, MDR, or ALUOut), or a tempo 
+rary register with write control (e.g., lR). Also remember that because our design
+is edge-triggered, we can continue to read the current value of a register; the new
+value does not appear until the next clock cycle.
+In the single-cycle datapath, each instruction uses a set of datapath elements to
+carry out its execution. Many of the datapath elements operate in series, using the
+output of another element as an input. Some datapath elements operate in paral 
+lel; for example, the PC is incremented and the instruction is read at the same
+time. A similar situation exists in the multicycle datapath. All the operations listed
+in one step occur in parallel within 1 clock cycle, while successive steps operate in
+series in different clock cycles. The limitation of one ALU operation, one memory
+access, and one register file access determines what can fit in one step.
+Notice that we distinguish between reading from or writing into the PC o r one
+of the stand-alone registers and reading from o r writing into the register file. In
+the former case, the read or write is part of a clock cycle, while reading or writing
+a result into the register file takes an additional clock cycle. The reason for this dis 
+tinction is that the register file has additional control and access overhead com  
+pared to the single stand-alone registers. Thus, keeping the clock cycle short
+motivates dedicating separate clock cycles for register file accesses.
+The potential execution steps and their actions are given below. Each MIPS
+instruction needs from three to five of these steps:
+1. Instruction fetch step
+Fetch the instruction from memo ry and compute the address of the next sequen 
+tial instruction:
+<=
+IR Memory[PC) ;
+<=
+PC PC + 4;

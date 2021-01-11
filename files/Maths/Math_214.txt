@@ -1,0 +1,13 @@
+Homework Helpers: Basic Math and Pre-Algebra
+214
+When you multiply two binomials, you need to use the distributive
+property twice, making sure that you find all of the necessary products:
+It doesn’t matter whether the binomials involve addition or subtraction.
+You distribute the sign:
+Example 4
+Find the product: (x + 3)(x + 2)
+Solution: Use the distributive property twice and gather like terms:
+Example 5
+Find the product: (x + 3)(2x − 4)
+Solution: Use the distributive property twice and gather like terms:
+www.ebook3000.com

@@ -1,0 +1,128 @@
+WAV ES
+
+379
+
+If on the other hand, the boundary point is
+not rigid but completely free to move (such as in
+the case of a string tied to a freely moving ring
+on a rod), the reﬂected pulse has the same phase
+and amplitude (assuming no energy dissipation)
+as the incident pulse. The net maximum
+displacement at the boundary is then twice the
+amplitude of each pulse. An example of non- rigid
+boundary is the open end of an organ pipe.
+
+To summarise, a travelling wave or pulse
+suffers a phase change of 7c on reﬂection at a
+rigid boundary and no phase change on
+reﬂection at an open boundary. To put this
+mathematically, let the incident travelling wave
+be
+
+y2(x,t) = asin(kx—a)t)
+
+At a rigid boundary, the reﬂected wave is given
+by
+yr(x, t) = a sin (kx— wt + 7:).
+= — asin (kx—wt) (15.35)
+At an open boundary, the reﬂected wave is given
+by
+yr(x, t) = a sin (kx— wt + O).
+= asin (kx—wt) (15.36)
+
+Clearly, at the rigid boundary, y = y2 + yr 2 0
+
+at all times.
+
+15.6.1 Standing Waves and Normal Modes
+
+We considered above reﬂection at one boundary.
+But there are familiar situations (a string fixed
+at either end or an air column in a pipe with
+either end closed) in which reﬂection takes place
+at two or more boundaries. In a string, for
+example, a wave travelling in one direction will
+get reﬂected at one end, which in turn will travel
+and get reﬂected from the other end. This will
+go on until there is a steady wave pattern set
+up on the string. Such wave patterns are called
+standing waves or stationary waves. To see this
+mathematically, consider a wave travelling
+along the positive direction of x-axis and a
+reﬂected wave of the same amplitude and
+wavelength in the negative direction of x-axis.
+From Eqs. (15.2) and (15.4), with ¢= O, we get:
+
+y,(x, t) = asin (kx— wt)
+
+y2(x, t) = a sin (kx + cot)
+
+The resultant wave on the string is, according
+to the principle of superposition:
+
+y (x, t) = y1(x, t) + y2(x, t)
+
+= a [sin (kx— wt) + sin (kx + wt)]
+
+Using the familiar trignometric identity
+Sin (A+B) + Sin (A—B) = 2 sin A cosB we get,
+
+y (x, t) = 2a sin kxcos wt (15.37)
+
+Note the important difference in the wave
+pattern described by Eq. (15.37) from that
+described by Eq. (15.2) or Eq. (15.4). The terms
+kx and cut appear separately, not in the
+combination kx - cut. The amplitude of this wave
+is 2a sin kx. Thus, in this wave pattern, the
+amplitude varies from point-to-point, but each
+element of the string oscillates with the same
+angular frequency a) or time period. There is no
+phase difference between oscillations of different
+elements of the wave. The string as a whole
+vibrates in phase with differing amplitudes at
+different points. The wave pattern is neither
+moving to the right nor to the left. Hence, they
+are called standing or stationary waves. The
+amplitude is fixed at a given location but, as
+remarked earlier, it is different at different
+locations. The points at which the amplitude is
+zero (i.e., where there is no motion at all) are
+nodes; the points at which the amplitude is the
+largest are called antinodes. Fig. 15.12 shows
+a stationary wave pattern resulting from
+superposition of two travelling waves in
+opposite directions.
+
+The most significant feature of stationary
+waves is that the boundary conditions constrain
+the possible wavelengths or frequencies of
+vibration of the system. The system cannot
+oscillate with any arbitrary frequency (contrast
+this with a harmonic travelling wave), but is
+characterised by a set of natural frequencies or
+normal modes of oscillation. Let us determine
+these normal modes for a stretched string fixed
+at both ends.
+
+First, from Eq. (15.37), the positions of nodes
+(where the amplitude is zero) are given by
+sin kx = O .
+which implies
+
+kx= mt; n=0, 1, 2, 3,
+
+Since, k = 27r//’L , we get
+
+m1
+
+x=?;n=0, 1,2,3,... (15.38)
+
+Clearly, the distance between any two
+
+2
+
+successive nodes is _ In the same way, the
+2.
+
+2019-20

@@ -1,0 +1,68 @@
+508 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+''''
+~
+Radix sort
+"'00
+-~
+'00
+•
+0 '00
+•0
+0
+~
+'00
+"
+Quicksort
+'00
+,
+, ,
+" " " "" '" '" 1024 2049 4096
+Size (K Items to sort)
+"""
+, Radix sort
+"00
+!-
+•
+"00
+•
+"
+'00
+•
+....--
+g =: :---:
+0 :
+•
+'00 Quicksort 0
+• •
+,
+, ,
+" " " "" '" '" 1024 2049 4096
+Size (K Items to sort)
+,
+Ii
+,
+Radix sort
+!-
+,
+•
+••
+• ,
+,
+•
+0
+, ~ .~
+: :
+0
+Quicksort
+,
+•
+•
+, ,
+" " " "" '" '" 1024 2049 4096
+Size (K Items to sort)
+FIGURE 7.18 Comparing Quicksort and Radix Sort by (a) Instructions executed per Item
+sorted, (b) time per Item sorted, and (e) cache misses per Item sorted. This data is from a
+paper by LaMarca and Ladner [19%1. Although the numbers would change for newer computers, the
+idea still holds. Due to such results, newversions of Radix Sort have been invented that take memory hierar 
+ch)' into accOlUlt, to regain its algorithmic advantages (see Section 7.7). The oosic idea of cache optimiza 
+tions is to use aU the data in a block repeatedly before it is replaced on a miss.

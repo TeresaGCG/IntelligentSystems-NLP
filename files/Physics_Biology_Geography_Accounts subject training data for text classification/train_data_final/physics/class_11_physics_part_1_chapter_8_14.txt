@@ -1,0 +1,93 @@
+G RAVITATI ON I 9 7
+—
+
+ 
+
+India's Leap into Space
+India started its space programme in 1962 when Indian National Committee for Space Research was set
+up by the Government of India which was superseded by the Indian Space Research Organisation (ISRO)
+in 1969. ISRO identiﬁed the role and importance of space technology in nation‘s development and
+bringing space to the service of the common man. India launched its ﬁrst low orbit satellite Aryabhata in
+1975, for which the launch vehicle was provided by the erstwhile Soviet Union. ISRO started employing its
+indigenous launching vehicle in 1979 by sending Rohini series of satellites into space from its main
+launch site at Satish Dhawan Space Center. Sriharikota, Andhra Pradesh. The tremendous progress in
+India’s space programme has made ISRO one of the six largest space agencies in the world. ISRO
+develops and delivers application specific satellite products and tools for broadcasts. communication.
+weather forecasts, disaster management tools. Geographic Information System. cartography. navigation.
+telemedicine, dedicated distance education satellite etc. In order to achieve complete self—reliance in
+these applications, cost effective and reliable Polar Satellite Launch Vehicle [PSLV) was developed in
+early 19905. PSLV has thus become a favoured carrier for satellites of various countries, promoting
+unprecedented international collaboration. In 2001, the Geosynchronous Satellite Launch Vehicle [GSLVj
+was developed for launching heavier and more demanding Geosynchronous communication satellites.
+Various research centers and autonomous institutions for remote sensing. astronomy and astrophysics,
+atmospheric sciences and space research are functioning under the aegis of the Department of Space.
+Government of India. Success of lunar [Chandrayaan] and inter planetary (Mangalyaan) missions along
+with other scientiﬁc projects has been landmark achievements of ISRO. Future endeavors of ISRO in—
+clude human space ﬂight projects, the development of heavy lift launchers. reusable launch vehicles,
+semi—cryogenic engines, single and two stage to orbit ($810 and TSTO) vehicles. development and use of
+composite materials for space application etc. In 1984 Rakesh Sharma became the ﬁrst Indian to go into
+
+outer space aboard in a USSR spaceship. [www.isro.gov.in)
+
+ 
+
+ 
+
+Thus radio waves broadcast from an antenna at close distances with good resolution.
+
+can be received at points far away where the Information gathered from such satellites
+direct wave fail to reach on account of the is extremely useful for remote sensing,
+
+curvature of the earth. Waves used in television
+broadcast or other forms of communication have
+much higher frequencies and thus cannot be
+received beyond the line of sight. A Geostationery
+satellite, appearing ﬁxed above the broadcasting
+station can however receive these signals and
+broadcast them back to a wide area on earth.
+The INSAT group of satellites sent up by India
+are one such group of Geostationary satellites
+widely used for telecommunications in India.
+Another class of satellites are called the Polar
+satellites (Fig. 8.1 1). These are low altitude (h z
+500 to 800 km) satellites, but they go around
+the poles of the earth in a north-south direction
+whereas the earth rotates around its axis in an
+east-west direction. Since its time period is
+around 100 minutes it crosses any altitude many
+times a day. However, since its height h above
+the earth is about 500-800 km, a camera fixed
+on it can view only small strips of the earth in
+one orbit. Adjacent strips are viewed in the next
+orbit, so that in effect the whole earth can be
+viewed strip by strip during the entire day. These
+satellites can view polar and equatorial regions
+
+meterology as well as for environmental studies
+of the earth.
+
+8. 12 WEIGHTLESSNESS
+
+Weight of an object is the force with which the
+earth attracts it. We are conscious of our own
+weight when we stand on a surface, since the
+surface exerts a force opposite to our weight to
+keep us at rest. The same principle holds good
+when we measure the weight of an object by a
+spring balance hung from a fixed point e. g. the
+ceiling. The object would fall down unless it is
+subject to a force opposite to gravity. This is
+exactly what the spring exerts on the object. This
+is because the spring is pulled down a little by
+the gravitational pull of the object and in turn the
+spring exerts a force on the object vertically upwards.
+
+Now, imagine that the top end of the balance
+is no longer held fixed to the top ceiling of the
+room. Both ends of the spring as well as the
+object move with identical acceleration g. The
+spring is not stretched and does not exert any
+upward force on the obj ect which is moving down
+with acceleration 9 due to gravity. The reading
+
+2019-20

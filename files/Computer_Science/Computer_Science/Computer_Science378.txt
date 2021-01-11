@@ -1,0 +1,25 @@
+362 Chapter 5 The Processor: Datapath and Control
+Like MIPS, the PowerPC instructions are 32 bits each. Assume that your instruc 
+tion set supports the following instruction formats:
+R-type
+I op I Rd I Rt I R, 101 IRq
+Fun'
+o
+56 1011 15 16 202 1 22 303 1
+Load/store & immediate
+lop l Rd l Rt l
+Address
+o
+56 101115 16 31
+Branch conditional
+lop l o l Bi I IAAILKI
+BD
+o
+56 101115 16 2930 31
+Jump
+I op I IAAILKI
+Address
+o
+56 101115 16 2930 31
+RC-reg
+I LT IGT I EQ IOV I

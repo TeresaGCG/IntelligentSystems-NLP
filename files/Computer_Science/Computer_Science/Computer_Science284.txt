@@ -1,0 +1,40 @@
+268 Chapter 4 Assessing and Understanding Performance
+million instructions per sec  One alternative to time as the metric is MIPS (million instructions per second).
+ond (MIPS) Ameasurement of For a given program , MIPS is simply
+program execution speed based
+Instruction count
+on the number ofmillions of
+MIPS =
+6
+instructions. MIPSis computed Execution time X 10
+as the instruction count divided
+This MIPS measurement is also called native MIPS to distinguish it from some
+by the product ofthe execution
+II
+alternative definitions of MI PS that we discuss in in Section 4.8 on the CD.
+time and 1(1'.
+Since MIPS is an instruction execution rate, MIPS specifies performance
+inversely to execution time; faster computers have a higher MIPS rating. The good
+news about MIPS is that it is easy to understand, and faster computers mean big 
+ger MIPS, which matches innlition.
+There are three problems with using MIPS as a measure for comparing com 
+puters. First, MIPS specifies the instruction execution rate but does not take into
+account the capabilities of the instructions. We cannot compare computers with
+different instruction sets using MIPS, since the instruction counts will certainly
+differ. In our earlier example examining the SPEC CFP2000 performance, using
+MIPS to compare the performance of the Pentium III and Pentium 4 would yield
+misleading results. Second, MIPS varies between programs on the same com 
+puter; thus a computer cannot have a single MIPS rating for all programs. Finally
+and most importantly, MIPS can vary inversely with performance! There are
+many examples of this anomalous behavior; one is given below.
+MIPS as a Performance Measure
+EXAMPLE Consider the computer with three instruction classes and CPI measurements
+from the last example on page 252. Now suppose we measure the code for the
+same program from two different compilers and obtain the following data:
+Instruction counts (In billions)
+for each Instruction class
+Code from
+Compiler 1 5 1 1
+Compiler 2 10 1 1
+Assume that the computer's clock rate is 4 GHz. \Vhich code sequence will
+execute faster according to MIPS? According to execution time?

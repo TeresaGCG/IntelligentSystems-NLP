@@ -1,0 +1,48 @@
+7.4 Virtual Memory 529
+ensure that although multiple processes are sharing the same main memory, one
+renegade process cannot write into the address space of another user process or
+into the operating system either intentionally or unintentionally. For example, if
+the program that maintains student grades were running on a computer at the
+same time as the programs of the students in the first programming course, we
+wouldn't want the errant program of a beginner to write over someone's grades.
+The write access bit in the TLB can protect a page from being written. Without
+this level of protection, computer viruses would be even more widespread.
+To enable the operating system to implement protection in the virtual memory sys  Hardware
+tem, the hardware must provide at least the three basic capabilities summarized below.
+Software
+I. Support at least two modes that indicate whether the running process is a
+Interface
+user process or an operating system process, variously called a supervisor
+process, a kernel process, or an executive process. kernel mode Also called
+super visor mode.A mode
+2. Provide a portion of the processor state that a user process can read but not
+indicating that a rulming pro 
+write. This includes the user/supervisor mode bit, which dictates whether
+cess is an opernting system
+the processor is in user or supervisor mode, the page table pointer, and the process.
+TLB. To write these elements the operating system uses special instructions
+that are only available in supervisor mode.
+3. Provide mechanisms whereby the processor can go from user mode to
+supervisor mode, and vice versa. The first direction is typically accom 
+plished by a system call exception, implemented as a special instruction
+system call A special instruc 
+(syscall in the MIPS instruction set) that transfers control to a dedicated tion that transfers control from
+user mode to a dedicated loca 
+location in supervisor code space. As with any other exception, the program
+tion in supervisor code space,
+counter from the point of the system call is saved in the exception PC (EPC),
+invoking the exception mecha 
+and the processor is placed in supervisor mode. To return to user mode
+nism in the process.
+from the exception, use the retllrn from exception (ERET) instruction, which
+resets to user mode and jumps to the address in EPe.
+By using these mechanisms and storing the page tables in the operating sys 
+tem's address space, the operating system can change the page tables while pre 
+venting a user process from changing them, ensuring that a user process can
+access only the storage provided to it by the operating system.
+We also want to prevent a process from reading the data of another process.
+For example, we wouldn't want a student program to read the grades while they
+were in the processor's memory. Once we begin sharing main memory, we must
+provide the ability for a process to protect its data from both reading and writ 
+ing by another process; otherwise, sharing the main memory will be a mixed
+blessing!

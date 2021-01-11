@@ -1,0 +1,55 @@
+Recording of Transactions — II 129
+
+Refer to the purchases (journal) book of Kanika Traders you will notice that
+20 mini size T.V.’s and 1 5 tape- recorders were bought from Neema Electronics
+for ? 1,82,000 However, on delivery 2 mini T.V.’s and tape recorders were found
+defective and were returned back vide debit note no. 03 / 2017. In this case, the
+purchases return books will be prepared as follows :
+
+Purchases Return (Journal) Book
+
+Date Debit Name of the Supplier L.F Amount
+Note (Account to be debited) ?
+
+ 
+
+03/20 1 7 Neema Electronics —3, 200
+13, 200
+
+Posting from the purchases returns journal requires that the supplier’s
+individual accounts are debited with the amount of returns and the purchases
+returns account is credited with the periodical total.
+
+Neema Electronics Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+Purchases 13,200
+Return
+
+Purchases Return Account
+
+Dr. Cr.
+? ?
+
+Sundries as 13,200
+per purchase
+returns book
+
+4.4 Sales (Journal) Book
+
+All credit sales of merchandise are recorded in the sales journal. Cash sales are
+recorded in the cash book. The format of the sales journal is similar to that of
+the purchases journal explained earlier. The source document for recording
+entries in the sales journal are sales invoice or bill issued by the firm to the
+customers. The date of sale, invoice number, name of the customer and amount
+of the invoice are recorded in the sales journal. Other details about the sales
+transaction including terms of payment are available in the invoice. In fact, two
+or more than two copies of a sales invoice are prepared for each sale. The book
+
+ 
+
+ 
+
+2019-2020

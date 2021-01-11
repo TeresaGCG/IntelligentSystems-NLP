@@ -1,0 +1,92 @@
+WORK. ENERGY AND POWER
+
+    
+        
+         
+         
+      
+   
+ 
+
+   
+
+Physical Quantity
+
+  
+ 
+
+s...
+W J
+
+[ML2T_2]
+Kinetic energy K [MLZT'2] J
+
+Work
+
+Potential energy V(x) [MLZT'Z] J dV(x)
+
+ 
+
+Mechanical energy E [ML’T‘Z] J E = K + V
+
+Spring constant k [MT—2] N m‘1 = _ kx
+
+[ML’T‘3]
+
+POINTS T0 PONDER
+
+l. The phrase ‘calculate the work done' is incomplete. We should refer [or imply
+clearly by context) to the work done by a speciﬁc force or a group of forces on a
+given body over a certain displacement.
+
+Work done is a scalar quantity. It can be positive or negative unlike mass and
+kinetic energy which are positive scalar quantities. The work done by the friction
+or viscous force on a moving body is negative.
+For two bodies. the sum of the mutual forces exerted between them is zero from
+Newton‘s Third Law.
+
+F + F = 0
+
+12 21
+But the sum of the work done by the two forces need not always cancel. Le.
+
+W12+ W21¢ 0
+
+However. it may sometimes be true.
+
+The work done by a force can be calculated sometimes even if the exact nature of
+the force is not known. This is clear from Example 6.2 where the WE theorem is
+used in such a situation.
+
+The WE theorem is not independent of Newton's Second Law. The WE theorem
+may be viewed as a scalar form of the Second Law. The principle of conservation
+
+of mechanical energy may be viewed as a consequence of the WE theorem for
+conservative forces.
+
+The WE theorem holds in all inertial frames. It can also be extended to non—
+inertial frames provided we include the pseudoforces in the calculation of the
+net force acting on the body under consideration.
+
+The potential energy of a body subjected to a conservative force is always
+undetermined upto a constant. For example. the point where the potential
+energy is zero is a matter of choice. For the gravitational potential energy mgh,
+the zero of the potential energy is chosen to be the ground. For the spring
+potential energy 1063/2 . the zero of the potential energy is the equilibrium position
+of the oscillating mass.
+
+Every force encountered in mechanics does not have an associated potential
+energy. For example. work done by friction over a closed path is not zero and no
+potential energy can be associated with friction.
+
+During a collision : (a) the total linear momentum is conserved at each instant of
+the collision ; (b) the kinetic energy conservation [even if the collision is elastic)
+applies after the collision is over and does not hold at every instant of the collision.
+In fact the two colliding objects are deformed and may be momentarily at rest
+with respect to each other.
+
+ 
+
+2019-20
+
+133

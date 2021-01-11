@@ -1,0 +1,58 @@
+5 6 Accountancy : Company Accounts and Analysis of Financial Statements
+Illustration 20
+
+Sunrise Company Limited offered for public subscription 10,000 shares of Rs. 10
+each at Rs. 1 1 per share. Money was payable as follows:
+
+Rs. 3 on application
+Rs. 4 on allotment (including premium)
+Rs. 4 on ﬁrst and ﬁnal call.
+
+Applications were received for 12,000 shares and the directors made pro-
+rata allotment.
+
+Mr. Ahmad, an applicant for 120 shares, could not pay the allotment and
+call money, and Mr. Basu, a holder of 200 shares, failed to pay the call. All these
+shares were forfeited.
+
+Out of the forfeited shares, 150 shares (the whole of Mr. Ahmad's shares
+being included) were issued at Rs. 8 per share. Record journal entries for the
+above transactions and prepare the share forfeiture account.
+
+Solution:
+
+Books of Sunrise Company Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(Rs. ) (Rs. )
+
+Bank A/c Dr.
+To Share Application A/c
+
+(Application money received on 12,000 shares
+@ Rs. 3 per share)
+
+Share Application A/c
+To Share Capital A/c
+To Share Allotment A/c
+
+(Transfer of application money to share capital
+account on 10,000 shares and the balance
+to allotment account)
+
+Share Allotment A/c
+To Share Capital A/c
+To Securities Premium Reserve A/c
+
+{Money due on allotment @ Rs. 4 per share
+
+on 10,000 shares including Rs. 1 on account
+
+of premium)
+
+Bank A/c Dr.
+To Share Allotment A/c
+
+(Money received on share allotment: See note 1)

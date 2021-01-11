@@ -1,0 +1,44 @@
+CH4 Glossary
+single-cycle implementation Also called state element A memory element.
+single clock cycle implementation. An im  static data The portion of memory that
+plementation in which an instruction is ex  contains data whose size is known to the
+ecuted in one clock cycle. compiler and whose lifetime is the pro 
+small computer systemsinterface (SCSI) A gram's entire execution.
+bus lIsed as a standard for I/O devices. static method A method that applies to the
+snooping carne coherency A method for whole class rather to an individual object. It
+maintaining cache coherency in which all is unrelated to static in C.
+cache controllers monitor or snoop on the static multiple issue An approach to im 
+bus to detennine whether or not theyhave a plementing a multiple-issue processor
+copy of the desired block. where many decisions are madeby the com 
+source language The high-level language piler before execution.
+in which a program is originally written. static random access memory (SRAM) A
+spatial locality The locality principle stat  memorywhere data isstored statically (as in
+ing that ifa data location is referenced, data flip-flops) rather than dynamically (as in
+locationswith nearby addresses will tend to DRAM). SRAMs are faster than DRAMs,
+be referenced soon. but less dense and more expensive per bit.
+speculation An approach whereby the sticky bit A bit used in rounding in addi 
+compiler or processor guesses the outcome tion to guard and round that is set whenever
+of an instruction to remove it as a depen  there are nonzero bits to the right of the
+dence in executing other instructions. round bit.
+split cache A scheme in which a level ofthe stop In IA-64, an explicit indicator ofa
+memory hierarchy is composed of two in  break between independent and dependent
+dependent caches that operate in parallel instructions.
+with each other with one handling instruc  stored-program concept The idea that in 
+tions and one handling data. structions and data of many types can be
+split transaction protocol A protocol in stored in memory as numbers, leading to
+which the bus is released during a bus trans  the stored program computer.
+action while the requester is waiting for the striping Allocation of logically sequential
+data to be transmitted, which frees the bus blocks to separate disks to allow higher per 
+for access by another requester. formance than a single disk can deliver.
+stack pointer A value denoting the most structuralhazard An occurrence in which a
+recently allocated address in a stack that planned instruction cannot execute in the
+shows where registers should be spilled or proper clock cyclebecause the hardware can 
+where old register values can be found. not support the combination ofinstructions
+stack segment The portion of memory that areset to execute in the given clock cycle.
+used by a program to hold procedure call structural specification Describes how a
+frames. digital system is organized in terms of a hi 
+stack A data structure for spilling registers erarchical connection of elements.
+organized as a last-in-first-out queue. sum of products A form of logical repre 
+standby spares Reserve hardware resourc  sentation that employs a logical sum (OR)
+es that can immediately take the place of a of products (tenns joined using the AND
+failed component. operator).

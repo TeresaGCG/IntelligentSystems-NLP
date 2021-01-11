@@ -1,0 +1,57 @@
+376
+
+ 
+
+ 
+
+l Physics
+
+I‘.
+O
+H
+E:
+III
+
+ 
+
+ 
+
+dominates over that due to ray optics (i.e., the size a of the aperture).
+Equation (10.31) also shows that ray optics is valid in the limit of
+wavelength tending to zero.
+
+Example 10.7 For what distance is ray optics a good approximation
+when the aperture is 3 mm wide and the wavelength is 500 nm?
+
+_3 2
+, a2 (3x10 )
+Solutlon ze— : —_7 : 18 m
+2 5X10
+
+This example shows that even with a small aperture, diffraction
+spreading can be neglected for rays many metres in length. Thus, ray
+optics is valid in many common situations.
+
+10.7 POLARISATION
+
+Consider holding a long string that is held horizontally, the other end of
+which is assumed to be ﬁxed. If we move the end of the string up and
+down in a periodic manner, we will generate a wave propagating in the
++x direction (Fig. 10.2 1). Such a wave could be described by the following
+equation
+
+ 
+
+—> y (X=0,t)
+>
+
+ 
+
+FIGURE 10.21 (a) The curves represent the displacement of a string at
+t = 0 and at t = At. respectively when a sinusoidal wave is propagating
+in the +x~direction. (b) The curve represents the time variation
+of the displacement at X = 0 when a sinusoidal wave is propagating
+in the +x—direction. At x = Ax. the time variation of the
+displacement will be slightly displaced to the right.
+
+2019-20

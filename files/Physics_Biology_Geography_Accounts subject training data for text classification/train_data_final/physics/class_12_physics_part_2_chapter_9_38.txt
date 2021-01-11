@@ -1,0 +1,82 @@
+9.24
+
+9.25
+
+9.26
+
+Roy Optics and
+
+Optical Instruments
+
+ 
+
+(a) At what distance should the lens be held from the figure in
+Exercise 9.29 in order to view the squares distinctly with the
+maximum possible magnifying power?
+
+(b) What is the magnification in this case?
+
+(c) Is the magnification equal to the magnifying power in this case?
+Explain.
+
+What should be the distance between the object in Exercise 9.24
+and the magnifying glass if the virtual image of each square in the
+figure is to have an area of 6.25 mm2. Would you be able to see the
+squares distinctly with your eyes very close to the magnifier?
+
+[Note: Exercises 9.23 to 9.25 will help you clearly understand the
+difference between magnification in absolute size and the angular
+magnification (or magnifying power) of an instrument.]
+
+Answer the following questions:
+
+(a) The angle subtended at the eye by an object is equal to the
+angle subtended at the eye by the virtual image produced by a
+magnifying glass. In what sense then does a magnifying glass
+provide angular magnification?
+
+(b) In viewing through a magnifying glass, one usually positions
+one’s eyes very close to the lens. Does angular magnification
+change if the eye is moved back?
+
+(0) Magnifying power of a simple microscope is inversely proportional
+to the focal length of the lens. What then stops us from using a
+convex lens of smaller and smaller focal length and achieving
+greater and greater magnifying power?
+
+(d) Why must both the objective and the eyepiece of a compound
+microscope have short focal lengths?
+
+(e) When viewing through a compound microscope, our eyes should
+be positioned not on the eyepiece but a short distance away
+from it for best viewing. Why? How much should be that short
+distance between the eye and eyepiece?
+
+9.27 An angular magnification (magnifying power) of 30X is desired using
+
+an objective of focal length 1.25 cm and an eyepiece of focal length
+5cm. How will you set up the compound microscope?
+
+9.28 A small telescope has an objective lens of focal length 1400m and
+
+9.29
+
+an eyepiece of focal length 5.0 cm. What is the magnifying power of
+the telescope for viewing distant objects when
+
+(a) the telescope is in normal adjustment (i.e., when the final image
+is at infinity)?
+
+(b) the final image is formed at the least distance of distinct vision
+(25 cm)?
+
+(a) For the telescope described in Exercise 9.28 (a), what is the
+separation between the objective lens and the eyepiece?
+
+(b) If this telescope is used to view a 100 m tall tower 3 km away,
+what is the height of the image of the tower formed by the objective
+lens?
+
+2019-20
+
+347

@@ -1,0 +1,135 @@
+N uclel
+COOLANT —y
+REFLECTOR
+STEAM TO
+TURBINE
+CONTROL HEAT EXCHANGER
+RODS (STEAM GENERATOR)
+
+4—
+
+FIGURE 13.5 Schematic diagram ofa nuclear reactor based on
+thennal neutron fission.
+
+ﬁssion. It contains the fuel elements in suitably fabricated form. The fuel
+may be say enriched uranium (i.e., one that has greater abundance of
+2351} than naturally occurring uranium). The core contains a moderator
+to slow down the neutrons. The core is surrounded by a reﬂector to reduce
+leakage. The energy (heat) released in ﬁssion is continuously removed by
+a suitable coolant. A containment vessel prevents the escape of radioactive
+ﬁssion products. The whole assembly is shielded to check harmful
+radiation from coming out. The reactor can be shut down by means of
+rods (made of, for example, cadmium) that have high absorption of
+neutrons. The coolant transfers heat to a working ﬂuid which in turn
+may produce stream. The steam drives turbines and generates electricity.
+
+Like any power reactor, nuclear reactors generate considerable waste
+products. But nuclear wastes need special care for treatment since they
+are radioactive and hazardous. Elaborate safety measures, both for reactor
+operation as well as handling and reprocessing the spent fuel, are
+required. These safety measures are a distinguishing feature of the Indian
+Atomic Energy programme. An appropriate plan is being evolved to study
+the possibility of converting radioactive waste into less active and short-
+
+lived material.
+
+13.7.3 Nuclear fusion — energy generation in stars
+
+When two light nuclei fuse to form a larger nucleus, energy is released,
+since the larger nucleus is more tightly bound, as seen from the binding
+energy curve in Fig. 13. 1. Some examples of such energy liberating nuclear
+fusion reactions are :
+
+1H4, 114s 21H + e+ + v + 0.42 MeV [13-29lall
+21H+§H—>§He+ n+3.27 MeV [13.29(b)]
+3H +314 _> ﬁH + {H + 4.03 MeV [1329(0)]
+
+2019-20
+
+WATER FROM
+‘ CONDENSER
+
+I
+s
+_.
+'53.
+E
+m
+(/5
+D.»
+N
+‘7?
+(D
+:3
+:3
+m
+in
+Q:
+E
+m
+o.
+i
+Q.»
+('3
+:.
+<
+E
+m
+K
+:5
+C
+7\—
+m
+m
+3
+m
+a
+O”;
+‘<
+\
+3
+c
+z.
+.0
+3‘
+F.
+I)
+_J
+
+ 
+
+>
+.9.
+E
+E
+E;
+(D
+D.
+O
+E
+S.
+(0
+.‘ﬂ.
+3
+E
+9)
+$2.".
+0
+5
+O
+._.,
+Q)
+:3
+C
+Q.
+(0
+Q)
+"1
+'1
+(D
+Q)
+9,
+O
+"1
+
+455

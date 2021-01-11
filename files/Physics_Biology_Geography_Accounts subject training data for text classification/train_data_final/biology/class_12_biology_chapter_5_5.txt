@@ -1,0 +1,74 @@
+F2 generation
+
+Figure 5.3 Diagrammatic representation
+
+72
+
+Parental
+
+F1 generation
+
+ 
+
+BIOLOGY
+
+Based on these observations,
+Mendel proposed that something
+was being stably passed down,
+unchanged, from parent to offspring
+through the gametes, over
+successive generations. He called
+these things as ‘factors’. Now we call
+them as genes. Genes, therefore, are
+the units of inheritance. They
+contain the information that is
+required to express a particular trait
+in an organism. Genes which code
+for a pair of contrasting traits are
+known as alleles, i.e., they are
+slightly different forms of the same
+gene.
+
+If we use alphabetical symbols
+for each gene, then the capital letter
+is used for the trait expressed at the
+F1 stage and the small alphabet for
+the other trait. For example, in case
+of the character of height, T is used
+for the Tall trait and t for the ‘dwarf’,
+and T and t are alleles of each other.
+Hence, in plants the pair of alleles
+for height would be TT, Tt or tt.
+Mendel also proposed that in a true
+
+of monohybrid cross breeding, tall or dwarf pea variety
+
+the allelic pair of genes for height are
+
+identical or homozygous, TT and tt, respectively. TT and tt are called
+
+the genotype of the plant while the descriptive terms tall and dwarf are
+
+the phenotype. What then would be the phenotype of a plant that had a
+genotype Tt?
+
+As Mendel found the phenotype of the F1 heterozygote Tt to be exactly
+like the TT parent in appearance, he proposed that in a pair of dissimilar
+factors, one dominates the other (as in the F1) and hence is called the
+dominant factor while the other factor is recessive . In this case T (for
+tallness) is dominant over t (for dwarfness), that is recessive. He observed
+identical behaviour for all the other characters / trait-pairs that he studied.
+
+It is convenient (and logical) to use the capital and lower case of an
+alphabetical symbol to remember this concept of dominance and
+recessiveness. (Do not use T for tall and d for dwarf because you will
+ﬁnd it difﬁcult to remember whether T and d are alleles of the same
+gene / character or not). Alleles can be similar as in the case of homozygotes
+TT and tt or can be dissimilar as in the case of the heterozygote Tt. Since
+
+  
+ 
+
+Dwarf
+
+2019—2020

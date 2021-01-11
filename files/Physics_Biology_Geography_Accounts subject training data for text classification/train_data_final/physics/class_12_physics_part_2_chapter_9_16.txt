@@ -1,0 +1,65 @@
+Roy Optics and
+Optical Instruments
+
+Substituting iand r from Eqs. (9.13) and (9.14), we get
+
+3—;4+% = “1:1 (9.15)
+Here, OM, MI and MC represent magnitudes of distances. Applying the
+Cartesian sign convention,
+
+OM =—u, M1 = +v, MC = +R
+
+Substituting these in Eq. (9.15), we get
+
+ 
+
+an = '12-'11
+v u R (9.16)
+
+Equation (9.1 6) gives us a relation between object and image distance
+in terms of refractive index of the medium and the radius of
+curvature of the curved spherical surface. It holds for any curved
+spherical surface.
+
+ 
+
+Example 9.6 Light from a point source in air falls on a spherical
+glass surface (n = 1.5 and radius of curvature = 20 cm). The distance
+of the light source from the glass surface is 100 cm. At What position
+the image is formed?
+
+ 
+
+ 
+
+ 
+
+Solution
+We use the relation given by Eq. (9.16). Here
+u=— 100 cm, v=?, R=+200m, n1 =1,and n2= 1.5.
+We then have
+1.5 1 0.5 F!
+_+_=_
+v 100 20 E
+or v = +100 cm 5
+The image is formed at a distance of 100 cm from the glass surface, (0
+in the direction of incident light. ‘5,
+9.5.2 Refraction by a lens
+Figure 9. 18(a) shows the geometry of image formation by a double convex
+lens. The image formation can be seen in terms of two steps:
+(i) The first refracting surface forms the image I1 of the object 0
+[Fig 9.18(b)]. The image I1 acts as a virtual object for the second surface
+that forms the image at I [Fig. 9.18(c)]. Applying Eq. (9.15) to the first
+interface ABC, we get
+”1 n2 n2 _n1
+—+_:
+OB BI1 BC1 (9.17)
+A similar procedure applied to the second interface* ADC gives,
+n2 n1 n2 _n1
+__+_:
+DI1 DI DC2 (9'18)
+* Note that now the refractive index of the medium on the right side of ADC is n1
+while on its left it is n2. Further D11 is negative as the distance is measured
+against the direction of incident light. 325
+
+2019-20

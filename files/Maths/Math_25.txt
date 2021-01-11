@@ -1,0 +1,39 @@
+Numbers
+25
+A smaller number is a factor of a larger number if, when you divide
+the smaller number into the larger number, you end up with a remainder
+of 0. It is called a factor because you can multiply it by the quotient to get
+the larger number. Remember that multiplication and division go hand in
+hand. For example, 4 is a factor of 20 because 20 ÷ 4 equals 5 remainder 0.
+Looking at it another way, 4 × 5 = 20. We say that 20 is evenly divisibly
+by 4. Every number is evenly divisibly by its factors. “Divides evenly”
+means the same thing as “has remainder 0.” Every counting number is
+evenly divisible by 1 and every counting number is evenly divisible by itself.
+Lesson 1-7: Prime Numbers and Factoring
+A counting number is prime if the only numbers that divide into it
+evenly are 1 and itself. In other words, a prime number has no other
+factors besides 1 and itself. For example, 3 is prime because the only
+numbers that divide it evenly are 1 and 3.
+Remember that every counting number, other than 1, has at least two
+factors: 1 and itself. Because the number 1 divides evenly into every other
+counting number, we call 1 a trivial factor.
+The number 1 is in a class by itself. There is only one counting num-
+ber that evenly divides 1: itself. It is not considered to be prime.
+If a counting number other than 1 is not prime, it is composite. A
+composite number is a number that can be evenly divided by a number
+other than 1 or itself. For example, 9 is composite because, in addition to
+1 and 9, it is evenly divisible by 3.
+We can list the first few prime numbers: 2, 3, 5, 7, 11, 13, 17, 19, 23….
+The list of prime numbers never ends. There is no largest prime number.
+Over the years, many mathematicians have been, and continue to be,
+fascinated with prime numbers, and new discoveries about prime num-
+bers are still being made. The largest prime number known requires more
+than 4 million digits to write out completely, and mathematicians are
+currently looking for an even larger prime number.
+Prime numbers are useful for factoring numbers. Every composite
+number can be written as a product of prime numbers. For example,
+18 = 2 × 3 × 3, and 2 and 3 are prime numbers. In order to factor a
+composite number, you need to go down the list of prime numbers, divide
+each prime number into the composite number, and check to see if the
+remainder is zero. If the remainder is 0, the prime number you used is a
+factor of the composite number.

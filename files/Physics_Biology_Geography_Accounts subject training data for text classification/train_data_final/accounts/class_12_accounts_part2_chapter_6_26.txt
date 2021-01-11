@@ -1,0 +1,52 @@
+Cash Flow Statement 261
+
+Solution:
+
+Cash Flow Statement
+
+Cash ﬂows from Operating Activities
+
+ 
+
+Net Proﬁt before Taxation and Extraordinary Items 3.95.000
+Adjustment for —
++ Depreciation 40,000
++ Goodwill written-off 20.000
+— Proﬁt on Sale of Land (15,000)
+= Operating Proﬁt before working capital changes 4.40.000
+— Decrease in Trade Payables (10,000)
+— Increase in Trade Receivables (50,000)
+— Increase in Inventories (80,000)
+= Cash generated from Operations 3,00,000
+— Income Tax Paid (1) (65,000)
+A. Cash Inﬂows from Operations m
+II. Cash ﬂows from Investing Activities
+Proceeds from Sale of Land and Building 1.65.000
+Purchase of Investment (6.00.000)
+B. Cash used in Investing Activities (4.35.000)
+III. Cash ﬂows from Financing Activities
+Proceeds from issue of Equity Share Capital 5.00.000
+Redemption of Debentures (2.00.000)
+Proceeds from raising Bank Loan 1.00.000
+Dividend Paid (1.50.000)
+Dividend Tax Paid (15,000)
+Cash ﬂows from Financing Activities m
+Net Increase in cash and cash equivalents (A+B+C) 35.000
++ Cash and Cash Equivalents in the beginning 3.40.000
+Cash and Cash Equivalent at the end 3.75.000
+Working Notes:
+(1) Total tax paid during the year Rs 80,0000
+(—) Dividend tax paid (given) Rs (15,000)
+Income tax paid for operating activities Rs 65,000
+
+(2) Net proﬁt earned during the year after tax and dividend
+= Rs 7.50.000 — 6.00.000 = Rs 1.50.000
+(3) Net proﬁt before tax
+
+= Net proﬁt earned during the year after tax and dividend + Provision for
+tax made + Proposed Dividend
+
+= Rs 1.50.000 + Rs 95,000 (See provision for taxation account)+
+Rs 1.50.000
+
+= Rs 3.95.000

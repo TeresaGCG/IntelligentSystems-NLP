@@ -1,0 +1,91 @@
+10.1
+
+10.2
+
+10.3
+
+10.4
+
+10.5
+
+10.6
+
+10.7
+
+10.8
+
+10.9
+
+10.10
+
+ 
+
+ 
+
+Wove Optics
+
+ 
+
+EXERCISES
+
+Monochromatic light of wavelength 589 nm is incident from air on a
+water surface. What are the wavelength, frequency and speed of
+(a) reﬂected, and (b) refracted light? Refractive index of water is
+1.33.
+
+What is the shape of the wavefront in each of the following cases:
+(a) Light diverging from a point source.
+
+(b) Light emerging out of a convex lens when a point source is placed
+at its focus.
+
+(c) The portion of the wavefront of light from a distant star intercepted
+by the Earth.
+
+(a) The refractive index of glass is 1.5. What is the speed of light in
+glass? (Speed of light in vacuum is 3.0 X 108 m s’l)
+
+(b) Is the speed of light in glass independent of the colour of light? If
+not, which of the two colours red and violet travels slower in a
+glass prism?
+
+In a Young’s double-slit experiment, the slits are separated by
+0.28 mm and the screen is placed 1.4 m away. The distance between
+the central bright fringe and the fourth bright fringe is measured
+to be 1.2 cm. Determine the wavelength of light used in the
+experiment.
+
+In Young’s double-slit experiment using monochromatic light of
+wavelength x1, the intensity of light at a point on the screen where
+path difference is x1, is K units. What is the intensity of light at a
+point where path difference is xi/ 3?
+
+A beam of light consisting of two wavelengths, 650 nm and 520 nm,
+is used to obtain interference fringes in a Young’s double-slit
+experiment.
+
+(a) Find the distance of the third bright fringe on the screen from
+the central maximum for wavelength 650 nm.
+
+(b) What is the least distance from the central maximum where the
+bright fringes due to both the wavelengths coincide?
+
+In a double-slit experiment the angular width of a fringe is found to
+be 02° on a screen placed 1 m away. The wavelength of light used is
+600 nm. What will be the angular width of the fringe if the entire
+experimental apparatus is immersed in water? Take refractive index
+of water to be 4/3.
+
+What is the Brewster angle for air to glass transition? (Refractive
+index of glass = 1.5.)
+
+Light of wavelength 5000 A falls on a plane reﬂecting surface. What
+are the wavelength and frequency of the reﬂected light? For what
+angle of incidence is the reﬂected ray normal to the incident ray?
+
+Estimate the distance for which ray optics is good approximation
+for an aperture of 4 mm and wavelength 400 nm.
+
+2019-20
+
+383

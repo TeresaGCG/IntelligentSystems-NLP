@@ -1,0 +1,54 @@
+Trial Balance and Rectification of Errors 191
+
+case of two errors compensating each other’s effect. One plus is set off by the
+other minus, the net effect of these two errors is nil and so they do not affect the
+agreement of trial balance.
+
+6.5 Searching of Errors
+
+If the trial balance does not tally, it is a clear indication that at least one error
+has occured. The error (or errors) needs to be located and corrected before
+preparing the ﬁnancial statements.
+
+If the trial balance does not tally, the accountant should take the following
+
+steps to detect and locate the errors :
+
+Recast the totals of debit and credit columns of the trial balance.
+Compare the account head / title and amount appearing in the trial balance,
+with that of the ledger to detect any difference in amount or omission of an
+account.
+
+Compare the trial balance of current year with that of the previous year to
+check additions and deletions of any accounts and also verify whether
+there is a large difference in amount, which is neither expected nor
+explained.
+
+Re-do and check the correctness of balances of individual accounts in
+the ledger.
+
+Re-check the correctness of the posting in accounts from the books of
+original entry.
+
+If the difference between the debit and credit columns is divisible by 2,
+there is a possibility that an amount equal to one-half of the difference
+may have been posted to the wrong side of another ledger account. For
+example, if the total of the debit column of the trial balance exceeds by
+? 1,500, it is quite possible that a credit item of ?750 may have been wrongly
+posted in the ledger as a debit item. To locate such errors, the accountant
+should scan all the debit entries of an amount of ? 750.
+
+The difference may also indicate a complete omission of a posting. For
+example, the difference of ? 1,500 given above may be due to omissions of a
+posting of that amount on the credit side. Thus, the accountant should verify
+all the credit items with an amount of ? 1,500.
+
+If the difference is a multiple of 9 or divisible by 9, the mistake could be due
+to transposition of figures. For example, if a debit amount of ? 459 is posted
+as ? 954, the debit total in the trial balance will exceed the credit side by
+? 495 (i.e. 954 — 459 = 495). This difference is divisible by 9. A mistake due
+to wrong placement of the decimal point may also be checked by this method.
+Thus, a difference in trial balance divisible by 9 helps in checking the errors
+for a transposed mistake.
+
+2019-2020

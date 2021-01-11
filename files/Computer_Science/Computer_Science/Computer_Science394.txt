@@ -1,0 +1,30 @@
+378 Chapter 6 Enhancing Performance with Plpellnlng
+Program
+execution 200 400 600 800 1000 1200 1400
+---';''-----'T'- --'';''-----'T'- --''''C''---'T' '-----'C,"-.-.
+order Time
+(in instructions)
+IW $sO, 20($11)
+MEM
+sub $12, $sO, $13
+FIGURE 6.6 We need a stall even with forwarding when an R.format Instruction follow 
+Ing a load tries to use the data. Without the stall, the path from memory access stage outpul to exe·
+cution stage input mmld be going backwards in time, which is impossible. This figure is aetu.1Uy a
+simplification, since we cannot know wnil after the subtract instruction is fetched and decoded whether or
+not a stall will be necessary. Section 6.5 shows the details of what really happens in the case of a hazard.
+Reordering Code to Avoid Pipeline Stalls
+Consider the following code segment in C:
+EXAMPLE
+A B + E;
+C B + F;
+Here is the generated MIPS code for this segment, assuming all variables are
+in memory and are addressable as offsets from $tO:
+lw I tl , O(ltO)
+lw ItZ, 4(ltO)
+add 1t3, Itl , ltZ
+sw 1t3, lZ(ltO)
+lw 1t4, 8(101)
+add ItS, Itl , lt4
+sw ItS, 16(ltO)
+Find the hazards in the following code segment and reorder the instructions
+to avoid any pipeline stalls.

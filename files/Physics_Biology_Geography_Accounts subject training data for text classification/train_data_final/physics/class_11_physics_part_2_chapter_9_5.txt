@@ -1,0 +1,63 @@
+240 PHYSICS
+—
+
+preferred in heavy-duty machines and in where the subscripts c and 3 refer to copper
+structural designs. Wood, bone, concrete and and stainless steel respectively. Or,
+glass have rather small Young’s moduli. ALC/ALS = (YS/YC) >< (LC/LS)
+Given LC = 2.2 m. LS = 1.6 m,
+Example 9.1 A structural steel rod has a From Table 9.1 YC = 1.1 x 1011 N.m‘2, and
+radius of 10 mm and a length of 1.0 m. A YS = 2.0 x 1011 N.m‘2.
+100 kN force stretches it along its length. ALC/ALS = (2.0 x loll/1.1 x 10”) x (2.2/1.6) = 2.5.
+Calculate (a) stress. (b) elongation. and (c) The total elongation is given to be
+strain on the rod. Young’s modulus. of ALC+ ALS = 7.0 x 10‘4m
+structural steel is 2.0 x 10“ N m”. Solving the above equations,
+ALC = 5.0 x 10'4 m, and ALS = 2.0 x 10'4 m.
+Answer We assume that the rod is held by a Therefore
+clamp at one end, and the force Fis applied at W = (A x YC >< ALCJ/LC
+
+ 
+
+the other end, parallel to the length of the rod. = 7t (1.5 x 10'3)2 x [(5.0 x 10‘4 x 1.1 x 1011)/2.2]
+Then the stress on the rod is given by = 1.8 x 102 N 4
+Stress=£ 2% Example 9.3 In a human pyramid in a
+A W circus, the entire weight of the balanced
+100 x 103N group is supported by the legs of a
+= —2 performer who is lying on his back (as
+3-14 X (10—2 m) shown in Fig. 9.5). The combined mass of
+= 3.18 x 108 N m‘2 all the persons performing the act, and the
+The elongation, tables. plaques etc. involved is 280 kg. The
+mass of the performer lying on his back at
+AL _ (F/A)L the bottom of the pyramid is 60 kg. Each
+_ Y thighbone (femur) of this performer has a
+length of 50 cm and an effective radius of
+(3.18 x 108N m_2)(1m) 2.0 cm. Determine the amount by which
+= ﬂ each thighbone gets compressed under the
+2 x 10 N m extra load.
+= 1.59 x 10‘3 m
+= 1.59 mm
+
+The strain is given by
+Strain = AL/L
+= (1.59 x 10‘3 m)/(1m)
+= 1.59 x 10‘3
+= 0.16 % 4
+
+Example 9.2 A copper wire of length 2.2
+m and a steel wire of length 1.6 m. both of
+diameter 3.0 mm. are connected end to end.
+
+When stretched by a load. the net
+elongation is found to be 0.70 mm. Obtain
+the load applied.
+
+Answer The copper and steel wires are under
+a tensile stress because they have the same
+tension (equal to the load W) and the same area
+of cross-section A. From Eq. (9.7) we have stress
+= strain >< Young’s modulus. Therefore
+
+W/A = YC >< (ALc/Lc) = YS >< (ALS/LS) Fig. 9.5 Human pyramid in a circus.
+
+ 
+
+2019-20

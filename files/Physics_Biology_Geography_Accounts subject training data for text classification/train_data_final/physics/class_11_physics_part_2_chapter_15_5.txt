@@ -1,0 +1,118 @@
+372
+
+PHYSICS
+
+ 
+
+15.3.2 Wavelength and Angular Wave
+Number
+
+The minimum distance between two points
+having the same phase is called the wavelength
+of the wave, usually denoted by 7L. For simplicity,
+we can choose points of the same phase to be
+crests or troughs. The wavelength is then the
+distance between two consecutive crests or
+troughs in a wave. Taking q) = O in Eq. (15.2),
+the displacement at t= O is given by
+
+y(x,0)= asinkx (15.5)
+
+Since the sine function repeats its value after
+every 27: change in angle,
+
+sinkx = sin(kx + 2n7r) = sink (x + %)
+
+That is the displacements at points x and at
+
+2n7r
+x+—
+k
+
+are the same, where n=1,2,3,... The least
+distance between points with the same
+displacement (at any given instant of time) is
+obtained by taking n = 1. A, is then given by
+
+27: 27:
+xi:— k:—
+k or ,1 (15.6)
+
+k is the angular wave number or propagation
+constant; its SI unit is radian per metre or
+
+rad m‘1 *
+
+15.3.3 Period. Angular Frequency and
+Frequency
+
+Fig. 15.7 shows again a sinusoidal plot. It
+describes not the shape of the wave at a certain
+instant but the displacement of an element (at
+any fixed location) of the medium as a function
+of time. We may for, simplicity, take Eq. (15.2)
+with (1) = O and monitor the motion of the element
+say at x = 0 . We then get
+
+y(0, t) = a sin(—a)t)
+
+= —a sin wt
+
+<—T—>
+
+Fig. 15.7 An element of a string at a ﬁxed location
+oscillates in time with amplitude a and
+period T, as the wave passes over it.
+
+Now, the period of oscillation of the wave is the
+time it takes for an element to complete one full
+oscillation. That is
+
+—a sin cat = —a sin w(t + T)
+= —a sin(a)t + wT)
+
+Since sine function repeats after every 271;,
+
+27;
+
+wT = 27: 01‘ a): T (15.7)
+
+0) is called the angular frequency of the wave.
+
+Its SI unit is rad 3'1. The frequency v is the
+number of oscillations per second. Therefore,
+
+1 a)
+
+V : _ : _
+
+T 27r
+V is usually measured in hertz.
+In the discussion above, reference has always
+been made to a wave travelling along a string or
+a transverse wave. In a longitudinal wave, the
+displacement of an element of the medium is
+parallel to the direction of propagation of the
+
+wave. In Eq. (15.2), the displacement function
+for a longitudinal wave is written as,
+
+s(x, t) = a sin (kx— cot + (p) (15.9)
+
+(15.8)
+
+where s(x, t) is the displacement of an element
+of the medium in the direction of propagation
+of the wave at position xand time t. In Eq. (15.9),
+a is the displacement amplitude; other
+quantities have the same meaning as in case
+of a transverse wave except that the
+displacement function y (x, t) is to be replaced
+by the function 5 (x, t).
+
+* Here again, ‘radian’ could be dropped and the units could be written merely as m’l. Thus, k represents 27:
+times the number of waves (or the total phase difference) that can be accommodated per unit length, with SI
+
+units m‘1.
+
+2019-20

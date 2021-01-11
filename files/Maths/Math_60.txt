@@ -1,0 +1,24 @@
+Homework Helpers: Basic Math and Pre-Algebra
+60
+For 3 to become a 6 in the denominator, multiply 3 by 2, so multiply
+by 1 disguised as  .
+For 2 to become a 6 in the denominator, multiply 2 by 3, so multiply
+by 1 disguised as  .
+When you change the denominator of a fraction, it is important to
+keep the value of the fraction the same. The golden rule of changing the
+denominator of a fraction is to do to the numerator whatever you do to
+the denominator. When you change the numerator and the denominator
+by the same factor, you are effectively multiplying by 1.
+Now that we have written   and   as fractions with the same de-
+nominator we can add them together by simply adding the numerators:
+Once we’ve added the two fractions we must check whether or not
+we can reduce the resulting fraction. In this case, 5 and 6 are relatively
+prime so there is no further reduction.
+Example 1
+Find:
+Solution: In order to add these two fractions we need them to
+have a common denominator. First, factor both denominators to
+find the greatest common factor: 25 = 5× 5 and 20 = 2× 2 × 5  so
+the greatest common factor is 5. Next, find the least common
+multiple:
+www.ebook3000.com

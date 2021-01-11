@@ -1,0 +1,75 @@
+l Physics
+
+ 
+
+oscillators, which take up the frequency of the external agency ﬂight)
+causing forced oscillations. The frequency of light emitted by a charged
+oscillator equals its frequency of oscillation. Thus, the frequency of
+scattered light equals the frequency of incident light.
+
+(b) No. Energy carried by a wave depends on the amplitude of the
+wave, not on the speed of wave propagation.
+
+(c) For a given frequency, intensity of light in the photon picture is
+determined by the number of photons crossing an unit area per
+unit time.
+
+{ 10.4 COHERENT AND INCOHERENT ADDITION OF WAVES
+
+In this section we will discuss the interference pattern produced by
+the superposition of two waves. You may recall that we had discussed
+the superposition principle in Chapter 15 of your Class XI textbook.
+Indeed the entire field of interference is based on the superposition
+principle according to which at a particular point in the medium, the
+resultant displacement produced by a number of waves is the vector
+sum of the displacements produced by each of the waves.
+Consider two needles S1 and S2 moving periodically up and down
+in an identical fashion in a trough of water [Fig 1 O.8(a)]. They produce
+two water waves, and at a particular point, the phase difference between
+the displacements produced by each of the waves does not change
+with time; when this happens the two sources are said to be coherent.
+Figure 10.8(b) shows the position of crests (solid circles) and troughs
+(dashed circles) at a given instant of time. Consider a point P for which
+
+S1 P = S2 P
+Since the distances S1 P and S2 P are equal, waves from S1 and 82
+will take the same time to travel to the point P and waves that emanate
+
+from S1 and S2 in phase will also arrive, at the point P, in phase.
+
+Thus, if the displacement produced by the source S1 at the point P
+FIGURE 10.8 (a) Two is given by
+
+needles oscillating in
+
+phase in water
+represent two coherent then, the displacement produced by the source 82 (at the point P) will
+sources. also be given by
+(b) The pattern of
+
+displacement of water
+
+ 
+
+y1 = acos wt
+
+y2 = acos wt
+
+molecmes at an Thus, the resultant of displacement at P would be given by
+instant on the surface
+of water showing nodal y = H1 + U2 = 2 a COS wt
+
+N (no displacement)
+
+. Since the intensity is proportional to the square of the amplitude,
+and antmodal A
+
+the resultant intensity will be given by
+
+(maximum
+displacement) lines. I = 4 10
+where IO represents the intensity produced by each one of the individual
+sources; I0 is proportional to a2. In fact at any point on the perpendicular
+360 bisector of 8182, the intensity will be 410. The two sources are said to
+
+2019-20

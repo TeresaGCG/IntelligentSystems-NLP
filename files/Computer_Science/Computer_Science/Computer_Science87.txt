@@ -1,0 +1,39 @@
+71
+2.5 Logical Operations
+is this value in register $to:
+1111 111111111111 11000011 11l1l1l1two
+Figure 2.9 above shows the relationship between the C and Java operators and
+the MIPS instructions. Constants are useful in AND and OR logical operations as
+well as in arithmetic operations, so MIPS also provides the instructions and
+immediate (andi) and or immediate (ori). Constants are rare for NOR, since its
+main use is to invert the bits of a single operand; thus, the hardware has no imme 
+diate version. Figure 2.10, which summarizes the MIPS instructions seen thus far,
+highlights the logical instructions.
+MIPS operands
+Name Example Comments
+32 $sO, $s l , ... , $s7 Fast locations for data. In MIPS, data must be in registers to perfonn arithmetic.
+registers StO. St1 , ... , St7 Registers $sO- $s7 map to 16-23 and StO- St7 map to 8-15.
+2" Memory(O]. Accessed only by data transfer instructions. MIPS uses byte addresses, so
+memory Memory(4]. ... , sequential word addresses differ by 4. Memory holds data structures, arrays, and
+words Memory(4294967292] spilled registers.
+MIPS assembly language
+Category Instruction Example Meaning Comments
+.dd odd $s1.$s2.$s3 $sl - $s2 + $s3 Three operands; overflow detected
+Arithmetic subtract ;"b $s 1. $s2.$s3 $sl - $s2 $;3 Three operands; overflow detected
+add immediate addi $sl . $s2.100 $s1_ $s2 + 100 + constant; overflow detected
+.,d oed $s1,$s2,$s3 $sl _ $s2 & $s3 Three reg. operands; bit.t>y.t>it AND
+0' 0'
+$s1,$s2,$s3 $sl _ $s21 $s3 Three reg. operands; bit.t>y.t>it OR
+'0' '0'
+$s1,$s2,$s3 $sl--($s2 1$s3 ) Three reg. operands; bit.t>y.t>it NOR
+Logical and immediate andi $s1,$s2,100 $sl _ $s2 & 100 Bit.t>y.t>it AND reg with constant
+or immediate ori $s1,$s2,100 $sl" $s21 1oo Bit.t>y.t>it OR reg with constant
+shift left logical ,II $s1,$s2,10 $sl" $s2 « 10 Shift left by constant
+shift right logical 'ri $$s1,$s2,10 $sl" $s2» 10 Shift right by constant
+D,,.
++
+load word " $s1.100($s2) $,1 Memory($ s2 100) Word from memory to register
++
+transfer store word " $s1.100($s2) Memory($s2 100)- $; 1 Word from register to memory
+FIGURE 2.10 MIPS architecture revealed thus far. Color indicates the portions imroouced since Figure 2.7 on page 67. The back
+endpapers ofthis book also list the MIPS machine language.

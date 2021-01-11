@@ -1,0 +1,46 @@
+6 Accountancy : Company Accounts and Analysis of Financial Statements
+
+1.4 Nature and Classes of Shares
+
+Shares, refer to the units into which the total share capital of a company is
+divided. Thus, a share is a fractional part of the share capital and forms the
+basis of ownership interest in a company. The persons who contribute money
+through shares are called shareholders.
+
+The amount of authorised capital, together with the number of shares in
+which it is divided, is stated in the Memorandum of Association but the classes
+of shares in which the company's capital is to be divided, along with their
+respective rights and obligations, are prescribed by the Articles of Association
+of the company. As per The Companies Act, a company can issue two types
+of shares (1) preference shares, and (2) equity shares (also called ordinary
+shares).
+
+1 .4. 1 Preference Shares
+
+According to Section 43 of The Companies Act, 20 13, a preference share is one,
+which fulﬁls the following conditions :
+
+(a) That it carries a preferential right to dividend to be paid either as a
+fixed amount payable to preference shareholders or an amount
+calculated by a ﬁxed rate of the nominal value of each share before
+any dividend is paid to the equity shareholders.
+
+(b) That with respect to capital it carries or will carry, on the winding up
+of the company, the preferential right to the repayment of capital before
+anything is paid to equity shareholders.
+
+However, notwithstanding the above two conditions, a holder of the
+preference share may have a right to participate fully or to a limited extent in
+the surpluses of the company as specified in the Memorandum or Articles of
+the company. Thus, the preference shares can be participating and non-
+participating. Similarly, these shares can be cumulative or non—cumulative, and
+redeemable or irredeemable.
+
+1 .4.2 Equity Shares
+
+According to Section 43 of The Companies Act, 20 13, an equity share is a share
+which is not a preference share. In other words, shares which do not enjoy any
+preferential right in the payment of dividend or repayment of capital, are termed
+as equity/ ordinary shares. The equity shareholders are entitled to share the
+distributable proﬁts of the company after satisfying the dividend rights of the
+preference share holders. The dividend on equity shares is not ﬁxed and it may

@@ -1,0 +1,93 @@
+Electric Charges
+and Fields
+
+the density of a liquid, we are referring to its macroscopic density. We
+regard it as a continuous ﬂuid and ignore its discrete molecular
+constitution.
+
+The field due to a continuous charge distribution can be obtained in
+much the same way as for a system of discrete charges, Eq. ( l. 10). Suppose
+a continuous charge distribution in space has a charge density p. Choose
+any convenient origin 0 and let the position vector of any point in the
+charge distribution be r. The charge density p may vary from point to
+point, i.e., it is a function of 1'. Divide the charge distribution into small
+volume elements of size AV. The charge in a volume element AVis pAV.
+
+Now, consider any general point P (inside or outside the distribution)
+with position vector R (Fig. 1.24). Electric field due to the charge pAVis
+given by Coulomb’s law:
+
+1 p AV f,
+47580 r12 (1 .26)
+
+where r’ is the distance between the charge element and P, and r’ is a
+unit vector in the direction from the charge element to P. By the
+superposition principle, the total electric field due to the charge
+distribution is obtained by summing over electric fields due to different
+volume elements:
+
+1 pAV-,
+
+4,180 MEN #2 r (1.27)
+
+Note that p, r’, i-’ all can vary from point to point. In a strict
+mathematical method, we should let AV—>O and the sum then becomes
+an integral; but we omit that discussion here, for simplicity. In short,
+using Coulomb’s law and the superposition principle, electric ﬁeld can
+be determined for any charge distribution, discrete or continuous or part
+discrete and part continuous.
+
+1. 14 GAUss’s LAW
+
+As a simple application of the notion of electric ﬂux, let us consider the
+total ﬂux through a sphere of radius r, which encloses a point charge q
+at its centre. Divide the sphere into small area elements, as shown in
+Fig. 1.25.
+
+The ﬂux through an area element AS is
+
+AE=
+
+ 
+
+ 
+
+EE
+
+ 
+
+ 
+
+q -
+A : E-ASz r-AS
+(5 475809 (1.28)
+
+where we have used Coulomb’s law for the electric field due to a single
+charge q. The unit vector i‘ is along the radius vector from the centre to
+the area element. Now, since the normal to a sphere at every point is
+along the radius vector at that point, the area element AS and i' have
+the same direction. Therefore,
+
+M5 = L2 AS (1 29)
+
+47180 r '
+
+since the magnitude of a unit vector is l.
+
+The total ﬂux through the sphere is obtained by adding up ﬂux
+through all the different area elements:
+
+ 
+
+2019-20
+
+ 
+
+FIGURE 1.25 Flux
+
+through a sphere
+
+enclosing a point
+charge (1 at its centre.
+
+33

@@ -1,0 +1,73 @@
+MOTION IN A PLANE 85
+—
+
+POINTS TO PONDER
+
+l. The path length traversed by an object between two points is. in general. not the same as
+the magnitude of displacement. The displacement depends only on the end points; the
+path length (as the name implies) depends on the actual path. The two quantities are
+equal only if the object does not change its direction during the course of motion. In all
+other cases. the path length is greater than the magnitude of displacement.
+
+2. In View of point 1 above. the average speed of an object is greater than or equal to the
+magnitude of the average velocity over a given time interval. The two are equal only if the
+path length is equal to the magnitude of displacement.
+
+3. The vector equations [4.3321] and (4.34a) do not involve any choice of axes. Of course,
+you can always resolve them along any two independent axes.
+
+4. The kinematic equations for uniform acceleration do not apply to the case of uniform
+circular motion since in this case the magnitude of acceleration is constant but its
+direction is changing.
+
+5. An object subjected to two velocities v1 and v2 has a resultant velocity v = vl + v2. Take
+care to distinguish it from velocity of object 1 relative to velocity of object 2 : v1.2: vl — v2.
+Here v1 and v2 are velocities with reference to some common reference frame.
+
+6. The resultant acceleration of an object in circular motion is towards the centre only if
+the speed is constant.
+
+7. The shape of the trajectory of the motion of an object. is not determined by the acceleration
+alone but also depends on the initial conditions of motion [ initial position and initial
+velocity). For example. the trajectory of an object moving under the same acceleration
+due to gravity can be a straight line or a parabola depending on the initial conditions.
+
+ 
+
+ 
+
+EXERCISES
+
+4.1 State, for each of the following physical quantities. if it is a scalar or a vector :
+volume, mass, speed, acceleration, density, number of moles, velocity, angular
+frequency, displacement, angular velocity.
+
+4.2 Pick out the two scalar quantities in the following list :
+force, angular momentum, work, current, linear momentum, electric field, average
+velocity, magnetic moment, relative velocity.
+
+4.3 Pick out the only vector quantity in the following list :
+Temperature, pressure, impulse, time, power, total path length, energy, gravitational
+potential, coefficient of friction, charge.
+
+4.4 State with reasons, whether the following algebraic operations with scalar and vector
+physical quantities are meaningful :
+
+(a) adding any two scalars, (b) adding a scalar to a vector of the same dimensions ,
+[c] multiplying any vector by any scalar, (d) multiplying any two scalars, (e) adding any
+two vectors, (f) adding a component of a vector to the same vector.
+
+4.5 Read each statement below carefully and state with reasons, if it is true or false :
+(a) The magnitude of a vector is always a scalar, (b) each component of a vector is
+always a scalar, (c) the total path length is always equal to the magnitude of the
+displacement vector of a particle. (d) the average speed of a particle (defined as total
+path length divided by the time taken to cover the path) is either greater or equal to
+the magnitude of average velocity of the particle over the same interval of time, (e)
+Three vectors not lying in a plane can never add up to give a null vector.
+
+4.6 Establish the following vector inequalities geometrically or otherwise :
+(a) |a+b| < Ial + |b|
+
+(b) |a+b|3 IIaI—Ibll
+
+2019-20

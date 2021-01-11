@@ -1,0 +1,74 @@
+i Physics
+
+Consider a rectangular Amperian loop abcd. Along cd the ﬁeld is zero
+as argued above. Along transverse sections bc and ad, the ﬁeld component
+is zero. Thus, these two sections make no contribution. Let the ﬁeld along
+ab be B. Thus, the relevant length of the Amperian loop is, L = h.
+
+Let n be the number of turns per unit length, then the total number
+of turns is nh. The enclosed current is, Ie= I (n h), where I is the current
+in the solenoid. From Ampere’s circuital law [Eq. 4.1 7 (b)]
+
+BL = #018, B h = #01 (n h)
+B = #0 n I (4.20)
+
+The direction of the field is given by the right-hand rule. The solenoid
+is commonly used to obtain a uniform magnetic ﬁeld. We shall see in the
+next chapter that a large ﬁeld is possible by inserting a soft
+iron core inside the solenoid.
+
+4.8.2 The toroid
+
+The toroid is a hollow circular ring on which a large number
+of turns of a wire are closely wound. It can be viewed as a
+solenoid which has been bent into a circular shape to close
+on itself. It is shown in Fig. 4. 19(a) carrying a current I. We
+shall see that the magnetic ﬁeld in the open space inside
+(point P) and exterior to the toroid (point Q) is zero. The
+field B inside the toroid is constant in magnitude for the
+(a) ideal toroid of closely wound turns.
+
+Figure 4. 19(b) shows a sectional view of the toroid. The
+direction of the magnetic ﬁeld inside is clockwise as per the
+right-hand thumb rule for circular loops. Three circular
+Amperian loops 1, 2 and 3 are shown by dashed lines. By
+symmetry, the magnetic ﬁeld should be tangential to each
+of them and constant in magnitude for a given loop. The
+circular areas bounded by loops 2 and 3 both cut the toroid:
+so that each turn of current carrying wire is cut once by
+the loop 2 and twice by the loop 3.
+
+Let the magnetic field along loop 1 be B1 in magnitude.
+Then in Ampere’s circuital law [Eq. 4. l7(a)], L = 2?: r1.
+However, the loop encloses no current, so 19 = 0. Thus,
+
+(b) B1 (2 TE r1) = 110(0), B1 = 0
+FIGURE 4.19 (a) A toroid carrying
+
+a current I. (b) A sectional view of
+
+the toroid The magnetic field can inside the toroid is zero.
+be obtained at an arbitrary We shall now show that magnetic ﬁeld at Q is llkCWlSC
+
+distance r from the centre 0 of zero. Let the magnetic ﬁeld along loop 3 be B3. Once again
+
+I
+
+ 
+
+ 
+
+Thus, the magnetic ﬁeld at any point P in the open space
+
+the toroid by Ampergs drama] from Ampere’s law L = 2 TE r3. However, from the sectional
+1am The dashed lines 1a|3e119d cut, we see that the current coming out of the plane of the
+1. 2 and 3 are three circular paper is cancelled exactly by the current going into it. Thus,
+Ampﬁrian 100PS- 16: O, and B3 = 0. Let the magnetic field inside the solenoid
+
+be B. We shall now consider the magnetic ﬁeld at 8. Once again we employ
+Ampere’s law in the form of Eq. [4.17 (a)]. We ﬁnd, L= 21: r.
+The current enclosed IQ is (for N turns of toroidal coil) N I.
+
+1 52 B (2m) = #ONI
+
+2019-20

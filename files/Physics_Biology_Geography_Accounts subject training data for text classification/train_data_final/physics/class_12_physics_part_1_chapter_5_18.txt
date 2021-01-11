@@ -1,0 +1,55 @@
+Magnetism and
+Mo’r’rer
+
+TABLE 5.2 MAGNETIC SUSCEPTIBILITY OF SOME ELEMENTS AT 300 K
+
+ 
+
+Bismuth —l.66 X 10‘5 Aluminium 2.3 X 10‘5
+Copper —9.8 X 1043 Calcium 1.9 X 10‘5
+Diamond —2.2 X 10‘5 Chromium 2.7 X 10‘4
+Gold —3.6 x 10‘5 Lithium 2.1 x 10-5
+Lead —1.7 x 10‘5 Magnesium 1.2 x 10-5
+Mercury —2.9 X 10‘5 Niobium 2.6 X 10‘5
+Nitrogen (STP) —5.0 x 10‘9 Oxygen (STP) 2.1 x 1045
+Silver —2.6 X 10‘5 Platinum 2.9 X 10‘4
+Silicon —4.2 x 1046 Tungsten 6.8 x 10—5
+
+Example 5.10 A solenoid has a core of a material with relative
+permeability 400. The windings of the solenoid are insulated from the
+core and carry a current of 2A. If the number of turns is 1000 per
+metre, calculate (a) H, (b) M, (c) B and (d) the magnetising current Im.
+
+Solution
+(a) The field H is dependent of the material of the core, and is
+H= nI= 1000 x 2.0 = 2 X103A/m.
+(b) The magnetic field B is given by
+B = ,ur yo H
+= 400 x 41: x10‘7 (N/A2) x 2 x 103 (A/m)
+= 1.0 T
+(c) Magnetisation is given by
+M = (B- #o H)/ #0
+= (M10 H—uo Hl/uO = Utr- 1)H= 399 X H
+E 8 X 105 A/m
+(d) The magnetising current IM is the additional current that needs
+to be passed through the windings of the solenoid in the absence
+of the core which would give a B value as in the presence of the
+
+core. Thus B = yrno (I+ 1M). Using I= 2A, B = 1 T, we get IM = 794 A.
+
+OI 'g EI’IdWVXﬂ
+
+5.6 MAGNETIC PROPERTIES OF MATERIALS
+
+The discussion in the previous section helps us to classify materials as
+diamagnetic, paramagnetic or ferromagnetic. In terms of the susceptibility
+x, a material is diamagnetic if x is negative, para— if x is positive and
+small, and ferro- if x is large and positive.
+
+A glance at Table 5.3 gives one a better feeling for these
+materials. Here 8 is a small positive number introduced to quantify
+
+paramagnetic materials. Next, we describe these materials in some
+detail. 191
+
+2019-20

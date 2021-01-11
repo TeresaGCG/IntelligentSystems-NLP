@@ -1,0 +1,96 @@
+Roy Optics and
+Optical Instruments
+
+changes at the interface of the two media. This (1) Normal
+
+phenomenon is called refraction of light. Snell
+
+experimentally obtained the following laws of Incident ray
+refraction:
+
+(i) The incident ray, the refracted ray and the
+normal to the interface at the point of
+incidence, all lie in the same plane.
+
+(ii) The ratio of the sine of the angle of incidence
+to the sine of angle of refraction is constant.
+Remember that the angles of incidence (i) and
+refraction (r) are the angles that the incident
+and its refracted ray make with the normal,
+respectively. We have
+
+Reﬂected ray
+
+)
+D
+l
+l
+l
+l
+l
+l
+l
+l
+l
+o
+:
+1
+b
+o
+l
+1
+l
+t
+I
+
+Reﬂecting
+surface
+
+ 
+
+Refracted ray
+
+ 
+
+= rt21 (9, 10) FIGURE 9.8 Refraction and reﬂection of light.
+
+where n21 is a constant, called the refractive index of the second medium
+with respect to the first medium. Equation (9. 10) is the well-known Snell’s
+law of refraction. We note that n21 is a characteristic of the pair of media
+(and also depends on the wavelength of light), but is independent of the
+angle of incidence.
+
+From Eq. (9.10), if n21 > 1, r< i, i.e., the refracted ray bends towards
+the normal. In such a case medium 2 is said to be optically denser (or
+denser, in short) than medium 1. On the other hand, if n21 <1, r > i, the
+refracted ray bends away from the normal. This is the case when incident
+ray in a denser medium refracts into a rarer medium.
+
+Note: Optical density should not be confused with mass density,
+which is mass per unit volume. It is possible that mass density of
+an optically denser medium may be less than that of an optically
+rarer medium (optical density is the ratio of the speed of light in
+two media). For example, turpentine and water. Mass density of
+turpentine is less than that of water but its optical density is higher
+
+If n21 is the refractive index of medium 2
+with respect to medium 1 and n12 the refractive
+index of medium 1 with respect to medium 2,
+then it should be clear that
+
+”12 :— (9.11)
+
+It also follows that if n32 is the refractive
+index of medium 3 with respect to medium 2
+then n32 = n31 X n12, where n31 is the refractive
+index of medium 3 with respect to medium 1.
+
+Some elementary results based on the laws FIGURE 9.9 Lateral Shift Of a ray refracted
+of refraction follow immediately. For a through a ParaIIEI‘SidEd Slab-
+rectangular slab, refraction takes place at two
+interfaces (air-glass and glass-air). It is easily seen from Fig. 9.9 that
+r2 = i1, i.e., the emergent ray is parallel to the incident ray—there is no 317
+
+ 
+
+2019-20

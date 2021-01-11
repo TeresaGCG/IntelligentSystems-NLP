@@ -1,0 +1,95 @@
+Roy Optics and
+Optical Instruments
+
+virtual if the rays do not actually meet but appear
+
+to diverge from the point when produced
+
+backwards. An image is thus a point-to-point
+correspondence with the object established
+through reﬂection and / or refraction.
+
+In principle, we can take any two rays
+emanating from a point on an object, trace their
+paths, find their point of intersection and thus,
+obtain the image of the point due to reﬂection at a
+spherical mirror. In practice, however, it is
+convenient to choose any two of the following rays:
+(i) The ray from the point which is parallel to the
+
+principal axis. The reﬂected ray goes through
+
+the focus of the mirror.
+
+(ii) The ray passing through the centre of
+curvature of a concave mirror or appearing to pass through it for a
+convex mirror. The reﬂected ray simply retraces the path.
+
+(iii) The ray passing through (or directed towards) the focus of the concave
+mirror or appearing to pass through (or directed towards) the focus
+of a convex mirror. The reﬂected ray is parallel to the principal axis.
+
+(iv) The ray incident at any angle at the pole. The reﬂected ray follows
+laws of reﬂection.
+
+Figure 9.5 shows the ray diagram considering three rays. It shows
+the image A’B’ (in this case, real) of an object AB formed by a concave
+mirror. It does not mean that only three rays emanate from the point A.
+An infinite number of rays emanate from any source, in all directions.
+Thus, point A’ is image point of A if every ray originating at point A and
+falling on the concave mirror after reﬂection passes through the point A’.
+
+We now derive the mirror equation or the relation between the object
+distance (u), image distance (D) and the focal length (f).
+
+From Fig. 9.5, the two right-angled triangles A’B’F and MPF are
+similar. (For paraxial rays, MP can be considered to be a straight line
+perpendicular to CP.) Therefore,
+
+‘B’A’ _ B’F
+PM FP
+
+B’A’ _ B’F
+BA _ FP
+
+Since A APB = A A’PB’, the right angled triangles A’B’P and ABP are
+also similar. Therefore,
+
+ 
+
+ 
+
+FIGURE 9.5 Ray diagram for image
+formation by a concave mirror.
+
+ 
+
+ 
+
+ 
+
+ 
+
+or (2' PM = AB) (9.4)
+
+ 
+
+ 
+
+ 
+
+ 
+
+B’A’ _ B’P
+BA _ BP (9'5)
+Comparing Eqs. (9.4) and (9.5), we get
+‘B’F B’P—FP B’P
+- - (9.6)
+
+FP _ FP _ BP
+Equation (9.6) is a relation involving magnitude of distances. We now
+apply the sign convention. We note that light travels from the object to
+
+the mirror MPN. Hence this is taken as the positive direction. To reach 313
+
+2019-20

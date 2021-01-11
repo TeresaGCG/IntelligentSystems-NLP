@@ -1,0 +1,101 @@
+MECHANICAL PROPERTIES OF SOLIDS
+
+N
+45
+U1
+
+ 
+
+like in pigtails, for ease in manufacture,
+ﬂexibility and strength.
+
+A bridge has to be designed such that it can
+withstand the load of the ﬂowing traffic, the force
+of winds and its own weight. Similarly, in the
+design of buildings the use of beams and columns
+is very common. In both the cases, the
+overcoming of the problem of bending of beam
+under a load is of prime importance. The beam
+should not bend too much or break. Let us
+consider the case of a beam loaded at the centre
+and supported near its ends as shown in
+Fig. 9.8. A bar of length l, breadth b, and depth d
+when loaded at the centre by a load W sags by
+an amount given by
+
+6= W l3/(4bd3Y) (9.17)
+
+ 
+
+ 
+
+Fig. 9.8 A beam supported at the ends and loaded
+at the centre.
+
+This relation can be derived using what you
+have already learnt and a little calculus. From
+Eq. (9.16). we see that to reduce the bending
+for a given load, one should use a material with
+a large Young’s modulus Y. For a given material,
+increasing the depth d rather than the breadth
+b is more effective in reducing the bending, since
+6 is proportional to d ‘3 and only to b'1(of course
+the length lof the span should be as small as
+possible). But on increasing the depth, unless
+the load is exactly at the right place (difficult to
+arrange in a bridge with moving traffic). the
+deep bar may bend as shown in Fig. 9.9(b). This
+is called buckling. To avoid this, a common
+compromise is the cross-sectional shape shown
+in Fig. 9.9(c). This section provides a large load-
+bearing surface and enough depth to prevent
+bending. This shape reduces the weight of the
+beam without sacrificing the strength and
+hence reduces the cost.
+
+ 
+
+(«—9
+
+w
+
+(a) [b] (c)
+
+Fig. 9.9 Different cross-sectional shapes of a beam.
+(a) Rectangular section of a bar;
+(b) A thin bar and how it can buckle;
+(c) Commonly used section for a load
+
+bearing bar.
+
+The use of pillars or columns is also very
+common in buildings and bridges. A pillar with
+rounded ends as shown in Fig. 9. 10(a) supports
+less load than that with a distributed shape at
+the ends [Fig. 9.lO(b)]. The precise design of a
+bridge or a building has to take into account
+the conditions under which it will function, the
+cost and long period, reliability of usable
+material, etc.
+
+{a} (b)
+
+Fig. 9.10 Pillars orcolems: (a) a pillar with rounded
+ends, (b) Pillar with distributed ends.
+
+The answer to the question why the maximum
+height of a mountain on earth is ~10 km can
+also be provided by considering the elastic
+properties of rocks. A mountain base is not under
+uniform compression and this provides some
+shearing stress to the rocks under which they
+can ﬂow. The stress due to all the material on
+the top should be less than the critical shearing
+stress at which the rocks ﬂow.
+
+At the bottom of a mountain of height h, the
+force per unit area due to the weight of the
+mountain is hpg where p is the density of the
+material of the mountain and g is the acceleration
+
+2019-20

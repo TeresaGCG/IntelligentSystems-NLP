@@ -1,0 +1,109 @@
+118
+
+PHYSICS
+
+ 
+
+Table 6.2 Typical kinetic energies (K)
+
+ 
+    
+       
+     
+   
+     
+     
+
+ 
+
+object can do by the virtue of its motion. This
+notion has been intuitively known for a long time.
+The kinetic energy of a fast ﬂowing stream
+has been used to grind corn. Sailing
+ships employ the kinetic energy of the wind. Table
+6.2 lists the kinetic energies for various
+objects.
+
+ 
+
+b Example 6.4 In a ballistics demonstration
+a police officer fires a bullet of mass 50.0 g
+with speed 200 m 3’1 (see Table 6.2) on soft
+plywood of thickness 2.00 cm. The bullet
+emerges with only 10% of its initial kinetic
+energy. What is the emergent speed of the
+bullet ‘?
+
+ 
+
+Answer The initial kinetic energy of the bullet
+is mv2/ 2 = 1000 J. It has a final kinetic energy
+of 0. 1x1000 = 100 J. If of is the emergent speed
+of the bullet,
+
+1 2
+—mvf=lOOJ
+
+2
+
+v _ 2xlOOJ
+f‘ 0.05kg
+=63.2ms-1
+
+The speed is reduced by approximately 68%
+(not 90%). 4
+
+6.5 WORK DONE BY A VARIABLE FORCE
+
+A constant force is rare. It is the variable force,
+which is more commonly encountered. Fig. 6.3
+is a plot of a varying force in one dimension.
+
+If the displacement Axis small, we can take
+the force F(x) as approximately constant and
+the work done is then
+
+AW =F(x) Ax
+
+2019-20
+
+Mass (kg) Speed (m s”)
+
+Car 2000 25 53x105
+Running athlete 70 10 3 .5 x 103
+BuHet 5X10-2 200 103
+Stone dropped from 10 m 1 14 102
+Rain drop at terminal speed 3.5x 10'5 9 1 .4>< 10'3
+Air molecule 2 10'26 500 z 10'21
+
+ 
+   
+
+This is illustrated in Fig. 6.3(a). Adding
+successive rectangular areas in Fig. 6.3(a) we
+get the total work done as
+
+xf
+WeZF(x)Ax (6.6)
+
+where the summation is from the initial position
+
+xi to the final position xf
+
+If the displacements are allowed to approach
+zero, then the number of terms in the sum
+increases without limit, but the sum approaches
+a deﬁnite value equal to the area under the curve
+in Fig. 6.3(b). Then the work done is
+
+=IFWMM ww
+
+where ‘lim’ stands for the limit of the sum when
+Ax tends to zero. Thus, for a varying force
+the work done can be expressed as a definite
+integral of force over displacement (see also
+Appendix 3. 1).
+
+Area = AA = F(x)A x
+
+F(x)

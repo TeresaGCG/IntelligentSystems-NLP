@@ -1,0 +1,53 @@
+2 8 Accountancy : Company Accounts and Analysis of Financial Statements
+
+February 01 Equity Share Application A/c . 20,00,000
+To Equity Share Capital A/c 5.00.000
+To Equity Share Allotment A/c 1.50.000
+To Calls-in-Advance A/c 2.50.000
+To Bank A/c 1 1.00.000
+
+(Amount on share application adjusted to
+share capital. share allotment and calls in
+advance and the balance refunded including
+the money on rejected applications)
+February 01 Equity Share Allotment A/c Dr. 7.50.000
+To Equity Share Capital A/c 7.50.000
+(Transfer of application money on shares
+allotted to share capital and amount due
+on the allotment of 1.00.000 shares @
+Rs. 7.50 per share)
+Bank A/c . 6.00.000
+To Equity Share Allotment A/c 6.00.000
+
+(Allotment money received)
+
+Equity Share First Call A/c . 7.50.000
+To Equity Share Capital A/c 7.50.000
+(First Call money due on 1 .00.000
+shares @ Rs. 7.50 per share)
+Bank A/c Dr. 6.00.000
+Calls in Advance A/c Dr. 1.50.000
+To Equity Share First Call A/c 7.50.000
+
+(Calls-in-advance adjusted against first call
+and the balance money on call received)
+
+Equity Share Second and Final Call A/c Dr. 5.00.000
+To Equity Share Capital A/c 5.00.000
+
+(Final Call money due on 1.00.000
+shares @ Rs. 5 per share)
+
+Bank A/c Dr. 4.00.000
+Calls in Advance A/c Dr. 1 .00.000
+To Equity Share Second and Final Call A/c 5.00.000
+
+(Calls-in-advance adjusted against final call
+and the balance money on call received)
+
+ 
+
+Note: The balance of excess application money as a result of pro-rata distribution in
+journal entry 3 above is large enough to meet the demands on allotted shares in
+respect of the allotment and the two call money. as well as to leave an amount to
+be refunded along with that on the rejected applications.

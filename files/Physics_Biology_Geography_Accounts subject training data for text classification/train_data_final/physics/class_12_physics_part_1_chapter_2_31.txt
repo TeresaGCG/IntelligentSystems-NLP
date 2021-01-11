@@ -1,0 +1,72 @@
+82
+
+ 
+
+ 
+
+i Physics
+
+EXAMPLE 2.10
+
+ 
+
+Note that Ad is the volume of the region between the plates (where
+electric ﬁeld alone exists). If we deﬁne energy density as energy stored
+per unit volume of space, Eq (2.76) shows that
+
+Energy density of electric ﬁeld,
+
+u =(1/2)£0E2 (2.77)
+
+Though we derived Eq. (2.77) for the case of a parallel plate capacitor,
+the result on energy density of an electric ﬁeld is, in fact, very general and
+holds true for electric ﬁeld due to any conﬁguration of charges.
+
+Example 2.10 (a) A 900 pF capacitor is charged by 100 V battery
+[Fig 2.3 1(a)]. How much electrostatic energy is stored by the capacitor?
+(b) The capacitor is disconnected from the battery and connected to
+another 900 pF capacitor [Fig 2.3 l(b)]. What is the electrostatic energy
+stored by the system?
+
+Q ‘Q
+2 2
+
+I
+C0
+
++
+++++++++(0
+
+++++++++
+
+  
+
++
++
++
++
++
++
++
++
+
+ 
+
+(b)
+
+FIGURE 2.31
+
+Solution
+(a) The charge on the capacitor is
+
+Q= CV= 900 x 10‘12FX 100v: 9 x 10%
+The energy stored by the capacitor is
+
+= (1/2) CV2 = (1/2) QV
+= (1/2) x 9 x 10-8c x 100 V = 4.5 x 10‘6J
+
+(b) In the steady situation, the two capacitors have their positive
+plates at the same potential, and their negative plates at the
+same potential. Let the common potential difference be V’. The
+
+2019-20

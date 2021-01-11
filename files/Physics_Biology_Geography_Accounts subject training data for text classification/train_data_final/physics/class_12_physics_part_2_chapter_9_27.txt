@@ -1,0 +1,47 @@
+336
+
+ 
+
+l Physics
+
+ 
+
+ 
+
+ 
+
+h—fv -
+Eye focussed
+
+at inﬁnity
+
+FIGURE 9.27 A simple microscope: [a] the magnifying lens is located
+such that the image is at the near point. (b) the angle subtanded by the
+object. is the same as that at the near point. and (c) the object near the
+
+focal point of the lens; the image is far off but closer than inﬁnity.
+
+near the object, one focal length away or less, and the eye is positioned
+close to the lens on the other side. The idea is to get an erect, magniﬁed
+and virtual image of the object at a distance so that it can be viewed
+comfortably, i.e., at 25 cm or more. If the object is at a distance f, the
+image is at infinity. However, if the object is at a distance slightly less
+than the focal length of the lens, the image is virtual and closer than
+inﬁnity. Although the closest comfortable distance for viewing the image
+is when it is at the near point (distance DE 25 cm), it causes some strain
+on the eye. Therefore, the image formed at infinity is often considered
+most suitable for viewing by the relaxed eye. We show both cases, the
+ﬁrst in Fig. 9.27 (a), and the second in Fig. 9.27[b) and (c).
+
+The linear magniﬁcation m, for the image formed at the near point D,
+by a simple microscope can be obtained by using the relation
+
+”Eat-ﬂit?)
+
+Now according to our sign convention, I) is negative, and is equal in
+magnitude to D. Thus, the magnification is
+
+D
+m = [1 + 7] (9.39)
+
+2019-20

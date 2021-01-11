@@ -1,0 +1,74 @@
+344 Chapter 5 The Processor: Datapath and Control
+( \ CauseWr~e
+IntCause
+PCWr~eCond
+EPCWrite
+PCWrile
+Outputs
+PCSource
+10.0
+ALUOp
+MemRead Control
+ALUSrcB
+MemWrite
+[50-0,[ ALUSrcA
+MemtoReg
+RegWr~e
+,------{o"
+IRWrite /
+RagDst
+"- Jump
+address 1 M
+26 Shift 28 '
+r:---,-CI"".~,r~uCli~o"ft2~5:-:0:JJ::::=j-1----tj::~~~,~.f~t2~~;~ttlT[3c'--<"1[_+1 2 •
+,"- ./
+H-fI +-~ I
+Instruction
+(3146) PC [31-28] 8~01803
+o
+PC 1-1-'---1--1
+,
+M Instruction I Read 0
+~
+Address [25-21) I register 1 Read - M
+•
+'--H
+_
+Instruction Read data 1 A Co_ ,: I 2oro
+~>--1:==?<~1 ~~r:~;:;]
+Memory
+[20-16) I ~ register 2 H
+MemData
+Instruction Registers ALU ALU ALUOul
+,PC
+~o ~result
+[15-0) Instruction u wri.te, Read -•••
+,I{ r---
+Wr~e [15-11] reglser data 2
+data Instruction -r:-+4--I21 M:
+~ r-f" :~e
+register J,
+c::= -'
+Instruction M 3
+0
+[15-0] U y M, -
+r;M~~~~~~~'lY 1=~~~"~'~6:-1 :i9~ ,3~2 ~ //A~L·U"" , Cause
+•
+-L
+I~gister I Shift -
+r -l
+y
+extend r left 2 control
+\
+/
+Instruction [5-0]
+FIGURE 5.39 The multleyele datapath with the addition needed to Implement exceptions. The specIfic additions Include the Cause
+and EPC registers,a multiplexor to conlrolthe value sent to the Cause register, an expansion of the multiplexor controlling the value written into the
+PC, and control lines for the added multiplexor and registers. For simplicity, this figure does not show the ALU overflow signal, which would need to
+be stored in a one-bit register and delivered as an additional inpulto the control unit (see Figure 5.40 to see how it is used).
+Figure 5.40 represents a complete specification of the control for this MIPS
+subset with two types of exceptions. Remember that the challenge in designing the
+control of a real machine is to handle the variety of different interactions between
+instructions and other exception-causing events in such a way that the control
+logic remains both small and fast. The complex interactions that are possible are
+what make the control unit the most challenging aspect of hardware design.

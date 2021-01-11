@@ -1,0 +1,36 @@
+58 Chapter 2 Instructions: Language of the Computer
+Hardware Many programs have more variables than computers have registers. Consequently,
+the compiler tries to keep the most frequently used variables in registers and
+Software
+places the rest in memory, using loads and stores to move variables between regis 
+Interface
+ters and memo ry. The process of putting less commonly used variables (or those
+needed later) into mem ory is called spilling registers.
+The hardware principle relating size and speed suggests that memory must be
+slower than registers since registers are smaller. This is indeed the case; data
+accesses are faster if data is in registers instead of memory.
+Moreover, data is more useful when in a register. A MIPS arithmetic instruc 
+tion ca n read two registers, operate on them, and write the result. A MIPS data
+transfer instruction only reads one operand or writes one operand, without oper 
+ating on it.
+Thus, MIPS registers take both less time to access and have higher throughput
+than memory--a rare combination- m aking data in registers both faster to
+access and simpler to use. To achieve highest performance, compilers must use
+registers efficiently.
+Using only the instructions we have seen so far, we would have to load a con 
+stant from mem ory to use one. (The constants would have been placed in mem  
+o ry when the program was loaded.) For example, to add the constant 4 to register
+$s3, we could use the code
+l w $t O, AddrCons t ant4 ( $sl) # $t O cons t an t 4
+add $s3 , $s3 ,$ tO # $s3 $s3 + $tO ($tO 4 )
+assuming that Add r Const a nt4 is the memory address of the constant 4.
+An alternative that avoids the load instruction is to offer versions of the arith 
+metic instructions in which one operand is a constant. This quick add instruction
+with one constant operand is called add immediate or addi . To add 4 to register
+$s3,we just write
+addi $s3 , $s3 ,4 It$s3 = $s3 + 4
+Immediate instructions illustrate the third hardwa re design principle, first
+mentioned in the Fallacies and Pitfalls of Chapter 1:
+Design Principle 3: Make the common case fast.
+Constant operands occur frequently, and by including constants inside arithmetic
+instructions, they are much faster than if constants were loaded from memory.

@@ -1,0 +1,104 @@
+MOTION IN A PLANE
+
+So far we have considered a vector lying in
+an x—y plane. The same procedure can be used
+to resolve a general vector A into three
+components along x—, y-, and z—axes in three
+
+dimensions. If a, [3, and Yare the angles*
+
+between A and the x—, y-, and z-axes, respectively
+[Fig. 4.9(d)], we have
+
+ 
+
+Z (d)
+
+Fig. 4.9 (d) A vectorA resolved into components along
+x—, y—, and z—axes
+
+AK 2 Acos a, Ay = Acos ,6, AZ 2 Acos 7 (4.16a)
+In general, we have
+
+A: Axi+ij+Azli (41-1613)
+The magnitude of vector A is
+
+A: .(Aﬁ +Aj +A§ (4.16c)
+
+A position vector 1' can be expressed as
+r=xi+y3+zft (4-17)
+
+where x, y, and z are the components of 1' along
+x—, y-, z-axes, respectively.
+
+4.6 VECTOR ADDITION — ANALYTICAL
+METHOD
+
+Although the graphical method of adding vectors
+helps us in visualising the vectors and the
+resultant vector, it is sometimes tedious and has
+limited accuracy. It is much easier to add vectors
+by combining their respective components.
+Consider two vectors A and B in x— y plane with
+components AX, Ag and BX, By :
+
+A
+o
+
+A=Axi+AyJ (4.18)
+
+71
+B: Bxi+Byj
+Let R be their sum. We have
+R =A+ B
+= (Axi+ij) +(Bxi+Byj) (4.19a)
+
+Since vectors obey the commutative and
+associative laws, we can arrange and regroup
+the vectors in Eq. (4.19a) as convenient to us :
+
+R=(Ax+Bx)i+(Ay+By)3 (4.19b)
+SinceR = in + Ry} (4.20)
+
+we have, RX 2 AX + BX, Ry 2 Ag + By (4.21)
+
+Thus, each component of the resultant
+vector R is the sum of the corresponding
+components of A and B.
+
+In three dimensions, we have
+
+A: Axi+ij+Azﬁ
+B: Bxi+By3+ B21;
+R=A+B=in+Ryj+RzlE
+
+with RX 2 Ax + Bx
+Ry 2 Ag + By
+R2 2 AZ + BZ (4.22)
+
+This method can be extended to addition and
+subtraction of any number of vectors. For
+example, if vectors a, b and c are given as
+
+a: axi+ayj+azli
+b = bx§+byj+bzfg
+
+c = cxi + Cy} + 021A: (4.23a)
+then, a vector T = a + b — c has components :
+TX = ax + bx — cx
+
+Ty = ay + by — Cy (4.23b)
+
+Tzzaz+bZ—cz.
+
+> Example 4.2 Find the magnitude and
+direction of the resultant of two vectors A
+
+and B in terms of their magnitudes and
+angle Qbetween them.
+
+ 
+
+* Note that angles a, [3, and yare angles in space. They are between pairs of lines, which are not coplanar.
+
+2019-20

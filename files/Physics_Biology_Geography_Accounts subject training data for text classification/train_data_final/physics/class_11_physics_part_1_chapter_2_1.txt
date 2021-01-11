@@ -1,0 +1,87 @@
+UNITS AND MEASUREMENT l7
+
+international usage in scientific, technical,
+
+industrial and commercial work. Because SI r (15
+units used decimal system, conversions within
+
+the system are quite simple and convenient. We 0 A
+
+shall follow the SI units in this book. d .
+0 = ds/ r radian
+In SI, there are seven base units as given in
+
+Table 2.1. Besides the seven base units, there (a)
+are two more units that are defined for (a) plane r
+
+angle d0 as the ratio of length of arc ds to the 1A
+
+radius r and (b) solid angle d9 as the ratio of O ‘7
+
+the intercepted area dA of the spherical surface,
+
+described about the apex O as the centre, to
+
+ 
+
+the square of its radius r, as shown in Fig. 2.1(a) d g = d A /,-Z steradian
+
+and (b) respectively. The unit for plane angle is
+
+radian with the symbol rad and the unit for the 03)
+
+solid angle is steradian with the symbol sr. Both Fig. 2- 1 Description Of (a) plane angle (19 and
+these are dimensionless quantities. (b) solid angle d9.
+
+Table 2.1 51 Base Quantities and Units*
+
+Base SI Units
+......, N... .m...
+Length 111
+
+metre The metre is the length of the path travelled by light in vacuum
+during a time interval of 1 / 299,792,458 of a second. (1983)
+
+Mass kilogram kg The kilogram is equal to the mass of the intemational prototype
+of the kilogram (a platinum-iridium alloy cylinder) kept at
+international Bureau of Weights and Measures, at Sevres, near
+Paris, France. (1889]
+
+Time second s The second is the duration of 9,192,631,770 periods of the
+radiation corresponding to the transition between the two
+hyperﬁne levels of the ground state of the cesium- 133 atom.
+
+ 
+
+(1967)
+Electric ampere A The ampere is that constant current which, if maintained in
+current two straight parallel conductors of inﬁnite length, of negligible
+
+circular cross-section, and placed 1 metre apart in vacuum,
+would produce between these conductors a force equal to 2><107
+newton per metre of length. (1948]
+
+Thermo kelvin K The kelvin, is the fraction 1 /273. 16 of the thermodynamic
+
+dynamic temperature of the triple point of water. (1967)
+
+Temperature
+
+Amount of mole mol The mole is the amount of substance of a system, which contains
+
+substance as many elementary entities as there are atoms in 0.012
+kilogram of carbon - 12. (1971)
+
+Luminous candela cd The candela is the luminous intensity, in a given
+
+intensity direction, of a source that emits monochromatic radiation of
+
+frequency 540x1012 hertz and that has a radiant intensity in
+that direction of 1 / 683 watt per steradian. (1979)
+
+* The values mentioned here need not be remembered or asked in a test. They are given here only to indicate the
+extent of accuracy to which they are measured. With progress in technology, the measuring techniques get
+improved leading to measurements with greater precision. The deﬁnitions of base units are revised to keep up
+with this progress.
+
+2019-20

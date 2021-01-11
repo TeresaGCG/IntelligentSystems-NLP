@@ -1,0 +1,47 @@
+7.4 Virtual Memory 515
+of segmentation is to support more powerful methods of protection and sharing in an
+address space. Most operating system textbooks contain extensive discussions of seg 
+mentation compared to paging and of the use of segmentation to logically share the
+address space. The major disadvantage of segmentation is that it splits the address
+space into logically separate pieces that must be manipulated as a two-part
+address: the segment number and the offset. Paging, in contrast, makes the boundary
+between page number and offset invisible to programmers and compilers.
+Segments have also been used as a method to extend the address space without
+changing the word size of the computer. Such attempts have been unsuccessful
+because of the awkwardness and performance penalties inherent in a two-part address
+of which programmers and compilers must be aware.
+Many architectures divide the address space into large fixed-size blocks that sim 
+plify protection between the operating system and user programs and increase the effi 
+ciency of implementing paging. Although these divisions are often called "segments,"
+this mechanism is much simpler than variable block size segmentation and is not visi 
+ble to user programs; we discuss it in more detail shortly.
+Placing a Page and Finding It Again
+Because of the incredibly high penalty for a page fault, designers reduce page fault
+frequency by optimizing page placement. If we allow a virtual page to be mapped
+to any physical page, the operating system can then choose to replace any page it
+wants when a page fault occurs. For example, the operating system can use a
+sophisticated algorithm and complex data structures, which track page usage, to
+try to choose a page that will not be needed for a long time. The ability to use a
+clever and flexible replacement scheme reduces the page fault rate and simplifies
+the use of fully associative placement of pages.
+As mentioned in Section 7.3, the difficulty in using fully associative place 
+ment is in locating an entry, since it can be anywhere in the upper level of the
+hierarchy. A full search is impractical. In virtual memory systems, we locate
+pages by using a table that indexes the memory; this structure is called a page page table The table contain 
+table and resides in memory. A page table is indexed with the page number ing the virtual to physical
+address translations in a virnlal
+from the virtual address to discover the corresponding physical page number.
+memory system. The table,
+Each program has its own page table, which maps the virtual address space of
+which is stored in memory, is
+that program to main memory. In our library analogy, the page table corre 
+typically indexed by the virtual
+sponds to a mapping between book titles and library locations. Just as the card
+page number; each entry in the
+catalog may contain entries for books in another library on campus rather than
+table contains the physical page
+the local branch library, we will see that the page table may contain entries for number for that virtual page if
+pages not present in memory. To indicate the location of the page table in mem  the page is currently in memory.
+ory, the hardware includes a register that points to the start of the page table; we
+call this the page table register. Assume for now that the page table is in a fixed
+and contiguous area of memory.

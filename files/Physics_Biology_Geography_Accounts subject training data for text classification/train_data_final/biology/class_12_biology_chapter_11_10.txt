@@ -1,0 +1,59 @@
+BIOTECHNOLOGY : PRINCIPLES AND PROCESSES
+
+the bacterium through pores in its cell wall. Recombinant DNA can then
+be forced into such cells by incubating the cells with recombinant DNA
+on ice, followed by placing them brieﬂy at 42°C (heat shock), and then
+putting them back on ice. This enables the bacteria to take up the
+recombinant DNA.
+
+This is not the only way to introduce alien DNA into host cells. In a
+method known as micro-injection, recombinant DNA is directly injected
+into the nucleus of an animal cell. In another method, suitable for plants,
+cells are bombarded with high velocity micro-particles of gold or tungsten
+coated with DNA in a method known as biolistics or gene gun. And the
+last method uses ‘disarmed pathogen’ vectors, which when allowed to
+infect the cell, transfer the recombinant DNA into the host.
+
+Now that we have learnt about the tools for constructing recombinant
+DNA, let us discuss the processes facilitating recombinant DNA technology.
+
+1 1.3 PROCESSES OF RECOMBINANT DNA TECHNOLOGY
+
+Recombinant DNA technology involves several steps in speciﬁc
+sequence such as isolation of DNA, fragmentation of DNA by
+restriction endonucleases, isolation Of a desired DNA fragment,
+ligation of the DNA fragment into a vector, transferring the
+recombinant DNA into the host, culturing the host cells in a
+medium at large scale and extraction of the desired product.
+Let us examine each of these steps in some details.
+
+1 1.3. 1 Isolation Of the Genetic Material (DNA)
+
+Recall that nucleic acid is the genetic material Of all organisms
+without exception. In majority of organisms this is
+deoxyribonucleic acid or DNA. In order to cut the DNA with
+restriction enzymes, it needs to be in pure form, free from other
+macro-molecules. Since the DNA is enclosed within the
+membranes, we have to break the cell Open to release DNA along
+with other macromolecules such as RNA, proteins,
+polysaccharides and also lipids. This can be achieved by treating
+
+ 
+
+ 
+
+the bacterial cells / plant or animal tissue with enzymes such as Figure 1 1-5 DNA that
+
+lysozyme (bacteria), cellulase (plant cells), chitinase (fungus).
+You know that genes are located on long molecules Of DNA
+interwined with proteins such as histones. The RNA can be removed by
+treatment with ribonuclease whereas proteins can be removed by
+treatment with protease. Other molecules can be removed by appropriate
+treatments and puriﬁed DNA ultimately precipitates out after the addition
+of chilled ethanol. This can be seen as collection of ﬁne threads in the
+suspension (Figure 1 1.5).
+
+2019—2020
+
+separates out can be
+removed by SpOOling

@@ -1,0 +1,76 @@
+14.18
+
+14.19
+
+14.20
+
+14.21
+
+14.22
+
+14.23
+
+14.24
+
+14.25
+
+PHYSICS
+
+ 
+
+A cylindrical piece of cork of density of base area A and height h ﬂoats in a liquid of
+density pl. The cork is depressed slightly and then released. Show that the cork
+oscillates up and down simple harmonically with a period
+
+T=27c 2
+
+P19
+where p is the density of cork. (Ignore damping due to viscosity of the liquid).
+
+One end of a U—tube containing mercury is connected to a suction pump and the
+other end to atmosphere. A small pressure difference is maintained between the
+two columns. Show that, when the suction pump is removed, the column of mercury
+in the U—tube executes simple harmonic motion.
+
+Additional Exercises
+
+An air chamber of volume Vhas a neck area of cross section a into which a ball of
+mass m just fits and can move up and down without any friction (Fig. 14.27). Show
+that when the ball is pressed down a little and released , it executes SHM. Obtain
+an expression for the time period of oscillations assuming pressure—volume variations
+of air to be isothermal [see Fig. 14.27].
+
+m
+
+Fig.14.27
+
+You are riding in an automobile of mass 3000 kg. Assuming that you are examining
+the oscillation characteristics of its suspension system. The suspension sags
+15 cm when the entire automobile is placed on it. Also, the amplitude of oscillation
+decreases by 50% during one complete oscillation. Estimate the values of (a) the
+spring constant kand (b) the damping constant b for the spring and shock absorber
+system of one wheel, assuming that each wheel supports 750 kg.
+
+Show that for a particle in linear SHM the average kinetic energy over a period of
+oscillation equals the average potential energy over the same period.
+
+A circular disc of mass 10 kg is suspended by a wire attached to its centre. The wire
+
+is twisted by rotating the disc and released. The period of torsional oscillations is
+
+found to be 1.5 s. The radius of the disc is 15 cm. Determine the torsional spring
+
+constant of the wire. [Torsional spring constant a is defined by the relation
+= —a 0 , where J is the restoring couple and 9 the angle of twist).
+
+A body describes simple harmonic motion with an amplitude of 5 cm and a period of
+0.2 s. Find the acceleration and velocity of the body when the displacement is
+(a) 5 cm (b) 3 cm [0) 0 cm.
+
+A mass attached to a spring is free to oscillate, with angular velocity (0, in a horizontal
+plane without friction or damping. It is pulled to a distance x0 and pushed towards
+the centre with a velocity Do at time t = 0. Determine the amplitude of the resulting
+oscillations in terms of the parameters w, x0 and v0. [Hint : Start with the equation
+x = (1 cos (cot+6] and note that the initial velocity is negative.]
+
+2019-20

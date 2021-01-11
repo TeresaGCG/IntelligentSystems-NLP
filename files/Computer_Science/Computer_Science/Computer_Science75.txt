@@ -1,0 +1,40 @@
+2.3 Operands of the Computer Hardware 59
+MIPS operands
+Name Example Comments
+SsO. Ssl. Fast locations for data. In MIPS, data must be in registers to perform arithmetic.
+• • • •
+32 registers
+stO. stl.
+• • •
+Memory(OI, Accessed only by data transfer instructions in MIPS. MIPS uses byte addresses, so
+230 memory
+Memory(4l, ... , sequential word addresses differ by 4. Memory holds data structures, arrays, and
+words
+Memory(42949672921 spilled registers.
+MIPS assembly language
+Category Instruction Example Meaning Comments
+odd ~dd SsLSs2.Ss3 $sl _ Ss2 + Ss3 Three operands; data in registers
+Arithmetic subtract sub SsLSs2.Ss3 Ss l_ Ss2_Ss3 Three operands; data in registers
+add immediate ~ddi Ss1.Ss2.100 $sl - Ss2 + 100 Used to add constants
+load word $s1.100(Ss2) $sl - Memory[Ss2 + 100] Data from memory to register
+Data transfer "
+store word " $sLl00(Ss2) Memory(Ss2 + 100] - Ssl Oata from register to memory
+FIGURE 2.4 MIPS architecture revealed through Section 2.3. Highlighted portions show MIPSassembly language
+structures introduced in Section 2.3.
+Figure 2.4 summarizes the portions of the symbolic representation of the MIPS
+instruction set described in this section. Load word and store word are the
+instructions that copy words between memory and registers in the MIPS architec 
+ture. Other brands of computers use instructions along with load and store to
+transfer data. An architecture with such alternatives is the Intel IA-32, described in
+Section 2. 16.
+Given the importance of registers, what is the rate of increase in the number of Check
+registers in a chip over time? Yourself
+I. Very fast: They increase as fa st as Moore's law, which predicts doubling the
+number of transistors on a chip every 18 months.
+2. Very slow: Since programs are usually distributed in the language of the
+computer, there is inertia in instruction set architecture, and so the number
+of registers increases only as fast as new instruction sets become viable.
+Elaboration: Although the MIPS registers in this book are 32 bits wide, there is a 64 
+bit version of the MIPS instruction set with 32 64-bit registers. To keep them straight,
+they are officially called MIPS-32 and MIPS-64. In this chapter, we use a subset of
+MIPS-32. Appendix D shows the differences between MIPS·32 and MIPS-54.

@@ -1,0 +1,57 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+chromosomes, are produced by females, i.e., female heterogamety. In
+order to have a distinction with the mechanism of sex determination
+described earlier, the two different sex chromosomes of a female bird has
+been designated to be the Z and W chromosomes. In these organisms the
+females have one Z and one W chromosome, whereas males have a pair of
+Z—chromosomes besides the autosomes.
+
+5.6. 1 Sex Determination in Humans
+
+It has already been mentioned that the sex determining mechanism in
+case of humans is XY type. Out of 23 pairs of chromosomes present,
+22 pairs are exactly same in both males and females; these are the
+autosomes. A pair of X—chromosomes are present in the female, whereas
+the presence of an X and Y chromosome are determinant of the male
+characteristic. During spermatogenesis among males, two types of
+gametes are produced. 50 per cent of the total sperm produced carry
+the X—chromosome and the rest 50 per cent has Y—chromosome besides
+the autosomes. Females, however, produce only one type of ovum with
+an X—chromosome. There is an equal probability of fertilisation of the
+ovum with the sperm carrying either X or Y chromosome. In case the
+ovum fertilises with a sperm carrying X—chromosome the zygote develops
+into a female (XX) and the fertilisation of ovum with Y—chromosome
+carrying sperm results into a male offspring. Thus, it is evident that it
+is the genetic makeup of the sperm that determines the sex of the child.
+It is also evident that in each pregnancy there is always 50 per cent
+probability of either a male or a female child. It is unfortunate that in
+our society women are blamed for giving birth to female children and
+have been ostracised and ill-treated because of this false notion.
+
+5.6.2 Sex Determination in Honey Bee
+
+The sex determination in honey bee is
+
+based on the number of sets of parents Female Mlale
+chromosomes an individual receives. An 3&2 *6
+offspring formed from the union of a Meiosis Mitosis
+sperm and an egg develops as a female H l
+(queen or worker), and an unfertilised Gametes‘
+egg develops as a male (drone) by means + t
+
+of parthenogenesis. This means that the F1: Male Female
+males have half the number of 16 32
+chromosomes than that of a female. The Figure 5.13 Sex determination in honey bee
+
+females are diploid having 32
+chromosomes and males are haploid, i.e., having 16 chromosomes.
+This is called as haplodiploid sex-determination system and has special
+characteristic features such as the males produce sperms by mitosis
+(Figure 5.13), they do not have father and thus cannot have sons, but
+have a grandfather and can have grandsons.
+
+How is the sex-determination mechanism different in the birds?
+Is the sperm or the egg responsible for the sex of the chicks?
+
+2019-2020

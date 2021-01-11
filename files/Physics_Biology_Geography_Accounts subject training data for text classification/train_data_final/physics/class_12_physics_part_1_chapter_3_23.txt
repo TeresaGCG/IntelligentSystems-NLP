@@ -1,0 +1,68 @@
+i Physics
+
+ 
+
+[Eq. (3.57) between the positive terminal P and the negative terminal N; I
+here is the current ﬂowing from N to P through the cell]. If, while labelling
+the current I through the cell one goes from P to N,
+then of course
+
+ 
+
+ 
+
+FIGURE 3.22 At junction a the current
+leaving is I] + I2 and current entering is 13.
+The junction rule. says I3 = II + 12. At point
+h current entering is 11- There is only one
+
+current leaving h and by junction rule
+
+80V
+
+V: e + I r (3.79)
+Having clariﬁed labelling, we now state the rules
+and the proof:
+
+(a) Junction rule: At any junction, the sum of the
+currents entering the junction is equal to the
+sum of currents leaving the junction (Fig. 3.22).
+
+This applies equally well if instead of a junction of
+
+several lines, we consider a point in a line.
+
+The proof of this rule follows from the fact that
+when currents are steady, there is no accumulation
+of charges at any junction or at any point in a line.
+Thus, the total current ﬂowing in, (which is the rate
+at which charge ﬂows into the j unction), must equal
+the total current ﬂowing out.
+
+that will also be II. For the loops ‘ahdcba' (b) LOOP rule: The algebraic sum Of Changes in
+and ‘ahdefga', the loop rules give _3011 _ potential around any closed loop involving
+
+41 I3 + 45 = 0 and ~30], + 21 I2 - 80 = 0. resistors and cells in the loop is zero (Fig. 3.22).
+
+116
+
+This rule is also obvious, since electric potential is
+dependent on the location of the point. Thus starting with any point if we
+come back to the same point, the total change must be zero. In a closed
+loop, we do come back to the starting point and hence the rule.
+
+Example 3.6 A battery of 10 V and negligible internal resistance is
+connected across the diagonally opposite corners of a cubical network
+consisting of 12 resistors each of resistance 1 £2 (Fig. 3.23). Determine
+the equivalent resistance of the network and the current along each
+edge of the cube.
+
+I 31
+
+ 
+
+EXAMPLE 3.6
+
+FIGURE 3.23
+
+2019-20

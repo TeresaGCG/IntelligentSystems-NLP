@@ -1,0 +1,45 @@
+418 Chapter 6 Enhancing Performance with Plpellnlng
+Assume Branch Not Taken
+As we saw in Section 6.1 , stalling until the branch is complete is too slow. A com 
+mon improvement over branch stalling is to assume that the branch will not be
+taken and thus continue execution down the sequential instruction stream. If the
+branch is taken, the instructions that are being fetched and decoded must be dis 
+carded. Execution continues at the branch target. If branches are untaken half the
+time, and if it costs little to discard the instructions, this optimization halves the
+cost of control hazards.
+To discard instructions, we merely change the original control values to Os,
+much as we did to stall for a load-use data hazard. The difference is that we must
+also change the three instructions in the IF, 10, and EX stages when the branch
+reaches the MEM stage; for load-use stalls, we just changed control to 0 in the 10
+stage and let them percolate through the pipeline. Disca rding instructions, then,
+flush (instructions) To dis  means we must be able to flush instructions in the IF, 10, and EX stages of the
+card instructions in a pipeline,
+pipeline.
+usually due to an unexpected
+event.
+Reducing the Delay of Branches
+One way to improve branch performance is to reduce the cost of the taken branch.
+Thus far we have assumed the next PC for a branch is selected in the MEM stage,
+but if we move the branch execution earlier in the pipeline, then fewer instruc 
+tions need be flushed. The MIPS architecture was designed to support fast single 
+cycle branches that could be pipelined with a small branch penalty. The designers
+observed that many branches rely only on simple tests (equality or sign, fo r exam 
+pie) and that such tests do not require a full ALU operation but can be done with
+at most a few gates. When a more complex branch decision is required, a separate
+instruction that uses an ALU to perform a comparison is required-a situation
+that is similar to the use of condition codes for branches.
+Moving the branch decision up requires two actions to occur earlier: comput 
+ing the branch target address and evaluating the branch decision. The easy part of
+this change is to move up the branch address calculation. We already have the PC
+value and the immediate field in the IFIl O pipeline register, so we just move the
+branch adder from the EX stage to the 10 stage; of course, the branch target
+address calculation will be performed for all instructions, but only used when
+needed.
+The harder part is the branch decision itself. For branch equal, we would com 
+pare the two registers read during the 10 stage to see if they are equal. Equality can
+be tested by first exclusive DRing their respective bits and then DRing all the
+results. Moving the branch test to the 1D stage implies additional forwarding and
+hazard detection hardware, since a branch dependent on a result still in the pipe 
+line must still work properly with this optimization. For example, to implement
+branch-on-equal (and its inverse), we will need to forward results to the equality
+test logic that operates during 10. There are two complicating factors:

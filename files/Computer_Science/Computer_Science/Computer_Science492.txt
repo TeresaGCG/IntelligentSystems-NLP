@@ -1,0 +1,40 @@
+476 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+data, and the tag fields will be meaningless. Even after executing many instruc 
+tions, some of the cache entries may still be empty, as in Figure 7.4. Thus, we need
+to know that the tag should be ignored for such entries. The most common
+valid bit Afield in thetables ofa method is to add a valid bit to indicate whether an entry contains a valid address.
+memory hierarchy that indicates If the bit is not set, there cannot be a match for this block.
+that the associated block in the
+For the rest of this section, we will focus on explaining how reads work in a
+hierarchy contains valid data.
+cache and how the cache control works for reads. In general, handling reads is a
+little simpler than handling writes, since reads do not have to change the contents
+of the cache. After seeing the basics of how reads work and how cache misses can
+be handled, we'll examine the cache designs for real computers and detail how
+these caches handle writes.
+Accessing a Cache
+Figure 7.6 shows the contents of an eight-word direct-mapped cache as it
+responds to a series of requests from the processor. Since there are eight blocks in
+the cache, the low-order 3 bits of an address give the block number. Here is the
+action for each reference:
+Decimal address Binary address Hit or miss Assigned cache block
+of reference of reference In cache (where found or placed)
+22 10110r..., miss (7.6b) (10110_ mod 8) - 11Ot-
+26 11010""" miss (7.&) (11010_ mod 8) _ 010_
+22 10110""" hit (10110_ mod 8) - 110_
+26 11010""" hit (11010_ mod 8) " 010_
+16 1()(XlO_ miss (7.6d) (1()(X)Q_ mod 8) " 000_
+3 00011.,.,., miss (7.6e) (00011""" mod 8) _ 011_
+16 1()()()()_ hit (1()(X)Q_ mod 8) " 000_
+18 10010""" miss (7.6f) (10010""" mod 8)" 010_
+When the word at address 18 (1001O,wo) is brought into cache block 2
+(O IO,wo)' the word at address 26 (i IOlO which was in cache block 2
+)'
+two
+(0101\,.0)' must be replaced by the newly requested data. This behavior allows a
+cache to take advantage of temporal locality: recently accessed words replace
+less recently referenced words. This situation is directly analogous to needing a
+book from the shelves and having no more space on your desk-some book
+already on your desk must be returned to the shelves. In a direct-mapped cache,
+there is only one place to put the newly requested item and hence only one
+choice of what to replace.

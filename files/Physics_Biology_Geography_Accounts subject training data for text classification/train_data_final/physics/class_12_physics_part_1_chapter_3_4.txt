@@ -1,0 +1,67 @@
+Current
+Electricity
+E l=jp l
+or, E =jp (3.1 1)
+
+The above relation for magnitudes E and j can indeed be cast in a
+vector form. The current density, (which we have deﬁned as the current
+through unit area normal to the current) is also directed along E, and is
+also a vector j (a j E / E). Thus, the last equation can be written as,
+
+E=jp (3.12)
+
+or, j = (SE (3.13)
+
+where 6 El / p is called the conductivity. Ohm’s law is often stated in an
+equivalent form, Eq. (3.13) in addition to Eq.(3.3). In the next section, we
+will try to understand the origin of the Ohm’s law as arising from the
+characteristics of the drift of electrons.
+
+3.5 DRIFT 0F ELECTRONS AND THE ORIGIN
+OF RESISTIVITY
+
+As remarked before, an electron will suffer collisions with the heavy ﬁxed
+ions, but after collision, it will emerge with the same speed but in random
+directions. If we consider all the electrons, their average velocity will be
+zero since their directions are random. Thus, if there are N electrons and
+the velocity of the ith electron (i = l, 2, 3, N) at a given time is vi, then
+
+1 N
+ﬁgvﬁo (3.14)
+
+Consider now the situation when an electric field is
+
+present. Electrons will be accelerated due to this
+ﬁeld by
+
+-eE
+
+a = _
+m
+
+where -e is the charge and m is the mass of an electron.
+Consider again the ith electron at a given time t. This
+electron would have had its last collision some time
+before t, and let ti be the time elapsed after its last
+collision. If vi was its velocity immediately after the last
+collision, then its velocity Vi at time tis
+
+(3.15)
+
+ 
+
+Vizvi + f t, (3.16) A
+since starting with its last collision it was accelerated FIGURE? 3'3 A .SChcinatlc plclure Of
+, , , , an electi on 1nov1ng f1 om a pomt A to
+(Fig. 3.3) With an acceleration given by Eq. (3.15) for a another point B through repeated
+time interval ti. The average velocity of the electrons at collisions, and straight line travel
+time t is the average of all the Vi’s. The average of vi’s is between comsions (full (mes). If an
+zero [Eq. (3.14)] since immediately after any collision, electric field is applied as shown. the
+the direction of the velocity of an electron is completely electron ends up at point B’ (dotted
+random. The collisions of the electrons do not occur at 111165) A Slight drift in 3 direction
+regular intervals but at random times. Let us denote by O131DOSite the 6190““ field is “Sible-
+T, the average time between successive collisions. Then 97
+
+at a given time, some of the electrons would have spent
+
+2019-20

@@ -1,0 +1,107 @@
+46
+
+PHYSICS
+
+that the acceleration is nonuniform over the
+period 0 s to 10 s. It is zero between 10 s and
+18 s and is constant with value —12 m S'2
+between 18 s and 20 s. When the acceleration
+is uniform, obviously, it equals the average
+acceleration over that period.
+
+Since velocity is a quantity having both
+magnitude and direction, a change in velocity
+may involve either or both of these factors.
+Acceleration, therefore, may result from a
+change in speed (magnitude), a change in
+direction or changes in both. Like velocity,
+acceleration can also be positive, negative or
+zero. Position-time graphs for motion with
+positive, negative and zero acceleration are
+shown in Figs. 3.9 (a), (b) and (c), respectively.
+Note that the graph curves upward for positive
+acceleration; downward for negative
+acceleration and it is a straight line for zero
+acceleration. As an exercise, identify in Fig. 3.3,
+the regions of the curve that correspond to these
+three cases.
+
+Although acceleration can vary with time,
+our study in this chapter will be restricted to
+motion with constant acceleration. In this case,
+the average acceleration equals the constant
+value of acceleration during the interval. If the
+velocity of an object is v at t= O and v at time t,
+we have 0
+
+ 
+
+a_v—v0 or v-v +at (36)
+_ t — 0 ’ _ 0 '
+T Positive a T Negative a T a= 0
+x X
+0 t—> 0 t—’
+(a) (b)
+
+ 
+
+Fig. 3.9 Position—time graph for motion with
+(a) positive acceleration; (b) negative
+acceleration, and (c) zero acceleration.
+
+Let us see how velocity-time graph looks like
+for some simple cases. Fig. 3.10 shows velocity-
+time graph for motion with constant acceleration
+for the following cases :
+
+(a) An object is moving in a positive direction
+with a positive acceleration, for example
+the motion of the car in Fig. 3.3 between
+t= O sand t= 10 s.
+
+2019-20
+
+(b) An object is moving in positive direction
+with a negative acceleration, for example,
+motion of the car in Fig 3.3 between
+1:: 18 s and 20 s.
+
+(c) An object is moving in negative direction
+with a negative acceleration, for example
+the motion of a car moving from O in Fig.
+3.1 in negative x-direction with
+increasing speed.
+
+(d) An object is moving in positive direction
+till time t1, and then turns back with the
+same negative acceleration, for example
+the motion of a car from point 0 to point
+Q in Fig. 3.1 till time t1 with decreasing
+speed and turning back and moving with
+the same negative acceleration.
+
+An interesting feature of a velocity-time graph
+for any moving object is that the area under the
+curve represents the displacement over a
+given time interval. A general proof of this
+
+ 
+
+   
+
+(d)
+
+Fig. 3.10 Velocity—time graph for motions with
+constant acceleration (a) Motion in positive
+direction with positive acceleration,
+(b) Motion in positive direction with
+negative acceleration, (c) Motion in negative
+direction with negative acceleration,
+(d) Motion of an object with negative
+acceleration that changes direction at time
+
+t1. Between times 0 to t1, its moves in
+
+positive x — direction and between t1 and
+
+t2 it moves in the opposite direction.

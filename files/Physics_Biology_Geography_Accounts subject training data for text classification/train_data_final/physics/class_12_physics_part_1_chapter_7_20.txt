@@ -1,0 +1,57 @@
+i PhySICS
+M11 is the self-inductance and is written as L1. Therefore,
+d1 d1
+8 = —L —1— M —2
+l 1 dt 12 dt
+Example 6. 10 (a) Obtain the expression for the magnetic energy stored
+in a solenoid in terms of magnetic field B, area A and length l of the
+solenoid. (b) How does this magnetic energy compare with the
+electrostatic energy stored in a capacitor?
+Solution
+(a) From Eq. (6.19), the magnetic energy is
+T:
+— 1
+E U = —LI2
+o B 2
+E 1 B 2
+E = —L[—] (since B = ,uonI , fora solenoid)
+CC) 2 ,uon
+C)
+0.0
+E 1 B 2
+iv = —(,uon2 Al) _ [from Eq. (6.17)]
+E 2 ,uon
+§ § 1
+E E = —B2Al
+2 29 2%
+g) E (b) The magnetic energy per unit volume is,
+U —3 U
+2 6:. uB = 73 (where Vis volume that contains ﬂux)
+0 J?
+"g" g : E
+E3 E0 Al
+.5 E BZ
+m 0' = 6.20
+g C 2% ( )
+2:. E We have already obtained the relation for the electrostatic energy
+L)
+g E stored per unit volume in a parallel plate capacitor (refer to Chapter 2,
+“E g— Eq. 2.77),
+*2. o u = is E2 (2 77)
+Pﬂmhs .1 E 2 o .
+‘1; :9 In both the cases energy is proportional to the square of the field
+a strength. Equations (6.20) and (277) have been derived for special
+g cases: a solenoid and a parallel plate capacitor, respectively. But they
+are general and valid for any region of space in which a magnetic field
+[I] or/and an electric ﬁeld exist.
+6. 10 AC GENERATOR
+The phenomenon of electromagnetic induction has been technologically
+exploited in many ways. An exceptionally important application is the
+generation of alternating currents (ac). The modern ac generator with a
+typical output capacity of 100 MW is a highly evolved machine. In this
+section, we shall describe the basic principles behind this machine. The
+224 Yugoslav inventor Nicola Tesla is credited with the development of the
+
+machine. As was pointed out in Section 6.3, one method to induce an emf
+
+2019-20

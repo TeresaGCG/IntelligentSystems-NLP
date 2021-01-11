@@ -1,0 +1,121 @@
+356
+
+PHYSICS
+
+ 
+
+The damping force depends on the nature of
+the surrounding medium. If the block is
+immersed in a liquid, the magnitude of damping
+will be much greater and the dissipation of
+energy much faster. The damping force is
+generally proportional to velocity of the bob.
+[Remember Stokes’ Law, Eq. (10.19)] and acts
+opposite to the direction of velocity. If the
+damping force is denoted by F d, we have
+
+Fd =—bv (1430)
+
+where the positive constant b depends on
+characteristics of the medium (viscosity, for
+example) and the size and shape of the block,
+etc. Eq. (14.30) is usually valid only for small
+velocity.
+
+When the mass m is attached to the spring
+(hung vertically as shown in Fig. 14.19) and
+released, the spring will elongate a little and the
+mass will settle at some height. This position,
+shown by O in Fig 14.19, is the equilibrium
+position of the mass. If the mass is pulled down
+or pushed up a little, the restoring force on the
+block due to the spring is FS = —kx, where x is
+the displacement* of the mass from its
+equilibrium position. Thus, the total force acting
+on the mass at any time t, is F = 40: —bv.
+
+If a(t) is the acceleration of mass at time t,
+then by Newton’s Law of Motion applied along
+the direction of motion, we have
+
+m a(t) = —k x(t) — b v(t) (14.31)
+
+Here we have dropped the vector notation
+because we are discussing one-dimensional
+motion.
+
+Using the first and second derivatives of x (t)
+for v (t) and a (t), respectively, we have
+
+2
+d): +bd—x+kx=0 (14-32)
+dt (:11:
+
+The solution of Eq. (14.32) describes the
+motion of the block under the inﬂuence of a
+damping force which is proportional to velocity.
+The solution is found to be of the form
+
+x(t) = A e‘bt/Zm cos (out + ¢) (14.33)
+
+m
+
+ 
+
+where A is the amplitude and (0' is the angular
+frequency of the damped oscillator given by,
+
+2
+60': E_ b (14.34)
+m 4m2
+
+ 
+
+In this function, the cosine function has a
+period 27r/a)’ but the function x(t) is not strictly
+periodic because of the factor 64’ ”2’” which
+decreases continuously with time. However, if the
+decrease is small in one time period T, the motion
+represented by Eq. (14.33) is approximately
+periodic.
+
+The solution, Eq. (14.33), can be graphically
+represented as shown in Fig. 14.20. We can
+regard it as a cosine function whose amplitude,
+which is Aéb ”2m, gradually decreases with time.
+
+10
+
+‘10“ 5 10 15 2o 25
+t
+Fig. 14.20 A damped oscillator is approximately
+periodic with decreasing amplitude of
+
+oscillation. With greater damping,
+oscillations die out faster.
+
+Now the mechanical energy of the undamped
+oscillator is 1/ 2 kA2. For a damped oscillator,
+the amplitude is not constant but depends on
+time. For small damping, we may use the same
+expression but regard the amplitude as A ebt/Zm
+
+E(t) =% k A2 6%... (14.35)
+
+Equation (14.35) shows that the total energy
+of the system decreases exponentially with time.
+Note that small damping means that the
+
+b
+
+km
+
+ 
+
+dimensionless ratio [ jis much less than 1.
+
+* Under gravity, the block will be at a certain equilibrium position 0 on the spring; x here represents the
+
+disp lacement from that position.
+
+2019-20

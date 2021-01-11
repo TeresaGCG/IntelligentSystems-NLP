@@ -1,0 +1,91 @@
+MOTION [N A STRAIGHT LINE
+—
+
+vA= +54kmh’1 = l5ms*1
+
+B=O—vB=25ms4.
+
+v = —90kmhr1 = —25msr1
+
+B
+
+Relative velocity of B with respect to A = vB— DA:
+
+53
+
+In (c), let the velocity of the monkey with respect
+
+— 40 m s*1 , i.e. the train B appears to A to move with respect to A,
+
+with a speed of 40 m s*1 from north to south.
+
+MA
+
+Relative velocity of ground with respect to UM = (15 - 5) m S’1 = 10 m S’l-
+
+9°.“
+
+SUNIMARY
+
+An object is said to be in motion if its position changes with time. The position of the
+object can be specified with reference to a conveniently chosen origin. For motion in
+a straight line, position to the right of the origin is taken as positive and to the left as
+negative.
+Path length is defined as the total length of the path traversed by an object.
+Displacement is the change in position 2 Ax = x2 — x1. Path length is greater or equal to
+the magnitude of the displacement between the same points.
+An object is said to be in uniform motion in a straight line if its displacement is equal
+in equal intervals of time. Otherwise, the motion is said to be non—uniform.
+Average velocity is the displacement divided by the time interval in which the
+displacement occurs :
+
+_ Ax
+
+v 2 _
+
+At
+
+On an x—t graph, the average velocity over a time interval is the slope of the line
+connecting the initial and final positions corresponding to that interval.
+
+Average Speed is the ratio of total path length traversed and the corresponding time
+interval.
+
+The average speed of an object is greater or equal to the magnitude of the average
+velocity over a given time interval.
+
+Instantaneous velocity or simply velocity is defined as the limit of the average velocity as
+the time interval At becomes infinitesimally small :
+
+. — . Ax dx
+v: ltmv= lim—=—
+AtaO At—>0 At dt
+
+The velocity at a particular instant is equal to the slope of the tangent drawn on
+position~time graph at that instant.
+
+Average acceleration is the change in velocity divided by the time interval during which
+the change occurs :
+
+— Av
+a = —
+At
+Instantaneous acceleration is defined as the limit of the average acceleration as the time
+interval At goes to zero :
+
+. — . Av dv
+
+a=llma=lm1—=—
+
+At—>O At—~>0 At dt
+The acceleration of an object at a particular time is the slope of the velocity—time
+graph at that instant of time. For uniform motion, acceleration is zero and the x—t
+graph is a straight line inclined to the time axis and the v-t graph is a straight line
+
+2019-20
+
+to ground be vM. Relative velocity of the monkey
+
+v = vM — DA: —18 km h’1 =—5 mS’l. Therefore,
+
+4

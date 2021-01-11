@@ -1,0 +1,30 @@
+PHYSICS
+
+Diatomic Gases
+
+Polyatomic Gases
+
+Predicted values of specific heat
+capacities of gases (ignoring
+vibrational modes)
+
+Monatomic 20.8 8 .31 1.67
+Diatomic 29. 1 8.31 1.40
+
+Triatomic 33. 24 8.31 1.33
+
+Measured values of specific heat
+capacities of some gases
+
+Monatomic
+
+Monatomic
+
+Monatomic Ar
+Diatomic H2
+Diatomic O2
+Diatomic 3
+
+Triatomic H20
+
+Polyatomic CH4

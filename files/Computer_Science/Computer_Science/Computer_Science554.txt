@@ -1,0 +1,35 @@
+538 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Check
+Match the memory hierardw element on the left with the closest phrase on the right:
+Yourself
+1. L1 cache A cache fo r a cache
+3.
+2. L2 cache b. A cache for disks
+3. Main memory c. A cache for a main memory
+4. TLB d. A cache fo r page table entries
+A Common Framework for Memory
+Hierarchies
+By now, you've recognized that the different types of memo ry hierarchies share a
+great deal in common. Although many of the aspects of memory hierarchies differ
+quantitatively, many of the policies and features that determine how a hierarchy
+functions are simila r qualitatively. Figure 7.29 shows how some of the quantitative
+characteristics of memory hierarchies can differ. In the rest of this section, we will
+discuss the common operational aspects of memory hierarchies and how these
+determine their behavio r. We will examine these policies as a series of four ques 
+tions that apply between any two levels of a mem ory hierarchy, although for sim 
+plicity we will primarily use terminology fo r caches.
+Question 1: Where Can a Block Be Placed?
+We have seen that block placement in the upper level of the hierarchy can use a range
+of schemes, from direct mapped to set associative to fully associative. As mentioned
+above, this entire range of schemes can be thought of as variations on a set-associa 
+tive scheme where the number of sets and the number of blocks per set varies:
+Scheme name Number of sets Blocks per set
+Direct mapped Number of blocks in cache 1
+Set associative Number of blocks in cache Associativity (typically 2- 16)
+Associativity
+Fully associative 1 Number of blocks in the cache
+The advantage of increasing the degree of associativity is that it usually
+decreases the miss rate. The improvement in miss rate comes from reducing
+misses that compete for the same location. We will examine these in more detail
+shortly. First, let's look at how much improvement is ga ined. Figure 7.30 shows
+the data fo r a workload consisting of the SPEC2000 benchmarks with caches of 4

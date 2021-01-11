@@ -1,0 +1,43 @@
+306 Chapter 5 The Processor: Datapath and Control
+Signal
+name Effect when deasserted Effect when asserted
+RegDst The register destination number for the The register destination number for the Write
+Write registercomes from the Itfield (bits register comes from the rd field (bits 15:11).
+20:16).
+Reg'Nrite None. The register on the Write register input is
+written with the value on the Write data input.
+ALUSrc The se<:ond ALU operand comes from the The se<:ond ALU operand is the sign.extended,
+se<:ond register file output (Read data 2). lower 16 bits of the instruction.
+PCSrc The PC is replaced by the output of the The PC is replaced by the output of the adder
++
+adder that computes the value of PC 4. that computes the branch target.
+MemRead None. Data memory contents designated by the
+address inputare put on the Read data output.
+MemWrite None. Data memory contents designated by the
+address input are replaced bythe value on the
+Write data input.
+MemtoReg The value fed to the register Write data The value fed to the register Write data input
+input comes from the ALU. comes from the data memory.
+FIGURE 5.16 The effeef of each of the seven control signals. When the I-bit control to a two 
+way multiplexor is asserted, the multiplexor selects the input corresponding to I. Otherwise, ifthe control is
+deasserted, the multiplexor selects the 0 input. Remember that the state elements aU have the dock as an
+implicit input and that the dock is used in controlling writes. The dock is never gated externally to a state
+II
+element, since this can create timing problems. (See Appendix B for further discussion of this problem.)
+Before we try to write a set of equations or a truth table for the control unit, it
+will be useful to try to define the control fun ction informally. Because the setting
+of the control lines depends only on the opcode, we define whether each control
+signal should be 0, 1, or don't care (X), fo r each of the opcode values. Figure 5.1 8
+defines how the control signals should be set for each opcode; this information
+follows directly from Figures 5.1 2, 5.1 6, and 5.1 7.
+Operation of the Datapath
+With the information contained in Figures 5.1 6 and 5.1 8, we can design the con 
+trol unit logic, but before we do that, let's look at how each instruction uses the
+datapath. In the next few figures, we show the flow of three different instruction
+classes th rough the datapath. The asserted control signals and active datapath ele 
+ments are highlighted in each of these. Note that a multiplexor whose control is 0
+has a definite action, even if its control line is not highlighted. Multiple-bit control
+signals are highlighted if any constituent signal is asserted.
+Figure 5.19 shows the operation of the datapath for an R-type instruction, SUcll as
+add $t l , $t 2 , $t 3. Although everything occurs in 1clock cycle, we can think of four
+steps to execute the instruction; these steps are ordered by the flow of information:

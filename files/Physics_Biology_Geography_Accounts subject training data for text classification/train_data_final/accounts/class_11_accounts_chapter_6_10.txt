@@ -1,0 +1,51 @@
+190 Accountancy
+
+But while posting to the ledger, Preetpal’s account was debited with ? 2,500
+only. This constitutes an error of commission. Such an error by definition is of
+clerical nature and most of the errors of commission affect in the trial balance.
+
+6.4.3 Errors of Omission
+
+The errors of omission may be committed at the time of recording the transaction
+in the books of original entry or while posting to the ledger. These can be of two
+types:
+
+(i) error of complete omission
+
+(ii) error of partial omission
+
+When a transaction is completely omitted from recording in the books of
+
+original record, it is an error of complete omission. For example, credit sales
+to Mohan ? 10,000, not entered in the sales book. When the recording of
+transaction is partly omitted from the books, it is an error of partial omission.
+If in the above example, credit sales had been duly recorded in the sales book
+but the posting from sales book to Mohan’s account has not been made, it
+would be an error of partial omission.
+
+6.4.4 Errors of Principle
+
+Accounting entries are recorded as per the generally accepted accounting
+principles. If any of these principles are violated or ignored, errors resulting
+from such Violation are known as errors of principle. An error of principle may
+occur due to incorrect classiﬁcation of expenditure or receipt between capital
+and revenue. This is very important because it will have an impact on financial
+statements. It may lead to under/ over stating of income or assets or liabilities,
+etc. For example, amount spent on additions to the buildings should be treated
+as capital expenditure and must be debited to the asset account. Instead, if
+this amount is debited to maintenance and repairs account, it has been treated
+as a revenue expense. This is an error of principle. Similarly, if a credit purchase
+of machinery is recorded in purchases book instead of j ournal proper or rent
+paid to the landlord is recorded in the cash book as payment to landlord,
+these errors of principle. These errors do not affect the trial balance.
+
+6.4.5 Compensating Errors
+
+When two or more errors are committed in such a way that the net effect of these
+errors on the debits and credits of accounts is nil, such errors are called
+compensating errors. Such errors do not affect the tallying of the trial balance.
+For example, if purchases book has been overcast by ? 10,000 resulting in
+excess debit of ? 10,000 in purchases account and sales returns book is
+undercast by ? 10,000 resulting in short debit to sales returns account is a
+
+2019-2020

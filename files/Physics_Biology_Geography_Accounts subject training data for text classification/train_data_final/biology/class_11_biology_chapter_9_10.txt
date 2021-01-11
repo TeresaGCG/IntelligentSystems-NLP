@@ -1,0 +1,50 @@
+152
+
+ 
+
+BIOLOGY
+
+There are two hydrogen bonds between A and T and three hydrogen
+bonds between G and C. Each strand appears like a helical staircase.
+Each step of ascent is represented by a pair of bases. At each step of
+ascent, the strand turns 36°. One full turn of the helical strand would
+involve ten steps or ten base pairs. Attempt drawing a line diagram.
+The pitch would be 34A. The rise per base pair would be 3.4A. This
+form Of DNA with the above mentioned salient features is called B-
+DNA. In higher classes, you will be told that there are more than a
+dozen forms of DNA named after English alphabets with unique
+structural features.
+
+9.9 DYNAMIC STATE OF BODY CONSTITUENTS - CONCEPT OF
+METABOLISM
+
+What we have learnt till now is that living organisms, be it a simple bacterial
+cell, a protozoan, a plant or an animal, contain thousands of organic
+compounds. These compounds or biomolecules are present in certain
+concentrations (expressed as mols / cell or mols / litre etc.). One of the greatest
+discoveries ever made was the observation that all these biomolecules have
+a turn over. This means that they are constantly being changed into some
+other biomolecules and also made from some other biomolecules. This
+breaking and making is through chemical reactions constantly occuring
+in living organisms. Together all these chemical reactions are called
+metabolism. Each of the metabolic reactions results in the transformation
+Of biomolecules. A few examples for such metabolic transformations are:
+removal of CO2 from amino acids making an amino acid into an amine,
+removal of amino group in a nucleotide base; hydrolysis of a glycosidic
+bond in a disaccharide, etc. We can list tens and thousands of such
+examples. Majority of these metabolic reactions do not occur in isolation
+but are always linked to some other reactions. In other words, metabolites
+are converted into each other in a series of linked reactions called metabolic
+pathways. These metabolic pathways are similar to the automobile trafﬁc
+in a city. These pathways are either linear or circular. These pathways criss-
+cross each other, i.e., there are trafﬁc junctions. Flow of metabolites through
+metabolic pathway has a deﬁnite rate and direction like automobile traffic.
+This metabolite ﬂow is called the dynamic state of body constituents. What
+is most important is that this interlinked metabolic trafﬁc is very smooth
+and without a single reported mishap for healthy conditions. Another feature
+of these metabolic reactions is that every chemical reaction is a catalysed
+reaction. There is no uncatalysed metabolic conversion in living systems.
+Even CO2 dissolving in water, a physical process, is a catalysed reaction in
+living systems. The catalysts which hasten the rate of a given metabolic
+conversation are also proteins. These proteins with catalytic power are
+named enzymes.

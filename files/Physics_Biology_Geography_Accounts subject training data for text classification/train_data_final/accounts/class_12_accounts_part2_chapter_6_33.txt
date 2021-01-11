@@ -1,0 +1,56 @@
+268 Accountancy : Company Accounts and Analysis of Financial Statements
+
+(v) During the period, the enterprise acquired Fixed Assets for Rs 350. The
+payment was made in cash.
+
+(vi) Plant with original cost of Rs 80 and accumulated depreciation of Rs 60
+was sold for Rs 20.
+
+(vii) Trade Receivables and Trade Payables include amounts relating to credit
+sales and credit purchases only.
+
+Cash Flow Statement
+(Direct Method)
+
+Cash Flows from Operating Activities
+Cash Receipts from Customers 30,150
+Cash Paid to Suppliers and Employees (27,600)
+
+(Rs ‘000)
+
+Cash generated from Operations 2.550
+Income Tax paid (860)
+
+Cash Flow before Extraordinary Item 1.690
+Proceeds from earthquake disaster settlement 140
+
+Net Cash from Operating Activities
+
+Cash Flows from Investing Activities
+Purchase of Fixed Assets
+
+Proceeds from Sale of Equipment
+
+Interest Received
+Dividends Received
+
+Net cash ﬁ'om Investing Activities
+
+Cash Flows from Financing Activities
+
+Proceeds from issuance of Share Capital 250
+
+Proceeds from Long-term Borrowings 250
+
+Repayment of Long-term Borrowings (180)
+
+Interest paid (270)
+
+Dividends paid (1,200)
+
+Net cash used in Financing Activities (1 . 1 50)
+Net increase in Cash and Cash Equivalents 710
+
+Cash and cash equivalents at beginning of period 160
+
+Cash and cash equivalents at end of period

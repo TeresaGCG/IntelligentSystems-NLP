@@ -1,0 +1,59 @@
+Moving Charges and
+Magnetism
+
+#ONI
+27tr
+
+We shall now compare the two results: for a toroid and solenoid. We
+re-express Eq. (4.2 1) to make the comparison easier with the solenoid
+result given in Eq. (4.20). Let rbe the average radius of the toroid and n
+be the number of turns per unit length. Then
+
+8:
+
+ 
+
+(4.21)
+
+N = 2m n = (average) perimeter of the toroid
+
+X number of turns per unit length
+and thus,
+
+B = #0 n1, (4.22)
+
+i.e., the result for the solenoid!
+In an ideal toroid the coils are circular. In reality the turns of the
+toroidal coil form a helix and there is always a small magnetic ﬁeld external
+
+to the toroid.
+MAGNETIC CONFINEMENT
+
+We have seen in Section 4.3 (see also the box on helical motion of charged particles earlier
+in this chapter) that orbits of charged particles are helical. If the magnetic field is
+non-uniform, but does not change much during one circular orbit, then the radius of the
+helix will decrease as it enters stronger magnetic ﬁeld and the radius will increase when it
+enters weaker magnetic ﬁelds. We consider two solenoids at a distance from each other,
+enclosed in an evacuated container (see ﬁgure below where we have not shown the container).
+Charged particles moving in the region between the two solenoids will start with a small
+radius. The radius will increase as ﬁeld decreases and the radius will decrease again as
+ﬁeld due to the second solenoid takes over. The solenoids act as a mirror or reﬂector. [See
+the direction of F as the particle approaches coil 2 in the ﬁgure. It has a horizontal component
+against the forward motion.] This makes the particles turn back when they approach the
+solenoid. Such an arrangement will act like magnetic bottle or magnetic container. The
+particles will never touch the sides of the container. Such magnetic bottles are of great use
+in confining the high energy plasma in fusion experiments. The plasma will destroy any
+other form of material container because of its high temperature. Another useful container
+is a toroid. Toroids are expected to play a key role in the tokamak, an equipment for plasma
+conﬁnement in fusion power reactors. There is an international collaboration called the
+International Thermonuclear Experimental Reactor (ITER), being set up in France, for
+achieving controlled fusion, of which India is a collaborating nation. For details of ITER
+collaboration and the project, you may visit htt : www.iter.or .
+
+ 
+
+ 
+
+153
+
+2019-20

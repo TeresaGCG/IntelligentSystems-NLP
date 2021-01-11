@@ -1,0 +1,107 @@
+Magnetism and
+Matter
+
+ 
+
+(b) If field lines were entirely confined between two ends of a straight
+solenoid, the ﬂux through the cross-section at each end would be
+non-zero. But the ﬂux of field B through any closed surface must
+always be zero. For a toroid, this difficulty is absent because it
+has no ‘ends’.
+
+(c) Gauss’s law of magnetism states that the ﬂux of B through any
+
+closed surface is always zero IS B.As : 0 .
+
+If monopoles existed, the right hand side would be equal to the
+monopole (magnetic charge) qm enclosed by S. [Analogous to
+
+Gauss’s law of electrostatics, [SEAS = ,qum where qm is the
+
+(monopole) magnetic charge enclosed by S.)
+
+(d) No. There is no force or torque on an element due to the field
+produced by that element itself. But there is a force (or torque) on
+an element of the same wire. (For the special case of a straight
+wire, this force is zero.)
+
+(e) Yes. The average of the charge in the system may be zero. Yet, the
+mean of the magnetic moments due to various current loops may
+not be zero. We will come across such examples in connection
+with paramagnetic material where atoms have net dipole moment
+
+through their net charge is zero.
+
+5.4 THE EARTH’S MAGNETISM
+
+Earlier we have referred to the magnetic field of the earth. The strength of
+the earth’s magnetic ﬁeld varies from place to place on the earth’s surface;
+its value being of the order of 10‘5 T.
+
+What causes the earth to have a magnetic ﬁeld is not clear. Originally
+the magnetic ﬁeld was thought of as arising from a giant bar magnet
+placed approximately along the axis of rotation of the earth and deep in
+the interior. However, this simplistic picture is certainly not correct. The
+magnetic ﬁeld is now thought to arise due to electrical currents produced
+by convective motion of metallic ﬂuids (consisting mostly of molten
+iron and nickel) in the outer core of the earth. This is known as the
+dynamo effect.
+
+The magnetic ﬁeld lines of the earth resemble that of a (hypothetical)
+magnetic dipole located at the centre of the earth. The axis of the dipole
+does not coincide with the axis of rotation of the earth but is presently
+titled by approximately 1 1.3° with respect to the later. In this way of looking
+at it, the magnetic poles are located where the magnetic ﬁeld lines due to
+the dipole enter or leave the earth. The location of the north magnetic pole
+is at a latitude of 79.74° N and a longitude of 7 1.8° W, a place somewhere
+in north Canada. The magnetic south pole is at 79.74° S, 108.22° E in
+the Antarctica.
+
+The pole near the geographic north pole of the earth is called the north
+magnetic pole. Likewise, the pole near the geographic south pole is called
+
+2019-20
+
+[9 mama
+
+/8L’LUOGS/A08'PBOU ' 3p8u 'MMM//:(,lnL|
+
+ 
+
+C5
+o
+o
+E
+a:
+(a
+a
+to
+FF
+_.
+O
+:3
+o
+...
+n.
+56”
+.n
+:
+o
+s
+S
+.<
+rs
+E2-
+to
+n.
+.n
+:
+o
+m
+FF
+‘0
+o
+a
+V1
+
+185

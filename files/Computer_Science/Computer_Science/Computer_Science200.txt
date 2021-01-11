@@ -1,0 +1,36 @@
+184 Chapter 3 Arithmetic: for Computers
+A Division Algorithm and Hardware
+Figure 3. 10 shows hardware to mimic our grammar school algorithm. We start
+with the 32-bit Quotient register set to O. Each iteration of the algorithm needs to
+move the divisor to the right one digit, so we start with the divisor placed in the
+left half of the 64-bit Divisor register and shift it right 1 bit each step to align it
+with the dividend. The Remainder register is initialized with the dividend.
+Figure 3. 11 shows three steps of the first division algorithm. Unlike a human,
+the computer isn't smart enough to know in advance whether the divisor is
+smaller than the dividend. It must first subtract the divisor in step 1; remember
+that this is how we performed the comparison in the set on less than instruction.
+If the result is positive, the divisor was smaller or equal to the dividend, so we gen 
+erate a 1 in the quotient (step 2a). If the result is negative, the next step is to
+restore the original value by adding the divisor back to the remainder and gener 
+ate a 0 in the quotient (step 2b). The divisor is shifted right and then we iterate
+again. The remainder and quotient will be found in their namesake registers after
+the iterations are complete.
+•
+Divisor
+Shift right
+54 bits
+•
+r
+Quotient
+""" 54-bit ALU Shift left
+32 bits
+(
+Remainder Control
+Write test
+54 bits
+..
+FIGURE 3.10 First version of the division hardware. The DJV1SOr regIster, ALU, and fu.>mamder
+register are all 64 bits wide, with only the Quotient register being 32 bits. The 32-bit divisor starts in the left
+halfof the Divisor register and is shifted right 1 bit on each iteration. The remainder is initialized with the
+dividend. Control decides when to shiflthe Divisor and Quotient registers and when to write the new value
+into the fu.>mainder register.

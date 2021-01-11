@@ -1,0 +1,114 @@
+MECHANICAL PROPERTIES OF SOLIDS
+
+239
+
+T 1.0
+
+'e
+
+Z
+cc.
+
+3 0.5
+
+t
+
+3::
+
+(I)
+
+0
+0
+
+0.5 1.0
+Strain —>
+
+Fig. 9.4 Stress—strain curve for the elastic tissue of
+Aorta, the large tube (vessel) carrying blood
+from the heart.
+
+does not obey Hooke’s law over most of the
+region. Secondly, there is no well defined plastic
+region. Substances like tissue of aorta, rubber
+etc. which can be stretched to cause large strains
+are called elastomers.
+
+9.6 ELASTIC MODULI
+
+The proportional region within the elastic limit
+of the stress-strain curve (region 0A in Fig. 9.3)
+is of great importance for structural and
+manufacturing engineering designs. The ratio
+of stress and strain, called modulus of elasticity,
+is found to be a characteristic of the material.
+
+9.6. 1 Young’s Modulus
+
+Experimental observation show that for a given
+material, the magnitude of the strain produced
+is same whether the stress is tensile or
+compressive. The ratio of tensile (or compressive)
+stress (a) to the longitudinal strain (6) is deﬁned as
+Young’s modulus and is denoted by the symbol Y.
+
+O'
+
+Y= E (9.7)
+
+From Eqs. (9.1) and (9.2), we have
+
+Y= (F/AJ/(AL/L)
+= (Fx L) /(A x AL) (9.8)
+
+Since strain is a dimensionless quantity, the
+unit of Young’s modulus is the same as that of
+stress i.e., N m—2 or Pascal (Pa). Table 9.1 gives
+the values of Young’s moduli and yield strengths
+of some material.
+
+From the data given in Table 9. 1, it is noticed
+that for metals Young’s moduli are large.
+Therefore, these materials require a large force
+to produce small change in length. To increase
+the length of a thin steel wire of 0.1 cm2 cross-
+sectional area by 0.1%, a force of 2000 N is
+required. The force required to produce the same
+strain in aluminium, brass and copper wires
+having the same cross-sectional area are 690 N,
+900 N and 1 100 N respectively. It means that
+steel is more elastic than copper, brass and
+aluminium. It is for this reason that steel is
+
+Table 9.1 Young’s moduli and yield strenghs of some material
+
+Substance
+
+Aluminium 27 1 0
+
+Copper 8890
+Iron (wrought) 7 800-7900
+Steel 7860
+
+Glass# 2 1 90
+Concrete 2320
+
+Wood“ 525
+Bone# 1900
+
+Polystyrene 1050
+
+# Substance tested under compression
+
+Young’s modulus
+Y (109N m”)
+
+ 
+
+Ultimate
+strength.
+au (106 N ma)
+
+Yield strength
+try (106 N m'Z)
+
+2019-20

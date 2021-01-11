@@ -1,0 +1,39 @@
+578 Chapter 8
+The key insight to reduce this overhead is that parity is simply a sum of infor 
+mation; by watching which bits change when we write the new information, we
+need only change the corresponding bits on the parity disk. Figure 8.7 shows the
+shortcut. We must read the old data from the disk being written,compare old data
+to the new data to see which bits change, read the old parity, change the corre 
+sponding bits, then write the new data and new parity. Thus, the small write
+involves four disk accesses to two disks instead of accessing all disks. This organi 
+zation is RAID 4.
+Distributed Block-Interleaved Parity (RAID 5)
+RAID 4 efficiently supports a mixture of large reads, large writes, and small reads,
+plus it allows small writes. One drawback to the system is that the parity disk must
+be updated on every write, so the parity disk is the bottleneck for back-to-back
+writes.
+To fix the parity-write bottleneck, the parity information can be spread
+throughout all the disks so that there is no single bottleneck for writes. The dis 
+tributed parity organization is RAID 5.
+Figure 8.8 shows how data are distributed in RAID 4 versus RAID 5. As the
+organization on the right shows, in RAID 5 the parity associated with each row of
+data blocks is no longer restricted to a single disk. This orga nization allows multi 
+ple writes to occur simultaneously as long as the parity blocks are not located to
+the sa me disk. For example, a write to block 8 on the right must also access its par 
+ity block P2, thereby occupying the first and third disks. A second write to block 5
+on the right, implying an update to its parity block PI , accesses the second and
+fourth disks and thus could occur concurrently with the write to block 8. Those
+sa me writes to the organization on the left result in changes to blocks PI and P2,
+both on the fifth disk, which is a bottleneck.
+P + Q Redundancy (RAID 6)
+Parity-based schemes protect against a single self-identifying failure. When a single
+failure correction is not sufficient, parity can be generalized to have a second calcu 
+lation over the data and another check disk of information. This second check
+block allows recovery from a second failure. Thus, the storage overhead is twice
+that of RAID 5. The small write shortcut of Figure 8.7 works as well, except now
+there are six disk accesses instead of four to update both P and Q information.
+RAID Summary
+RAID I and RAID 5 are widely used in servers; one estimate is 80% of disks in
+servers are found in some RAID system.
+One weakness of the RAID systems is repair. First, to avoid making the data
+ull3vailable during repair, the array must be designed to allow the failed disks to

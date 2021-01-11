@@ -1,0 +1,187 @@
+Atoms
+
+consists of bright lines on a Wavelength. 7» —>
+dark background. The
+spectrum emitted by atomic
+hydrogen is shown in
+Fig. 12.5. Study of emission
+
+91 nm
+
+122 nm
+365 nm
+656 nm
+820 nm
+
+1875 nm
+
+ 
+
+line spectra of a material can
+therefore serve as a type of
+“fingerprint” for identiﬁcation
+of the gas. When white light
+passes through a gas and we
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+using a spectrometer we find series
+
+. . L74 %/—’ %—’
+analyse the transmitted llght Lyman Balmar series Paschen series
+
+$01116 dark lines in the FIGURE 12.5 Emission lines in the spectrum of hydrogen.
+
+spectrum. These dark lines
+
+correspond precisely to those wavelengths which were found in the
+emission line spectrum of the gas. This is called the absorption spectrum
+of the material of the gas.
+
+12.3. 1 Spectral series
+
+We might expect that the frequencies of the light emitted by a particular
+element would exhibit some regular pattern. Hydrogen is the simplest
+atom and therefore, has the simplest spectrum. In the observed spectrum,
+however, at ﬁrst sight, there does not seem to be
+any resemblance of order or regularity in spectral
+lines. But the spacing between lines within certain
+sets of the hydrogen spectrum decreases in a
+
+364.6 nm
+410.2 nm
+
+434.] nm
+
+486.1 nm
+
+656.3 nm
+
+ 
+
+regular way (Fig. 12.5). Each of these sets is called
+a spectral series. In 1885, the first such series was
+observed by a Swedish school teacher Johann Jakob
+Balmer (1825—1898) in the visible region of the
+hydrogen spectrum. This series is called Balmer
+
+ 
+
+series (Fig. 12.6). The line with the longest Hoo Ha
+wavelength, 656.3 nm in the red is called Ha; the
+
+H7
+
+HIS
+
+next line with wavelength 486.1 nm in the blue- FIGURE 12'6 Balmer series in the
+green is called HB’ the third line 434.1 nm in the em‘SSIO“ Speamm 0f hydmgen'
+
+violet is called HY; and so on. As the wavelength
+decreases, the lines appear closer together and are weaker in intensity.
+Balmer found a simple empirical formula for the observed wavelengths
+
+1 1 1
+T Rt???) 02-5)
+
+where 2. is the wavelength, R is a constant called the Rydberg constant,
+and nmay have integral values 3, 4, 5, etc. The value of R is 1.097 X 107 m‘l.
+This equation is also called Balmer formula.
+
+Taking n = 3 in Eq. (12.5), one obtains the wavelength of the H0‘ line:
+
+%=1.097 x 107 [i—i) m"1
+
+22 32
+= 1.522 x 106m‘1
+i.e.,l = 656.3 nm
+
+2019-20
+
+421

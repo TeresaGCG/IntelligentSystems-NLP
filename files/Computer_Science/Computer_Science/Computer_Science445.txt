@@ -1,0 +1,47 @@
+6.8 Exceptions 429
+is to flush the instruction and restart it from the beginning after the exception is
+handled.
+The final step is to save the address of the offending instruction in the Excep 
+tion Program Counter (EPC), as we did in Chapter 5. In reality, we save the
++
+address 4, so the exception handling routine must first subtract 4 from the saved
+value. Figure 6.42 shows a stylized version of the datapath, including the branch
+hardware and necessary accommodations to handle exceptions.
+Exception in a Pipelined Computer
+Given this instruction sequence,
+EXAMPLE
+40 sub III . 12 . 14
+h..
+44 and 112 . 12 . IS
+h..
+48 or 113 . 12 . 16
+h..
+4C add II . 12 . $I
+h..
+50 sIt liS . 16 . $7
+h..
+54 l w 116 . 50($7)
+h..
+assume the instructions to be invoked on an exception begin like this:
+40000040 sw 125 . 1000( 10)
+..
+h
+40000044 sw 126 . 1004( 10)
+..
+h
+Show what happens in the pipeline if an overflow exception occurs in the add
+instruction.
+Figure 6.43 shows the events, starting with the add instruction in the EX
+ANSWER
+stage. The overflow is detected during that phase, and 4000 0040 is forced
+hex
+into the Pc. Clock cycle 7 shows that the add and following instructions are
+flushed, and the first instruction of the exception code is fetched. Note that
+the address of the instruction followillg the add is saved: 4C + 4 =
+SOhex.
+hex
+Chapter 5 lists some other causes of exceptions:
+• I/O device request
+• Invoking an operating system service from a user program
+• Using an undefined instruction
+• Hardware malfunction

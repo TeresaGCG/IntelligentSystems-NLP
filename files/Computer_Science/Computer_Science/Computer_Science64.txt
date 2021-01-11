@@ -1,0 +1,37 @@
+48 Chapter 2 Instructions: Language of the Computer
+Introduction
+To command a computer's hardware, you must speak its language. The words of a
+computer's language are called instructions, and its vocabulary is called an
+instruction set The vocabu  instruction set. In this chapter, you will see the instruction set of a real computer,
+lary ofcommands understood both in the form written by humans and in the form read by the computer. We
+by a given architecnlre.
+introduce instructions in a top-down fashion. Starting from a notation that looks
+like a restricted programming language, we refine it step-by-step until you see the
+real language of a real computer. Chapter 3 continues our downward descent,
+unveiling the representation of integer and floating-point numbers and the hard 
+ware that operates on them.
+You might think that the languages of computers would be as diverse as those
+of humans, but in reality computer languages are quite similar, more like regional
+dialects than like independent languages. Hence, once you learn one, it is easy to
+pick up others. This similarity occurs because all computers are constructed from
+hardware technologies based on similar underlying principles and because there
+are a few basic operations that all computers must provide. Moreover, computer
+designers have a common goal: to find a language that makes it easy to build the
+hardware and the compiler while maximizing performance and minimizing cost.
+This goal is time-honored; the following quote was written before you could buy a
+computer, and it is as true today as it was in 1947:
+It is easy to see by formal-logical methods that there exist certain {instrllction
+sets} that are in abstract adequate to control and calise the execution ofany se 
+quence ofoperations. ... The really decisive considerations from the present
+point ofview, in selecting an {instrllction set}, are more ofa practical
+nattlre: simplicity ofthe equipment demanded by the {instruction set}, and the
+clarity ofits application to the actually important problems together with the
+speed ofits handling ofthose problems.
+Burks, Goldstine, and yon Neumann, 1947
+The "simplicity of the equipment" is as valuable a consideration for com put 
+ers of the 2oo0s as it was for those of the 1950s. The goal of this chapter is to
+teach an instruction set that follows this advice, showing both how it is repre 
+sented in hardware and the relationship between high-level programming lan 
+guages and this more primitive one. Our examples are in the C programming
+language; Section 2. 14 shows how these would change for an object-oriented
+language like Java.

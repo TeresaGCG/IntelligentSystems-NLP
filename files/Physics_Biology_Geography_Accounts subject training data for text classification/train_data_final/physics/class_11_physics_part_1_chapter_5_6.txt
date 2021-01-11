@@ -1,0 +1,125 @@
+LAWS OF MOTION
+
+95
+
+dP
+F _ k—
+t (5.2)
+
+For a body of fixed mass m,
+
+d_P : 1(mv) : md_" : ma (5.3)
+dt dt dt
+
+i.e the Second Law can also be written as
+F = k ma (5.4)
+
+which shows that force is proportional to the
+product of mass m and acceleration a.
+
+The unit of force has not been defined so far.
+In fact, we use Eq. (5.4) to deﬁne the unit of force.
+We, therefore, have the liberty to choose any
+constant value for k. For simplicity, we choose
+k = 1. The second law then is
+
+dp_
+
+F: E — ma (5.5)
+
+In SI unit force is one that causes an acceleration
+of 1 m s2 to a mass of 1 kg. This unit is known as
+newton: 1 N = 1 kgm s2.
+
+Let us note at this stage some important points
+about the second law :
+
+1. In the second law, F = 0 implies a = O. The
+second law is obviously consistent with the
+first law.
+
+2. The second law of motion is a vector law. It is
+equivalent to three equations, one for each
+component of the vectors :
+
+ 
+
+ 
+
+dp
+FX 2 dtx = max
+dpy
+Fy = — 2 may
+dt
+dp
+Fz= dtz=m a2 (5.6)
+
+This means that if a force is not parallel to
+the velocity of the body, but makes some angle
+with it, it changes only the component of
+velocity along the direction of force. The
+component of velocity normal to the force
+remains unchanged. For example, in the
+motion of a projectile under the vertical
+gravitational force, the horizontal component
+of velocity remains unchanged (Fig. 5.5).
+
+3. The second law of motion given by Eq. (5.5) is
+applicable to a single point particle. The force
+F in the law stands for the net external force
+
+on the particle and a stands for acceleration
+of the particle. It turns out, however, that the
+law in the same form applies to a rigid body or,
+even more generally, to a system of particles.
+In that case, F refers to the total external force
+on the system and a refers to the acceleration
+of the system as a whole. More precisely, a is
+the acceleration of the centre of mass of the
+system about which we shall study in detail in
+chapter 7. Any internal forces in the system
+are not to be included in F.
+
+ 
+
+Fig. 5.5 Acceleration at an instant is detem1ined by
+the force at that instant. The moment after a
+stone is dropped out of an accelerated train,
+
+it has no horizontal acceleration or force, if
+
+air resistance is neglected. The stone carries
+no memory of its acceleration with the train
+a moment ago.
+
+4. The second law of motion is a local relation
+which means that force F at a point in space
+(location of the particle) at a certain instant
+of time is related to a at that point at that
+instant. Acceleration here and now is
+determined by the force here and now, not by
+any history of the motion of the particle
+(See Fig. 5.5).
+
+> Example 5.2 A bullet of mass 0.04 kg
+moving with a speed of 90 m s'1 enters a
+heavy wooden block and is stopped after a
+
+distance of 60 cm. What is the average
+resistive force exerted by the block on the
+bullet?
+
+ 
+
+Answer The retardation ‘a’ of the bullet
+(assumed constant) is given by
+—u2 _ —90 x 90
+
+_ —ms'2 =—6750ms'2
+23 2x0.6
+
+a:
+
+ 
+
+2019-20

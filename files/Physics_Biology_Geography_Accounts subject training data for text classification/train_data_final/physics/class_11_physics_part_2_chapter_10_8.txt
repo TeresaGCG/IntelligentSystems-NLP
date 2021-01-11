@@ -1,0 +1,106 @@
+258
+
+PHYSICS
+
+ 
+
+stream encounters rocks, small foamy
+whirlpool-like regions called ‘white water
+rapids are formed.
+
+Figure 10.8 displays streamlines for some
+typical ﬂows. For example, Fig. 10.8(a) describes
+a laminar ﬂow where the velocities at different
+points in the fluid may have different
+magnitudes but their directions are parallel.
+Figure 10.8 (b) gives a sketch of turbulent ﬂow.
+
+(a) (b)
+
+Fig. 10.8 (a) Some streamlines for ﬂuid ﬂow.
+(b) A jet of air striking a ﬂat plate placed
+perpendicular to it. This is an example
+of turbulent ﬂow.
+
+10.4 BERNOULLI'S PRINCIPLE
+
+Fluid ﬂow is a complex phenomenon. But we
+can obtain some useful properties for steady
+or streamline ﬂows using the conservation
+of energy.
+
+Consider a ﬂuid moving in a pipe of varying
+cross-sectional area. Let the pipe be at varying
+heights as shown in Fig. 10.9. We now suppose
+that an incompressible ﬂuid is ﬂowing through
+the pipe in a steady ﬂow. Its velocity must
+change as a consequence of equation of
+continuity. A force is required to produce this
+acceleration, which is caused by the ﬂuid
+surrounding it, the pressure must be different
+in different regions. Bernoulli’s equation is a
+general expression that relates the pressure
+difference between two points in a pipe to both
+velocity changes (kinetic energy change) and
+elevation (height) changes (potential energy
+
+Daniel Bernoulli (1 700 —1 782)
+
+change). The Swiss Physicist Daniel Bernoulli
+developed this relationship in 1738.
+
+Consider the ﬂow at two regions 1 (i.e., BC)
+and 2 (i.e., DE). Consider the ﬂuid initially lying
+between B and D. In an infinitesimal time
+interval At, this ﬂuid would have moved. Suppose
+U1 is the speed at B and v2 at D, then ﬂuid initially
+at B has moved a distance let to C (let is small
+enough to assume constant cross-section along
+BC). In the same interval At the ﬂuid initially at
+D moves to E, a distance equal to v2At. Pressures
+P1 and P2 act as shown on the plane faces of
+areas A1 and A2 binding the two regions. The
+work done on the ﬂuid at left end (BC) is W1 =
+P1A1(v1At) = PIAV. Since the same volume AV
+passes through both the regions (from the
+equation of continuity) the work done by the ﬂuid
+at the other end (DE) is W2 = P2A2(v2At) = P2AVor,
+the work done on the ﬂuid is —P2AV. So the total
+work done on the ﬂuid is
+
+W1 — W2 = (Pl—P2) AV
+
+Part of this work goes into changing the kinetic
+energy of the ﬂuid, and part goes into changing
+the gravitational potential energy. If the density
+of the ﬂuid is p and Am = pAllet = pAV is the
+mass passing through the pipe in time At, then
+change in gravitational potential energy is
+
+AU = pgAV (hZ—hl)
+
+The change in its kinetic energy is
+
+AK = p AV (1122—012)
+
+We can employ the work — energy theorem
+(Chapter 6) to this volume of the ﬂuid and
+this yields
+
+1
+(Pl—P2) AV= (E) p AV(v22 —v12) + pgAV (h2—h1)
+We now divide each term by AVto obtain
+
+1
+(Ia—P2) = [5) P (vi-v.21 + pg (re—h.)
+
+Daniel Bernoulli was a Swiss scientist and mathematician. who along with Leonard
+Euler had the distinction of winning the French Academy prize for mathematics
+10 times. He also studied medicine and served as a professor of anatomy and
+
+botany for a while at Basle. Switzerland. His most well—known work was in
+hydrodynamics. a subject he developed from a single principle. the conservation of
+. energy. His work included calculus probability the theory of vibrating strings.
+and applied mathematics. He has been called the founder of mathematical physics.
+
+2019-20

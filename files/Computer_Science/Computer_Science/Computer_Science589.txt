@@ -1,0 +1,46 @@
+8.2 Disk Storage and Dependability 573
+Characteristics Seagate ST3734S3 Seagate ST3200822 Seagate ST94811A
+Disk diameter (inches) 3.50 3.50 2.50
+Formatted data capacity (GB) 73.4 200.0 40.0
+Number of disk surfaces (heads) 8 4 2
+Rotation speed (RPM) 15.000 7200 5400
+Internal disk cache size (MB) 8 8 8
+External interface. bandwidth (MB/se<:) Ultra320 SCSI. 320 Serial ATA. 150 ATA. 100
+Sustained transfer rate (MB/sec) 57-86 32-58 34
+Minimum seek (read/write) (ms) 0.2/0.4 1.0/1.2 1.5/2.0
+Average seek read/write (ms) 3.6/3.9 8 .5/9.5 12.0/14.0
+Mean time to failure (MTTF) (hours) 1.200.OO0@25·C 6oo.000@ 25·C 330.000 @ 25·C
+Warranty (years) 5 3
+Nonre<:overable read errors per bits read <1 per loJ-~ < 1 per 1014 < 1 per loJ-4
+Temperature. vibration limits (operating) 5·-55·C. 400 Hz@0.5G O·.-QO·C. 350 Hz @0.5 G 5·-55·C. 400 Hz @ 1 G
+Size: dimensions (in.). weight (pounds) 1.0· x 4.0· x 5.8". 1.9 Ibs 1.0· x 4.0· x 5.8".1.4 Ibs 0.4· x 2.7" x 3.9·. 0.2 Ibs
+Power: operatingjidle/standby (watts) 20?/12/ 12/8/1 2.4/ 1.0/0.4
+GB/cu. in.. GB/watt 3 GB/cu.in.. 4 GB/W 9 GB/cu.in.. 16 GB/W 10 GB/cu.in.. 17 GB/W
+Price in 2004. $/GB ~ $400. ~ $5/GB ~ $100. $0.5/GB $100. $2.50/GB
+m m m
+FIGURE 8.4 Characteristics of three magnetic disks by a single manufacturer In 2004. The disks shown here either interface to
+SCSI, a standard I/O bus for many systems, or ATA, a standard I/O bus for PCS. The first disk is intended for file servers, the second for desktop PCs,
+and the last for laptop computers. Each disk has an 8 MB cache.The transfer rate from the cache is 3-6 times faster than the transfer rate from the disk
+surface. The much lower cost of the ATA 3.S-inch drive is primarily due to the hypercompetitive PC market, although there are differences in perfor 
+mance and reliability between it and the SCSI drive. The service life for these disks is 5 years, although Seagate offers a S-year guarantee only on the
+SCSI drive, with a I-year guarantee on the other two. Note that the quoted MTIF assumes nominal power and temperature. Disk lifetimes can be
+much shorter if temperature and vibration are not controlled. See the link to Seagate at www.seagate.romfor more information on these drives.
+Reliability is a measure of the continuous service accomplishment-or, equiva  small computer systems
+interface (SCSI) Abus used as
+lently, of the time to failure-from a reference point. Hence, the mean time to fail 
+a standard for I/O devices.
+ure (MTTF) of disks in Figure 8.4 is a reliability measure. Service interruption is
+measured as mean time to repair (MTIR). Mean time between faill/res (MTBF) is
++
+simply the sum of MTTF MTTR. Although MTBF is widely used, MTIF is
+often the more appropriate term.
+Availability is a measure of the service accomplishment with respect to the
+alternation between the two states of accomplishment and interruption. Ava ilabil 
+ity is statistically quantified as
+Ava ilability MIIF==
+(MTTF + MTTR)
+Note that reliability and availability are quantifiable measures, rather than just
+synonyms fo r dependability.
+\Vhat is the cause of failures? Figure 8.5 summarizes many papers that have col 
+lected data on reasons for computer systems and telecommunications systems to
+fail. Clearly, human operators are a significant source of failures.

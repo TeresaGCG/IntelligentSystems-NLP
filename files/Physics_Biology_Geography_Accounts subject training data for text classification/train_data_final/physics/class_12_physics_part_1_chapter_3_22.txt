@@ -1,0 +1,93 @@
+Current
+Electricity
+
+The last two equations should be the same and hence
+
+ 
+
+ 
+
+ 
+
+811‘2 + .92r1
+8 = ——
+eq r1 + r2 (3.73)
+GT2
+r 2
+eq r1 + r2 (3.74)
+We can put these equations in a simpler way,
+L_l+ i
+req r1 r2 (3.75)
+8m _a+ :2
+req r1 r2 (3.76)
+
+In Fig. (3.2 1), we had joined the positive terminals
+together and similarly the two negative ones, so that the
+currents 11, I2 ﬂow out of positive terminals. If the negative
+
+Gustav Robert Kirchhoff
+(1824 - 1887).“ German
+physicist, professor at
+
+C)
+E)
+a?
+<
+70
+O
+03
+E
+’%
+E
+O
+E
+E
+0
+>1)
+1
+(To
+[\3
+4;
+|
+oHo
+00
+:1
+
+ 
+
+ 
+
+terminal of the second is connected to positive terminal Heidelberg and at
+of the ﬁrst, Eqs. (3.75) and (3.76) would still be valid with Berlin. Mainly known for
+82 —> —82 his, development of
+Equations (3.75) and (3.76) can be extended easily. spectroscopy, he also
+If there are 11 cells of emf £1, . . . 8n and of internal made, many important
+resistances r1,... rn respectively, connected in parallel, the aniribUtions t0 mathe'
+combination is equivalent to a single cell of emf seq and ‘m‘atical PPySi‘is’ among
+internal resistance r , such that them, hls ﬁrs? a,nd
+9‘1 second rules for c1rcu1ts.
+1 _ 1 + + 1
+req r1 rn (3.77)
+89‘] 81 8n
+Teq — r1 + + r” (3.78)
+
+3. 13 KIRCHHOFF’S RULES
+
+Electric circuits generally consist of a number of resistors and cells
+interconnected sometimes in a complicated way. The formulae we have
+derived earlier for series and parallel combinations of resistors are not
+always sufficient to determine all the currents and potential differences
+in the circuit. Two rules, called Kirchhoff 3 rules, are very useful for
+analysis of electric circuits.
+
+Given a circuit, we start by labelling currents in each resistor by a
+symbol, say I, and a directed arrow to indicate that a current I ﬂows
+along the resistor in the direction indicated. If ultimately I is determined
+to be positive, the actual current in the resistor is in the direction of the
+arrow. If I turns out to be negative, the current actually ﬂows in a direction
+opposite to the arrow. Similarly, for each source (i.e., cell or some other
+source of electrical power) the positive and negative electrodes are labelled,
+as well as, a directed arrow with a symbol for the current ﬂowing through
+the cell. This will tell us the potential difference, V= V(P) — V(N) = e — I r 1 1 5
+
+2019-20

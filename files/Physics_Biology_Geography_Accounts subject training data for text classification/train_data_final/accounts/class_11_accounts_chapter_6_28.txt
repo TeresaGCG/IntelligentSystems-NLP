@@ -1,0 +1,50 @@
+208 Accountancy
+
+Solution
+(i)
+
+Suspense A/c Dr. 1 ,000
+To Sales Return A/c 1,000
+[Sales returns book overcast by ? 1,000, now corrected).
+
+(ii)
+
+Purchases A/c Dr. 600
+To Suspense A/c 600
+[Purchases book undercast by ? 600, now corrected)
+
+(iii)
+
+Sales A/c Dr. 400
+To Suspense A/c 400
+[Error in carry forward of sales book, now corrected].
+
+Note: Errors in carry forward the total of one page to another during
+a period ﬁnally affects the total of that book resulting in error of under/ overcasting.
+In this case, carry forward from page 4 to 5 resulted in undercasting of ? 200 and
+carry forward from page 8 to page 9 resulted in overcasting of ? 600. Overall
+overcasting being ?600—200 = 3 400.
+
+{iv}
+
+Sales A/c Dr. 1 ,000
+To Return Outwards A/c 1,000
+[Return Outwards wrongly recorded through sales book, now rectified).
+
+(V)
+Purchases A/c Dr. 8,000
+Sales A/c Dr. 8,000
+
+To M & Co.’s A/c 16,000
+[Credit purchases wrongly recorded through sales book, now rectified].
+
+(vi)
+
+Purchases A/c Dr. 5,000
+Sales A/c Dr. 5,000
+To Suspense A/c 10.000
+
+[Credit purchases wrongly recorded through sales book, however suppliers
+account correctly credited, now rectified].
+
+2019-2020

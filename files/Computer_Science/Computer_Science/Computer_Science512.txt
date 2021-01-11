@@ -1,0 +1,37 @@
+496 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+As these examples illustrate, relative cache penalties increase as a processor
+becomes faster. Furthermore, if a processor improves both clock rate and CPI, it
+suffers a double hit:
+I. The lower the CPI, the more pronounced the impact of stall cycles.
+2. The main memory system is unlikely to improve as fast as processor cycle
+time, primarily because the performance of the underlying DRAM is not
+getting much faster. When calculating CPI, the cache miss penalty is mea 
+sured in processor clock cycles needed for a miss. Therefore, if the main
+memories of two processors have the same absolute access times, a higher
+processor clock rate leads to a larger miss penalty.
+Thus, the importance of cache performance for processors with low CPI and
+high clock rates is greater, and consequently the danger of neglecting cache
+behavior in assessing the performance of such processors is greater. As we will
+see in Section 7.6, the use of fast, pipelined processors in desktop PCs and
+workstations has led to the use of sophisticated cache systems even in comput 
+ers selling for less than a $1000.
+The previous examples and equations assume that the hit time is not a fac 
+tor in determining cache performance. Clea rly, if the hit time increases, the
+total time to access a word from the memory system will increase, possibly
+causing an increase in the processor cycle time. Although we will see addi 
+tional examples of what can increase hit time shortly, one example is increas 
+ing the cache size. A larger cache could clea rly have a longer access time, just
+as if your desk in the library was very large (say, 3 square meters), it would
+take longer to locate a book on the desk. With pipelines deeper than five
+stages, an increase in hit time likely adds another stage to the pipeline, since it
+may take multiple cycles for a cache hit. Although it is more complex to calcu 
+late the performance impact of a deeper pipeline, at some point the increase in
+hit time for a larger cache could dominate the improvement in hit rate, lea d 
+ing to a decrease in processor performance.
+The next subsection discusses alternative cache organizations that decrease
+miss rate but may sometimes increase hit time; additional examples appear in Fal 
+lacies and Pitfalls (Section 7.7).
+Reducing Cache Misses by More Rexible Placement
+of Blocks
+So far, when we place a block in the cache, we have used a simple placement
+scheme: A block can go in exactly one place in the cache. As mentioned earlier, it

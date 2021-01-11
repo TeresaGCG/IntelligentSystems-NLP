@@ -1,0 +1,40 @@
+188 Chapter 3 Arithmetic: for Computers
+The reason the answer isn't a quotient of - 4 and a remainder of +1, which would
+also fit this formula, is that the absolute value of the quotient would then change
+depending on the sign of the dividend and the divisorl Clearly if
+--(x ~ y);;t (-x) ~ y
+programming would be an even greater challenge. This anomalous behavior is avoided
+by following the rule that the dividend and remainder must have the same signs, no
+matter what the signs of the divisor and quotient.
+We calculate the other combinations by following the same rule:
++7 ~ -2: Quotient = -3, Remainder = +1
+-7 ~ -2: Quotient = +3, Remainder =-1
+Thus the correctly signed division algorithm negates the quotient if the signs of the
+operands are opposite and makes the sign of the nonzero remainder match the dividend.
+Faster Division
+We used 32 adders to speed up multiply, but we cannot do the same trick for
+divide. The reason is that we need to know the sign of the difference before we can
+perform the next step of the algorithm, whereas with multiply we could calculate
+the 32 partial products immediately.
+There are techniques to produce more than one bit of the quotient per bit. The
+SRT division technique tries to guess several quotient bits per step, using a table
+lookup based on the upper bits of the dividend and remainder. It relies on subse 
+quent steps to correct wrong guesses. A typical value today is 4 bits. The key is
+guessing the value to subtract. With binary division there is only a single choice.
+These algorithms use 6 bits from the remainder and 4 bits from divisor to index a
+table that determines the guess for each step.
+The accuracy of this fast method depends on having proper values in the
+lookup table. The fallacy on page 222 in Section 3.8 shows what can happen if the
+table is incorrect.
+Divide in MIPS
+You may have already observed that the same sequential hardware can be used for
+both multiply and divide in Figures 3.7 and 3. 13. The only requirement is a 64-bit
+register that can shift left or right and a 32-bit ALU that adds or subtracts. Hence,
+MIPS uses the 32-bit Hi and 32-bit 1..0 registers for both multiply and divide. As
+we might expect from the algorithm above, Hi contains the remainder, and Lo
+contains the quotient after the divide instruction completes.
+To handle both signed integers and unsigned integers, MIPS has two
+instructions: divide (di v) and divide l/nsigned (di vu). The MIPS assembler
+allows divide instructions to specify three registers, generating the mfl or mfh i
+0
+instructions to place the desired result into a general-purpose register.

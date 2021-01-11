@@ -1,0 +1,59 @@
+Accounting for Share Capital 1 9
+
+In practice the entries for the amount received are recorded in the cash
+book and not in the journal (See Illustration 5).
+Illustration 5
+Unique Pictures Limited was registered with an authorised capital of Rs. 5,00,000
+divided into 20,000, 5% preference shares of Rs. 10 each and 30,000 equity
+shares of Rs. 10 each. The company issued 10,000 preference and 15,000 equity
+shares for public subscription. Calls on shares were made as under
+
+Equity Shares Preference Shares
+(Rs.) (Rs.)
+Application 2 2
+Allotment 3 3
+First Call 2.50 2.50
+Second and Final Call 2.50 2.50
+
+All these shares were fully subscribed. All the dues were received except the
+second and ﬁnal call on 100 equity shares and on 200 preference shares. Record
+these transactions in the journal. You are also required to prepare the cash
+book and balance sheet.
+
+Solution
+Books of Unique Pictures Limited
+Journal
+
+Equity Share Application A/c
+
+5% Preference Share Application A/c
+To Equity Share Capital A/c
+To 5% Preference Share Capital A/c
+
+(Transfer of application money)
+
+Equity Share Allotment A/c
+5% Preference Share Allotment A/c
+To Equity Share Capital A/c
+To 5% Preference Share Capital A/c
+(Amount due on allotment)
+
+Equity Share First Call A/c
+5% Preference Share First Call A/c
+
+To Equity Share Capital A/c
+
+To 5% Preference Share Capital A/c
+(First call mone due)
+
+Equity Share Second and Final Call A/c Dr.
+5% Preference Share Second and ﬁnal Call A/cDr.
+To Equity Share Capital A/c
+To 5% Preference Share Capital A/c
+(First call money due)
+
+Call in Arrears A/c Dr.
+To Equity Share Second and Final Call A/c
+To 5% Preference Share Final Call A/c
+
+(For Calls in Arrears)

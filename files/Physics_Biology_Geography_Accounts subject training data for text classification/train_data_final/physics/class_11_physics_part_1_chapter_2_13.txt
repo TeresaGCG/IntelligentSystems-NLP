@@ -1,0 +1,128 @@
+UNITS AND MEASUREMENT
+
+29
+
+zeroes appearing in the base number in the
+scientific notation are signiﬁcant. Each number
+in this case has four significant figures.
+
+Thus, in the scientific notation, no confusion
+arises about the trailing zero(s) in the base
+number a. They are always significant.
+
+(4) The scientific notation is ideal for reporting
+measurement. But if this is not adopted, we use
+the rules adopted in the preceding example :
+
+' For a number greater than 1, without any
+decimal, the trailing zero(s) are not
+significant.
+
+' For a number with a decimal, the trailing
+zero(s) are significant.
+
+(5) The digit 0 conventionally put on the left of a
+decimal for a number less than 1 (like 0.1250)
+is never significant. However, the zeroes at the
+end of such number are significant in a
+measurement.
+
+(6) The multiplying or dividing factors which are
+neither rounded numbers nor numbers
+representing measured values are exact and
+have infinite number of significant digits. For
+
+example in T=E or s = 27cr, the factor 2 is an
+
+exact number and it can be written as 2.0, 2.00
+
+t
+or 2.0000 as required. Similarly, in ng’ n is
+
+an exact number.
+
+2.7. 1 Rules for Arithmetic Operations with
+Signiﬁcant Figures
+
+The result of a calculation involving approximate
+measured values of quantities (i.e. values with
+limited number of significant ﬁgures) must reﬂect
+the uncertainties in the original measured values.
+It cannot be more accurate than the original
+measured values themselves on which the result
+is based. In general, the final result should not
+have more significant figures than the original
+data from which it was obtained. Thus, if mass of
+an object is measured to be, say, 4.237 g (four
+significant figures) and its volume is measured to
+be 2.5 1 cm3, then its density, by mere arithmetic
+division, is 1 .6880478087 6 g/cm3 upto 1 1 decimal
+places. It would be clearly absurd and irrelevant
+to record the calculated value of density to such a
+precision when the measurements on which the
+value is based, have much less precision. The
+
+following rules for arithmetic operations with
+signiﬁcant figures ensure that the final result of
+a calculation is shown with the precision that is
+consistent with the precision of the input
+measured values :
+(1) In multiplication or division, the final
+result should retain as many significant
+figures as are there in the original number
+with the least significant figures.
+
+Thus, in the example above, density should
+be reported to three significant figures.
+
+4.237g
+Density 2
+2.51 cm
+
+3 = 1.69 g cm'3
+
+Similarly, if the speed of light is given as
+3 x 108 m s1 (one significant figure) and one
+year (1y = 365.25 d) has 3.1557 x 107 s (ﬁve
+signiﬁcant figures), the light year is 9.47 x 1015 m
+(three significant figures).
+
+(2) In addition or subtraction, the final result
+should retain as many decimal places as are
+there in the number with the least decimal
+places.
+
+For example, the sum of the numbers
+436.32 g, 227.2 g and 0.301 g by mere arithmetic
+addition, is 663.821 g. But the least precise
+measurement (227 .2 g) is correct to only one
+decimal place. The final result should, therefore,
+be rounded off to 663.8 g.
+
+Similarly, the difference in length can be
+expressed as :
+
+0.307 m — 0.304 m = 0.003 m = 3 X 10‘3 m.
+
+Note that we should not use the rule (1)
+applicable for multiplication and division and
+write 664 g as the result in the example of
+addition and 3.00 x 10'3 m in the example of
+subtraction. They do not convey the precision
+of measurement properly. For addition and
+subtraction, the rule is in terms of decimal
+places.
+
+2.7.2 Rounding off the Uncertain Digits
+
+The result of computation with approximate
+numbers, which contain more than one
+uncertain digit, should be rounded off. The rules
+for rounding off numbers to the appropriate
+significant figures are obvious in most cases. A
+number 2.746 rounded off to three significant
+figures is 2.75, while the number 2.743 would
+be 2.74. The rule by convention is that the
+preceding digit is raised by 1 if the
+
+2019-20

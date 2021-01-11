@@ -1,0 +1,75 @@
+charges, but also the time rate of change of electric ﬁeld. More
+precisely, the total current iis the sum of the conduction current
+denoted by is, and the displacement current denoted by iCl (= 80 (chE/
+i(t) dt)). So we have
+ddSE
+
+dt
+
+In explicit terms, this means that outside the capacitor plates,
+we have only conduction current iC = i, and no displacement
+(a) current, i.e., i d = 0. On the other hand, inside the capacitor, there is
+no conduction current, i.e., iC = O, and there is only displacement
+current, so that i d: i.
+
+The generalised (and correct) Ampere’s circuital law has the same
+form as Eq. (8.1), with one difference: “the total current passing
+through any surface of which the closed loop is the perimeter” is
+the sum of the conduction current and the displacement current.
+The generalised law is
+
+ 
+
+i=ic+id =ic+£0 (85)
+
+ 
+
+ 
+
+(8.6)
+
+and is known as Ampere-Maxwell law.
+
+In all respects, the displacement current has the same physical
+effects as the conduction current. In some cases, for example, steady
+electric fields in a conducting wire, the displacement current may
+be zero since the electric ﬁeld E does not change with time. In other
+
+ 
+
+FIGURE 8-2 (a) The cases, for example, the charging capacitor above, both conduction
+f‘lecmc and magne‘lc and displacement currents may be present in different regions of
+ﬁelds E and B between space. In most of the cases, they both may be present in the same
+
+the capacitor plates. at
+the point M. (b) A cross
+sectional View of Fig. (21).
+
+region of space, as there exist no perfectly conducting or perfectly
+insulating medium. Most interestingly, there may be large regions
+of space where there is no conduction current, but there is only a
+displacement current due to time-varying electric fields. In such a
+region, we expect a magnetic field, though there is no (conduction)
+current source nearby! The prediction of such a displacement current
+can be verified experimentally. For example, a magnetic field (say at point
+M) between the plates of the capacitor in Fig. 8.2(a) can be measured and
+is seen to be the same as that just outside (at P).
+
+The displacement current has (literally) far reaching consequences.
+One thing we immediately notice is that the laws of electricity and
+magnetism are now more symmetrical*. Faraday’s law of induction states
+that there is an induced emf equal to the rate of change of magnetic ﬂux.
+Now, since the emf between two points 1 and 2 is the work done per unit
+charge in taking it from 1 to 2, the existence of an emf implies the existence
+of an electric field. So, we can rephrase Faraday’s law of electromagnetic
+induction by saying that a magnetic ﬁeld, changing with time, gives rise
+to an electric ﬁeld. Then, the fact that an electric ﬁeld changing with
+time gives rise to a magnetic ﬁeld, is the symmetrical counterpart, and is
+
+* They are still not perfectly symmetrical; there are no known sources of magnetic
+field (magnetic monopoles) analogous to electric charges which are sources of
+electric field.
+
+272
+
+2019-20

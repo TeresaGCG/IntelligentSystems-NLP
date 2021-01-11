@@ -1,0 +1,125 @@
+WORK. ENERGY AND POWER
+
+117
+
+The work done by the force is deﬁned to be
+the product of component of the force in the
+direction of the displacement and the
+magnitude of this displacement. Thus
+
+W= (Fcos 0)d= Rd (6.4)
+
+We see that if there is no displacement, there
+is no work done even if the force is large. Thus,
+when you push hard against a rigid brick wall,
+the force you exert on the wall does no work. Yet
+your muscles are alternatively contracting and
+relaxing and internal energy is being used up
+and you do get tired. Thus, the meaning of work
+in physics is different from its usage in everyday
+language.
+
+No work is done if :
+
+(i) the displacement is zero as seen in the
+example above. A weightlifter holding a 150
+kg mass steadily on his shoulder for 30 s
+does no work on the load during this time.
+
+(ii) the force is zero. A block moving on a smooth
+horizontal table is not acted upon by a
+horizontal force (since there is no friction), but
+may undergo a large displacement.
+
+(iii) the force and displacement are mutually
+perpendicular. This is so since, for 6 = 7c / 2 rad
+(= 90"), cos (TC/2) = 0. For the block moving on
+a smooth horizontal table, the gravitational
+force mg does no work since it acts at right
+angles to the displacement. If we assume that
+the moon’s orbits around the earth is
+perfectly circular then the earth’s
+gravitational force does no work. The moon’s
+instantaneous displacement is tangential
+while the earth’s force is radially inwards and
+0 = 7t / 2.
+
+Work can be both positive and negative. If 0 is
+between 00 and 90°, cos 0 in Eq. (6.4) is positive.
+If 0 is between 900 and 1800, cos 0 is negative.
+In many examples the frictional force opposes
+displacement and 0 = 180”. Then the work done
+by friction is negative (cos 1800 = —1).
+
+From Eq. (6.4) it is clear that work and energy
+have the same dimensions, [ML2T2]. The SI unit
+of these is joule (J), named after the famous British
+physicist James Prescott Joule (1 8 1 1- 1 869). Since
+work and energy are so widely used as physical
+concepts, alternative units abound and some of
+these are listed in Table 6. 1.
+
+Table 6.1 Alternative Units of Work / Energy in J
+
+erg 10'7J
+electron volt (eV) 1 _6X 10—19 J
+
+calorie (cal) 4.186 J
+kilowatt hour (kWh) 3.6x 106 J
+
+b Example 6.3 A cyclist comes to a skidding
+stop in 10 m. During this process. the force
+on the cycle due to the road is 200 N and
+is directly opposed to the motion. (a) How
+much work does the road do on the cycle ‘?
+(b) How much work does the cycle do on
+the road ?
+
+Answer Work done on the cycle by the road is
+
+the work done by the stopping (frictional) force
+
+on the cycle due to the road.
+
+(a) The stopping force and the displacement make
+an angle of 180° (7: rad) with each other.
+Thus, work done by the road,
+
+Wr= chosO
+= 200x 10><cos7c
+
+= — 2000 J
+
+It is this negative work that brings the cycle
+
+to a halt in accordance with WE theorem.
+(b) From Newton’s Third Law an equal and
+
+opposite force acts on the road due to the
+
+cycle. Its magnitude is 200 N. However, the
+
+road undergoes no displacement. Thus,
+
+work done by cycle on the road is zero. 4
+
+The lesson of Example 6.3 is that though the
+force on a body A exerted by the body B is always
+equal and opposite to that on B by A (Newton’s
+Third Law); the work done on A by B is not
+necessarily equal and opposite to the work done
+on B by A.
+
+6.4 KINETIC ENERGY
+
+As noted earlier, if an object of mass m has
+velocity v, its kinetic energy K is
+
+1 1 2
+K = —mv.v = —mv _
+2 2 (6 5)
+
+Kinetic energy is a scalar quantity. The kinetic
+energy of an object is a measure of the work an
+
+2019-20

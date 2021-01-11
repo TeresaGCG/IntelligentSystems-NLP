@@ -1,0 +1,66 @@
+6.6 Branch Hazards 423
+fetching and executing continue. If the prediction turns out to be wrong, the pre 
+diction bits are changed as shown in Figure 6.39.
+Elaboration: As we described in Section 6.1, in a five-stage pipeline we can make
+the control hazard a feature by redefining the branch. A delayed branch always executes
+the following instruction, but the second instruction following the branch will be
+affected by the branch.
+Compilers and assemblers try to place an instruction that always executes after the
+branch in the branch delay slot. The job of the software is to make the successor bram:h delay slot The slot
+instructions valid and useful. Figure 6.40 shows the three ways in which the branch directly after a delayed branch
+instruction, which in the MIPS
+delay slot can be scheduled.
+architecture is filled by an
+The limitations on delayed-branch scheduling arise from (1) the restrictions on the
+instruction that does not affect
+instructions that are scheduled into the delay slots and (2) our ability to predict at com 
+the branch.
+pile time whether a branch is likely to be taken or not.
+Delayed branching was a simple and effective solution for a five-stage pipeline issu 
+ing one instruction each clock cycle. As processors go to both longer pipelines and
+issuing multiple instructions per clock cycle (see Section 6.9), the branch delay
+becomes longer and a single delay slot is insufficient. Hence, delayed branching has
+lost popularity compared to more expensive but more flexible dynamic approaches.
+Simultaneously, the growth in available transistors per chip has made dynamic predic 
+tion relatively cheaper.
+Elaboration: A branch predictor tells us whether or not a branch is taken, but still
+requires the calculation of the branch target. In the five-stage pipeline, this calculation
+takes 1 cycle, meaning that taken branches will have a 1-cycle penalty. Delayed bram:h target buffer A struc 
+ture that caches the destination
+branches are one approach to eliminate that penalty. Another approach is to use a
+PC or destination instruction
+cache to hold the destination program counter or destination instruction, using a
+for a branch. It is usually orga 
+branch target buffer.
+nized as a cache with tags, mak 
+ing it more costly than a simple
+Elaboration: The 2-bit dynamic prediction scheme uses only information about a par  prediction buffer.
+ticular branch. Researchers noticed that using information about both a local branch
+correlating predktor A
+and the global behavior of recently executed branches together yields greater prediction
+branch predictor that combines
+accuracy for the same number of prediction bits. Such predictors are called correlating
+local behavior ofa particular
+predictors. A typical correlating predictor might have two 2-bit predictors for each
+branch and global information
+branch with the choice between predictors made on the basis of whether the last exe 
+about the behavior ofsome
+cuted branch was taken or not taken. Thus. the global branch behavior can be thought
+recent number ofexecuted
+of as adding additional index bits for the prediction lookup.
+branches.
+A more recent innovation in branch prediction is the use of tournament predictors. A
+tournament brandl
+tournament predictor uses multiple predictors, tracking, for each branch, which predic 
+pred ictor A branch predictor
+tor yields the best results. A typical tournament predictor might contain two predictions
+with multiple predictions for
+for each branch index: one based on local information and one based on global branch
+each branch and a selection
+behavior. A selector would choose which predictor to use for any given prediction. The
+mechanism that chooses which
+selector can operate similarly to a 1- or 2-bit predictor favoring whichever of the two pre 
+predictor to enable for a given
+dictors has been more accurate. Many recent advanced microprocessors make use of
+branch.
+such elaborate predictors.

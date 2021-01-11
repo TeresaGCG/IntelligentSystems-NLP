@@ -1,0 +1,71 @@
+388
+
+Pl IYSICS
+
+10.
+
+11.
+
+SUNINIARY
+
+Mechanical waves can exist in material media and are governed by Newton’s Laws.
+
+Transverse waves are waves in which the particles of the medium oscillate perpendicular
+to the direction of wave propagation.
+
+Longitudinal waves are waves in which the particles of the medium oscillate along the
+direction of wave propagation.
+
+Progressive wave is a wave that moves from one point of medium to another.
+
+The displacement in a sinusoidal wave propagating in the positive x direction is given
+by
+y (x, t) = asin [kx— cot+ (p)
+
+where a is the amplitude of the wave, k is the angular wave number, a) is the angular
+frequency, [kx — cot + 4)) is the phase, and q) is the phase constant or phase angle.
+
+Wavelength A of a progressive wave is the distance between two consecutive points of
+the same phase at a given time. In a stationary wave, it is twice the distance between
+two consecutive nodes or antinodes.
+
+Period T of oscillation of a wave is defined as the time any element of the medium
+takes to move through one complete oscillation. It is related to the angular frequency a)
+through the relation
+
+2
+T=—7E
+a)
+
+Frequency v of a wave is defined as l / T and is related to angular frequency by
+
+Speed of a progressive wave is given by v = : § 2 ,11/
+
+2
+k
+The speed of a transverse wave on a stretched string is set by the properties of the
+string. The speed on a string with tension T and linear mass density [.1 is
+
+v:—
+,u
+
+Sound waves are longitudinal mechanical waves that can travel through solids, liquids,
+or gases. The speed v of sound wave in a ﬂuid having bulk modulus B and density p is
+
+\[E
+v:—
+p
+
+The speed of longitudinal waves in a metallic bar is
+
+\F
+v:—
+p
+
+For gases, since B = 7P, the speed of sound is
+
+«(P
+v: ’—
+p
+
+2019-20

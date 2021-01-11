@@ -1,0 +1,54 @@
+Alternating Current
+
+ 
+
+Example 7.6 A resistor of 200 Q and a capacitor of 15.0 11F are
+connected in series to a 220 V. 50 HZ ac source. (a) Calculate the
+current in the circuit; (b) Calculate the voltage (rms) across the
+resistor and the capacitor. Is the algebraic sum of these voltages
+more than the source voltage? If yes. resolve the paradox.
+
+Solution
+
+Given
+R = 2009. C = 15.0w 2 15.0 x 10’6F
+V = 220v. v: 50Hz
+
+(a) In order to calculate the current. we need the impedance of the
+circuit. It is
+
+Z 2 JR + X3 = R2 + (27er)’2
+
+= (200(2)2 + (2 x 3.14 x 50 x 15.0 x 10’6F)’2
+
+= (200 Q)2 + (212.3 52)2
+
+= 291.67 9
+Therefore. the current in the circuit is
+
+Z 291.59
+
+(b) Since the current is the same throughout the circuit. we have
+VR 2 IR 2 (O.755A)(2OOQ) = 151V
+
+VC 2 IXC = (0.755A)(212.3o) = 160.3V
+
+The algebraic sum of the two voltages. VR and VC is 311.3 V which is
+more than the source voltage of 220 V. How to resolve this paradox?
+As you have learnt in the text. the two voltages are not in the same
+phase. Therefore. they cannot be added like ordinary numbers. The
+two voltages are out of phase by ninety degrees. Therefore. the total
+of these voltages must be obtained using the Pythagorean theorem:
+
+VR+C 2 VVIE) + W2
+= 220 V
+
+Thus. if the phase difference between two voltages is properly taken
+into account. the total voltage across the resistor and the capacitor is
+equal to the voltage of the source.
+
+ 
+
+9' L mama
+
+251

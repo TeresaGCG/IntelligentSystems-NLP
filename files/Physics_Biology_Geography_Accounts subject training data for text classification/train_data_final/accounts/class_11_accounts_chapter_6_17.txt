@@ -1,0 +1,52 @@
+Trial Balance and Rectification of Errors 197
+
+similar way, or by making an additional posting for the difference in amount
+and giving an explanatory note in the particulars column. But errors should
+never be corrected by erasing or overwriting reduces the authenticity of
+accounting records and give an impression that something is being concealed.
+A better way therefore is by noting the correction on the appropriate side for
+neutralising the effect of the error. Take for example a case where Shyam’s
+account was credited short by ? 190. This will be rectified by an additional
+entry for ? 190 on the credit side of his account as follows.
+
+Shyam’s Account
+Dr. Cr.
+? ?
+
+Difference in 190
+amount posted
+short on .....
+
+   
+
+Take another example, purchases book was undercast by ? 1,000. The effect of
+this entry is on purchases account (debit side) where the total of purchases
+book is posted
+
+Purchases Account
+
+Dr. Cr.
+? ?
+
+Undercasting 1,000
+purchases
+
+book for the
+
+month of....
+
+   
+
+Suspense Account
+
+Even if the trial balance does not tally due to the existence of one sided errors,
+accountant has to carry forward his accounting process prepare financial
+statements. The accountant tallies his trial balance by putting the difference
+on shorter side as ‘suspense account’.
+
+The process of opening of suspense account can be understood with the help
+of the following example:
+
+Consider the sales book of an organisation.
+
+2019-2020

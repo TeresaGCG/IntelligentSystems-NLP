@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+172
+Lesson 9-4 Review
+1. Fill in the table and then graph the points for the function
+ƒ(x) = −x + 3.
+x ƒƒƒƒƒ(((((x)))))     =====     −−−−−3x +++++ 4 
+−2
+−1
+0
+1
+2
+2. Find the slope, y-intercept, and x-intercept of the function
+ƒ(x) = −3x − 6.
+3. Find the slope of the line that passes through the points (−2, 1) and
+(4,−4).
+Lesson 9-5: Graphing Linear Equations
+Now that we understand the idea of the slope and the intercepts of a
+line, it’s time to get a picture of what our lines look like. The key to
+graphing linear functions, or lines, is that all you need is two points and a
+straightedge (or ruler).
+In order to find two points on the line, pick two different values for x,
+plug them into the equation and find the corresponding values for y. Plot
+the two ordered pairs and connect the dots with a ruler. That’s all there is
+to it. You can use any two points that you want.
+Another way to graph a line is to find both intercepts and plot them.
+The way to find the x-intercept is to set y = 0 and solve for x; to find the
+y-intercept set x = 0 and solve for y. I’ll use the intercept method in my
+examples, so that we can review how to find them as well as how to solve
+equations. The more you practice, the better you’ll get. You don’t have
+www.ebook3000.com

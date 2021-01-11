@@ -1,0 +1,60 @@
+Electromagnetic
+Induction
+
+ 
+
+Example 6.4
+
+Figure 6.7 shows planar loops of different shapes moving out of or
+into a region of a magnetic field which is directed normal to the plane
+of the loop away from the reader. Determine the direction of induced
+current in each loop using Lenz’s law.
+
+ 
+
+FIGURE 6.7
+
+Solution
+
+(i) The magnetic ﬂux through the rectangular loop abcd increases,
+due to the motion of the loop into the region of magnetic field, The
+induced current must ﬂow along the path bcdab so that it opposes
+the increasing ﬂux.
+
+(ii) Due to the outward motion, magnetic ﬂux through the triangular
+loop abc decreases due to which the induced current ﬂows along
+bacb, so as to oppose the change in ﬂux.
+
+(iii) As the magnetic ﬂux decreases due to motion of the irregular
+shaped loop abcd out of the region of magnetic field, the induced
+current ﬂows along cdabc, so as to oppose change in ﬂux.
+
+Note that there are no induced current as long as the loops are
+completely inside or outside the region of the magnetic ﬁeld.
+
+f '9 EI’IJWVXGI
+
+Example 6.5
+
+(a) A closed loop is held stationary in the magnetic field between the
+north and south poles of two permanent magnets held ﬁxed. Can
+we hope to generate current in the loop by using very strong
+magnets?
+
+(b) A closed loop moves normal to the constant electric field between
+the plates of a large capacitor. Is a current induced in the loop
+(i) when it is wholly inside the region between the capacitor plates
+(ii) when it is partially outside the plates of the capacitor? The
+electric ﬁeld is normal to the plane of the loop.
+
+(c) A rectangular loop and a circular loop are moving out of a uniform
+magnetic field region (Fig. 6.8) to a field-free region with a constant
+velocity v. In which loop do you expect the induced emf to be
+constant during the passage out of the field region? The field is
+normal to the loops.
+
+9'9 31mg
+
+211
+
+2019-20

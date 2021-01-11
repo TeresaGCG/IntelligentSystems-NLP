@@ -1,0 +1,20 @@
+Decimals
+91
+Example 5
+Evaluate the expression: 12.8 − 2.38
+Solution: Remember to put the 0 in as a placeholder:
+Example 6
+Evaluate the expression: 12.85 − 9.3
+Solution: Remember to put the 0 in as a placeholder:
+Lesson 5-2 Review
+Evaluate the following:
+1. 39.85 + 24.97 4. 25.86 − 14.32
+2. 1.55 + 3.2 5. 24.46 − 16.8
+3. 25.3 + 18.86 6. 44.8 − 16.34
+Lesson 5-3: Multiplying Decimal Numbers
+Multiplying two decimal numbers is very similar to multiplying whole
+numbers. The first step is to ignore the decimal points, and multiply the
+numbers together as if they were both whole numbers. To put the deci-
+mal point in the right place, count how many digits there are to the right
+of the decimal points in both factors. That is how many digits will be to
+the right of the decimal point in the resulting product.

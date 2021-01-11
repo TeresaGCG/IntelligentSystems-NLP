@@ -1,0 +1,63 @@
+BIOLOGY
+
+ 
+
+geometric fashion. If in a population of size N, the birth rates (not
+total number but per capita births) are represented as b and death
+rates (again, per capita death rates) as d, then the increase or
+decrease in N during a unit time period t (dN/dt) will be
+
+dN/dt= (b—d) XN
+Let (b—d) =r, then
+dN/dt = rN
+
+The r in this equation is called the ‘intrinsic rate of natural increase’
+and is a very important parameter chosen for assessing impacts of
+any biotic or abiotic factor on population growth.
+
+To give you some idea about the magnitude of r values, for the
+Norway rat the r is 0.015, and for the ﬂour beetle it is 0.12. In
+198 1, the r value for human population in India was 0.0205. Find
+out what the current r value is. For calculating it, you need to
+know the birth rates and death rates.
+
+The above equation describes the exponential or geometric growth
+pattern of a population (Figure 1 3.6) and results in a J -shaped curve
+when we plot N in relation to time. If you are familiar with basic
+calculus, you can derive the integral form of the
+exponential growth equation as
+
+Nt = NO ert
+where
+Nt = Population density after time t
+N0 = Population density at time zero
+r = intrinsic rate of natural increase
+e = the base of natural logarithms (2.7 1828)
+
+Any species growing exponentially under unlimited
+resource conditions can reach enormous population
+densities in a short time. Darwin showed how even
+Figure 13.6 Population growth curve a slow growing animal like elephant could reach
+a When responses are not enormous numbers in the absence of checks. The
+limiting lhe grOWth’ mm is following is an anecdote popularly narrated to
+:X‘gﬁgﬁrggé’onses are limiting demonstrate dramatically how fast a huge
+the growth, plot is logistic, population could build up when growing
+
+K is carrying capacity exponentially.
+
+ 
+
+Population density (N)—>
+
+Time (t) —>
+
+The king and the minister sat for a chess game. The king, conﬁdent
+2 3 0 of winning the game, was ready to accept any bet proposed by the
+minister. The minister humbly said that if he won, he wanted only
+some wheat grains, the quantity of which is to be calculated by placing
+on the chess board one grain in Square 1, then two in Square 2,
+then four in Square 3, and eight in Square 4, and so on, doubling each
+time theprevious quantity ofwheat on the next square until all the 64
+squares were ﬁlled. The king accepted the seemingly silly bet and started
+
+2019—2020

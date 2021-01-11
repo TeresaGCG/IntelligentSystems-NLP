@@ -1,0 +1,122 @@
+I26
+
+PHYSICS
+
+ 
+
+unlike the conservative force, Wm depends on
+the particular path i to f. 4
+
+6. 10 VARIOUS FORMS OF ENERGY : THE LAW
+OF CONSERVATION OF ENERGY
+
+In the previous section we have discussed
+mechanical energy. We have seen that it can be
+classified into two distinct categories : one based
+on motion, namely kinetic energy; the other on
+configuration (position), namely potential energy.
+Energy comes in many a forms which transform
+into one another in ways which may not often
+be clear to us.
+
+6. 10.1 Heat
+
+We have seen that the frictional force is not a
+conservative force. However, work is associated
+with the force of friction, Example 6.5. A block of
+mass m sliding on a rough horizontal surface
+with speed v0 comes to a halt over a distance x0.
+The work done by the force of kinetic friction f
+over x0 is —f x0. By the work-energy theorem
+
+mug/2 = fxo- If we confine our scope to
+mechanics, we would say that the kinetic energy
+of the block is ‘lost’ due to the frictional force.
+On examination of the block and the table we
+would detect a slight increase in their
+temperatures. The work done by friction is not
+‘lost’, but is transferred as heat energy. This
+raises the internal energy of the block and the
+table. In winter, in order to feel warm, we
+generate heat by vigorously rubbing our palms
+together. We shall see later that the internal
+energy is associated with the ceaseless, often
+random, motion of molecules. A quantitative idea
+of the transfer of heat energy is obtained by
+noting that 1 kg of water releases about 42000 J
+of energy when it cools by10 °C.
+
+6. 10.2 Chemical Energy
+
+One of the greatest technical achievements of
+humankind occurred when we discovered how
+to ignite and control fire. We learnt to rub two
+ﬂint stones together (mechanical energy), got
+them to heat up and to ignite a heap of dry leaves
+(chemical energy), which then provided
+sustained warmth. A matchstick ignites into a
+bright ﬂame when struck against a specially
+prepared chemical surface. The lighted
+matchstick, when applied to a firecracker,
+results in a spectacular display of sound and
+light.
+
+2019-20
+
+Chemical energy arises from the fact that the
+molecules participating in the chemical reaction
+have different binding energies. A stable chemical
+compound has less energy than the separated parts.
+A chemical reaction is basically a rearrangement
+of atoms. Ifthe total energy of the reactants is more
+than the products of the reaction, heat is released
+and the reaction is said to be an exothermic
+reaction. Ifthe reverse is true, heat is absorbed and
+the reaction is endothermic. Coal consists of
+carbon and a kilogram of it when burnt releases
+about 3 x 107 J of energy.
+
+Chemical energy is associated with the forces
+that give rise to the stability of substances. These
+forces bind atoms into molecules, molecules into
+polymeric chains, etc. The chemical energy
+arising from the combustion of coal, cooking gas,
+wood and petroleum is indispensable to our daily
+existence.
+
+6. 10.3 Electrical Energy
+
+The ﬂow of electrical current causes bulbs to
+glow, fans to rotate and bells to ring. There are
+laws governing the attraction and repulsion of
+charges and currents, which we shall learn
+later. Energy is associated with an electric
+current. An urban Indian household consumes
+about 200 J of energy per second on an average.
+
+6. 10.4 The Equivalence of Mass and Energy
+
+Till the end of the nineteenth century, physicists
+believed that in every physical and chemical
+process, the mass of an isolated system is
+conserved. Matter might change its phase, e.g.
+glacial ice could melt into a gushing stream, but
+matter is neither created nor destroyed; Albert
+Einstein (1 879- 1955) however, showed that mass
+and energy are equivalent and are related by
+the relation
+
+E = m 02 (6.20)
+where c, the speed of light in vacuum is
+approximately 3 ><108 m s4. Thus, a staggering
+amount of energy is associated with a mere
+kilogram of matter
+
+E = 1x (3 X108)2 J = 9 ><1016 J.
+This is equivalent to the annual electrical output
+of a large (3000 MW) power generating station.
+
+6. 10.5 Nuclear Energy
+
+The most destructive weapons made by man, the
+fission and fusion bombs are manifestations of

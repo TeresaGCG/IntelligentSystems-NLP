@@ -1,0 +1,84 @@
+l Physics
+
+Photosensitive
+plate
+
+Quartz
+
+    
+
+_ S attracted to it. The emission of electrons causes ﬂow of
+
+electric current in the circuit. The potential difference
+Evacuated between the emitter and collector plates is measured by
+glass tube .
+
+a voltmeter (V) whereas the resulting photo current
+ﬂowing in the circuit is measured by a microammeter
+(HA). The photoelectric current can be increased or
+decreased by varying the potential of collector plate A
+
+with respect to the emitter plate C. The intensity and
+v / Commutator
+
+frequency of the incident light can be varied, as can the
+potential difference V between the emitter C and the
+collector A.
+
+We can use the experimental arrangement of
+Fig. 1 1.1 to study the variation of photocurrent with
+
++ r (a) intensity of radiation, (b) frequency of incident
+
+FIGURE 11.1 Experimental radiation, (c) the potential difference between the
+arrangement for study of plates A and C, and (d) the nature of the material
+photoelectric effect. of plate C. Light of different frequencies can be used
+
+Photoelectric current —>
+
+by putting appropriate coloured filter or coloured
+glass in the path of light falling on the emitter C. The intensity
+of light is varied by changing the distance of the light source
+from the emitter.
+
+1 1.4. 1 Effect of intensity of light on photocurrent
+
+The collector A is maintained at a positive potential with
+respect to emitter C so that electrons ejected from C are
+attracted towards collector A. Keeping the frequency of the
+incident radiation and the potential fixed, the intensity of light
+is varied and the resulting photoelectric current is measured
+each time. It is found that the photocurrent increases linearly
+
+ 
+
+Intensity of light —>
+
+with intensity of incident light as shown graphically in
+Fig. 1 1.2. The photocurrent is directly proportional to the
+
+FIGURE 1 1.2 Variation of number of photoelectrons emitted per second. This implies
+Photoelectric Current with that the number of photoelectrons emitted per second is
+iIItCHSity 0‘ light directly proportional to the intensity of incident radiation.
+
+390
+
+1 1.4.2 Effect of potential on photoelectric current
+
+We ﬁrst keep the plate A at some positive potential with respect to the
+plate C and illuminate the plate C with light of fixed frequency v and fixed
+intensity 11. We next vary the positive potential of plate A gradually and
+measure the resulting photocurrent each time. It is found that the
+photoelectric current increases with increase in positive (accelerating)
+potential. At some stage, for a certain positive potential of plate A, all the
+emitted electrons are collected by the plate A and the photoelectric current
+becomes maximum or saturates. If we increase the accelerating potential
+of plate A further, the photocurrent does not increase. This maximum
+value of the photoelectric current is called saturation current. Saturation
+current corresponds to the case when all the photoelectrons emitted by
+the emitter plate C reach the collector plate A.
+
+We now apply a negative (retarding) potential to the plate A with respect
+to the plate C and make it increasingly negative gradually. When the
+
+2019-20

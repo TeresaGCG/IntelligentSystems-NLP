@@ -1,0 +1,21 @@
+Alternating Current
+
+ 
+
+FIGURE 7.6 (a) A Phasor diagram for the circuit in Fig. 7.5.
+(b) Graph of v and iversus wt.
+
+Example 7.2 A pure inductor of 25.0 rnH is connected to a source of
+220 V. Find the inductive reactance and rrns current in the circuit if
+the frequency of the source is 50 HZ.
+
+Solution The inductive reactance.
+
+XL 2 27:1!L:2><3.14><50><25><10’3W
+
+= 7.859
+The rrns current in the circuit is
+
+= 220V =28A
+
+239

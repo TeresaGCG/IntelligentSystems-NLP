@@ -1,0 +1,37 @@
+7.4 Virtual Memory 521
+problems, such as a never-ending series of page faults, which must be avoided.
+How these problems are overcome is both very detailed and typically highly pro 
+cessor specific. In brief, these problems are avoided by placing all the page tables
+in the address space of the operating system and placing at least some of the
+page tables for the system in a portion of main memory that is physically ad 
+dressed and is always present and thus never on disk.
+What about Writes?
+The difference between the access time to the cache and main memory is tens to
+hundreds of cycles, and write-through schemes can be used, although we need a
+write buffer to hide the latency of the write from the processor. In a virtual mem 
+ory system, writes to the next level of the hierarchy (disk) take millions of proces 
+sor clock cycles; therefore, building a write buffer to allow the system to write
+th rough to disk would be completely impractical. Instead, virtual memory sys 
+tems must use write-back, performing the individual writes into the page in
+memory and copying the page back to disk when it is replaced in the memory.
+This copying back to the lower level in the hierarchy is the source of the other
+name for this technique of handling writes, namely, copy back.
+A write-back scheme has another major advantage in a virtual memory system. Hardware
+Because the disk transfer time is small compared with its access time, copying
+Software
+back an entire page is much more efficient than writing individual words back to
+Interface
+the disk. A write-back operation, although more efficient than transferring indi 
+vidual words, is still costly. Thus, we would like to know whether a page needs to
+be copied back when we choose to replace it. To track whether a page has been
+written since it was read into the memory, a dirty bit is added to the page table.
+The dirty bit is set when any word in a page is written. If the operating system
+chooses to replace the page, the dirty bit indicates whether the page needs to be
+written out before its location in memory can be given to another page.
+Making Address Translation Fast: The TLB
+Since the page tables are stored in main memory, every memory access by a program
+can take at least twice as long: one memory access to obtain the physical address and
+a second access to get the data. The key to improving access performance is to rely on
+locality of reference to the page table. When a translation for a virtual page number is
+used, it wiII probably be needed again in the near funlre because the references to the
+words on that page have both temporal and spatial locality.

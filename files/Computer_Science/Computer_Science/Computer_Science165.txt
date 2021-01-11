@@ -1,0 +1,38 @@
+2.20 Exercises 149
+2.13 (10) <§2.6> Construct a control flow graph (like the one shown in Fig. 2. 11 )
+for the following section ofC or Java code:
+f or (i =O; i<x ; i =i +ll
+y = y + i ;
+2.14 [ 10] <§2.6> . For More Practice: Writing Assembly Code
+2.15 (25) <§2.7> Implement the following C code in MIPS, assuming that
+set _a r ray is the first function called:
+i nt i ;
+void set _array(in t num) {
+int array[lO] ;
+for (i =O; i<lO ; i ++ ) {
+a rray[i] = compa re (num , i I ;
+}
+int comp are ( int a , int b) {
+if (sub(a , bl ) = 0)
+return 1 ;
+else
+return 0 ;
+}
+int sub ( int a , int b) {
+return a - b ;
+}
+Be sure to handle the stack and frame pointers appropriately. The variable code
+font is allocated on the stack, and i corresponds to $sO. Draw the status of the
+stack before calling set _a r ray and during each function call. Indicate the names
+of registers and variables stored on the stack and mark the location of $s p and
+Hp.
+'II
+2.16 (30) <§2.7> In More Depth: Tail Recursion
+'II
+2.17 (30) <§2.7> In More Depth: Tail Recursion
+'II
+2.18 (20) <§2.7> In More Depth: Tail Recursion
+2.19 [5] <§2.8> Iris and Julie are students in computer engineering who are
+learning about ASCII and Unicode character sets. Help them by spelling their
+names and your first name in both ASCII (using decimal notation) and Unicode
+(using hex notation and the Basic Latin character set).

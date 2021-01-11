@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+122
+The density of a substance is the ratio of the mass of the substance to the
+volume that the substance occupies. All of these rates can be described
+using fractions as shown in the table on page 121.
+Aunit rate is a rate that has a denominator equal to 1. Usually speed,
+gas mileage, and density are stated in terms of a unit rate, such as miles
+per hour, miles per gallon, and grams per cubic centimeter.
+Example 1
+While shopping for detergent you notice that the store carries a
+10-ounce box for $2.59, an 18-ounce box for $4.39, and a 32-ounce
+box for $6.72. Which box of detergent gives you the most detergent
+for the least amount of money?
+Solution: Because the boxes of detergent have different weights
+and different prices, the best thing to do is compare unit rates of
+dollars to ounces of detergent. Find the unit rates for all three
+sizes.
+Size Unit Rate
+10 ounces (small)
+18 ounces (medium)
+32 ounces (large)
+Now it is clear that an ounce of detergent costs $0.259 if you buy the
+small box, $0.244 if you buy the medium box, and $0.210 if you buy the
+large box. You will spend less money per ounce of detergent if you pur-
+chase the large box.
+Instead of comparing dollars to ounces, you could have compared
+ounces to dollars. Then your ratios would have told you how much deter-
+gent you would be purchasing for $1. In that case, the best deal would
+have been the one that resulted in the largest ratio (the most detergent
+for $1), as shown in the following table. It doesn’t matter which way your
+www.ebook3000.com

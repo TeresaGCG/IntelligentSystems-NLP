@@ -1,0 +1,21 @@
+Exponents
+75
+This works because the power rule involves multiplying exponents, and
+multiplication is commutative (meaning that the order doesn’t matter).
+( )
+In general, if n is a positive integer, then a−n=(an)–1=(a–1)n = 1 n
+a
+ The role of the negative sign in an exponent is to let you know whether
+the base belongs in the numerator or the denominator of the fraction.
+Another way to look at it is that the negative exponent just means to take
+the reciprocal of the base.
+Keep in mind that the reciprocal of a is  , and the reciprocal of   is a.
+Example 1
+Evaluate the following exponential expressions:
+a. 3–4 c.
+b. (−4)−2 d.
+Solution:
+a.
+b.
+c.
+d.

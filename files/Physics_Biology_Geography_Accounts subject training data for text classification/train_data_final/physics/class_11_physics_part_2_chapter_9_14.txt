@@ -1,0 +1,46 @@
+MECHANICAL PROPERTIES OF SOLIDS
+
+Additional Exercises
+
+9.17 Anvils made of single crystals of diamond, with the shape as shown in
+Fig. 9.14, are used to investigate behaviour of materials under very high pressures. Flat
+faces at the narrow end of the anvil have a diameter of 0.50 mm, and the wide ends are
+subjected to a compressional force of 50,000 N. What is the pressure at the tip of the anvil?
+
+/ ‘—Metal gasket
+
+Diamond cones
+
+Fig. 9.1 4
+9. 18 A rod of length 1.05 m having negligible mass is supported at its ends by two wires of
+steel (wire A] and aluminium (wire B) of equal lengths as shown in
+Fig. 9.15. The cross—sectional areas of wires A and B are 1.0 mm2 and 2.0 mm2,
+respectively. At what point along the rod should a mass m be suspended in order to
+produce [a] equal stresses and [b] equal strains in both steel and aluminium wires.
+
+Ill/Illlllllllllllllllllllllllllllllllﬂlll
+
+     
+
+Fig. 9.1 5
+
+9.19 A mild steel wire of length 1.0 m and cross-sectional area 0.50 x 10'2 cm2 is
+stretched, well within its elastic limit, horizontally between two pillars. A mass of 100
+g is suspended from the mid—point of the wire. Calculate the depression at the mid—
+point.
+
+9.20 Two strips of metal are riveted together at their ends by four rivets, each of diameter 6.0
+mm. What is the maximum tension that can be exerted by the riveted strip if the
+shearing stress on the rivet is not to exceed 6.9 x 107 Pa? Assume that each rivet is to
+carry one quarter of the load.
+
+9.21 The Marina trench is located in the Pacific Ocean, and at one place it is nearly eleven
+km beneath the surface of water. The water pressure at the bottom of the trench is
+about 1.1 x 108 Pa. A steel ball of initial volume 0.32 m3 is dropped into the ocean and
+
+falls to the bottom of the trench. What is the change in the volume of the ball when it
+reaches to the bottom?
+
+2019-20
+
+249

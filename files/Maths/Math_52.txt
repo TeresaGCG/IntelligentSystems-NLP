@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+52
+Now that I have worked out some examples, it is time for you to put
+pencil to paper and try your hand at multiplying fractions.
+Lesson 3-1 Review
+Find the following products:
+1. 3.
+2. 4.
+Lesson 3-2: Simplifying Fractions
+Two fractions are equivalent if they represent the same number. For
+example, the fraction   is equivalent to 4. In other words, when you
+divide 3 into 12 you get 4.
+Remember: Any whole number can be treated as a fraction with
+denominator equal to 1: 4 = 4 ÷ 1 = 4.
+1
+Numbers that are a combination of whole numbers and fractions are
+calledmixed numbers. Examples of mixed numbers are   and  . Frac-
+tions where the numerator is greater than the denominator are called
+improper fractions. Examples of improper fractions are   and  . The
+term improper fraction is misleading. There is nothing “improper” about
+improper fractions; it’s just that some people prefer to see improper frac-
+tions written as mixed numbers. If you encounter a teacher who abhors
+improper fractions, my advice is to convert improper fractions to mixed
+numbers and keep the peace.
+The way to convert an improper fraction to a mixed number is to do
+the division. The result of the division will be a whole number (the quo-
+tient) and a remainder; these two numbers (the quotient and the remain-
+der) will appear in the mixed number. The mixed number will be
+represented as the quotient plus a fraction with numerator equal to the
+remainder and the denominator equal to the divisor.
+www.ebook3000.com

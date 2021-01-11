@@ -1,0 +1,95 @@
+PHYSICS
+
+ 
+
+(C)
+
+Fig. 3. 1 4 Motion of an object under free fall.
+(a) Variation of acceleration with time.
+(b) Variation of velocity with time.
+(c) Variation of distance with time 4
+
+V Example 3.6 Galileo's law of odd
+numbers : “The distances traversed, dun’ng
+equal intervals of time. by a body falling
+from rest. stand to one another in the same
+ratio as the odd numbers beginning with
+unitylnamely, 1: 3: 5: 7 ...... l.” Prove it.
+
+ 
+
+Answer Let us divide the time interval of
+motion of an object under free fall into many
+equal intervals 1: and find out the distances
+
+traversed during successive intervals of
+
+time. Since initial velocity is zero, we have
+
+1 2
+
+y — 2 9t
+Using this equation, we can calculate the
+position of the object after different time
+intervals, 0, ”c, 2T, 31... which are given in
+second column of Table 3.2. If we take
+(—1 / 2) 912 as yo— the position coordinate after
+first time interval 1, then third column gives
+the positions in the unit of ya. The fourth
+column gives the distances traversed in
+successive ”is. We find that the distances are
+in the simple ratio 1: 3: 5: 7: 9: 11... as shown
+in the last column. This law was established
+by Galileo Galilei (1564- 1642) who was the first
+to make quantitative studies of free fall. 4
+
+’ Example 3.7 Stopping distance of
+vehicles : When brakes are applied to a
+moving vehicle. the distance it travels before
+stopping is called stopping distance. It is
+an important factor for road safety and
+
+depends on the initial velocity (v0) and the
+braking capacity, or deceleration. —a that
+is caused by the braking. Derive an
+expression for stopping distance of a vehicle
+in terms of v. and a.
+
+ 
+
+Answer Let the distance travelled by the vehicle
+before it stops be d8. Then, using equation of
+motion v2 = v02 + 2 ax, and noting that v = O, we
+have the stopping distance
+
+_ v3
+2a
+
+Thus, the stopping distance is proportional to
+the square of the initial velocity. Doubling the
+
+d8:
+
+ 
+
+Table 3.2
+y in terms of Distance Ratio of
+
+y., [=( - 1/2] g 1’] traversed in
+
+0
+-(1/2) g 12
+
+-4(1/2) g :2
+-9(1/2) g :2
+-16(1/2) g :2
+-25(1/2) g :2
+—36(1/2) g 12
+
+2019-20
+
+ 
+
+distances
+
+successive traversed

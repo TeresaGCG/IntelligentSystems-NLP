@@ -1,0 +1,52 @@
+5.3 Building a Datapath 297
+~
+PC-t4 from instruction datapath
+Branch
+Add Sum
+target
+Shift f- ~
+left 2
+Read
+ALU operation
+~4'
+register 1
+Instruction Rood
+data 1
+Read
+register 2
+To branch
+ALU Zero
+Registers control logic
+Write
+register ~
+Rood
+data 2
+Write
+data
+RegWrite I /
+'\
+16 32
+Sign
+extend
+"
+FIGURE 5.9 11Ie datapath for a branch uses the ALU to evaluate the branch condition and a
+separate adder to compute the branch target as the sum of the Incremented PC and the
+slgn-extended, lower 16 bits of the Instruction (the branch displacement), shifted left 2
+bits. The unit labeled Shift left 2 is simply a routing ofthe signals between input and output that adds oolwoto
+the low-order end ofthe sign-extended offset field; no actual shift hardware is needed, since the amount ofthe
+"shift" is constant. Since we know that the offset was sign-extended from 16 bits, the shift wiU throwaway only
+"sign bits." Control logic is used to decide whether the incremented PC or branch target should replace the Pc,
+based on the Zero output of the ALU.
+Elaboration: In the MIPS instruction set, branches are d elayed, meaning that the delayed bran ch A type of
+instruction immediately following the branch is always executed, independent of branch where the instruction
+immediately following the
+whether the branch condition is true or false. When the condition is false, the execu 
+branch is always executed, inde 
+tion looks like a normal branch. When the condition is true, a delayed branch first exe 
+pendent ofwhether the branch
+cutes the instruction immediately following the branch in sequential instruction order
+condition is true or false.
+before jumping to the specified branch target address. The motivation for delayed
+branches arises from how pipelining affects branches (see Section 6.6). For simplic 
+ity, we ignore delayed branches in this chapter and implement a nondelayed beq
+instruction .

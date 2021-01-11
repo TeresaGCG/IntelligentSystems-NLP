@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+186
+3. The length of a rectangle is four times the width of the rectangle.
+The perimeter is 60 meters. Find the width of the rectangle.
+4. A square has a side of length 5 inches. Find the perimeter of the
+square.
+5. Can a triangle with sides having the lengths 10 inches, 12 inches,
+and 25 inches exist?
+Lesson 10-4: Right Triangles and the Pythagorean
+Theorem
+A right triangle is a triangle with one angle measuring 90°. The right
+angle can be marked with a little square to make it stand out (as in Figure
+10.1 on page 180). The side opposite the right angle is called the hypot-
+enuse, and the other two sides are called the legs. The hypotenuse will
+always be longer than either of the two sides.
+The Pythagorean Theorem describes the relationship between the
+length of the hypotenuse and the lengths of the two legs. The Pythagorean
+Theorem states that the sum of the squares of the lengths of the legs of a
+right triangle will equal the square of the length of the hypotenuse. This
+theorem may be easier to understand if we write it algebraically. Con-
+sider the right triangle in Figure 10.8. If a and b represent the lengths of
+the legs of the right triangle and if c represents the length of the hypot-
+enuse, the Pythagorean Theorem states that:
+a2 + b2 = c2
+c
+b
+a
+Pythagorean Theorem
+a2 + b2 = c2
+ Figure 10.8
+www.ebook3000.com

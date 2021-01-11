@@ -1,0 +1,70 @@
+i Physics
+
+ 
+
+(d)
+
+(6)
+
+FIGURE 1.4 Charging
+by induction.
+
+electric current from the power station and the third is earthed by
+connecting it to the buried metal plate. Metallic bodies of the electric
+appliances such as electric iron, refrigerator, TV are connected to the
+earth wire. When any fault occurs or live wire touches the metallic body,
+the charge ﬂows to the earth without damaging the appliance and without
+causing any injury to the humans; this would have otherwise been
+unavoidable since the human body is a conductor of electricity.
+
+1.4 CHARGING BY INDUCTION
+
+When we touch a pith ball with an electriﬁed plastic rod, some of the
+negative charges on the rod are transferred to the pith ball and it also
+gets charged. Thus the pith ball is charged by contact. It is then repelled
+by the plastic rod but is attracted by a glass rod which is oppositely
+charged. However, why a electrified rod attracts light objects, is a question
+we have still left unanswered. Let us try to understand what could be
+happening by performing the following experiment.
+
+(i) Bring two metal spheres, A and B, supported on insulating stands,
+in contact as shown in Fig. 1.4(a).
+
+(ii) Bring a positively charged rod near one of the spheres, say A, taking
+care that it does not touch the sphere. The free electrons in the spheres
+are attracted towards the rod. This leaves an excess of positive charge
+on the rear surface of sphere B. Both kinds of charges are bound in
+the metal spheres and cannot escape. They, therefore, reside on the
+surfaces, as shown in Fig. 1.4(b). The left surface of sphere A, has an
+excess of negative charge and the right surface of sphere B, has an
+excess of positive charge. However, not all of the electrons in the spheres
+have accumulated on the left surface of A. As the negative charge
+starts building up at the left surface of A, other electrons are repelled
+by these. In a short time, equilibrium is reached under the action of
+force of attraction of the rod and the force of repulsion due to the
+accumulated charges. Fig. 1.4(b) shows the equilibrium situation.
+The process is called induction of charge and happens almost
+instantly. The accumulated charges remain on the surface, as shown,
+till the glass rod is held near the sphere. If the rod is removed, the
+charges are not acted by any outside force and they redistribute to
+their original neutral state.
+
+(iii) Separate the spheres by a small distance while the glass rod is still
+held near sphere A, as shown in Fig. 1.4(c). The two spheres are found
+to be oppositely charged and attract each other.
+
+(iv) Remove the rod. The charges on spheres rearrange themselves as
+shown in Fig. 1.4(d). Now, separate the spheres quite apart. The
+charges on them get uniformly distributed over them, as shown in
+Fig. 1.4(e).
+
+In this process, the metal spheres will each be equal and oppositely
+charged. This is charging by induction. The positively charged glass rod
+does not lose any of its charge, contrary to the process of charging by
+contact.
+
+When electrified rods are brought near light objects, a similar effect
+takes place. The rods induce opposite charges on the near surfaces of
+the objects and similar charges move to the farther side of the object.
+
+2019-20

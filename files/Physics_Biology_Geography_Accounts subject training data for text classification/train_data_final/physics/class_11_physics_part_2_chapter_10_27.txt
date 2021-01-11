@@ -1,0 +1,44 @@
+MECHANICAL PROPERTIES OF FLUIDS 277
+—
+
+maximum as the blood is pumped by the heart (systolic pressure) and a minimum as the heart relaxes
+(diastolic pressure). The sphygmomanometer is a device, which measures these extreme pressures. It
+works on the principle that blood ﬂow in the brachial (upper arm) artery can be made to go from
+laminar to turbulent by suitable compression. Turbulent ﬂow is dissipative, and its sound can be
+picked up on the stethoscope.
+
+The gauge pressure in an air sack wrapped around the upper arm is measured using a manometer or a
+dial pressure gauge (Fig. 10.27). The pressure in the sack is first increased till the brachial artery is closed.
+The pressure in the sack is then slowly reduced while a stethoscope placed just below the sack is used to
+listen to noises arising in the brachial artery. When
+the pressure is just below the systolic (peak)
+pressure, the artery opens brieﬂy. During this brief Air sack
+period, the blood velocity in the highly constricted
+
+Stethoscope\
+
+    
+
+artery is high and turbulent and hence noisy. The
+resulting noise is heard as a tapping sound on the
+stethoscope. When the pressure in the sack is
+lowered further, the artery remains open for a longer
+portion of the heart cycle. Nevertheless, it remains
+closed during the diastolic (minimum pressure)
+phase of the heartbeat. Thus the duration of the
+tapping sound is longer. When the pressure in the
+sack reaches the diastolic pressure the artery is
+open during the entire heart cycle. The ﬂow is
+however, still turbulent and noisy. But instead of a
+tapping sound we hear a steady, continuous roar
+on the stethoscope.
+
+Fig. 1 0.27 Blood pressure measurement using the
+sphygmomanometer and stethoscope.
+
+The blood pressure of a patient is presented as the ratio of systolic / diastolic pressures. For a resting
+healthy adult it is typically 120/80 mm of Hg (120/80 torr). Pressures above 140/90 require medical
+attention and advice. High blood pressures may seriously damage the heart, kidney and other organs and
+must be controlled.
+
+2019-20

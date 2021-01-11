@@ -1,0 +1,38 @@
+606 Chapter 8
+For higher performance, it has two buses. The 16-bit bus is for the many slower
+I/O devices: Smart Media interface, program and data memory, and DMA. The
+32-bit bus is for the SDRAM, the signal processor (which is connected to the
+CeO), the Motion IPEG encoder, and the NTSC/PAL encoder (which is con 
+nected to the LCD). Unlike desktop microprocessors, note the large variety of I/O
+buses that this chip must integrate. The 32-bit RIse MPU is a proprietary design
+and runs at 28.8 MHz, the same clock rate as the buses. This 700 mW chip con 
+tains 1.8M transistors in a 10.5 X 10.5 mm die implemented using a O.35-micron
+process.
+Fallacies and Pitfalls
+Fallacy: The rated mean time to failure ofdisks is 1,200,000 hours or almost 140
+years, disks practically neverfail.
+50
+The current marketing practices of disk manufacturers can mislead users. How is
+such an MTTF calculated? Early in the process manufacturers will put thousands
+of disks in a room, run them for a few months, and count the number that fail.
+They compute MTIF as the total number of hours that the disks were cumula 
+tively up divided by the number that failed.
+One problem is that this number far exceeds the lifetime of a disk, which is
+commonly assumed to be five years or 43,800 hours. For this large MTTF to make
+some sense, disk manufacturers argue that the calculation corresponds to a user
+who buys a disk, and then keeps replacing the disk every five years-the planned
+lifetime of the disk. The claim is that if many customers (and their great 
+grandchildren) did this for the next century, on average they would replace a disk
+27 times before a failure, or about 140 years.
+A more useful measure would be percentage of disks that fail. Assume 1000
+disks with a 1,200,000-hour MTTF and that the disks are used 24 hours a day. If
+you replaced failed disks with a new one having the same reliability characteristics,
+the number that would fail over five years (43,800 hours) is
+Failed disks = 1000 drives X43.800 hours/drive = 36
+1,200,000 hours/failure
+Stated alternatively, 3.6% would fail over the 5-year period.
+Pitfall: Using the peak transfer rate ofa portion ofthe I/O system to make perfor 
+mance projections or performance comparisons.
+Many of the components of an I/O system, from the devices to the controllers to
+the buses, are specified using their peak bandwidths. In practice, these peak band 
+width measurements are often based on unrealistic assumptions about the system

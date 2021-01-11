@@ -1,0 +1,69 @@
+Remaining MIP5-32 Name Format Pseudo MIPS Name Format
+exclusive or (rs ~ rt) m R m~, move rd,rs
+, b'
+exclusive or immediate xon I absolute value rd,rs
+eo'
+shift right arithmetic He R not (-,rs) rd,rs
+shift left logical variable s11 v R negate (signed or unsigned) negs rd,rs
+shift right logical variable s rl v R rotate left col rd,rs,rt
+co,
+shift right arithmetic variable s ray R rotate right rd,rs,rt
+s
+move to Hi mt hi R multiply and don't check oflw (signed or oos.) mlll rd,rs,rt
+move to Lo mt lo R multiply and check oflw (signed or uns.) mlil os rd,rs,rt
+1h
+load halfword I divide and check overflow div rd,rs,rt
+load byte 1b I divide and don't check overflow divll rd,rs,rt
+1.1
+load word left (unaligned) I remainder (signed or oosigned) rems rd,rs,rt
+load word right (unaligned) lwe I load immediate 1i rd,imm
+,,1 1,
+store word left (unalif!fled) I load address rd,addr
+store word right (unaligned) m I load double ld rd,addr
+load linked (atomic update) 11 I store double 'd. rd,addr
+"'
+store cond, (atomic update) " I unaligned load word rd,addr
+move if zero movz R
+move if not zero movn R unaligned store word "" rd,addr
+multiply and add (5 or uns.) madds R
+multiply and subtract (5 or ~s.) msubs I unaligned load halfword (signed oryns.) ul hs rd,addr
+branch on ~ zero and link bgezal I unaligned store halfword d rd,addr
+b
+branch on < zero and link bHzal I branch Label
+jump and link register ja1 r R branch on equal zero beqz rS,L
+branch compare to zero b" I branch on compare (signed or oosigned) b" rS,rt,L
+branch compare to zero likely bxzl I (x _ H,le, gt , gel
+(x _ H, le, gt, gel set equal "q rd,rs,rt
+bxl
+branch compare reg likely I set not equal '"' rd,rs,rt
+' x
+m
+trap if compare reg R set on compare (sif!fled orunsigned) rd,rs,rt
+trap if compare immediate txi I (x _ H,le, gt, gel
+1.}
+(x _ eq, neq, H, 1 e, gt, gel load to floating point (s orsf) rd,addr
+,
+'f' .}
+retum from exception R store from floating point (s orsf) rd,addr
+system call syseall I
+break (cause exception) break I
+move from FP to integer mf c1 R
+move to FP from integer mt c1 R
+mov.J
+FP move ~ orsf) R
+FP move if zero ~ orsf) movz. R
+FP move if not zero ~ orsf) movn. R
+FP square root (s orsf) sqrt . R
+FP absolute value (s orsf) abs .) R
+.f
+FP negate (s orsf) neg R
+FP convert (~ ~ orsf) evt .).) R
+siJ xn.J
+FP compare un ~ or e. R
+..
+f
+FIGURE 3.25 Remaining MIP5-32 and "Pseudo MIPS" Instruction sets. means slJlgle ( s) or double preCISIon (d) f]oallng,polJlt
+instructions, and Smeans signed and unsigned ( tl) versions, MIPS·32 also has FP instructions for multiply and add/sub (ma dd.f lms lib .f ), ceiling
+.f ), .f), .f), .f),
+(eei 1 truncate (t rllne round ( rollnd and reciprocal ( ree i p
+(page 227)

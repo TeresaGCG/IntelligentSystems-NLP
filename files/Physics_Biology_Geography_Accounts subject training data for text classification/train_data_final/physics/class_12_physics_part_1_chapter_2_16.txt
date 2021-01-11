@@ -1,0 +1,78 @@
+Electrostatic Potential
+
+and Copocitonce
+
+This expression can alternately be understood also from Eq. (2.29).
+We apply Eq. (2.29) to the present system of two charges +q and —q. The
+potential energy expression then reads
+
+2
+
+q
+
+U'W) = q{V(1'1)— V(r2)]—m
+0
+
+(2.33)
+
+Here, rl and r2 denote the position vectors of +q and —q. Now, the
+potential difference between positions 1‘1 and 1'2 equals the work done
+in bringing a unit positive charge against field from 1'2 to II. The
+displacement parallel to the force is 2a cos0. Thus, [V(r1)—V (r2)] =
+—E X 2a cos0 . We thus obtain,
+
+, 612 612
+
+U (49) _ pE C086 47560 x 2a p.E lingo >< 2a (2'34)
+
+We note that U’(0) differs from U(0) by a quantity which is j ust a constant
+for a given dipole. Since a constant is insignificant for potential energy, we
+can drop the second term in Eq. (2.34) and it then reduces to Eq. (2.32).
+
+We can now understand why we took Oozn/Z. In this case, the work
+done against the external field E in bringing +q and — q are equal and
+opposite and cancel out, i.e., q [V(r1) — V(r2)]=0.
+
+Example 2.6 A molecule of a substance has a permanent electric
+dipole moment of magnitude 10‘29 C m. A mole of this substance is
+polarised (at low temperature) by applying a strong electrostatic field
+of magnitude 106 V m‘l. The direction of the ﬁeld is suddenly changed
+by an angle of 609. Estimate the heat released by the substance in
+aligning its dipoles along the new direction of the field. For simplicity,
+assume 100% polarisation of the sample.
+
+Solution Here, dipole moment of each molecules = 10‘29 C In
+
+As 1 mole of the substance contains 6 X 1023 molecules,
+
+total dipole moment of all the molecules, p = 6 X 1023 X 10’29 C m
+= 6 x 10‘6 c m
+
+Initial potential energy, Ul. = —pE cos 0 = —6X10‘6X106 cos ° = —6 J
+
+Final potential energy (when 9 = 60°), Lg = —6 x 1045 x 106 cos 60° = —3 J
+
+Change in potential energy = —3 J — (—6J) = 3 J
+
+So, there is loss in potential energy. This must be the energy released
+
+by the substance in the form of heat in aligning its dipoles.
+
+2.9 ELECTROSTATICS OF CONDUCTORS
+
+Conductors and insulators were described brieﬂy in Chapter 1.
+Conductors contain mobile charge carriers. In metallic conductors, these
+charge carriers are electrons. In a metal, the outer (valence) electrons
+part away from their atoms and are free to move. These electrons are free
+within the metal but not free to leave the metal. The free electrons form a
+kind of ‘gas’; they collide with each other and with the ions, and move
+randomly in different directions. In an external electric field, they drift
+against the direction of the field. The positive ions made up of the nuclei
+and the bound electrons remain held in their fixed positions. In electrolytic
+conductors, the charge carriers are both positive and negative ions; but
+
+2019-20
+
+93 mama
+
+67

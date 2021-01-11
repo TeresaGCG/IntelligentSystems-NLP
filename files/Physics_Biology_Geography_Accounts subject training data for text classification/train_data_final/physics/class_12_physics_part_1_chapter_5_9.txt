@@ -1,0 +1,98 @@
+a
+m
+03
+I
+[\
+[\
+I:
+5
+8
+<
+o
+m
+U
+E
+o
+m
+3
+LL.
+
+ 
+
+182
+
+ 
+
+Karl Friedrich Gauss
+(1777 - 1855) He was a
+child prodigy and was gifted
+in mathematics, physics,
+engineering, astronomy
+and even land surveying.
+The properties of numbers
+fascinated him, and in his
+work he anticipated major
+mathematical development
+of later times. Along with
+Wilhelm Welser, he built the
+first electric telegraph in
+1833. His mathematical
+theory of curved surface
+laid the foundation for the
+later work of Riemann.
+
+ 
+
+ 
+
+The situation is radically different for magnetic ﬁelds
+which are continuous and form closed loops. Examine the
+Gaussian surfaces represented by® or ® in Fig 5.3(a) or
+Fig. 5.3(b). Both cases visually demonstrate that the
+number of magnetic field lines leaving the surface is
+balanced by the number of lines entering it. The net
+magnetic ﬂux is zero for both the surfaces. This is true
+for any closed surface.
+
+ 
+
+FIGURE 5. 6
+
+Consider a small vector area element AS of a closed
+surface S as in Fig. 5.6. The magnetic ﬂux through AS is
+deﬁned as A¢B = B-AS, where B is the ﬁeld at AS. We divide
+S into many small area elements and calculate the
+individual ﬂux through each. Then, the net ﬂux ¢B is,
+
+$3 = [ME = ZB-AS = 0 (5.9)
+'all' 'all'
+
+where ‘all’ stands for ‘all area elements AS’. Compare this
+
+with the Gauss’s law of electrostatics. The ﬂux through a closed surface
+in that case is given by
+
+ZEAS = l
+
+80
+
+where q is the electric charge enclosed by the surface.
+
+The difference between the Gauss’s law of magnetism and that for
+electrostatics is a reﬂection of the fact that isolated magnetic poles (also
+called monopoles) are not known to exist. There are no sources or sinks
+of B; the simplest magnetic element is a dipole or a current loop. All
+magnetic phenomena can be explained in terms of an arrangement of
+dipoles and / or current loops.
+
+Thus, Gauss’s law for magnetism is:
+The net magnetic ﬂux through any closed surface is zero.
+
+EXAMPLE 5.6
+
+Example 5.6 Many of the diagrams given in Fig. 5.7 show magnetic
+field lines (thick lines in the figure) wrongly. Point out what is wrong
+with them. Some of them may describe electrostatic field lines correctly.
+Point out which ones.
+
+2019-20

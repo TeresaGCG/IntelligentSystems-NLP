@@ -1,0 +1,60 @@
+l Physics
+
+ 
+
+instruments such as telescopes or microscopes is limited due to the
+phenomenon of diffraction. Indeed the colours that you see when a CD is
+viewed is due to diffraction effects. We will now discuss the phenomenon
+of diffraction.
+
+10.6.1 The single slit
+
+In the discussion of Young’s experiment, we stated that a single narrow
+slit acts as a new source from which light spreads out. Even before Young,
+early experimenters — including Newton — had noticed that light spreads
+out from narrow holes and slits. It seems to turn around corners and
+enter regions where we would expect a shadow. These effects, known as
+diffraction, can only be properly understood using wave ideas. After all,
+you are hardly surprised to hear sound waves from someone talking
+around a corner!
+
+When the double slit in Young’s experiment is replaced by a single
+narrow slit (illuminated by a monochromatic source), a broad pattern
+with a central bright region is seen. On both sides, there are alternate
+dark and bright regions, the intensity becoming weaker away from the
+centre (Fig. 10.16). To understand this, go to Fig. 10.1 5, which shows a
+parallel beam of light falling normally on a single slit LN of width a. The
+diffracted light goes on to meet a screen. The midpoint of the slit is M.
+
+A straight line through M perpendicular to the slit plane meets the
+screen at C. We want the intensity at any point P on the screen. As before,
+straight lines j oining P to the different points L,M,N, etc., can be treated as
+parallel, making an angle Owith the normal MC.
+
+The basic idea is to divide the slit into much smaller parts, and add
+their contributions at P with the proper phase differences. We are treating
+different parts of the wavefront at the slit as secondary sources. Because
+the incoming wavefront is parallel to the plane of the slit, these sources
+are in phase.
+
+The path difference NP — LP between the two edges of the slit can be
+calculated exactly as for Young’s experiment. From Fig. 10.15,
+
+NP—LP=NQ
+=asin0
+
+z a 0 (for smaller angles) (10.2 1)
+
+Similarly, if two points M1 and M2 in the slit plane are separated by y, the
+path difference M2P — MlP z ye. We now have to sum up equal, coherent
+contributions from a large number of sources, each with a different phase.
+This calculation was made by Fresnel using integral calculus, so we omit
+it here. The main features of the diffraction pattern can be understood by
+simple arguments.
+
+At the central point C on the screen, the angle 0 is zero. All path
+
+differences are zero and hence all the parts of the slit contribute in phase.
+368 This gives maximum intensity at C. Experimental observation shown in
+
+2019-20

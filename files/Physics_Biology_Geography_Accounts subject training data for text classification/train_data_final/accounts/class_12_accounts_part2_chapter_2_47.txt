@@ -1,0 +1,58 @@
+Issue and Redemption of Debentures
+
+1 1 9
+Proﬁt on Redemption of Debenture A/c . 1,600
+To Capital Reserve 1.600
+(Transfer of proﬁt on cancellation of
+debentures to capital reserve)
+
+* Alternatively, the following two journal entries may be passed:
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(RS) (RS)
+
+Own Debentures A/c 18,000
+To Bank A/c
+
+(Purchased its own debentures of Rs. 20,000 @ Rs.
+
+92 each)
+
+Debentures A/c 20.000
+To Own Debentures A/c
+To Proﬁt on Redemption of Debentures A/c
+
+(Own debentures purchased being cancelled)
+
+Illustration 23
+
+X Ltd. decided to redeem 250, 12% debentures of Rs 100 each amounting to
+Rs 25,000. For this purpose, the company purchased debentures amounting
+to Rs 20000 in the open market at Rs 98.50 each. Expenses of Rs 100 was
+incurred on it. The balance of debentures amounting to Rs 5,000 were reedemed
+by draw of lots. J oumalise.
+
+ 
+
+ 
+
+Solution:
+
+Books of X Ltd.
+Journal
+
+Balance in Statement of proﬁt and loss A/c Dr.
+To Debenture Redemption Reserve A/c
+(Transfer of proﬁts to Debenture Reserve A/c
+
+Debenture Redemption Investment A/c
+To Bank A/c
+[Required amount invested in DRI)
+
+Bank A/c Dr.
+To Debenture Redemption Investment A/c
+
+(DRI encashed at the time of redemption
+
+of debentures

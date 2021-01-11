@@ -1,0 +1,55 @@
+248
+
+ 
+
+BIOLOGY
+
+The ‘bakanae’ (foolish seedling) disease of rice seedlings, was caused
+by a fungal pathogen Gibberellafujikuroi. E. Kurosawa (1926) reported
+the appearance of symptoms of the disease in rice seedlings when they
+were treated with sterile ﬁltrates of the fungus. The active substances
+were later identiﬁed as gibberellic acid.
+
+F. Skoog and his co-workers observed that from the internodal
+segments of tobacco stems the callus (a mass of undifferentiated cells)
+proliferated only if, in addition to auxins the nutrients medium was
+supplemented with one of the following: extracts of vascular tissues, yeast
+extract, coconut milk or DNA. Miller et al. (1955), later identiﬁed and
+crystallised the cytokinesis promoting active substance that they
+termed kinetin.
+
+During mid- 1960s, three independent researches reported the
+puriﬁcation and chemical characterisation of three different kinds of
+inhibitors: inhibitor-B, abscission II and dormin. Later all the three were
+proved to be chemically identical. It was named abscisic acid (ABA).
+
+H.H. Cousins (19 10) conﬁrmed the release of a volatile substance from
+ripened oranges that hastened the ripening of stored unripened bananas.
+Later this volatile substance was identiﬁed as ethylene, a gaseous PGR.
+
+Let us study some of the physiological effects of these ﬁve categories
+of PGRs in the next section.
+
+15.4.3 Physiological Effects of Plant Growth Regulators
+15.4.3.1 Auxins
+
+Auxins (from Greek ‘auxein’ : to grow) was ﬁrst isolated from human urine.
+The term ‘auxin’ is applied to the indole-3-acetic acid (IAA), and to other
+natural and synthetic compounds having certain growth regulating
+properties. They are generally produced by the growing apices of the stems
+and roots, from where they migrate to the regions of their action. Auxins
+like IAA and indole butyric acid (IBA) have been isolated from plants.
+NAA (naphthalene acetic acid) and 2, 4-D (2, 4-dichlorophenoxyacetic)
+are synthetic auxins. All these auxins have been used extensively in
+agricultural and horticultural practices.
+
+They help to initiate rooting in stem cuttings, an application widely
+used for plant propagation. Auxins promote ﬂowering e. g. in pineapples.
+They help to prevent fruit and leaf drop at early stages but promote the
+abscission of older mature leaves and fruits.
+
+In most higher plants, the growing apical bud inhibits the growth of
+the lateral (axillary) buds, a phenomenon called apical dominance.
+Removal of shoot tips (decapitation) usually results in the growth of lateral
+buds (Figure 15. 1 1). It is widely applied in tea plantations, hedge-making.
+Can you explain why?

@@ -1,0 +1,24 @@
+466
+
+l Physics
+
+ 
+
+ 
+
+13.30 Calculate and compare the energr released by a) fusion of 1.0 kg of
+
+13.31
+
+hydrogen deep within Sun and b) the ﬁssion of 1.0 kg of 235U in a
+fission reactor.
+
+Suppose India had a target of producing by 2020 AD, 200,000 MW
+of electric power, ten percent of which was to be obtained from nuclear
+power plants. Suppose we are given that, on an average, the efficiency
+of utilization (i.e. conversion to electric energy) of thermal energy
+produced in a reactor was 25%. How much amount of fissionable
+uranium would our country need per year by 2020? Take the heat
+energy per fission of 235U to be about 200MeV.
+
+2019—20

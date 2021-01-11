@@ -1,0 +1,273 @@
+204
+
+PI [YSICS
+
+34.
+
+35.
+
+36.
+37.
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+43.
+44.
+
+45.
+
+46.
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+58.
+
+59.
+
+60.
+
+KALPANA— 1
+
+INSAT—3A
+
+GSAT—2
+INSAT~3E
+
+IRS—P6 / RESOURCESAT—l
+
+EDUSAT
+
+HAMSAT
+
+CARTO SAT — 1
+
+INSAT~4A
+INSAT—4C
+CARTO SAT—2
+
+SRE- 1
+
+IN SAT-4B
+IN SAT-4CR
+
+IMS— 1
+
+CARTOSAT — 2A
+
+Chandrayaan— l
+
+RISAT—2
+ANUSAT
+
+Oceansat—2
+
+GSAT -4
+
+CARTO SAT ~ 2 B
+
+STUDSAT
+
+GSAT—5P
+RESOURCESAT—2
+
+YO UTHSAT
+
+GSAT~8
+
+Sep. 12, 2002
+
+Apr. 10, 2003
+
+May 08, 2003
+Sep. 28, 2003
+Oct. 17, 2003
+
+Sep. 20, 2004
+
+May 05, 2005
+
+May 05, 2005
+
+Dec. 22, 2005
+Jul. 10, 2006
+Jan. 10, 2007
+
+Jan. 10, 2007
+
+Mar. 12, 2007
+Sep. 02, 2007
+
+Apr. 28, 2008
+
+Apr. 28, 2008
+
+Oct. 22, 2008
+
+Apr. 20, 2009
+Apr. 20, 2009
+
+Sep. 23, 2009
+
+Apr. 15, 2010
+
+Jul. 12, 2010
+
+Jul. 12, 2010
+
+Dec. 25, 2010
+Apr. 20, 2011
+
+Apr. 20, 2011
+
+May 21,2011
+
+2019-20
+
+PSLV—C4 /
+KALPANA— 1 ‘7
+
+Ariane5—V 1 60C
+
+GSLV—D2/(3rSAT—2b
+Ariane5—Vl62“
+
+PSLV-C5/
+RESO URC ESAT — 1 ‘7
+
+GSLV—FO 1 /
+EDUSAT(GSAT-3)b
+
+PSLV—C6 /
+CARTOSAT— l / HAMSAT”
+
+PSLV-C6 /
+CARTOSAT — 1 / HAMSAT”
+
+Ariane5—V l 690
+GSLV—FO2 / IN SAT ~4Cb
+
+PSLV—C7/CARTOSAT —2
+/SRE— 1 b
+
+PSLV—C7/CARTOSAT —2
+/SRE- 1 b
+
+Ariane5c
+
+GSLV— F04 / IN SAT—4
+CR”
+
+PSLV—C9 /
+CARTOSAT—2Ab
+
+PSLV-C9 /
+CARTOSAT—2Ab
+
+PSLV—C 1 1 b
+
+PSLV—C 12/RISAT—2b
+PSLV—C 12/RISAT—2b
+
+PSLV—C 1 4/
+OCEANSAT—2b
+
+GSLV—D3 / GSAT —4"
+
+PSLV—C 1 5/
+CARTOSAT-2B"
+
+PSLV—C 1 5/
+CARTOSAT—2Bb
+
+GSLV-FO6/GSAT—5Pb
+
+PSLV—C 1 6/
+RESOURCESAT—2b
+
+PSLV—C 1 6/
+RESOURCESAT-2b
+
+Ariane—5 VA—202C
+
+Climate &
+Environment,
+Communication
+
+Climate &
+Environment,
+Communication
+
+Communication
+Communication
+
+Earth Observation
+
+Communication
+
+Communication
+
+Earth Observation
+
+Communication
+Communication
+
+Earth Observation
+
+Experimental
+
+Communication
+
+Communication
+
+Earth Observation
+
+Earth Observation
+
+Planetary
+Observation
+
+Earth Observation
+
+University /
+Academic Institute
+
+Climate &
+Environment, Earth
+Observation
+
+Communication
+
+Earth Observation
+University /
+Academic Institute
+
+Communication
+
+Earth Observation
+
+Student Satellite
+
+Communication

@@ -1,0 +1,81 @@
+Wove Optics
+
+interfere constructively and we have what is referred to as constructive
+
+- 77»
+5,9 ‘
+interference. We next consider a point Q [Fig 10.9(a)]
+
+    
+
+for which
+
+S29 —SIQ = 2)»
+
+The waves emanating from S1 will arrive exactly two cycles earlier [of]
+than the waves from S2 and will again be in phase [Fig 10.9(a)]. Thus, if 32
+the displacement produced by S1 is given by
+
+y1 = a cos wt (a)
+then the displacement produced by 82 will be given by
+Hg = a COS (wt— 4%) = acos wt
+
+where we have used the fact that a path difference of 2)» corresponds to a
+phase difference of 47:. The two displacements are once again in phase
+and the intensity will again be 4 I0 giving rise to constructive interference.
+In the above analysis we have assumed that the distances 819 and 829
+are much greater than 01 (which represents the distance between 81 and
+82) so that although 819 and 829 are not equal, the amplitudes of the
+displacement produced by each wave are very nearly the same. (b)
+We next consider a point R [Fig 10.9(b)] for which
+FIGURE 10.9
+
+S2R_ S1R = _2'BA (a) Constructive
+
+The waves emanating from S1 will arrive exactly two and a half cycles interference at a
+later than the waves from 82 [Fig 10.10(b)]. Thus if the displacement point Q for which the
+
+produced by S1 is given by path difference is 2}».
+(b) Destructive
+
+interference at a
+
+ 
+
+y1 = acos wt
+
+then the displacement produced by 82 will be given by point R for which the
+_ _ path difference is
+y2—acos(a)t+57t) ——acosa)t 2.5)“
+
+where we have used the fact that a path difference of 2.5)» corresponds to
+a phase difference of 57:. The two displacements are now out of phase
+and the two displacements will cancel out to give zero intensity. This is
+referred to as destructive interference.
+
+To summarise: If we have two coherent sources S1 and 82 vibrating
+in phase, then for an arbitrary point P whenever the path difference,
+
+SIP ~S2P= n2. (n=0, 1,2, 3,...) (1010)
+
+we will have constructive interference and the resultant intensity will be y n = g
+410; the sign ~ between SIP and S2 P represents the difference between
+SIP and S2 P. On the other hand, if the point P is such that the path
+difference,
+
+ 
+
+slp ~S2P=(n+%)l (n=0, 1,2,3, ...) (1011)
+
+FIGURE 10.10 Locus
+
+we will have destructive interference and the resultant intensity will be of points for which
+
+zero. Now, for any other arbitrary point G (Fig. 10.10) let the phase 51p _ 52p is equal {0
+difference between the two displacements be q). Thus, if the displacement zero. ii. i 21. t 3/1.
+
+produced by S1 is given by
+
+y1 = acos (0t 361
+
+2019-20

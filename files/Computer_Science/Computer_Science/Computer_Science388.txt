@@ -1,0 +1,34 @@
+372 Chapter 6 Enhancing Performance with Plpellnlng
+3. Execute the operation or calculate an address.
+4. Access an operand in data memory.
+5. Write the result into a register.
+Hence, the MIPS pipeline we explore in this chapter has five stages. The following
+example shows that pipelining speeds up instruction execution just as it speeds up
+the laundry.
+Single-Cycle versus Pipelined Performance
+To make this discussion concrete, let's create a pipeline. In this example, and
+EXAMPLE
+in the rest of this chapter, we limit our attention to eight instructions: load
+word (lw), store word (sw), add (add), subtract (sub), and (and), or (or),
+set-less-than (s 1t ), and branch-on-equal (beq).
+Compare the average time between instructions of a single-cycle imple 
+mentation, in which all instructions take 1 clock cycle, to a pipelined
+implementation. The operation times for the m ajor functional units in this ex 
+am ple are 200 ps fo r memory access, 200 ps for ALU operation, and 100 ps for
+register file read or write. As we said in Chapter 5, in the single-cycle model ev 
+ery instruction takes exactly 1 clock cycle, so the clock cycle must be stretched
+to accommodate the slowest instruction.
+Figure 6.2 shows the time required fo r each of the eight instructions. The sin 
+ANSWER
+gle-cycle design must allow for the slowest instruction- in Figure 6.2 it is
+1w-so the time required fo r every instruction is 800 ps. Similarly to Figure
+6. 1, Figure 6.3 compares nonpipelined and pipelined execution of three load
+word instructions. Thus, the time between the fi rst and fourth instructions in
+the nonpipelined design is 3 X800 ns o r 2400 ps.
+All the pipeline stages take a single clock cycle, so the clock cycle must be
+long enough to accommodate the slowest operation. Just as the single-cycle
+design must take the worst-case clock cycle of 800 ps even though some in 
+structions can be as fast as 500 ps, the pipelined execution clock cycle must
+have the worst-case clock cycle of 200 ps even though some stages take only
+100 ps. Pipelining still offers a fourfold performance improvement: the time
+between the first and fourth instructions is 3 X 200 ps or 600 ps.

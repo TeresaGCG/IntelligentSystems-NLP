@@ -1,0 +1,40 @@
+164 Chapter 3 Arithmetic: for Computers
+Binary to Decimal Conversion
+What is the decimal value of this 32-bit two's complement number?
+EXAMPLE
+1111 1111 1111 1111 1111 1111 1111 11 OOtwo
+Substituting the number's bit values into the formula above:
+ANSWER
+31 29 2
++ + + + + +
+(I X_2 ) (i X 230) (i X 2 ) (i X 2 ) (0 X2') (0 X 2°)
+31 30 29 2
++ + + + + +
+= _2 2 2 2 0 0
++
+= -2, 147,483,648 2, 147,483,644,<,n
+ten
+= - 4,en
+We'll see a shortcut to simplify conversion soon.
+Just as an operation on unsigned numbers ca n overflow the capacity of hard 
+wa re to represent the result, so can an operation on two's complement numbers.
+Overflow occurs when the leftmost retained bit of the binary bit pattern is not the
+same as the infinite number of digits to the left (the sign bit is incorrect): a 0 on
+the left of the bit pattern when the number is negative or a 1 when the number is
+positive.
+Hardware Signed versus unsigned applies to loads as well as to arithmetic. The function of a
+signed load is to copy the sign repeatedly to fill the rest of the register-called sign
+Software
+extension-but its purpose is to place a correct representation of the number
+Interface
+within that register. Unsigned loads simply fill with Os to the left of the data, since
+the number represented by the bit pattern is unsigned.
+\-¥hen loading a 32-bit word into a 32-bit register, the point is moot; signed and
+unsigned loads are identical. MIPS does offer two flavors of byte loads: load byte
+(l b) treats the byte as a signed number and thus sign-extends to fill the 24 left 
+most bits of the register, while load byte unsigned (l bu) works with unsigned inte 
+gers. Since C programs almost always use bytes to represent characters rather than
+consider bytes as very short signed integers, 1bu is used practically exclusively for
+byte loads. For similar reasons, load half(l h) treats the halfword as a signed num 
+ber and thus sign-extends to fill the 16 leftmost bits of the register, while load half 
+word l/nsigned (1 hu) works with unsigned integers.

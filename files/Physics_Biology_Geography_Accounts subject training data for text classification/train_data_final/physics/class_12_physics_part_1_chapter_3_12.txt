@@ -1,0 +1,62 @@
+Current
+Electricity
+
+ 
+
+Example 3.3 An electric toaster uses nichrome for its heating
+element. When a negligibly small current passes through it, its
+resistance at room temperature (27 .0 °C) is found to be 75.3 Q. When
+the toaster is connected to a 230 V supply, the current settles, after
+a few seconds, to a steady value of 2.68 A. What is the steady
+temperature of the nichrome element? The temperature coefficient
+of resistance of nichrome averaged over the temperature range
+involved, is 1.70 X 10‘4 °C“1.
+
+Solution When the current through the element is very small, heating
+effects can be ignored and the temperature T1 of the element is the
+same as room temperature. When the toaster is connected to the
+supply, its initial current will be slightly higher than its steady value
+of 2.68 A. But due to heating effect of the current, the temperature
+will rise. This will cause an increase in resistance and a slight
+decrease in current. In a few seconds, a steady state will be reached
+when temperature will rise no further, and both the resistance of the
+element and the current drawn will achieve steady values. The
+
+resistance R2 at the steady temperature T2 is
+230V
+R2 =2.68A
+Using the relation
+R2=R1 [1 + a(T2—T1)]
+with a = 1.70 X 10’4 °C’1, we get
+
+ 
+
+= 85.8 $2
+
+ 
+
+TNTM =8200C H
+(75.3)X1.70><10
+that is, T2 = (820 + 27.0) °C = 847 °C g
+Thus, the steady temperature of the heating element (when heating E
+effect due to the current equals heat loss to the surroundings) is 9°
+847 °C. 09
+Example 3.4 The resistance of the platinum wire of a platinum
+resistance thermometer at the ice point is 5 S2 and at steam point is
+5.39 Q. When the thermometer is inserted in a hot bath, the resistance
+of the platinum wire is 5.795 S). Calculate the temperature of the
+bath.
+Solution R0 = 5 9, R100 = 5.23 9 and Rt = 5.795 9
+Now, t=—R‘_R° x100, Rt=Ro(1+at)
+R100 — R0
+5.795—5
+= — x 100
+5.23—5
+0.795
+= 100 = o
+0.23 X 345.65 C
+3.9 ELECTRICAL ENERGY, POWER
+Consider a conductor with end points A and B, in which a current I is
+ﬂowing from A to B. The electric potential at A and B are denoted by WA) 105
+
+2019-20

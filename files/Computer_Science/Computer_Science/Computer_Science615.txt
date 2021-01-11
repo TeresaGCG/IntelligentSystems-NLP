@@ -1,0 +1,36 @@
+8.6 I/O Performance Measures: Examples from Disk and File Systems 599
+measurements have led to the creation of synthetic file system benchmarks. One
+of the most popular of such benchmarks has five phases, using 70 files:
+• MakeDir: Constructs a directory subtree that is identical in structure to the
+given directory subtree
+• Copy: Copies every file from the source subtree to the target subtree
+• SCIlllDir: Recursively traverses a directory subtree and examines the staniS
+of every file in it
+• ReadAIl: Scans every byte of every file in a subtree once
+• Make: Compiles and links all the files in a subtree
+As we will see in Section 8.7, the design of an I/O system involves knowing what
+the workload is.
+In addition to processor benchmarks, SPEC offers both a file server benchmark
+(SPECSFS) and a Web server benchmark (SPECWeb). SPECSFS is a benchmark
+for measuring NFS (Network File System) performance using a script of file server
+requests; it tests the performance of the I/O system, including both disk and net 
+work I/O, as well as the processor. SPECSFS is a throughput-oriented benchmark
+but with important response time requirements. SPECWeb is a Web server bench 
+mark that simulates multiple clients requesting both static and dynamic pages
+from a server, as well as clients posting data to the server.
+I/O Performance versus Processor Performance
+Amdahl's law in Chapter 2 reminds us that neglecting I/O is dangerous. A simple
+example demonstrates this.
+Impact of I/O on System Performance
+Suppose we have a benchmark that executes in 100 seconds of elapsed time,
+EXAMPLE
+where 90 seconds is CPU time and the rest is I/O time. If CPU time improves
+by 50% per year for the next five years but I/O time doesn't improve, how
+much faster will our program run at the end of five years?
+We know that
+ANSWER
++
+Elapsed time CPU time I/O time
++
+100 90 I/O time
+I/O time 10 seconds

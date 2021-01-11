@@ -1,0 +1,72 @@
+FIGURE 5.1 The arm of the statuette
+
+mounted on the chariot always points
+south. This is an artist’s sketch of one
+
+ 
+
+ 
+
+nowadays you would call engineers). These ‘engineers’
+built a chariot on which they placed a magnetic figure
+with arms outstretched. Figure 5.1 is an artist’s
+description of this chariot. The figure swiveled around
+so that the finger of the statuette on it always pointed
+south. With this chariot, Huang-ti’s troops were able
+to attack the enemy from the rear in thick fog, and to
+defeat them.
+
+In the previous chapter we have learned that moving
+charges or electric currents produce magnetic fields.
+This discovery, which was made in the early part of the
+nineteenth century is credited to Oersted, Ampere, Biot
+and Savart, among others.
+
+In the present chapter, we take a look at magnetism
+as a subject in its own right.
+
+Some of the commonly known ideas regarding
+
+of the earliest known compasses. magnetism are:
+
+174
+
+thousands of years old. (i) The earth behaves as a magnet with the magnetic
+
+field pointing approximately from the geographic
+south to the north.
+
+(ii) When a bar magnet is freely suspended, it points in the north-south
+direction. The tip which points to the geographic north is called the
+north pole and the tip which points to the geographic south is called
+the south pole of the magnet.
+
+(iii) There is a repulsive force when north poles ( or south poles ) of two
+magnets are brought close together. Conversely, there is an attractive
+
+force between the north pole of one magnet and the south pole of
+the other.
+
+(iv) We cannot isolate the north, or south pole of a magnet. If a bar magnet
+is broken into two halves, we get two similar bar magnets with
+somewhat weaker properties. Unlike electric charges, isolated magnetic
+north and south poles known as magnetic monopoles do not exist.
+
+(v) It is possible to make magnets out of iron and its alloys.
+
+We begin with a description of a bar magnet and its behaviour in an
+external magnetic field. We describe Gauss’s law of magnetism. We then
+follow it up with an account of the earth’s magnetic field. We next describe
+how materials can be classified on the basis of their magnetic properties.
+We describe para-, dia-, and ferromagnetism. We conclude with a section
+on electromagnets and permanent magnets.
+
+5.2 THE BAR MAGNET
+
+One of the earliest childhood memories of the famous physicist Albert
+Einstein was that of a magnet gifted to him by a relative. Einstein was
+fascinated, and played endlessly with it. He wondered how the magnet
+could affect objects such as nails or pins placed away from it and not in
+any way connected to it by a spring or string.
+
+2019-20

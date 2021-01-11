@@ -1,0 +1,53 @@
+216
+
+ 
+
+BIOLOGY
+
+Scientists also tried to know whether all plants have PGA as the ﬁrst
+product of CO2 ﬁxation, or whether any other product was formed in
+other plants. Experiments conducted over a wide range of plants led to
+the discovery of another group of plants, where the ﬁrst stable product of
+CO2 ﬁxation was again an organic acid, but one which had 4 carbon
+atoms in it. This acid was identiﬁed to be oxaloacetic acid or 0AA. Since
+then CO2 assimilation during photosynthesis was said to be of two main
+types: those plants in which the ﬁrst product of CO2 ﬁxation is a C3 acid
+(PGA), i.e., the C3 pathway, and those in which the ﬁrst product was a C 4
+acid (0AA), i.e., the C 4 pathway. These two groups of plants showed
+other associated characteristics that we will discuss later.
+
+13.7. 1 The Primary Acceptor of CO2
+
+Let us now ask ourselves a question that was asked by the scientists who
+were struggling to understand the ‘dark reaction’. How many carbon atoms
+would a molecule have which after accepting (fixing) C02, would have 3
+carbons (of PGA)?
+
+The studies very unexpectedly showed that the acceptor molecule
+was a 5-carbon ketose sugar — ribulose bisphosphate (RuBP). Did any
+of you think of this possibility? Do not worry; the scientists also took
+a long time and conducted many experiments to reach this conclusion.
+They also believed that since the ﬁrst product was a C3 acid, the primary
+acceptor would be a 2-carbon compound; they spent many years trying
+to identify a 2-carbon compound before they discovered the 5-carbon
+RuBP.
+
+13.7.2 The Calvin Cycle
+
+Calvin and his co-workers then worked out the whole pathway and showed
+that the pathway operated in a cyclic manner; the RuBP was regenerated.
+Let us now see how the Calvin pathway operates and where the sugar is
+synthesised. Let us at the outset understand very clearly that the Calvin
+pathway occurs in all photosynthetic plants; it does not matter whether
+they have C3 or C 4 (or any other) pathways Wigure 13.8).
+
+For ease of understanding, the Calvin cycle can be described under
+three stages: carboxylation, reduction and regeneration.
+
+l . Carboxylation — Carboxylation is the ﬁxation of CO2 into a stable organic
+intermediate. Carboxylation is the most crucial step of the Calvin cycle
+where CO2 is utilised for the carboxylation of RuBP. This reaction is
+catalysed by the enzyme RuBP carboxylase which results in the formation
+of two molecules of 3-PGA. Since this enzyme also has an oxygenation
+activity it would be more correct to call it RuBP carboxylase-oxygenase
+or RuBisCO.

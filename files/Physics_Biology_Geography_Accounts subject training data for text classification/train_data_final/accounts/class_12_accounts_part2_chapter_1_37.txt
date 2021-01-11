@@ -1,0 +1,55 @@
+3 8 Accountancy : Company Accounts and Analysis of Financial Statements
+
+and ﬁnal call of Rs. 3. Her shares were forfeited after the ﬁrst and ﬁnal call. Give
+journal entry for forefeiture of the shares.
+
+Solution:
+
+Share Capital Reserve A/c
+Securities Premium A/c
+
+To Share Allotment A/c
+
+To Share ﬁrst and final Call A/c
+
+To Share Forfeiture A/c
+(Forfeiture of 500 shares for non-
+payment of ﬁrst and ﬁnal call)
+
+ 
+
+Illustration 13
+
+Ashok Limited issued 3,00,000 equity shares of Rs. 10 each at a premium of
+Rs. 2 per share, payable as Rs. 3 on application, Rs. 5 on allotment (including
+premium) and the balance in two calls of equal amount.
+
+Applications were received for 4,00,000 shares and pro-rata allotment was
+made to all the applicants. The excess application money was adjusted towards
+allotment. Mukesh who was allotted 800 shares failed to pay both the calls and
+his shares were forfeited after the second call. Record necessary j oumal entries
+in the books of Ashok Limited and also show the balance sheet:
+
+Solution:
+
+Books of Ashok Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(Rs. ) (Rs. )
+
+Bank A/c 12,00,000
+To Equity Share Application A/c 12,00,000
+
+(Application money received on
+4.00.000 shares)
+
+Equity Share Application A/c . 12,00,000
+
+To Equity Share Capital A/c 9.00.000
+To Equity Share Allotment A/c 3,00,000
+
+(Application money on 3,00,000 shares transferred
+to share capital account and the excess amount
+adjusted to share allotment account)

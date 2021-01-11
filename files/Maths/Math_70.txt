@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+70
+Example 2
+Use the order of operations to evaluate the following expressions:
+a. 2 × 62 c. 2 × (−5)2
+b. −3× 24 d. −6× (−2)3
+Solution:
+a. 2 × 62 = 2 × 36= 72
+b. −3× 24 = −3× 16 = −48
+c. First, find (−5)2:(−5)2= (−5) × (−5) = 25
+Then use it to evaluate 2 × (−5)2: 2 × (−5)2= 2 × 25 = 50
+d. First, find (−2)3: (−2)3= (−2)(−2)(−2)  = −8
+Then use it to evaluate −6× (−2)3:−6× (−2)3= (−6) × (−8) = 48
+Again, an exponential expression is written as an and spoken as “a to
+the nth power.” It is sometimes read as just “a to the nth” or as “the nth
+power of a.” There are some special powers that have specific names.
+For example, a2 is read “a squared,” and a3 is read “a cubed.” The reason
+for these names stems from their geometrical interpretation, as we will
+see in Chapter 10.
+Exponents were created to simplify repetitive multiplication. Because
+of how they got their start, exponential expressions only make sense if
+the exponent is a positive integer. We will have to carefully expand our
+interpretation of exponents if we want to work with exponential expres-
+sions that involve powers that are either negative integers or zero.
+Lesson 4-1 Review
+Use the order of operations to evaluate the following expressions:
+1. 3 × 24
+2. −4× 32
+3. −5×(−2)3
+www.ebook3000.com

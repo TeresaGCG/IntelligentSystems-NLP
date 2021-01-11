@@ -1,0 +1,110 @@
+WORK. ENERGY AND POWER 127
+—
+
+Table 6.3 Approximate energy associated with various phenomena
+
+Description
+Big Bang
+
+Radio emery emitted by the galaxy during its lifetime
+
+Rotational energy of the Milky Way
+
+Energy released in a supernova explosion
+
+Ocean’s hydrogen in fusion
+Rotational energy of the earth
+
+Annual solar energy incident on the earth
+
+Annual wind energy dissipated near earth’s surface
+Annual global energy usage by human
+
+Annual energy dissipated by the tides
+
+Emergr release of 15-megatom fusion bomb
+
+Annual electrical output of large generating plant
+
+Thunderstorm
+
+Energy released in burning 1000 kg of coal
+
+Kinetic energy of a large jet aircraft
+
+Energl released in burning 1 litre of gasoline
+Daily food intake of a human adult
+Work done by a human heart per beat
+
+Turning this page
+Flea hop
+
+Discharge of a single neuron
+
+Typical energy of a proton in a nucleus
+
+Typical emery of an electron in an atom
+
+Energy to break one bond in DNA
+
+the above equivalence of mass and energy [Eq.
+(6.20)]. On the other hand the explanation of the
+life-nourishing energy output of the sun is also
+based on the above equation. In this case
+effectively four light hydrogen nuclei fuse to form
+a helium nucleus whose mass is less than the
+sum of the masses of the reactants. This mass
+difference, called the mass defect Am is the
+source of energy (Am)02. In fission, a heavy
+
+nucleus like uranium 25251}, is split by a neutron
+
+into lighter nuclei. Once again the final mass is
+less than the initial mass and the mass difference
+translates into energy, which can be tapped to
+provide electrical energy as in nuclear power
+plants (controlled nuclear ﬁssion) or can be
+employed in making nuclear weapons
+(uncontrolled nuclear ﬁssion). Strictly, the energy
+AE released in a chemical reaction can also be
+related to the mass defect Am = AE/CZ. However,
+for a chemical reaction, this mass defect is much
+smaller than for a nuclear reaction. Table 6.3
+lists the total energies for a variety of events and
+phenomena.
+
+ 
+
+V Example 6.10 Examine Tables 6.1—6.3
+and express (a) The energy required to
+break one bond in DNA in CV: (b) The
+
+kinetic energy of an air molecule (10*21 J)
+in eV: (0) The daily intake of a human adult
+in kilocalories.
+
+ 
+
+Answer (a) Energy required to break one bond
+of DNA is
+
+1020.]
+
+—_19— = 0.06 eV
+1.6x10 J/eV
+
+Note 0.1 eV = 100 meV (100 millielectron volt).
+(b) The kinetic energy of an air molecule is
+1021.]
+1.6x10‘19J/eV
+This is the same as 6.2 meV.
+
+: 0.0062 eV
+
+(c) The average human consumption in a day is
+107 J
+
+—3—=24oo kcal
+4.2x10 J/kcal
+
+2019-20

@@ -1,0 +1,51 @@
+30
+
+ 
+
+BIOLOGY
+
+not only the external features, but also internal features, like ultra-
+structure, anatomy, embryology and phytochemistry. Such a
+classiﬁcation for ﬂowering plants was given by George Bentham and
+Joseph Dalton Hooker.
+
+At present phylogenetic classification systems based on
+evolutionary relationships between the various organisms are acceptable.
+This assumes that organisms belonging to the same taxa have a common
+ancestor. We now use information from many other sources too to help
+resolve difﬁculties in classiﬁcation. These become more important when
+there is no supporting fossil evidence. Numerical Taxonomy which is
+now easily carried out using computers is based on all observable
+characteristics. Number and codes are assigned to all the characters and
+the data are then processed. In this way each character is given equal
+importance and at the same time hundreds of characters can be
+considered. Cytotaxonomy that is based on cytological information like
+chromosome number, structure, behaviour and chemotaxonomy that
+uses the chemical constituents of the plant to resolve confusions, are also
+used by taxonomists these days.
+
+3. l ALGAE
+
+Algae are chlorophyll-bearing, simple, thalloid, autotrophic and largely
+aquatic (both fresh water and marine) organisms. They occur in a
+variety of other habitats: moist stones, soils and wood. Some of them
+also occur in association with fungi (lichen) and animals (e. g., on sloth
+bear).
+
+The form and size of algae is highly variable, ranging from colonial
+forms like Volvox and the ﬁlamentous forms like Ulothrix and Spirogyra
+(Figure 3. 1). A few of the marine forms such as kelps, form massive plant
+bodies.
+
+The algae reproduce by vegetative, asexual and sexual methods.
+Vegetative reproduction is by fragmentation. Each fragment develops into
+a thallus. Asexual reproduction is by the production of different types of
+spores, the most common being the zoospores. They are ﬂagellated
+(motile) and on germination gives rise to new plants. Sexual reproduction
+takes place through fusion of two gametes. These gametes can be
+ﬂagellated and similar in size (as in Ulothrix) or non-ﬂagellated (non-motile)
+but similar in size (as in Spirogyra). Such reproduction is called
+isogamous. Fusion of two gametes dissimilar in size, as in species of
+Eudorina is termed as anisogamous. Fusion between one large, non-
+motile (static) female gamete and a smaller, motile male gamete is termed
+oogamous, e.g., Volvox, Fucus.

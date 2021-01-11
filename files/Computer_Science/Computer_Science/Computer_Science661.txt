@@ -1,0 +1,47 @@
+'·5 Index
+DeMorgan's laws, 86 Double precision, 192 Energy efficiency problems, 263- 265
+DeMorgan's theorems, 811 Double data rate synchronous DRAMs Engelbart, Doug, 16
+Dependability, disk, 569-580 (DDD SDRAMs), 490-491 ENIAC (Electronic Numerical Integrator
+Dependence detection, 406 DRAM. See Dynamic random access and Calculator), CDI.7: 1- 2, 3,
+Dependent instructions, 403 memory CD7.9:1
+Desktop computers,S Dual inline memory modules Environmental problems, tedUlology
+performance benchmarks, 255 (DIMMs),22 and,156-157
+Destination register, 64 DVD drive, 19,20 EPc\Vrite, 342
+Deutsch, Peter, CD7.9:8 DVDs (digital video disks), 25 Error-correcting codes, B65
+D flip-flop, 851-53 Dynamically linked libraries (DLLs), Error-detecting codes, B65--67
+Dhrystone synthetic benchmark, 112-114 Ethernet, 26, CD8.3:5, CD8.11 :7-8,
+CD4.7:2, IMD4:11- 12 Dynamic branch prediction, 382, IMD8:1- 2
+Dies, 30 421-423 Evolution versus revolution,
+Digital cameras, 236- 237,603--606 Dynamic data, A22 CD9.1O:45-47
+Digital signal-processing extensions, D19 Dynamic multiple issue, 433, 442-445 Exception enable, 532
+DIMMs. See Dual inline memory modules Dynamic pipeline scheduling, 443--445 Exception program counter (EPC), 173,
+Directives, data layout,A14---15 Dynamic random access memory 341- 342,429-431
+Direct-mapped cache, 474--475, 497 (DRAM), 20, 469, 487-488, Exceptions,173,A33-38
+Direct memory access (DMA), 594-596 49D-491,513,B60,63-65 address, 342-343
+Directories, CD9.4:24 historical development of, CD7.9:3-4 control checking of, 343-346
+Dirty bit, 521 defined,340-341
+Disabled people, technology for, 366- 367 E handling of, 341-343, A35, 36-38
+Disk(s) imprecise, 432
+arrays, IMD8:2 Early restart, 481-482 pipeline, 427-432
+J.
+controller, 570, 571 Eckert, Presper, CD 1.7:1,2,4, CD7.9: I Executable file, 109
+drives, 19, 20 Eckert-Mauch1y Computer Corp., CDI.7:4 Execution time, 242, 244---245
+fallacies and pitfalls, 606-609 Edge-triggered clocking methodology, use of total, 257- 259
+read time, 570-571 290-291, B47 Executive process, 529
+storage and dependability, 569-580, EDSAC (Electronic Delay Storage Auto  Exponent, 191
+CD8.11:1-4 matic Calculator), CDI.7:2, Extended accumulator, CD2.19:2
+Dispatch, 350 CD5.12:1 External labels, AII
+Displacement addressing, 100 EDVAC (Electronic Discrete Variable
+Distributed block-interleaved parity Automatic Computer), CDI.7:1-2 F
+(RAID 5), 578 EEMBC benchmarks, 255, IMD4: 17- 18
+Distributed memory, CD9.4:22 802.11 standard, CD8.3:9-10 Failures
+Distributed shared memory (DSM), Eispack, CD3.1O:3 mean time between failures
+CD9.4:24 Elaborations, 8 (MTBF),573
+divide, 188-189 Elapsed time, 244 mean time to failure (MTTF),573, 574
+Dividend,183 Ellison, Larry, CD8.11:5 mean time to repair (MTTR),573, 574
+divide unsigned, 188--189 Embedded computers, 6-8, CDI.7:8--9,A7 reasons for, 574
+Division, 183-189 performance benchmarks, 255, synchronizer, B76
+Divisor, 183 IMD4:17- 18 Fallacies, 33
+Don't-care terms, 303, B16-18 EMC,CD8.11:6 False sharing, CD9.3: 14
+Double, 192 Emulation, CD5.12:1-2 Fanout, 32
+Double extended precision, 218 Encoder, B9 Fast carry, B38-47

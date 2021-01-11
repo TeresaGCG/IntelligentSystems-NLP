@@ -1,0 +1,25 @@
+Numbers
+33
+The distributive property can be used to understand the process of
+multiplying two two-digit numbers. For example, to find the product of
+36 × 15 apply the distributive property:
+36× 15= 36 × (10 + 5)
+= 36 × 10+ 36 × 5
+= 360 + 180
+= 540
+Now look at the method for multiplying two two-digit numbers dis-
+cussed previously. Notice that the intermediate products are exactly the
+same in both methods. The two procedures actually use the same method;
+the only difference is in how the work is organized.
+Lesson 1-9 Review
+Use the distributive property to calculate the following:
+1. 24 × 12
+2. 42 × 13
+3. 62 × 13
+Answer Key
+Lesson 1-2 Review
+1. 95 3. 294
+2. 102 4. 953
+Lesson 1-3 Review
+1. 7 3. 24
+2. 41 4. 244

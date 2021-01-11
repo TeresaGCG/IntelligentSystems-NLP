@@ -1,0 +1,61 @@
+22 Chapter 1 Computer Abstractions and Technology
+Processor M
+•
+m
+o,
+y
+Disk
+Processor and USB
+interface interlaces
+Graphics
+110 bus
+slots
+DlMM (dual inline memory
+module) A small board that FIGURE 1.10 Close-up of PC motherboard. This board uses the Intel Pentiwn 4 processor,which is
+located on the left-upper quadrant of the board.It is covered by a set of metal fins, which look like a radia 
+contains DRAM chips on both
+tor. This structure is the hear sink, used to help cool the chip. The main memory is contained on one or
+sides. SIMMs have DRAMs on
+more small boards that are perpendicuiar to the motherboard near the middle. The DRAM chips are
+only one side. Both DIMMs and
+mounted on these bo.uds (caUed DIMMs,for dual inline memory moouies) and then plugged into the con 
+SIMMs are meant to be plugged
+nectors. Much of the rest of the bo.ud comprises connectors for external If0 devices:audio/MIDI and par 
+into memory slots, usually on a
+alleVserial at the right edge, two PCI card slots near the boltom, and an ATA connector used for attaching
+motherboard.
+hard disks.
+instruction set architecture
+Also called architecture. An
+name: the instruction set architecture, or simply architecture, of a machine.
+abstract interface between the
+The instruction set architecnlfe includes anything programmers need to know to
+hardware and the lowest level
+make a binary machine language program work correctly, including instructions,
+software of a machine that
+I/O devices, and so on. Typically the operating system will encapsulate the details
+encompasses all the information
+necessary to write a machine of doing I/O, allocating memory, and other low-level system functions, so that
+language program that will run application programmers do not need to worry about such details. The combina 
+correctly, including instruc 
+tion of the basic instruction set and the operating system interface provided for
+tions, registers, memory access,
+application programmers is called the application binary interface (AB!).
+I/O, and so all.
+An instruction set architecture allows computer designers to talk about func 
+application binary interface tions independently from the hardware that performs them. For example, we can
+(ABI) The user portion of the
+talk about the functions of a digital clock (keeping time, displaying the time, set 
+instruction set plus the operat 
+ting the alarm) independently from the clock hardware (quartz crystal, LED dis 
+ing system interfaces used by
+plays, plastic buttons). Computer designers distinguish architecture from an
+application programmers.
+implementation of an architecture along the same lines: an implementation is
+Defines a standard for binary
+hardwa re that obeys the architecnlfe abstraction. These ideas bring us to another
+portability across computers.
+Big Picture.
+implementation Hardware
+that obeys the architecture
+abstraction.

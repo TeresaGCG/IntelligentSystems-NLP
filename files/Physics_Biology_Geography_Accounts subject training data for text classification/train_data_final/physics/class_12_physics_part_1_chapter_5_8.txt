@@ -1,0 +1,81 @@
+Magnetism and
+
+ 
+
+Example 5.5 Figure 5.5 shows a small magnetised needle P placed at
+
+a point 0. The arrow shows the direction of its magnetic moment. The
+
+other arrows show different positions (and orientations of the magnetic
+
+moment) of another identical magnetised needle Q.
+
+(a) In which configuration the system is not in equilibrium?
+
+(b) In which configuration is the system in (i) stable, and (ii) unstable
+equilibrium?
+
+(c) Which configuration corresponds to the lowest potential energy
+among all the configurations shown?
+
+Q4
+
+,—*_‘
+
+’
+
+z \\
+/
+
+‘~-lf,»’
+Qe
+iuGURE55
+
+Solution
+
+Potential energy of the conﬁguration arises due to the potential energy of
+one dipole (say, Q) in the magnetic ﬁeld due to other (P). Use the result
+that the ﬁeld due to P is given by the expression [Eqs. (5.7) and (5.8)]:
+
+ 
+
+m
+
+B? = _:—:rr—; (on the normal bisector)
+2 m
+
+Bp = :0” r—; (on the axis)
+
+where mP is the magnetic moment of the dipole P.
+
+Equilibrium is stable when m is parallel to BP, and unstable when it
+is anti-parallel to BP.
+
+For instance for the configuration gs for which Q is along the
+perpendicular bisector of the dipole P, the magnetic moment of Q is
+parallel to the magnetic ﬁeld at the position 3. Hence QS is stable.
+Thus,
+
+(a) P91 and PQ2
+(b) (i) P93, P96 (stable); (ii) P95, P94 (unstable)
+
+(d P96
+
+Q
+
+5.3 MAGNETISM AND GAUSS’S LAW
+
+In Chapter 1, we studied Gauss’s law for electrostatics. In Fig 5.3(c), we
+see that for a closed surface represented by ©, the number of lines leaving
+the surface is equal to the number of lines entering it. This is consistent
+with the fact that no net charge is enclosed by the surface. However, in
+the same ﬁgure, for the closed surface®, there is a net outward ﬂux, since
+it does include a net (positive) charge.
+
+2019-20
+
+Matter
+
+9' g mama
+
+181

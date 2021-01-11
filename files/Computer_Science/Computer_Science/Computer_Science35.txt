@@ -1,0 +1,24 @@
+1.3 Under the Covers 19
+Frame buffer
+Raster scan CRT display
+Y, +-+[QJ/ Y, +  
++--tt!!:t-/ _ Y, +-+-
+Y,
+x., x.,
+X, X,
+FtGURE 1.7 Each coordinate In the frame buffer on the left determines the shade of the
+corresponding coordinate for the raster scan CRT display on the right. Pixel (Xo, Yo) contains
+the bit pattern 0011, which is a lighter shade ofgray on the screen than the bit pattern 1101 in pixel (X ,Y ).
+t t
+DVD drive
+power supply
+~~- Zip drive
+fan with cover
+--0----.1
+motherboard
+FtGURE 1.8 Inside the personal computer of Figure 1.6 on page 17. This packaging is sometimes called a clamshell because of the way
+it opens with hinges on one side. To see what's inside, let's start on the top left-hand side. The shiny metal box on the top far left side is the power sup 
+ply. Just below that on the far left is the fan, with its cover pulled b.1ck. To the right and below the fan is a printed circuit board (PC board), called the
+motherboard in a Pc, that contains most of the electronics of the computer; Figure 1.10 is a close-up of that boord. The processor is the large raised
+rectangle just to the right ofthe fan. On the right side we see the bays designed to hold types ofdisk drives. The top bay contains a DVD drive, the mid 
+dle bay a Zip drive, and the bottom bay contains a hard disk.

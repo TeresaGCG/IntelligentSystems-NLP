@@ -1,0 +1,45 @@
+Homework Helpers: Basic Math and Pre-Algebra
+180
+If two sides of a triangle are
+the same length, the triangle
+is called an isosceles tri-
+angle. If all three sides of a
+triangle  have  the  same
+Acute Right length, the triangle is called
+an equilateral triangle. Fig-
+ure 10.2 illustrates examples
+of scalene, isosceles, and
+equilateral triangles.
+Moving up in the realm
+of polygons are the four-
+Obtuse Equiangular sided polygons, or quadrilat-
+erals. Quadrilaterals can be
+Figure 10.1 classified by the relationships
+between their sides. Opposite
+sides of a quadrilateral are
+parallel if, upon extending
+the two sides into lines, the
+two lines never intersect. If
+one pair of opposite sides of
+a quadrilateral are parallel,
+the quadrilateral is called a
+trapezoid. If both pairs of
+opposite sides of a quadri-
+Scalene Isosceles Equilateral
+lateral are parallel, the
+quadrilateral is called a par-
+Figure 10.2
+allelogram. Every parallelo-
+gram has the property that
+the sides opposite each
+other have the same length.
+If, in addition to opposite
+sides being the same length,
+Trapezoid Parallelogram Rhombus adjacent sides of a parallelo-
+gram have the same length,
+the parallelogram is called
+Figure 10.3
+a rhombus. Figure 10.3
+shows examples of these
+quadrilaterals.
+www.ebook3000.com

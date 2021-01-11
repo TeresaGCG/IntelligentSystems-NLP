@@ -1,0 +1,92 @@
+l Physics
+
+ 
+
+ 
+
+ 
+
+ 
+
+This wavelength is so small that it is beyond any
+measurement. This is the reason why macroscopic objects
+in our daily life do not show wave-like properties. On the
+other hand, in the sub-atomic domain, the wave character
+of particles is signiﬁcant and measurable.
+
+Consider an electron (mass m, charge e) accelerated
+from rest through a potential V. The kinetic energy K
+of the electron equals the work done (eV) on it by the
+electric ﬁeld:
+
+ 
+
+ 
+
+where V is the magnitude of accelerating potential in
+volts. For a 120 V accelerating potential, Eq. (1 1. 1 1) gives
+2. = 0.1 12 nm. This wavelength is of the same order as
+the spacing between the atomic planes in crystals. This
+suggests that matter waves associated with an electron could be veriﬁed
+by crystal diffraction experiments analogous to X-ray diffraction. We
+describe the experimental veriﬁcation of the de Broglie hypothesis in the
+next section. In 1929, de Broglie was awarded the Nobel Prize in Physics
+for his discovery of the wave nature of electrons.
+
+The matter—wave picture elegantly incorporated the Heisenberg’s
+uncertainty principle. According to the principle, it is not possible to
+measure both the position and momentum of an electron (or any other
+particle) at the same time exactly. There is always some uncertainty (A x)
+in the specification of position and some uncertainty (Ap) in the
+
+speciﬁcation of momentum. The product of Axand Ap is of the order of h*
+(with h = h/Zit), i.e.,
+
+AxApzh (11.12)
+
+Equation (1 1.12) allows the possibility that Axis zero; but then Ap
+must be inﬁnite in order that the product is non-zero. Similarly, if Ap is
+zero, Ax must be inﬁnite. Ordinarily, both Ax and Ap are non-zero such
+that their product is of the order of h.
+
+Now, if an electron has a deﬁnite momentum p, (i.e.Ap = O), by the de
+Broglie relation, it has a deﬁnite wavelength A. A wave of deﬁnite (single)
+
+TC
+00
+a
+1—1
+I
+N
+g
+.—1 K = e V (1 1.8)
+1 2
+
+E Now,K=—mv2= p ,sothat
+8 2 2 m
+O Louis Victor de Bro lie _ _
+01 (1892 — 1987) Freich 19— V2mK _ Vzm eV (11'9)
+CD physicist who put forth The de Broglie wavelength A of the electron is then
+a revolutionary idea of wave h h h
+
+nature of matter. This idea A. — = = (1 1.10)
+(I was developed by Erwin p 2 mK V2 meV
+8 SChrédmger into a full- Substituting the numerical values of h, m, e,
+O ﬂedged theory of quantum we get
+5 mechanics commonly
+
+known as wave mechanics. ,1 _ 1.227 nm
+(.2 In 1929, he was awarded the _ JV (1 1-1 1)
+8 Nobel Prize in Physics for his,
+A
+
+discovery of the wave nature
+of electrons.
+
+ 
+
+400
+
+* A more rigorous treatment gives AxAp 2 h / 2.
+
+2019-20

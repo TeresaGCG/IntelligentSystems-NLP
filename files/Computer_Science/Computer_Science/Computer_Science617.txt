@@ -1,0 +1,38 @@
+8.7 Designing an I/ O System 601
+unloaded, and the designer must ensure that some latency bound is met either
+because it is critical to the application or because the device must receive certain
+guaranteed service to prevent errors. Examples of the latter are similar to the anal 
+ysis we looked at in the previous section. Likewise, determining the latency on an
+unloaded system is relatively easy, since it involves tracing the path of the I/O
+operation and summing the individual latencies.
+Finding the average latency (or distribution of latency) under a load is a much
+more complex problem. Such problems are tackled either by queuing theory
+(when the behavior of the workload requests and I/O service times can be approx 
+imated by simple distributions) or by simulation (when the behavior of I/O events
+is complex). Both topics are beyond the limits of this text.
+Designing an I/O system to meet a set of bandwidth constraints given a work 
+load is the other typical problem designers face. Alternatively, the designer may be
+given a partially configured I/O system and be asked to balance the system to main 
+tain the maximum bandwidth achievable as dictated by the preconfigured portion
+of the system. This latter design problem is a simplified version of the first.
+The general approach to designing such a system is as follows:
+I. Find the weakest link in the I/O system, which is the component in the I/O
+path that will constrain the design. Depending on the workload, this com 
+ponent can be anywhere, including the CPU, the memory system, the back 
+plane bus, the I/O controllers, or the devices. Both the workload and
+configuration limits may dictate where the weakest link is located.
+2. Configure this component to sustain the required bandwidth.
+3. Determine the requirements for the rest of the system and configure them
+to support this bandwidth.
+The easiest way to understand this methodology is with an example.
+I/O System Design
+Consider the following computer system:
+EXAMPLE
+• A CPU that sustains 3 billion instructions per second and averages
+100,000 instructions in the operating system per I/O operation
+• A memory backplane bus capable of sustaining a transfer rate of 1000
+MB/sec
+• SCSI Ultra320 controllers with a transfer rate of 320 MB/sec and accom 
+modating up to 7 disks
+• Disk drives with a read/write bandwidth of 75 MB/sec and an average
+seek plus rotational latency of 6 ms

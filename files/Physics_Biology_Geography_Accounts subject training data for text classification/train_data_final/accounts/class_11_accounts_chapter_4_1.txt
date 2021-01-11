@@ -1,0 +1,52 @@
+100 Accountancy
+
+4. 1 Cash Book
+
+Cash book is a book in which all transactions relating to cash receipts and cash
+payments are recorded. It starts with the cash or bank balances at the beginning
+of the period. Generally, it is made on monthly basis. This is a very popular
+book and is maintained by all organisations, big or small, profit or not-for-
+profit. It serves the purpose of both journal as well as the ledger (cash) account.
+It is also called the book of original entry. When a cashbook is maintained,
+transactions of cash are not recorded in the journal, and no separate account
+for cash or bank is required in the ledger.
+
+4.1.1 Single Column Cash Back
+
+The single column cash book records all cash transactions of the business in a
+chronological order, i.e., it is a complete record of cash receipts and cash
+payments. When all receipts and payments are made in cash by a business
+organisation only, the cash book contains only one amount column on each
+(debit and credit) side. The format of single column cash book is shown in
+figure 4.1.
+
+Cash Book
+
+Dr. Cr.
+? ?
+
+   
+
+Fig. 4.1 : Format of single column cash book
+
+Recording of entries in the single column cash book and its balancing is
+illustrated by an example. Consider the following transactions of M / s Roopa
+Traders observe how they are recorded in a single column cash book.
+
+Cash in hand
+Cash received from Gurmeet
+
+Insurance paid [Annual Instalment)
+Purchased furniture
+
+Sold goods for cash
+
+Purchased goods from Mudit in cash
+
+Purchase stationery
+
+Cash paid to Rukmani in full settlement of account
+
+ 
+
+2019-2020

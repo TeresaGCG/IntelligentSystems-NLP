@@ -1,0 +1,143 @@
+4 4
+
+PHYSICS
+
+ 
+
+calculation. Let us take At = 2 s centred at
+t = 4 s. Then, by the definition of the average
+velocity, the slope of line P1P2 ( Fig. 3.6) gives
+the value of average velocity over the interval
+3 s to 5 s. Now, we decrease the value of Atfrom
+2 s to 1 s. Then line P1P2 becomes @192 and its
+slope gives the value of the average velocity over
+the interval 3.5 s to 4.5 s. In the limit At —> 0,
+the line P1P2 becomes tangent to the position-
+time curve at the point P and the velocity at t =
+4 s is given by the slope of the tangent at that
+point. It is difficult to show this process
+graphically. But if we use numerical method
+to obtain the value of the velocity, the
+meaning of the limiting process becomes
+clear. For the graph shown in
+Fig. 3.6, X: 0.08 t3. Table 3.1 gives the value of
+Ax/At calculated for Atequal to 2.0 s, 1.0 s, 0.5
+s, 0.1 s and 0.01 s centred at t= 4.0 s. The
+second and third columns give the value of t1=
+
+Atl ' ( At\
+
+[t - 7) and t2 = ngJ and the fourth and
+
+the fifth columns give the corresponding values
+
+of x, i.e. x(tl) = 0.08 If and x(t2) = 0.08 I; The
+sixth column lists the difference Ax = x (t2) —
+(t1) and the last column gives the ratio of Ax and
+At, i.e. the average velocity corresponding to the
+value of At listed in the first column.
+
+We see from Table 3.1 that as we decrease
+the value ofAtfrom 2.0 s to 0.010 s, the value of
+the average velocity approaches the limiting
+value 3.84 m S'1 which is the value of velocity at
+
+dx
+
+t= 4.0 s, i.e. the value of E at 1:: 4.0 s. In this
+
+manner, we can calculate velocity at each
+
+Table 3.1 Limiting value ofA
+
+AM) At.)
+(Slo (m) (m)
+3.0
+
+2.16
+3.5 4.5 3.43
+
+        
+
+ 
+
+   
+
+3.75 4.25
+
+     
+
+4.21875
+
+3.95 4.05 4.93039
+
+   
+
+3.995 4.005
+
+   
+
+     
+
+2019-20
+
+5. 1 00824
+
+instant for motion of the car shown in Fig. 3.3.
+For this case, the variation of velocity with time
+is found to be as shown in Fig. 3.7.
+
+I 30
+25
+
+v(m/s)
+20
+
+15
+10
+
+5
+
+0
+
+o 2 4 6 8101214161820
+t(S)—’
+
+Fig. 3. 7 Velocity—time graph corresponding to motion
+shown in Fig. 3.3.
+
+The graphical method for the determination
+of the instantaneous velocity is always not a
+convenient method. For this, we must carefully
+plot the position—time graph and calculate the
+value of average velocity as At becomes smaller
+and smaller. It is easier to calculate the value
+of velocity at different instants if we have data
+of positions at different instants or exact
+expression for the position as a function of time.
+Then, we calculate Ax/ At from the data for
+decreasing the value of At and find the limiting
+value as we have done in Table 3.1 or use
+differential calculus for the given expression and
+
+dx
+
+calculate d—t at different instants as done in
+
+the following example.
+
+ 
+
+att= 45
+
+10.0 7. 84
+7.29 3.86
+
+6.14125 1.9225
+
+    
+  
+
+5.31441 0.38402
+
+5. 139224 0.0384

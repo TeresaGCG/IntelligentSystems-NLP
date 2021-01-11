@@ -1,0 +1,44 @@
+468 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Introduction
+From the earliest days of computing, programmers have wanted unlimited
+amounts of fast memory. The topics we will look at in this chapter aid program 
+mers by creating the illusion of unlimited fast memory. Before we look at how the
+illusion is actually created, let's consider a simple analogy that illustrates the key
+principles and mechanisms that we lise.
+Suppose you were a student writing a term paper on important historical
+developments in computer hardwa re. You are sitting at a desk in a library with a
+collection of books that you have pulled from the shelves and are examining. You
+find that several of the important computers that you need to write about are
+described in the books you have, but there is nothing about the EDSAC. There 
+fore, you go back to the shelves and look for an additional book. You find a book
+on early British computers that covers EDSAC. Once you have a good selection of
+books on the desk in front of you, there is a good probability that many of the top 
+ics you need can be found in them, and you may spend most of your time just
+using the books on the desk without going back to the shelves. Having several
+books on the desk in front of you saves time compared to having only one book
+there and constantly having to go back to the shelves to return it and take out
+another.
+The same principle allows us to create the illusion of a large memory that we
+can access as fast as a very small memory. Just as you did not need to access all the
+books in the library at once with equal probability, a program does not access all
+of its code or data at once with equal probability. Otherwise, it would be impossi 
+ble to make most memory accesses fast and still have large memory in computers,
+just as it would be impossible for you to fit all the library books on your desk and
+still find what you wanted quickly.
+This principle oflocality underlies both the way in which you did your work in
+the library and the way that programs operate. The principle of locality states that
+temporal locality The princi  programs access a relatively small portion of their address space at any instant of
+ple stating that ifa data location time, just as you accessed a very small portion of the library's collection. There are
+is referenced then it will tend to
+two different types of locality:
+be referenced again soon.
+• Temporal locality (locality in time): If an item is referenced, it will tend to
+be referenced again soon. If you recently brought a book to your desk to
+spatial locality The locality
+look at, you will probably need to look at it again soon.
+principle stating that if a data
+location is referenced, data loca 
+• Spatial locality (locality in space): If an item is referenced, items whose
+tions with nearby addresses will
+addresses are close by will tend to be referenced soon. For example, when
+tend to be referenced soon.

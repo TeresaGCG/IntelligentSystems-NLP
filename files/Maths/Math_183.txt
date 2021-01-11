@@ -1,0 +1,22 @@
+Algebra and Geometry
+183
+Example 2
+A line segment has an endpoint at (4, 2) and a midpoint at (1, −2).
+Find the location of the other endpoint.
+Solution: Now we are given one endpoint and the midpoint. We
+need to find the coordinates of the other endpoint. Let (x, y)
+represent the coordinates of the endpoint we are trying to find.
+From the formula for the midpoint we see that:
+We can solve the first equation for x and the second equation
+for y:
+So the other endpoint is located at (−2, −6)
+Lesson 10-2 Review
+Solve the following problems:
+1. Find the midpoint of the segment with endpoints located at (−3, 5)
+and(2, 6).
+2. If a line segment has an endpoint located at (−2, 4) and a midpoint
+located at (−4, 6), find the location of the other endpoint.
+Lesson 10-3: Perimeter
+Theperimeter of a geometric shape is the sum of all of the lengths of
+the sides of the shape. For example, a triangle has three sides, and the
+perimeter of a triangle is the sum of the lengths of the three sides.

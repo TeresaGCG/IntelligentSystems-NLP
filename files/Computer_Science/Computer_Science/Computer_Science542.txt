@@ -1,0 +1,35 @@
+526 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Virtual address
+TLB access
+TLB miss No
+exception
+Physical address
+No
+------I
+Try to read data
+r
+from cache
+No
+Write protection
+-------I
+Try to write data
+No Yes exception r to cache
+Cache miss stall
+while read block
+Deliver data
+to the CPU
+I-_No
+Cache miss stall _(
+while read block
+Write data into cache,
+update the dirty bit, and
+put the data and the
+address into the write buffer
+FIGURE 7.25 Processing a read or a write through In the Intrinslty FastMATH TLB and cache. If the TLB generates a hit, the cache
+can be accessed with the resulting physical address. For a read, the cache generates a hit or miss and supplies the data or causes a stall while the data is
+brought from memory. If the operation is a write, a portion of the cache entry is overwritten for a hit and the data is sent to the write buffer if we
+assume write-through.A WTite miss is jU'itlike a read miss except that the block is modified after it is read from memory.Write-back requires writes to
+set a dirtybit for the cache block, and a write buffer is loaded with the whole block only on a read miss or write miss if the block to be replaced is dirty.
+Notice that a TLB hit and a cache hit are independent events, but a cache hit can only occur after a TLB hit occurs., which means that the data must be
+present in memory. The relationship between TLB misses and cache misses is examined further in the following example and the exercises at the end
+of thischapter.

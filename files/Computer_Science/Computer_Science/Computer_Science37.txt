@@ -1,0 +1,34 @@
+1.3 Under the Covers 21
+Control
+Control
+110
+interface
+Instruction cache
+Data
+cache
+Enhanced
+floating point
+and multimedia Integer
+datapath
+Secondary
+cache
+00'
+memory
+interface
+Control
+Advanced pipelining
+Control
+hyperthreading support
+FIGURE 1.9 Inside the processor chip used on the board shown In Figure 1.8. The left-hand side is a microphotograph oflh.. Pentium
+4 processor chip, and the right-hand side shows the major blocks in the processor.
+You may have noticed:1 common theme in both the software and the hardware
+descriptions: delving into the depths of hardware or software reveals more infor 
+mation or, conversely, lower-level details are hidden to offer a simpler model at
+abstraction A model that ren 
+higher levels. The use of such layers, or abstractions, is a principal technique for
+ders lower-level details ofcom 
+designing very sophisticated computer systems.
+puter systems temporarily
+One of the most important abstractions is the interface between the hardware
+invisible in order to facilitate
+and the lowest-level software. Because of its importance, it is given a special design ofsophisticated systems.

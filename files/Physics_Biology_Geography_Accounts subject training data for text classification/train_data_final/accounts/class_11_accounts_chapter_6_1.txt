@@ -1,0 +1,48 @@
+Trial Balance and Rectification of Errors 181
+
+Trial Balance of ...... as on March 31, 2014
+
+Account Title . . Debit Credit
+
+Balance Balance
+? ?
+
+ 
+
+Fig. 6.1: Showing format of a trial balance
+
+It is normally prepared at the end of an accounting year. However, an
+organisation may prepare a trial balance at the end of any chosen period,
+which may be monthly, quarterly, half yearly or annually depending upon its
+requirements.
+
+In order to prepare a trial balance following steps are taken:
+0 Ascertain the balances of each account in the ledger.
+
+0 List each account and place its balance in the debit or credit column, as
+the case may be. (If an account has a zero balance, it may be included in
+the trial balance with zero in the column for its normal balance).
+
+0 Compute the total of debit balances column.
+
+0 Compute the total of the credit balances column.
+
+0 Verify that the sum of the debit balances equal the sum of credit balances.
+If they do not tally, it indicate that there are some errors. 80 one must check
+the correctness of the balances of all accounts. It may be noted that all
+assets expenses and receivables account shall have debit balances whereas
+
+all liabilities, revenues and payables accounts shall have credit balances
+(refer figure 6.2).
+
+6.2 Objectives of Preparing the Trial Balance
+
+The trial balance is prepared to fulfill the following objectives :
+
+1. To ascertain the arithmetical accuracy of the ledger accounts.
+2. To help in locating errors.
+
+3. To help in the preparation of the financial statements. (Profit & Loss account
+and Balance Sheet).
+
+2019-2020

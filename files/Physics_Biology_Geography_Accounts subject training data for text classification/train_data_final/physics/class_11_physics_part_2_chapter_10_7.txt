@@ -1,0 +1,111 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+257
+
+moves inside the master cylinder, and the
+pressure caused is transmitted through the
+brake oil to act on a piston of larger area. A large
+force acts on the piston and is pushed down
+expanding the brake shoes against brake lining.
+In this way, a small force on the pedal produces
+a large retarding force on the wheel. An
+important advantage of the system is that the
+pressure set up by pressing pedal is transmitted
+equally to all cylinders attached to the four
+wheels so that the braking effort is equal on
+all wheels.
+
+10.3 STREAMLINE FLOW
+
+So far we have studied ﬂuids at rest. The study
+of the ﬂuids in motion is known as ﬂuid
+dynamics. When a water tap is turned on slowly,
+the water ﬂow is smooth initially, but loses its
+smoothness when the speed of the outﬂow is
+increased. In studying the motion of ﬂuids, we
+focus our attention on what is happening to
+various ﬂuid particles at a particular point in
+space at a particular time. The ﬂow of the ﬂuid
+is said to be steady if at any given point, the
+velocity of each passing ﬂuid particle remains
+constant in time. This does not mean that the
+velocity at different points in space is same. The
+velocity of a particular particle may change as it
+moves from one point to another. That is, at some
+other point the particle may have a different
+velocity, but every other particle which passes
+the second point behaves exactly as the previous
+particle that has just passed that point. Each
+particle follows a smooth path, and the paths of
+the particles do not cross each other.
+
+Fig. 10.7 The meaning of streamlines. (a) A typical
+trajectory of a ﬂuid particle.
+(b) A region of streamline ﬂow.
+
+The path taken by a ﬂuid particle under a
+steady ﬂow is a streamline. It is defined as a
+curve whose tangent at any point is in the
+direction of the ﬂuid velocity at that point.
+Consider the path of a particle as shown in
+Fig.10.7 (a), the curve describes how a ﬂuid
+particle moves with time. The curve PQ is like a
+permanent map of ﬂuid ﬂow, indicating how the
+ﬂuid streams. No two streamlines can cross, for
+if they do, an oncoming ﬂuid particle can go
+either one way or the other and the ﬂow would
+not be steady. Hence, in steady ﬂow, the map of
+ﬂow is stationary in time. How do we draw closely
+spaced streamlines ? If we intend to show
+streamline of every ﬂowing particle, we would
+end up with a continuum of lines. Consider planes
+perpendicular to the direction of ﬂuid ﬂow e. g.,
+at three points P, R and Q in Fig. 10.7 (b). The
+plane pieces are so chosen that their boundaries
+be determined by the same set of streamlines.
+This means that number of ﬂuid particles
+crossing the surfaces as indicated at P, R and Q
+is the same. If area of cross- sections at these
+points are AP ,AR and AQ and speeds of ﬂuid
+particles are PP,v DR and v9, then mass of ﬂuid
+AmP crossing at AP Rin a small interval of time At
+is pPAPvP At. Similarly mass of ﬂuid AmR ﬂowing
+or crossing at AR in a small interval of time At is
+
+pPPARv At and mass of ﬂuid AmQ is pQAQvQ At
+crossing at A9. The mass of liquid ﬂowing out
+equals the mass ﬂowing in, holds in all cases.
+Therefore,
+
+pPAPvPAt— — pRARvR At— — pQAQvQAt (10.9)
+For ﬂow of incompressible ﬂuids
+
+Pp: PR: Pg
+
+Equation (10. 9) reduces to
+
+APvP =APvR = AgvQ (10.10)
+
+which is called the equation of continuity and
+it is a statement of conservation of mass in ﬂow
+of incompressible ﬂuids. In general
+
+Av = constant (10.1 1)
+
+Av gives the volume ﬂux or ﬂow rate and
+remains constant throughout the pipe of ﬂow.
+Thus, at narrower portions where the
+streamlines are closely spaced. velocity
+increases and its vice versa. From (Fig 10.7b) it
+is clear that AR > A9 or UR < v9, the ﬂuid is
+accelerated while passing from R to Q This is
+associated with a change in pressure in ﬂuid
+ﬂow in horizontal pipes.
+
+Steady ﬂow is achieved at low ﬂow speeds.
+Beyond a limiting value, called critical speed,
+this ﬂow loses steadiness and becomes
+
+turbulent. One sees this when a fast ﬂowing
+
+2019-20

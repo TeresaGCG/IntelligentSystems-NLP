@@ -1,0 +1,55 @@
+Electromagnetic
+Waves
+
+ 
+
+a consequence of the displacement current being a source of a magnetic
+field. Thus, time- dependent electric and magnetic ﬁelds give rise to each
+other! Faraday’s law of electromagnetic induction and Ampere-Maxwell
+law give a quantitative expression of this statement, with the current
+being the total current, as in Eq. (8.5). One very important consequence
+of this symmetry is the existence of electromagnetic waves, which we
+discuss qualitatively in the next section.
+
+MAXWELL’S EQUATIONS
+
+ 
+
+1. @EdA = Q /80 (Gauss’s Law for electricity)
+2. 513 B-dA = O (Gauss’s Law for magnetism)
+—d(15
+E.dl = B ’
+3. 515 d t (Faraday s Law)
+. chE
+4, g5 B-dl = #0 1C + #0 so? (Ampere — Maxwell Law)
+
+Example 8.1 A parallel plate capacitor with circular plates of radius
+1 m has a capacitance of l nF. At t = 0, it is connected for charging in
+series with a resistor R = 1 M9 across a 2V battery (Fig. 8.3). Calculate
+the magnetic field at a point P, halfway between the centre and the
+periphery of the plates, after t = 10‘3 s. (The charge on the capacitor
+at time t is q (t) = CV [l — exp (—t/r)], where the time constant T is
+equal to CR.)
+
+ 
+
+FIGURE 8.3
+
+Solution The time constant of the CR circuit is I = CR = 10‘3 s. Then,
+we have
+W) = CV [1 — exp (—t/r)1
+= 2 x 10_9 [1— exp (—t/1O‘3)]
+The electric field in between the plates at time t is
+
+W) q
+E=— = — . = 2 2 =
+80A 1580 ’ A W (1) 1'11 area of the plates.
+
+Consider now a circular loop of radius (1/2) m parallel to the plates
+passing through P. The magnetic field B at all points on the loop is
+
+2019-20
+
+I '9 mauvxg
+
+273

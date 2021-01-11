@@ -1,0 +1,38 @@
+3.5 Division 187
+Divisor
+32 bits
+-:;z-
+" " 32-b;' ALU
+• •
+Shift right
+Controi........
+Rom inder Shift left
+test /
+Write
+64 bits
+..
+FIGURE 3.13 An Improved version of the division hardware. The DJVlsor re81ster, ALU, and
+Quotient register are all 32 bits wide, with only the R£mainder register left at 64 bits. Compared to
+Figure 3.10, the ALU and Divisor registers are halved and the remainder is shifted left. This version also
+combines the Quotient register with the right half ofthe R£mainder register.
+Signed Division
+So far we have ignored signed numbers in division. The simplest solution is to
+remember the signs of the divisor and dividend and then negate the quotient if the
+signs disagree.
+Elaboration: The one complication of signed division is that we must also set the
+sign of the remainder. Remember that the following equation must always hold:
+Dividend = Quotient x Divisor + Remainder
+To understand how to set the sign of the remainder, lers look at the example of
+dividing all the combinations of ±7 by ±2 . The first case is easy:
+ten teo
++7 ~ +2: Quotient = +3, Remainder = +1
+Checking the results:
+7=3x2+(+1)=6+1
+If we change the sign of the dividend, the quotient must change as well:
+-7 ~ +2: Quotient =-3
+Rewriting our basic formula to calculate the remainder:
+Remainder = (Dividend - Quotient x Divisor) = - 7 - (- 3 x +2) = - 7- (- 6) = - 1
+So,
+-7 ~ +2: Quotient = -3, Remainder =-1
+Checking the results again:
+-7 = -3 x 2 + (-1) = -6 - 1

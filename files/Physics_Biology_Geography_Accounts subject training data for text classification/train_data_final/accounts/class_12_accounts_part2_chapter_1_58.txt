@@ -1,0 +1,64 @@
+Accounting for Share Capital 5 9
+
+Of the shares forfeited, 1,500 shares were re-issued to Devika for Rs. 12 per
+share as fully paid up, the whole of Lakshya’s share being included. Record
+journal entries in the books of the company.
+
+Solution:
+
+Books of Devam Limited
+Journal
+
+Debit Credit
+Amount Amount
+(RSJ (Rs.)
+
+Bank A/c Dr. 1 ,35,000
+To Equity Share Application A/c 1.35.000
+(Application money received on 45,000 shares)
+
+Equity Share Application A/c . 1,35,000
+To Equity Share Capital A/c 60,000
+
+To Securities Premium Reserve 30.000
+To Equity Share Allotment A/c 18,000
+To Bank A/c 27,000
+
+(Application money on 30,000 shares transferred
+
+to share capital A/c and securities premium reserve
+
+account, on 9,000 shares refunded and the excess
+amount adjusted to share allotment account)
+
+Equity Share Allotment A/c . 1.20.000
+To Equity Share Capital A/c
+To Securities Premium Reserve
+(Allotment amount due on 30,000 Shares
+@ Rs. 4 per share including premium)
+Bank A/c . 1,00,300
+To Equity Share AllotInent A/c 1.00.300
+
+(Allotment amount received after adjusting
+excess money received on application except
+
+shares of Sudhir)
+
+Equity Share Capital A/c
+Securities Premium Reserve A/c
+
+To Equity Share Allotnent A/c
+
+To Share Forfeiture A/c
+
+(Forfeiture of 500 shares of Sudhir)
+
+Equity Share First Call A/c . 1.18.000
+To Equity Share Capital A/c
+To Securities Premium Reserve
+
+[First Call amount due on 29,500 shares)
+
+Bank A/c Dr. 1.15.000
+To Equity Share First Call A/c
+(First call amount received on 28,750 shares) 1.15.000

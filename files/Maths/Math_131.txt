@@ -1,0 +1,25 @@
+Ratios, Proportions, and Percents
+131
+Lesson 7-3 Review
+Solve the following problems:
+1. Convert   into a percent.
+2. Find 30% of 2,520.
+3. 420 is 20% of what number?
+4. Find 225% of 20.
+Lesson 7-4: Percents and Equations
+One way to solve percent problems is to set up a proportion. You
+may have noticed that once you cross-multiply, you end up with a linear
+equation to solve. You can skip the proportion stage and jump right to
+the linear equation.
+If you start with the proportion:
+and cross-multiply, you have the linear equation:
+b × c = a × 100
+Remember that a is the part, b is the whole, and c is the percent. This
+equation translates to:
+The whole times the percent is equal to the part times 100
+If you divide both sides of the equation by 100 you can simplify the
+equation further:
+If you associate the 100 with the percent, you can convert the per-
+cent, c, to a decimal by moving the decimal point two places to the left.
+Remember that dividing a number by a positive power of 10 moves the
+decimal point to the left. You can also convert a decimal number to a

@@ -1,0 +1,37 @@
+4.4 Real Stuff: Two SPEC Benchmarks and the Performance of Recent Intel Processors 263
+Number Number Clock
+of disk Number of rate
+System Processor drives of CPUs networks (GHz) Result
+1550/ 1000 Pentium III 2 2 2 1 2765
+1650 Pentium III 3 2 1 1.4 1810
+2500 Pentium III 8 2 4 1.13 3435
+2550 Pentium III 1 2 1 1.26 1454
+2650 Pentium 4 Xeon 5 2 4 3.06 5698
+4600 Pentium 4 Xeon 10 2 4 2.2 4615
+6400/ 700 Pentium III Xeon 5 4 4 0 .7 4200
+6600 Pentium 4 Xeon MP 8 4 8 2 6700
+8450/ 700 Pentium III Xeon 7 8 8 0 .7 8001
+FtGURE 4.7 SPECweb9999 performance for a variety of Dell PowerEdge systems using
+the Xeon versions of the Pentium III and Pentium 4 microprocessors.
+To show how these characteristics produce a remarkably varied picture of Web
+server performance, we selected the SPECweb99 results for a series of Dell Power 
+Edge servers that use the Xeon versions of the Pentium III and Pentium 4 proces 
+sors. The Xeon processors are built using the basic structure of the Pentium 1lI or
+Pentium 4, but support multiprocessing. In addition the Xeon MP supports a third
+level of off-chip cache and can support more than two processors. The results for a
+variety of these Dell systems are shown in Figure 4.7.
+Looking at the data in Figure 4.7, we can see that clock rate of the processors is
+clearly not the most important factor in determining Web server performance. In
+fact, the 8400 has twice as many slow processors as the 6600 and yet offers better
+performance. We expect these systems to be configured to achieve the best perfor 
+mance. That is, for a given set of CPUs, disks and additional networks are added
+until the processor becomes the bottleneck.
+Performance, Power, and Energy Efficiency
+As mentioned in Chapter 1, power is increasingly becoming the key limitation
+in processor performance. In the embedded market, where many processors
+go into environments that rely solely on passive cooling or on battery power,
+power consumption is often a constraint that is as important as performance
+and cost.
+No doubt, many readers will have encountered power limitations when using
+their laptops. Indeed, between the challenges of removing excess heat and the lim 
+itations of battery life, power consumption has become a critical factor in the

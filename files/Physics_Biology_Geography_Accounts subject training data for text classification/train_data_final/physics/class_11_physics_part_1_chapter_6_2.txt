@@ -1,0 +1,135 @@
+116
+
+PHYSICS
+
+6.2 NOTIONS OF WORK AND KINETIC
+ENERGY: THE WORK-ENERGY THEOREM
+
+The following relation for rectilinear motion under
+constant acceleration a has been encountered
+in Chapter 3,
+
+v2 — u2 = 2 as (6.2)
+
+where u and v are the initial and final speeds
+and s the distance traversed. Multiplying both
+sides by m/ 2, we have
+
+1 2 1 2
+
+—mv ——mu =mas=Fs ,
+
+2 2 (6 2a)
+where the last step follows from Newton’s Second
+Law. We can generalise Eq. (6.2) to three
+
+dimensions by employing vectors
+
+v2— u2= 2 a.d
+
+Here a and d are acceleration and displacement
+
+vectors of the object respectively.
+
+Once again multiplying both sides by m/ 2 , we obtain
+1 2 l
+
+Emu Emu2 = m a.d = F.d (6,2b)
+
+The above equation provides a motivation for
+the definitions of work and kinetic energy. The
+left side of the equation is the difference in the
+quantity ‘half the mass times the square of the
+speed’ from its initial value to its final value. We
+call each of these quantities the ‘kinetic energy’,
+denoted by K. The right side is a product of the
+displacement and the component of the force
+along the displacement. This quantity is called
+‘work’ and is denoted by W. Eq. (6.2b) is then
+
+Kf— K: W (6.3)
+
+where K. and Kf are respectively the initial and
+final kinetic energies of the object. Work refers
+to the force and the displacement over which it
+acts. Work is done by a force on the body over
+a certain displacement.
+
+Equation (6.2) is also a special case of the
+work-energy (WE) theorem : The change in
+kinetic energy of a particle is equal to the
+work done on it by the net force. We shall
+generalise the above derivation to a varying force
+in a later section.
+
+ 
+
+b Example 6.2 It is well known that a
+raindrop falls under the inﬂuence of the
+downward gravitational force and the
+opposing resistive force. The latter is known
+
+2019-20
+
+to be proportional to the speed of the drop
+but is otherwise undetermined. Consider
+a drop of mass 1.00 g falling from a height
+1.00 km. It hits the ground with a speed of
+50.0 m s ’. (a) What is the work done by the
+gravitational force ? What is the work done
+by the unknown resistive force?
+
+ 
+
+Answer (a) The change in kinetic energy of the
+drop is
+
+AK=lmv2 —O
+2
+1 —3
+25x10 x50><50
+=1.25J
+
+where we have assumed that the drop is initially
+at rest.
+
+Assuming that g is a constant with a value
+10 m / s2, the work done by the gravitational force
+is,
+
+W = mgh
+9
+= 10'3 x10 ><103
+= 10.0 J
+
+(b) From the work-energy theorem
+AK : Wg + Wr
+where WT is the work done by the resistive force
+on the raindrop. Thus
+Wr = AK — W9
+= 1.25 — 10
+= — 8.75 J
+
+is negative. 4
+6.3 WORK
+
+As seen earlier, work is related to force and the
+displacement over which it acts. Consider a
+constant force F acting on an object of mass m.
+The object undergoes a displacement d in the
+positive x—direction as shown in Fig. 6.2.
+
+f’
+
+   
+ 
+     
+
+l
+
+| I
+I‘— d —~'.
+I I
+
+Fig. 6.2 An object undergoes a displacement d
+under the inﬂuence of the force F.

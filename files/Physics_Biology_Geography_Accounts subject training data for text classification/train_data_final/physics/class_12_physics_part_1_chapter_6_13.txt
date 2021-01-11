@@ -1,0 +1,24 @@
+Electromagnetic
+Induction
+When the induced emf is non-zero, the current I is (in magnitude)
+1 = E
+r
+(b)
+FIGURE 6. 12
+The force required to keep the arm P9 in constant motion is I lB. Its
+direction is to the left. In magnitude
+2 2
+F = B l v 0 S x < b
+r
+= O b S x < 2b
+The Joule heating loss is
+R, = I 2r
+B2121)2
+= 0 s < b
+r x M
+= O b S x < 2b g
+One obtains similar expressions for the inward motion from x = 2b to E
+x = 0. One can appreciate the Whole process by examining the sketch 9)
+of various quantities displayed in Fig. 6.12(b). m 217
+
+2019-20

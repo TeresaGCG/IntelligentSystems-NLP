@@ -1,0 +1,120 @@
+384
+
+PHYSICS
+
+(02. Since a) = 27W, the beat frequency v is
+given by
+
+vbem=v1—v2 (15.48)
+
+Fig. 1 5. 1 6 illustrates the phenomenon of
+
+beats for two harmonic waves of frequencies 1 1
+
+Hz and 9 Hz. The amplitude of the resultant wave
+
+shows beats at a frequency of 2 Hz.
+
+TLO
+y 0
+-1.0
+
+beat ’
+
+t(S)
+(a)
+
+t(S)
+
+ 
+
+Fig. 1 5. 1 6 Superposition of two harmonic waves, one
+of frequency 1 1 Hz (a), and the other of
+frequency 9H2 (b), giving rise to beats of
+frequency 2 Hz, as shown in (0).
+
+Example 15.6 Two sitar strings A and B
+playing the note ‘Dha’ are slightly out of
+tune and produce beats of frequency 5 Hz.
+The tension of the string B is slightly
+
+increased and the beat frequency is found
+to decrease to 3 Hz. What is the original
+frequency of B if the frequency of A is
+427 Hz ?
+
+ 
+
+Answer Increase in the tension of a string
+increases its frequency. If the original frequency
+of B (VB) were greater than that of A (VA), further
+increase in vB should have resulted in an
+increase in the beat frequency. But the beat
+frequency is found to decrease. This shows that
+vB < vA. Since vA— vB = 5 HZ, and VA = 427 Hz, we
+get VB = 422 HZ. 4
+
+15.8 DOPPLER EFFECT
+
+It is an everyday experience that the pitch (or
+frequency) of the whistle of a fast moving train
+
+2019-20
+
+Reﬂection of sound in an open
+pipe
+When a high
+pressure pulse of
+air travelling down
+an open pipe
+reaches the other
+end, its momentum
+drags the air out
+into the open, where
+
+7 pressure falls
+rapidly to the
+~' atmospheric
+
+pressure. As a
+result the air following after it in the tube is
+pushed out. The low pressure at the end of
+the tube draws air from further up the tube.
+The air gets drawn towards the open end
+forcing the low pressure region to move
+upwards. As a result a pulse of high pressure
+air travelling down the tube turns into a
+pulse of low pressure air travelling up the
+tube. We say a pressure wave has been
+reﬂected at the open end with a change in
+phase of 180°. Standing waves in an open
+pipe organ like the ﬂute is a result of this
+phenomenon.
+
+Compare this with what happens when
+a pulse of high pressure air arrives at a
+closed end: it collides and as a result pushes
+the air back in the opposite direction. Here.
+we say that the pressure wave is reﬂected.
+with no change in phase.
+
+ 
+
+decreases as it recedes away. When we
+approach a stationary source of sound with high
+speed, the pitch of the sound heard appears to
+be higher than that of the source. As the
+observer recedes away from the source, the
+observed pitch (or frequency) becomes lower
+than that of the source. This motion-related
+frequency change is called Doppler effect. The
+Austrian physicist Johann Christian Doppler
+first proposed the effect in 1842. Buys Ballot in
+Holland tested it experimentally in 1845.
+Doppler effect is a wave phenomenon, it holds
+not only for sound waves but also for
+electromagnetic waves. However, here we shall
+consider only sound waves.
+
+We shall analyse changes in frequency under
+three different situations: (1) observer is

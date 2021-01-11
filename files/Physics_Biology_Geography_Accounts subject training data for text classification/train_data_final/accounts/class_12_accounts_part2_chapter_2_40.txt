@@ -1,0 +1,51 @@
+1 1 2 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Debentureholders A/c . 1.00.000
+To Bank A/c 1.00.000
+(Payment made to debentureholders)
+
+1 2% Debentures A/c Dr. 1 ,00,000
+Premium on Redemption of Debentures A/c Dr. 5,000
+To Debentureholders A/c 1 ,05,000
+
+(Amount due on redemption of debentures)
+
+Debentureholders A/c . 1 ,05,000
+To Bank A/c 1 ,05,000
+(Payment made to debentureholders)
+
+ 
+
+As per the provisions of the Companies Act, 2013, the company must set
+aside a portion of proﬁts every year and transfer it to Debenture Redemption
+Reserve for redemption of debentures until the debentures are redeemed. The
+journal entry recorded for the purpose is as follows :
+
+(a) Where a company has issued debentures, it shall create a Debenture
+Redemption Reserve for the redemption of such debentures, to which
+adequate amount shall be credited, from out of its proﬁt every year
+until such debentures are redeemed.
+
+(b) The amount credited to the Debenture Redemption Reserve shall not
+be utilised by the company except for the purpose of redemption of
+debentures.
+
+According to Rule 18(7) of COMPANIES (SHARE CAPITAL AND
+DEBENTURES) RULES, 20 14, the company shall create a Debenture Redemption
+Reserve for the purpose of redemption of debentures, in accordance with the
+conditions given below:
+
+(a) The Debenture Redemption Reserve shall be create out of the proﬁts of
+the company available for payment of dividend;
+
+(b) The company shall create Debenture Redemption Reserve (DRR) in
+accordance with following conditions:
+
+i. No DRR is required for debentures issued by All India Financial
+Institutions (AIFIs) regulated by Reserve Bank of India and
+Banking Companies for both public as well as privately placed
+debentures.
+
+ii. For NBFCs registered with the RBI and for Housing Finance
+Companies registered with the National Housing Bank, DRR will
+be 25% of the value of outstanding debentures issued through

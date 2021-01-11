@@ -1,0 +1,45 @@
+Glossary G-15
+supercomputer A class of computers with system performance evaluation coopera 
+the highest performance and cost; they are tive (SPEC) benchmark A set of standard
+configured as servers and typically cost mil  CPU-intensive, integer and floating point
+lions of dollars. benchmarks based on real programs.
+superscalar An advanced pipelining tech  systems software Soft""are that provides
+nique that enables the processor to execute services that are commonly useful, includ 
+more than one instruction per clock cycle. ing operating systems, compilers, and as 
+swap space The space on the disk reserved semblers.
+for the full virtual memoryspace ofa process. tag A field in a table used for a memory hi 
+switched network A network of dedicated erarchy that contains the address informa 
+point-to-point links that are connected to tion required to identify whether the
+each other with a switch. associated block in the hierarchy corre 
+symbol table A table that matches names sponds to a requested word.
+oflabels to the addresses of the memory temporal locality The principle stating
+words that instructions occupy. that ifa data location is referenced then it
+symmetric multiprocessor (SMP) or will tend to be referenced again soon.
+uniform memory access (UMA) A multi  terabyte Originally 1,099,511 ,627,776 (240)
+processor in which accesses to main memo  bytes, although some communications and
+ry take the same amount of time no matter secondarystorage systems have redefined it to
+12
+which processor requests the access and no mean 1,000,000,000,000 (10 ) bytes.
+matter which word is asked. text segment The segm ent of a UNIX ob 
+synchronization The process of coordi  ject file that contains the machine language
+nating the behavior of two or more process  code for routines in the source file.
+es, which may be running on different three Cs model A cache model in which all
+processors. cache misses are classified into one of three
+synchronizer failure A situation in which a categories: compulsory misses, capacity
+flip-flop enters a metastable state and where misses, and conflict misses.
+some logic blocks reading the output of the tournament branch predictor A branch pre 
+flip-flop see a 0 while others see a 1. dictor with multiple predictions for each
+synchronous bus A bus that includes a clock branch and aselection mechanism thatchooses
+in the control lines and a fixed protocol for which predictor to enable for a given branch
+communicating that is relative to the clock. trace cadle An instruction cache that
+synchronous system A memory system holds a sequence ofinstructions with a given
+that employs clocks and where data signals starting address; in recent Pentium imple 
+are read only when the clock indicates that mentations the trace cache holds microoper 
+the signal values are stable. ations rather than lA-32 instructions.
+system call A special instruction that trans  track One of thousands of concentric cir 
+fers control from user mode to a dedicated cles that makes up the surface of a magnetic
+location in supervisor code space, invoking disk.
+the exception mechanism in the process. transaction processing A type of applica 
+system CPU time The CPU time spent in tion that involves handling small short op 
+the operating system performing tasks on erations (called transactions) that typically
+behalfof the program. require both I/O and computation. Trans-

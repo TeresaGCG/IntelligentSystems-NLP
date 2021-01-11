@@ -1,0 +1,39 @@
+1.5 Fallacies and Pitfalls 33
+A key factor in determining the cost of an integrated circuit is volume. \Vhich of Check
+the following are reasons why a chip made in high volume should cost less? Yourself
+1. With high volumes, the manufacturing process can be tuned to a particular
+design, increasing the yield.
+2. It is less work to design a high-volume part than a low-volume part.
+3. The masks used to make the chip are expensive, so the cost per chip is lower
+for higher volumes.
+4. Engineering development costs are high and largely independent of vol 
+ume; thus, the development cost per die is lower with high-volume parts.
+5. High-volume parts usually have smaller die sizes than low-volume parts
+and therefore have higher yield per wafer.
+Science must begin with
+myths, and the criticism of
+Fallacies and Pitfalls
+myths.
+Sir Karl Popper, The
+Philosophy ofScience, 1957
+The purpose of a section on fallacies and pitfalls, which will be found in every
+chapter, is to explain some commonly held misconceptions that you might
+encounter. We call such misbeliefs fallacies. When discussing a fallacy, we try to
+give a counterexample. We also discuss pitfalls, or easily made mistakes. Often pit 
+falls are generalizations of principles that are true in a limited context. The pur 
+pose of these sections is to help you avoid making these mistakes in the machines
+you may design or use.
+Fallacy: Computers have been built in the same, old-fashioned way for far too
+long, and this antiquated model ofcomputation is running Ollt ofsteam.
+For an antiquated model of computation, it surely is improving quickly.
+Figure 1.1 7 plots the top performance per year of workstations between 1987 and
+2003. (Chapter 4 explains the proper way to measure performance.) The graph
+shows a line indicating an improvement of 1.54 per year, or doubling performance
+approximately every 18 months. In contrast to the statement above, computers are
+improving in performance faster today than at any time in their history, with over
+a thousandfold improvement between 1987 and 2003!
+Pitfall: Ignoring the inexorable progress of hardware when planning a new
+machine.
+Suppose you plan to introduce a machine in three years, and you claim the
+machine will be a terrific seller because it's three times as fast as anything available
+today. Unfortunately, the machine will probably sell poorly because the average

@@ -1,0 +1,68 @@
+BIOTECHNOLOGY AND ITS APPLICATIONS
+
+Insulin used for diabetes was earlier extracted from
+pancreas of slaughtered cattle and pigs. Insulin from an
+animal source, though caused some patients to develop
+allergy or other types of reactions to the foreign
+protein. Insulin consists of two short polypeptide
+
+H
+
+humans, insulin is synthesised as a pro-hormone (like a
+
+‘ A peptide
+
+chains: chain A and chain B, that are linked together by A
+disulphide bridges (Figure 12.3). In mammals, including 5 R
+
+$ lnerlin
+
++ B peptide
+
+pro-enzyme, the pro-hormone also needs to be processed ~.- ,1-
+
+before it becomes a fully mature and functional hormone)
+which contains an extra stretch called the C peptide.
+
+Free C peptide
+
+This C peptide is not present in the mature insan and is Figure 12.3 Maturation of
+removed during maturation into insulin.The main pro-insulin into insulin
+challenge for production of insulin using rDNA techniques (Simp lified)
+
+was getting insulin assembled into a mature form. In
+
+1983, Eli Lilly an American company prepared two DNA sequences
+corresponding to A and B, chains of human insulin and introduced them
+in plasmids of E. coli to produce insulin chains. Chains A and B were
+produced separately, extracted and combined by creating disulﬁde bonds
+to form human insulin.
+
+12.2.2 Gene Therapy
+
+If a person is born with a hereditary disease, can a corrective therapy
+be taken for such a disease? Gene therapy is an attempt to do this.
+Gene therapy is a collection of methods that allows correction of a
+gene defect that has been diagnosed in a child/ embryo. Here genes
+are inserted into a person’s cells and tissues to treat a disease.
+Correction of a genetic defect involves delivery of a normal gene into
+the individual or embryo to take over the function of and compensate
+for the non-functional gene.
+
+The ﬁrst clinical gene therapy was given in 1990 to a 4-year old girl
+with adenosine deaminase (ADA) deﬁciency. This enzyme is crucial for
+the immune system to function. The disorder is caused due to the deletion
+of the gene for adenosine deaminase. In some children ADA deﬁciency
+can be cured by bone marrow transplantation; in others it can be treated
+by enzyme replacement therapy, in which functional ADA is given to the
+patient by injection. But the problem with both of these approaches that
+they are not completely curative. As a ﬁrst step towards gene therapy,
+lymphocytes from the blood of the patient are grown in a culture outside
+the body. A functional ADA cDNA (using a retroviral vector) is then
+introduced into these lymphocytes, which are subsequently returned to
+the patient. However, as these cells are not immortal, the patient requires
+periodic infusion of such genetically engineered lymphocytes. However, if
+the gene isolate from marrow cells producing ADA is introduced into cells
+at early embryonic stages, it could be a permanent cure.
+
+2019—2020

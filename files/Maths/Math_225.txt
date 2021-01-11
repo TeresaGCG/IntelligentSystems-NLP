@@ -1,0 +1,30 @@
+Applications
+225
+Lesson 12-4 Review
+Solve the following problems:
+1. Erich spends   of his weekly salary on food and   of his weekly
+salary on rent. If, after paying his rent and buying his food for the
+week he has $110 of his weekly paycheck left over, how much does
+Erich earn each week?
+2. The Port Orange Press pays its sales force a base salary plus
+commission. The base salary is $200 per week and 10% commission
+on all sales in excess of $1,000. What will an employee earn if his or
+her sales level is $2,500 for one week?
+Lesson 12-5: Spatial Problems
+Spatial problems combine concepts in geometry with algebraic
+problem-solving skills to answer questions. Being familiar with equa-
+tions to find the perimeter, circumference, and area of special shapes
+such as triangles, rectangles, squares, and circles will come in handy.
+Example 1
+One leg of an isosceles right triangle is 15 inches long. Find the
+perimeter of the triangle.
+Solution: In order to find the perimeter of the triangle we must
+find the lengths of all three sides. We already know the lengths of
+two of the three sides (the two legs), so we need to find the length
+of the hypotenuse. Let c represent the length of the hypotenuse.
+Then, as we discussed in Chapter 10,   inches.
+The perimeter of the triangle is  , or
+roughly 51.21 inches.
+Example 2
+The length of the hypotenuse of a 30° − 60° − 90° triangle is 6
+centimeters. Find the area of the triangle.

@@ -1,0 +1,51 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 443
+independent of the issue rate or pipeline structure of the processor. In some VLIW
+designs, this has not been the case, and recompilation was required when moving
+across different processor models; in other static issue processors, code would run
+correctly across different implementations, but often so poorly as to make compi 
+lation effectively required.
+Many superscalars extend the basic framework of dynamic issue decisions to
+include dynamic pipeline scheduling. Dynamic pipeline scheduling chooses dynamk pipeline
+5':heduling Hardware support
+which instructions to execute in a given clock cycle while trying to avoid hazards
+for reordering the order of
+and stalls. Let's start with a simple example of avoiding a data hazard. Consider
+instruction execution so as to
+the following code sequence:
+avoid stalls.
+lw Ito . 20($521
+addu Itl, ItO. 1t2
+sub $s4 , $s4 , $t3
+slti $tS , $s4, 20
+Even though the sub instruction is ready to execute, it must wa it for the lw and
+addu to complete first, which might take many clock cycles if memory is slow.
+(Chapter 7 explains caches, the reason that memory accesses are sometimes very
+slow.) Dynamic pipeline scheduling allows such hazards to be avoided either fully
+or partially.
+Dynamic Pipeline Scheduling
+Dynamic pipeline scheduling chooses which instructions to execute next, possibly
+reordering them to avoid stalls. In such processors, the pipeline is divided into
+three major units: an instruction fetch and issue unit, multiple functional units
+(10 or more in high-end designs in 2004), and a commit unit. Figure 6.49 shows
+commit unit The unit in a
+the model. The first unit fetches instructions, decodes them, and sends each
+dynamic or out-of-order
+instruction to a corresponding functional unit for execution. Each functional unit
+execution pipeline that decides
+has buffers, called reservation stations, that hold the operands and the operation. when it is safe to release the
+(In the next section, we will discuss an alternative to reservation stations used by result ofan operation to pro 
+many recent processors.) As soon as the buffer contains all its operands and the grammer-visible registers and
+memory.
+functional unit is ready to execute, the result is calculated. \-¥hen the result is com  
+pleted, it is sent to any reservation stations waiting for this particular result as well reservation station Abuffer
+as to the commit unit, which buffers the result until it is safe to put the result into within a functional unit that
+the register file or, for a store, into memory. The buffer in the commit unit, often holds the operands and the
+operation.
+called the reorder buffer, is also used to supply operands, in much the same way
+as forwarding logic does in a statically scheduled pipeline. Once a result is com   reorder buffer The buffer that
+mitted to the register file, it ca n be fetched directly from there, just as in a normal holds results in a dynamically
+pipeline. scheduled processor until it is
+safe to store the results to mem 
+The combination of buffering operands in the reservation stations and results
+ory or a register.
+in the reorder buffer provides a form of register renaming, just like that used by

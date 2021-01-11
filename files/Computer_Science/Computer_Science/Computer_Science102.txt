@@ -1,0 +1,43 @@
+86 Chapter 2 Instructions: Language of the Computer
+Allocating Space for New Data on the Stack
+The final complexity is that the stack is also used to store variables that are local to
+the procedure that do not fit in registers, such as local arrays or structures. The
+segment of the stack containing a procedure's saved registers and local variables is
+procedure frame Also called called a procedure frame or activation record. Figure 2. 16 shows the state of the
+<l1:tivation record.The segment stack before, during, and after the procedure call.
+ofthe stack containing a proce 
+Some MIPS software uses a frame pointer ($fp) to point to the first word of
+dure's saved registers and local
+the frame of a procedure. A stack pointer might change during the procedure, and
+variables.
+so references to a local variable in memory might have different offsets depending
+frame pointer A value denot  on where they are in the procedure, making the procedure harder to understand.
+ing the location ofthe saved reg 
+Alternatively, a frame pointer offers a stable base register within a procedure for
+isters and local variables for a
+local memory references. Note that an activation record appears on the stack
+given procedure.
+whether or not an explicit frame pointer is used. We've been avoiding $fp by
+avoiding changes to $s p within a procedure: in our examples, the stack is adjusted
+only on entry and exit of the procedure.
+High address
+lfP_ r-- - ----1 SfP_ !-- - - ----1
+'--- - - ----1 f---------1
+$sp_ ,-- Sfp- $sp-
+Saved argument
+registers (if any)
+Saved return address
+Saved saved
+registers (if any)
+Local arrays and
+structures (if any)
+$sp-
+Low address a. b. o.
+FIGURE 2.16 illustration of the stack allocation (a) before, (b) during, and (c) after the
+procedure call. The frame pointer ($f p) points to the first word of the frame, often a saved argument
+register, and the stack pointer ($s p) points to the top ofthe stack. The stack is adjusted to make room for all
+the saved registers and any memory-resident local variables. Since the stack pointer may change during pro 
+gram execution, it's easier for programmers to reference variables via the stable frame pointer, although it
+could be done just with the stack poimer and a little address arithmetic. If there are no local variables on the
+stack within a procedure, the compiler will &we time by /lot setting and restoring the frame pointer. When a
+frame poimer is used, it is initialized using the address in $s p on a call, and $s p is restored U'iing $f p.

@@ -1,0 +1,56 @@
+4
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+1 .3.1 Categories of Share Capital
+
+From accounting point of View the share capital of the company can be classified
+as follows:
+
+Authorised Capital: Authorised capital is the amount of share capital
+which a company is authorised to issue by its Memorandum of
+Association. The company cannot raise more than the amount of capital
+as speciﬁed in the Memorandum of Association. It is also called Nominal
+or Registered capital. The authorised capital can be increased or
+decreased as per the procedure laid down in the Companies Act. It should
+be noted that the company need not issue the entire authorised capital
+for public subscription at a time. Depending upon its requirement, it
+may issue share capital but in any case, it should not be more than the
+amount of authorised capital.
+
+Issued Capital: It is that part of the authorised capital which is actually
+issued to the public for subscription including the shares allotted to
+vendors and the signatories to the company's memorandum. The
+authorised capital which is not offered for public subscription is known
+as ‘unissued capital'. Unissued capital may be offered for public
+subscription at a later date.
+
+Subscribed Capital: It is that part of the issued capital which has been actually
+subscribed by the public. When the shares offered for public subscription
+are subscribed fully by the public the issued capital and subscribed capital
+would be the same. It may be noted that ultimately, the subscribed capital
+and issued capital are the same because if the number of share, subscribed
+is less than what is offered, the company allot only the number of shares for
+which subscription has been received. In case it is higher than what is offered,
+the allotment will be equal to the offer. In other words, the fact of over
+subscription is not reﬂected in the books.
+
+Called up Capital: It is that part of the subscribed capital which has
+been called up on the shares. The company may decide to call the entire
+amount or part of the face value of the shares. For example, if the face
+value (also called nominal value) of a share allotted is Rs. 10 and the
+company has called up only Rs. 7 per share, in that scenario, the called
+up capital is Rs. 7 per share. The remaining Rs. 3 may be collected from
+its shareholders as and when needed.
+
+Paid up Capital: It is that portion of the called up capital which has been
+actually received from the shareholders. When the shareholders have
+paid all the call amount, the called up capital is the same to the paid up
+capital. If any of the shareholders has not paid amount on calls, such an
+amount may be called as ‘calls in arrears'. Therefore, paid up capital is
+equal to the called-up capital minus call in arrears.
+
+Uncalled Capital: That portion of the subscribed capital which has not
+yet been called up. As stated earlier, the company may collect this amount
+
+any time when it needs further funds.

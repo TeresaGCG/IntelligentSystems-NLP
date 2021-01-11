@@ -1,0 +1,59 @@
+Current
+Electricity
+
+We also observe that since Vis the potential difference across R, we
+have from Ohm’s law
+
+ 
+
+V=I R (3.58)
+Combining Eqs. (3.57) and (3.58), we get
+I R = 8—1 r
+8
+Or, I: (3.59)
+R + r
+
+The maximum current that can be drawn from a cell is for R = O and
+it is [max = 8/ r. However, in most cells the maximum allowed current is
+much lower than this to prevent permanent damage to the cell.
+
+CHARGES m CLOUDS
+
+In olden days lightning was considered as an atmospheric ﬂash of supernatural origin.
+It was believed to be the great weapon of Gods. But today the phenomenon of lightning
+can be explained scientiﬁcally by elementary principles of physics.
+
+Atmospheric electricity arises due to the separation of electric charges. In the
+ionosphere and magnetosphere strong electric current is generated from the solar-
+terrestrial interaction. In the lower atmosphere, the current is weaker and is maintained
+by thunderstorm.
+
+There are ice particles in the clouds, which grow, collide, fracture and break apart.
+The smaller particles acquire positive charge and the larger ones negative charge. These
+charged particles get separated by updrifts in the clouds and gravity. The upper portion
+of the cloud becomes positively charged and the middle negatively charged, leading to
+dipole structure. Sometimes a very weak positive charge is found near the base of the
+cloud. The ground is positively charged at the time of thunderstorm development. Also,
+cosmic and radioactive radiations ionise air into positive and negative ions and the air
+becomes (weakly) electrically conductive. The separation of charges produce tremendous
+amount of electrical potential within the cloud, as well, as between the cloud and ground.
+This can amount to millions of volts and eventually the electrical resistance in the air
+breaks down and lightning ﬂash begins and thousands of amperes of current ﬂows. The
+electric field is of the order of 105 V/ m. A lightning ﬂash is composed of a series of
+strokes with an average of about four and the duration of each ﬂash is about 30 seconds.
+The average peak power per stroke is about 1012 watts.
+
+During fair weather also there is charge in the atmosphere. The fair weather electric
+field arises due to the em'stence of a surface charge density at ground and an atmospheric
+conductivity, as well as, due to the ﬂow of current from the ionosphere to the earth’s
+surface, which is of the order of picoampere / square metre. The surface charge density
+at ground is negative; the electric field is directed downward. Over land the average
+electric field is about 120 V/ m, which corresponds to a surface charge density of
+—1.2 X 10‘9 C / m2. Over the entire earth’s surface, the total negative charge amount to
+about 600 kC. An equal positive charge exists in the atmosphere. This electric field is not
+noticeable in daily life. The reason why it is not noticed is that virtually everything, including
+our bodies, is conductor compared to air. ‘
+
+111
+
+2019-20

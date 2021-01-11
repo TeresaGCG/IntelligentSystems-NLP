@@ -1,0 +1,66 @@
+the coil to be angle 0 (The previous case
+corresponds to 6 = 7c/ 2). Figure 4.22 illustrates
+this general case.
+
+The forces on the arms BC and DA are equal,
+opposite, and act along the axis of the coil, which
+connects the centres of mass of BC and DA. Being
+collinear along the axis they cancel each other,
+resulting in no net force or torque. The forces on
+arms AB and CD are F1 and F2. They too are equal
+and opposite, with magnitude,
+
+F1 = F2 = I b B
+
+But they are not collinear! This results in a
+couple as before. The torque is, however, less than
+the earlier case when plane of loop was along the
+magnetic field. This is because the perpendicular
+distance between the forces of the couple has
+decreased. Figure 4.22(b) is a view of the
+arrangement from the AD end and it illustrates
+
+these two forces constituting a couple. The
+magnitude of the torque on the loop is,
+
+a . a .
+T= Fl—s1n6+F2—sm6
+
+FIGURE 4.22 (a) The area vector of the loop 2 2
+ABCD makes an arbitrary angle 9 with = IabB sin 0
+the magnetic field. (b) Top View of = IAB sin 0 (4.27)
+the loop. The forces F1 and F2 acting . ~
+on the arms AB and CD As 0 9 O, the perpendicular distance between
+are indicated. the forces of the couple also approaches zero. This
+
+158
+
+makes the forces collinear and the net force and
+
+torque zero. The torques in Eqs. (4.26) and (4.27)
+can be expressed as vector product of the magnetic moment of the coil
+and the magnetic field. We define the magnetic moment of the current
+loop as,
+
+m = IA (4.28)
+where the direction of the area vectorA is given by the right-hand thumb
+rule and is directed into the plane of the paper in Fig. 4.2 1. Then as the
+angle between m and B is 0 , Eqs. (4.26) and (4.27) can be expressed by
+one expression
+
+”C = mxB (4.29)
+
+This is analogous to the electrostatic case (Electric dipole of dipole
+moment pe in an electric field E).
+
+1:=pexE
+
+As is clear from Eq. (4.28), the dimensions of the magnetic moment are
+[A] [L2] and its unit is Am2.
+
+From Eq. (4.29), we see that the torque 1: vanishes when m is either
+parallel or antiparallel to the magnetic field B. This indicates a state of
+equilibrium as there is no torque on the coil (this also applies to any
+object with a magnetic moment :11). When m and B are parallel the
+
+2019-20

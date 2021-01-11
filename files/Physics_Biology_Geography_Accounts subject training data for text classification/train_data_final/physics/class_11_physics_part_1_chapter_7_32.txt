@@ -1,0 +1,92 @@
+SYSTEMS OI’ PARTICLES AND ROTA'I‘IONAL MOTION
+
+I73
+
+If the moment of inertia I does not change with
+time,
+
+d da)
+
+—(Ia))=I—=Ia
+dt dt
+and we get from Eq. (7 .45c),
+2' = Ia (7.43)
+
+We have already derived this equation using
+the work - kinetic energy route.
+
+7.13. 1 Conservation of angular momentum
+
+We are now in a position to revisit the principle
+of conservation of angular momentum in the
+context of rotation about a fixed axis. From Eq.
+(7 .45c), if the external torque is zero,
+
+LZ = Ia) = constant (7 .46)
+
+For symmetric bodies, from Eq. (7 .44d), Lz
+may be replaced by L .(L and LZ are respectively
+the magnitudes of L and L2.)
+
+This then is the required form, for fixed axis
+rotation, of Eq. (7 .29a), which expresses the
+general law of conservation of angular
+momentum of a system of particles. Eq. (7 .46)
+applies to many situations that we come across
+in daily life. You may do this experiment with
+your friend. Sit on a swivel chair (a chair with a
+seat, free to rotate about a pivot) with your arms
+folded and feet not resting on, i.e., away from,
+the ground. Ask your friend to rotate the chair
+rapidly. While the chair is rotating with
+
+ 
+
+Fig 7.36 (a) A demonstration of conservation of
+angular momentum A girl sits on a
+swivel chair and stretches her arms/
+brings her arms closer to the body.
+
+considerable angular speed stretch your arms
+horizontally. What happens? Your angular
+speed is reduced. If you bring back your arms
+closer to your body, the angular speed increases
+again. This is a situation where the principle of
+conservation of angular momentum is
+applicable. If friction in the rotational
+mechanism is neglected, there is no external
+torque about the axis of rotation of the chair
+and hence Ice is constant. Stretching the arms
+increases I about the axis of rotation, resulting
+in decreasing the angular speed a). Bringing
+the arms closer to the body has the opposite
+effect.
+
+A circus acrobat and a diver take advantage
+of this principle. Also, skaters and classical,
+Indian or western, dancers performing a
+pirouette (a spinning about a tip—top) on the toes
+of one foot display ‘mastery’ over this principle.
+Can you explain?
+
+7. 14 ROLLING MOTION
+
+One of the most common motions observed in
+daily life is the rolling motion. All wheels used
+in transportation have rolling motion. For
+specificness we shall begin with the case of a
+disc, but the result will apply to any rolling body
+rolling on a level surface. We shall assume that
+the disc rolls without slipping. This means that
+at any instant of time the bottom of the disc
+
+ 
+
+ 
+
+\3‘
+Fig 7.36 (b) An acrobat employing the principle of
+conservation of angular momentum in
+her performance.
+
+2019-20

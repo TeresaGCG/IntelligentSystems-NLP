@@ -1,0 +1,77 @@
+Electromagnetic
+Induction
+where n21 is the total number of turns of S2. From Eq. (6.12),
+M21 = ,uon1n2nrfl (6.13)
+Using Eq. (6.1 1) and Eq. (6.12), we get
+M12: M21: M (say) (6.14)
+
+We have demonstrated this equality for long co-axial solenoids.
+However, the relation is far more general. Note that if the inner solenoid
+was much shorter than (and placed well inside) the outer solenoid, then
+we could still have calculated the ﬂux linkage N1<I>1 because the inner
+solenoid is effectively immersed in a uniform magnetic field due to the
+outer solenoid. In this case, the calculation of M12 would be easy. However,
+it would be extremely difficult to calculate the ﬂux linkage with the outer
+solenoid as the magnetic ﬁeld due to the inner solenoid would vary across
+the length as well as cross section of the outer solenoid. Therefore, the
+calculation of M21 would also be extremely difficult in this case. The
+equality M12=M21 is very useful in such situations.
+
+We explained the above example with air as the medium within the
+solenoids. Instead, if a medium of relative permeability yr had been present,
+the mutual inductance would be
+
+M=Mo nlngn Til
+
+It is also important to know that the mutual inductance of a pair of
+coils, solenoids, etc., depends on their separation as well as their relative
+orientation.
+
+Example 6.9 Two concentric circular coils, one of small radius r1 and
+the other of large radius r , such that r1 << r2, are placed co-axially
+with centres coinciding. Obtain the mutual inductance of the
+arrangement.
+
+Solution Let a current I2 ﬂow through the outer circular coil. The
+field at the centre of the coil is 82 = ,uOI2 / 2r2. Since the other
+co-axially placed coil has a very small radius, 82 may be considered
+constant over its cross-sectional area. Hence,
+
+451 = 1tr?B2
+
+2
+#07571
+2r2
+
+= M12 12
+Thus,
+
+ 
+
+I2
+
+2
+ﬂoml
+M12 =
+2r2
+
+From Eq. (6. 14)
+
+ 
+
+2
+:uoﬂ'ri
+M2 = M2 =
+1 1 2r2
+
+Note that we calculated M12 from an approximate value of 9151, assuming
+the magnetic field 32 to be uniform over the area 7: r12. However, we
+can accept this value because r1 << r2.
+
+ 
+
+6'9 EI’IJWVXH
+
+221
+
+2019-20

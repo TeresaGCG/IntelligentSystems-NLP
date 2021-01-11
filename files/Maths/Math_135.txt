@@ -1,0 +1,24 @@
+Ratios, Proportions, and Percents
+135
+You don’t usually talk about a negative percent decrease. That is
+similar to using two negatives in a sentence. Technically, two negatives
+make a positive, but sometimes two negatives is just confusing. So choose
+your terminology appropriately: Either the percent decrease is a positive
+20% (with the word decrease indicating the direction of the change) or
+the percent change is –20%.
+Example 3
+The population of Mishicot, Wisconsin, has grown from 2,000 to
+2,200. Find the percent change and the percent increase in the
+population.
+Solution: The first step in finding the percent increase is to find
+the percent change. The percent change is found by first evaluating
+the ratio 
+Next, find the decimal equivalent of   and then convert it to a
+percent by moving the decimal point two places to the right:
+The percent change in the population is 10%, and the percent
+increase in the population is 10%.
+Example 4
+The weight of the space shuttle before launch is 2,041,166 kilograms.
+At the end of the mission, the space shuttle weighs 104,326
+kilograms. Find the percent change and the percent decrease of
+the weight of the space shuttle.

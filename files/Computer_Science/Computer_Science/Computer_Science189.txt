@@ -1,0 +1,43 @@
+3.3 Addition and Subtraction 173
+The computer designer must decide how to handle arithmetic overflows. Hardware
+Although some languages like C ignore integer overflow, languages like Ada and
+Software
+Fortran require that the program be notified. The programmer or the program 
+Interface
+ming environment must then decide what to do when overflow occurs.
+MIPS detects overflow with an exception, also called an interrupt on many
+exception Also called inter 
+computers. An exception or interrupt is essentially an unscheduled procedure call.
+rupt. An unscheduled event that
+The address of the instruction that overflowed is saved in a register, and the com  
+disrupts program execution;
+puter jumps to a predefined address to invoke the appropriate routine for that lIsed to detect overflow.
+exception. The interrupted address is saved so that in some situations the program
+interrupt An exception that
+can continue after corrective code is executed. (Section 5.6 covers exceptions in
+comes from outside ofthe pro 
+more detail; Chapters 7 and 8 describe other situations where exceptions and
+cessor. (Some architectures use
+interrupts occur.) the term interrupt for all excep 
+MIPS includes a register called the exception program counter (EPC) to contain the tions.)
+address of the instruction that caused the exception. The instruction move from
+system control (mfcO) is used to copy EPC into a general-purpose register so that
+MIPS software has the option of returning to the offending instruction via a jump
+register instruction.
+Elaboration: MIPS can trap on overflow, but unlike many other computers there is no
+conditional branch to test overflow. A sequence of MIPS instructions can discover over·
+flow. For signed addition, the sequence is the following (see the In More Depth segment
+xo
+on logical instruction in Chapter 2 for the definition of the r instructions):
+addu $tO, $tl , $t2 # $tO sum , but don 't trap
+=
+xor $t3, $ti, $t2 It Check if signs differ
+slt $t3, $t3 , $zero # $t3 1 if signs differ
+bne $t3, $zero , No_overflow # $tl , $t2 signs *,
+so no overflow
+xor $t3, $tO , It! II signs =; sign of sum match too?
+II $t3 negative if sum sign different
+slt $t3, $t3 , $zero # $t3 1 if sum sign different
+=
+bne $t3, $zero , Overflow # All three signs * ; go to
+overfl ow

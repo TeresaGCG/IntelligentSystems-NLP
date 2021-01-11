@@ -1,0 +1,41 @@
+5.6 Exceptions 343
+the MIPS architecnlfe, this address is 8000 0180 . (The SPIM simulator for
+hex
+MIPS uses 8000 0080 hex.) Currently, the PC is fed from the output of a three-way
+multiplexor, which is controlled by the signal PCSource (see Figure 5.28 on page
+323). We can change this to a four-way multiplexor, with additional input wired to
+the constant value 8000 0 18~ex. Then PCSource can be set to 11 to select this
+m>
+1
+value to be written into the Pc.
+Because the PC is incremented during the first cycle of every instruction, we
+cannot just write the value of the PC into the EPC, since the value in the PC will
+be the instruction address plus 4. However, we can use the ALU to subtract 4 from
+the PC and write the output into the EPC. This requires no additional control sig 
+nals or paths, since we can use the ALU to subtract, and the constant 4 is already a
+selectable ALU input. The data write port of the EPC, therefore, is connected to
+the ALU output. Figure 5.39 shows the multicycle datapath with these additions
+needed for implementing exceptions.
+Using the datapath of Figure 5.39, the action to be taken for each different type
+of exception can be handled in one state apiece. In each case, the state sets the
+Cause register, computes and saves the original PC into the EPC, and writes the
+exception address into the Pc. Thus, to handle the two exception types we are
+considering, we will need to add only the two states, but before we add them we
+must determine how to check for exceptions, since these checks will control the
+arcs to the new states.
+How Control Checks for Exceptions
+Now we have to design a method to detect these exceptions and to transfer control
+to the appropriate state in the exception states. Figure 5.40 shows the two new
+states (10 and 11 ) as well as their connection to the rest of the finite state control.
+Each of the two possible exceptions is detected differently:
+• Undefined instrtlction: This is detected when no next state is defined from
+state 1 for the op value. We handle this exception by defining the next-state
+value for all op values other than 1 0 (R-type), j, and beq as state 10.
+W, SW,
+We show this by symbolically using other to indicate that the op field does
+not match any of the opcodes that label arcs out of state 1 to the new state
+10, which is used for this exception.
+• Arithmetic overflow: The ALU, designed in . Appendix B, included logic to
+detect overflow, and a signal called Overflow is provided as an output from the
+ALU. This signal is used in the modified finite state machine to specify an
+additional possible next state (state 11 ) for state 7, as shown in Figure 5.40.

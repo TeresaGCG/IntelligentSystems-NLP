@@ -1,0 +1,44 @@
+CH2 Glossary
+terms ofthe product terms. Hence, PLAs im  receive m essage routine A routine used
+plement logic functionsas a sum ofproducts. by a processor in machines with private
+programmable logic device (PLO) An in  memories to accept a message from anoth 
+tegrated circuit containing combinational er processor.
+logic whose function is configured by the recursive procedures Procedures that call
+end user. themselves either directly or indirectly
+programmable ROM (PROM) A form of through a chain of calls.
+read-only memory that can beprogrammed redundant arrays of inexpensive disks
+when a designer knows its contents. (RAID) An organization of disks that uses
+propagation time The time required for an an array of small and inexpensive disks so as
+input to a flip-flop to propagate to the out  to increase both perfonnance and reliability.
+puts of the flip-flop. reference bit Also called use bit. A field
+protected A Java keyword that restricts in  that is set whenever a page is accessed and
+vocation of a method to other methods in that is used to implement LRU or other re 
+that package. placement schemes.
+protection A set of mechanisms for ensur  reg In Verilog, a register.
+ing that multiple processes sharing the pro  register file A state element that consists ofa
+cessor, memory, or I/O devices cannot set ofregisters that can be read and written by
+interfere, intentionally or unintentionally, supplying a register number to be accessed.
+with one another by reading or writing each register renaming The renaming of regis 
+other's data. These mechanisms also isolate ters, by the compiler or hardware, to re 
+the operating system from a user process. move antidependences.
+protection group The group of data disks register-use convention Also called proce 
+or blocks that share a common check disk dure call convention. A software protocol
+or block. goveming the use of registers by procedures.
+pseudoinstruction Acommonvariation of relocation information The segment of a
+assembly language instmctions often treat  UNIX object file that identifies instmc 
+ed as if it were an instmction in its own tions and data words that depend on abso 
+right. lute addresses.
+publk A Java keyword that allows a meth  remainder The secondary result of a divi 
+od to be invoked by any other method. sion; a number that when added to the
+quotient The primary result ofa division; a product ofthe quotient and the divisor pro 
+number that when multiplied by the divisor duces the dividend.
+and added to the remainder produces the reorder buffer Thebuffer that holdsresults
+dividend. in a dynamically scheduled processor until
+read-only memory (ROM) A memory it is safe to store the results to memory or a
+whose contents are designated at creation register.
+time, after which the contents can only be reservation station A buffer within a func 
+read. ROM is used as stmctured logic to im  tional unit that holds the operands and the
+plement a set oflogic functions by using the operation.
+terms in the logic functions as address in  response time Also called execution time.
+puts and the outputs as bits in each word of The total time required for the computer to
+the memory. complete a task, including disk accesses,

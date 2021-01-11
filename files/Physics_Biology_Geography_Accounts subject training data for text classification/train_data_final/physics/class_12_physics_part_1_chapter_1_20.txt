@@ -1,0 +1,69 @@
+Electric Charges
+and Fields
+
+ 
+
+arise instantaneously. There will be some time delay between the effect
+(force on q2) and the cause (motion of ‘11)- It is precisely here that the
+notion of electric ﬁeld (strictly, electromagnetic ﬁeld) is natural and very
+useful. The ﬁeld picture is this: the accelerated motion of charge q1
+produces electromagnetic waves, which then propagate with the speed
+c, reach q2 and cause a force on q2. The notion of ﬁeld elegantly accounts
+for the time delay. Thus, even though electric and magnetic fields can be
+detected only by their effects (forces) on charges, they are regarded as
+physical entities, not merely mathematical constructs. They have an
+independent dynamics of their own, i.e., they evolve according to laws
+of their own. They can also transport energy. Thus, a source of time-
+dependent electromagnetic fields, turned on for a short interval of time
+and then switched off, leaves behind propagating electromagnetic fields
+transporting energy. The concept of field was first introduced by Faraday
+and is now among the central concepts in physics.
+
+Example 1.8 An electron falls through a distance of 1.5 cm in a
+uniform electric field of magnitude 2.0 X 104 N C“1 [Fig l.13(a)]. The
+direction of the field is reversed keeping its magnitude unchanged
+and a proton falls through the same distance [Fig 1.13(b)]. Compute
+the time of fall in each case. Contrast the situation with that of ‘free
+fall under gravity’.
+
+mm
+
+(a) (b)
+FIGURE 1.13
+
+Solution In Fig. l.13(a) the field is upward, so the negatively charged
+electron experiences a downward force of magnitude eE where E is
+the magnitude of the electric field. The acceleration of the electron is
+
+ae = eE/me
+
+where me is the mass of the electron.
+
+Starting from rest, the time required by the electron to fall through a
+
+2h 2hme
+distance h is given by t,a = a = eE
+
+Fme=L6XKW%Jm=9Jle$Wg
+E=20xuﬁNcﬂh=15xlaﬁm
+
+g=29xia%
+
+In Fig. 1.13 (b), the field is downward, and the positively charged
+proton experiences a downward force of magnitude eE. The
+acceleration of the proton is
+
+ 
+
+ 
+
+ap = eE/mp
+
+where m is the mass of the proton; mp = 1.67 X 10“27 kg. The time of
+fall for the proton is
+
+8'1 31:1qu
+
+2019-20
+
+21

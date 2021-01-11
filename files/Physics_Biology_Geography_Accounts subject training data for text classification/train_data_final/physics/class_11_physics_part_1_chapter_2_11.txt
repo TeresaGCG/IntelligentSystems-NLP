@@ -1,0 +1,150 @@
+UNITS AND MEASUREMENT
+
+27
+
+ 
+
+Example 2.9 The resistance R = V/ I where
+V= (100 i SW and 1= (10 i 0.2)A. Find the
+
+percentage error in R.
+
+ 
+
+Answer The percentage error in Vis 5% and in
+I it is 2%. The total error in R would therefore
+be 5% + 2% = 7%. 4
+
+Example 2.1 0 Two resistors of resistances
+R1: 100 $3 ohm and R2 = 200 i 4 ohm are
+connected (a) in series. (b) in parallel. Find
+the equivalent resistance of the (a) series
+
+combination. (b) parallel combination. Use
+for (a) the relation R =R] + R2. and for (b)
+
+1 1 1 ’
+‘F—Jr—and AR2 =AR21+AR22
+R R. R2 R' R1 R2
+
+ 
+
+Answer (a) The equivalent resistance of series
+combination
+
+R =R1+ R2: (100 i 3) ohm + (200 i 4) ohm
+
+= 300: 7ohm.
+
+(b) The equivalent resistance of parallel
+combination
+
+R,= R1R2 = 200
+R1 + R2 3 = 66.7 Ohm
+
+ 
+
+ 
+
+Th 1 2i + L
+en, from R’ R1 R2
+we get,
+
+AR’ 2 AR1 + AR2
+
+ 
+
+ 
+
+ 
+
+R’2 R12 R22
+
+ 
+
+ 
+
+, AR , AR
+AR =(RQ)RI;+<R2) R;
+
+2 2
+2(667] 3 + [66.7] 4
+100 200
+
+= 1.8
+
+Then, R’= 66.7i1.8 ohm
+
+(Here, AR is expresed as 1.8 instead of 2 to
+keep in confirmity with the rules of significant
+figures.) 4
+
+(c) Error in case of a measured quantity
+raised to a power
+
+Suppose Z =A2,
+
+Then,
+
+AZ/Z= (AA/A) + (AA/A) = 2 (AA/A).
+Hence, the relative error in A2 is two times the
+error in A.
+
+In general, if Z = AP Bq/C’
+Then,
+AZ/Z= p (AA/A) + q (AB/B) + r (AC/C).
+
+Hence the rule : The relative error in a
+physical quantity raised to the power k is the
+k times the relative error in the individual
+quantity.
+
+ 
+
+Answer The relative error in Z is AZ/Z =
+4(AA/A) +(1/3) (AB/B) + (AC/C) + (3/2) (AD/D).
+4
+
+Example 2.1 2 The period of oscillation of
+
+a simple pendulum is T=27c,/L/g.
+Measured value of Lie 20.0 cm known to 1
+
+mm accuracy and time for 100 oscillations
+of the pendulum is found to be 90 s using
+a wrist watch of 1 5 resolution. What is the
+
+ 
+
+accuracy in the determination of g ?
+
+Answer 9 = 47:2L/T2
+
+t At AT At
+
+Here, T= — and AT=— . Therefore, —=—.
+n n T t
+
+The errors in both L and t are the least count
+errors. Therefore,
+(Ag/g) = (AL/ L) + 2(AT/ T)
+
+= &+Z(i)=0.027
+20.0 90
+
+Thus, the percentage error in g is
+100 (Ag/g) = 100(AL/L) + 2 x 100 (AT/T)
+= 3% 4
+
+2.7 SIGNIFICANT FIGURES
+
+As discussed above, every measurement
+involves errors. Thus, the result of
+measurement should be reported in a way that
+indicates the precision of measurement.
+Normally, the reported result of measurement
+is a number that includes all digits in the
+number that are known reliably plus the first
+digit that is uncertain. The reliable digits plus
+
+2019-20

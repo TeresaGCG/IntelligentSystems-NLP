@@ -1,0 +1,41 @@
+7.2 The Basics of Caches 485
+In a write-back cache, because we cannot overwrite the block, stores either require
+two cycles (a cycle to check for a hit follo'Ned by a cycle to actually perform the write) or
+require an extra buffer, called a store buffer, to hold that data-effectively allowing the
+store to take only one cycle by pipelining it. When a store buffer is used, the processor
+does the cache lookup and places the data in the store buffer during the normal cache
+access cycle. Assuming a cache hit, the new data is written from the store buffer into
+the cache on the next unused cache access cycle.
+By comparison, in a write-through cache, writes can always be done in one cycle.
+There are some extra complications with multiword blocks, however, since we cannot
+simply overwrite the tag when we write the data. Instead, we read the tag and write the
+data portion of the selected block. If the tag matches the address of the block being
+written, the processor can continue normally, since the correct block has been updated.
+If the tag does not match, the processor generates a write miss to fetch the rest of the
+block corresponding to that address. Because it is always safe to overwrite the data,
+write hits still take one cycle.
+Many write-back caches also include write buffers that are used to reduce the miss
+penalty when a miss replaces a dirty block. In such a case, the dirty block is moved to
+a write-back buffer associated with the cache while the requested block is read from
+memory. The write-back buffer is later written back to memory. Assuming another miss
+does not occur immediately, this technique halves the miss penalty when a dirty block
+must be replaced.
+An Example Cache: The Intrinsity FastMATH processor
+The Intrinsity FastMATH is a fast embedded microprocessor that uses the MIPS
+architecture and a simple cache implementation. Near the end of the chapter, we
+will examine the more complex cache design of the Intel Pentium 4, but we start
+with this simple, yet real, example for pedagogical reasons. Figure 7.9 shows the
+orga nization of the Intrinsity FastMATH data cache.
+This processor has 12-stage pipeline, similar to that discussed in Chapter 6.
+When operating at peak speed, the processor can request both an instruction
+word and a data word on every clock. To satisfy the demands of the pipeline with 
+out stalling, separate instruction and data caches are used. Each cache is 16 KB, or
+4K words, with 16-word blocks.
+Read requests for the cache are straightforward. Because there are separate data
+and instruction caches, separate control signals will be needed to read and write
+each cache. (Remember that we need to update the instruction cache when a miss
+occurs.) Thus, the steps for a read request to either cache are as follows:
+I. Send the address to the appropriate cache. The address comes either from
+the PC (for an instruction) or from the ALU (for data).
+2. If the cache signals hit, the requested word is available on the data lines.
+Since there are 16 words in the desired block, we need to select the right

@@ -1,0 +1,29 @@
+252 Chapter 4 Assessing and Understanding Performance
+Comparing Code Segments
+EXAMPLE A compiler designer is trying to decide between two code sequences for a par 
+ticular computer. The hardware designers have supplied the following facts:
+CPI for this Instruction class
+ePi 1 2 3
+For a particular high-level-language statement, the compiler writer is consid 
+ering two code sequences that require the following instmction counts:
+Instruction counts for Instruction class
+Code sequence
+1 2 1 2
+2 4 1 1
+Which code sequence executes the most instructions? Which will be fa ster?
+What is the CPI for each sequence?
++ +
+ANSWER Sequence 1 executes 2 1 2 = 5 instructions. Sequence 2 executes
++ +
+4 I 1 = 6 instructions. So sequence 1 executes fewer instructions.
+We can use the equation for CPU clock cycles based on instruction count and CPI
+to find the total number ofclock cycles for each sequence:
+L
+"
+CPU clock cycles = (CPI; xC;)
+I
+; =0
+This yields
+CPU clock cycles] (2X 1)+ (IX 2) +(2X3) 2+2+6 10 cycles
+CPU clock cycles (4X 1) +( IX 2)+( I X3) 4 +2+3 9 cycles
+2

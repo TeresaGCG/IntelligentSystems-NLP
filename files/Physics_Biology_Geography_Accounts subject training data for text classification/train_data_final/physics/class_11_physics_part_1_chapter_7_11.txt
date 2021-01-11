@@ -1,0 +1,119 @@
+PHYSICS
+
+From this follow the results
+
+(i) ixi=0, jxj=0, lixli=0
+(ii) ix 3 = 1;
+Note that the magnitude of ix} is sin900
+
+or 1, since i and j both have unit
+magnitude and the angle between them is 90°.
+
+Thus, ix} is a unit vector. A unit vector
+
+perpendicular to the plane of i and j and
+related to them by the right hand screw rule is
+1“. Hence, the above result. You may verify
+similarly,
+jxli=i and ﬁxi=j
+
+From the rule for commutation of the cross
+product, it follows:
+
+||
+|
+F
+w
+X
+E-
+II
+I
+2-"
+H.)
+X
+w
+H
+|
+h-
+
+m
+
+Note if Lilioccur cyclically in the above
+vector product relation, the vector product is
+
+positive. If ii]; do not occur in cyclic order,
+
+the vector product is negative.
+Now,
+
+a x b = (axi + ayj + azﬁ) >< (bxi + by} + bzli)
+
+= axbyﬁ — axsz — aybxli + aybzi + azb 3— azbyi
+
+X
+
+=(aybz— azby)i + (asz— axbz)j + (axby— aybx)k
+We have used the elementary cross products
+in obtaining the above relation. The expression
+
+for aXb can be put in a determinant form
+which is easy to remember.
+
+I-m
+
+b
+
+X
+
+j i:
+a x b = ax ay az
+by bZ
+
+P Example 7.4 Find the scalar and vector
+products ofﬁtwoﬁ vectors. a = (3i — 4j + 5k ]
+
+andb=(—2i +j —3k)
+
+ 
+
+Answer
+
+a-b = (3i — 43 + BEN—2i + j — 3f!)
+2 —6 — 4 — 15
+= —25
+
+2019-20
+
+i j k
+axb= 3 —4 5 =7i—j—51‘:
+—2 l —3
+Note b><a=—7i+j+5f: 4
+
+7.6 ANGULAR VELOCITY AND ITS
+RELATION WITH LINEAR VELOCITY
+
+In this section we shall study what is angular
+velocity and its role in rotational motion. We
+have seen that every particle of a rotating body
+moves in a circle. The linear velocity of the
+particle is related to the angular velocity. The
+relation between these two quantities involves
+a vector product which we learnt about in the
+last section.
+
+Let us go back to Fig. 7 .4. As said above, in
+rotational motion of a rigid body about a fixed
+axis, every particle of the body moves in a circle,
+
+ 
+
+Fig. 7.1 6 Rotation about a ﬁxed axis. (A particle (P)
+of the rigid body rotating about the ﬁxed
+(2-) axis moves in a circle with centre (C)
+on the axis.)
+
+which lies in a plane perpendicular to the axis
+and has its centre on the axis. In Fig. 7.16 we
+redraw Fig. 7 .4, showing a typical particle (at a
+point P) of the rigid body rotating about a fixed
+axis (taken as the z-axis). The particle describes

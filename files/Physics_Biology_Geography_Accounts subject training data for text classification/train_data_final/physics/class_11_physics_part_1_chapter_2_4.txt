@@ -1,0 +1,131 @@
+20
+
+PHYSICS
+
+Answer Sun’s angular diameter 06
+= 1920"
+
+= 1920>< 4.85 X 10‘6 rad
+
+= 9.31 x 10‘3 rad
+Sun’s diameter
+
+d=aD
+=(9.31x10—3jx(i.496x1011) m
+
+=l.39><109m {
+
+2.3.2 Estimation of Very Small Distances:
+Size of a Molecule
+
+To measure a very small size, like that of a
+molecule (10'8 m to 10'10 m), we have to adopt
+special methods. We cannot use a screw gauge
+or similar instruments. Even a microscope has
+certain limitations. An optical microscope uses
+visible light to ‘look’ at the system under
+investigation. As light has wave like features,
+the resolution to which an optical microscope
+can be used is the wavelength of light (A detailed
+explanation can be found in the Class XII
+Physics textbook). For visible light the range of
+wavelengths is from about 4000 A to 7000 A
+(1 angstrom = 1 A = 10'10 m). Hence an optical
+microscope cannot resolve particles with sizes
+smaller than this. Instead of visible light, we can
+use an electron beam. Electron beams can be
+focussed by properly designed electric and
+magnetic fields. The resolution of such an
+electron microscope is limited finally by the fact
+that electrons can also behave as waves ! (You
+will learn more about this in class XII). The
+wavelength of an electron can be as small as a
+fraction of an angstrom. Such electron
+microscopes with a resolution of 0.6 A have been
+built. They can almost resolve atoms and
+molecules in a material. In recent times,
+tunnelling microscopy has been developed in
+which again the limit of resolution is better than
+an angstrom. It is possible to estimate the sizes
+of molecules.
+
+A simple method for estimating the molecular
+size of oleic acid is given below. Oleic acid is a
+soapy liquid with large molecular size of the
+order of 10'9m.
+
+The idea is to first form mono-molecular layer
+of oleic acid on water surface.
+
+We dissolve 1 cm3 of oleic acid in alcohol to
+make a solution of 20 cm3. Then we take 1 cm3
+
+2019-20
+
+of this solution and dilute it to 20 cm3, using
+alcohol. So, the concentration of the solution is
+
+1
+20x20
+
+solution. Next we lightly sprinkle some
+lycopodium powder on the surface of water in a
+large trough and we put one drop of this solution
+in the water. The oleic acid drop spreads into a
+thin, large and roughly circular film of molecular
+thickness on water surface. Then, we quickly
+measure the diameter of the thin film to get its
+area A. Suppose we have dropped n drops in
+the water. Initially, we determine the
+approximate volume of each drop (ch3).
+
+ 
+
+equal to ( )cm?’ of oleic acid/cm3 of
+
+Volume of n drops of solution
+= nV cm3
+
+Amount of oleic acid in this solution
+
+=nV[ 1 jcm3
+
+ 
+
+20x20
+
+This solution of oleic acid spreads very fast
+on the surface of water and forms a very thin
+layer of thickness 1:. If this spreads to form a
+film of area A cm2, then the thickness of the
+film
+
+Volume of the film
+
+t :
+Area of the film
+1: — n—ch
+0“ _ 2o x20A (2'3)
+
+Ifwe assume that the ﬁlm has mono-molecular
+thickness, then this becomes the size or diameter
+of a molecule of oleic acid. The value of this
+thickness comes out to be of the order of 10'9 m.
+
+Example 2.5 If the size of a nucleus (in
+the range of 10‘15 to 10‘14 n1) is scaled up
+to the tip of a sharp pin. what roughly is
+
+the size of an atom ? Assume tip of the pin
+to be in the range lO’sm t0 10’4m.
+
+ 
+
+Answer The size of a nucleus is in the range of
+10'15 m and 10'14 m. The tip of a sharp pin is
+taken to be in the range of 10'5 m and 10'4 m.
+Thus we are scaling up by a factor of 1010. An
+atom roughly of size 10'10 m will be scaled up to a
+size of 1 m. Thus a nucleus in an atom is as small
+in size as the tip of a sharp pin placed at the centre
+of a sphere of radius about a metre long. 4

@@ -1,0 +1,49 @@
+14
+Chapter 1 Computer Abstractions and Technology
+swap(i nt v[ ]. i nt
+High-level K)
+(int t emp:
+language
+temp - v[n:
+program
+v[ k] - v[ H1 ]:
+(in C)
+v[ k+1] - temp:
+l
+j
+( Compiler
+Assembly swa p:
+language mLll i $2 . $5 .4
+add $2 . $4. $2
+program
+lw $15. 0($2)
+(for MIPS)
+lw $16. 4($2)
+sw $16. 0($2)
+sw $15. 4($2)
+j r $31
+j
+( Assembler
+Binary machine 000000001010000100000000000 11000
+00000000000110000001100000100001
+language
+1000110001 1000100000000000000000
+program
+10001100111100100000000000000100
+(for MIPS)
+10101 100111 100100000000000000000
+10101 10001 1000100000000000000100
+00000011 111000000000000000001000
+FIGURE 1.4 C program complied Into assembly language and then assembled Into
+binary machine language. Although the translation from high·level language to binary machine Ian·
+guage is shown in tm> steps, some compilers cut out the middleman and produce binary machine language
+directly. These languages and this program are examined in more detail in Chapter 2.
+be designed according to their intended use. Hence, Fortran was designed for sci 
+entific computation, Cobol for business data processing, Lisp for symbol manipu 
+lation, and so
+OIL
+The second advantage of programming languages is improved programmer
+productivity. One of the few areas of widespread agreement in software develop 
+ment is that it takes less time to develop programs when they are written in lan 
+guages that require fewer lines to express an idea. Conciseness is a clear advantage
+of high-level languages over assembly language.

@@ -1,0 +1,30 @@
+Algebra and Geometry
+189
+Lesson 10-4 Review
+Solve the following problems:
+1. A right triangle has legs with length 4 and 6 inches. Find the
+perimeter of the triangle.
+2. A right triangle has a hypotenuse that is twice as long as one of its
+legs. If the other leg is 6 inches long, find the perimeter of the
+triangle.
+3. Is a triangle with sides of length 4, 7, and 10 centimeters a right
+triangle?
+Lesson 10-5: Special Right Triangles
+There are two right triangles that de-
+serve special attention. The first special tri-
+angle is an isosceles right triangle. An
+isosceles right triangle is a triangle whose
+two legs have the same length. It can also
+be called a 45° – 45° – 90° triangle, because
+Isosceles right triangle
+of its angle measurements. A 45° – 45° – 90°
+triangle is shown in Figure 10.10.
+Figure 10.10
+Example 1
+Suppose the length of the hypotenuse of an isosceles right triangle
+is 12 inches. Find the length of one of the legs.
+Solution: With an isosceles right triangle, both legs have the same
+length, so it doesn’t matter which leg length we find. Let a represent
+the length of one of the legs. Then the other leg also has length a. We
+can use the Pythagorean Theorem to find a:
+So the length of each of the legs is   inches.

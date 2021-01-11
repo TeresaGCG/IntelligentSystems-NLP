@@ -1,0 +1,42 @@
+458 Chapter 6 Enhancing Performance with Plpellnlng
+6.29 (1week) <§§6.4, 6.5> Using the simulator provided with this book, collect sta 
+tistics on data hazards for a C program (supplied by either the instructor or with the
+software). You will write a subroutine that is passed the instruction to be executed,
+and this routine must model the five-stage pipeline in this chapter. Have your pro 
+gram collect the following statistics:
+• Number of instructions executed.
+• Number of data hazards not resolved by forwarding and number resolved by
+forwarding.
+• If the MIPS C compiler that you are using issues nop instructions to avoid
+hazards, count the number of n p instructions as well.
+0
+Assuming that the memory accesses always take 1 clock cycle, calculate the average
+number of clock cycles per instruction. Classify nop instructions as stalls inserted by
+softwa re, then subtract them from the number of instructions executed in the CPI
+calculation.
+6.30 [71<§§6.4, 6.5> In the example on page 425, we saw that the performance
+advantage of the multicycle design was limited by the longer time required to access
+memory versus use the ALU. Suppose the memory access became 2 clock cycles long.
+Find the relative performance of the single-cycle and multicycle designs. In the next
+few exercises, we extend this to the pipelined design , which requires lots more work!
+Ii
+6.31 (10 ) <§6.6> For Mo re Practice: Coding with Conditional Moves
+III
+6.32 (10 ) <§6.6> For More Practice: Performance Advantage of Conditional
+Move
+6.33 [20 ) <§§6.2-6.6> In the example on page 425, we saw that the performance
+advantage of both the multicycle and the pipelined designs was limited by the longer
+time required to access memory versus use the ALU. Suppose the memory access
+became 2 clock cycles long. Draw the modified pipeline. List all the possible new for 
+warding situations and all possible new hazards and their length.
+6.34 [20 ) <§§6.2-6.6> Redo the example on page 425 using the restructured pipe 
+line of Exercise 6.33 to compare the single-cycle and multicycle. For branches,
+assume the sa me prediction accuracy, but increase the penalty as appropriate. For
+loads, assume that the subsequent instructions depend on the load with a probability
+of 1/2, 1/4, 1/8, 1/16, and so on. That is, the instruction following a load by two has
+a 25% probability of using the load result as one of its sources. Ignoring any other
+data hazards, find the relative performance of the pipelined design to the single-cycle
+design with the restrucnlfed pipeline.
+6.35 [10 ) <§§6.4-6.6> As pointed out on page 41 8, moving the branch comparison
+up to the ID stage introduces an opportunity for both forwarding and hazards that
+cannot be resolved by forwarding. Give a set of code sequences that show the possible

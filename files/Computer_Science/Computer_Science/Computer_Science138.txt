@@ -1,0 +1,39 @@
+122 Chapter 2 Instructions: Language of the Computer
+The Procedure swa p
+Let's start with the code for the procedure swap in Figure 2.33. This procedure
+simply swaps two locations in memory. When translating from C to assembly lan 
+guage by hand, we follow these general steps:
+I. Allocate registers to program variables.
+2. Produce code for the body of the procedure.
+3. Preserve registers across the procedure invocation.
+This section describes the swap procedure in these three pieces, concluding by
+putting all the pieces together.
+Register Allocation for swap
+As mentioned on page 79, the MIPS convention on parameter passing is to use
+registers $aO, $al, $a2, and $a3. Since swap has just two parameters, v and k,
+they will be found in registers $aO and $al. The only other variable is temp,
+which we associate with register $tO since swap is a leaf procedure (see page 83).
+This register allocation corresponds to the variable decla rations in the first part of
+the swap procedure in Figure 2.33.
+Code for the Body of the Procedure swap
+The remaining lines of C code in swa pare
+temp v[k] ;
+=
+v[k] v[k+l] ;
+=
+v[k+l] temp ;
+=
+Recall that the memory address for MIPS refers to the byte address, and so
+words are really 4 bytes apart. Hence we need to multiply the index k by 4 before
+void swap ( i nt v[]. int k)
+(
+int t emp:
+temp v[ k]:
+=
+v[k] v[ k+l]:
+=
+v[k+l] t emp:
+=
+(
+FIGURE 2.33 A C procedure that swaps two locations In memory. The next subsection uses
+this procedure in a sorting example.

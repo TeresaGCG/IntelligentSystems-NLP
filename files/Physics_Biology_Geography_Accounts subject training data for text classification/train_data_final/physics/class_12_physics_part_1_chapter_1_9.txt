@@ -1,0 +1,76 @@
+10
+
+ 
+
+ 
+
+i Physics
+
+EXAMPLE 1 . 2
+
+EXAMPLE 1 .3
+
+ 
+
+quantisation of charge cannot be ignored. It is the magnitude of scale
+involved that is very important.
+
+Example 1.2 If 109 electrons move out of a body to another body
+every second, how much time is required to get a total charge of l C
+on the other body?
+
+Solution In one second 109 electrons move out of the body. Therefore
+the charge given out in one second is 1.6 X 10’19 X 109C = 1.6 X 10‘10 C.
+The time required to accumulate a charge of l C can then be estimated
+to be 1 c + (1.6 x 10—10 C/s) = 6.25 x 109 s = 6.25 x 109+ (365 x 24 x
+3600) years = 198 years. Thus to collect a charge of one coulomb,
+from a body from which 109 electrons move out every second, we will
+need approximately 200 years. One coulomb is, therefore, a very large
+unit for many practical purposes.
+
+It is, however, also important to know what is roughly the number of
+electrons contained in a piece of one cubic centimetre of a material.
+A cubic piece of copper of side 1 cm contains about 2.5 X 1024
+electrons.
+
+Example 1.3 How much positive and negative charge is there in a
+cup of water?
+
+Solution Let us assume that the mass of one cup of water is
+250 g. The molecular mass of water is 18g. Thus, one mole
+(= 6.02 X 1023 molecules) of water is 18 g. Therefore the number of
+molecules in one cup of water is (250/ 18) X 6.02 X 1023.
+
+Each molecule of water contains two hydrogen atoms and one oxygen
+atom, i.e., 10 electrons and 10 protons. Hence the total positive and
+total negative charge has the same magnitude. It is equal to
+
+(250/18) x 6.02 x 1023 x 10 x 1.6 x 10‘19 c = 1.34 x 107 c.
+
+1 .6 COULOMB’s LAW
+
+Coulomb’s law is a quantitative statement about the force between two
+point charges. When the linear size of charged bodies are much smaller
+than the distance separating them, the size may be ignored and the
+charged bodies are treated as point charges. Coulomb measured the
+force between two point charges and found that it varied inversely as
+the square of the distance between the charges and was directly
+proportional to the product of the magnitude of the two charges and
+acted along the line joining the two charges. Thus, if two point charges
+q1, q2 are separated by a distance r in vacuum, the magnitude of the
+force (F) between them is given by
+
+lqlrzqgl (1.1)
+
+How did Coulomb arrive at this law from his experiments? Coulomb
+used a torsion balance* for measuring the force between two charged metallic
+
+F=k
+
+ 
+
+* A torsion balance is a sensitive device to measure force. It was also used later
+by Cavendish to measure the very feeble gravitational force between two obj ects,
+to verify Newton’s Law of Gravitation.
+
+2019-20

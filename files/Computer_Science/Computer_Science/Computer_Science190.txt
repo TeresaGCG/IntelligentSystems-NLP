@@ -1,0 +1,46 @@
+174 Chapter 3 Arithmetic: for Computers
+For unsigned addition ($tO = $tl + HZ), the test is
+addu $tO, $t1, $t2 # $tO sum
+=
+nor $t3, $t1, $zero # $t3 NOT $t1
+=
+It 32
+(2 ' scamp - 1: 2 - $t 1 - 1)
+<
+sHu $t3, $t3, HZ It (232 - $t1 - 1) $tZ
+<
+It ==> 232 1 $t1 + HZ
+-
+<
+bne $t3,$zero,Overflow # if(232_1 $t1 + $t2 ) go to
+ove rfl ow
+Summary
+The main point of this section is that, independent of the representation, the finite
+word size of computers means that arithmetic operations can create results that
+are too large to fit in this fixed word size. It's easy to detect overflow in unsigned
+numbers, although these are almost always ignored because programs don't want
+to detect overflow for address arithmetic, the most common use of natural num 
+bers. Two's complement presents a greater challenge, yet some software systems
+require detection of overflow, so today all computers have a way to detect it.
+Figure 3.4 shows the additions to the MIPS architecture from this section.
+Check
+Some programming languages allow two's complement integer arithmetic on
+Yourself variables declared byte and half. What MIPS instructions would be used?
+I. Load with 1bu, 1hu; arithmetic with add, sub, mul t, di v; then store using
+s b, s h.
+2. Load with 1b, 1h; arithmetic with add, sub, mult, di v; then store using
+s b, s h.
+3. Loads with 1b, 1h; arithmetic with add, sub, mul t, di v, using and to
+mask result to 8 or 16 bits after each operation; then store using sb, sh.
+Elaboration: In the preceding text, we said that you copy EPC into a register via
+mfcO and then return to the interrupted code via jump register. This leads to an inter 
+esting question: Since you must first transfer EPC to a register to use with jump regis 
+ter, how can jump register return to the interrupted code and restore the original values
+of all registers? You either restore the old registers first, thereby destroying your return
+address from EPC that you placed in a register for use in jump register, or you restore
+all registers but the one with the return address so that you can jump-meaning an
+exception would result in changing that one register at any time during program execu 
+tion! Neither option is satisfactory.
+To rescue the hardware from this dilemma, MIPS programmers agreed to reserve
+registers $kO and $k1 for the operating system; these registers are not restored on
+exceptions. Just as the MIPS compilers avoid using register $at so that the assembler

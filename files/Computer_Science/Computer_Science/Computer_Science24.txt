@@ -1,0 +1,20 @@
+8 Chapter 1 Computer Abstractions and Technology
+FIGURE 1.2 Sales of microprocessors between 1998 and 2002 by Instruction set archi 
+tecture combining all uses. The "other" category refers to processors that are either application 
+specific or customized architectures. In the case ofARM, roughly 80% ofthe sales are for cell phones, where
+an ARM core is used in conjunction with application-specific logic on a chip.
+What You Can Learn in This Book
+Successful programmers have always been concerned about the performance of
+their programs because getting results to the user quickly is critical in creating
+successful software. In the 1960s and 1970s, a primary constraint on computer
+performance was the size of the computer's memory. Thus programmers often
+followed a simple credo: Minimize memory space to make programs fast. In the
+last decade, advances in computer design and memory technology have greatly
+reduced the importance of small memory size in most applications other than
+those in embedded computing systems.
+Programmers interested in performance now need to understand the issues
+that have replaced the simple memory model of the 1960s: the hierarchical nature
+of memories and the parallel nanlfe of processors. Programmers who seek to
+build competitive versions of compilers, operating systems, databases, and even
+applications will therefore need to increase their knowledge of computer orga ni 
+zation.

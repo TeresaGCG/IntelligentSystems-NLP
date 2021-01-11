@@ -1,0 +1,95 @@
+3.15
+
+3.16
+
+3.17
+
+ 
+
+3.18
+
+3.19
+
+3.20
+
+Current
+Electricity
+
+ 
+
+ﬁeld, how much time (roughly) would be required to neutralise the
+
+earth’s surface? (This never happens in practice because there is a
+
+mechanism to replenish electric charges, namely the continual
+
+thunderstorms and lightning in different parts of the globe). (Radius
+
+of earth = 6.37 X 106 m.)
+
+(a) Six lead-acid type of secondary cells each of emf 2.0 V and internal
+resistance 0.015 9 are joined in series to provide a supply to a
+resistance of 8.5 S2. What are the current drawn from the supply
+and its terminal voltage?
+
+(b) A secondary cell after long use has an emf of 1.9 V and a large
+internal resistance of 380 S2. What maximum current can be drawn
+from the cell? Could the cell drive the starting motor of a car?
+
+Two wires of equal length, one of aluminium and the other of copper
+
+have the same resistance. Which of the two wires is lighter? Hence
+
+explain why aluminium wires are preferred for overhead power cables.
+
+(pAl = 2.63 X 10‘8 Q m, pCu = 1.72 X 10‘8 Q m, Relative density of
+
+A1 = 2.7, of Cu = 8.9.)
+
+What conclusion can you draw from the following observations on a
+
+resistor made of alloy manganin?
+
+Answer the following questions:
+
+(a) A steady current ﬂows in a metallic conductor of non-uniform
+cross-section. Which of these quantities is constant along the
+conductor: current, current density, electric field, drift speed?
+
+(b) Is Ohm’s law universally applicable for all conducting elements?
+If not, give examples of elements which do not obey Ohm’s law.
+
+(c) A low voltage supply from which one needs high currents must
+have very low internal resistance. Why?
+
+((1) A high tension (HT) supply of, say, 6 kV must have a very large
+internal resistance. Why?
+
+Choose the correct alternative:
+
+(a) Alloys of metals usually have (greater/less) resistivity than that
+of their constituent metals.
+
+(b) Alloys usually have much (lower/higher) temperature
+coefficients of resistance than pure metals.
+
+(c) The resistivity of the alloy manganin is nearly independent of/
+increases rapidly with increase of temperature.
+
+(d) The resistivity of a typical insulator (e.g., amber) is greater than
+that of a metal by a factor of the order of (1022/1023).
+
+(a) Given n resistors each of resistance R, how will you combine
+them to get the (i) maximum (ii) minimum effective resistance?
+What is the ratio of the maximum to minimum resistance?
+
+(b) Given the resistances of 1 Q, 2 Q, 3 9, how will be combine them
+to get an equivalent resistance of (i) (1 1/3) 9 (ii) (11/ 5) 9, (iii) 6
+S2, (iv) (6/11) 9?
+
+(c) Determine the equivalent resistance of networks shown in
+Fig. 3.31.
+
+2019-20
+
+129

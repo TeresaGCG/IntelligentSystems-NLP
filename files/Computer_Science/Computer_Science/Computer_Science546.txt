@@ -1,0 +1,46 @@
+530 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Remember that each process has its own virtual address space. Thus, if the
+operating system keeps the page tables organized so that the independent virtual
+pages map to disjoint physical pages, one process will not be able to access
+another's data. Of course, this also requires that a user process be unable to change
+the page table mapping. The operating system can assure safety if it prevents the
+user process from modifying its own page tables. Yet, the operating system must
+be able to modify the page tables. Placing the page tables in the protected address
+space of the operating system satisfies both requirements.
+\Vhen processes want to share information in a limited way, the operating sys 
+tem must assist them, since accessing the information of another process requires
+changing the page table of the accessing process. The write access bit can be used
+to restrict the sha ring to just read sharing, and, like the rest of the page table, this
+bit can be changed only by the operating system. To allow another process, say PI,
+to read a page owned by process P2, P2 would ask the operating system to create a
+page table entry for a virtual page in PI's address space that points to the same
+physical page that P2 wants to share. The operating system could use the write
+protection bit to prevent PI from writing the data, if that was P2's wish. Any bits
+that determine the access rights for a page must be included in both the page table
+and the TLB because the page table is accessed only on a TLB miss.
+Elaboration: When the operating system decides to change from running process Pi
+wntext switch A changing of to running process P2 (called a context switch or process switch), it must ensure that P2
+the internal state ofthe proces  cannot get access to the page tables of Pi because that would compromise protection. If
+sor to allow a different process
+there is no TLB, it suffices to change the page table register to point to P2's page table
+to use the processor that (rather than to Pi's); with a TLB, we must clear the TLB entries that belong to Pi-both to
+includes saving the state needed
+protect the data of Pi and to force the TLB to load the entries for P2. If the process
+to renlfll to the currently exe 
+switch rate were high, this could be quite inefficient. For example, P2 might load only a
+cuting process.
+few TLB entries before the operating system switched back to Pi. Unfortunately, Pi
+would then find that all its TLB entries were gone and would have to pay TLB misses to
+reload them. This problem arises because the virtual addresses used by Pi and P2 are
+the same, and we must clear out the TLB to avoid confusing these addresses.
+A common alternative is to extend the virtual address space by adding a process
+identifier or task identifier. The lntrinsity FastMATH has an B-bit address space ID (ASID)
+field for this purpose. This small field identifies the currently running process; it is kept
+in a register loaded by the operating system when it switches processes. The process
+identifier is concatenated to the tag portion of the TLB, so that a TLB hit occurs only if
+both the page number and the process identifier match. This combination eliminates
+the need to clear the TLB. except on rare occasions.
+Similar problems can occur for a cache, since on a process switch the cache will
+contain data from the running process. These problems arise in different ways for phys 
+ically addressed and virtually addressed caches, and a variety of different solutions,
+such as process identifiers, are used to ensure that a process gets its own data.

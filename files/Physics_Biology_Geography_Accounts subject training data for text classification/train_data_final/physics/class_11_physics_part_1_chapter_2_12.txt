@@ -1,0 +1,128 @@
+28
+
+PI IYSICS
+
+the first uncertain digit are known as
+signiﬁcant digits or signiﬁcant ﬁgures. If we
+say the period of oscillation of a simple
+pendulum is 1.62 s, the digits 1 and 6 are
+reliable and certain, while the digit 2 is
+uncertain. Thus, the measured value has three
+significant figures. The length of an object
+reported after measurement to be 287.5 cm has
+four significant figures, the digits 2, 8, 7 are
+certain while the digit 5 is uncertain. Clearly,
+reporting the result of measurement that
+includes more digits than the significant digits
+is superﬂuous and also misleading since it would
+give a wrong idea about the precision of
+measurement.
+
+The rules for determining the number of
+significant figures can be understood from the
+following examples. Significant figures indicate,
+as already mentioned, the precision of
+measurement which depends on the least count
+of the measuring instrument. A choice of
+change of different units does not change the
+number of signiﬁcant digits or ﬁgures in a
+measurement. This important remark makes
+most of the following observations clear:
+
+(1) For example, the length 2.308 cm has four
+significant figures. But in different units, the
+same value can be written as 0.02308 m or 23.08
+
+mm or 23080 um.
+
+All these numbers have the same number of
+significant figures (digits 2, 3, 0, 8), namely four.
+This shows that the location of decimal point is
+of no consequence in determining the number
+of significant figures.
+
+The example gives the following rules :
+
+0 All the non-zero digits are signiﬁcant.
+
+0 All the zeros between two non-zero digits
+are significant, no matter where the
+decimal point is, if at all.
+
+0 If the number is less than 1, the zero(s)
+
+on the right of decimal point but to the
+left of the ﬁrst non-zero digit are not
+signiﬁcant. [In 0% 2308, the underlined
+zeroes are not significant].
+
+0 The terminal or trailing zero(s) in a
+
+number without a decimal point are not
+significant.
+[Thus 123 m = 12300 cm = 123000 mm has
+three significant figures, the trailing zero(s)
+being not significant.] However, you can also
+see the next observation.
+
+2019-20
+
+0 The trailing zero(s) in a number with a
+decimal point are signiﬁcant.
+[The numbers 3.500 or 0.06900 have four
+significant figures each.]
+
+(2) There can be some confusion regarding the
+trailing zero(s). Suppose a length is reported to
+be 4.700 m. It is evident that the zeroes here
+are meant to convey the precision of
+measurement and are, therefore, significant. [If
+these were not, it would be superﬂuous to write
+them explicitly, the reported measurement
+would have been simply 4.7 m]. Now suppose
+we change units, then
+
+4.700 m = 470.0 cm = 4700 mm = 0.004700 km
+
+Since the last number has trailing zero(s) in a
+number with no decimal, we would conclude
+erroneously from observation (1) above that the
+number has two significant figures, while in
+fact, it has four significant figures and a mere
+change of units cannot change the number of
+significant figures.
+
+(3) To remove such ambiguities in
+determining the number of significant
+figures, the best way is to report every
+measurement in scientiﬁc notation (in the
+power of 10). In this notation, every number is
+expressed as a X 10b, where a is a number
+between 1 and 10, and b is any positive or
+negative exponent (or power) of 10. In order to
+get an approximate idea of the number, we may
+round off the number a to 1 (for a g 5) and to 10
+
+(for 5<ag 10). Then the number can be
+expressed approximately as 10b in which the
+exponent (or power) b of 10 is called order of
+magnitude of the physical quantity. When only
+an estimate is required, the quantity is of the
+order of 10’. For example, the diameter of the
+earth (1.28X107m) is of the order of 107m with
+the order of magnitude 7. The diameter of
+hydrogen atom (1.06 x 10mm) is of the order of
+10mm, with the order of magnitude
+—10. Thus, the diameter of the earth is 17 orders
+of magnitude larger than the hydrogen atom.
+
+It is often customary to write the decimal after
+the first digit. Now the confusion mentioned in
+(a) above disappears :
+
+4.700 m = 4.700 X 102 cm
+
+= 4.700 X 103 mm = 4.700 X 10'3 km
+
+The power of 10 is irrelevant to the
+determination of significant figures. However, all

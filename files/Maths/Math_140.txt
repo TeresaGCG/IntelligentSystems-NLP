@@ -1,0 +1,36 @@
+Homework Helpers: Basic Math and Pre-Algebra
+140
+There is a common misconception about the relationship between
+mark-up and discount that I will now address. Suppose that a clothing
+store has a 55% mark-up on business suits and that the store pays $100
+for each business suit. The store will mark-up the business suit by $55,
+and charge $155. Now, suppose that the business suits are not selling very
+well, and the store decides to discount the suits by 55%. In other words,
+the business suits were initially marked up 55% and then they were dis-
+counted 55%. Let’s compare the sale price to the price that the store
+paid for each business suit.
+The mark-up percent was 55%, so the price to the consumer was
+$155. The discount percent is also 55%, so the discount will be 0.55 × 155,
+which is $85.25. That means that the sale price will be 155 − 85.25, or
+$69.75. That’s quite a bit lower than the store price! This result may go
+against your intuition. It would seem that if you mark-up and then dis-
+count by the same percent then you would be back where you started,
+but this is not the case. The reason for this is that your mark-up percent
+is applied to the lower price, and the discount percent is applied to the
+higher price. If the mark-up percent and the discount percent are the
+same value, then the mark-up amount will be less than the discount amount.
+You will end up at a lower price than where you started.
+Lesson 7-6 Review
+Solve the following problems:
+1. A bookstore has a 40% mark-up. If the store pays $6 for a book,
+find the mark-up.
+2. A bookstore has a 40% mark-up. If the store pays $6 for a book,
+find the selling price.
+3. A bookstore has a 40% mark-up. If the selling price of a book is
+$42, find the price that the bookstore pays for the book.
+4. A shoe store is having a sale on Doc Szecsei boots. The regular
+price is $120 and the percent discount is 15%. Find the sale price.
+5. An electronics company is having a sale on iPort MP3 players. If
+the regular price of the iPort is $150 and the percent discount is
+20%, find the sale price.
+www.ebook3000.com

@@ -1,0 +1,54 @@
+TRANSPORT IN PLANTS
+
+1 1.4. 1 Transpiration and Photosynthesis — a Compromise
+
+Transpiration has more than one purpose; it
+
+° creates transpiration pull for absorption and transport of plants
+' supplies water for photosynthesis
+° transports minerals from the soil to all parts of the plant
+
+° cools leaf surfaces, sometimes 10 to 15 degrees, by evaporative
+cooling
+
+' maintains the shape and structure of the plants by keeping cells
+turgid
+An actively photosynthesising plant has an insatiable need for water.
+Photosynthesis is limited by available water which can be swiftly depleted
+by transpiration. The humidity of rainforests is largely due to this vast
+cycling of water from root to leaf to atmosphere and back to the soil.
+The evolution of the C 4 photosynthetic system is probably one of the
+strategies for maximising the availability of CO2 while minimising water
+loss. C 4 plants are twice as efficient as C3 plants in terms of ﬁxing carbon
+dioxide (making sugar). However, a C 4 plant loses only half as much water
+as a C3 plant for the same amount of CO2 ﬁxed.
+
+1 1.5 UPTAKE AND TRANSPORT 0F MINERAL NUTRIENTS
+
+Plants obtain their carbon and most of their oxygen from CO2 in the
+atmosphere. However, their remaining nutritional requirements are
+obtained from water and minerals in the soil.
+
+1 1.5. 1 Uptake of Mineral Ions
+
+Unlike water, all minerals cannot be passively absorbed by the roots.
+Two factors account for this: (i) minerals are present in the soil as charged
+particles (ions) which cannot move across cell membranes and (ii) the
+concentration of minerals in the soil is usually lower than the concentration
+of minerals in the root. Therefore, most minerals must enter the root by
+active absorption into the cytoplasm of epidermal cells. This needs energy
+in the form of ATP. The active uptake of ions is partly responsible for the
+water potential gradient in roots, and therefore for the uptake of water by
+osmosis. Some ions also move into the epidermal cells passively.
+
+Ions are absorbed from the soil by both passive and active transport.
+Speciﬁc proteins in the membranes of root hair cells actively pump ions
+from the soil into the cytoplasms of the epidermal cells. Like all cells, the
+endodermal cells have many transport proteins embedded in their plasma
+membrane; they let some solutes cross the membrane, but not others.
+Transport proteins of endodermal cells are control points, where a plant
+adjusts the quantity and types of solutes that reach the xylem Note
+that the root endodermis because of the layer of suberin has the ability to
+actively transport ions in one direction only.
+
+189

@@ -1,0 +1,41 @@
+106 Accountancy
+
+The bank column is balanced in the same way as the cash column. However,
+in the bank column, there can be credit balance also because of overdraft taken
+from the bank. Overdraft is a situation when cash withdrawn from the bank
+exceeds the amount of deposit. Entries in respect of cheques received should be
+made in the bank column of the cash book. When a cheque is received, it may be
+deposited into the bank on the same day or it may be deposited on another day.
+In case, it is deposited on the same day the amount is recorded in the bank
+column of the cash book on the receipts side. If the cheque is deposited on
+another day, in that case, on the date of receipt it is treated as cash received and
+hence recorded in the cash column on the receipts side. On the day of deposit to
+the bank, it is shown in the Bank Column on receipt (Dr.) side and in the Cash
+Column on the payment (Cr.) side. This is a contra entry.
+
+If a cheque received from a customer is dishonoured, the bank will return
+the dishonoured cheque and debit the firm’s account. On receipt of such
+cheque or intimation from the bank, the firm will make an entry on the credit
+side of the cash book by entering the amount of the dishonoured cheque in
+the bank column and the name of the customer in the particulars column.
+This entry will restore the position prevailing before the receipt of the cheque
+form the customer and its deposit in the bank. Dishonour of a cheque means
+return of the cheque unpaid, generally due to insufficient funds in the
+customer’s account with the bank.
+
+If the bank debits the firm on account of interest, commission or other
+charges for bank services, the entry will be made on the credit side in bank
+column. If the bank credits the firm’s account, the entry will be made on the
+debit side of the cash book in the appropriate column. The format of double
+column cash book is shown in figure 4.5.
+
+Cash Book
+
+Dr Cr
+? ? ? ?
+
+   
+
+Fig. 4.5 : Format of a double column cashbook
+
+2019-2020

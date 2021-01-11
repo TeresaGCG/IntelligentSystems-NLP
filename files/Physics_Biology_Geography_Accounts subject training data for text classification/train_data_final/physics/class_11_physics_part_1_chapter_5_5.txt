@@ -1,0 +1,97 @@
+94
+
+PHYSICS
+
+ 
+
+this hurts.The conclusion is clear: force not
+only depends on the change in momentum,
+but also on how fast the change is brought
+about. The same change in momentum
+brought about in a shorter time needs a
+greater applied force. In short, the greater the
+rate of change of momentum, the greater is
+the force.
+
+ 
+
+Fig. 5.3 Force not only depends on the change in
+momentum but also on how fast the change
+is brought about. A seasoned cricketer draws
+in his hands during a catch, allowing greater
+time for the ball to stop and hence requires a
+smaller force.
+
+' Observations confirm that the product of
+mass and velocity (i.e. momentum) is basic to
+the effect of force on motion. Suppose a fixed
+force is applied for a certain interval of time
+on two bodies of different masses, initially at
+rest, the lighter body picks up a greater speed
+than the heavier body. However, at the end of
+the time interval, observations show that each
+body acquires the same momentum. Thus
+the same force for the same time causes
+the same change in momentum for
+different bodies. This is a crucial clue to the
+second law of motion.
+
+' In the preceding observations, the vector
+character of momentum has not been evident.
+In the examples so far, momentum and change
+in momentum both have the same direction.
+But this is not always the case. Suppose a
+stone is rotated with uniform speed in a
+horizontal plane by means of a string, the
+magnitude of momentum is fixed, but its
+direction changes (Fig. 5.4). A force is needed
+to cause this change in momentum vector.
+
+2019-20
+
+This force is provided by our hand through
+the string. Experience suggests that our hand
+needs to exert a greater force if the stone is
+rotated at greater speed or in a circle of
+smaller radius, or both. This corresponds to
+greater acceleration or equivalently a greater
+rate of change in momentum vector. This
+suggests that the greater the rate of change
+in momentum vector the greater is the force
+applied.
+
+ 
+
+Fig. 5.4 Force is necessary for changing the direction
+of momentum, even if its magnitude is
+constant. We can feel this while rotating a
+stone in a horizontal circle with unifomi speed
+by means of a string.
+
+These qualitative observations lead to the
+second law of motion expressed by Newton as
+follows:
+
+The rate of change of momentum of a body is
+directly proportional to the applied force and
+takes place in the direction in which the force
+acts.
+
+Thus, if under the action of a force F for time
+interval At, the velocity of a body of mass m
+changes from v to v + Av i.e. its initial momentum
+
+p = m v changes by Ap = mAv . According to the
+Second Law,
+
+Focﬂ or F =kA—P
+At At
+
+where k is a constant of proportionality. Taking
+
+the limit At —> O, the term ﬂ becomes the
+
+At
+derivative or differential co-efficient of p with
+
+respect to t, denoted by % . Thus

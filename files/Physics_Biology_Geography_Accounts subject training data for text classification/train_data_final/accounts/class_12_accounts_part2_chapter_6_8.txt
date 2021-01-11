@@ -1,0 +1,50 @@
+Cash Flow Statement 243
+
+As per AS-3, an enterprise should report cash ﬂows from operating activities
+either by using :
+0 Direct method whereby major classes of gross cash receipts and gross
+cash payments are disclosed;
+or
+0 Indirect method whereby net proﬁt or loss is duly adjusted for the effects
+of (1) transactions of a non—cash nature, (2) any deferrals or accruals of
+past / future operating cash receipts, and (3) items of income or expenses
+associated with investing or financing cash ﬂows. It is important to
+mention here that under indirect method, the starting point is net proﬁt /
+loss before taxation and extra ordinary items as per Statement of Proﬁt
+and Loss of the enterprise. Then this amount is for non-cash items,
+etc., adjusted for ascertaining cash ﬂows from operating activities.
+Accordingly, cash ﬂow from operating activities can be determined using
+either the Direct method or the Indirect method. These methods are discussed
+in detail as follows.
+
+6. 6. 1 Direct Method
+
+As the name suggests, under direct method, major heads of cash inﬂows and
+outﬂows (such as cash received from trade receivables, employee benefits
+expenses paid, etc.) are considered.
+
+It is important to note here that items are recorded on accrual basis in
+statement of profit and loss. Hence, certain adjustments are made to convert
+them into cash basis such as the following :
+
+1. Cash receipts from customers = Revenue from operations + Trade
+receivables in the beginning — Trade receivables in the end.
+
+2. Cash payments to suppliers = Purchases + Trade Payables in the
+beginning — Trade Payables in the end.
+
+3. Purchases = Cost of Revenue from Operations — Opening Inventory +
+Closing Inventory.
+
+4. Cash expenses = Expenses on accrual basis + Prepaid expenses in the
+beginning and Outstanding expenses in the end — Prepaid expenses in
+the end and Outstanding expenses in the beginning.
+
+However, the following items are not to be considered:
+
+1. Non—cash items such as depreciation , discount on shares, etc., be written-
+off.
+2. Items which are classiﬁed as investing or ﬁnancing activities such as
+interest received, dividend paid, etc.
+As per AS—S, under the direct method, information about major classes of
+gross cash receipts and cash payments may be obtained either—

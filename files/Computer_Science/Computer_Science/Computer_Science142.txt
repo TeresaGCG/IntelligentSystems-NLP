@@ -1,0 +1,41 @@
+126 Chapter 2 Instructions: Language of the Computer
+sl1 H1. $s1.2 # reg $t1 - J * 4
+add H2 . $aO.$t1 # reg H2 - v + (j * 4)
+Now we load v(j):
+lw H3 . 0(H2) # reg $t3 v(j)
+=
+Since we know that the second element is just the following word, we add 4 to the
+address in register $t2 to get v[ j + 1J:
+lw H4 , 4(H2) # reg H4 - v(j + 1]
+Thetestofv[j] ~ v[j + 1] is thesarneasv[j + 1J > v[jJ,so the two
+instructions of the exit test are
+Ito .
+slt 1t4. 1t3 # reg $tO 0 if $t4 ~ $t3
+=
+HO , $zero,exit2 # go to exit2 if $t4 $t3
+beq ~
+The bottom of the loop jumps back to the inner loop test:
+for2t5t # jump to test of inner loop
+J
+Combining the pieces together, the skeleton of the second for loop looks like
+this:
+addi $51, $sO. -1 Ilj ~ i - l
+f orZt5 t: 51 ti $tO. $51, 0 # reg $tO 1 i f $sl < 0 (j<O)
+=
+bne $tO. $zero . exi t 2 # go t o exi t 2 i f $sl<O (j<O)
+sl1 $tl, $s1. 2 # reg $t1 j * 4
+=
+add $t2 . $aO . $t1 # reg $t2 v + (j * 4)
+=
+lw It3 . 0(1'2) # reg $t 3 - v(j)
+lw It4 . 4(1'2) # reg $t4 - v(j + 1]
+si t ItO . I t4. 1'3 # reg $t O 0 i f $t4 ~ $t 3
+=
+beq $tO . $zero . exit2 # go t o exi t 2 i f $t4 ~ $t 3
+(body of second for loop)
+addi $51, $s1. -1 II J -~ 1
+J for2 t st # Jump t o t est of lnner loop
+exi t 2:
+The Procedure Call in so r t
+The next step is the body of the second for loop:
+swap(v , j) ;

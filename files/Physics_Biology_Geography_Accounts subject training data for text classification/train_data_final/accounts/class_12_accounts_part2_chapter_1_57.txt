@@ -1,0 +1,49 @@
+5 8 Accountancy : Company Accounts and Analysis of Financial Statements
+
+2. Securities Premium Account has been debited only with Rs. 100 relating to 100
+shares allotted Mr. Ahmad’s shares from whom the allotment money (including
+premium) has not been received.
+
+3. Shares Forfeiture Account represents the money received on forfeited shares
+excluding Securites premium. This has been worked out as follows:
+
+(Rs.)
+Mr. Ahmad has paid application money @ Rs. 3 per share on 120 shares 360
+Mr. Basu has paid @ Rs. 6 per share on 200 shares 1,200
+in (application and allotment money excluding premium)
+Total amount received 1,560
+IRS.)
+4. Amount received from Mr. Ahmad on 100 shares forfeited 360
+which have been reissued
+Amount received from Mr. Basu on 50
+shares forfeited which have been reissued 300
+Total amount received on 150 shares which have 660
+been forfeited and later reissued
+Less: Discount on reissue of forfeited shares (150 Rs. 2) 300
+Amount of Capital Proﬁt transferred to capital reserve 360
+
+Illustration 21
+
+Devam Limited issued a prospectus inviting application for 30,000 equity shares
+of Rs. 10 each at a premium of Rs. 4 per share payable as follows:
+
+With Application (including premium Rs. 1) Rs. 3
+On Allotment (including premium Rs. 1) Rs. 4
+On First call (including premium Rs. 1) Rs. 4
+On Second and Final call Balance
+
+Applications were received for 45,000 shares. 20% of the applications
+received were rejected and their application money was refunded. Remaining
+applicants were allotted shares on pro—rata basis.
+
+Mr. Sudhir, who has applied for 600 shares, failed to pay the allotment money
+and his shares were forfeited immediately after that.
+
+Ms. Muskan, to whom 750 shares were allotted failed to pay the ﬁrst call
+and hence her shares were forfeited.
+
+The forfeited shares of Mr. Sudhir were re-issued to Lakshya for Rs. 8 per
+share as fully paid up.
+
+Final call was made due on remaining applicants and was received except
+on 1,000 shares of Amit. These shares were forfeited.

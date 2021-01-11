@@ -1,0 +1,50 @@
+TRANSPORT IN PLANTS
+
+examples of imbibition are absorption of water by seeds and dry wood.
+The pressure that is produced by the swelling of wood had been used by
+prehistoric man to split rocks and boulders. If it were not for the pressure
+due to imbibition, seedlings would not have been able to emerge out of
+the soil into the open; they probably would not have been able to establish!
+
+Imbibition is also diffusion since water movement is along a
+concentration gradient; the seeds and other such materials have almost no
+water hence they absorb water easily. Water potential gradient between
+the absorbent and the liquid imbibed is essential for imbibition. In addition,
+for any substance to imbibe any liquid, afﬁnity between the adsorbant and
+the liquid is also a pre-requisite.
+
+1 1.3 LONG DISTANCE TRANSPORT OF WATER
+
+At some earlier stage you might have carried out an experiment where
+you had placed a twig bearing white ﬂowers in coloured water and had
+watched it turn colour. On examining the cut end of the twig after a few
+hours you had noted the region through which the coloured water moved.
+’Ihat experiment very easily demonstrates that the path of water movement
+is through the vascular bundles, more speciﬁcally, the xylem. Now we
+have to go further and try and understand the mechanism of movement
+of water and other substances up a plant.
+
+Long distance transport of substances within a plant cannot be by
+diffusion alone. Diffusion is a slow process. It can account for only short
+distance movement of molecules. For example, the movement of a molecule
+across a typical plant cell (about 50 um) takes approximately 2.5 s. At this
+rate, can you calculate how many years it would take for the movement
+of molecules over a distance of 1 m within a plant by diffusion alone?
+
+In large and complex organisms, often substances have to be moved
+to long distances. Sometimes the sites of production or absorption and
+sites of storage are too far from each other; diffusion or active transport
+would not sufﬁce. Special long distance transport systems become
+necessary so as to move substances across long distances and at a much
+faster rate. Water and minerals, and food are generally moved by a mass
+or bulk ﬂow system. Mass ﬂow is the movement of substances in bulk or
+en masse from one point to another as a result of pressure differences
+between the two points. It is a characteristic of mass ﬂow that substances,
+whether in solution or in suspension, are swept along at the same pace,
+as in a ﬂowing river. This is unlike diffusion where different substances
+move independently depending on their concentration gradients. Bulk
+ﬂow can be achieved either through a positive hydrostatic pressure
+gradient (e. g., a garden hose) or a negative hydrostatic pressure gradient
+(e. g., suction through a straw).
+
+183

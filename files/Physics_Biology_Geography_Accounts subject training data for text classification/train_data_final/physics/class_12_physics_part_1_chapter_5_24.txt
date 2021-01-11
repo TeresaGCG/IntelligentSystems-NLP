@@ -1,0 +1,62 @@
+Magnetism and
+
+ 
+
+Mutter
+
+Because of its practical application in prospecting, communication, and navigation, the
+magnetic ﬁeld of the earth is mapped by most nations with an accuracy comparable to
+geographical mapping. In India over a dozen observatories exist, extending from
+Trivandrum (now Thrivuvananthapuram) in the south to Gulmarg in the north. These
+observatories work under the aegis of the Indian Institute of Geomagnetism (IIG), in Colaba,
+Mumbai. The IIG grew out of the Colaba and Alibag observatories and was formally
+established in 197 1. The IIG monitors (via its nation-wide observatories), the geomagnetic
+fields and ﬂuctuations on land, and under the ocean and in space. Its services are used
+by the Oil and Natural Gas Corporation Ltd. (ONGC), the National Institute of
+Oceanography (N10) and the Indian Space Research Organisation (ISRO). It is a part of
+the world-wide network which ceaselessly updates the geomagnetic data. Now India has
+a permanent station called Gangotri.
+
+SUMMARY
+
+1. The science of magnetism is old. It has been known since ancient times
+that magnetic materials tend to point in the north—south direction; like
+magnetic poles repel and unlike ones attract; and cutting a bar magnet
+in two leads to two smaller magnets. Magnetic poles cannot be isolated.
+
+2. When a bar magnet of dipole moment m is placed in a uniform magnetic
+field B,
+(a) the force on it is zero,
+[b] the torque on it is m X B,
+(c) its potential energy is —m-B, where we choose the zero of energy at
+the orientation when m is perpendicular to B.
+
+3. Consider a bar magnet of size land magnetic moment m, at a distance
+r from its mid—point, where r >>l, the magnetic field B due to this bar
+is,
+
+ 
+
+ 
+
+,u m
+B = 2213 [along axis}
+= — :0“; (along equator)
+1: r
+
+4. Gauss’s law for magnetism states that the net magnetic ﬂux through
+any closed surface is zero
+
+(pH: 2 BoAS=O
+
+all area
+elements AS
+
+5. The earth’s magnetic field resembles that of a (hypothetical) magnetic
+dipole located at the centre of the earth. The pole near the geographic
+north pole of the earth is called the north magnetic pole. Similarly, the
+pole near the geographic south pole is called the south magnetic pole.
+This dipole is aligned making a small angle with the rotation axis of
+the earth. The magnitude of the ﬁeld on the earth’s surface 2 4 X 10"5 T. 197
+
+2019-20

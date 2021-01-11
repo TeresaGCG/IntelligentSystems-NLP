@@ -1,0 +1,43 @@
+166 Chapter 3 Arithmetic: for Computers
+The value in register $sO represents - 1 if it is an integer and 4,294,967,295
+ten
+ANSWER
+if it is an unsigned integer. The value in register $sl represents 1 in either
+case. Then register $t O has the value 1, since - lIen < lIen' and register HI
+>
+has the value 0, since 4,294,967,295 Iten'
+ten
+Before going on to addition and subtraction, let's examine a few useful sho rt 
+cuts when working with two's complement numbers.
+The first shortcut is a quick way to negate a two's complement binary number.
+Simply invert every 0 to 1 and every 1 to 0, then add one to the result. This sho rt 
+cut is based on the observation that the sum of a number and its inverted repre 
+sentation must be 111 ... 111,wo> wh ich represents - I. Since x + x - -1 , therefore
+x + x + 1 = 0 o r x + 1 = -x.
+Negation Shortcut
+Negate 2 , and then check the result by negating -2 n"
+ten Ie
+EXAMPLE
+2 = 0000 0000 0000 0000 0000 0000 0000 00 10two
+ten
+ANSWER
+Negating this number by inverting the bits and adding one,
+111111111111 111111111111 11111101
+two
++
+1two
+111111111111 111111111111 11111110
+two
+- 2
+ten
+Going the other direction,
+111111111111 111111111111 11111110
+two
+is first inverted and then increm ented:
+00000000000000000000000000000001 two
++
+1two
+00000000000000000000000000000010
+two
+2
+ten

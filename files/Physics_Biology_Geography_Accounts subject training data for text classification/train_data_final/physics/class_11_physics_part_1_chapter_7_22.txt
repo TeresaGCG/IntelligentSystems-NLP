@@ -1,0 +1,124 @@
+SYSTEMS OI’ PARTICLES AND ROTA'I‘IONAL MOTION
+
+163
+
+ 
+
+Pythagoras theorem, BC = 2J§ m. The forces
+
+on the ladder are its weight W acting at its centre
+of gravity D, reaction forces F1 and F2 of the wall
+and the floor respectively. Force F1 is
+perpendicular to the wall, since the wall is
+frictionless. Force F2 is resolved into two
+components, the normal reaction N and the
+force of friction F. Note that Fprevents the ladder
+from sliding away from the wall and is therefore
+directed toward the wall.
+
+For translational equilibrium, taking the
+forces in the vertical direction,
+
+N — W = O (i)
+Taking the forces in the horizontal direction,
+F — F1 = 0 (ii)
+
+For rotational equilibrium, taking the
+moments of the forces about A,
+
+2J5F,—(1/2)W=0 (iii)
+
+Now W=20g=20X9.8N=196.0N
+From (i) N= 196.0 N
+
+From (iii) F1 = W/4ﬁ = 196.0/4ﬁ = 34.6N
+From (ii) F = F1 = 34.6N
+
+F2 = F2 +N2 =199.0N
+
+The force F2 makes an angle a with the
+horizontal,
+
+tanaz N/F=4(/§, a=tan‘1(4x/§) z 80° 4
+
+7.9 MOMENT OF INERTIA
+
+We have already mentioned that we are
+developing the study of rotational motion
+parallel to the study of translational motion with
+which we are familiar. We have yet to answer
+one major question in this connection. What is
+the analogue of mass in rotational motion?
+We shall attempt to answer this question in the
+present section. To keep the discussion simple,
+we shall consider rotation about a fixed axis
+only. Let us try to get an expression for the
+kinetic energy of a rotating body. We know
+that for a body rotating about a fixed axis, each
+particle of the body moves in a circle with linear
+velocity given by Eq. (7.19). (Refer to Fig. 7.16).
+For a particle at a distance from the axis, the
+
+linear velocity is vi = ria). The kinetic energy of
+motion of this particle is
+
+ki = lrnivi2 = imirizwz
+2 2
+
+where miis the mass of the particle. The total
+kinetic energy K of the body is then given by
+the sum of the kinetic energies of individual
+particles,
+
+K = ilk, = gimirfwz)
+i:1 i:1
+
+Here n is the number of particles in the body.
+Note wis the same for all particles. Hence, taking
+wout of the sum,
+
+K = l(02(anmiri2)
+2 i:l
+
+We define a new parameter characterising
+the rigid body, called the moment of inertia I ,
+given by
+
+I = Emir? (7.34)
+i:l
+With this definition,
+1
+K = 51602 (7.35)
+
+Note that the parameter I is independent of
+the magnitude of the angular velocity. It is a
+characteristic of the rigid body and the axis
+about which it rotates.
+
+Compare Eq. (7 .35) for the kinetic energy of
+a rotating body with the expression for the
+kinetic energy of a body in linear (translational)
+motion,
+
+K=lmv2
+2
+
+Here, m is the mass of the body and v is its
+velocity. We have already noted the analogy
+between angular velocity to (in respect of rotational
+motion about a fixed axis) and linear velocity v (in
+respect of linear motion). It is then evident that
+the parameter, moment of inertia I, is the desired
+rotational analogue of mass in linear motion. In
+rotation (about a ﬁxed axis), the moment of inertia
+plays a similar role as mass does in linear motion.
+
+We now apply the definition Eq. (7.34), to
+calculate the moment of inertia in two simple
+cases.
+
+(a) Consider a thin ring of radius R and mass
+
+M, rotating in its own plane around its centre
+
+2019-20

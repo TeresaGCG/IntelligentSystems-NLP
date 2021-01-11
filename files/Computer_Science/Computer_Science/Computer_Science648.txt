@@ -1,0 +1,47 @@
+G-.
+Glossary
+lookup tables (lUIs) In a field program  message passing Communicating between
+mable device, the name given to the cells be  multiple processors by explicitly sending
+cause they consist ofa small amount oflogic and receiving information.
+and RAM. metastability A situation that occurs ifa
+loop unrolling A technique to get more signalissampled when it is not stable for the
+performance from loops that access arrays, required set-up and hold times, possibly
+in which multiple copies of the loop body causing the sampled value to fall in the inde 
+are made and instructions from different it  terminate region bet"veen a high and low
+erations are scheduled together. value.
+machine language Binary representation microarchitecture The organization ofthe
+used for communication within a computer processor, including the major functional
+system. units, their interconnection, and control.
+macro A pattern-matching and replace  microcode The set of microinstructions
+ment facility that provides a simple mecha  that control a processor.
+nism to name a frequently used sequence of microinstruction A representation of
+instructions. control using low-level instructions, each
+magnetic disk (also called hard disk) A of which asserts a set of control signals
+form of nonvolatile secondary memory that are active on a given clock cycle as
+composed of rotating platters coated with a well as specifies what microinstruction to
+magnetic recording material. execute next.
+megabyte Traditionally 1,048,576 (220) micro-operations The RISC-like instruc 
+bytes, although some communications and tions directly executed by the hardware in
+secondary storage systems have redefined it recent Pentium implementations.
+6
+to mean 1,000,000 (10 ) bytes. microprogram A symbolic representation
+memory The storage area in which pro  ofcontrol in the form of instructions, called
+grams are kept when they are running and microinstructions, that are executed on a
+that contains the data needed by the run  simple micromachine.
+IlIng programs. microprogrammed control A method of
+memory hierarchy A structure that uses specifying control that uses microcode rath 
+multiple levels of memories; as the dis  er than a finite state representation.
+tance from the CPU increases, the size of million instructions per second (MI PS) A
+the memories and the access time both measurement of program execution speed
+IIlcrease. based on the number of millions of instruc 
+memory-mapped I/O An I/O scheme in tions. MIPS is computed as the instruction
+which portions of address space are as  count divided by the product of the execu 
+6
+signed to I/O devices and reads and writes tion time and 10 .
+to those addresses are interpreted as com  minterms Also called product terms.A set
+mands to the I/O device. oflogic inputs joined by conjunction (AND
+MESI cache coherency protocol A operations); the product terms form the
+write-invalidate protocol whose name is first logic stage of the programmable logic
+an acronym for the four states of the pro  array (PLA).
+tocol: Modified, Exclusive, Shared, mirroring Writing the identical data to
+Invalid. multiple disks to increase data availability.

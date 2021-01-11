@@ -1,0 +1,34 @@
+444 Chapter 6 Enhancing Performance with Plpellnlng
+Instruction fetch
+In-order issue
+and deccx:le unit
+Reservation Reservation Reservation Reservation
+...
+station station station station
+I I I I
+Functional
+Floating Load!
+Integer Integer ... Out-of-order execute
+units
+point Store
+I I I I
+Commit
+In-order commit
+unit
+FIGURE 6.49 The three primary units of a dynamically scheduled pipeline. The final step of
+updating the state isalso caUed retirement or graduation.
+the compiler in our earlier loop unrolling example on page 439. To see how this
+conceptually works, consider the following steps:
+I. When an instruction issues, if either of its operands is in the register file or
+the reorder buffer, it is copied to the reservation station immediately, where
+it is buffered until all the operands and an execution unit are available. For
+the issuing instruction, the register copy of the operand is no longer
+required, and if a write to that register occurred, the value could be over 
+written.
+2. If an operand is not in the register file or reorder buffer, it must be waiting
+to be produced by a functional unit. The name of the functional unit that
+will produce the result is tracked. When that unit eventually produces the
+result, it is copied directly into the waiting reservation station from the
+functional unit bypassing the registers.
+These steps effectively use the reorder buffer and the reservation stations to imple 
+ment register renaming.

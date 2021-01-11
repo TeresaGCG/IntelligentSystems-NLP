@@ -1,0 +1,84 @@
+36
+
+PHYSICS
+
+ 
+
+(d) 6.320 J
+(C) 6.032 N HT2
+[1] 0.0006032 m2
+
+. 1 1 The length, breadth and thickness of a rectangular sheet of metal are 4.234 m, 1.005 m,
+
+and 2.0 1 cm respectively. Give the area and volume of the sheet to correct significant
+figures.
+
+.12 The mass of a box measured by a grocer’s balance is 2.30 kg. Two gold pieces of
+
+masses 20.15 g and 20.17 g are added to the box. What is (a) the total mass of the
+box, (b) the difference in the masses of the pieces to correct significant figures ?
+
+. 13 A physical quantity P is related to four observables a, b, c and d as follows :
+
+P: aSbZ/(Jcid)
+
+The percentage errors of measurement in a, b, c and d are 1%, 3%, 4% and 2%,
+respectively. What is the percentage error in the quantity P? If the value of Pcalculated
+using the above relation turns out to be 3.763, to what value should you round off
+the result ?
+
+. 14 A book with many printing errors contains four different formulas for the displacement
+
+y of a particle undergoing a certain periodic motion :
+[a] y = a sin 211: t/T
+
+(b) y = a sin vt
+
+(C) y = (a/Tl sin t/a
+
+[d] y = (ch/2) {sin 27tt/ T + cos 27tt/T)
+[a = maximum displacement of the particle, v = speed of the particle. T= time—period
+of motion]. Rule out the wrong formulas on dimensional grounds.
+
+.15 A famous relation in physics relates ‘moving mass’ m to the ‘rest mass’ m0 of a
+
+particle in terms of its speed 1) and the speed of light, c. [This relation first arose as
+a consequence of special relativity due to Albert Einstein). A boy recalls the relation
+almost correctly but forgets where to put the constant c. He writes :
+
+m0
+
+m:
+
+Guess where to put the missing 0.
+
+.16 The unit of length convenient on the atomic scale is known as an angstrom and is
+
+denoted by A: 1 A— — 10‘10 m. The size of a hydrogen atom is about 0. 5 A. What is the
+total atomic volume in m3 of a mole of hydrogen atoms ?
+
+.17 One mole of an ideal gas at standard temperature and pressure occupies 22.4 L
+
+(molar volume). What is the ratio of molar volume to the atomic volume of a mole of
+hydrogen ? (Take the size of hydrogen molecule to be about 1 A). Why is this ratio
+so large ?
+
+.18 Explain this common observation clearly : If you look out of the window of a fast
+
+moving train, the nearby trees, houses etc. seem to move rapidly in a direction opposite
+to the trains motion, but the distant objects [hill tops, the Moon, the stars etc.)
+seem to be stationary. (In fact, since you are aware that you are moving, these
+distant objects seem to move with you].
+
+. 19 The principle of ‘parallax’ in section 2.3.1 is used in the determination of distances
+
+of very distant stars. The baseline AB is the line joining the Earth's two locations six
+months apart in its orbit around the Sun. That is, the baseline is about the diameter
+of the Earth’s orbit z 3 x 1011m. However, even the nearest stars are so distant that
+with such a long baseline, they show parallax only of the order of 1” (second) of arc
+or so. A parsec is a convenient unit of length on the astronomical scale. It is the
+distance of an object that will show a parallax of 1" [second of arc] from opposite
+ends of a baseline equal to the distance from the Earth to the Sun. How much is a
+parsec in terms of metres ?
+
+2019-20

@@ -1,0 +1,38 @@
+478 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+We know where to look in the cache fo r each possible address: the low-order
+bits of an address can be used to find the unique cache entry to which the address
+could map. Figure 7.7 shows how a referenced address is divided into
+• a cache index, which is used to select the block
+• a tag field, which is used to compare with the value of the tag field of the
+cache
+Address (showing bit positions)
+3130 • • • 13 1211 ••• 21 0
+Byt.
+offset
+20 10
+Hit
+T, g
+,
+Dot
+Index
+Index Valid Tag D' fa
+0
+1
+2
+•••
+•••
+•••
+1021
+1022
+1023
+20 32
+-0
+Y
+FIGURE 7.7 For this cache, the lower portion of the address Is used to select a cache
+entry consisting of a data word and a tag. The tag from the cache is compared against the upper
+portion of the address to determine whether the entry in the cache corresponds to the requested address.
+10
+Because the cache has 2 (or 1024) words and a block size of I word, 10 bits are used to index the cache,
+leaving 32 - 10 - 2 = 20 bits to be compared against the tag. If the tag and upper 20 bits of the address are
+equal and the valid bit is on, then the request hits in the cache, and the word is supplied to the processor.
+Otherwise, a miss occurs.

@@ -1,0 +1,36 @@
+Expressions and Equations
+111
+Notice again that with this property I never specified the signs of a, b, or
+c. I also never specified whether c was greater than 1 or less than 1. This
+property says that I can multiply (or divide) both sides of an equation by
+the same number (and this number can be positive or negative, or it can
+be a fraction, a decimal number, or an integer) and not change the valid-
+ity of the statement.
+These properties are certainly interesting in their own right, but, more
+importantly, they will play a crucial role in your success in being able to
+solve algebraic equations. We’ll see how they are used in the next section.
+Lesson 6-5: Solving Linear Equations in 1 Step
+An equation involves setting two algebraic expressions equal to each
+other and solving for the variable in the expressions. A linear expres-
+sion contains only constants and one variable raised to the first power.
+A linear expression can look something such as 3x + 2, 3(x − 2) + 1, or
+(2x + 3) + (5x − 2). Common to all of these expressions is the fact that
+there is only one variable, which is raised to the first power. The third
+expression has two terms that involve the variable, but the only variable
+in the expression is x.
+A linear equation is an equation in which two linear expressions are
+set equal to each other. We can use the algebraic properties of equality
+to help us solve linear equations.
+There are key transformations that you will use repeatedly when solving
+equations.When you use these transformations you will produce an equa-
+tion that has the same solutions as the original equation, but the solutions
+will be easier to see. In other words, you will be transforming the original
+equation into a different, equivalent equation that, ideally, will be easier to
+solve. The goal is to write an equation of the form x = a number.
+The first four transformations that we will practice are described in
+the table shown on page 112.
+Anything that is done to one side of the equation must also be done
+on the other side of the equation. This ensures that balance is main-
+tained. Remember that the goal is to determine the value of the variable.
+In order to solve for the variable, you must get the variable by itself.
+These transformations help you isolate the variable.

@@ -1,0 +1,70 @@
+TRANSPORT IN PLANTS
+
+1 1.6. 1 The Pressure Flow or Mass Flow Hypothesis
+
+The accepted mechanism used for the translocation of sugars from source
+to sink is called the pressure ﬂow hypothesis. (see Figure 1 1.10). As
+glucose is prepared at the source (by photosynthesis) it is converted to
+sucrose (a dissacharide). The sugar is then moved in the form of sucrose
+into the companion cells and then into the living phloem sieve tube cells
+by active transport. This process of loading at the source produces a
+hypertonic condition in the phloem. Water in the adjacent xylem moves
+into the phloem by osmosis. As osmotic pressure builds up the phloem
+sap will move to areas of lower pressure. At the sink osmotic pressure
+must be reduced. Again active transport is necessary to move the sucrose
+out of the phloem sap and into the cells which will use the sugar —
+converting it into energy, starch, or cellulose. As sugars are removed, the
+osmotic pressure decreases and water moves out of the phloem.
+
+To summarise, the movement of sugars in the phloem begins at the
+source, where sugars are loaded (actively transported) into a sieve tube.
+Loading of the phloem sets up a water potential gradient that facilitates
+the mass movement in the phloem.
+
+Phloem tissue is composed of sieve tube cells, which form long columns
+with holes in their end walls called sieve plates. Cytoplasmic strands pass
+through the holes in the sieve plates, so forming continuous ﬁlaments. As
+hydrostatic pressure in the sieve tube of phloem increases, pressure ﬂow
+begins, and the sap moves through the phloem. Meanwhile, at the sink,
+incoming sugars are actively transported out of the phloem and removed
+
+Sugars leave sieve tubes;
+water follows by osmosis
+
+   
+ 
+  
+   
+   
+  
+  
+   
+
+Tip of stem
+
+Sugar solution ﬂows
+to regions of low
+turgor pressure
+
+1
+
+Phloem
+
+for metabolism and
+storage; water follows
+by osmosis
+
+Root
+
+Sugars enter sieve tubes;
+water follows by osmosis
+
+Sugars leave sieve tube
+
+=High
+turgor
+pressure
+
+Figure11.10 Diagrammatic presentation of mechanism of translocation
+
+191

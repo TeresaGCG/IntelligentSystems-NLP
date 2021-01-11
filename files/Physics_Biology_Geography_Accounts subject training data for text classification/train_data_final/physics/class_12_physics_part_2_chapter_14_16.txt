@@ -1,0 +1,77 @@
+l Physics
+
+ 
+
+output. This is what happens in a nuclear reactor. If the chain reaction is
+uncontrolled, it leads to explosive energy output, as in a nuclear bomb.
+
+There is, however, a hurdle in sustaining a chain reaction, as described
+here. It is known experimentally that slow neutrons (thermal neutrons)
+are much more likely to cause fission in 2325U than fast neutrons. Also
+fast neutrons liberated in ﬁssion would escape instead of causing another
+ﬁssion reaction.
+
+The average energy of a neutron produced in fission of 25’25U is 2 MeV.
+
+These neutrons unless slowed down will escape from the reactor without
+interacting with the uranium nuclei, unless a very large amount of
+fissionable material is used for sustaining the chain reaction. What one
+needs to do is to slow down the fast neutrons by elastic scattering with
+light nuclei. In fact, Chadwick’s experiments showed that in an elastic
+collision with hydrogen the neutron almost comes to rest and proton
+carries away the energy. This is the same situation as when a marble hits
+head-on an identical marble at rest. Therefore, in reactors, light nuclei
+called moderators are provided along with the fissionable nuclei for slowing
+down fast neutrons. The moderators commonly used are water, heavy
+water (D20) and graphite. The Apsara reactor at the Bhabha Atomic
+Research Centre (BARC), Mumbai, uses water as moderator. The other
+Indian reactors, which are used for power production, use heavy water
+as moderator.
+
+Because of the use of moderator, it is possible that the ratio, K, of
+number of fission produced by a given generation of neutrons to the
+number of fission of the preceeding generation may be greater than one.
+This ratio is called the multiplication factor; it is the measure of the growth
+rate of the neutrons in the reactor. For K = 1, the operation of the reactor
+is said to be critical, which is what we wish it to be for steady power
+operation. If K becomes greater than one, the reaction rate and the reactor
+power increases exponentially. Unless the factor K is brought down very
+close to unity, the reactor will become supercritical and can even explode.
+The explosion of the Chernobyl reactor in Ukraine in 1986 is a sad
+reminder that accidents in a nuclear reactor can be catastrophic.
+
+The reaction rate is controlled through control-rods made out of
+neutron-absorbing material such as cadmium. In addition to control rods,
+reactors are provided with safety rods which, when required, can be
+inserted into the reactor and K can be reduced rapidly to less than unity.
+
+The more abundant isotope 2§§U in naturally occurring uranium is
+
+non-fissionable. When it captures a neutron, it produces the highly
+radioactive plutonium through these reactions
+
+http://www.npci|.nic.in/main/AllProjectOperati0nDisp|ay.aspx
+
+Nuclear power plants in India
+
+,A x
+«x,
+.. w
+
+2
+‘~ 1.2% ‘,
+tn
+
+ 
+
+238 239 239 — —
+92U+na 9,te 93Np+e +V
+
+2fﬁNp a2§§Pu+e‘+1—/ (13-29)
+
+Plutonium undergoes fission with slow neutrons.
+
+Figure 13.5 shows the schematic diagram of a nuclear reactor based
+454 on thermal neutron fission. The core of the reactor is the site of nuclear
+
+2019-20

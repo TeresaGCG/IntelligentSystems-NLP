@@ -1,0 +1,70 @@
+i Physics
+
+ 
+
+X X X X X X X X X X
+X X X X X X X X
+V V
+X X X X X X X X
+X X X X X X X X X X
+FIGURE 6.8
+
+(d) Predict the polarity of the capacitor in the situation described by
+
+Fig. 6.9.
+A
+FIGURE 6.9
+Solution
+
+(a) No. However strong the magnet may be, current can be induced
+only by changing the magnetic ﬂux through the loop.
+
+(b) No current is induced in either case. Current can not be induced
+by changing the electric ﬂux.
+
+(c) The induced emf is expected to be constant only in the case of the
+rectangular loop. In the case of circular loop, the rate of change of
+area of the loop during its passage out of the ﬁeld region is not
+constant, hence induced emf will vary accordingly.
+
+((1) The polarity of plate ‘A’ will be positive with respect to plate ‘B’ in
+the capacitor.
+
+EXAMPLE 6.5
+
+6.6 MOTIONAL ELECTROMOTIVE FORCE
+
+Let us consider a straight conductor moving in a uniform and time-
+independent magnetic ﬁeld. Figure 6.10 shows a rectangular conductor
+PQRS in which the conductor P9 is free to move. The rod P9 is moved
+
+towards the left with a constant velocity v as
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+>< shown in the figure. Assume that there is no
+loss of energy due to friction. PQRS forms a
+X closed circuit enclosing an area that changes
+X as PQ moves. It is placed in a uniform magnetic
+ﬁeld B which is perpendicular to the plane of
+X this system. If the length R9 = xand RS = l, the
+magnetic ﬂux (DB enclosed by the loop PQRS
+X will be
+X ch = le
+Since xis changing with time, the rate of change
+of ﬂux (DB will induce an emf given by:
+FIGURE 6.10 The ann PQ is moved to the left _ déb (1
+side. thus decreasing the area of the E: B = —— (le)
+rectangular loop. This movement dt dt
+induces a current I as shown. dx
+212 = —BIE = Blv (6.5)
+
+2019-20

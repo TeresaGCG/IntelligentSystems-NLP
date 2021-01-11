@@ -1,0 +1,116 @@
+368
+
+PHYSICS
+
+satellite. Detection of the original signal will usu-
+ally involve these steps in reverse order.
+
+Not all waves require a medium for their
+propagation. We know that light waves can
+travel through vacuum. The light emitted by
+stars, which are hundreds of light years away,
+reaches us through inter-stellar space, which
+is practically a vacuum.
+
+The most familiar type of waves such as waves
+on a string, water waves, sound waves, seismic
+waves, etc. is the so-called mechanical waves.
+These waves require a medium for propagation,
+they cannot propagate through vacuum. They
+involve oscillations of constituent particles and
+depend on the elastic properties of the medium.
+The electromagnetic waves that you will learn
+in Class XII are a different type of wave.
+Electromagnetic waves do not necessarily require
+a medium - they can travel through vacuum.
+Light, radiowaves, X-rays, are all electromagnetic
+waves. In vacuum, all electromagnetic waves
+have the same speed c, whose value is :
+
+0:299, 792, 458 HIS—1. (15.1)
+
+A third kind of wave is the so-called Matter
+waves. They are associated with constituents of
+matter : electrons, protons, neutrons, atoms and
+molecules. They arise in quantum mechanical
+description of nature that you will learn in your
+later studies. Though conceptually more abstract
+than mechanical or electro-magnetic waves, they
+have already found applications in several
+devices basic to modern technology; matter
+waves associated with electrons are employed
+
+in electron microscopes.
+
+In this chapter we will study mechanical
+waves, which require a material medium for
+their propagation.
+
+The aesthetic inﬂuence of waves on art and
+literature is seen from very early times; yet the
+first scientific analysis of wave motion dates back
+to the seventeenth century. Some of the famous
+scientists associated with the physics of wave
+motion are Christiaan Huygens (1629- 1695).
+Robert Hooke and Isaac Newton. The
+understanding of physics of waves followed the
+physics of oscillations of masses tied to springs
+and physics of the simple pendulum. Waves in
+elastic media are intimately connected with
+harmonic oscillations. (Stretched strings, coiled
+springs, air, etc., are examples of elastic media).
+
+2019-20
+
+We shall illustrate this connection through
+simple examples.
+
+Consider a collection of springs connected to
+one another as shown in Fig. 15.1. If the spring
+at one end is pulled suddenly and released, the
+disturbance travels to the other end. What has
+
+WWW
+
+Fig. 15.1 A collection of springs connected to each
+other. The end A is pulled suddenly
+generating a disturbance, which then
+propagates to the other end.
+
+happened? The first spring is disturbed from its
+equilibrium length. Since the second spring is
+connected to the first, it is also stretched or
+compressed, and so on. The disturbance moves
+from one end to the other; but each spring only
+executes small oscillations about its equilibrium
+position. As a practical example of this situation,
+consider a stationary train at a railway station.
+Different bogies of the train are coupled to each
+other through a spring coupling. When an
+engine is attached at one end, it gives a push to
+the bogie next to it; this push is transmitted from
+one bogie to another without the entire train
+being bodily displaced.
+
+Now let us consider the propagation of sound
+waves in air. As the wave passes through air, it
+compresses or expands a small region of air. This
+causes a change in the density of that region,
+say 6p, this change induces a change in pressure,
+6p, in that region. Pressure is force per unit area,
+so there is a restoring force proportional to
+the disturbance, just like in a spring. In this
+case, the quantity similar to extension or
+compression of the spring is the change in
+density. If a region is compressed, the molecules
+in that region are packed together, and they tend
+to move out to the adjoining region, thereby
+increasing the density or creating compression
+in the adjoining region. Consequently, the air
+in the first region undergoes rarefaction. If a
+region is comparatively rarefied the surrounding
+air will rush in making the rarefaction move to
+the adjoining region. Thus, the compression or
+rarefaction moves from one region to another,
+making the propagation of a disturbance
+possible in air.

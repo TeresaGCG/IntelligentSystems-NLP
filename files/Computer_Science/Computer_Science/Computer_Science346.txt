@@ -1,0 +1,46 @@
+330 Chapter 5 The Processor: Datapath and Control
+Defining the Control
+Now that we have determined what the control signals are and when they must be
+asserted, we can implement the control unit. To design the control unit for the
+single-cycle datapath, we used a set of truth tables that specified the setting of the
+control signals based on the instruction class. For the multicycle datapath, the
+control is more complex because the instruction is executed in a series of steps.
+The control for the multicycle datapath must specify both the signals to be set in
+any step and the next step in the sequence.
+II
+In this subsection and in Section 5.7, we will look at two different techniques
+to specify the control. The first technique is based on finite state machines that are
+microprogram A symbolic usually represented graphically. The second technique, called microprogramming,
+representation ofcontrol in the
+uses a programming representation for control. Both of these techniques repre 
+fann ofinstructions, called
+sent the control in a form that allows the detailed implementation- using gates,
+microinstructions, that are exe 
+ROMs, or PLAs-to be synthesized by a CAD system. In this chapter, we will
+cuted on a simple micromachine.
+focus on the design of the control and its representation in these two forms.
+'II
+Section 5.8 shows how hardware design languages are used to design modern
+processors with examples of both the multicycle datapath and the finite state control.
+In modern digital systems design , the final step of taking a hardware description to
+actual gates is handled by logic and datapath synthesis tools. Appendix C shows how
+this process operates by translating the multicycle control unit to a detailed hardware
+implementation. The key ideas of control can be grasped from this chapter without
+'II
+examining the material in either 'll Section 5.8 or Appendix C. However, if you
+II
+want to actually do some hardware design, Section 5.9 is useful, and Appendix C
+can show you what the implementations are likely to look like at the gate level.
+Given this implementation, and the knowledge that each state requires 1 clock
+cycle, we can find the CPI for a typical instruction mix.
+CPI in a Multicycle CPU
+EXAMPLE Using the SPECINT2000 instruction mix shown in Figure 3.26, what is the
+CPI , assuming that each state in the multicycle CPU requires 1 clock cycle?
++
+ANSWER The mix is 25% loads (I % load byte 24% load word), 10% stores (i % sto re
++
+byte 9% store word), 11 % branches (6% beq, 5% bne), 2% jumps (1 %
++
+j a1 1% j r ), and 52% ALU (all the rest of the mix, which we assume to be
+ALU instructions). From Figure 5.30 on page 329, the number of clock cycles
+for each instruction class is the following:

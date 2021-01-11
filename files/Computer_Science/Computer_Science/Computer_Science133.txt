@@ -1,0 +1,42 @@
+2.11 How Compliers Optimize 117
+involve loop transformations that can reduce loop overhead, improve memory
+access, and exploit the hardware more effectively. For example, in loops that execute
+many iterations, such as those traditioll3lly controlled by a for statement, the opti 
+mization of loop unrolling is often useful. Loop unrolling involves taking a loop loop unrolling A technique to
+get more performance from
+and replicating the body multiple times and executing the transformed loop fewer
+loops that access arrays, in
+times. Loop unrolling reduces the loop overhead and provides opportunities for
+which multiple copies of the
+many other optimizations. Other types of high-level transformations include
+loop body are made and instruc 
+sophisticated loop transformations such as interdlanging nested loops and blocking
+tions from different iterations
+loops to obtain better memory behavior; see Chapter 7 for examples.
+are scheduled together.
+Local and Global Optimizations
+Within the pass dedicated to local and global optimization, three classes of opti 
+mizations are performed:
+I. Local optimization works within a single basic block. A local optimization
+pass is often run as a precursor and successor to global optimization to
+"clea n up" the code before and after global optimization.
+2. Global optimization works across multiple basic blocks; we will see an
+example of this shortly.
+3. Global register allocation allocates variables to registers for regions of the
+code. Register allocation is crucial to getting good performance in modern
+processors.
+Several optimizations are performed both locally as well as globally, including
+common subexpression elimill3tion, constant propagation, copy propagation,
+dead store elimination, and strength reduction. Let's look at some simple exam 
+ples of these optimizations.
+Common subexpression elimination find s multiple instances of the sa me expres 
+sion and replaces the second one by a reference to the first. Consider, for example,
+a code segment to add 4 to an array element:
+x[i] = x[i] + 4
+The address calculation for x[ i) occurs twice and is identical since neither the
+starting address of x nor the value of i changes. Thus, the calculation can be reused.
+Let's look at the intermediate code for this fragment, since it allows severJl other
+optimizations to be performed. Here is the unoptimized intermediate code on the
+left, and on the right is the code with common subexpression elimill3tion replacing
+the second address calculation with the first. Note that the register allocation has not
+yet occurred, so the compiler is using virtual register numbers like R100 here.

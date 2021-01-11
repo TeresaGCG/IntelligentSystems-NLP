@@ -1,0 +1,66 @@
+5.4 A Simple Implementation Scheme 311
+~
+'0
+M
+,
+Add
+"
+ALU
+/
+4- ~
+Add result
+Shill ~
+I \ left 2
+RegDst
+Branch
+MemRead
+Instruction [31-26J MemtoReg
+Control
+ALUOp
+MemWrite
+ALUSrc
+/ RegWrite
+\
+Instruction [25-21]
+Read
+Read
+PC register 1
+address Read
+Instruction [20-16] data 1
+Read
+ze';;;
+register 2
+Instruction I
+0
+[31-0J ALU ALU Read
+M, Wrne Read f--O Address data 1
+result
+Instruction Instruction [15-11 ] " register data 2 ~f-- M,
+,
+y "
+memory
+v
+Wrne '" -L 0
+data Registers Data
+Write
+memory
+data
+/ \
+I "
+IInstruction [15--0] 16 32
+Sign
+,- ALU
+extend
+control
+\ /
+~
+Instruction [5--0J
+FIGURE 5.21 The datapath In operation for a branch equal Instruction. The control hnes, datapath umts, and connectIOns that are
+active are highlighted. After using the register file and ALU to perform the compare, the Zero output is used to select the next program counter from
+between the two candidmes.
+3. The ALU performs a subtract on the data values read from the register file.
+The value of PC + 4 is added to the sign-extended, lower 16 bits of the
+instruction (offset ) shifted left by two; the result is the branch target
+address.
+4. The Zero result from the ALU is used to decide which adder result to store
+into the Pc.

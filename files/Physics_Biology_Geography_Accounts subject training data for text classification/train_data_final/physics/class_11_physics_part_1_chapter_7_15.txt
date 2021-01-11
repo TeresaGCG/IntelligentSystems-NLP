@@ -1,0 +1,132 @@
+The physical quantities, moment of a force
+and angular momentum, have an important
+relation between them. It is the rotational
+analogue of the relation between force and linear
+momentum. For deriving the relation in the
+context of a single particle, we differentiate
+l = rXp with respect to time,
+
+d1 (:1
+
+EZEuXP)
+
+Applying the product rule for differentiation
+to the right hand side,
+dr dp
+
+i(r>< )-—>< +r><—
+dt P_dt P dt
+
+Now, the velocity of the particle is v = dr/ dt
+and p = m v
+
+dr
+Because ofthis EXP=V><mV=Q
+
+as the vector product of two parallel vectors
+vanishes. Further, since dp / dt = F,
+
+IXQZI'XFZT
+
+dt
+
+H 1(rx )—1:
+ence cit p—
+
+ﬂ—t (727)
+or dt_ .
+
+Thus, the time rate of change of the angular
+momentum of a particle is equal to the torque
+acting on it. This is the rotational analogue of
+the equation F = dp/dt, which expresses
+Newton’s second law for the translational motion
+of a single particle.
+
+Torque and angular momentum for a system
+of particles
+
+To get the total angular momentum of a system
+of particles about a given point we need to add
+vectorially the angular momenta of individual
+particles. Thus, for a system of n particles,
+
+L=ll+l2+...+ln 22L
+i=1
+
+The angular momentum of the th particle
+is given by
+
+1i = rixpi
+where 1': is the position vector of the 1“Lh particle
+with respect to a given origin and p = (mivi) is
+the linear momentum of the particle. (The
+
+2019-20
+
+PHYSICS
+
+An experiment with the bicycle rim
+
+Take a
+bicycle rim
+and extend
+its axle on
+both sides.
+Tie two
+5 t r i n g s
+at both ends
+A and B.
+as shown
+in the
+a d j oi n i n g
+ﬁgure. Hold
+both the
+s t r i n g 5
+together in
+one hand such that the rim is vertical. If you
+leave one string. the rim will tilt. Now keeping
+the rim in vertical position with both the strings
+in one hand, put the wheel in fast rotation
+around the axle with the other hand. Then leave
+one string, say B, from your hand. and observe
+what happens.
+
+The rim keeps rotating in a vertical plane
+and the plane of rotation turns around the
+string A which you are holding. We say that the
+axis of rotation of the rim or equivalently
+its angular momentum precesses about the
+string A.
+
+The rotating rim gives rise to an angular
+momentum. Determine the direction of this
+angular momentum. When you are holding the
+rotating rim with string A. a torque is generated.
+[We leave it to you to ﬁnd out how the torque is
+generated and what its direction is.) The effect
+of the torque on the angular momentum is to
+make it precess around an axis perpendicular
+to both the angular momentum and the torque.
+Verify all these statements.
+
+Initially After
+
+ 
+
+particle has mass mi and velocity vi) We may
+write the total angular momentum of a system
+of particles as
+
+L=Zl,=Zr. xp. (7.25b)
+
+This is a generalisation of the definition of
+angular momentum (Eq. 7 .25a) for a single
+particle to a system of particles.
+
+Using Eqs. (7.23) and (7.25b), we get
+
+dL d dli
+E:d_t(21i)=;g=2ti (7.28a)
+
+i

@@ -1,0 +1,26 @@
+Ratios, Proportions, and Percents
+137
+mark-up
+Percent mark-up =
+store’s price
+The percent mark-up can also be found using the ratio:
+price − price
+Percent mark-up = consumer store
+price
+store
+If we are given the percent mark-up and one of prices, either the
+price that the store pays or the price that the store charges the consumer,
+we can use this ratio to determine the other price. If we are given both
+prices we can first find the mark-up and then find the percent mark-up.
+Make sure that you convert the percent mark-up to its decimal equiva-
+lent when working out these calculations.
+Example 1
+A grocery store has a 70% mark-up on its beef. If the store pays
+$9 per pound for filet mignon, find the mark-up and the price to
+the consumer.
+Solution: Convert the percent mark-up to a decimal, and use the
+equation for percent mark-up to determine the mark-up:
+The mark-up is $6.30 per pound.
+The price to the consumer is the store’s cost plus the mark-up.
+The price to the consumer is therefore:
+$9+ $6.30 , or $15.30 per pound

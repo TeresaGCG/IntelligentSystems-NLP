@@ -1,0 +1,47 @@
+244
+
+ 
+
+ 
+
+I=—= 220V =l.O4A
+XC 2129
+
+The peak current is
+
+in. = £1 = (l.41)(1.04A) = 1.4m
+This current oscillates between +1.47A and —l.47 A. and is ahead of
+the voltage by 71/ 2.
+
+If the frequency is doubled. the capacitive reactance is halved and
+consequently. the current is doubled.
+
+EXAMPLE 7.4
+
+Example 7.5 A light bulb and an open coil inductor are connected to
+an ac source through a key as shown in Fig. 7.1 1.
+
+FIGURE 7. 1 1
+
+The switch is closed and after sometime. an iron rod is inserted into
+the interior of the inductor. The glow of the light bulb (a) increases: (b)
+decreases; (c) is unchanged. as the iron rod is inserted. Give your
+answer with reasons.
+
+Solution As the iron rod is inserted. the magnetic field inside the coil
+magnetizes the iron increasing the magnetic field inside it. Hence.
+the inductance of the coil increases. Consequently. the inductive
+reactance of the coil increases. As a result. a larger fraction of the
+applied ac voltage appears across the inductor. leaving less voltage
+across the bulb. Therefore. the glow of the light bulb decreases.
+
+EXAMPLE 7.5
+
+ 
+
+ 
+
+?§i At: VQLTAGE APPLIED To A. 83mm LCR @IRSUET
+
+,vvva
+‘5‘.

@@ -1,0 +1,37 @@
+G-l
+Glossary
+Glossary
+absolute address A variable's or routine's Amdahl's law A rule stating that the per 
+actual address in memory. formance enhancement possible with a giv 
+abstraction A model that renders lower  en improvement is limited by the amount
+level details of computer systems tempo  that the improved feature is used.
+rarily invisible in order to facilitate design of antidependence Also called name depen 
+sophisticated systems. dence. An ordering forced by the reuse of a
+acronym A word constructed by taking the name, typically a register, rather then by a
+initial letters of string of words. For exam  true dependence that carries a value be 
+ple: RAM isan acronym for Random Access tween nvo instructions.
+Memory, and CPU is an acronym for Cen  antifuse A structure in an integrated cir 
+tral Processing Unit. cuit that when programmed makes a per 
+active matrix display A liquid crystal dis  manent connection between nvo wires.
+play using a transistor to control the trans  application binary interface (ABI) The
+mission of light at each individual pixeL user portion of the instruction set plus
+address translation Also called address the operating system interfaces used by
+mapping. The process by which avirtual ad  application programmers. Defines a
+dress is mapped to an address used to access standard for binary portability across
+memory. computers.
+address A value used to delineate the loca  architectural registers The instruction set
+tion of a specific data element within a visible registers of a processor; for example,
+memory array. in MIPS, these are the 32 integer and 16
+addressing mode One of several address  floating-point registers.
+ing regimes delimited by their varied use of arithmetic mean The average of the execu 
+operands and/or addresses. tion times that is directly proportional to
+advanced load In IA-64, a speculative load total execution time.
+instruction with support to check for aliases assembler directive An operation that tells
+that could invalidate the load. the assembler how to translate a program
+aliasing A situation in which the same ob  but does not produce machine instructions;
+ject is accessed by two addresses; can occur always begins with a period.
+in virtual memorywhen there are two virtu  assembler A program that translates a
+al addresses for the same physical page. symbolic version of instructions into the bi 
+alignment restriction A requirement that nary versIOn.
+data be aligned in memory on natural assembly language A symbolic language
+boundaries that can be translated into binary.

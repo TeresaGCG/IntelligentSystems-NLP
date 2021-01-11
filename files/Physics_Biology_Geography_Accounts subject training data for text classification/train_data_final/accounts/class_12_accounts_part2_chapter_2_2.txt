@@ -1,0 +1,64 @@
+74
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+2.3.1 From the Point of view of Security
+
+(a)
+
+(b)
+
+Secured Debentures: Secured debentures refer to those debentures
+where a charge is created on the assets of the company for the purpose
+of payment in case of default. The charge may be ﬁxed or ﬂoating. A
+ﬁxed charge is created on a speciﬁc asset whereas a ﬂoating charge is
+on the general assets of the company. The ﬁxed charge is created
+against those assets which are held by a company for use in operations
+not meant for sale whereas ﬂoating charge involves all assets excluding
+those assigned to the secured creditors.
+
+Unsecured Debentures: Unsecured debentures do not have a speciﬁc
+charge on the assets of the company. However, a ﬂoating charge may
+be created on these debentures by default. Normally, these kinds of
+debentures are not issued.
+
+2.3.2 From the Point of view of Tenure
+
+(a)
+
+(b)
+
+Redeemable Debentures: Redeemable debentures are those which are
+payable on the expiry of the speciﬁc period either in lump sum or in
+Instalments during the life time of the company. Debentures can be
+redeemed either at par or at premium.
+
+Irredeemable Debentures: Irredeemable debentures are also known
+as Perpetual Debentures because the company does not give any
+undertaking for the repayment of money borrowed by issuing such
+debentures. These debentures are repayable on the winding-up of a
+company or on the expiry of a long period.
+
+2.3.3 From the Point of view of Convertibility
+
+(a)
+
+(1?)
+
+Convertible Debentures: Debentures which are convertible into equity
+shares or in any other security either at the option of the company or
+the debentureholders are called convertible debentures. These
+debentures are either fully convertible or partly convertible.
+Non-Convertible Debentures: The debentures which cannot be
+converted into shares or in any other securities are called non-
+convertible debentures. Most debentures issued by companies fall in
+this category.
+
+2.3.4 From Coupon Rate Point of view
+
+(a)
+
+Specific Coupon Rate Debentures: These debentures are issued with
+a speciﬁed rate of interest, which is called the coupon rate. The speciﬁed
+rate may either be ﬁxed or ﬂoating. The ﬂoating interest rate is usually
+tagged with the bank rate.

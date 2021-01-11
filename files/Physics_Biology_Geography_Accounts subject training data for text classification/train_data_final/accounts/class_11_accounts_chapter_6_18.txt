@@ -1,0 +1,53 @@
+198 Accountancy
+
+Sales Book (Journal)
+
+Date Invoice Name of customers L.F. Amount
+No. (Accounts to be debited) ?
+
+ 
+
+Ashok traders
+
+Bimal service centre
+Chopra enterprises
+Diwakar and sons
+
+If sales to Diwakar and sons were not posted to his account, ledger Will show
+the following position:
+
+Ashok Traders Account
+
+Dr. Cr.
+Date Particulars .F. Amount Date Particulars J.F. Amount
+? ?
+Sales 20,000 Balance c / d 20,000
+20,000 20,000
+=
+Bimal Service Centre's Account
+Dr. Cr.
+?
+Sales 10, 000 Balance c / d 10,000
+l_,—0_ 000 10,000
+
+Chopra Enterprises Account
+
+Sales 5, 000 Balance c / d 5, 000
+5, 000 5, 000
+
+Sales Account
+
+Cr. Dr.
+? ?
+
+ 
+
+ 
+
+ 
+
+ 
+
+-_---_l
+
+2019-2020

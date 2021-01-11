@@ -1,0 +1,29 @@
+2.20 Exercises 147
+• The arithmetic instructions correspond to the operations found in assign 
+ment statements.
+• Data transfer instructions are most likely to occur when dealing with data
+structures like arrays or structures.
+• The conditional branches are used in ifstatements and in loops.
+• The unconditional jumps are used in procedure calls and returns and for
+case/switch statements.
+After we explain computer arithmetic in Chapter 3, we reveal more of the MIPS
+instruction set architecture.
+Historical Perspective and
+Further Reading
+This section surveys the history of instruction set architraves over time, and we
+give a short history of programming languages and compilers. ISAs include accu 
+mulator architectures, general-purpose register architectures, stack architectures,
+and a brief history of the IA-32. We also review the controversial subjects of high 
+level-language computer architectures and reduced instruction set computer
+architectures. The history of programming languages includes Fortran, Lisp,
+Algol, C, Cobol, Pascal, Simula, Smalltalk, C++, and Java, and the history of com 
+pilers includes the key milestones and the pioneers who achieved them. The rest
+of this section is on the CD.
+Exercises
+II
+Appendix A describes the MIPS simulator, which is helpful for these exercises.
+Although the simulator accepts pseudoinstructions, try not to use pseudoinstruc 
+tions for any exercises that ask you to produce MIPS code. Your goal should be to
+learn the real MIPS instruction set, and if you are asked to count instructions,
+your count should reflect the actual instructions that will be executed and not the
+pseudoinstructions.

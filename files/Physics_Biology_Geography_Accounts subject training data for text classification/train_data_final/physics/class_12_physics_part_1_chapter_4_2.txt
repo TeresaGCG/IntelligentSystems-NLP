@@ -1,0 +1,114 @@
+65
+(N
+‘3
+|
+00
+LO
+39
+E
+E
+3
+z
+8
+E
+m
+E
+O
+2
+La
+E
+
+ 
+
+134
+
+ 
+
+Hendrik Antoon Lorentz
+(1853 - 1928) Dutch
+theoretical physicist,
+professor at Leiden. He
+investigated the relationship
+between electricity, magnetism,
+and mechanics. In order to
+explain the observed effect of
+magnetic ﬁelds on emitters of
+light (Zeeman effect), he
+postulated the existence of
+electric charges in the atom,
+for which he was awarded the
+Nobel Prize in 1902.. He derived
+a set of transformation
+equations (known after him,
+as Lorentz transformation
+equations) by some tangled
+mathematical arguments, but
+he was not aware that these
+equations hinge on a new
+concept of space and time.
+
+F =q[E(r)+ V><B(r)]EF
+
+ 
+
+ 
+
+E = Q / (41:80):2 (4.1)
+
+where i' is unit vector along 1', and the ﬁeld E is a vector
+ﬁeld. A charge q interacts with this ﬁeld and experiences
+a force F given by
+
+F = q E =qu‘ /(4TC80)I‘2 (4.2)
+As pointed out in the Chapter 1, the field E is not
+just an artefact but has a physical role. It can convey
+energy and momentum and is not established
+instantaneously but takes ﬁnite time to propagate. The
+concept of a field was specially stressed by Faraday and
+was incorporated by Maxwell in his unification of
+electricity and magnetism. In addition to depending on
+each point in space, it can also vary with time, i.e., be a
+function of time. In our discussions in this chapter, we
+will assume that the ﬁelds do not change with time.
+The ﬁeld at a particular point can be due to one or
+more charges. If there are more charges the fields add
+vectorially. You have already learnt in Chapter 1 that
+this is called the principle of superposition. Once the ﬁeld
+is known, the force on a test charge is given by Eq. (4.2).
+Just as static charges produce an electric ﬁeld, the
+currents or moving charges produce (in addition) a
+magnetic field, denoted by B (r), again a vector ﬁeld. It
+has several basic properties identical to the electric ﬁeld.
+It is deﬁned at each point in space (and can in addition
+depend on time). Experimentally, it is found to obey the
+principle of superposition: the magnetieﬁeld of several
+sources is the vector addition of magnetic ﬁeld of each
+individual source.
+
+4.2.2 Magnetic Field, Lorentz Force
+
+Let us suppose that there is a point charge q (moving
+with a velocity v and, located at r at a given time t) in
+presence of both the electric ﬁeld E (r) and the magnetic
+ﬁeld B (r). The force on an electric charge q due to both
+of them can be written as
+
++F (4.3)
+
+electric magnetic
+
+This force was given first by H.A. Lorentz based on the extensive
+experiments of Ampere and others. It is called the Lorentz force. You
+have already studied in detail the force due to the electric field. If we
+look at the interaction with the magnetic ﬁeld, we ﬁnd the following
+
+features.
+
+(i) It depends on q, v and B (charge of the particle, the velocity and the
+magnetic field). Force on a negative charge is opposite to that on a
+positive charge.
+
+(ii) The magnetic force q [ v X B ] includes a vector product of velocity
+and magnetic ﬁeld. The vector product makes the force due to magnetic
+
+2019-20

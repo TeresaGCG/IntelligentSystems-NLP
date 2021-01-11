@@ -1,0 +1,65 @@
+274
+
+Physics
+
+EXAMPLE 8. 1
+
+along the loop and of the same value.
+The ﬂux (DE through this loop is
+
+(DE = E X area of the loop
+
+2
+= mem =E=i
+2 4 480
+
+The displacement current
+
+. d 1d _
+1d 2 80% :Zd—(f: 0.5xlO 6exp(—1)
+
+at t = 10‘3s. Now, applying Ampere-Maxwell law to the loop, we get
+
+1 . . .
+BX 27‘ X (5] = #0 (lo + lat) = #0 (0 +ld) = O.5><10‘6 poexp(—1)
+
+or, B = 0.74 x lO‘lST
+
+8.3 ELECTROMAGNETIC WAVES
+
+8.3.1 Sources of electromagnetic waves
+
+How are electromagnetic waves produced? Neither stationary charges
+nor charges in uniform motion (steady currents) can be sources of
+electromagnetic waves. The former produces only electrostatic ﬁelds, while
+the latter produces magnetic fields that, however, do not vary with time.
+It is an important result of Maxwell’s theory that accelerated charges
+radiate electromagnetic waves. The proof of this basic result is beyond
+the scope of this book, but we can accept it on the basis of rough,
+qualitative reasoning. Consider a charge oscillating with some frequency.
+(An oscillating charge is an example of accelerating charge.) This
+produces an oscillating electric ﬁeld in space, which produces an oscillating
+magnetic ﬁeld, which in turn, is a source of oscillating electric field, and
+so on. The oscillating electric and magnetic fields thus regenerate each
+other, so to speak, as the wave propagates through the space.
+The frequency of the electromagnetic wave naturally equals the
+frequency of oscillation of the charge. The energy associated with the
+propagating wave comes at the expense of the energy of the source — the
+accelerated charge.
+
+From the preceding discussion, it might appear easy to test the
+prediction that light is an electromagnetic wave. We might think that all
+we needed to do was to set up an ac circuit in which the current oscillate
+at the frequency of visible light, say, yellow light. But, alas, that is not
+possible. The frequency of yellow light is about 6 X 1014 Hz, while the
+frequency that we get even with modern electronic circuits is hardly about
+1011 Hz. This is why the experimental demonstration of electromagnetic
+wave had to come in the low frequency region (the radio wave region), as
+in the Hertz’s experiment (1887).
+
+Hertz’s successful experimental test of Maxwell’s theory created a
+sensation and sparked off other important works in this field. Two
+important achievements in this connection deserve mention. Seven years
+after Hertz, J agdish Chandra Bose, working at Calcutta (now Kolkata),
+
+2019-20

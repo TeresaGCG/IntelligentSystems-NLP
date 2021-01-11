@@ -1,0 +1,46 @@
+380 Chapter 6 Enhancing Performance with Plpellnlng
+The equivalent decision task in a computer is the branch instruction. Notice that
+we must begin fetching the instruction following the branch on the very next
+clock cycle. But, the pipeline cannot possibly know what the next instruction
+should be, since it only just received the branch instruction from memory! Just as
+with laundry, one possible solution is to stall immediately after we fetch a branch,
+waiting until the pipeline determines the outcome of the branch and knows what
+instruction address to fetch from.
+Let's assume that we put in enough extra hardware so that we can test registers,
+calculate the branch address, and update the PC during the second stage of the
+pipeline (see Section 6.6 for details). Even with this extra hardware, the pipeline
+involving conditional branches would look like Figure 6.7. The 1w instruction,
+executed if the branch fails, is stalled one extra 200-ps clock cycle before starting.
+Performance of "Stall on Branch"
+Estimate the impact on the clock cycles per instruction (CPI) of stalling on
+EXAMPLE
+branches. Assume all other instructions have a CPl of I.
+Figure 3.26 on page 228 in Chapter 3 shows that branches are 13% of the in 
+ANSWER
+structions executed in SPECint2000. Since other instructions run have a CPI
+of 1 and branches took one extra clock cycle for the stall, then we would see a
+CPI of 1.1 3 and hence a slowdown of 1.1 3 versus the ideal case. Notice that
+this includes only branches and that jumps might also incur a stall.
+Program
+200 400 600 800 1000 1200 1400
+execution
+•
+Time
+order
+(in instructions)
+lns1roct"", Data '0'
+add $4, $5, $6 '" "0
+lelch
+.=~
+InslNC1"", Oala
+'0'
+beq $1, $2, 40 '" "0
+felch
+200 ps ~
+_. ~' I'~-""I 8
+or $7, $8, $9
+400 ps folch ALU
+FIGURE 6.7 Pipeline showing stalling on every conditional branch as solution to control
+hazards. There is a one-stage pipeline stall, or bubble, after the branch. In reality, the process of creating a
+stall is slightly more complicated, as we will see in Section 6.6. The effect on performance, however, is the
+same as would occur if a bubble were inserted.

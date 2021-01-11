@@ -1,0 +1,34 @@
+92 Chapter 2 Instructions: Language of the Computer
+Compiling a String Copy Procedure, Showing How to Use C Strings
+EXAMPLE The procedure s tr cpy copies string y to string x uSlIlg the null byte
+termination cOIlVention ofC:
+void strcpy (cha r x[] , cha r y[J)
+I
+i nt 1 ;
+i 0 ;
+=
+while «x[i] y[iJ) ' \0 ' ) 1* copy & tes t byt e */
+= 1=
+i += 1;
+}
+\-Vhat is the MIPS assembly code?
+Below is the basic MIPS assembly code segment. Assume that base addresses
+ANSWER
+for arrays x and yare found in $aQ and $a l, while i is in $50. s trcpy ad 
+justs the stack pointer and then saves the saved register $sOon the stack:
+str cpy :
+addi $sp , $sp ,-4 It adjus t st ac k fo r 1 more i t em
+sw $50 , O( $ sp) It save $50
+To initialize i to 0, the next instruction sets $s 0 to 0 byadding 0 to 0 and plac 
+ing that sum in $s 0:
+add $sO , $zero , $ze r o It i 0 + 0
+=
+This is the beginning of the loop. The address of y [ i ] is first formed by add 
+ingi toy[] :
+It
+Ll : add $tl,$sO , $al add r ess of y[i] in $tl
+Note that we don't have to multiply i by 4 since y is an array of bytes and not
+of words, as in prior examples.
+To load the character in y [i ], we use load byte, which puts the character into
+HZ,
+lb H2 . O( l tl) II HZ ~ y[i]

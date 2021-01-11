@@ -1,0 +1,104 @@
+MOTION IN A STRAIGHT LINE
+
+49
+
+ 
+
+ 
+
+ 
+
+Fig. 3.13
+
+FIRST METHOD : In the first method, we split
+the path in two parts : the upward motion (A to
+B) and the downward motion (B to C) and
+calculate the corresponding time taken t1 and
+t2. Since the velocity at B is zero, we have :
+v = D0 + at
+
+O = 20 — 101:1
+
+Or, t1 = 2 s
+
+This is the time in going from A to B. From B, or
+the point of the maximum height, the ball falls
+freely under the acceleration due to gravity. The
+ball is moving in negative y direction. We use
+equation
+1
+y: y0 + vot+§at2
+We have, y0 =45m, y=O, v0=0, a=—g =—lOmS'2
+o = 45 +(1/2)(—10)t22
+
+Solving, we get t2 = 3 s
+
+Therefore, the total time taken by the ball before
+ithitsthe ground: t1+ t2 = 2 s+ 3s =5 s.
+
+SECOND METHOD : The total time taken can
+also be calculated by noting the coordinates of
+initial and final positions of the ball with respect
+to the origin chosen and using equation
+
+y=yO +v0t+éat2
+
+Now y0=25m y=0m
+vo=20ms4, a =—lOm S’Z, t = ?
+
+O = 25 +20 t + (1/2) (-10) t2
+Or, 5t2—20t —25 = 0
+
+Solving this quadratic equation for t, we get
+t = 5s
+
+Note that the second method is better since we
+do not have to worry about the path of the motion
+as the motion is under constant acceleration.
+
+4
+
+Example 3.5 Free-fall : Discuss the
+motion ofan object under free fall. Neglect
+
+air resistance.
+
+ 
+
+Answer An object released near the surface of
+the Earth is accelerated downward under the
+inﬂuence of the force of gravity. The magnitude
+of acceleration due to gravity is represented by
+g. If air resistance is neglected, the object is
+said to be in free fall. If the height through
+which the object falls is small compared to the
+earth’s radius, 9 can be taken to be constant,
+equal to 9.8 m S‘Z. Free fall is thus a case of
+motion with uniform acceleration.
+
+We assume that the motion is in y-direction,
+more correctly in —y-direction because we
+choose upward direction as positive. Since the
+acceleration due to gravity is always downward,
+it is in the negative direction and we have
+
+a=—g =—9.8er2
+The object is released from rest at y = 0. Therefore,
+v0 = 0 and the equations of motion become:
+
+v= O—gt =—9.8t ms*1
+y=O—1/2gt2 =—4.9t2 m
+v2=O—2gy =—19.6y m2s*2
+
+These equations give the velocity and the
+distance travelled as a function of time and also
+the variation of velocity with distance. The
+variation of acceleration, velocity, and distance,
+with time have been plotted in Fig. 3. 14(a), (b)
+and (c).
+
+1 2 t(s)—>
+
+-9.8 m/s2
+
+2019-20

@@ -1,0 +1,42 @@
+144 Chapter 2 Instructions: Language of the Computer
+memory. This second version of this program, with the code replicated to reduce
+loop overhead, copies at about 1.5 times faster. A third version, which used the
+larger floating-point registers instead of the integer registers of the IA-32, copies at
+about 2.0 times faster than the complex instruction.
+Fallacy: Write in assembly language to obtain the highest performance.
+At one time compilers for programming languages produced naive instruction
+sequences; the increasing sophistication of compilers means the gap between
+compiled code and code produced by hand is closing fast. In fact, to compete
+with current compilers, the assembly language programmer needs to thor 
+oughly understand the concepts in Chapters 6 and 7 (processor pipelining and
+memory hierarchy).
+This battle between compilers and assembly language coders is one situation
+in which humans are losing ground. For example, C offers the programmer a
+chance to give a hint to the compiler about which va riables to keep in registers
+versus spilled to memory. When compilers were poor at register allocation, such
+hints were vital to performance. In fact, some C textbooks spent a fair amount
+of time giving examples that effectively use register hints. Today's C compilers
+generally ignore such hints because the compiler does a better job at allocation
+than the programmer.
+Even ifwriting by hand resulted in faster code, the dangers of writing in assem 
+bly language are longer time spent coding and debugging, the loss in portability,
+and the difficulty of maintaining such code. One of the few widely accepted axi 
+oms of software engineering is that coding takes longer if you write more lines,
+and it clearly takes many more lines to write a program in assembly language than
+in C. Moreover, once it is coded, the next danger is that it will become a popular
+program. Such programs always live longer than expected, meaning that someone
+will have to update the code over several years and make it work with new releases
+of operating systems and new models of machines. Writing in higher-level lan 
+guage instead of assembly language not only allows future compilers to tailor the
+code to funlfe machines, it also makes the software easier to maintain and allows
+the program to run on more brands of computers.
+Pitfall: Forgetting that sequential word addresses in machines with byte address 
+ing do not differ by one.
+Many an assembly language programmer has toiled over errors made by assuming
+that the address of the next word can be found by incrementing the address in a
+register by one instead of by the word size in bytes. Forewarned is forearmed!
+Pitfall: Using a pointer to an automatic variable outside its defining procedure.
+Acommon mistake in dealing with pointers is to pass a result from a procedure that
+includes a pointer to an array that is local to that procedure. Following the stack dis 
+cipline in Figure 2.1 6, the memory that contains the local array will be reused as
+soon as the procedure returns. Pointers to automatic variables can lead to chaos.

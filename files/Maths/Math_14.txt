@@ -1,0 +1,29 @@
+Homework Helpers: Basic Math and Pre-Algebra
+14
+In the number 10, the symbol 1 is located in the tens’ place, and the
+symbol 0 is located in the ones’ place. As we continue to count, we in-
+crease the number located in the ones’ place until we reach 19. The next
+number is written 20. The number in the tens’ place is increased by 1 and
+we start over with 0 in the ones’ place. Our numbers can increase by
+changing the value in the ones’ place. These same 10 symbols are re-
+cycled in this pattern to describe numbers through 99. At this point, we
+need another place. One hundred is represented by the number 100: The
+symbol 1 is located in the hundreds’ place, and there are 0s in the tens’
+place and the ones’ place. We continue with this pattern until we get to
+999. The cycle continues and the thousands’ place is introduced. As the
+dots signify, this is how the list of counting numbers can go on forever.
+Lesson 1-1: Symbols Used
+Symbol Meaning Example
++ Addition 7 + 2 = 9
+− Subtraction 7 – 2 = 5
+×, ·,  or ( )( )  Multiplication 4 × 2= 8
+4 ⋅ 2= 8
+(4)(2) = 8
+/, −,  or ÷ Divided by
+= Is equal to 4 = 4
+≠ Is not equal to 4 ≠ 2
+> Is greater than 4 > 2
+≥ Is greater than or equal to 4 ≥ 4, 4 ≥ 2
+< Is less than 2 < 4
+≤ Is less than or equal to 4 ≤ 4, 2 ≤ 4 
+www.ebook3000.com

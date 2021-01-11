@@ -1,0 +1,107 @@
+WAVES
+
+ 
+
+Fig. 1 5.9 Two pulses having equal and opposite
+displacements moving in opposite
+directions. The overlapping pulses add up
+to zero displacement in curve (c).
+
+According to this principle, each pulse moves
+as if others are not present. The constituents of
+the medium, therefore, suffer displacments due
+to both and since the displacements can be
+positive and negative, the net displacement is
+an algebraic sum of the two. Fig. 15.9 gives
+graphs of the wave shape at different times. Note
+the dramatic effect in the graph (c); the
+displacements due to the two pulses have exactly
+cancelled each other and there is zero
+displacement throughout.
+
+To put the principle of superposition
+mathematically, let y1 (x, t) and y2 (x, t) be the
+displacements due to two wave disturbances in
+the medium. If the waves arrive in a region
+simultaneously, and therefore, overlap, the net
+displacement y (x, t) is given by
+
+y (x, t) = y,(x, t) + y2(x, t) (15.25)
+
+If we have two or more waves moving in the
+medium the resultant waveform is the sum of
+wave functions of individual waves. That is, if
+the wave functions of the moving waves are
+
+y1=f,(X—vt),
+yz =‘j;(x—Ut),
+y =fn(x—vt)
+
+377
+
+then the wave function describing the
+disturbance in the medium is
+
+y =f1(X— vt)+f2(x— vt)+ ...+fn(x— vt)
+
+Tl.
+= 'Zlfi (x—vt) (15.26)
+1:
+The principle of superposition is basic to the
+phenomenon of interference.
+
+For simplicity, consider two harmonic
+travelling waves on a stretched string, both with
+the same to (angular frequency) and k (wave
+number), and, therefore, the same wavelength
+1. Their wave speed will be identical. Let us
+further assume that their amplitudes are equal
+and they are both travelling in the positive
+direction of x-aXis. The waves only differ in their
+initial phase. According to Eq. (15.2), the two
+waves are described by the functions:
+
+y1(x, t) = a sin (kx— wt) (15.27)
+
+and y2(x, t) = a sin (kx— wt + (1)) (15.28)
+
+The net displacement is then, by the principle
+of superposition, given by
+
+y (x, t) = asin (kx—wt) +asin (kx—wt+q))
+
+ 
+
+ 
+
+(15.29)
+m—ar m— '
+=a|:2sin[( )+( a)t+¢) cos¢]
+2 _ 2
+(15.30)
+
+where we have used the familiar trignometric
+identity for sin A+ sin B . We then have
+
+y(x,t) = 2a cos? smog—(01+?) (15.31)
+
+Eq. (15.3 1) is also a harmonic travelling wave in
+the positive direction of x-axis, with the same
+frequency and wavelength. However, its initial
+
+¢
+
+phase angle is E . The significant thing is that
+
+its amplitude is a function of the phase difference
+¢ between the constituent two waves:
+
+A(¢) = 2acos 1/2q) (15.32)
+For (1) = 0, when the waves are in phase,
+y(x,t)=2a sin(kx—a)t) (15.33)
+
+i.e., the resultant wave has amplitude 2a, the
+
+largest possible value for A. For ¢=7£, the
+
+2019-20

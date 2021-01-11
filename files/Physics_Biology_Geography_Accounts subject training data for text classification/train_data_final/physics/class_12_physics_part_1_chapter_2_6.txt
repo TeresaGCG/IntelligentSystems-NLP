@@ -1,0 +1,79 @@
+Electrostatic Potential
+and Copoci’ronce
+
+where f' is the unit vector along the position vector OP.
+The electric potential of a dipole is then given by
+
+1 p_..~.-
+
+V = .
+47:80 r2 , (r>> a) (2.15)
+
+ 
+
+Equation (2. 1 5) is, as indicated, approximately true only for distances
+large compared to the size of the dipole, so that higher order terms in
+a/ r are negligible. For a point dipole p at the origin, Eq. (2. 1 5) is, however,
+exact.
+
+From Eq. (2.15), potential on the dipole axis (0 = O, at ) is given by
+
+ 
+
+1
+v::4n€0 £2 (2.16)
+(Positive sign for 0 = 0, negative sign for 0 = at.) The potential in the
+equatorial plane (0 = TC / 2) is zero.
+The important contrasting features of electric potential of a dipole
+from that due to a single charge are clear from Eqs. (2.8) and (2.15):
+(i) The potential due to a dipole depends not just on r but also on the
+angle between the position vector 1' and the dipole moment vector p.
+(It is, however, axially symmetric about p. That is, if you rotate the
+position vector r about p, keeping 0 fixed, the points corresponding
+to P on the cone so generated will have the same potential as at P.)
+(ii) The electric dipole potential falls off, at large distance, as 1 / r2, not as
+1 / r, characteristic of the potential due to a single charge. (You can
+refer to the Fig. 2.5 for graphs of 1/r2 versus r and 1/r versus r,
+drawn there in another context.)
+
+2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES
+
+Consider a system of charges q1, q2,..., qn with position vectors r1, r2,...,
+
+rn relative to some origin (Fig. 2.6). The potential V1 at P due to the charge
+q1 is
+V. = 1 i
+47:80 r1P
+
+ 
+
+where r11, is the distance between q1 and P.
+
+Similarly, the potential V2 at P due to q2 and
+V3 due to q3 are given by
+1
+
+Q2
+V = — V
+2 47580 r2P ’ 3
+
+2 1 q_s
+47580 r3P
+
+ 
+
+ 
+
+ 
+
+where rm) and r3? are the distances of P from
+charges q2 and q3, respectively; and so on for the
+potential due to other charges. By thC FIGURE 2.6 Potential at a point due to a
+superposition principle, the potential VatP due system of charges is the sum of potentials
+to the total charge configuration is the algebraic d1"? t0 illdiVidual Charges-
+sum of the potentials due to the individual
+charges
+
+V=V1+V2+... +Vn (2.17) 57
+
+2019-20

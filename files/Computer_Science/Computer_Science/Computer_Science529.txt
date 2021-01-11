@@ -1,0 +1,32 @@
+7.4 Virtual Memory 513
+and magnetic disks (see Chapter 1, pages 5, 13 and 23). If we return to our
+library analogy, we can think of a virtual address as the title of a book and a
+physical address as the location of that book in the library, such as might be
+given by the Library of Congress ca ll number.
+Virtual memory also simplifies loading the program for execution by provid 
+ing relocation. Relocation maps the virtual addresses used by a program to dif 
+ferent physical addresses before the addresses are used to access memory. This
+relocation allows us to load the program anywhere in main memory. Further 
+more, all virtual memory systems in use today relocate the program as a set of
+fixed-size blocks (pages), thereby eliminating the need to find a contiguous
+block of memory to allocate to a program; instead, the operating system need
+only find a sufficient number of pages in main memory. Formerly, relocation
+problems required special hardware and special support in the operating sys 
+tem; today, virtual memory also provides this fun ction.
+In virtual memory, the address is broken into a virtual page number and a page
+offset. Figure 7.20 shows the translation of the virtual page number to a physical
+page number. The physical page number constitutes the upper portion of the
+physical address, while the page offset, which is not changed, constitutes the lower
+Virtual address
+313029 2827 ······················ 15 141312111 09 8 ··········· 321 0
+Virtual page number Page offset
+(
+Translation
+29 2827 ········· ••• ••• ••• ••• 15 141312111 09 8 ···· •••••• 321 0
+Physical page number Page offset
+Physical address
+12
+FtGURE 7.20 Mapping from a virtual to a physical address. The palle size is 2 - 4 KB. The
+18
+number of physical palles allowed in memory is 2 , since Ihe physical palle number has 18 bils in it. Thus,
+main memory can have at most 1 GB, while Ihe virtual address space is 4 GB.

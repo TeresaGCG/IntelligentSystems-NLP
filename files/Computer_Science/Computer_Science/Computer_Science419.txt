@@ -1,0 +1,37 @@
+6.4 Data Hazards and Forwarding 403
+\ WB
+-
+Instructi'"
+M WB
+Control
+-
+f---
+- ~
+EX f--- .. -
+M WB
+/ -
+- . f--- ..
+IF/ID IDlEX EXiMEM MEMlWB
+FIGURE 6.26 The control lines for the final three stages. Note that four of the nine control
+lines are used in the EX phase, with the remainingfive control lines passed on to the EXlMEM pipeline reg 
+ister extended to hold the control lines; three are used during the MEM stage, and the last two are passed to
+MEM/WB for use in theWBstage.
+sub $2 , 11 , $3 # Regis t er $2 writ t en by sub
+and $12 , $2 , $5 # 1s t ope r and($2) depends on sub
+or $13 ,$ 6 , $2 # 2nd ope ra nd($2) depends on sub
+add $14, $2 , $2 # 1st($2) & 2nd( $2) depend on sub
+sw $15 , 1001 $2 1 # Base ($2) depends on sub
+The last four instructions are all dependent on the result in register $2 of the first
+instruction. If register $2 had the value 10 before the subtract instruction and -20
+afterwards, the programmer intends that -20 will be used in the following
+instructions that refer to register $2.
+How would this sequence perform with our pipeline? Figure 6.28 illustrates the
+execution of these instructions using a multiple-clock-cycle pipeline representa 
+tion. To demonstrate the execution of this instruction sequence in our current
+pipeline, the top of Figure 6.28 shows the value of register $2, which changes dur 
+ing the middle of clock cycle 5, when the sub instruction writes its result.
+One potential hazard can be resolved by the design of the register file hardware:
+what happens when a register is read and written in the same clock cycle? We
+assume that the write is in the first half of the clock cycle and the read is in the sec 
+ond half, so the read delivers what is written. As is the case for many implementa 
+tions of register files, we have no data hazard in this case.

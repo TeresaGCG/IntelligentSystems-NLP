@@ -1,0 +1,43 @@
+5.6 Exceptions 345
+~_L"'"~':::truction
+fetch Instruction decode!
+register fetch
+MemRead
+o
+ALUSreA" 0
+lorD" 0
+IRWrite
+ALUSreB" 01
+ALUOp" 00
+PCWrite
+PCSouree" 00
+Memory address Branch Jump
+computation completion completion
+-----'------.
+2
+ALUSreA" 1
+ALUSreB" 00
+ALUOp" 01
+PCWr~eCond
+PCSouree" 01
+/-'-CR"-~'Y:pe
+completion
+3 " In!Cause" 1 " IntCause" 0
+CauseWrite CauseWrite
+RegDst " 1 Overflow ALUSreA" 0 ALUSreA" 0
+RegWrite ALUSreB" 01 ALUSreB" 01
+MemtoReg" 0 ALUOp" 01 ALUOp" 01
+EPCWr~e EPCWr~e
+PCWr~e PCWr~e
+PCSouree" 11 PCSouree" 11
+Write-back step
+Overflow
+--------''--------
+4
+RegDst" 0
+RegWrite
+MemtoReg" 1
+FIGURE 5.40 This shows the finite state machine with the additions to handle exception detection. States 10 and II are the new
+states that generate the appropriate control for exceptions. The branch out ofstate 1 labeled (Op " other) indicates the next state when the input does
+not match the opcode ofanyof 1w, SW, 0 (R-type), j , or beq. The branch out of state 7 labeled Overflow indicates the action to be taken when the
+ALU signals an overflow.

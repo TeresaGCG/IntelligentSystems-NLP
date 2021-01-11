@@ -1,0 +1,30 @@
+Exponents
+79
+Lesson 4-5 Review
+Evaluate the following:
+1. (2b)3 4.
+2. 5.
+3. 6.
+Lesson 4-6: Square Roots and Irrational Numbers
+Squaring a number involves multiplying a number by itself. For ex-
+ample, the square of 3 is 32 = 9; the square of −3 is (−3)2 = 9. Notice that
+squaring a positive number gives a positive number, and squaring a nega-
+tive number also results in a positive number. The square of 0 is 02= 0. If
+you square any real number (whether it is positive, negative, or 0) you
+will get a number that is either greater than 0 or equal to 0, but never less
+than 0. In other words, if a is any number, then a2 ≥ 0. There is no way
+that the square of a real number can be negative.
+Finding the square root of a number involves reversing the process: if
+b2= a , then b is called the square root of a. For example, because 32= 9,
+then 3 is the square root of 9. Notice that (−3)2= 9 so −3 is also the square
+root of 9. In fact, all positive numbers have two square roots: a positive
+square root, called the principal square root, and a negative square root.
+The two square roots have the same magnitude, but have opposite signs.
+Square roots are written using a “square root” symbol:  . This sym-
+bol is called a radical. The number underneath the radical is called the
+radicand. To write things more compactly, sometimes the square roots
+of a number are written together as  . We could write the two square
+roots of 9 as ±3. Be careful with this notation and the terminology. If we
+write  we are limiting ourselves to the positive square root of 9, but
+keep in mind that 9 has two square roots:  . The radical by itself refers
+to the principal (or positive) square root.

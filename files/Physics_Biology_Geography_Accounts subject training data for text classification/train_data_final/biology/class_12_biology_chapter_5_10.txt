@@ -1,0 +1,55 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+In the ﬁrst case, the modiﬁed allele is equivalent to the unmodiﬁed allele,
+i.e., itwill produce the same phenotype / trait, i.e., result in the transformation
+of substrate 8. Such equivalent allele pairs are very common. But, if the
+allele produces a non-functional enzyme or no enzyme, the phenotype may
+be effected. The phenotype / trait will only be dependent on the functioning
+of the unmodiﬁed allele. The unmodiﬁed (functioning) allele, which represents
+the original phenotype is the dominant allele and the modiﬁed allele is
+generally the recessive allele. Hence, in the example above the recessive trait
+is seen due to non-functional enzyme or because no enzyme is produced.
+
+5.2.2.2 Co-dominance
+
+Till now we were discussing crosses where the F1 resembled either of the
+two parents (dominance) or was in—between (incomplete dominance). But,
+in the case of co-dominance the F1 generation resembles both parents. A
+good example is different types of red blood cells that determine ABO
+blood grouping in human beings. ABO blood groups are controlled by
+the gene I. The plasma membrane of the red blood cells has sugar polymers
+that protrude from its surface and the kind of sugar is controlled by the
+gene. The gene (1) has three alleles I", 1‘B and i. The alleles I“ and I“ produce
+a slightly different form of the sugar while allele i does not produce any
+sugar. Because humans are diploid organisms, each person possesses
+any two of the three I gene alleles. IA and IB are completely dominant over
+i, in other words when IA and i are present only I“ expresses (because i
+does not produce any sugar), and when 15’ and i are present IB expresses.
+But when 1A and IB are present together they both express their own types
+of sugars: this is because of co-dominance. Hence red blood cells have
+both A and B types of sugars. Since there are three different alleles, there
+are six different combinations of these three alleles that are possible, and
+therefore, a total of six different genotypes of the human ABO blood types
+(Table 5.2). How many phenotypes are possible?
+
+Table 5.2: Table Showing the Genetic Basis of Blood Groups
+in Human Population
+
+Allele from Allele from Genotype of Blood
+Parent 1 Parent 2 offspring types of
+offspring
+
+I IA IA IAIA A
+
+ 
+
+|
+I IA IB IAIB AB I
+I IA i IAi A I
+I IB IA IAIB AB I
+I IB IB [BIB B I
+I IB i IBi B I
+
+Ii i ii 0
+
+2019-2020

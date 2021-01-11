@@ -1,0 +1,52 @@
+238 Accountancy : Company Accounts and Analysis of Financial Statements
+
+6.5.1 Cash from Operating Activities
+
+Operating activities are the activities that constitute the primary or main activities
+of an enterprise. For example, for a company manufacturing garments, operating
+activities are procurement of raw material, incurrence of manufacturing expenses,
+sale of garments, etc. These are the principal revenue generating activities (or
+the main activities) of the enterprise and these activities are not investing or
+ﬁnancing activities. The amount of cash from operations' indicates the internal
+solvency level of the company, and is regarded as the key indicator of the extent
+to which the operations of the enterprise have generated sufﬁcient cash ﬂows to
+maintain the operating capability of the enterprise, paying dividends, making of
+new investments and repaying of loans without recourse to external source of
+ﬁnancing.
+
+Cash ﬂows from operating activities are primarily derived from the main
+activities of the enterprise. They generally result from the transactions and other
+events that enter into the determination of net profit or loss. Examples of cash
+ﬂows from operating activities are:
+
+Cash Inﬂows from operating activities
+
+0 cash receipts from sale of goods and the rendering of services.
+0 cash receipts from royalties, fees, commissions and other revenues.
+
+Cash Outﬂows from operating activities
+
+0 Cash payments to suppliers for goods and services.
+
+Cash payments to and on behalf of the employees.
+
+0 Cash payments to an insurance enterprise for premiums and claims,
+annuities, and other policy beneﬁts.
+
+0 Cash payments of income taxes unless they can be speciﬁcally identiﬁed
+with ﬁnancing and investing activities.
+
+The net position is shown in case of operating cash ﬂows.
+
+An enterprise may hold securities and loans for dealing or for trading
+purposes. In either case they represent Inventory speciﬁcally held for resale.
+Therefore, cash ﬂows arising from the purchase and sale of dealing or trading
+securities are classified as operating activities. Similarly, cash advances and
+loans made by ﬁnancial enterprises are usually classiﬁed as operating activities
+since they relate to main activity of that enterprise.
+
+6.5.2 Cash from Investing Activities
+
+As per AS—3, investing activities are the acquisition and disposal of long—term
+assets and other investments not included in cash equivalents. Investing activities
+relate to purchase and sale of long—term assets or ﬁxed assets such as machinery,

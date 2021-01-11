@@ -1,0 +1,43 @@
+7.2 The Basics of Caches 483
+to perform a read. We wait for the memory to respond (since the access will take
+multiple cycles), and then write the words into the cache.
+We can now define the steps to be taken on an instruction cache miss:
+I. Send the original PC value (current PC - 4) to the memory.
+2. Instruct main memory to perform a read and wait for the memory to com 
+plete its access.
+3. Write the cache entry, putting the data from memory in the data portion of
+the entry, writing the upper bits of the address (from the ALU) into the tag
+field, and turning the valid bit on.
+4. Restart the instruction execution at the first step, which will refetch the
+instruction, this time finding it in the cache.
+The control of the cache on a data access is essentially identical: on a miSS, we
+simply stall the processor until the memory responds with the data.
+Handling Writes
+Writes work somewhat differently. Suppose on a store instruction, we wrote the
+data into only the data cache (without changing main memory); then, after the
+write into the cache, memory would have a different value from that in the cache.
+In such a case, the cache and memory are said to be inconsistent. The simplest way
+to keep the main memory and the cache consistent is to always write the data into
+both the memory and the cache. This scheme is called write-through. write-through A scheme in
+The other key aspect of writes is what occurs on a write miss. We first fetch the which writes always update both
+the cache and the memory,
+words of the block from memory. After the block is fetched and placed into the
+ensuring that data is always con 
+cache, we can overwrite the word that caused the miss into the cache block. \Ve
+sistent between the two.
+also write the word to main memory using the full address.
+Although this design handles writes very simply, it would not provide very good
+performance. With a write-through scheme, every write causes the data to be written
+to main memory. These writes will take a long time, likely at least 100 processor clock
+cycles, and could slow down the processor considerably. For the SPEC2000 integer
+benchmarks, for example, 10% of the instructions are stores. If the CPI without
+caclle misses was 1.0, spending 100 extra cycles on every write would lead to a CPI of
++
+1.0 100 x 10% = II , reducing performance by more than a factor of 10.
+One solution to this problem is to use a write buffer. A write buffer stores the write buffer A queue that holds
+data while it is waiting to be written to memory. After writing the data into the data while the data arewaiting to
+be written to memory.
+cache and into the write buffer, the processor can continue execution. When a
+write to main memory completes, the entry in the write buffer is freed. If the write
+buffer is full when the processor reaches a write, the processor must stall until
+there is an empty position in the write buffer. Of course, if the rate at which the

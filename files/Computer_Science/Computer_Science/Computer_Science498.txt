@@ -1,0 +1,43 @@
+482 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+access, where it works best. Instruction accesses are largely sequential, so if the memo
+ory system can deliver a word every clock cycle, the processor may be able to restart
+operation when the requested word is returned, with the memory system delivering new
+instruction words just in time. This technique is usually less effective for data caches
+because it is likely that the words will be requested from the block in a less predictable
+way, and the probability that the processor will need another word from a different
+cache block before the transfer completes is high. If the processor cannot access the
+data cache because a transfer is ongoing, then it must stall.
+An even more sophisticated scheme is to organize the memory so that the
+requested word is transferred from the memory to the cache first. The remainder of the
+block is then transferred, starting with the address after the requested word and wrap 
+ping around to the beginning of the block. This technique, called requested word first, or
+critical word first, can be slightly faster than early restart, but it is limited by the same
+properties that limit early restart.
+Handling Cache Misses
+Before we look at the cache of a real system, let's see how the control unit deals
+(;ache miss A request for data with cache misses. The control unit must detect a miss and process the miss by
+from the cache that cannot be fetching the requested data from memory (or, as we shall see, a lower-level cache).
+filled because the data is not
+If the cache reports a hit, the computer continues using the data as if nothing had
+present in the cache.
+happened. Consequently, we can use the same basic control that we developed in
+Chapter 5 and enhanced to accommodate pipelining in Chapter 6. The memories
+in the datapath in Chapters 5 and 6 are simply replaced by caches.
+Modifying the control of a processor to handle a hit is trivial; misses, however,
+require some extra work. The cache miss handling is done with the processor con 
+trol unit and with a separate controller that initiates the memory access and refills
+the cadle. The processing of a cache miss creates a stall, similar to the pipeline stalls
+discussed in Chapter 6, as opposed to an interrupt, which would require saving the
+state of all registers. For a cache miss, we can stall the entire processor, essentially
+freezing the contents of the temporary and programmer-visible registers, while we
+wait for memory. In contrast, pipeline stalls, discussed in Chapter 6, are more com 
+plex because we must continue executing some instructions while we stall others.
+Let's look a little more closely at how instruction misses are handled for either
+the multicycle or pipelined datapath; the same approach can be easily extended to
+handle data misses. If an instruction access results in a miss, then the content of
+the Instruction register is invalid. To get the proper instruction into the cache, we
+must be able to instruct the lower level in the memory hierarchy to perform a
+read. Since the program counter is incremented in the first clock cycle of execu 
+tion in both the pipelined and multicycle processors, the address of the instruc 
+tion that generates an instruction cache miss is equal to the value of the program
+counter minus 4. Once we have the address, we need to instruct the main memory

@@ -1,0 +1,48 @@
+228 Chapter 3 Arithmetic: for Computers
+Figure 3.26 gives the popularity of the MIPS instmctions for SPEC2000 integer and
+floating-point benchmarks. All instructions are listed that were responsible for at least
+1% of the instructions executed. The following table summarizes that information.
+Note that although programmers and compiler writers may use MIPS-32 to
+have a richer menu of options, MIPS core instructions dominate integer
+SPEC2000 execution, and the integer core plus arithmetic core dominate
+SPEC2000 floating point.
+For the rest of the book, we concentrate on the MIPS core instructions-the
+integer instruction set excluding multiply and divide-to make the explanation of
+computer design easier. As we can see, the MIPS core includes the most popular
+MIPS instructions, and be assured that understanding a computer that runs the
+MIPS core will give you sufficient background to understand even more ambi 
+tious computers.
+Core MIPS Name Arithmetic core + MIPS-32 Name
+,dd ,dd 0'J6 O. FP add double ~dd.d 0'J6 8.
+add immediate add i 0'J6 O. FP subtract double sub.d 0'J6 "
+add unsigned addu " 21. FP multiply double mul •d 0'J6 8.
+add immediate unsigned ~ddiu 12% 2% FP divide double div.d 0'J6 0'J6
+subtract unsigned subu " 2% load word to FP double 1.d 0'J6 15.
+eo'
+ood " O. store word to FP double '.d 0'J6 "
+and immediate arid i " O. shift right arithmetic m " 0'J6
+0' M " 2% load half 1ho " 0'J6
+or immediate on 2% O. branch less than zero bltz " 0'J6
+'" OM " " branch greater or equal zero bgez " 0'J6
+shift left logical ,11 " " branch less or equal zero blez 0'J6 "
+shift right logical ,,1 0'J6 O. multiply ' 0' 0'J6 "
+load upper immediate 101 2% 5%
+load word 24% 15%
+"
+store word " 9'J6 2%
+load byte 1bo " O.
+store byte ,b " O.
+6.
+branch on equal (zero) b," 2%
+branch on not equal (zero) boo 5. "
+jump and link j" " O.
+jump register j, " O.
+,It O.
+set less than 2%
+set less than immediate slt i " O.
+set less than unsigned sltu " O.
+o.
+set less than imm. uns. slt i u "
+FIGURE 3.26 11Ie frequency of the MIPS Instructions for SPEC2000 Integer and Iloating point. AU instructions that accounted for
+at least 1% of the instructions are included in the table. Pseudoinstructions are converted into MIPS·32 before execution, and hence do not appear
+here. This data is from Chapter 2 ofComputer Architecture: A Quantitative Approoch, third edition.

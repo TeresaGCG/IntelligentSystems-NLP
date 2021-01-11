@@ -1,0 +1,73 @@
+270 Accountancy: Company Accounts and Analysis of Financial Statements
+
+Working Notes:
+[1) Cash and Cash Equivalents
+
+Cash and Cash Equivalents consist of cash in hand and balances with banks, and
+investments in money—market instruments. Cash and Cash Equivalents included in the
+
+Cash Flow Statement comprise of the following balance sheet amounts.
+
+201 7
+(RS)
+Cash in Hand and balances with Bank 200
+Short-term Investments 670
+Cash and Cash Equivalents 870
+(2) Cash Receipts from Customers
+Sales 30.650
+Add: Trade Receivables at the beginning of the year 1.200
+31.850
+Less .' Trade Receivables at the end of the year (1,700)
+30,150
+(3) Cash paid to Suppliers and Employees —
+Cost of Revenue from operations
+Administrative and Selling Expenses
+Add: Trade Payables at the beginning of the year 1,890
+Inventories at the end of the year 900
+Less : Trade Payables at the end of the year 150
+Inventories at the beginning of the year 1,950
+
+[4) Income Tax paid (including TDS from dividends received)
+Income Tax expense for the year
+(including tax deducted at source from dividends received)
+Add : Income Tax liability at the beginning of the year
+
+Less : Income tax payable at the end of the year
+
+(RS ‘000)
+
+201 6
+
+(RS)
+25
+
+135
+
+160
+
+26,000
+9 10
+
+26,910
+
+2,790
+
+29,700
+
+(2, 100)
+
+27,600
+
+300
+
+1 ,000
+
+1 ,300
+[400)
+
+900
+
+Out of Rs 900, tax deducted at source on dividends received (amounting
+to Rs 40) is included in cash ﬂows from investing activities and the balance of Rs 860 is
+
+included in cash ﬂows from operating activities.

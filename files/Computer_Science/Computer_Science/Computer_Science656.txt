@@ -1,0 +1,14 @@
+Glossary G-17
+workload A set of programs run on a com  write-invalidate A type of snooping proto 
+puter that is either the actual collection of col in which the writing processor causes all
+applications run by a user or is constructed copies in other caches to be invalidated be 
+from real programs to approximate such a fore changing its local copy, which allows it
+mix. A typical workload specifies both the to update the local data until another pro 
+programs as well as the relative frequencies. cessor asks for it.
+write buffer A queue that holds data while write-through A scheme in which writes
+the data arewaiting to be written to memory. always update both the cache and the mem 
+write-back A scheme that handles writes ory, ensuring that data is always consistent
+by updating values only to the block in the between the two.
+cache, then writing the modified block to yield The percentage ofgood dies from the
+the lower level of the hierarchy when the total number of dies on the wafer.
+block is replaced.

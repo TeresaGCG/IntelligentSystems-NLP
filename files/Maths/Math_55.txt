@@ -1,0 +1,26 @@
+Operations With Fractions
+55
+Example 5
+Reduce the fraction: 
+Solution: The first step in reducing a fraction is to completely
+factor the numerator and the denominator. 6 = 2 × 3 and 9 = 3 × 3.
+Both 6 and 9 are evenly divisible by 3, so we can write:
+As you become familiar with the process, you will find yourself
+leaving out some of the intermediate steps and writing something
+similar to this:
+This process is often referred to as “canceling.” In the example we
+just did, we “cancelled the 3s.” What we are really doing is making use of
+those useful properties of multiplication mentioned earlier. Remember
+that the key to reducing fractions is to factor the numerator and the
+denominator completely. This is done by creating factor trees for the
+numerator and the denominator. Canceling is done only when multiplica-
+tion and division are the only operations involved in the fraction.
+Example 6
+Reduce the fraction: 
+Solution: Factor the numerator and denominator completely:
+12= 2 × 2 × 3 and 30 = 2 × 3 × 5. Both 12 and 30 are evenly
+divisible by both 2 and 3, so:
+When you multiply two fractions together, the numbers can get aw-
+fully big. After you multiply the two fractions together you will have to
+check to make sure that the numerator and denominator are relatively
+prime, which means that you may find yourself factoring big numbers.

@@ -1,0 +1,104 @@
+54
+
+PHYSICS
+
+ 
+
+parallel to the time axis. For motion with uniform acceleration, x—t graph is a parabola
+while the v—t graph is a straight line inclined to the time axis.
+
+10. The area under the velocity—time curve between times t1 and t2 is equal to the displacement
+of the object during that interval of time.
+
+1 1. For objects in unifome accelerated rectilinear motion, the five quantities, displacement
+x, time taken t, initial velocity v0, final velocity v and acceleration a are related by a set
+of simple equations called kinematic equations of motion :
+
+v=v0+ at
+1 2
+x=v0t+—at
+2
+
+2 2
+v :v0+2ax
+
+if the position of the object at time t = 0 is 0. If the particle starts at x = x0 , x in above
+equations is replaced by [x — x0).
+
+   
+ 
+     
+     
+         
+    
+
+Remarks
+
+   
+
+Physical Symbol Dimensions
+quantity
+Path length [L] m
+
+Displacement Ax [L] m = )C2 ' x1
+
+  
+
+In one dimension, its sign
+indicates the direction.
+
+Velocity [LT'I] m s"
+Ax
+
+At
+
+C |
+
+(a) Average
+
+   
+    
+ 
+ 
+
+(b) Instantaneous v lim 3 _ d_x
+
+=At—>0At_dt
+
+In one dimension, its sign
+indicates the direction.
+
+    
+ 
+     
+    
+
+  
+
+Speed
+(a) Average = Path length
+Time interval
+
+(b) Instantaneous = d_x
+
+  
+ 
+   
+   
+  
+
+Acceleration
+
+(a) Average
+
+        
+     
+
+(b) Instantaneous a lim Av dv
+
+=At—>0At_dt
+
+In one dimension, its sign
+indicates the direction.
+
+2019-20

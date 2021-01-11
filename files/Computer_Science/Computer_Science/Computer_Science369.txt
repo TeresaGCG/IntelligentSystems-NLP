@@ -1,0 +1,30 @@
+5.12 Historical Perspective and Further Reading 353
+Initial Finite state
+Microprogram
+representation diagram
+Sequencing Explicit next- Microprogram counter
+control state function + dispatch ROMS
+Logic Logic Truth
+representation equations tables
+Implementation Programmable Read-only
+technique logic array memory
+FIGURE 5.41 Alternative methods for specifying and Implementing control. The arrows
+indicate possible design paths:any path from the initial representation to the final implementation technol 
+ogy is viable. TraditionaUy, "hardwired control" means that the techniques on the left-hand side are used,
+and "microprogrammed control" means that the techniques on the right-hand side are used.
+ponents in the processor operate. To help meet this challenge, we examined two
+techniques for specifying control: finite state diagrams and microprogramming.
+These control representations allow us to abstract the specification of the control
+from the details of how to implement it. Using abstraction in this fashion is the
+major method we have to cope with the complexity of computer designs.
+Once the control has been specified, we can map it to detailed hardware. The
+exact details of the control implementation will depend on both the structure of
+the control and on the underlying technology used to implement it. Abstracting
+the specification of control is also valuable because the decisions of how to imple 
+ment the control are technology dependent and likely to change over time.
+Historical Perspective and Further
+Reading
+The rise of microprogramming and its effect on instruction set design and com 
+puter development is one of the more interesting interactions in the first few
+decades of the electronic computer. This story is the focus of the historical per 
+spectives section on the CD.

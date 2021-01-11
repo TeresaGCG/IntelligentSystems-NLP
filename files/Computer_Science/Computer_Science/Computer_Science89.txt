@@ -1,0 +1,36 @@
+2.6 Instructions for Making Decisions 73
+The next assignment statement performs a single operation, and if all the op 
+conditional branch An
+erands are allocated to registers, it is just one instruction: instruction that requires the
+comparison of two values and
+add $sO , $sl , $s2 It f g + h (skipped i f i ""j) that allows for a subsequent
+=
+transfer of control to a new
+address in the program based on
+We now need to go to the end of the if statement. This example introduces
+the outcome of the comparison.
+another kind of branch, often called an unconditional branch. This instruc 
+tion says that the processor always follows the branch. To distinguish between
+conditional and unconditional branches, the MIPS name for this type of in 
+struction is jump, abbreviated as j (the label Exi t is defined below).
+It
+j Exit go t o Exit
+The assignment statement in the else portion of the ifstatement can again be
+compiled into a single instruction. We just need to append the label Else to
+this instruction. We also show the label Exit that is after this instruction,
+showing the end of the if-then-else compiled code:
+Else : sub $sO , $sl,$s2 # f g - h (skipped i f j )
+= 1
+Exit :
+Notice that the assembler relieves the compiler and the assembly language pro 
+grammer from the tedium of calculating addresses for branches, just as it does for
+calculating data addresses fo r loads and stores (see Section 2.1 0).
+F J i i j
+i ==j?
+~
+E1s e :
+f =g+h f =g- h
+Exi t :
+FIGURE 2.11 illustration of the options In the If statement above. The left box corresponds
+if
+to the then part of the statement,and the right box corresponds to the else part.

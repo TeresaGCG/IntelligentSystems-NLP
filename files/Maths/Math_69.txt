@@ -1,0 +1,32 @@
+Exponents
+69
+Example 1
+Will the following products be positive or negative?
+a.(−6)4 c. −2 × (−4)6 e. 5 × (−3)6
+b.−64 d.−2 × 53 f. −5 × (−2)7
+Solution:
+a. The overall product will be positive. There are 4 negative
+signs (because the negative is part of the base). (−6)4 means
+(−6)(−6)(−6)(−6).
+b. The overall product will be negative. There is only one
+negative sign (because the negative is not part of the base).
+−64 means the opposite of 64.
+c. The overall product will be negative. There are 7 negative
+signs in the product (one from the −2 and 6 from (−4)6).
+d. The overall product will be negative. There is only one
+negative sign in the product.
+e. The overall product will be positive. There are 6 negative
+signs involved in the product (from (−3)6).
+f. The overall product will be positive. There are 8 negative
+signs involved in the product (one from the −5 and 7
+from (−2)7).
+The introduction of exponents requires an expansion to the order of
+operations. Exponential expressions involve repetitive multiplication, and
+multiplication and division are done right after any instructions in paren-
+theses. As a result, exponentiation will come before multiplication or
+division in the order of operations. Parentheses still come first, though.
+Our expanded order of operations is now as follows:
+1. Parentheses
+2. Exponentiation
+3. Multiplication and division read left to right
+4. Addition and subtraction read left to right

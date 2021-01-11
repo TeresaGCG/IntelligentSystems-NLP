@@ -1,0 +1,42 @@
+560 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+7.40 (IS) <§7.4> Assume that the virtual memory system of Exercise 7.39 is im 
+plemented with a two-way set-associative TLB with a total of 256 TLB entries.
+Show the virtual-to-physical mapping with a figure like Figure 7.24 on page 525.
+Make sure to label the width of all fields and signals.
+7.41 (10 ) <§7.4> A processor has a 16-entry TLB and uses 4 KB pages. What are
+the performance consequences of this memory system ifa program accesses at least
+2 MB of memory at a time? Can anything be done to improve performance?
+7.42 (10 ) <§7.4> Buffer overflows are a common exploit used to gain control of
+a system. If a buffer is allocated on the stack, a hacker could overflow the buffer and
+insert a sequence of malicous instructions compromising the system. Can you
+think of a hardware mechanism that could be used to prevent this?
+7.43 (IS) <§7.4> .. For More Practice: Hierarchical Page Tables
+7.44 (IS) <§7.4> .. For More Practice: Hierarchical Page Tables
+7.45 (5] <§7.5> If all misses are classified into one of three categories-compul 
+sory, capacity, or conflict (as discussed on page 543)-which misses are likely to be
+reduced when a program is rewritten so as to require less memory? How about if
+the clock rate of the processor that the program is running on is increased? How
+about if the associativity of the existing cache is increased?
+7.46 (5] <§7.5> The following C program could be used to help construct a cache
+simulator. Ma ny of the data types have not been defined, but the code accurately
+describes the actions that take place during a read access to a direct-mapped cache.
+wo r d ReadDi rect MappedCa che( address a)
+st at ic Entry ca che[ CACH E_SI ZE_I N_WORDS] ;
+Ent ry e cache[a . index] ;
+=
+i f (e . valid == FALS E !! e . tag != a . t ag) (
+e . valid t rue ;
+=
+e . ta g a . t ag ;
+=
+e .data load_f r om_memory(a) ;
+=
+}
+return e . dat a ;
+Your task is to modify this code to produce an accurate description of the actions
+that take place during a read access to a direct-mapped cache with multiple-word
+blocks.
+7.47 (8] <§7.5> This exercise is similar to Exercise 7.46, except this time write the
+code for read accesses to an n-way set-associative cache with one-word blocks.
+Note that your code will likely suggest that the comparisons are sequential in na 
+ture when in fact they would be performed in parallel by actual hardware.

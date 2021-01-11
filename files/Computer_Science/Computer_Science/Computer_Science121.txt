@@ -1,0 +1,47 @@
+2.9 MIPS Addressing for 32·111t Immedlates and Addresses 105
+MIPS operands
+Name Example Comments
+SsO-Ss7. stO-st9. Szero. SaO- Fast locations for data. In MIPS, data must be in registers to perform arithmetic. MIPS
+32 registers Sa3. SVO- SVl. Sgp. Hp. Ssp. register Sze ra always equals O. Register Sat is reserved for the assembler to handle
+Sra. Sat large constants.
+30 Memory[O], Accessed only by data transfer instructions. MIPS uses byte addresses, so sequential
+2 memory
+Memory[4]. ... , word addresses differ by 4. Memory holds data structures, arrays, and spilled
+words
+Memory[4294967292] registers, such as those saved on procedure calls.
+MIPS assembly language
+Category Instruction Example Meaning Comments
+.dd 'dd Ss1.Ss2.Ss3 Ss l _ Ss2 + Ss3 Three register operands
+Arithmetic subtract ;ch Ss1.Ss2.Ss3 Ss l _ Ss2 - Ss3 Three register operands
+add immediate addi Ss1.Ss2.100 Ss l _ Ss2 + 100 Used to add constants
+load word Ss1.100(Ss2) Ss l _ Memory(Ss2 + 100) Word from memory to register
+"
+store word " Ssl.100(Ss2) Memory[Ss2 + 100]- Ssl Word from register to memory
+load half 1h Ssl.100( Ss2) Ss1 = Memory(S s2 + 10O] Halfword memory to register
+Data transfer store half ;h Ssl.100( Ss2) Memory[Ss2 + 100] = Ssl Halfword register to memory
+load byte 1b Ssl.100( Ss2) Ss1 _ Memory(S s2 + 10O] Byte from memory to register
+store byte ;b Ssl.100( Ss2) Memory[Ss2 + 100]- Ssl Byte from register to memory
+load upper immed. 1ui Ss1.100 16 Loads constant in upper 16 bits
+Ssl = 100 . 2
+."
+'"' Ss1.Ss2.Ss3 Ss l _ Ss2 & Ss3 Three reg. operands; bit·by-bit AND
+" ",,, Ss1.Ss2.Ss3 Ss l _ Ss21 Ss3 Three reg. operands; bit·by-bit OR
+'" Ss1.Ss2.Ss3 Ss l _ - (Ss2ISs3) Three reg. operands; bit·by-bit NOR
+Logical and immediate andi Ss1.Ss2.100 Ss l _ Ss2 & 100 Bit-by-bit AND reg with constant
+or immediate ori Ss1.Ss2.100 Ss l _ Ss21100 Bit-by-bit OR reg with constant
+shift left logical ;11 Ss1.Ss2.10 Ss l _ Ss2« 10 Shift left by constant
+shift right logical ,,1 Ss1.Ss2.10 Ss l _ Ss2» 10 Shift right by constant
+branch on equal h', Ss1.Ss2. 25 if(Ssl __ Ss2)goto Equal test; PCrelative branch
+PC + 4 +1OO
+branch on not equal hoo Ss1.Ss2. 25 if(Ssl !_ Ss2)goto Not equal test; PCl"elative
+Conditional PC + 4 +1OO
+branch set on less than ;It Ss1.Ss2.Ss3 if(Ss2< Ss3) Ss l_1; Compare less than; for beq, bne
+elseSs1 = 0
+set less than s1ti Ss1.Ss2. 100 if(Ss2 < 100) Ss l = 1; Compare less than constant
+immedi ate else Ss 1 = 0
+jump j 2500 go to 10000 Jump to target address
+Uncondi·
+jump register j, leo gotoSra For switch, procedure return
+tional jump
+jump and link jal 2500 Sra _PC+4;goto l0000 For procedure call
+FIGURE 2.27 MIPS assembly language revealed In Chapter 2. Highlighted portions show portions from Sections 2.8 and 2.9.

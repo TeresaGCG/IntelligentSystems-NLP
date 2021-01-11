@@ -1,0 +1,53 @@
+EVOLUTION
+
+frequencies, for example, can be named p, q, etc. In a diploid, p and q
+represent the frequency of allele A and allele a. The frequency of AA
+individuals in a population is simply p2. This is simply stated in another
+ways, i.e., the probability that an allele Awith a frequency of p appear on
+both the chromosomes of a diploid individual is simply the product
+of the probabilities, i.e., p2. Similarly of aa is q2, of Aa 2pq. Hence,
+p2+2pq+q2=1. This is a binomial expansion of (p+q)2. When frequency
+measured, differs from expected values, the difference (direction) indicates
+the extent of evolutionary change. Disturbance in genetic equilibrium, or
+Hardy— Weinberg equilibrium, i.e., change of frequency of alleles in a
+population would then be interpreted as resulting in evolution.
+
+Five factors are known to affect Hardy-Weinberg equilibrium. These
+are gene migration or gene ﬂow, genetic drift, mutation, genetic
+recombination and natural selection. When migration of a section of
+population to another place and population occurs, gene frequencies
+change in the original as well as in the new population. New genes / alleles
+are added to the new population and these are lost from the old population.
+There would be a gene ﬂow if this gene migration, happens multiple times.
+If the same change occurs by chance, it is called genetic drift. Sometimes
+the change in allele frequency is so different in the new sample of population
+that they become a different species. The original drifted population
+becomes founders and the effect is called founder effect.
+
+Microbial experiments show that pre-existing advantageous
+mutations when selected will result in observation of new phenotypes.
+Over few generations, this would result in Speciation. Natural selection is
+a process in which heritable variations enabling better survival are enabled
+to reproduce and leave greater number of progeny. A critical analysis
+makes us believe that variation due to mutation or variation due to
+recombination during gametogenesis, or due to gene ﬂow or genetic drift
+results in changed frequency of genes and alleles in future generation.
+Coupled to enhance reproductive success, natural selection makes it look
+like different population. Natural selection can lead to stabilisation (in
+which more individuals acquire mean character value), directional change
+(more individuals acquire value other than the mean character value) or
+disruption (more individuals acquire peripheral character value at both
+ends of the distribution curve) (Figure 7.8).
+
+7.8 A BRIEF ACCOUNT OF EVOLUTION
+
+About 2000 million years ago (mya) the ﬁrst cellular forms of life appeared
+on earth. The mechanism of how non-cellular aggregates of giant
+macromolecules could evolve into cells with membranous envelop is not
+known. Some of these cells had the ability to release 02. The reaction
+
+2019-2020
+
+ 
+
+137

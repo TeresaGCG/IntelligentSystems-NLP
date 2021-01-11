@@ -1,0 +1,75 @@
+124
+
+i Physics
+
+EXAMPLE 3. 10
+
+ 
+
+Substituting for R1, we have a
+
+01‘
+
+1.
+
+2V R0 ><R
+
+ 
+
+V1: R R X 2R
++
+L +R0 R0
+R0+2R
+“22$
+2R+R0+2R
+V1=2£
+R0+4R’
+SUMMARY
+
+Current through a given area of a conductor is the net charge passing
+per unit time through the area.
+
+To maintain a steady current, we must have a closed circuit in which
+an external agency moves electric charge from lower to higher potential
+energy. The work done per unit charge by the source in taking the
+charge from lower to higher potential energy (i.e., from one terminal
+of the source to the other) is called the electromotive force, or emf, of
+the source. Note that the emf is not a force; it is the voltage difference
+between the two terminals of a source in open circuit.
+
+Ohm’s law: The electric current I ﬂowing through a substance is
+proportional to the voltage V across its ends, i.e., V o< I or V = RI,
+where R is called the resistance of the substance. The unit of resistance
+is ohm: 1:2 = 1 VA'l.
+
+The resistance R of a conductor depends on its length l and
+cross—sectional area A through the relation,
+
+R=P_l
+A
+
+where p, called resistivity is a property of the material and depends on
+temperature and pressure.
+
+Electrical resistivity of substances varies over a very wide range. Metals
+have low resistivity, in the range of 10”8 Q m to 10‘6 Q m. Insulators
+like glass and rubber have 1022 to 1024 times greater resistivity.
+Semiconductors like Si and Ge lie roughly in the middle range of
+resistivity on a logarithmic scale.
+
+In most substances, the carriers of current are electrons; in some
+cases, for example, ionic crystals and electrolytic liquids, positive and
+negative ions carry the electric current.
+
+Current density j gives the amount of charge ﬂowing per second per
+unit area normal to the ﬂow,
+
+j=nqu
+
+where n is the number density [number per unit volume) of charge
+carriers each of charge q, and 11d is the drift velocity of the charge
+carriers. For electrons q = — e. If j is normal to a cross—sectional area
+A and is constant over the area, the magnitude of the current I through
+the area is nevd A.
+
+2019-20

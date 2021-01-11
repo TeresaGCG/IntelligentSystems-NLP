@@ -1,0 +1,41 @@
+568 Chapter 8
+Device Behavior Partner Data rate (Mbltjsec)
+Keyboard input human 0 .0001
+Mouse input human 0 .0038
+Voice input input human 0 .2640
+Sound input input machine 3 .0000
+Scanner input human 3 .2000
+Voice output output human 0 .2640
+Sound output output human 8 .0000
+Laser printer output human 3 .2000
+Graphics display output human 800.0000-8000.0000
+Modem input or output machine 0.0160-0.0640
+Network/ LAN input or output machine 100.0000-1000.0000
+Network/ wireless LAN input or output machine 11.0000-54.0000
+Optical disk storage machine SO.OOOO
+Magnetic tape storage machine 32.0000
+Magnetic disk storage machine 240.0000-2560.0000
+FIGURE 8.2 The diversity of I/ O devices. YO devices can be distinguished by whether they serve as
+input, output, or storage devices;their communication partner (people or other computers);and their peak
+communication rates. The data rates span eight orders of magnitude. Note that a network can be an input
+or an output device, but cannot be used for storage. Transfer rates for devices are always quoted in base 10,
+so that 10 Mbit/sec = 10,000,000 bits/sec.
+In other applications, we care primarily about response time, which you will
+ItO requests Reads orwrites to recall is the total elapsed time to accomplish a particular task. If the 110 requests
+I/O devices. are extremely large, response time will depend heavily on bandwidth, but in many
+environments most accesses will be small, and the I/O system with the lowest
+latency per access will deliver the best response time. On single-user machines
+such as desktop computers and laptops, response time is the key performance
+characteristic.
+A large number of applications, especially in the vast commercial market for
+computing, require both high throughput and short response times. Examples
+include automatic teller machines (ATMs), order entry and inventory tracking
+systems, file servers, and Web servers. In such environments, we care about both
+how long each task takes and how many tasks we can process in a second. The
+number of ATM requests you can process per hour doesn't matter if each one
+takes 15 minutes-you won't have any customers left! Similarly, if you ca n process
+each ATM request quickly but can only handle a small number of requests at once,
+you won't be able to support many ATMs, or the cost of the computer per ATM
+will be very high.
+In summary, the three classes of desktop, server, and embedded computers are
+sensitive to I/O dependability and cost. Desktop and embedded systems are more

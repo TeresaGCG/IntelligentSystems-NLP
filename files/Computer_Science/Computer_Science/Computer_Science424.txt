@@ -1,0 +1,30 @@
+408 Chapter 6 Enhancing Performance with Plpellnlng
+Time (in clock cycles) -----------------------_.
+cc a
+CC 1 CC 2 CC 3 CC, CCG CC? CC g
+Value of register $2: 10 10 10 10 - 20 -20 -20 - 20
+Value of EXIMEM: X X X - 20 X X X X
+Value of MEMlWB: X X X X X X X X
+Program
+execution
+order
+(in instructions)
+sub $2, $1, $3
+and $12, $2, $5
+-,
+or $13, $6, $2
+~
+add $14,$2 , $2
+sw $15, 100($2)
+FIGURE 6.29 The dependences between the pipeline registers move forward In time, so It Is possible to supply the Inputs
+to the ALU needed by the lind Instruction and or Instruction by forwarding the results found In the pipeline registers. The val·
+ues in the pipeline registers show that the desired value is available before it is written into the register file. We aSSlUlIe that the register file forwards
+values that are read and written during the same clock cycle, so the ~dd does not stall, but the values come from the register file instead of a pipeline
+register. Register file ~forwarding" -that is, the read gets the value ofthe write in that clock cycle-is why clock cycle 5 shows register $2 having the
+value 10 at the beginning and - 20 at the end ofthe clock cycle.As in the rest of this section, we handle aU forwarding except for the value to be stored
+by a store instruction.
+This case forwards the result from the previous instruction to either input of the
+ALU. If the previous instruction is going to write to the register file and the write
+register number matches the read register number of ALU inputs A or B, provided
+it is not register 0, then steer the multiplexor to pick the value instead from the
+pipeline register EX/MEM.

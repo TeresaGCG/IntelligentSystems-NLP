@@ -1,0 +1,65 @@
+Nuclei
+dN
+or, N = —7Ldt
+Now, integrating both sides of the above equation,we get,
+N t
+dN
+— = ‘3 dt 13 1 1
+No N 17E ( I )
+or, lnN —lnN0=—)t(t—t0) (13.12)
+
+Here N0 is the number of radioactive nuclei in the sample at some
+arbitrary time t0 and N is the number of radioactive nuclei at any
+subsequent time t. Setting t0 = 0 and rearranging Eq. (13.12) gives us
+
+1n1 = —/it (13.13)
+NO
+
+which gives
+N(t) =N0e’“ (13.14)
+
+Note, for example, the light bulbs follow no such exponential decay law.
+If we test 1000 bulbs for their life (time span before they burn out or
+fuse), we expect that they will ‘decay’ (that is, burn out) at more or less
+the same time. The decay of radionuclides follows quite a different law,
+the law of radioactive decay represented by Eq. (13.14).
+
+The total decay rate R of a sample is the number of nuclei
+disintegrating per unit time. Suppose in a time interval dt, the decay
+count measured is AN. Then dN = — AN.
+
+The positive quantity R is then deﬁned as
+
+y
+—v
+
+Differentiating Eq. (13. 14), we get
+
+_ 7M
+R — AND e
+
+or, R =R0e"It (13.15)
+
+Number of undeca ed nuclei
+
+ 
+
+This is equivalant to the law of radioactivity decay,
+since you can integrate Eq. (13. 15) to get back Eq. T1,2 2T1,2 3T1,2 4T1,2 m
+(13.14). Clearly, R0 = XNO is the decay rate at t= 0. The
+decay rate R at a certain time t and the number of
+undecayed nuclei N at the same time are related by
+
+FIGURE 13.3 Exponential decay of a
+radioactive species. After a lapse of
+Tl/2 . population of the given species
+
+R = ;\.N (13.16) drops by 8 factor Of 2
+
+The decay rate of a sample, rather than the number of radioactive
+nuclei, is a more direct experimentally measurable quantity and is given
+a specific name: activity. The SI unit for activity is becquerel, named
+
+after the discoverer of radioactivity, Henry Becquerel. 447
+
+2019-20

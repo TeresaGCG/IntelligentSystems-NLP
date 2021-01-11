@@ -1,0 +1,82 @@
+Electrostatic Potential
+
+and Capacitance
+
+2.6. 1 Relation between ﬁeld and potential
+
+Consider two closely spaced equipotential surfaces A and B (Fig. 2.12)
+with potential values Vand V + 6V, where 6Vis the change in Vin the
+direction of the electric field E. Let P be a point on the
+surface B. 6 l is the perpendicular distance of the
+surface A from P. Imagine that a unit positive charge
+is moved along this perpendicular from the surface B
+to surface A against the electric ﬁeld. The work done
+in this process is | E | El.
+This work equals the potential difference
+VA—VB.
+Thus,
+
+|E|6l=V—(V+ 6V)=—5V
+
+i.e., |E|=—5—V (2.20)
+61
+Equipotentials
+Since 6V is negative, 6V = — |6V|. we can rewrite
+Eq (2.20) as
+
+6V |6V|
+E : —— : +—
+| | 61 61 (2.21)
+
+We thus arrive at two important conclusions concerning the relation
+
+between electric ﬁeld and potential:
+
+(i) Electric field is in the direction in which the potential decreases
+steepest.
+
+(ii) Its magnitude is given by the change in the magnitude of potential
+per unit displacement normal to the equipotential surface at the point.
+
+2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES
+
+Consider ﬁrst the simple case of two charges qland q2 with position vector
+r1 and 1'2 relative to some origin. Let us calculate the work done
+(externally) in building up this configuration. This means that we consider
+the charges q1 and q2 initially at inﬁnity and determine the work done by
+an external agency to bring the charges to the given locations. Suppose,
+ﬁrst the charge q1 is brought from inﬁnity to the point r1. There is no
+external ﬁeld against which work needs to be done, so work done in
+bringing q1 from inﬁnity to r1 is zero. This charge produces a potential in
+space given by
+
+1 $
+47580 run
+where r1P is the distance of a point P in space from the location of ‘11-
+
+From the definition of potential, work done in bringing charge q2 from
+infinity to the point 1'2 is q2 times the potential at 1'2 due to qlz
+
+1 Q1Q2
+471280 r12
+
+V1:
+
+ 
+
+ 
+
+ 
+
+work done on q2 =
+
+2019-20
+
+E
+
+FIGURE 2.12 From the
+potential to the field.
+
+V+ SV
+
+61

@@ -1,0 +1,27 @@
+Homework Helpers: Basic Math and Pre-Algebra
+88
+Lesson 5-1 Review
+Convert the following decimal fractions to reduced fractions, and the
+improper fractions to decimal numbers:
+1. 0.68 3.
+2. 0.12 4.
+Lesson 5-2: Adding and Subtracting Decimal Numbers
+Decimal numbers can be added together in several ways. One way to
+add decimal numbers is to convert them first to fractions and then add
+the resulting fractions. The resulting fraction can then be converted to a
+decimal number using division, if necessary. This method will always work,
+but after a few examples you will notice some shortcuts.
+Example 1
+Find the sum: 0.65 + 0.13
+Solution: Convert each decimal fraction to a fraction, and then
+add the fractions together. There is no need to reduce the
+fractions, because you will have to “un-reduce” them to get a
+common denominator so that you can add the fractions together:
+There is no need to reduce the resulting fraction, because you can
+easily convert it to a decimal fraction because the denominator is
+a power of 10:
+Adding decimal fractions together is quite straightforward. We just
+saw how decimal fractions can be converted to fractions that have a de-
+nominator equal to a power of 10. Because both decimal numbers will be
+converted to fractions whose denominators are a power of 10 (though
+www.ebook3000.com

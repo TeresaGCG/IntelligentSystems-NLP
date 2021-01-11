@@ -1,0 +1,108 @@
+224
+
+Furniture A/c
+To Purchases A/c
+
+Cash A/c
+To Commission A/c
+
+Cash A/c
+To Sales A/c
+
+Commission A/c
+To Sales A/c
+
+Cash A/c
+To Nadeem’s A/c
+
+Cash A/c
+To Karim’s A/c
+
+Test Your Understanding - III
+
+1.
+
+Error of Commission
+Mohan’s A/c
+To Sales A/c
+
+Mohan’s A/c
+To Sales A/c
+
+Suspense A/c
+
+To Mohan’s A/c
+Error of Partial omission
+xxx A/c
+
+To Cash A/c
+
+Neha’s A/c
+To Suspense A/c
+
+Neha’s A/c
+To Suspense A/c
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+Dr.
+
+2019-2020
+
+8,000
+8,000
+
+15,000
+15,000
+
+15,000
+15,000
+
+15,000
+15,000
+
+6, 000
+6,000
+
+6,000
+6,000
+
+12, 000
+12,000
+
+10,000
+10,000
+
+2,000
+2,000
+
+2,000
+2,000
+
+2,000
+2,000
+
+2,000
+2,000
+
+Accountancy

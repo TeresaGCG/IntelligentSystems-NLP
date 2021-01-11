@@ -1,0 +1,28 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Integers
+The whole numbers only tell you half of the story. The other half of
+the story involves negative numbers. Most of us are all too familiar with
+negative numbers. If I have $15 and I want to purchase a pair of shoes
+that cost $25, then I’m $10 short. We handle the concept of debt using
+negative numbers. Numbers that are greater than 0 are called positive
+numbers. The opposite of a positive number is called a negativenumber.
+For example, the opposite of 3 is −3, and the opposite of 10 is −10. Oppo-
+sites work both ways; the opposite of −3 is 3 and the opposite of −10 is 10.
+A number and its opposite always add up to 0; 3 +(−3)= 0 and 10 + (−10) = 0.
+The opposite of 0 is 0. It is the only number that is its own opposite—
+another special property of 0!
+The opposite of a number is also called its additive inverse. The col-
+lection of whole numbers and their additive inverses are called the inte-
+gers. The counting numbers are called the positive integers and their
+opposites are called the negative integers. If a number is greater than 0 it
+has a positive sign; a number that is less than 0 has a negative sign.
+Integers have two parts: the magnitude of the integer and the sign of
+the integer. The magnitude of an integer is the whole number component
+of the integer. It tells how big the number is. The sign of the integer
+indicates whether the integer is positive or negative. The integer 35 has
+magnitude 35 and sign +. The integer −15 has magnitude 15 and sign −.
+Most of the time the positive sign is not written and is implied.
+Lesson 2-1: The Number Line and Absolute Value
+We can graph numbers on a number line. A number line is a graphi-
+cal representation of the signs and magnitudes of numbers and their
+35

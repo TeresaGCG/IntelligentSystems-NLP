@@ -1,0 +1,40 @@
+586 Chapter 8
+The north bridge is basically a DMA controller, connecting the processor to
+memory, the AG P graphic bus, and the south bridge chip. The south bridge con 
+nects the north bridge to a cornucopia of I/O buses. Intel and others offer a wide
+va riety of these chip sets to connect the Pentium 4 to the outside world. To give a
+flavor of the options, Figure 8.12 shows two of the chip sets.
+As Moore's law continues, an increasing number of I/O controllers that were
+formerly available as optional cards that connected to I/O buses have been co 
+opted into these chip sets. For example, the south bridge chip of the Intel 875
+includes a striping RAID controller, and the north bridge chip of the Intel 845GL
+includes a graphics controller.
+875P chip set 845GL chip set
+Target segment Perfonnance PC Value PC
+System bus (64 bit) 800/533 MHz 400 MHz
+Memory controller hub ("north bridge")
+Package sire, pins 42.5 x 42.5 mm, 1005 37.5 x 37.5 mm, 760
+Memory speed DDR 400/333/266 SDRAM DDR 266/ 200, PC133 SDRAM
+Memory buses, widths 2x72 1 x 64
+Number of DIMMs, DRAM Mbit 4, 128/256/512 Mbits 2, 128/256/512 MBits
+support
+Maximum memory capacity 4 GB 2 GB
+Memory error corre<:tion available? y" 0"
+AGP graphics bus, speed yes, 8X or 4X 00
+Graphics controller external Internal (Extreme Graphics)
+CSA Gigabit Ethernet interface y" 00
+South bridge interface speed (8 bit) 266 MHz 266 MHz
+I/O controller hub ("south bridge")
+Package sire, pins 31 x 31 mm, 460 31 x 31 mm, 421
+PCI bus: width, speed, masters 32-bit, 33 MHz, 6 masters 32-bit, 33 MHz, 6 masters
+Ethernet MAC controller, interface 100/10 Mbit 100/10 Mbit
+USB 2.0 ports, controllers 8, 4 6,3
+ATA 100 ports 2 2
+Serial ATA 150 controller, ports yes, 2 00
+RAID 0 controller y" 00
+ACfJ7 audio controller, interface y" yo,
+I/O management 5Mbus 2.0, GPIO 5Mbus 2.0, GPIO
+FIGURE 8.12 Two Pentium 4 I/O chip sets from Intel. The 845GL north bridge uses many fewer
+pins than the 875 by having just one memory bus and by omitting the AGP bus and the Gigabit Ethernet
+interface. Note that the serial nature of USB and Serial ATA means that two more USB ports and two more
+Serial ATA ports need just 39 more pins in the south bridge of the 875 versus the 845GL chip sets.

@@ -1,0 +1,39 @@
+S.4 A Simple Implementation Scheme 317
+CPU performancevariabl~dock CPU execution timesingl~ dock
+CPU performanCesingl~ clod: CPU execution time,.ariabl~ clod:
+IC x CPU clock cyclesingl~ dock = CPU clock cyclesin*dock )
+(
+IC x CPU clock cyclevari.bl~dock CPU clock cyclevari.bl~dod:
+= 600 = 1.34
+447.5
+The variable clock implementation would be 1.34 times faster. Unfortunately,
+implementing a variable-speed clock for each instruction class is extremely
+difficult, and the overhead for such an approach could be larger than any ad 
+vantage gained. As we will see in the next section, an alternative is to use a
+sho rter clock cycle that does less work and then vary the number of clock cy 
+cles fo r the different instruction classes.
+The penalty for using the single-cycle design with a fixed clock cycle is signifi 
+cant, but might be considered acceptable for this small instruction set. Histori 
+cally, early machines with very simple instruction sets did use this
+implementation technique. However, if we tried to implement the floating-point
+unit or an instruction set with more complex instructions, this single-cycle design
+wouldn't work well at all. An exa mple of this is shown in the " For More Practice
+Exercise 5.4.
+Because we must assume that the clock cycle is equal to the worst-case delay for
+all instructions, we can't use implementation techniques that reduce the delay of
+the common case but do not improve the worst-case cycle time. A single-cycle
+implementation thus violates our key design principle of making the common
+case fast. In addition, in this single-cycle implementation, each functional unit
+can be used only once per clock; therefore, some functional units must be dupli 
+cated, raising the cost of the implementation. A single-cycle design is inefficient
+both in its performance and in its hardware cost!
+We can avoid these difficulties by using implementation techniques that have a
+shorter clock cycle-derived from the basic functional unit delays-and that
+require multiple clock cycles for each instruction. The next section explores this
+alternative implementation scheme. In Chapter 6, we'll look at another imple 
+mentation technique, called pipelining, that uses a datapath very similar to the
+single-cycle datapath, but is much more efficient. Pipelining gains efficiency by
+overlapping the execution of multiple instructions, increasing hardware utiliza 
+tion and improving performance. For those readers interested primarily in the
+high-level concepts used in processors, the material of this section is sufficient to
+read the introductory sections of Chapter 6 and understand the basic functional-

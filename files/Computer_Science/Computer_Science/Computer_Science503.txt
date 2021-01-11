@@ -1,0 +1,40 @@
+7.2 The Basics of Caches 487
+Instruction miss rate Data miss rate Effective combined miss rate
+0.496 11.496 3.2%
+FtGURE 7.10 Approximate Instruction and data miss rates for the Intrlnslty FastMATH
+processor for SPEC2000 benchmarks. The combined miss rate is the effective miss rate seen for the
+combination of the 16 KB instruction cache and 16 KB data cache. It is obtained by weighting the instruc 
+tion and data individual miss rates by the frequency of instruction and data references.
+\-¥hat cache miss rates are attained with a cache strucnlre like that used by the
+lntrinsity FastMATH? Figure 7.10 shows the miss rates for the instruction and
+data caches for the SPEC2000 integer benchmarks. The combined miss rate is the
+effective miss rate per reference for each program after accounting for the differ 
+ing frequency of instruction and data accesses.
+Although miss rate is an important characteristic of cache designs, the ultimate
+measure will be the effect of the memory system on program execution time; we'll
+see how miss rate and execution time are related shortly.
+Elaboration: A combined cache with a total size equal to the sum of the two split split cache A scheme in which
+caches will usually have a better hit rate. This higher rate occurs because the combined a level ofthe memory hierarchy
+cache does not rigidly divide the number of entries that may be used by instructions is composed oftwo independent
+caches that operate in parallel
+from those that may be used by data. Nonetheless, many processors use a split
+with each other with one
+instruction and data cache to increase cache bandwidth.
+handling instructions and one
+Here are miss rates for caches the size of those found in the Intrinsity FastMATH
+handling data.
+processor, and for a combined cache whose size is equal to the total of the two caches:
+• Total cache size: 32 KB
+• Split cache effective miss rate: 3.24%
+• Combined cache miss rate: 3.18%
+The miss rate of the split cache is only slightly worse.
+The advantage of doubling the cache bandwidth, by supporting both an instruction
+and data access simultaneously, easily overcomes the disadvantage of a slightly
+increased miss rate. This observation is another reminder that we cannot use miss rate
+as the sole measure of cache performance, as Section 7.3 shows.
+Designing the Memory System to Support Caches
+Cache misses are satisfied from main memory, which is constructed from
+DRAMs. In Section 7.1, we saw that DRAMs are designed with the primary
+emphasis on density rather than access time. Although it is difficult to reduce the
+latency to fetch the first word from memory, we can reduce the miss penalty if we
+increase the bandwidth from the memory to the cache. This reduction allows

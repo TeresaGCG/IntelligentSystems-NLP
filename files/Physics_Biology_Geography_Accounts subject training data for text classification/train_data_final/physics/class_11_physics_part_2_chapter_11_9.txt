@@ -1,0 +1,20 @@
+Triple Point
+
+The temperature of a substance remains constant. during its change of state (phase change).
+A graph between the temperature T and the Pressure P of the substance is called a phase
+diagram or P — T diagram. The following figure shows the phase diagram of water and C02.
+Such a phase diagram divides the P — T plane into a solid-region, the vapour—region and the
+liquid—region. The regions are separated by the curves such as sublimation curve (BO). fusion
+curve (A0) and vaporisation curve (CO). The points on sublimation curve represent states
+in which solid and vapour phases coexist. The point on the sublimation curve BO represent
+states in which the solid and vapour phases co-exist. Points on the fusion curve AO represent
+states in which solid and liquid phase coexist. Points on the vapourisation curve CO represent
+states in which the liquid and vapour phases coexist. The temperature and pressure at which
+the fusion curve, the vaporisation curve and the sublimation curve meet and all the three
+phases of a substance coexist is called the triple point of the substance. For example the
+triple point of water is represented by the temperature 273.16 K and pressure 6.1 1X10’3 Pa.
+
+«78.5 —56.6 2031.1 T ("C)
+(b)
+
+Fig. 1 1 .1 1: Pressure—temperature phase diagramsfor (a) water and (b) CO2 (not to the scale).

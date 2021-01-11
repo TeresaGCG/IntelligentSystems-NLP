@@ -1,0 +1,55 @@
+1 48 Accountancy : Company Accounts and Analysis of Financial Statements
+
+criteria for defining current assets and liabilities has been clearly spelled out
+with non-current assets and liabilities being the residual items.
+
+Current/Non-current distinction
+An item is classiﬁed as current:
+0 if it is involved in entity's operating cycle or,
+is expected to be realised / settled within twelve months or,
+if it is held primarily for trading or,
+is cash and cash equivalent or,
+if entity does not have on unconditional rights to defer settlement of
+liability for atleast 12 months after the reporting period,
+0 Other assets and liabilities are non-current.
+
+Illustration 2
+Show the following items in the balance sheet of Amba Ltd. as on March 31,
+
+20 1 7: Rs.
+8% Debentures 10,00,000
+Equity share capital 50,00,000
+Securities premium 20,000
+Preliminary expenses 40,000
+Statement of Proﬁt & Loss (cr.) 1,50,000
+Discount on issue of 8% debentures 40,000
+(Amount to be written in next 4 years approx.)
+
+Loose tools 20,000
+
+Bank balance 60,000
+
+Cash in hand 38,000
+Solution:
+
+Books of Amba Ltd.
+*Balance Sheet as at March 31, 2017
+
+Particulars Note Amount
+No. (Rs.)
+
+I. Equity and Liabilities
+1. Shareholders' Funds
+a) Share capital 50,00,000
+b) Reserve and surplus 1 1.30.000
+2. Non-current Liabilities
+a) Long-term borrowings 2 10,00,000
+II. Assets
+1. Non-current assets
+a) Other non-current assets 3 30,000
+2. Current assets
+a) Inventories 4 20,000
+b) Cash and cash equivalents 5 98,000
+0) Other current assets 6 10,000
+
+* Relevant items only

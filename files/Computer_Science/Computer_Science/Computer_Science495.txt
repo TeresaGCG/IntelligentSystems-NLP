@@ -1,0 +1,37 @@
+7.2 The Basics of Caches 479
+The index of a cache block, together with the tag contents of that block, uniquely
+specifies the memory address of the word contained in the cache block. Because
+the index field is used as an address to access the cache and because an n-bit field
+has 2" values, the total number of entries in a direct-mapped cache must be a
+power of two. In the MIPS architecnlfe, since words are aligned to multiples of 4
+bytes, the least significant 2 bits of every address specify a byte within a word and
+hence are ignored when selecting the word in the block.
+The total number of bits needed for a cache is a function of the cache size and
+the address size because the cache includes both the storage for the data and the
+tags. The size of the block above was one word, but normally it is several. Assuming
+m
+the 32-bit byte address, a direct-mapped cache of size 2~ blocks with 2 -word
+m 2
+(2 + _byte) blocks will require a tag field whose size is 32 - (n + m + 2) bits
+because n bits are used for the index, m bits are used for the word within the block,
+and 2 bits are used for the byte part of the address. The total number of bits in a
+direct-mapped cache is 2" X (block size + tag size + valid field size). Since the block
+m m S
+size is 2 words (2 + bits) and the address size is 32 bits, the number of bits in
+such a cache is 2~ X (m X32 + (32 - /1l - 2) + 1) = 2" X(m X32 + 31- /1l).
+11 - 11 -
+However, the naming convention is to excludes the size of the tag and valid field
+and to count only the size of the data.
+Bits in a Cache
+How many total bits are required for a direct-mapped cache with 16 KB of EXAMPLE
+data and 4-word blocks, assuming a 32-bit address?
+12
+We know that 16 KB is 4K words, which is 2 words, and, with a block size of
+ANSWER
+2 10
+4 words (2 2 blocks. Each block has 4x 32 or 128 bits of data plus a tag,
+) ,
+which is 32 - 10 - 2 - 2 bits, plus a valid bit. Thus, the total cache size is
+210 X(128+(32-1O-2-2)+ 1) = 2lO x 147 = 147 Kbits
+or 18.4 KB for a 16 KB cache. For this cache, the total number of bits in the
+cache is about 1.1 5 times as many as needed just for the storage of the data.

@@ -1,0 +1,30 @@
+Integers
+37
+sides of 0. The symbol for absolute value is . The absolute value of 3
+is written symbolically as 3, and the absolute value of –5 is written
+symbolically as −5. Using variables, the absolute value of a number a is
+written symbolically as a. The absolute value of a number and its magni-
+tude are the same thing, and the two phrases are used interchangeably.
+Example 2
+Find4 and −2.
+Solution: 4 is located 4 units to the right of 0 so 4= 4; −2 is
+located 2 units to the left of 0, so −2= 2.
+Lesson 2-1 Review
+1. Graph the numbers 1, −2, and 4 on a number line. Order the numbers
+from smallest to greatest.
+2. Find 2, −6, and 0.
+Lesson 2-2: Adding Integers
+As I mentioned earlier, the sum of a number and its additive inverse,
+or opposite, is 0; 3 + (−3) = 0 and (−4) + 4 = 0. You can add two integers
+together using a number line. To add two integers together, locate the
+first number on the number line. Next, find the absolute value of the
+second number. That will tell you how many units to move over. The sign
+of the second number tells you whether to move to the left or the right. If
+the second number is positive, move to the right; if the second number is
+negative, move to the left.
+Example 1
+Find the sum: 4 + (−3)
+Solution: Start at 4 and move 3 units to the left, as shown in Figure
+2.3: 4 + (−3) = 1.
+0 1 4 5
+Figure 2.3

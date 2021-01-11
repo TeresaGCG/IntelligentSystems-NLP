@@ -1,0 +1,24 @@
+Linear Functions and Graphs
+177
+The graph of the points in the table:
+y
+12
+10
+8
+6
+4
+2
+x
+–5 5
+–2
+–4
+2. Slope: −3; y-intercept: (0,−6); x-intercept: (−2, 0)
+3.
+Lesson 9-5 Review
+1. Graph of the line  y= −2x+ 1
+y
+2
+1
+x
+2
+–1

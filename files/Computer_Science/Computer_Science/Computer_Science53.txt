@@ -1,0 +1,33 @@
+1.8 Exercises 37
+well as exercises to explore its implication or use. The In More Depth sections
+appear on the CD associated with the specific chapter.
+Starting in Chapter 2, you will also find For More Practice Exercises. For More
+Practice Exercises include additional problems intended to give the interested
+reader more practice in dealing with a subject. These exercises have been collected
+primarily from earlier editions of this book as well as exercises developed by other
+instructors. The For More Practice sections appear on the CD associated with the
+specific chapter.
+Exercises 1.1 through 1.28 Find the word or phrase from the list below that
+best matches the description in the following questions. Use the numbers to the
+left of words in the answer. Each answer should be used only once.
+1 abstraction 15 embedded system
+2 assembler 16 instruction
+3 bit 17 instruction set architecture
+4 cache 18 local area network (LAN)
+5 central processor unit (CPU) 19 memory
+6 chip 20 operating system
+7 compiler 21 semiconductor
+8 computer family 22 server
+9 control 23 supercomputer
+10 datapath 24 transistor
+11 desktop or personal computer 25 VLSI (very large scale integrated circuit)
+12 Digital Video Disk (DVD) 26 wafer
+13 defect 27 wide area network (WAN)
+14 DRAM (dynamic random access memory) 28 yield
+1.1 121Active part of the com puter, following the instructions of the programs to
+the letter. It adds numbers, tests numbers, controls other components, and so on.
+1.2 121 Approach to the design of hardware or software. The system consists of hi 
+erarchicallayers, with each lower layer hiding details from the level above.
+1.3 121 Binary digit.
+1.4 121 Collection of implementations of the same instmction set architecnlfe.
+They are usually made by the same company and vary in price and performance.

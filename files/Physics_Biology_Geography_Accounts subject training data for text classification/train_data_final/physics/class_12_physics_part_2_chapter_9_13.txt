@@ -1,0 +1,66 @@
+l Physics
+
+(ii) Diamond: Diamonds are known for their
+spectacular brilliance. Their brilliance
+is mainly due to the total internal
+reﬂection of light inside them. The critical
+angle for diamond-air interface (E 24.4°)
+is very small, therefore once light enters
+a diamond, it is very likely to undergo
+total internal reﬂection inside it.
+Diamonds found in nature rarely exhibit
+the brilliance for which they are known.
+It is the technical skill of a diamond
+cutter which makes diamonds to
+sparkle so brilliantly. By cutting the
+diamond suitably, multiple total
+internal reflections can be made
+
+ 
+
+ 
+
+to occur.
+(iii) Prism: Prisms designed to bend light by
+FIGURE 9.15 Prisms designed to bend rays by 90° or by 180° make use oftotal internal
+90° and 180° or to invert image without changing reﬂection [Fig 915(3) and (b)] Such a
+its size make. use of total internal reﬂection. prism is also used to invert images
+
+without changing their size [Fig 9. 15(0)].
+
+In the first two cases, the critical angle is for the material of the prism
+
+must be less than 45°. We see from Table 9.1 that this is true for both
+
+crown glass and dense ﬂint glass.
+
+(iv) Optical ﬁbres: Nowadays optical fibres are extensively used for
+transmitting audio and video signals through long distances. Optical
+ﬁbres too make use of the phenomenon of total internal reﬂection.
+Optical ﬁbres are fabricated with high quality composite glass / quartz
+ﬁbres. Each fibre consists of a core and cladding. The refractive index
+of the material of the core is higher than that of the cladding.
+
+When a signal in the form of light is
+Low n directed at one end of the fibre at a suitable
+\ angle, it undergoes repeated total internal
+reﬂections along the length of the fibre and
+finally comes out at the other end (Fig. 9.16).
+Since light undergoes total internal reﬂection
+High n at each stage, there is no appreciable loss in
+the intensity of the light signal. Optical fibres
+FIGURE 9. 16 Light undergoes successive total are fabricated such that light reﬂected at one
+internal reﬂections as it moves through an side Of inner surface strikes the other at an
+Optlcal hbre' angle larger than the critical angle. Even if the
+fibre is bent, light can easily travel along its
+length. Thus, an optical fibre can be used to act as an optical pipe.
+
+A bundle of optical fibres can be put to several uses. Optical fibres
+are extensively used for transmitting and receiving electrical signals which
+are converted to light by suitable transducers. Obviously, optical fibres
+can also be used for transmission of optical signals. For example, these
+are used as a ‘light pipe’ to facilitate visual examination of internal organs
+
+322 like esophagus, stomach and intestines. You might have seen a commonly
+
+2019-20

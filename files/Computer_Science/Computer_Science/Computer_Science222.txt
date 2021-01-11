@@ -1,0 +1,34 @@
+206 Chapter 3 Arithmetic: for Computers
+Roating·Point Instructions in MIPS
+MIPS supports the IEEE 754 single precision and double precision formats with
+these instructions:
+• Floating-point addition, single (add. s) and addition, double (add .d)
+• Floating-point subtraction, single (sub . s) and subtraction, double (sub . d)
+• Floating-point ml/ltiplication, single (mul . s) and ml/ltiplication, double
+(mul . d)
+• Floating-point division, single (di v. s) and division, dOl/ble (di v. d)
+• Floating-point comparison, single (c . x . s) and comparison, double (e . x . d),
+where x may be equal (eq), not equal (neq), less than (1 t ), less than or eql/al
+(1 e), greater than (g t), or greater than or eql/al (ge)
+• Floating-point branch, true (be I t ) and branch, false (bc I f)
+Floating-point comparison sets a bit to true or false, depending on the compari 
+son condition, and a floating-point branch then decides whether or not to branch,
+depending on the condition.
+The MIPS designers decided to add separate floating-point registers-called
+HO, HI, $f2, ...- used either for single precision or double precision. Hence,
+they included separate loads and stores for floating-point registers: lwcI and
+swcl. The base registers for floating-point data transfers remain integer registers.
+The MIPS code to load two single precision numbers from memory, add them,
+and then store the sum might look like this:
+lweI $f4,x( $sp) # Load 32 - bit F.P. number into F4
+lweI $f6,y( $sp) # Load 32 - bit F. P . number into F6
+add . s $f2, $f4,$f6 # F2 F4 + F6 single precision
+=
+#
+swel $f2,z( $sp) Store 32 - bit F. P. number from F2
+A double precision register is really an even-odd pair of single precision registers,
+using the even register number as its name.
+Figure 3.1 9 summarizes the floating-point portion of the MIPS architecture
+revealed in this chapter, with the additions to support floating point shown in
+color. Similar to Figure 2.25 on page 103 in Chapter 2, we show the encoding of
+these instructions in Figure 3.20.

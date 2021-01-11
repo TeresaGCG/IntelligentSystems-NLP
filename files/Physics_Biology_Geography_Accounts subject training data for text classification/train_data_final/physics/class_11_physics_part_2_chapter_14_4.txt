@@ -1,0 +1,105 @@
+OSCILLATIONS
+
+345
+
+<— ”max
+—o—o —o—
+—A o A -A o A
+t: 0 t: T/4
+—> ”max
+_A o A -A o A
+t = T/2 t = 3T/4
+<— ”max
+—A o A —A o A
+t = T t = 5T/ 4
+
+Fig. 14.4 The location of the particle in SHM at the
+discrete values t = 0, T/ 4, T/ 2, 3T/ 4, T,
+5T/ 4. The time after which motion repeats
+itselfis T. T will remain ﬁxed, no matter
+what location you choose as the initial (t =
+0) location. The speed is maximum for zero
+displacement (at x = 0) and zero at the
+extremes of motion.
+
+of motion. Fig. 14.5 plots the graph of xversus t,
+which gives the values of displacement as a
+continuous function of time. The quantities A,
+a) and {/3 which characterize a given SHM have
+standard names, as summarised in Fig. 14.6.
+Let us understand these quantities.
+
+X
+
+>
+
+Displacement —>
+='> o
+
+ 
+
+Fig. 1 4.5 Displacement as a continuous function of
+time for simple hammnic motion.
+
+: displacement x as a function of time t
+: amplitude
+: angular frequency
+
+: phase (time—dependent)
+: phase constant
+
+ 
+
+Fig. 14.6 The meaning of standard symbols
+in Eq. (1 4. 4)
+
+The amplitutde A of SHM is the magnitude
+of maximum displacement of the particle.
+[Note, A can be taken to be positive without
+any loss of generality]. As the cosine function
+of time varies from + 1 to —1, the displacement
+varies between the extremes A and — A. Two
+simple harmonic motions may have same a)
+and ¢ but different amplitudes A and B, as
+shown in Fig. 14.7 (a).
+
+><
+N
+
+{>03
+
+t—>
+
+Displacement —>
+05 o
+
+:L
+
+Fig. 14.7 (a) A plot ofdisplacement as afunction of
+time as obtained from Eq. (14.4) with
+q) = 0. The curves 1 and 2 are for two
+different amplitudes A and B.
+
+While the amplitude A is fixed for a given
+SHM, the state of motion (position and velocity)
+of the particle at any time tis determined by the
+argument (wt + ¢) in the cosine function. This
+time-dependent quantity, (wt + ¢) is called the
+phase of the motion. The value of plase at t= O
+is q) and is called the phase constant (or phase
+angle). If the amplitude is known, ¢ can be
+determined from the displacement at t= 0. Two
+simple harmonic motions may have the same A
+and a) but different phase angle ()3, as shown in
+Fig. 14.7 (b).
+
+Displacement —>
+
+ 
+
+Fig. 14.7(b) A plot obtained from Eq. (14.4). The
+curves 3 and 4 are for q) = 0 and —71:/4
+respectively. The amplitudeA is same for
+both the plots.
+
+2019-20

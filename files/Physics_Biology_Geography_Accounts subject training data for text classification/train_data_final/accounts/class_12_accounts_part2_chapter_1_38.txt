@@ -1,0 +1,56 @@
+Accounting for Share Capital 3 9
+
+Equity Share Allotment A/c . 15,00,000
+To Equity Share Capital A/c 9,00,000
+To Securities Premium Reserve A/ c 6.00.000
+(AllotInent money due on 3,00,000 shares)
+
+Bank A/c . 12,00,000
+To Equity Share Allotment Reserve A/c 12,00,000
+
+(AllotInent amount received after adjusting
+excess money received with application)
+
+Equity Share First Call A/c . 6,00,000
+To Equity Share Capital A/c 6,00,000
+(First Call amount due on 3,00,000 shares)
+
+Bank A/ c Dr.
+Calls in Arrears A/c Dr.
+
+To Equity Share First Call A/c 6,00,000
+(First Call amount received on 2,99,200 shares)
+
+Equity Share Second and Final Call A/c Dr. 6.00.000
+To Equity Share Capital A/c 6.00.000
+(Second Call amount due on 3,00,000 Shares)
+
+Bank A/c Dr.
+Calls in Arrears A/c Dr.
+
+To Equity Share Second and Final Call A/c 6.00.000
+(Amount on 2.99.200 shares received)
+
+Equity Share Capital A/c
+To Share Forfeiture A/c
+To Call in Arrears A/c
+
+(Forfeiture of 800 shares)
+
+ 
+
+Balance Sheet of Ashok Limited as on
+
+I EQUITY AND LIABILITIES
+
+1. Shareholders' Funds
+(a) Share Capital 29,96,800
+(b) Reserves and Surplus 6,00,000
+
+35,96,800
+
+II ASSETS
+1 .Current Assets
+Cash and Cash Equivalents 35,96,800
+
+35,96,800

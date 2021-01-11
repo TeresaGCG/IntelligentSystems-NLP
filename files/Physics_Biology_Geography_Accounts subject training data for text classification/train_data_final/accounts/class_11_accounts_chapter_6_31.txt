@@ -1,0 +1,47 @@
+Trial Balance and Rectification of Errors 21 1
+
+Illustration 6
+Trial balance of Anant Ram did not agree. It showed an excess credit of ? 16,000. He put
+the difference to suspense account. Subsequently the following errors were located:
+
+(i) Cash received from Mohit ? 4,000 was posted to Mahesh as ? 1,000.
+
+[ii] Cheque for ? 5,800 received from Arnav in full settlement of his account of ? 6,000,
+was dishonoured. No entry was passed in the books on dishonour of the cheque.
+
+(iii) ? 800 received from Khanna, whose account had previously been written off as bad,
+was credited to his account.
+
+(iv) Credit sales to Manav for ? 5,000 was recorded through the purchases book as
+? 2,000.
+
+[v] Purchases book undercast by ? 1,000.
+(vi) Repairs on machinery ? 1 ,600 wrongly debited to Machinery account as i 1 ,000.
+[vii] Goods returned by Nathu ? 3,000 were taken into stock. No entry was recorded in
+
+the books.
+Solution
+(1)
+Mahesh’s A/c Dr. 1,000
+Suspense A/c Dr. 3,000
+To Mohit’s A/c 4,000
+
+(Cash received from Mohit ? 4,000 wrongly posted to Mahesh as U ,000,
+now rectified]
+
+[ii]
+
+Arnav’s A/c Dr. 6,000
+To Bank A/c 5,800
+To Discount Allowed A/c 200
+
+[Cheque received from Arnav for ? 5,800 in full settlement of his account
+of ? 6,000, dishonoured but no entry made in books, now rectified)
+
+(iii)
+
+Khanna’s A/ c Dr. 800
+To Bad debts recovered A/c 800
+[Bad debts recovered wrongly credited to Khanna’s account, now rectified]
+
+2019-2020

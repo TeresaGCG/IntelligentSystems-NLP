@@ -1,0 +1,51 @@
+Normal Hb (A) gene
+
+BIOLOGY
+
+the gene has a 50 per cent chance of being colour blind. The mother is
+not herself colour blind because the gene is recessive. That means that its
+effect is suppressed by her matching dominant normal gene. A daughter
+will not normally be colour blind, unless her mother is a carrier and her
+father is colour blind.
+
+Haemophilia : This sex linked recessive disease, which shows its
+transmission from unaffected carrier female to some of the male progeny
+has been widely studied. In this disease, a single protein that is a part of
+the cascade of proteins involved in the clotting of blood is affected. Due to
+this, in an affected individual a simple cut will result in non-stop bleeding.
+The heterozygous female (carrier) for haemophilia may transmit the disease
+to sons. The possibility of a female becoming a haemophilic is extremely
+rare because mother of such a female has to be at least carrier and the
+father should be haemophilic (unviable in the later stage of life). The family
+pedigree of Queen Victoria shows a number of haemophilic descendents
+as she was a carrier of the disease.
+
+Sickle-cell anaemia : This is an autosome linked recessive trait that can
+be transmitted from parents to the offspring when both the partners are
+carrier for the gene (or heterozygous). The disease is controlled by a single
+pair of allele, HbA and HbS. Out of the three possible genotypes only
+homozygous individuals for HbS (HbsHbS) show the diseased phenotype.
+Heterozygous (HbAHbS) individuals appear apparently unaffected but they
+are carrier of the disease as there is 50 per cent probability of transmission
+of the mutant gene to the progeny, thus exhibiting sickle-cell trait
+(Figure 5.15). The defect is caused by the substitution of Glutamic acid
+
+ 
+
+---GTG---
+
+"GAG'"
+.. ---CAC---
+
+--CTC ‘ Sickle-cell Hb(S) gene
+
+ 
+
+34567 234567
+HbA peptide HbS peptide
+
+Figure 5.15 Micrograph of the red blood cells and the amino acid composition of the relevant
+portion of [3-chain of haemoglobin: (a) From a normal individual; (b) From an individual
+with sickle-cell anaemia
+
+2019-2020

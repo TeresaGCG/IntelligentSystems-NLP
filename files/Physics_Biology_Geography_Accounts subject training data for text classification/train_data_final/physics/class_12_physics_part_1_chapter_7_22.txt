@@ -1,0 +1,27 @@
+Alternating Current
+
+Example 7.10 At an airport. a person is made to walk through the
+doorway of a metal detector. for security reasons. If she/ he is carrying
+anything made of metal. the metal detector emits a sound. On what
+principle does this detector work?
+
+Solution The metal detector works on the principle of resonance in
+ac circuits. When you walk through a metal detector. you are.
+in fact. walking through a coil of many turns. The coil is connected to
+a capacitor tuned so that the circuit is in resonance. When
+you walk through with metal in your pocket. the impedance of the
+circuit changes — resulting in significant change in current in the
+circuit. This change in current is detected and the electronic circuitry
+causes a sound to be emitted as an alarm.
+
+ 
+
+723 LC QSOILLATIDNS
+
+FIGURE 7.18 At the
+instant shown, the current
+is increasing; so the
+polarity of induced emf in
+the inductor is as shown.
+
+255

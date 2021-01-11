@@ -1,0 +1,80 @@
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+Electric Charges
+and Fields
+
+ 
+
+the vector sum of the force on q1 due to q2, the force on q1 due to q3,
+and so on. For each pair, the force is given by the Coulomb’s law for
+two charges stated earlier.
+
+The electric field E at a point due to a charge configuration is the
+force on a small positive test charge q placed at the point divided by
+the magnitude of the charge. Electric field due to a point charge q has
+a magnitude | q | /4nsor2; it is radially outwards from q, if q is positive,
+and radially inwards if q is negative. Like Coulomb force, electric field
+also satisﬁes superposition principle.
+
+An electric field line is a curve drawn in such a way that the tangent
+at each point on the curve gives the direction of electric field at that
+point. The relative closeness of field lines indicates the relative strength
+of electric field at different points; they crowd near each other in regions
+of strong electric field and are far apart where the electric field is
+weak. In regions of constant electric field, the field lines are uniformly
+spaced parallel straight lines.
+
+Some of the important properties of field lines are: (i) Field lines are
+continuous curves without any breaks. [ii] Two field lines cannot cross
+each other. (iii) Electrostatic field lines start at positive charges and
+end at negative charges —they cannot form closed loops.
+
+An electric dipole is a pair of equal and opposite charges q and —q
+separated by some distance 2a. Its dipole moment vector p has
+magnitude 2qa and is in the direction of the dipole axis from —q to q.
+
+Field of an electric dipole in its equatorial plane [i.e., the plane
+perpendicular to its axis and passing through its centre) at a distance
+r from the centre:
+
+ 
+
+_p 1
+E: —
+4mg, (a2 + r2)3/2
+5%, for r >> a
+47csor
+
+Dipole electric field on the axis at a distance r from the centre:
+
+E: 25" 22
+4n€0(r —a)
+5 _2p 3 for r >> a
+41:80r
+
+The l / r3 dependence of dipole electric fields should be noted in contrast
+to the 1 / r2 dependence of electric field due to a point charge.
+
+In a uniform electric field E, a dipole experiences a torque 1: given by
+r=PxE
+but experiences no net force.
+The ﬂux Aq) of electric field E through a small area element AS is
+given by
+Aq) = E-AS
+The vector area element AS is
+AS = AS f1
+
+where AS is the magnitude of the area element and ﬂ is normal to the
+area element, which can be considered planar for sufficiently small AS.
+
+2019-20
+
+43

@@ -1,0 +1,46 @@
+132 Chapter 2 Instructions: Language of the Computer
+The loop test checksifi is less than s iz e:
+<
+It
+slt H3 , HO , $al $i3 (i si ze)
+=
+<
+boe $i3 , $ze r o , 1oopl It if (i si ze) go t o loopl
+We have now seen all the pieces of the procedure. Here is the MIPS code for
+clearing an array using indices:
+move $tO , $ze r o II 1 - 0
+loopl : 511 It l , ltO , 2 II It l - 1 * 4
+add H Z, $aQ , $t1 II 1t2 - address of a rray[i]
+sw $ze r o . Ol lt 2) II a rray[iJ 0
+=
+addi It O, ltO , 1 II 1 ~ 1 + I
+slt H 3 , HO , $al II $t3 (i < si ze)
+=
+<
+boe $i3 , $ze r o , 1oopl II if I i size) go t o loopl
+(This code works as long as s i ze is greater than 0.)
+Pointer Version of Clear
+The second procedure that uses pointers allocates the two parameters a r ray and
+si ze to the registers $aQand $a 1 and allocates p to register $t O. The code for the
+second procedure starts with assigning the pointer p to the address of the first ele 
+ment of the array:
+move $tO , $aO # p address of a rray[O]
+=
+The next code is the body of the fo r loop, which simply stores 0 into p:
+#
+loop2 : s w $ze r o , O($tO) Memo r y[p] 0
+=
+This instruction implements the body of the loop, so the next code is the iteration
+increment, which changes p to point to the next word:
+addi ItO , ltO , 4
+Incrementing a pointer by 1 means moving the pointer to the next sequential
+object in C. Since p is a pointer to integers, each of which use 4 bytes, the compiler
+increments p by 4.
+The loop test is next. The first step is calculating the address of the last element
+of a r ray. Start with multiplying si ze by 4 to get its byte address:
+add $tl , $al , $al It $tl size * 2
+=
+add 1tl , Itl , lti It $tl size * 4
+=
+and then we add the product to the starting address of the array to get the address
+of the first word after the array:

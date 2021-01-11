@@ -1,0 +1,102 @@
+102
+
+PHYSICS
+
+approximately true. Yet they are very useful in
+practical calculations in mechanics.
+
+Thus, when two bodies are in contact, each
+experiences a contact force by the other. Friction,
+by deﬁnition, is the component of the contact force
+parallel to the surfaces in contact, which opposes
+impending or actual relative motion between the
+two surfaces. Note that it is not motion, but
+relative motion that the frictional force opposes.
+Consider a box lying in the compartment of a train
+that is accelerating. If the box is stationary
+relative to the train, it is in fact accelerating along
+with the train. What forces cause the acceleration
+of the box? Clearly, the only conceivable force in
+the horizontal direction is the force of friction. If
+there were no friction, the ﬂoor of the train would
+slip by and the box would remain at its initial
+position due to inertia (and hit the back side of
+the train). This impending relative motion is
+opposed by the static friction f8. Static friction
+provides the same acceleration to the box as that
+of the train, keeping it stationary relative to the
+train.
+
+b Example 5.7 Determine the maximum
+acceleration of the train in which a box
+lying on its ﬂoor will remain stationary.
+
+given that the co—efficient of static friction
+
+between the box and the train‘s ﬂoor is
+0.15.
+
+ 
+
+Answer Since the acceleration of the box is due
+to the static friction,
+
+ma=fsSusN=us mg
+i.e. a<usg
+#59 =0.l5 xlOms‘2
+1.5 ms‘2 4
+
+.' amax
+
+> Example 5.8 See Fig. 5. l l . A mass of 4 kg
+rests on a horizontal plane. The plane is
+gradually inclined until at an angle 6 = 15°
+with the horizontal, the mass just begins to
+slide. What is the coefficient of static friction
+between the block and the surface '?
+
+Fig. 5.11
+
+2019-20
+
+Answer The forces acting on a block of mass m
+at rest on an inclined plane are (i) the weight
+mg acting vertically downwards (ii) the normal
+force N of the plane on the block, and (iii) the
+static frictional force f5 opposing the impending
+motion. In equilibrium, the resultant of these
+forces must be zero. Resolving the weight mg
+along the two directions shown, we have
+mgsin0=fs, mg cos0 = N
+
+As 0 increases, the self-adjusting frictional force
+f5 increases until at 6 = 0m, fS achieves its
+
+maximum value, (f5 )max = us N.
+
+Therefore,
+tan em = us or em = tan’1 us
+
+When 0 becomes just a little more than 6m ,
+there is a small net force on the block and it
+begins to slide. Note that am depends only on
+us and is independent of the mass of the block.
+
+For em” = 15°,
+us = tan 15°
+= 0.27 4
+
+P Example 5.9 What is the acceleration of
+the block and trolley system shown in a
+Fig. 5. l2(a). if the coefﬁcient of kinetic friction
+between the trolley and the surface is 0.04?
+What is the tension in the string? (Take g =
+10 m s2). Neglect the mass of the string.
+
+ 
+
+A;
+30N fk T
+(b) (C)
+
+Fig. 5.12

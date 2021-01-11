@@ -1,0 +1,44 @@
+296 Chapter 5 The Processor: Datapath and Control
+IMemWrite
+ReadL-_ / \
+-~, Address
+data I
+_16 32
+"--I L-'~
+Sign
+Data extend I
+-- --I memory
+Write
+data
+MemRead
+a. Data memory unit b. Sign-extension unit
+FIGURE 5.8 The two units needed to Implement loads and stores, In addition to the reg·
+Ister file and ALU of Figure 5.7, are the data memory unit and the sign extension unit. The
+memory unit is a stale element with inputs for the address and the write data, and a single output for the
+read result. There are separate read and write controls, although only one of these may be asserted on any
+given dock. The memory unit needs a read signal, since, unlike the register file, reading the value of an
+invalid address can c.1use problems, as we will see in Chapter 7. The sign extension unit has a 16·bit input
+that is sign-extended into a 32-bit result appearing on the output (see Chapter 3). We assume the data
+memory is edge-triggered for writes. Standard memory chips actually have a write enable signal that is used
+for writes. Although the write enable is not edge-triggered, our edge-triggered design could easily be
+III
+adapted to work with real memory chips.See Section B.8 of Appendix Bfor a further discussion of how
+real memory chips work.
+Thus, the branch datapath must do two operations: compute the branch target
+address and compare the register contents. (Branches also affect the instruction
+fetch portion of the datapath, as we will deal with shortly.) Because of the complex 
+ity of handling branches, we show the structure of the datapath segment that han 
+dles branches in Figure 5.9. To compute the branch target address, the branch
+datapath includes a sign extension unit, just like that in Figure 5.8, and an adder. To
+perform the compare, we need to use the register file shown in Figure 5.7 to supply
+the two register operands (although we will not need to write into the register file).
+In addition, the comparison can be done using the ALU we designed in Appendix B.
+Since that ALU provides an output signal that indicates whether the result was 0, we
+can send the two register operands to the ALU with the control set to do a subtract.
+If the Zero signal out of the ALU unit is asserted, we know that the two values are
+equal. Although the Zero output always signals if the result is 0, we will be using it
+only to implement the equal test of branches. Later, we will show exactly how to
+connect the control signals of the ALU for use in the datapath.
+The jump instruction operates by replacing the lower 28 bits of the PC with the
+lower 26 bits of the instruction shifted left by 2 bits. This shift is accomplished
+simply by concatenating 00 to the jump offset, as described in Chapter 2.

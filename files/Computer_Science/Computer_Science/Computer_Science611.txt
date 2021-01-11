@@ -1,0 +1,42 @@
+8.5 Interfacing I/ O Devices to the Processor, Memory, and Operating System 595
+sors (as well as I/O controllers or channel controllers). These specialized processors
+basically execute a series of I/O operations, called an I/O program. The program may
+be stored in the I/O processor, or it may be stored in memory and fetched by the I/O
+processor. When using an I/O processor, the operating system typically sets up an
+I/O program that indicates the I/O operations to be done as well as the size and
+transfer address for any reads or writes. The I/O processor then takes the operations
+from the I/O program and interrupts the processor only when the entire program is
+completed. DMA processors are essentially special-purpose processors (usually single 
+chip and nonprogrammable), while I/O processors are often implemented with general 
+purpose microprocessors, which run a specialized I/O program.
+Direct Memory Access and the Memory System
+When OMA is incorporated into an I/O system, the relationship between the
+memory system and processor changes. Without OMA, all accesses to the memory
+system come from the processor and thus proceed through address translation
+and cache access as if the processor generated the references. With DMA, there is
+another path to the memory system-one that does not go through the address
+translation mechanism or the cache hierarchy. This difference generates some
+problems in both virtual memory systems and systems with caches. These prob 
+lems are usually solved with a combination of hardware techniques and software
+support.
+The difficulties in having DMA in a virtual memory system arise because pages
+have both a physical and a virtual address. DMA also creates problems for systems
+with caches because there can be two copies of a data item: one in the cache and
+one in memory. Because the DMA processor issues memory requests directly to
+the memory rather than through the processor cache, the value of a memory loca 
+tion seen by the OMA unit and the processor may differ. Consider a read from
+disk that the OMA unit places directly into memory. If some of the locations into
+which the DMA writes are in the cache, the processor will receive the old value
+when it does a read. Similarly, if the cache is write-back, the DMA may read a
+value directly from memory when a newer value is in the cache, and the value has
+not been written back. This is called the stale data problem or coherence problem.
+In a system with virtual memory, should DMA work with virtual addresses or Hardware
+physical addresses? The obvious problem with virtual addresses is that the DMA
+Software
+unit will need to translate the virtual addresses to physical addresses. The major
+Interface
+problem with the use of a physical address in a DMA transfer is that the transfer
+cannot easily cross a page boundary. If an I/O request crossed a page boundary,
+then the memory locations to which it was being transferred would not necessar 
+ily be contiguous in the virtual memory. Consequently, if we use physical
+addresses, we must constrain all DMA transfers to stay within one page.

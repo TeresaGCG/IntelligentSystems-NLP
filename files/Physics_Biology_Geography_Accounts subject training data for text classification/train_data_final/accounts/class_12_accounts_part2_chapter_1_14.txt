@@ -1,0 +1,45 @@
+Accounting for Share Capital 1 5
+
+1.6.1 Calls in Arrears
+
+It may happen that shareholders do not pay the call amount on due date. When
+any shareholder fails to pay the amount due on allotment or on any of the calls,
+such amount is known as ‘Calls in Arrears' / ‘Unpaid Calls'. Calls in Arrears
+represent the debit balance of all the calls account. Such amount shall appear
+as ‘Note to Accounts (Refer Chapter 3). However, where a company maintains
+‘Calls in Arrears' Account, it needs to pass the following additional journal entry:
+Calls in Arrears A/c Dr.
+To Share First Call Account A/c
+To Share Second and Final Call Account A/c
+
+(Calls in arrears brought into account)
+
+The Articles of Association of a company may empower the directors to charge
+interest at a stipulated rate on calls in arrears. If the articles are silent in this
+regard, the rule contained in Table F shall be applicable which states that the
+interest at a rate not exceeding 10% pa. shall have to be paid on all unpaid
+amounts on shares for the period intervening between the day ﬁxed for payment
+and the time of actual payment thereof.
+
+On receipt of the call amount together with interest, the amount of interest
+shall be credited to interest account while call money shall be credited to the
+respective call account or to calls in arrears account. When the shareholder
+makes the payment of calls in arrears together with interest, the entry will be as
+follows:
+
+Bank A/c Dr.
+To Calls in Arrears A/c
+To Interest A/ 0
+
+(Calls in arrears received with interest]
+Note: If nothing is speciﬁed, there is no need to take the interest on calls in arrears
+
+account and record the above entry
+
+Illustration 3
+
+Cronic Limited issued 10,000 equity shares of Rs. 10 each payable at Rs. 2.50
+on application, Rs. 3 on allotment, Rs. 2 on ﬁrst call, and the balance of Rs. 2.50
+on second and ﬁnal call. All the shares were fully subscribed and paid except of
+a shareholder having 100 shares who could not pay for second and final call.
+Give journal entries to record these transactions.

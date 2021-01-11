@@ -1,0 +1,103 @@
+MOTION IN A PLANE
+
+69
+
+ 
+
+A
+(a) (b)
+
+ 
+
+(C)
+
+Fig. 4.6 [a] Two vectors A and B with their tails brought to a common origin. [b] The sumA + B obtained using
+the parallelogram method. [c] The parallelogram method of vector addition is equivalent to the triangle
+
+method.
+
+ 
+
+F Example 4.1 Rain is falling vertically with
+a speed of 35 m 5‘1. Winds starts blowing
+after sometime with a speed of 12 m S'1 in
+east to west direction. In which direction
+should a boy waiting at a bus stop hold
+his umbrella ‘?
+
+ 
+
+Vw
+N
+0
+W E
+VI‘
+R
+S
+
+Fig. 4. 7
+
+Answer The velocity of the rain and the wind
+are represented by the vectors vr and vw in Fig.
+4.7 and are in the direction specified by the
+problem. Using the rule of vector addition, we
+see that the resultant of vr and vW is R as shown
+in the figure. The magnitude of R is
+
+R: vr2+vi =\/352+122 ms_1=37ms_1
+
+The direction 0 that R makes with the vertical
+is given by
+
+v 12
+
+tang: 2—20.343
+35
+
+Z—
+Or, a = tan'1(0.343) = 19°
+Therefore, the boy should hold his umbrella
+
+in the vertical plane at an angle of about 19°
+with the vertical towards the east. 4
+
+4.5 RESOLUTION OF VECTORS
+
+Let a and b be any two non-zero vectors in a
+plane with different directions and let A be
+another vector in the same plane(Fig. 4.8). A can
+be expressed as a sum of two vectors — one
+obtained by multiplying a by a real number and
+the other obtained by multiplying b by another
+real number. To see this, let 0 and P be the tail
+and head of the vector A. Then, through 0, draw
+a straight line parallel to a, and through P, a
+straight line parallel to b. Let them intersect at
+Q. Then, we have
+
+A = or = 09 + QP (4.6)
+
+But since 09 is parallel to a, and QP is parallel
+to b, we can write :
+
+OQ =/la, and QP= ub (4.7)
+where /’L and u are real numbers.
+Therefore, A = )l a + ub (4.8)
+
+P
+R
+A “b
+$> 0
+la Q
+(a) (b)
+
+Fig. 4.8 (a) Two non—colinear vectors a and b.
+[b] Resolving a vectorA in terms of vectors
+
+a and b.
+
+We say that A has been resolved into two
+component vectors /’L a and u b along a and b
+respectively. Using this method one can resolve
+
+2019-20

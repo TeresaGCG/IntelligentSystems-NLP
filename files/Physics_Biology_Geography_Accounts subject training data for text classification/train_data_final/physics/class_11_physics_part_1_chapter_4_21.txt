@@ -1,0 +1,61 @@
+86 PHYSICS
+
+(c) Ia—bl < |a|+|b|
+
+[d] Ia—bl > IIaI—Ibll
+
+When does the equality sign above apply?
+
+4.7 Given a + b + c + d = 0, which of the following statements
+are correct : Q
+
+[a] a, b, c, and d must each be a null vector,
+
+[b] The magnitude of [a + 0] equals the magnitude of
+
+(b + d),
+
+(c) The magnitude of a can never be greater than the
+sum of the magnitudes of b, c, and d,
+
+[d] b + c must lie in the plane of a and d if a and d are
+not collinear, and in the line of a and d, if they are
+collinear ?
+
+4.8 Three girls skating on a circular ice ground of radius
+200 m start from a point P on the edge of the ground
+and reach a point Q diametrically opposite to Pfollowing
+
+different paths as shown in Fig. 4.20. What is the P
+magnitude of the displacement vector for each ? For Fig. 420
+which girl is this equal to the actual length of
+
+path skate ?
+
+4.9 A cyclist starts from the centre 0 of a circular park of radius 1 km, reaches the edge P
+of the park, then cycles along the circumference, and returns to the centre along QO
+as shown in Fig. 4.2 1. If the round trip takes 10 min, what is the [a] net displacement,
+(b) average velocity, and (c) average speed of the cyclist ?
+
+Q
+
+Fig. 4.21
+
+4. 10 On an open ground, a motorist follows a track that turns to his left by an angle of 600
+after every 500 m. Starting from a given turn, specify the displacement of the motorist
+at the third, sixth and eighth turn. Compare the magnitude of the displacement with
+the total path length covered by the motorist in each case.
+
+4. 1 1 A passenger arriving in a new town wishes to go from the station to a hotel located
+10 km away on a straight road from the station. A dishonest cabman takes him along
+a circuitous path 23 km long and reaches the hotel in 28 min. What is [a] the average
+speed of the taxi, (b) the magnitude of average velocity ? Are the two equal ?
+
+4. 12 Rain is falling vertically with a speed of 30 m s‘l. A woman rides a bicycle with a speed
+of 10 m s‘1 in the north to south direction. What is the direction in which she should
+hold her umbrella ?
+
+4.13 A man can swim with a speed of 4.0 km/h in still water. How long does he take to
+cross a river 1.0 km wide if the river ﬂows steadily at 3.0 km/ h and he makes his
+
+2019-20

@@ -1,0 +1,46 @@
+3.6 Floating Point 191
+Just as we can show decimal numbers in scientific notation, we can also show
+binary numbers in scientific notation:
+1
+I.Otwoxr
+To keep a binary number in normalized form, we need a base that we can increase
+or decrease by exactly the number of bits the number must be shifted to have one
+nonzero digit to the left of the decimal point. Only a base of 2 fulfills our need.
+Since the base is not 10, we also need a new name for decimal point; binary point
+will do fine.
+Computer arithmetic that supports such numbers is called floating point floating point Computer
+because it represents numbers in which the binary point is not fixed, as it is for arithmetic that represents num 
+bers in which the binary point is
+integers. The programming language C uses the namefloat for such numbers. Just
+not fIxed.
+as in scientific notation, numbers are represented as a single nonzero digit to the
+left of the binary point. In binary, the form is
+YYYY
+l .xxxxxxxxx\WOX 2
+(Although the computer represents the exponent in base 2 as well as the rest of the
+number, to simplify the notation we show the exponent in decimal.)
+A standard scientific notation for reaIs in normalized form offers three advan 
+tages. It simplifies exchange of data that includes floating-point numbers; it sim 
+plifies the floating-point arithmetic algorithms to know that numbers will always
+be in this form; and it increases the accuracy of the numbers that can be stored in
+a word, since the unnecessary leading Os are replaced by real digits to the right of
+the binary point.
+Roating-Point Representation
+A designer of a floating-point representation must find a compromise between
+the size of the fraction and the size of the exponent because a fixed word size fraction The value, generally
+means you must take a bit from one to add a bit to the other. This trade-off is between 0 and 1, placed in the
+fraction fIeld.
+between precision and range: Increasing the size of the fraction enhances the pre 
+cision of the fraction, while increasing the size of the exponent increases the range
+exponent In the numerical
+of numbers that can be represented. As our design guideline from Chapter 2 representation system of float 
+ing-point arithmetic, the value
+reminds us, good design demands good compromise.
+that is placed in the exponent
+Floating-point numbers are usually a multiple of the size of a word. The repre 
+field.
+sentation of a MIPS floating-point number is shown below, where s is the sign of
+the floating-point number ( I meaning negative), exponent is the value of the 8-bit
+exponent field (including the sign of the exponent), and fraction is the 23-bit
+number. This representation is called sign and magnitude, since the sign has a sep 
+arate bit from the rest of the number.

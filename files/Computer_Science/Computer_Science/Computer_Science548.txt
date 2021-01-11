@@ -1,0 +1,44 @@
+532 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Register CPO register number Description
+EPC 14 INhere to restart after exception
+Cause 13 Cause of exception
+BadVAddr 8 Address that caused exception
+Index 0 Location in TLB to be read or written
+Random 1 Pseudorandom location in TLB
+EntryLo 2 P~sical page address and flags
+EntryHi 10 Virtual page address
+Context 4 Page table address and page number
+FIGURE 7.27 MIPS control registers. These are considered to be in coprocessor 0, and hence are
+read using mf cO and written using mtcO.
+Hardware Between the time we begin executing the exception handler in the operating sys 
+tem and the time that the operating system has saved a11 the state of the process,
+Software
+the operating system is particularly vulnerable. For example, if another excep 
+Interface
+tion occurred when we were processing the first exception in the operating sys 
+tem, the control unit would overwrite the exception program counter, making it
+impossible to return to the instruction that caused the page fault! We can avoid
+exception enable Also called this disaster by providing the ability to disable and enable exceptions. When an
+interrupt enable. A signal or exception first occurs, the processor sets a bit that disables all other exceptions;
+action that controls whether the
+this could happen at the same time the processor sets the supervisor mode bit.
+process responds to an excep 
+The operating system will then save just enough state to allow it to recover if
+tion or not; necessary for pre 
+another exception occurs-namely, the exception program counter and Cause
+venting the occurrence of
+register. EPC and Cause are two of the special control registers that help with
+exceptions during intervals
+exceptions, TLB misses, and page faults; Figure 7.27 shows the rest. The operating
+before the processor has safely
+saved the state needed to restart. system can then reenable exceptions. These steps make sure that exceptions will
+not cause the processor to lose any state and thereby be unable to restart execution
+of the interrupting instruction.
+Once the operating system knows the virtual address that caused the page fault,
+it must complete three steps:
+I. Look up the page table entry using the virtual address and find the location
+of the referenced page on disk.
+2. Choose a physical page to replace; if the chosen page is dirty, it must be writ 
+ten out to disk before we can bring a new virnlal page into this physical page.
+3. Start a read to bring the referenced page from disk into the chosen physical
+page.

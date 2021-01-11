@@ -1,0 +1,41 @@
+8.5 Interfacing I/ O Devices to the Processor, Memory, and Operating System 593
+• Appendix A shows an exception handler for a simple I/O task on pages A-36 to
+A-37.
+How do the interrtlpt priority levels (IPL) correspond to these mechanisms? The
+IPL is an operating system invention. It is stored in the memory of the process,
+and every process is given an IPL. At the lowest IPL, all interrupts are permitted.
+Conversely, at the highest IPL, all interrupts are blocked. Raising and lowering the
+IPL involves changes to the interrupt mask field of the Status register.
+Elaboration: The two least significant bits of the pending interrupt and interrupt
+mask fields are for software interrupts, which are lower priority. These are typically
+used by higher-priority interrupts to leave work for lower-priority interrupts to do once
+the immediate reason for the interrupt is handled. Once the higher-priority interrupt is
+finished, the lower-priority tasks will be noticed and handled.
+Transferring the Data between a Device and Memory
+We have seen two different methods that enable a device to communicate with the
+processor. These two techniques-polling and I/O interrupts- form the basis for
+two methods of implementing the transfer of data between the I/O device and
+memory. Both these techniques work best with lower-bandwidth devices, where
+we are more interested in reducing the cost of the device controller and interface
+than in providing a high-bandwidth transfer. Both polling and interrupt-driven
+transfers put the burden of moving data and managing the transfer on the proces 
+sor. After looking at these two schemes, we will examine a scheme more suitable
+for higher-perfo rmance devices or collections of devices.
+We can use the processor to transfer data between a device and memory based
+on polling. In real-time applications, the processor loads data from I/O device
+registers and stores them into memory.
+An alternative mechanism is to make the transfer of data interrupt driven. In
+this case, the OS would still transfer data in small numbers of bytes from or to the
+device. But because the I/O operation is interrupt driven, the OS simply works on
+other tasks while data is being read from or written to the device. When the OS
+recognizes an interrupt from the device, it reads the staniS to check for errors. If
+there are none, the OS can supply the next piece of data, for example, by a
+sequence of memory-mapped writes. When the last byte of an I/O request has
+been transmitted and the I/O operation is completed, the OS ca n inform the pro 
+gram. The processor and OS do all the work in this process, accessing the device
+and memory for each data item transferred.
+Interrupt-driven I/O relieves the processor from having to wa it for every I/O
+event, although if we used this method for transferring data from or to a hard
+disk, the overhead could still be intolerable, since it could consume a large frac 
+tion of the processor when the disk was transferring. For high-bandwidth devices
+like hard disks, the transfers consist primarily of relatively large blocks of data

@@ -1,0 +1,59 @@
+286 BIOLOGY
+
+Figure 18.3), a patient is connected to the
+machine with three electrical leads (one to each
+wrist and to the left ankle) that continuously
+monitor the heart activity. For a detailed
+evaluation of the heart’s function, multiple
+leads are attached to the chest region. Here,
+we will talk only about a standard ECG.
+
+Each peak in the ECG is identiﬁed with a
+Figure 18. 3 Diagrammaﬂc presentation of a letter from P to T that corresponds to a speciﬁc
+
+standard ECG electrical activity of the heart.
+
+The P-wave represents the electrical
+
+excitation (or depolarisation) of the atria,
+
+which leads to the contraction of both the atria.
+The QRS complex represents the depolarisation of the ventricles,
+
+which initiates the ventricular contraction. The contraction starts shortly
+after Q and marks the beginning of the systole.
+
+The T-wave represents the return of the ventricles from excited to normal
+state (repolarisation). The end of the T-wave marks the end of systole.
+
+Obviously, by counting the number of QRS complexes that occur in a
+given time period, one can determine the heart beat rate of an individual.
+Since the ECGs obtained from different individuals have roughly the same
+shape for a given lead conﬁguration, any deviation from this shape indicates
+a possible abnormality or disease. Hence, it is of a great clinical signiﬁcance.
+
+ 
+
+18.4 DOUBLE CIRCULATION
+
+The blood ﬂows strictly by a ﬁxed route through Blood Vessels—the
+arteries and veins. Basically, each artery and vein consists of three layers:
+an inner lining of squamous endothelium, the tunica intima, a middle
+layer of smooth muscle and elastic fibres, the tunica media, and an
+external layer of ﬁbrous connective tissue with collagen ﬁbres, the tunica
+externa. The tunica media is comparatively thin in the veins (Figure
+1 8.4) .
+
+As mentioned earlier, the blood pumped by the right ventricle enters
+the pulmonary artery, whereas the left ventricle pumps blood into the
+aorta. The deoxygenated blood pumped into the pulmonary artery is
+passed on to the lungs from where the oxygenated blood is carried by
+the pulmonary veins into the left atrium. This pathway constitutes the
+pulmonary circulation. The oxygenated blood entering the aorta is
+carried by a network of arteries, arterioles and capillaries to the tissues
+from where the deoxygenated blood is collected by a system of venules,
+veins and vena cava and emptied into the right atrium. This is the
+systemic circulation (Figure 18.4). The systemic circulation provides
+nutrients, O2 and other essential substances to the tissues and takes
+CO2 and other harmful substances away for elimination. A unique
+vascular connection exists between the digestive tract and liver called

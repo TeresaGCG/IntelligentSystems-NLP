@@ -1,0 +1,44 @@
+CHO Glossary
+miss penalty The time required to fetch a nonblockingcache A cache that allows the
+block into a level of the memory hierarchy processor to make references to the cache
+from the lower level, including the time to while the cache is handling an earlier miss.
+access the block, transmit it from one level nonuniform memory access (NUMA) A
+to the other,and insert it in the level that ex  type of single-address space multiprocessor
+perienced the miss. in which some memory accesses are faster
+miss rate The fraction of memory accesses than others depending which processor asks
+not found in a levelofthe memoryhierarchy. for which word.
+most significant bit The leftmost bit in a nonvolatile memory A form of memory
+MIPS word. that retains data even in the absence of a
+motherboard A plastic board containing power source and that is used to store pro 
+packages ofintegrated circuits or chips, in  grams between runs. Magnetic disk is non 
+cluding processor, cache, memory, and volatile and DRAM is not.
+connectors for I/O devices such as networks nonvolatile Storage device where data re 
+and disks. tains its value even when power is removed.
+multicomputer Parallel processors with nop An instruction that does no operation
+multiple private addresses. to change state.
+multicyde implementation Also called NOR A logical bit-by-bit operation with
+multiple clock cycle implementation. An two operands that calculates the NOT of the
+implementation in which an instruction is OR of the two operands.
+executed in multiple clock cycles. NOR gate An inverted OR gate.
+multilevel cache A memoryhierarchywith normalized A number in floating-point
+multiple levels of caches, rather than just a notation that has no leading Os.
+cache and main memory. NOT A logical bit-by-bit operation with
+multiple issue A scheme whereby multiple one operand that inverts the bits; that is,
+instructions are launched in I clock cycle. it replaces every 1 with a 0, and every 0
+multiprocessor Parallel processors with a with a I.
+single shared address. object-oriented language A programming
+multistage network A network that sup  language that is oriented around objects
+plies a small switch at each node. rather than actions, or data versus logic.
+NAND gate An inverted AND gate. opcode The field that denotes the opera 
+network bandwidth Informally, the peak tion and format of an instruction.
+transfer rate of a network; can refer to the operating system Supervising program
+speed ofa single link or the collective trans  that manages the resources of a computer
+fer rate of all links in the network. for the benefit of the programs that run on
+next-state function A combinationalli.lllc  that machine.
+tion that, given the inputs and the current out-of-order execution A situation in
+state, determines the next state of a finite pipelined execution when an instruction
+state machine. blocked from executing does not cause the
+nonblocking assignment An assignment following instructions to wait.
+that continues after evaluating the right-hand output device A mechanism that conveys
+side, assigning the left-hand side the value the result of a computation to a user or an 
+only after all right-hand sides are evaluated. other computer.

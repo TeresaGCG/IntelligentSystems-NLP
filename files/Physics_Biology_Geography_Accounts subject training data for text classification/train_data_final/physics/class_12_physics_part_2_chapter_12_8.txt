@@ -1,0 +1,72 @@
+422
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+For n = 4, one obtains the wavelength of HB line, etc. For n = oo, one obtains
+the limit of the series, at A = 364.6 nm. This is the shortest wavelength in
+the Balmer series. Beyond this limit, no further distinct lines appear,
+instead only a faint continuous spectrum is seen.
+
+Other series of spectra for hydrogen were subsequently discovered.
+These are known, after their discoverers, as Lyman, Paschen, Brackett,
+and Pfund series. These are represented by the formulae:
+
+Lyman series:
+
+1 1 1
+
+12R 1—2_n—2 n=2,3,4... (12.6)
+Paschen series:
+
+1 1 1
+
+12R y—g n=4,5,6... (12.7)
+Brackett series:
+
+1 1 1
+
+12R 4—2—n—2 n=5,6,7... (12.8)
+
+Pfund series:
+
+1 1 1
+12R 57—? n=6,7,8... (12.9)
+
+The Lyman series is in the ultraviolet, and the Paschen and Brackett
+series are in the infrared region.
+
+The Balmer formula Eq. (12.5) may be written in terms of frequency
+of the light, recalling that
+
+C: v)»
+L:
+or [1 c
+Thus, Eq. (12.5) becomes
+1 1
+”126(5er (12.10)
+
+There are only a few elements (hydrogen, singly ionised helium, and
+doubly ionised lithium) whose spectra can be represented by simple
+formula like Eqs. (12.5) — (12.9).
+
+Equations (12.5) — (12.9) are useful as they give the wavelengths that
+hydrogen atoms radiate or absorb. However, these results are empirical
+and do not give any reasoning why only certain frequencies are observed
+in the hydrogen spectrum.
+
+12.4 BOHR MODEL OF THE HYDROGEN ATOM
+
+The model of the atom proposed by Rutherford assumes that the atom,
+consisting of a central nucleus and revolving electron is stable much like
+sun-planet system which the model imitates. However, there are some
+fundamental differences between the two situations. While the planetary
+system is held by gravitational force, the nucleus-electron system being
+charged objects, interact by Coulomb’s Law of force. We know that an
+
+2019-20

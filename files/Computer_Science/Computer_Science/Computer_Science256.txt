@@ -1,0 +1,38 @@
+240 Chapter 4 Assessing and Understanding Performance
+Introduction
+This chapter discusses how to measure, report, and summarize performance and
+describes the major factors that determine the performance of a computer. A pri 
+mary reason for examining performance is that hardware performance is often
+key to the effectiveness of an entire system of hardware and software. Much of the
+material in this chapter, especially this section and the next, will be critical to
+understanding the next three chapters. The rest of the chapter provides important
+insights and principles that anyone seeking to evaluate the performance of a com 
+puter system should know. The material in Sections 4.3-4.5, however, is not nec 
+essary for the immediately following chapters and can be returned to later.
+Assessing the performance of such a system can be quite challenging. The scale
+and intricacy of modern software systems, together with the wide range of perfor 
+mance improvement techniques employed by hardware designers, have made per 
+formance assessment much more difficult. It is simply impossible to sit down with
+an instruction set manual and a significant software system and determine, simply
+by analysis, how fast the software will run on the computer. In fact, for different
+types of applications, different performance metrics may be appropriate, and dif 
+ferent aspects of a computer system may be the most significant in determining
+overall performance.
+Of course, in trying to choose among different computers, performance is
+almost always an important attribute. Accurately measuring and comparing dif 
+ferent computers is critical to purchasers, and therefore to designers. The people
+selling computers know this as well. Often, salespeople would like you to see their
+computer in the best possible light, whether or not this light accurately reflects the
+needs of the purchaser's application. In some cases, claims are made about com 
+puters that don't provide useful insight for any real applications. Hence, under 
+standing how best to measure performance and the limitations of performance
+measurements is important in selecting a computer.
+Our interest in performance, however, goes beyond issues of assessing
+performance only from the outside of a computer. To understand why a piece of
+software performs as it does, why one instruction set can be implemented to per 
+form better than another, or how some hardware feature affects performance, we
+need to understand what determines the performance of a computer. For exa m 
+ple, to improve the performance of a software system, we may need to understand
+what factors in the hardware contribute to the overall system performance and the
+relative importance of these factors. These factors may include how well the pro 
+gram uses the instructions of the computer, how well the underlying hardware

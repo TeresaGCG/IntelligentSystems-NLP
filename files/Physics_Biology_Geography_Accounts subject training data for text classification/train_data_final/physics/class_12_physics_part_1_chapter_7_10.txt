@@ -1,0 +1,58 @@
+—
+X X X X X X X X X
+X QX X X
+(Metallic ring
+X X X
+X X X
+P
+X X
+X X X
+X X X
+X X X
+X X X X X X X X X
+FIGURE 6.11
+Solution
+Method I
+As the rod is rotated, free electrons in the rod move towards the outer
+end due to Lorentz force and get distributed over the ring. Thus, the
+resulting separation of charges produces an emf across the ends of
+the rod. At a certain value of emf, there is no more ﬂow of electrons
+and a steady state is reached. Using Eq. (6.5), the magnitude of the
+emf generated across a length dr of the rod as it moves at right angles
+to the magnetic field is given by
+d8 = Bvdr. Hence,
+R R 2
+£=Jde=JBvdr =IBwrdr= BwR
+0 0
+Note that we have used v = a) r. This gives
+8 =§xl.0x2nx50x(l2)
+= 157 V
+Method H
+To calculate the emf, we can imagine a closed loop OPQ in which
+point 0 and P are connected with a resistor R and 09 is the rotating
+rod. The potential difference across the resistor is then equal to the
+induced emf and equals B X (rate of change of area of loop). If 0 is the
+angle between the rod and the radius of the circle at P at time t, the
+area of the sector OPQ is given by
+1: R2 x i = 1 R29
+21: 2
+where R is the radius of the circle. Hence, the induced emf is
+2
+8=Bxi[lR20] _ 1 R2%_ BwR
+(9 dt 2 dt 2
+(0
+d9
+H ~ — = a) = 2 7: v
+.4 [Note C] t I
+g This expression is identical to the expression obtained by Method I
+214 [:1 and we get the same value of e.
+
+ 
+
+   
+
+ 
+
+ 
+
+2019-20

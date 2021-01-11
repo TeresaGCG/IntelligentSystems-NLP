@@ -1,0 +1,51 @@
+Accounting for Share Capital 2 3
+
+over subscription within the total frame of application and allotment, i.e. receipt
+of application amount, amount due on allotment and its receipt from the
+shareholders, and the same has been observed in the pattern of entries.
+
+First Alternative :When the directors decide to fully accept some applications
+and totally reject the others, the application money received on rejected
+applications is fully refunded. For example, a company invited applications for
+20,000 shares and received the applications for 25,000 shares. The directors
+rejected the applications for 5,000 shares which are in excess of the required
+number and refunded their application money in full. In this case, the journal
+entries on application and allotment will be as follows :
+
+The journal entries on application and allotment according to this alternative
+are as follows:
+
+1 Bank A/ c Dr.
+To Share Application A/c
+(Money received on application for 25,000
+shares @ Rs. _ per share)
+
+2 Share Application A/c Dr.
+To Share Capital A/c
+To Bank A/c
+[Transfer of application for money 20,000 for
+shares allotted and money refunded on
+applications for 5,000 shares rejected)
+
+3 Share Allotment A/c Dr.
+To Share Capital A/c
+(Amount due on the allotment of 20,000
+shares @ Rs. _ per share)
+
+4 Bank A/c Dr.
+To Share Allotment A/c
+(Allotment money received)
+
+Second Alternative :When the directors opt to make a proportionate allotment
+to all applicants (called ‘pro-rata' allotment), the excess application money
+received is normally adjusted towards the amount due on allotment. In case,
+the excess application money received is more than the amount due on allotment
+of shares, such excess amount may either be refunded or credited to calls in
+advance.
+
+For example, in the event of applications for 20,000 shares being invited
+and those received are for 25,000 shares, it is decieded to allot shares in the
+ratio of 4:5 to all applicants. It is a case of pro—rata allotment and the excess
+application money received on 5,000 shares would be adjusted towards the
+amount due on the allotment of 20,000 shares. In this case, the journal entries
+on application and allotment will be as follows.

@@ -1,0 +1,39 @@
+10 Chapter 1 Computer Abstractions and Technology
+will be impressed as you correctly use words such as BIOS, DIMM, CPU, cache,
+DRAM, ATA, PCI, and many others.
+To reinforce how the software and hardware systems used to run a program will
+affect performance, we use special section, "Understanding Program Perfor 
+:I
+mance," throughout the book, with the first one appearing below. These elements
+summarize important insights into program performance.
+Understanding The performance of a program depends on a combination of the effectiveness of
+the algorithms used in the program, the software systems used to create and trans 
+Program
+late the program into machine instructions, and the effectiveness of the computer
+Performance
+in executing those instructions, which may include I/O operations. The following
+table summarizes how the hardware and software affect performance.
+Hardware or software How this component affects Where Is this
+component performance topic covered?
+Algorithm Detennines both the number of source-level Other books!
+statements and the number of I/O operations
+executed
+Programming language. Detennines the numberof machine instructions Chapters 2 and 3
+compiler. and architecture for each source~evel statement
+Processor and memory Detennines how fast instructions can be Chapters 5. 6.
+system executed and 7
+I/O system (hardware and Detennines how fast I/O operations may be Chapter 8
+operating system) executed
+Check
+"Check Yourself" sections are designed to help readers assess whether they have
+Yourself comprehended the major concepts introduced in a chapter and understand the
+implications of those concepts. Some "Check Yourself" questions have simple
+answers; others are for discussion among a group. Answers to the specific ques 
+tions can be found at the end of the chapter. "Check Yourself" questions appear
+only at the end of a section, making it easy to skip them if you are sure you under 
+stand the material.
+I. Section 1.1 showed that the number of embedded processors sold every
+year greatly outnumbers the number of desktop processors. Can you con 
+firm or deny this insight based on your own experience? Try to count the
+number of embedded processors in your home. How does it compare with
+the number of desktop computers in your home?

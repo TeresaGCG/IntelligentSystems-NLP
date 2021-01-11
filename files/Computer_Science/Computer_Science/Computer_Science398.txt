@@ -1,0 +1,48 @@
+382 Chapter 6 Enhancing Performance with Plpellnlng
+branch prediction A method A more sophisticated version of branch prediction would have some branches
+ofresolving a branch hazard predicted as taken and some as untaken. In our analogy, the dark or home uni 
+that assumes a given outcome
+forms might take one formula while the light or road uniforms might take
+for the branch and proceeds
+another. As a computer example, at the bottom of loops are branches that jump
+from that assumption rather
+back to the top of the loop. Since they are likely to be taken and they branch back 
+than waiting to ascertain the
+wards, we could always predict taken for branches that jump to an earlier address.
+actual outcome.
+Such rigid approaches to branch prediction rely on stereotypical behavior and
+don't account for the individuality of a specific branch instruction. Dynamic hard 
+ware predictors, in stark contrast, make their guesses depending on the behavior
+of each branch and may change predictions for a branch over the life of a pro 
+gram. Following our analogy, in dynamic prediction a person would look at how
+dirty the uniform was and guess at the formula , adjusting the next guess depend 
+ing on the success of recent guesses. One popular approach to dynamic prediction
+of branches is keeping a history for each branch as taken or untaken, and then
+using the recent past behavior to predict the future. As we will see later, the
+amount and type of history kept have become extensive with the result being that
+dynamic branch predictors can correctly predict branches with over 90% accuracy
+(see Section 6.6). \-¥hen the guess is wrong, the pipeline control must ensure that
+the instructions following the wrongly guessed branch have no effect and must
+restart the pipeline from the proper branch address. In our laundry analogy, we
+must stop taking new loads so that we can restart the load that we incorrectly pre 
+dicted.
+As in the case of all other solutions to control hazards, longer pipelines exacer 
+bate the problem, in this case by raising the cost of misprediction. Solutions to
+control hazards are described in more detail in Section 6.6.
+Elaboration: There is a third approach to the control hazard, called delayed decision.
+In our analogy, whenever you are going to make such a decision about laundry, just
+place a load of nonfootball clothes in the washer while waiting for football uniforms to
+dry. As long as you have enough dirty clothes that are not affected by the test, this solu 
+tion works fine.
+Called the delayed branch in computers, this is the solution actually used by the
+MIPS architecture. The delayed branch always executes the next sequential instruction,
+with the branch taking place after that one instruction delay. It is hidden from the MIPS
+assembly language programmer because the assembler can automatically arrange the
+instructions to get the branch behavior desired by the programmer. MIPS software will
+place an instruction immediately after the delayed branch instruction that is not
+affected by the branch, and a taken branch changes the address of the instruction that
+follows this safe instruction. In our example, the add instruction before the branch in
+Figure 6.7 does not affect the branch and can be moved after the branch to fully hide
+the branch delay. Since delayed branches are useful when the branches are short, no
+processor uses a delayed branch of more than 1 cycle. For longer branch delays, hard 
+ware-based branch prediction is usually used.

@@ -1,0 +1,47 @@
+3.6 Floating Point 211
+Note that X[i ] [j] is used in the innermost loop above. Since the loop in 
+ANSWER
+dex is k, the index does not affect X[i ] [j ], so we can avoid loading and
+storing X[i ] [j ] each iteration. Instead, the compiler loads X[i ] [j ] into
+a register outside the loop, accumulates the sum of the products of y [ i ] [k]
+and z[k] [j] in that same register, and then stores the sum into x[ i] [j]
+upon termination of the innermost loop.
+We keep the code simpler by using the assembly language pseudoinstruc 
+tions 1i (which loads a constant into a register), and 1 . d and 5 . d (which the
+assembler turns into a pair of data transfer instructions, 1we 1 or swe 1, to a
+pa ir of floating-point registers).
+The body of the procedure starts with saving the loop termination value of
+32 in a temporary register and then initializing the three for loop variables:
+mm : ...
+I i It! . 32 II Itl ~ 32 (row sizelloop end)
+I i $sO , 0 II ~ 0 ; initialize 1st for loop
+1
+Ll ; I i $s 1, 0 II J ~ 0 ; restart 2nd for loop
+L2 ; I i $sZ , 0 II k ~ 0 ; restart 3rd for loop
+To calculate the address of x [i ] [j ], we need to know how a 32 X32, two 
+dimensional array is stored in memory. As you might expect, its layout is the
+sa me as if there were 32 single-dimension arrays, each with 32 elements. So the
+first step is to skip over the i "single-dimensional arrays," or rows, to get the
+one we want. Thus we multiply the index in the first dimension by the size of
+the row, 32. Since 32 is a power of 2, we can use a shift instead:
+511 HZ , $50, 5 It HZ i * Z5 (si ze of row of x)
+=
+Now we add the second index to select the j th element of the desired row:
+addu HZ , HZ, $sl It HZ i * size(row) + j
+=
+To turn this sum into a byte index, we multiply it by the size of a matrix
+element in bytes. Since each element is 8 bytes for double precision, we can in 
+stead shift left by 3:
+It
+511 HZ , HZ, 3 HZ byte offset of [i][j]
+=
+Next we add this sum to the base address of x , giving the address of
+x [i ] [j], and then load the double precision number x[ i ] [j] into $f4:
+It
+addu HZ , $aO, HZ HZ byte address of x[i][j]
+=
+It
+l . d $f4 , O($tZ) $f4 8 bytes of x[i][j]
+=
+The following five instructions are virnlally identical to the last five: calcu 
+late the address and then load the double precision number z [k] [j ].

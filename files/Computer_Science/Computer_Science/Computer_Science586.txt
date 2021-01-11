@@ -1,0 +1,46 @@
+570 Chapter 8
+advertised number because of locality of disk references. This locality arises both
+because of successive accesses to the same file and because the operating system
+tries to schedule such accesses together.
+Once the head has reached the correct track, we must wa it for the desired sec 
+rotation latency Also called tor to rotate under the read/write head. This time is called the rotational latency
+delay. The time required for the or rotational delay. The average latency to the desired information is halfway
+desired sector ofa disk to rotate
+around the disk. Because the disks rotate at 5400 RPM to 15,000 RPM , the average
+under the read/write head;
+lISU 
+rotational latency is between
+ally assumed to be halfthe
+rotation time.
+0.5 rotation 0.5 rotation
+Average rotational latency
+5400 RPM se~onds)
+5400 RPM /(60
+mlllute
+0.0056 seconds 5.6 ms
+and
+0.5 rotation
+0.5 rotation
+Average rotational latency
+15,000 RPM 15,000 RPM /(60 sesollds)
+mlllute
+0.0020 seconds = 2.0 ms
+The last component of a disk access, transfer time, is the time to transfer a block
+of bits. The transfer time is a function of the sector size, the rotation speed, and
+the recording density of a track. Transfer rates in 2004 are between 30 and 80
+MB/sec. The one complication is that most disk controllers have a built-in cache
+that stores sectors as they are passed over; transfer rates from the cache are typi 
+cally higher and may be up to 320 MB/sec in 2004. Today, most disk transfers are
+multiple sectors in length.
+A disk controller usually handles the detailed control of the disk and the transfer
+between the disk and the memory. The controller adds the final component of
+disk access time, controller time, which is the overhead the controller imposes in
+performing an I/O access. The average time to perform an I/O operation will con 
+sist of these four times plus any wait time incurred because other processes are
+using the disk.
+Disk Read Time
+What is the average time to read or write a 512-byte sector for a typical disk
+EXAMPLE
+rotating at 10,000 RPM? The advertised average seek time is 6 ms, the transfer
+rate is 50 MB/sec, and the controller overhead is 0.2 ms. Assume that the disk
+is idle so that there is no waiting time.

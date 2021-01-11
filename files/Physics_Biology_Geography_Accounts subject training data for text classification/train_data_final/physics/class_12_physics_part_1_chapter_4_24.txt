@@ -1,0 +1,65 @@
+l Physics
+
+ROGET’S SPIRAL FOR ATTRACTION BETWEEN PARALLEL CURRENTS
+
+Magnetic effects are generally smaller than electric effects. As a consequence, the force
+between currents is rather small, because of the smallness of the factor ,u. Hence it is
+difficult to demonstrate attraction or repulsion between currents. Thus, for 5 A current
+in each wire at a separation of 1cm, the force per metre would be 5 X 1041 N, which is
+about 50 mg weight. It would be like pulling a wire by a string going over a pulley to
+which a 50 mg weight is attached. The displacement of the wire would be quite
+unnoticeable.
+
+With the use of a soft spring, we can increase the effective length of the parallel current
+and by using mercury, we can make the displacement of even a few mm observable very
+dramatically. You will also need a constant-current
+supply giving a constant current of about 5 A.
+
+Take a soft spring whose natural period of
+oscillations is about 0.5 — 1s. Hang it vertically and
+some attach a pointed tip to its lower end, as shown in the
+
+1 ﬁgure here. Take some mercury in a dish and adjust the
+spring such that the tip is just above the mercury
+(J surface. Take the DC current source, connect one of its
+U—mmm’ terminals to the upper end of the spring, and dip the
+other terminal in mercury. If the tip of the spring touches
+
+mercury, the circuit is completed through mercury.
+
+Let the DC source be put off to begin with. Let the tip be adjusted so that it just
+touches the mercury surface. Switch on the constant current supply, and watch the
+fascinating outcome. The spring shrinks with a j erk, the tip comes out of mercury (just
+by a m or so), the circuit is broken, the current stops, the spring relaxes and tries to
+come back to its original position, the tip again touches mercury establishing a current
+in the circuit, and the cycle continues with tick, tick, tick, . .. In the beginning, you may
+require some small adjustments to get a good effect.
+
+Keep your face away from mercury vapour as it is poisonous. Do not inhale mercury
+
+vapour for long.
+
+Example 4.10 The horizontal component of the earth’s magnetic field
+at a certain place is 3.0 ><10‘5 T and the direction of the field is from
+the geographic south to the geographic north. A very long straight
+conductor is carrying a steady current of 1A. What is the force per
+unit length on it when it is placed on a horizontal table and the
+direction of the current is (a) east to west; (b) south to north?
+
+Solution F = I l X B
+F = [18 sine
+The force per unit length is
+f= F/l= IBsinQ
+(a) When the current is ﬂowing from east to west,
+0 = 90°
+Hence,
+f = I B
+= 1 x3x 10t5=3x 105an1
+
+Current
+
+EXAMPLE 4. 10
+
+156
+
+2019-20

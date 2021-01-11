@@ -1,0 +1,41 @@
+264 Chapter 4 Assessing and Understanding Performance
+design of processors for laptops. Battery capacity has improved only slightly over
+time, with the major improvements coming from new m aterials. Hence, the abil 
+ity of the processor to operate efficiently and conserve power is crucial. To save
+power, techniques ranging from putting parts of the computer to sleep, to reduc 
+ing clock rate and voltage, have all been used. In fact, power consumption is so
+impo rtant that Intel has designed a line of processors, the Pentium M series, spe 
+cifically fo r mobile, battery-powered applications.
+As we discussed in Chapter 1, for CMOS technology, we can reduce power by
+reducing frequency. Hence, recent processors intended fo r laptop use all have the
+ability to adapt frequency to reduce power consumption, simultaneously, of
+course, reducing perfo rmance. Thus, adequately evaluating the energy efficiency
+of a processor requires examining its performance at maximum power, at an
+intermediate level that conserves battery life, and at a level that maximizes battery
+life. In the Intel Mobile Pentium and Pentium M lines, there are two available
+clock rates: m aximum and a reduced clock rate. The best performance is obtained
+by running at maximum speed, the best battery life by running always at the
+reduced rate, and the intermediate, performance-power optimized level by
+switching dynamically between these two clock rates.
+Figure 4.8 shows the performance of three Intel Pentium processors designed
+fo r use in mobile applications running SPEC CINT2000 and SPEC CFP2000 as
+benchmarks. As we can see, the newest processor, the Pentium M, has the best
+performance when run a full clock speed, as well as with the adaptive clock rate
+mode. The Pentium M's 600 MHz clock makes it slower when run in minimum
+power mode than the Pentium 4-M, but still faster than the older Pentium lIl -M
+design.
+For power-limited applications, the m ost important m etric is probably
+energy efficiency, which is computed by taking perfo rmance and dividing by
+average power consumption when running the benchmark. Figure 4.9 shows the
+relative energy efficiency fo r these processors running the SPEC2000 bench 
+marks.This data clearly shows the energy efficiency advantage of the newer Pen 
+tium M design. In all three modes, it has a significant advantage in energy
+efficiency over the mobile versions of the Pentium III and Pentium 4. Notice
+that the Pentium 4-M has only a slight efficiency advantage over the Pentium
+llI -M. This data clearly shows the adva ntage of a processor like the Pentium M,
+which is designed for reduced power usage from the start, as opposed to a
+design like the Pentium llI -M or Pentium 4-M, which are modified versions of
+the standard processors. Of course, adequately measuring energy efficiency also
+requires the use of additional benchmarks designed to reflect how users employ
+battery-powered com puters. Both PC review magazines and Intel's technical
+journal regularly undertake such studies.

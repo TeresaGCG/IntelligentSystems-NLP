@@ -1,0 +1,47 @@
+184 Accountancy
+
+6.3 Preparation of Trial Balance
+
+Theoritically spreading, a trial balance can be prepared in the following three
+ways:
+(i) Totals Method
+(ii) Balances Method
+(iii) Totals-cum-balances Method
+
+6.3.1 Totals method
+
+Under this method, total of each side in the ledger (debit and credit) is ascertained
+separately and shown in the trial balance in the respective columns. The total of
+debit column of trial balance should agree with the total of credit column in the
+trial balance because the accounts are based on double entry system. However,
+this method is not widely used in practice, as it does not help in assuming accuracy
+of balances of various accounts and and preparation of the fianancial statements.
+
+6.3.2 Balances Method
+
+This is the most widely used method in practice. Under this method trial balance
+is prepared by showing the balances of all ledger accounts and then totalling up
+the debit and credit columns of the trial balance to assure their correctness. The
+account balances are used because the balance summarises the net effect of all
+transactions relating to an account and helps in preparing the financial
+statements. It may be noted that in trial balance, normally in place of balances
+in individual accounts of the debtors, a figure of sundry debtors is shown, and
+in place of individual accounts of creditors, a figure of sundry creditors is shown.
+
+6.3.3 Totals-cum—balances Method
+
+This method is a combination of totals method and balances method. Under
+this method four columns for amount are prepared. Two columns for writing
+the debit and credit totals of various accounts and two columns for writing
+the debit and credit balances of these accounts. However, this method is also
+not used in practice because it is time consuming and hardly serves any
+additional or special purpose.
+
+Let us now learn how will the trial balance be prepared using each of
+these methods with the help of the following example:
+
+Mr. Rawat’s ledger shows the following accounts for his business. Help him
+in preparing the trial balance using: (i) Totals method,
+(ii) Balances method, (iii) Totals-cum-Balances method.
+
+2019-2020

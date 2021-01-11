@@ -1,0 +1,123 @@
+The proof clearly goes through for any number of
+capacitors arranged in a similar way. Equation (2.55),
+for n capacitors arranged in series, generalises to
+
+V=V1+V2+...+Vn=Q+g+m+g (2.59)
+
+01 02 Cu
+Following the same steps as for the case of two
+
+capacitors, we get the general formula for effective
+
+capacitance of a series combination of n capacitors:
+
+l_i+i+i+ +i
+C C1 C2 C3 C (2'60)
+
+n
+
+2. 14.2 Capacitors in parallel
+
+Figure 2.28 (a) shows two capacitors arranged in
+parallel. In this case, the same potential difference is
+applied across both the capacitors. But the plate charges
+(:91) on capacitor 1 and the plate charges (iQZ) on the
+capacitor 2 are not necessarily the same:
+
+Q1 = ClV, Q2 = C2V (2.61)
+The equivalent capacitor is one with charge
+
+Q = 91 + 92 (2.62)
+and potential difference V.
+
+Q = CV= ClV+ C2V (2.63)
+The effective capacitance C is, from Eq. (2.63),
+
+C = C1 + C2 (2.64)
+
+The general formula for effective capacitance C for
+parallel combination of n capacitors [Fig. 2.28 (b)]
+follows similarly,
+
+Q=Q1+Q2+...+Qn (2.65)
+
+i.e., CV= ClV+ C2V+ CnV (2.66)
+
+which gives
+
+C=C1+C2+...C (2.67)
+
+H
+
+Electrostatic Potential
+and Capacitance
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Q1 _ Q! Q 1 _ Q 1
++ — + :
++ _ + _
++ - + _
++ - + —
++ — +
++ _ +
++ _ +
++ - +
+
+C, C,
+
+92 — Q: 92
++ - +
++ - +
++ — +
++ - +
++ - +
++ — +
++ _ +
++ - +
+
+C2 C2
+4— V —>
+(a) Qn —Q,,
++ _
++ _
++ _
++ _
++ _
++ _
++ _
++ _
+C
+
+(b)
+
+FIGURE 2.28 Parallel combination of
+(a) two capacitors, (b) n capacitors.
+
+Example 2.9 A network of four 10 HF capacitors is connected to a 500 V
+supply, as shown in Fig. 2.29. Determine (a) the equivalent capacitance
+of the network and (b) the charge on each capacitor. (Note, the charge
+on a capacitor is the charge on the plate with higher potential, equal
+and opposite to the charge on the plate with lower potential.)
+
++9 -Q
+
+ 
+
+ 
+
+FIGURE 2.29
+
+2019-20
+
+79

@@ -1,0 +1,50 @@
+BIOLOGY
+
+There is a convention in deﬁning the two strands of the DNA in the
+structural gene of a transcription unit. Since the two strands have opposite
+polarity and the DNA-dependent RNA polymerase also catalyse the
+polymerisation in only one direction, that is, 5'—>3', the strand that has
+the polarity 3'—>5' acts as a template, and is also referred to as template
+strand. The other strand which has the polarity (5'—>3') and the sequence
+same as RNA (except thymine at the place of uracil), is displaced during
+transcription. Strangely, this strand (which does not code for anything)
+is referred to as coding strand. All the reference point while deﬁning a
+transcription unit is made with coding strand. To explain the point, a
+hypothetical sequence from a transcription unit is represented below:
+
+3'-ATGCATGCATGCATGCATGCATGC-5' Template Strand
+5'-TACGTACGTACGTACGTACGTACG-3' Coding Strand
+Can you now write the sequence of RNA transcribed ﬁom the above DNA?
+
+Transcription start site
+
+Promoter Terminator
+
+Structural gene Template strand
+
+Coding strand
+
+ 
+
+Figure 6.9 Schematic structure of a transcription unit
+
+The promoter and terminator ﬂank the structural gene in a
+transcription unit. The promoter is said to be located towards 5'-end
+(upstream) of the structural gene (the reference is made with respect to
+the polarity of coding strand). It is a DNA sequence that provides binding
+site for RNA polymerase, and it is the presence of a promoter in a
+transcription unit that also deﬁnes the template and coding strands. By
+switching its position with terminator, the deﬁnition of coding and template
+strands could be reversed. The terminator is located towards 3'-end
+(downstream) of the coding strand and it usually deﬁnes the end of the
+process of transcription (Figure 6.9). There are additional regulatory
+sequences that may be present further upstream or downstream to the
+promoter. Some of the properties of these sequences shall be discussed
+while dealing with regulation of gene expression.
+
+6.5.2 Transcription Unit and the Gene
+
+A gene is deﬁned as the functional unit of inheritance. Though there is no
+ambiguity that the genes are located on the DNA, it is difﬁcult to literally
+
+2019—2020

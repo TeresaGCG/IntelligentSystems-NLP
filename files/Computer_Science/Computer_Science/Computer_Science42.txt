@@ -1,0 +1,48 @@
+26 Chapter 1 Computer Abstractions and Technology
+the power of computing by including communication. Networks have become so
+popular that they are the backbone of current computer systems; a new machine
+without an optional network interface would be ridiculed. Networked computers
+have several major adva ntages:
+• Comm unication: Information is exchanged between computers at high
+speeds.
+• Resource sharing: Rather than each machine having its own I/O devices,
+devices can be shared by computers on the network.
+• Non/ocal access: By connecting computers over long distances, users need
+not be near the computer they are using.
+Networks vary in length and performance, with the cost of communication
+increasing according to both the speed of communication and the distance that
+information travels. Perhaps the most popular type of network is the Ethernet. Its
+length is limited to about a kilometer, and the most popular version in 2004 takes
+about a tenth of a second to send 1 million bytes of data. Its length and speed
+make Ethernet useful to connect computers on the same floor of a building;
+lo(;al area network (LAN) A hence, it is an example of what is generically called a local area network. Local
+network designed to carry data
+area networks are interconnected with switches that can also provide routing ser 
+within a geographically confined
+vices and security. Wide area networks cross continents and are the backbone of
+area, typically within a single
+the Internet, which supports the World Wide Web. They are typically based on
+building.
+optical fibers and are leased from telecommunication companies.
+wide area network A network
+Networks have changed the face of computing in the last 25 years both by
+extended over hundreds ofkilo 
+becoming much more ubiquitous and by dramatic increases in perfo rmance. In
+meters which can span a conti 
+the 1970s, very few individuals had access to electronic mail, the Internet and Web
+nent.
+did not exist, and physically mailing magnetic tapes was the primary way to trans 
+fer large amounts of data between two locations. In the 1970s, local area networks
+were almost nonexistent, and the few existing wide area networks had limited
+capacity and restricted access.
+As networking technology improved, it became much cheaper and had a much
+higher capacity. For example, the first standardized local area network technology
+developed about 25 years ago was a version of Ethernet that had a maximum
+capacity (also called bandwidth) of 10 million bits per second, typically shared by
+tens, if not a hundred, computers. Today, local area network technology offers a
+capacity of from 100 million bits per second to a gigabit per second, usually
+shared by at most a few computers. Furthermore, lO-gigabit technology is in
+development! Optical communications technology has allowed similar growth in
+the capacity of wide area networks from hundreds of kilobits to gigabits, and from
+hundreds of computers connected to a worldwide network to millions of com put 
+ers connected. This combination of dramatic rise in deployment of networking

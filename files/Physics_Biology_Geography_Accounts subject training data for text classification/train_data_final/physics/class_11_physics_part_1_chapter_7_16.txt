@@ -1,0 +1,125 @@
+SYSTEMS OI’ PARTICLES AND RO'I‘A'I‘IONAL MOTION
+
+where tiis the torque acting on the th particle;
+Ti = rt X Ft
+The force Fi on the {tharticle is the vector
+
+sum of external forces Ff“ acting on the particle
+
+and the internal forces F1.int exerted on it by the
+
+other particles of the system. We may therefore
+separate the contribution of the external and
+the internal forces to the total torque
+
+IzZIi=anFi as
+i i
+
+1: 2 text +tint’
+
+_ ext
+where Text 7 Z r. X Ft
+1
+
+_ int
+and Tint _ Z rt X Ft
+1'
+
+We shall assume not only Newton’s third law
+of motion, i.e. the forces between any two particles
+of the system are equal and opposite, but also that
+these forces are directed along the line joining the
+two particles. In this case the contribution of the
+internal forces to the total torque on the system is
+zero, since the torque resulting from each action-
+reaction pair of forces is zero. We thus have, 1m =
+0 and therefore 1: = 1m.
+
+Since 1: = 21:, , it follows from Eq. (7 .28a)
+that
+
+dL
+
+a 2 Text
+
+Thus, the time rate of the total angular
+momentum of a system of particles about a
+point (taken as the origin of our frame of
+reference) is equal to the sum of the external
+torques (i.e. the torques due to external forces)
+acting on the system taken about the same
+point. Eq. (7.28 b) is the generalisation of the
+single particle case of Eq. (7.23) to a system of
+particles. Note that when we have only one
+particle, there are no internal forces or torques.
+Eq.(7 .28 b) is the rotational analogue of
+
+(7.28 b)
+
+—:Fext (7-17)
+
+Note that like Eq.(7 .17), Eq.(7.28b) holds
+good for any system of particles, whether it is a
+rigid body or its individual particles have all
+kinds of internal motion.
+
+Conservation of angular momentum
+
+If text: 0, Eq. (7 .28b) reduces to
+
+d_L = 0
+dt
+or L = constant. (7 .29a)
+
+Thus, if the total external torque on a system
+of particles is zero, then the total angular
+momentum of the system is conserved, i.e.
+remains constant. Eq. (7 .29a) is equivalent to
+three scalar equations,
+
+LX=K1, Ly =K2 and LZ=K3 (7.29 b)
+
+Here K1, K2 and K3 are constants; LX, Ly and
+L2 are the components of the total angular
+momentum vector L along the x,y and z axes
+respectively. The statement that the total
+angular momentum is conserved means that
+each of these three components is conserved.
+
+Eq. (7.29a) is the rotational analogue of
+Eq. (7 . 18a), i.e. the conservation law of the total
+linear momentum for a system of particles.
+Like Eq. (7 .18a), it has applications in many
+practical situations. We shall look at a few of
+the interesting applications later on in this
+chapter.
+
+P Example 715 Find the torque of a force
+7i + Sj — 5k about the origin. The force
+
+acts on a particle whose position vector is
+i —j +k.
+
+ 
+
+Answer Here r = i —:i+ l:
+
+and F=7i+33—5k.
+We shall use the determinant rule to find the
+torque 1; = r x F
+
+i j 1‘:
+
+1:1 —1 1 =(5—3)i—(—5—7)j+(3—(—7))1E
+7 3 —5
+or t=2i+12j+10k 4
+
+FExample 7.6 Show that the angular
+momentum about any point of a single
+
+particle moving with constant velocity
+remains constant throughout the motion.
+
+ 
+
+2019-20

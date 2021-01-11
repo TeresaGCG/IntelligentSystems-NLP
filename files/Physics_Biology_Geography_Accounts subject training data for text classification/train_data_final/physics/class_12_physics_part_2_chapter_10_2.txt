@@ -1,0 +1,65 @@
+Wave Optics
+
+DOES LIGHT TRAVEL IN A STRAIGHT LINE?
+
+Light travels in a straight line in Class VI; it does not do so in Class XII and beyond! Surprised,
+aren’t you?
+
+In school, you are shown an experiment in which you take three cardboards with
+pinholes in them, place a candle on one side and look from the other side. If the ﬂame of the
+candle and the three pinholes are in a straight line, you can see the candle. Even if one of
+them is displaced a little, you cannot see the candle. This proves, so your teacher says,
+that light travels in a straight line.
+
+In the present book, there are two consecutive chapters, one on ray optics and the other
+on wave optics. Ray optics is based on rectilinear propagation of light, and deals with
+mirrors, lenses, reﬂection, refraction, etc. Then you come to the chapter on wave optics,
+and you are told that light travels as a wave, that it can bend around objects, it can diffract
+and interfere, etc.
+
+In optical region, light has a wavelength of about half a micrometre. If it encounters an
+obstacle of about this size, it can bend around it and can be seen on the other side. Thus a
+micrometre size obstacle will not be able to stop a light ray. If the obstacle is much larger,
+however, light will not be able to bend to that extent, and will not be seen on the other side.
+
+This is a property of a wave in general, and can be seen in sound waves too. The sound
+wave of our speech has a wavelength of about 50 cm to 1 m. If it meets an obstacle of the
+size of a few metres, it bends around it and reaches points behind the obstacle. But when it
+comes across a larger obstacle of a few hundred metres, such as a hillock, most of it is
+reﬂected and is heard as an echo.
+
+Then what about the primary school experiment? What happens there is that when we
+move any cardboard, the displacement is of the order of a few millimetres, which is much
+larger than the wavelength of light. Hence the candle cannot be seen. If we are able to move
+one of the cardboards by a micrometer or less, light will be able to diffract, and the candle
+will still be seen.
+
+One could add to the first sentence in this box: It learns how to bend as it grows up!
+
+10.2 HUYGENS PRINCIPLE
+
+We would first define a wavefront: when we drop a small stone on a calm
+pool of water, waves spread out from the point of impact. Every point on
+the surface starts oscillating with time. At any instant, a photograph of
+the surface would show circular rings on which the disturbance is
+maximum. Clearly, all points on such a circle are oscillating in phase
+because they are at the same distance from the source. Such a locus of
+points, which oscillate in phase is called a wavefront; thus a wavefront
+is deﬁned as a surface of constant phase. The speed with which the
+wavefront moves outwards from the source is called the speed of the FIGURE 10-1 (a) A
+
+wave. The energy of the wave travels in a direction perpendicular to the diVerging SP1191‘1?81
+wavefront wave emanating from
+
+a point source. The
+wavefroms are
+spherical.
+
+353
+
+If we have a point source emitting waves uniformly in all directions,
+then the locus of points which have the same amplitude and vibrate in
+the same phase are spheres and we have what is known as a spherical
+wave as shown in Fig. 10.1(a). At a large distance from the source, a
+
+2019-20

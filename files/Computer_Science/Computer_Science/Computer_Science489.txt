@@ -1,0 +1,36 @@
+7.2 The Basics of Caches 473
+CPU
+1
+Increasing distance
+from the CPU in
+access time
+Levels in the
+Level 2
+memory hierarchy~ ""
+Level n
+• •
+Size of the memory at each level
+FIGURE 7.3 This diagram shows the structure of a memory hierarchy: as the distance
+from the processor Increases, so does the size. This structure with the appropriate operating
+mechanisms allows the processor to have an access time that is determined prim.1rily by level I of the hier 
+archy and yet have a memory as large as levell!. Maintaining this illusion is the subject of this chapter.
+Although the local disk is normallythe bottom ofthe hierarchy, some systems use tape or a file server over a
+local area network as the next levels ofthe hier.1rchy.
+Cache: a safe place for hid 
+ing or storing things.
+The Basics of Caches
+Webster's New World Diction 
+ary ofthe American Langllage,
+Third College Edition (1988)
+In our library example, the desk acted as a cache-a safe place to store things
+(books) that we needed to exa mine. Cache was the name chosen to represent the
+level of the memory hierarchy between the processor and main memory in the
+first commercial computer to have this extra level. Today, although this remains
+the dominant use of the word cache, the term is also used to refer to any storage
+managed to take advantage of locality of access. Caches first appeared in research
+computers in the early 1960s and in production computers later in that same
+decade; every general-purpose computer built today, from servers to low-power
+embedded processors, includes caches.
+In this section, we begin by looking at a very simple cache in which the processor
+requests are each one word and the blocks also consist of a single word. (Readers
+already familiar with cadle basics may want to skip to Section 7.3 on page 492.)

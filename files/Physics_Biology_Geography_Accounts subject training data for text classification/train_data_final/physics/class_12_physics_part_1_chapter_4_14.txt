@@ -1,0 +1,57 @@
+146
+
+ 
+
+ 
+
+I Physics
+
+ 
+
+The summation of elements dlover the loop yields 27CR, the
+circumference of the loop. Thus, the magnetic ﬁeld at P due to entire
+circular loop is
+
+.UOIR2
+
+B=Bxi=W (4.15)
+
+As a special case of the above result, we may obtain the field at the centre
+of the loop. Here x = O, and we obtain,
+
+pun.)
+
+BO =._1 (4.16)
+
+The magnetic ﬁeld lines due to a circular wire form closed loops and
+are shown in Fig. 4.12. The direction of the magnetic ﬁeld is given by
+(another) right-hand thumb rule stated below:
+
+Curl the palm of your right hand around the circular wire with the
+ﬁngers pointing in the direction of the current. The right-hand thumb
+gives the direction of the magnetic field.
+
+ 
+
+FIGURE 4.12 The magnetic field lines for a current loop. The direction of
+
+the field is given by the right—hand thumb rule described in the text. The
+
+upper side of the loop may be thought of as the north pole and the lower
+side as the south pole of a magnet.
+
+Example 4.6 A straight wire carrying a current of 12 A is bent into a
+semi-circular arc of radius 2.0 cm as shown in Fig. 4.13(a). Consider
+the magnetic field B at the centre of the are. (a) What is the magnetic
+field due to the straight segments? (b) In what way the contribution
+to B from the semicircle differs from that of a circular 100p and in
+what way does it resemble? (c) Would your answer be different if the
+wire were bent into a semi-circular arc of the same radius but in the
+opposite way as shown in Fig. 4.13(b)?
+
+(a) (b)
+FIGURE 4.13
+
+EXAMPLE 4.6
+
+2019-20

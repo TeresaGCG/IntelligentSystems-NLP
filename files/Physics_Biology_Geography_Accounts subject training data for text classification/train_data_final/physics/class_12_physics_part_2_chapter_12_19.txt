@@ -1,0 +1,73 @@
+SUMMARY
+
+Atom, as a whole, is electrically neutral and therefore contains equal
+amount of positive and negative charges.
+
+In Thomson’s model, an atom is a spherical cloud of positive charges
+with electrons embedded in it.
+
+In Rutherford’s model, most of the mass of the atom and all its positive
+charge are concentrated in a tiny nucleus (typically one by ten thousand
+the size of an atom), and the electrons revolve around it.
+
+Rutherford nuclear model has two main difficulties in explaining the
+structure of atom: [a] It predicts that atoms are unstable because the
+accelerated electrons revolving around the nucleus must spiral into
+the nucleus. This contradicts the stability of matter. (b) It cannot
+explain the characteristic line spectra of atoms of different elements.
+
+Atoms of each element are stable and emit characteristic spectrum.
+The spectrum consists of a set of isolated parallel lines termed as line
+spectrum. It provides useful information about the atomic structure.
+
+The atomic hydrogen emits a line spectrum consisting of various series.
+The frequency of any line in a series can be expressed as a difference
+of two terms;
+
+1 l
+Lyman series: v: Rc(1—2——2) : n= 2, 3, 4,...
+n
+. l l
+Balmer series: v: Rc[2—2——2) ; n = 3, 4. 5,...
+n
+l l
+Paschen series: v: Rc[3—2——2] : n = 4, 5, 6,...
+n
+l l
+Brackett series: v: Rc(4—z——2) ; n = 5, 6, 7,...
+n
+. l l
+Pfund series: v: Rc[5—2——2) : n = 6, 7, 8,...
+n
+
+To explain the line spectra emitted by atoms, as well as the stability
+of atoms, Niel’s Bohr proposed a model for hydrogenic [single elctron]
+atoms. He introduced three postulates and laid the foundations of
+quantum mechanics:
+
+[a] In a hydrogen atom, an electron revolves in certain stable orbits
+[called stationary orbits] without the emission of radiant energl.
+
+(b) The stationary orbits are those for which the angular momentum
+is some integral multiple of h/2n. [Bohr’s quantisation condition.)
+That is L = nh/ 2n, where n is an integer called a quantum number.
+
+[c] The third postulate states that an electron might make a transition
+from one of its specified non—radiating orbits to another of lower
+energy. When it does so, a photon is emitted having energy equal
+to the energy difference between the initial and final states. The
+frequency (v) of the emitted photon is then given by
+
+hv =Ei—Ef
+
+An atom absorbs radiation of the same frequency the atom emits,
+in which case the electron is transferred to an orbit with a higher
+value of n.
+
+Ei+hv = Ef
+
+2019-20
+
+Atoms
+
+433

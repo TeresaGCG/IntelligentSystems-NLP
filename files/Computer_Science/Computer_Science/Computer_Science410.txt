@@ -1,0 +1,64 @@
+394 Chapter 6 Enhancing Performance with Plpellnlng
+.w
+...
+-
+~ ~-
+.w - ',,-
+11----l;§
+•
+/
+~
+~.
+.. -- - , I"
+-
+0 -
+,_.
+,o " le- - ...
+• -- -, -
+-- - -_. .. - --
+' I- -
+- ..
+.. ~ ~I- -
+--
+I- - 0 ~ 0
+-
+"
+,0 •
+• - •
+-
+~
+..
+..
+"--
+.~
+'.J
+".
+~ ';"'" ~-
+~
+• I" ~~
+~J-
+-- - ,
+.. -
+0 _. -
+le-
+,o " - ... _.
+• -- - , -
+-- - -_. --
+I- -
+-
+.. ~" ~I- - ..
+• --
+I- - ~ 0
+-
+0
+0 •
+• - •
+•
+..
+-" o.
+"
+.~
+L
+FIGURE 6.16 MEM and WB: the fourth and fifth pipe stage of a store Instruction. In the fourth stage, the data is WTil1en into data
+memory for the store. Note that the data comes from the EXfMEM pipeline register and that nothing is changed in the MEM/WB pipeline register.
+Once the data is written in memory, there is nothing left for the store instruction to do, so nothing happens in stage 5.

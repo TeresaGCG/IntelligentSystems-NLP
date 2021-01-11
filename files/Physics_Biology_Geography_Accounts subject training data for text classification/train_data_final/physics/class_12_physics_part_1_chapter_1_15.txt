@@ -1,0 +1,66 @@
+16
+
+ 
+
+l Physics
+
+EXAMPLE 1.6
+
+ 
+
+which again is the Coulomb force on q1 due to q3, even though other
+charge q2 is present.
+Thus the total force F1 on q1 due to the two charges q2 and q3 is
+given as
+1 - 1 q q -
+F1 = F12 +F13 = qlq2 1 3
+
+1'2+———1'3
+47t80 r122 1 47t80 r123 1 (1'4)
+
+ 
+
+The above calculation of force can be generalised to a system of
+charges more than three, as shown in Fig. 1.8(b).
+
+The principle of superposition says that in a system of charges q1,
+q2, qn, the force on q1 due to q2 is the same as given by Coulomb’s law,
+i.e., it is unaffected by the presence of the other charges q3, q4, qn. The
+total force F1 on the charge ql, due to all other charges, is then given by
+
+ 
+
+ 
+
+ 
+
+ 
+
+the vector sum of the forces F12, F13, F1“:
+i.e.,
+1 cm - qq A qq -
+F =F +F +...+F = 12:- +—1——3—r +...+ 1”:
+l 12 13 In 47580 r122 12 r123 13 12,1 In
+Q1 n in
+_II‘
+47580 1:2 r121 h (1.5)
+
+The vector sum is obtained as usual by the parallelogram law of
+addition of vectors. All of electrostatics is basically a consequence of
+Coulomb’s law and the superposition principle.
+
+Example 1.6 Consider three charges q1, q2, q3 each equal to q at the
+vertices of an equilateral triangle of side I. What is the force on a
+charge Q (with the same sign as q) placed at the centroid of the
+triangle, as shown in Fig. 1.9?
+
+ 
+
+FIGURE 1 .9
+
+Solution In the given equilateral triangle ABC of sides of length I, if
+we draw a perpendicular AD to the side BC,
+AD = AC cos 309 = (‘5 /2) l and the distance A0 of the centroid 0
+from A is (2/3) AD = (1/J§) I. By symmatry A0 = B0 = C0.
+
+2019-20

@@ -1,0 +1,111 @@
+MECHANICAL PROPERTIES OF SOLIDS
+
+24l
+
+Answer Total mass of all the performers, tables,
+plaques etc. = 280 kg
+
+Mass of the performer = 60 kg
+
+Mass supported by the legs of the performer
+at the bottom of the pyramid
+
+= 280 — 60 = 220 kg
+
+Weight of this supported mass
+
+= 220 kg wt. = 220 x 9.8 N = 2156 N.
+
+Weight supported by each thighbone of the
+performer = 1/2 (2156) N = 1078 N.
+
+From Table 9.1, the Young’s modulus for bone
+is given by
+
+Y = 9.4 x 109 N m‘z.
+
+Length of each thighbone L = 0.5 m
+
+the radius of thighbone = 2.0 cm
+
+Thus the cross-sectional area of the thighbone
+A = 7: x (2 x 102)2 m2 = 1.26 x 10'3 m2.
+Using Eq. (9.8), the compression in each
+thighbone (AL) can be computed as
+
+AL = [(FxL)/(Y>< A)]
+= [(1078 >< 0.5)/(9.4 x 109 x 1.26 x 103)]
+= 4.55 x 10'5 m or 4.55 x 10'3 cm.
+
+This is a very small change! The fractional
+decrease in the thighbone is AL/ L = 0.000091
+or 0.009 1%. 4
+
+9.6.2 Determination of Young's Modulus of
+the Material of a Wire
+
+A typical experimental arrangement to determine
+the Young’s modulus of a material of wire under
+tension is shown in Fig. 9.6. It consists of two
+long straight wires of same length and equal
+radius suspended side by side from a fixed rigid
+support. The wire A (called the reference wire)
+carries a millimetre main scale M and a pan to
+place a weight. The wire B (called the
+experimental wire) of uniform area of cross-
+section also carries a pan in which known
+weights can be placed. A vernier scale V is
+attached to a pointer at the bottom of the
+experimental wire B, and the main scale M is
+fixed to the reference wire A. The weights placed
+in the pan exert a downward force and stretch
+the experimental wire under a tensile stress. The
+elongation of the wire (increase in length) is
+measured by the vernier arrangement. The
+reference wire is used to compensate for any
+change in length that may occur due to change
+in room temperature, since any change in length
+of the reference wire due to temperature change
+
+will be accompanied by an equal change in
+experimental wire. (We shall study these
+temperature effects in detail in Chapter 1 1.)
+
+     
+ 
+
+Reference
+Wire
+
+Experimental
+Wire
+
+V
+
+M (Vernier Scale)
+(Metre Scale)
+
+Fig. 9.6 An arrangement for the determination of
+Young’s modulus of the material of a wire.
+
+Both the reference and experimental wires are
+given an initial small load to keep the wires
+straight and the vernier reading is noted. Now
+the experimental wire is gradually loaded with
+more weights to bring it under a tensile stress
+and the vernier reading is noted again. The
+difference between two vernier readings gives
+the elongation produced in the wire. Let r and L
+be the initial radius and length of the
+experimental wire, respectively. Then the area
+of cross-section of the wire would be n12. Let M
+be the mass that produced an elongation AL in
+the wire. Thus the applied force is equal to Mg,
+where g is the acceleration due to gravity. From
+Eq. (9.8), the Young’s modulus of the material
+of the experimental wire is given by
+
+_ 0 E L
+Y_; = 7rr2 'AL
+= Mg >< L/(TU‘Z >< AL) (9.9)
+2019-20

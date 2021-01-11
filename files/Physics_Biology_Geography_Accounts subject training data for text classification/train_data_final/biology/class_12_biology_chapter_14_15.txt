@@ -1,0 +1,58 @@
+232
+
+ 
+
+BIOLOGY
+
+a particular set of selection pressures, organisms evolve towards the most
+efﬁcient reproductive strategy. Some organisms breed only once in their
+lifetime (Paciﬁc salmon ﬁsh, bamboo) while others breed many times
+during their lifetime (most birds and mammals). Some produce a large
+number of small-sized offspring (Oysters, pelagic ﬁshes) while others
+produce a small number of large-sized offspring (birds, mammals). So,
+which is desirable for maximising ﬁtness? Ecologists suggest that life
+history traits of organisms have evolved in relation to the constraints
+imposed by the abiotic and biotic components of the habitat in which
+they live. Evolution of life history traits in different species is currently an
+important area of research being conducted by ecologists.
+
+13.2.4 Population Interactions
+
+Can you think of any natural habitat on earth that is inhabited just by a
+single species? There is no such habitat and such a situation is even
+inconceivable. For any species, the minimal requirement is one more
+species on which it can feed. Even a plant species, which makes its own
+food, cannot suivive alone; it needs soil microbes to break down the organic
+matter in soil and return the inorganic nutrients for absorption. And then,
+how will the plant manage pollination without an animal agent? It is
+obvious that in nature, animals, plants and microbes do not and cannot
+live in isolation but interact in various ways to form a biological
+community. Even in minimal communities, many interactive linkages
+exist, although all may not be readily apparent.
+
+Interspeciﬁc interactions arise from the interaction of populations of
+two different species. They could be beneﬁcial, detrimental or neutral
+(neither harm nor beneﬁt) to one of the species or both. Assigning a ‘+’
+sign for beneﬁcial interaction, ‘-’ sign for detrimental and O for neutral
+interaction, let us look at all the possible outcomes of interspecific
+interactions (Table 1 3. 1) .
+
+Table 13.1 : Population Interactions
+
+‘ Species A Species B Name of Interaction
+
+l + + M utualism
+I — — Competition
+| + — Predation
+I + — Parasitism
+l + 0 Commensalism
+
+ 
+
+I — 0 Amensalism
+
+Both the species beneﬁt in mutualism and both lose in competition in
+their interactions with each other. In both parasitism and predation only
+one species beneﬁts (parasite and predator, respectively) and the interaction
+
+2019-2020

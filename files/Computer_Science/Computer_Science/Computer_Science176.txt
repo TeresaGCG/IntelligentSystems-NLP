@@ -1,0 +1,28 @@
+160 Chapter 3 Arithmetic: for Computers
+Introduction
+Computer words are composed of bits; thus words can be represented as binary
+numbers. Although the natural numbers 0, 1, 2, and so on can be represented
+either in decimal or binary form, what about the other numbers that commonly
+occur? For example:
+• How are negative numbers represented?
+• What is the largest number that can be represented in a computer word?
+• What happens if an operation creates a number bigger than can be repre 
+sented?
+• What about fractions and real numbers?
+And underlying all these questions is a mystery: How does hardwa re really multi 
+ply or divide numbers?
+The goal of this chapter is to unravel this mystery, including representation of
+numbers, arithmetic algorithms, hardwa re that follows these algorithms, and the
+implications of all this for instruction sets. These insights may even explain quirks
+that you have already encountered with computers. (If you are familiar with
+signed binary numbers, you may wish to skip the next section and go to Section
+3.3 on page 170.)
+Signed and Unsigned Numbers
+Numbers can be represented in any base; humans prefer base 10 and, as we exam 
+ined in Chapter 2, base 2 is best for computers. To avoid confusion we subscript
+decimal numbers with ten and binary numbers with two.
+In any number base, the value of ith digit d is
+d x Base;
+where i starts at 0 and increases from right to left. This leads to an obvious way to
+number the bits in the word: Simply use the power of the base for that bit. For
+example,

@@ -1,0 +1,116 @@
+106
+
+PHYSICS
+
+ 
+
+method in solved examples. To handle a typical
+problem in mechanics systematically, one
+should use the following steps :
+
+(1)
+
+Draw a diagram showing schematically the
+various parts of the assembly of bodies, the
+links, supports, etc.
+
+(ii) Choose a convenient part of the assembly
+
+as one system.
+
+(iii) Draw a separate diagram which shows this
+
+system and all the forces on the system by
+the remaining part of the assembly. Include
+also the forces on the system by other
+agencies. Do not include the forces on the
+environment by the system. A diagram of
+
+the net force on the block must be zero i.e.,
+R = 20 N. Using third law the action of the
+block (i.e. the force exerted on the ﬂoor by
+the block) is equal to 20 N and directed
+vertically downwards.
+
+(b) The system (block + cylinder) accelerates
+
+downwards with 0.1 m s2. The free-body
+diagram of the system shows two forces on
+the system : the force of gravity due to the
+earth (270 N); and the normal force R’ by the
+ﬂoor. Note, the free-body diagram of the
+system does not show the internal forces
+between the block and the cylinder. Applying
+the second law to the system,
+
+this type is known as ‘a free-body diagram’.
+(Note this does not imply that the system
+under consideration is without a net force).
+(iv) In a free-body diagram, include information R
+about forces (their magnitudes and
+directions) that are either given or you are u
+sure of (e.g., the direction of tension in a
+20 N
+Free-body diagram
+of the block
+
+270 — R’ = 27 X 0.1N
+16. R’ = 267.3 N
+
+string along its length). The rest should be
+treated as unknowns to be determined using
+laws of motion.
+
+(v) If necessary, follow the same procedure for
+another choice of the system. In doing so, "'I R'
+employ Newton’s third law. That is, if in the I
+free-body diagram of A, the force on A due to
+B is shown as F, then in the free-body
+diagram of B, the force on B due to A should
+
+ 
+ 
+
+ 
+
+be shown as —F. 270 N
+The following example illustrates the above X gfigebgﬁilgfiarirnder
+procedure. 5 stem
+0.1 m 5'2 y
+F Example 5.12 See Fig. 5.15. A wooden Fig. 515
+
+block of mass 2 kg rests on a soft horizontal
+ﬂoor. When an iron cylinder of mass 25 kg
+is placed on top of the block. the ﬂoor yields
+steadily and the block and the cylinder
+together go down with an acceleration of
+0.1 m 5‘2. What is the action of the block
+on the ﬂoor (a) before and (b) after the ﬂoor
+yields ? Take 9 = 10 m 5‘2. Identify the
+action—reaction pairs in the problem.
+
+By the third law, the action of the system on
+the ﬂoor is equal to 267 .3 N vertically downward.
+
+Action-reaction pairs
+
+For (a): (i) the force of gravity (20 N) on the block
+by the earth (say, action); the force of
+gravity on the earth by the block
+(reaction) equal to 20 N directed
+upwards (not shown in the figure).
+
+(ii) the force on the ﬂoor by the block
+Answer (action); the force on the block by the
+(a) The block is at rest on the ﬂoor. Its free-body ﬂoor (reaction).
+
+diagram shows two forces on the block, the For (b): (i) the force of gravity (270 N) on the
+force of gravitational attraction by the earth system by the earth (say, action); the
+equal to 2 x 10 = 20 N; and the normal force force of gravity on the earth by the
+R of the ﬂoor on the block. By the First Law, system (reaction), equal to 270 N,
+
+ 
+
+ 
+
+2019-20

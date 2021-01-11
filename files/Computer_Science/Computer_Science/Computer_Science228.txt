@@ -1,0 +1,51 @@
+212 Chapter 3 Arithmetic: for Computers
+L3 : sl1 $tO , $s2 , 5 It $tO k * 25 (size of r ow of z)
+=
+addu $tO , $t O, $sl It $tO k * size( r ow) + j
+=
+It
+sl1 $tO , $tO , 3 $tO byte off set of [kJ(j]
+=
+It
+addu $t O, $a2 , $t O $tO byt e address of z [k][j]
+=
+I . d $f16 . 0(1<0) II $f16 ~ 8 bytes of z[k][j]
+Similarly, the next five instructions are like the last five: calculate the ad 
+dress and then load the double precision number y[ i] [k] .
+sll $t2 , $sO , 5 It $tO * 25 (size of r ow of y)
+= 1
+addu $tO , $tO , $s2 It $tO i * size( r ow) + k
+=
+It
+sll $tO , $tO , 3 $tO byt e off set of [i J(k]
+=
+It
+addu $tO , $al, $t O $tO byt e address of y[iJ(k]
+=
+l.d $f18 . 0(1<0) II $f18 ~ 8 bytes of y[i][k]
+Now that we have loaded all the data, we are finally ready to do some float 
+ing-point operations! We multiply elements of y and z located in registers
+$flB and H16, and then accumulate the sum in $f4.
+mul.d Ifl6 . $f18 . Ifl6 II Ifl6 ~ y[i][k] * z[k][j]
+add . d $f4 . $f4 . Ifl6 II f 4 ~ x[i][j] + y[i][k] * z[k][j]
+The final block increments the index k and loops back if the index is not
+32. If it is 32, and thus the end of the innermost loop, we need to store the sum
+accumulated in $f4 into x[ i] [j] .
+add i u $s2 , $s2 , 1 It $k k + 1
+boe $s2 , $t1, L3 It i f (k != 32) go to L3
+d $f4 . 0(1<21 II x[i][j] ~ $f4
+5 •
+Similarly, these fin al four instructions increment the index variable of the
+middle and outermost loops, looping back if the index is not 32 and exiting if
+the index is 32 .
+add i u $sl, $s 1, 1 II I j J + 1
+~
+boe $sl, I< 1 . L2 II i f (j != 32) go t o L2
+add i u $sO , $sO , 1 II I i + 1
+- 1
+boe $sO , I< 1 . L1 II i f ( i != 32) go to L1
+Elaboration: The array layout discussed in the example, called row major order, is
+used by C and many other programming languages. Fortran instead uses column major
+order, whereby the array is stored column by column.
+Only 16 of the 3 2 MIPS floating-point registers could originally be used for single pre 
+cision operations: Sf 0, Sf 2, Sf 4• ... , $f 30. Double precision is computed using pairs

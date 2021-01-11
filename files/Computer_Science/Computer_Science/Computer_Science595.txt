@@ -1,0 +1,40 @@
+8.2 Disk Storage and Dependability 579
+~ Q] 0 0 ~ ~ Q] 0 0 ~
+0 0 0 0 0
+[4] ~ [4] [5] ~
+0 [5] ~ @] ~ 0 [5] ~ ~ @]
+~ @] [3 @] ~ ~ ~ @] [3 @]
+@] @] @] @] ~ ~ @] @] @] @]
+~ @J §] §] ~ ~ @J §] §] ~
+.. . .. . . .. . .. . .. .. . .. . .. . .. . ...
+RAID 4 RAIDS
+FIGURE 8.8 Block.jnterleaved parity (RAID 4) versus distributed block·lnterleaved par·
+Ity (RAID S). By distributing parity blocks to all disks, some small writes can be performed in
+parallel.
+be replaced without having to turn off the system. RAIDs have enough redun 
+dancy to allow continuous operation, but hot swapping disks places demands on hot swapping Replacing a
+hardware component while the
+the physical and electrical design of the array and the disk interfaces. Second,
+system is running.
+another failure could occur during repair, so the repair time affects the chances of
+losing data: the longer the repair time, the greater the chances of another failure
+that will lose data. Rather than having to wait for the operator to bring in a good
+disk, some systems include standby spares so that the data can be reconstructed standby spares Reserve hard 
+immediately upon discovery of the failure. The operator can then replace the ware resources that can immedi·
+ately take the place of a failed
+failed disks in a more leisurely fashion. Third, although disk manufacturers quote
+component.
+very high MTTF for their products, those numbers are under nominal conditions.
+If a particular disk array has been subject to temperature cycles due to, say, the
+failure of the air conditioning system, or to shaking due to a poor rack design,
+construction, or installation, the failure rates will be much higher. The calculation
+of RAID reliability aSSllmes independence between disk failures, but disk failures
+could be correlated because such damage due to the environment would likely
+happen to all the disks in the array. Finally, a human operator ultimately deter 
+mines which disks to remove. As Figure 8.5 shows, operators are only human, so
+they occasionally remove the good disk instead of the broken disk, leading to an
+unrecoverable disk failure.
+Although RAID 6 is rarely used today, a cautious operator might want its extra
+redundancy to protect against expected hardware failures plus a safety margin to
+protect against human error and correlated failures due to problems with the
+environment.

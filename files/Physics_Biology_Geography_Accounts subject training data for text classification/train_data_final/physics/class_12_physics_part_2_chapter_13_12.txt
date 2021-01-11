@@ -1,0 +1,75 @@
+450
+
+ 
+
+l Physics
+
+EXAMPLE 13.6
+
+ 
+
+Example 13.6 We are given the following atomic masses:
+2§§U = 23805079 u §He= 4.00260 u
+233m = 234.04363 u iH= 1.00783 u
+
+ZSZPa = 23705121 u
+
+Here the symbol Pa is for the element protactinium (Z = 91).
+(a) Calculate the energy released during the alpha decay of 2328U.
+
+(b) Show that 2§§U can not spontaneously emit a proton.
+Solution
+(a) The alpha decay of 238U is given by Eq. (13.20). The energy released
+
+92
+in this process is given by
+Q= (MU—Mm—MH.) c2
+Substituting the atomic masses as given in the data, we ﬁnd
+Q = (23805079 — 234.04363 — 4.00260)u X 02
+- (0.00456 u) c2
+(0.00456 u) (931.5 MeV/u)
+
+= 4.25 MeV.
+
+(b) If 2g§U spontaneously emits a proton, the decay process would be
+
+2:311 —> 33a + 1H
+The Q for this process to happen is
+
+(MU — MPa — MH) c2
+
+(238.05079 — 237.05121 — 1.00783) u X c2
+
+(— 0.00825 u) c2
+
+(0.00825 u)(931.5 MeV/u)
+
+= — 7.68 MeV
+
+Thus, the Q of the process is negative and therefore it cannot proceed
+spontaneously. We will have to supply an energy of 7.68 MeV to a
+
+2§§U nucleus to make it emit a proton.
+
+13.6.3 Beta decay
+
+In beta decay, a nucleus spontaneously emits an electron (ff—decay) or a
+positron (6+ decay). A common example of [3' decay is
+
+f:P->f§S+e‘+1—/ (13.22)
+and that of [3+ decay is
+
+§§Na —> f3Ne+ e+ + v (13.23)
+
+The decays are governed by the Eqs. (13.14) and (13.1 5), so that one
+can never predict which nucleus will undergo decay, but one can
+characterize the decay by a half-life T1/2 . For example, T1/2 for the decays
+above is respectively 14.3 d and 2.6y. The emission of electron in B'decay
+is accompanied by the emission of an antineutrino (17 ); in b” decay, instead,
+a neutrino (v) is generated. Neutrinos are neutral particles with very small
+(possiblly, even zero) mass compared to electrons. They have only weak
+interaction with other particles. They are, therefore, very difﬁcult to detect,
+since they can penetrate large quantity of matter (even earth) without any
+interaction.
+
+2019-20

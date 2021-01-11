@@ -1,0 +1,39 @@
+308 Chapter 5 The Processor: Datapath and Control
+1 1 I 1 1 I .
+Memto-
+Instruction RegDst AlUSrc Reg Branch ALUOpl ALUOpO
+R.fonnat 1 0 0 1 0 0 0 1 0
+1, 0 1 1 1 1 0 0 0 0
+" X 1 X 0 0 1 0 0 0
+b" X 0 X 0 0 0 1 0 1
+FIGURE 5.18 The setting of the control lines Is completely determined by the opcode fields of the Instruction. The first row of
+the table corresponds to the R·format instructions (add, sub, and, 0 r, and 51 t ). For all these instructions, the source register fields are rs and rt,
+and the destination register field is rd; this defines how the signals ALUSrc and RJ.>gDst are set. Furthermore, an R-type instruction writes a register
+(RegWrite = 1), but neither reads nor writes data memory. When the Branch control signal is 0, the PC is lUlconditionally replaced with PC + 4; oth·
+erwise, the PC is replaced bylhe branch target jf the Zero outpul of the ALU is also high. TheALUOp field for R-type instructions is set to 10 to indi 
+cate that the ALU control should be generated from the funct field. The second and third rows of this table give the control signal settings for 1wand
+sw.TheseALUSrc and ALUOp fields are set to perform the address calculation.The MemRead and MemWrite are set to perform the memory acress.
+Finally, RegDst and RegWrite are set for a lo.1d to c.1Use the result to be stored into the rt register. The branch instruction is similar to an R-formm
+operation, since it sends the rs and rt registers to theALU. TheALUOp field for branch is set for a subtract (ALU control = 01), which is used to test for
+equality. Notice that the MemtoReg field is irrelevant when the RegWrite signal is 0:since the register is not being written, the value of the data on the
+register data WTite port is not used.Thus, the entry MemtoReg in the last two rows ofthe table is replaced with X for don't care. Don't cares can also be
+added to RegDst when RegWrite is O.This type ofdon't care must be added bythe designer, since it depends on knowledge ofhow the datapath works.
+I. The instruction is fetched, and the PC is incremented.
+2. Two registers, H2 and H3, are read from the register file, and the main
+control unit computes the setting of the control lines during this step also.
+3. The ALU operates on the data read from the register file, using the function
+code (bits 5:0, which is the funct field, of the instruction) to generate the
+ALU function.
+4. The result from the ALU is written into the register file using bits 15: 11 of
+the instruction to select the destination register ($ t 1).
+Similarly, we can illustrate the execution of a load word, such as
+lw $t1 , of fset($t2)
+in a style similar to Figure 5. 19. Figure 5.20 on page 310 shows the active func 
+tional units and asserted control lines fo r a load. We can think of a load instruc 
+tion as operating in five steps (similar to the R-type executed in four):
+I. An instruction is fetched from the instruction memory, and the PC is incre 
+mented.
+2. A register (HZ) value is read from the register file.
+3. The ALU computes the sum of the value read from the register file and the
+sign-extended, lower 16 bits of the instruction (offset).
+4. The sum from the ALU is used as the address for the data memory.

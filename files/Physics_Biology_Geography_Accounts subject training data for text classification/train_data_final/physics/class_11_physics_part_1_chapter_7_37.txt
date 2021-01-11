@@ -1,0 +1,77 @@
+178
+
+7.1
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+
+7.6
+
+7.7
+
+7.8
+
+7.9
+
+7. 10
+
+PHYSICS
+
+EXERCISES
+
+Give the location of the centre of mass of a [i] sphere, [ii] cylinder, [iii] ring, and (iv)
+cube, each of uniform mass density. Does the centre of mass of a body necessarily
+lie inside the body ?
+
+In the HCl molecule, the separation between the nuclei of the two atoms is about
+1.27 A (1 A = 10‘10 m]. Find the approximate location of the CM of the molecule,
+given that a chlorine atom is about 35.5 times as massive as a hydrogen atom and
+nearly all the mass of an atom is concentrated in its nucleus.
+
+A child sits stationary at one end of a long trolley moving uniformly with a speed V
+on a smooth horizontal ﬂoor. If the child gets up and runs about on the trolley in any
+manner, what is the speed of the CM of the (trolley + child] system ?
+
+Show that the area of the triangle contained between the vectors a and b is one half
+of the magnitude of aXb.
+
+Show that a.(b><c] is equal in magnitude to the volume of the parallelepiped formed
+on the three vectors , a, b and c.
+
+Find the components along the x, y, z axes of the angular momentum l of a particle,
+whose position vector is r with components x, y, z and momentum is p with
+components px, py and pl. Show that if the particle moves only in the x—y plane the
+angular momentum has only a z—component.
+
+Two particles, each of mass mand speed v, travel in opposite directions along parallel
+lines separated by a distance (1. Show that the angular momentum vector of the two
+particle system is the same whatever be the point about which the angular momentum
+is taken.
+
+A non—uniform bar of weight W is suspended at rest by two strings of negligible
+weight as shown in Fig.7.39. The angles made by the strings with the vertical are
+36.9° and 53.1° respectively. The bar is 2 m long. Calculate the distance d of the
+centre of gravity of the bar from its left end.
+
+ 
+
+Fig. 7.39
+
+A car weighs 1800 kg. The distance between its front and back axles is 1.8 m. Its
+centre of gravity is 1.05 m behind the front axle. Determine the force exerted by the
+level ground on each front wheel and each back wheel.
+
+(a) Find the moment of inertia of a sphere about a tangent to the sphere, given the
+moment of inertia of the sphere about any of its diameters to be 2MR’1/5, where
+M is the mass of the sphere and R is the radius of the sphere.
+
+[b] Given the moment of inertia of a disc of mass M and radius R about any of its
+diameters to be MR2/ 4, find its moment of inertia about an axis normal to the
+disc and passing through a point on its edge.
+
+2019-20

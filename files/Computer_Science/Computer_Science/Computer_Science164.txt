@@ -1,0 +1,41 @@
+148 Chapter 2 Instructions: Language of the Computer
+There are some cases where pseudoinstructions must be used (for example, the
+1a instruction when an aenlal value is not known at assembly time), In many
+cases, they are quite convenient and result in more readable code (forexa rnple, the
+1i and move instructions), If you choose to use pseudoinstructions for these rea 
+sons, please add a sentence or two to your solution stating which pseudoinstruc 
+tions you have used and why.
+II
+2.1 [ ISJ <§2.4> For More Practice: Instruction Formats
+2.2 [5J <§2.4> What binary number does this hexadecimal number represent:
+7fff fffahe/ What decimal number does it represent?
+2.3 [5J <§2.4> What hexadecimal number does this binary number represent:
+11001010 11111110 11111010 1100 1110 ?
+two
+2.4 [5J <§2.4> Why doesn't MIPS have a subtract immediate instruction?
+2.5 [ ISJ <§2.S> . For More Practice: MIPS Code and Logical Operations
+2.6 [15J <§2.S> Some computers have explicit instructions to extract an arbitrary
+field from a 32-bit register and to place it in the least significant bits of a register.
+The figure below shows the desired operation:
+o
+31 j
+field
+31 - j bits
+j-ibits i + 1 bits
+o
+31
+0... 0000 field
+32-U-i)bits j-ibits
+Find the shortest sequence of MIPS instructions that extracts a field for the con 
+stant values i = 5 and j = 22 from register $t 3 and places it in register $t O. (Hint:
+It can be done in two instructions.)
+2.7 [IOJ <§2.S> " For More Practice: Logical Operations in MIPS
+2.8 [20J <§2.S> " In More Depth: Bit Fields in C
+1&
+2.9 [20J <§2.S> In More Depth: Bit Fields in C
+III
+2.10 (20) <§2.5> In More Depth: Jump Tables
+II
+2.11 (20) <§2.5> In More Depth: Jump Tables
+II
+2.12 (20) <§2.5> In More Depth: Jump Tables

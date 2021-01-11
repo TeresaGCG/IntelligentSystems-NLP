@@ -1,0 +1,119 @@
+a
+°£
+.2
+l:
+a
+LTJ
+%
+a
+Q
+%
+
+ 
+
+148
+
+ 
+
+Andre Ampere (1775 -
+1836) Andre Marie Ampere
+was a French physicist,
+mathematician and chemist
+who founded the science of
+electrodynamics. Ampere
+was a child prodigy
+who mastered advanced
+mathematics by the age of
+12. Ampere grasped the
+significance of Oersted’s
+discovery. He carried out a
+large series of experiments
+to explore the relationship
+between current electricity
+and magnetism. These
+investigations culminated
+in 1827 with the
+publication of the
+‘Mathematical Theory of
+Electrodynamic Pheno-
+mena Deduced Solely from
+Experiments’. He‘ hypo-
+thesised that all magnetic
+phenomena are due to
+
+circulating electric
+currents. Ampere was
+humble and absent-
+
+minded. He once forgot an
+invitation to dine with the
+Emperor Napoleon. He died
+of pneumonia at the age of
+61. His gravestone bears
+the epitaph: Tandem Felix
+(Happy at last).
+
+ 
+
+ 
+
+(i) B is tangential to the loop and is a non-zero constant
+B, or
+
+(ii) B is normal to the loop, or
+
+(iii) B vanishes.
+
+Now, let Lbe the length (part) of the loop for which B
+is tangential. Let 18 be the current enclosed by the loop.
+Then, Eq. (4.1 7) reduces to,
+
+BL =p018 [4.17(b)]
+
+When there is a system with a symmetry such as for
+a straight inﬁnite current-carrying wire in Fig. 4.15, the
+Ampere’s law enables an easy evaluation of the magnetic
+field, much the same way Gauss’ law helps in
+determination of the electric ﬁeld. This is exhibited in the
+Example 4.9 below. The boundary of the loop chosen is
+a circle and magnetic field is tangential to the
+circumference of the circle. The law gives, for the left hand
+side of Eq. [4.17 (b)], B. 2m. We find that the magnetic
+field at a distance r outside the wire is tangential and
+given by
+
+BX 2m = #01,
+
+B = a0 1/ (2m) (4.18)
+
+The above result for the inﬁnite wire is interesting
+from several points of View.
+
+(i) It implies that the field at every point on a circle of
+radius r, (with the wire along the axis), is same in
+magnitude. In other words, the magnetic field
+possesses what is called a cylindrical symmetry. The
+field that normally can depend on three coordinates
+depends only on one: r. Whenever there is symmetry,
+the solutions simplify.
+
+(ii) The field direction at any point on this circle is
+tangential to it. Thus, the lines of constant magnitude
+of magnetic ﬁeld form concentric circles. Notice now,
+in Fig. 4. 1 (c), the iron ﬁlings form concentric circles.
+These lines called magnetic ﬁeld lines form closed
+loops. This is unlike the electrostatic ﬁeld lines which
+originate from positive charges and end at negative
+charges. The expression for the magnetic ﬁeld of a
+straight wire provides a theoretical justiﬁcation to
+Oersted’s experiments.
+
+(iii) Another interesting point to note is that even though
+the wire is inﬁnite, the ﬁeld due to it at a non-zero
+distance is not infinite. It tends to blow up only when
+we come very close to the wire. The ﬁeld is directly
+proportional to the current and inversely proportional
+to the distance from the (infinitely long) current
+source.
+
+2019-20

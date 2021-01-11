@@ -1,0 +1,37 @@
+6.11 Fallacies and Pitfalls 451
+Fallacies and Pitfalls
+Fallacy: Pipelining is easy.
+Our books testify to the subtlety of correct pipeline execution. Our advanced
+book had a pipeline bug in its first edition, despite its being reviewed by more
+than 100 people and being class-tested at 18 universities. The bug was uncovered
+only when someone tried to build the computer in that book. The fact that the
+Verilog to describe a pipeline like that in the Pentium 4 will be thousands of lines
+is an indication of the complexity. Beware!
+Fallacy: Pipelining ideas can be implemented independent oftechnology.
+When the number of transistors on-chip and speed of transistors made a five 
+stage pipeline the best solution, then the delayed branch (see the Elaboration on
+page 423) was a simple solution to control hazards. With longer pipelines, super 
+scalar execution, and dynamic branch prediction, it is now redundant. In the early
+I990s, dynamic pipeline scheduling took too many resources and was not
+required for high performance, but as transistor budgets continued to double and
+logic became much faster than memory, then multiple functional units and
+dynamic pipelining made more sense. Today, all high-end processors use multiple
+issue, and most choose to implement aggressive speculation as well.
+Pitfall: Failure to consider instruction set design can adversely impact pipelining.
+Many of the difficulties of pipelining arise because of instruction set complica 
+tions. Here are some examples:
+• Widely variable instruction lengths and running times ca n lead to imbal 
+ance among pipeline stages and severely complicate hazard detection in a
+design pipelined at the instruction set level. This problem was overcome,
+initially in the DEC VAX 8500 in the late 198Ds, using the micropipelined
+scheme that the Pentium 4 employs today. Of course, the overhead of trans 
+lation and maintaining correspondence between the microoperations and
+the actual instructions remains.
+• Sophisticated addressing modes can lead to different sorts of problems.
+Addressing modes that update registers, such as update addressing (see
+Chapter 3), complicate hazard detection. Other addressing modes that
+require multiple memory accesses substantially complicate pipeline control
+and make it difficult to keep the pipeline flowing smoothly.
+Perhaps the best example is the DEC Alpha and the DEC NVAX. In comparable
+technology, the newer instruction set architecture of the Alpha allowed an imple 
+mentation whose performance is more than twice as fast as NVAX. In another

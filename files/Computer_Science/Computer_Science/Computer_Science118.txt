@@ -1,0 +1,25 @@
+102 Chapter 2 Instructions: Language of the Computer
+Decoding Machine Code
+EXAMPLE What is the assembly language statement corresponding to this machine
+instruction?
+OOaf8020hex
+The first step in converting hexadecimal to binary is to find the op fields:
+ANSWER
+(Bits: 31 28 26 5 2 0)
+0000 0000 1010 1111 1000 0000 0010 0000
+We look at the op field to determine the operation. Referring to Figure 2.25,
+when bits 31-29 are 000 and bits 28-26 are 000, it is an R-format instruction.
+Let's reformat the binary instruction into R-format fields, listed in Figure 2.26:
+op " rt cd shamt funct
+000000 00101 01111 10000 00000 100000
+The bottom portion of Figure 2.25 determines the operation of an R-format
+instruction. In this case, bits 5-3 are 100 and bits 2-0 are 000, which means
+this binary pattern represents an add instruction.
+We decode the rest of the instruction by looking at the field values. The deci 
+mal values are 5 for the rs field, 15 for rt, 16 for rd (shamt is unused). Figure
+2.18 says these numbers represent registers $a1, $t 7, and $s O. Now we can
+show the assembly instruction:
+add $sO , $al , $t 7
+Figure 2.26 shows all the MIPS instruction formats. Figure 2.27 shows the
+MIPS assembly language revealed in Chapter 2; the remaining hidden portion
+of MIPS instructions deals mainly w ith arithmetic covered in the next chapter.

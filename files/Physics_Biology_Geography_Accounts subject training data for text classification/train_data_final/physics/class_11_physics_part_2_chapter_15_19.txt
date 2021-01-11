@@ -1,0 +1,113 @@
+386
+
+PHYSICS
+
+reference frame of the moving observer. In this
+reference frame the source and medium are
+approaching at speed 1),, and the speed with
+which the wave approaches is 1),, + v. Following
+a similar procedure as in the previous case, we
+find that the time interval between the arrival
+of the first and the (n+1) th crests is
+
+nvOT0
+v0 + v
+
+ 
+
+t+1—t1 = nTO—
+
+n
+
+The observer thus, measures the period of the
+wave to be
+
+ 
+
+giving
+
+v = V0(1+ —] (15.53)
+
+D
+If :0 is small, the Doppler shift is almost same
+
+whether it is the observer or the source moving
+since Eq. (15.53) and the approximate relation
+Eq. (15.51 ) are the same.
+
+15.8.3 Both Source and Observer Moving
+
+We will now derive a general expression for
+Doppler shift when both the source and the
+observer are moving. As before, let us take the
+direction from the observer to the source as the
+positive direction. Let the source and the
+observer be moving with velocities us and v0
+respectively as shown in Fig. 15.18. Suppose at
+time t = O, the observer is at O1 and the source
+is at SI, 01 being to the left of SI. The source
+emits a wave of velocity v, of frequency v and
+period TO all measured by an observer at rest
+with respect to the medium. Let L be the
+distance between 01 and S1 at t= 0, when the
+source emits the first crest. Now, since the
+observer is moving, the velocity of the wave
+relative to the observer is v+ vo. Therefore, the
+first crest reaches the observer at time t1 = L/
+(U + v0). At time t = To, both the observer and the
+source have moved to their new positions 02 and
+82 respectively. The new distance between the
+observer and the source, 02 82, would be
+L+(vS—v0) To]. At 82, the source emits a
+second crest.
+
+2019-20
+
+ 
+
+   
+
+Fig. 1 5. 1 8 Doppler effect when both the source and
+observer are moving with different
+velocities.
+
+Application of Doppler effect
+
+The change in frequency caused by a moving object
+due to Doppler effect is used to measure their
+velocities in diverse areas such as military.
+medical science. astrophysics. etc. It is also used
+by police to check over—speeding of vehicles.
+
+A sound wave or electromagnetic wave of
+known frequency is sent towards a moving object.
+Some part of the wave is reﬂected from the object
+and its frequency is detected by the monitoring
+station. This change in frequency is called Doppler
+shift.
+
+It is used at airports to guide aircraft. and in
+the military to detect enemy aircraft.
+Astrophysicists use it to measure the velocities
+of stars.
+
+Doctors use it to study heart beats and blood
+ﬂow in different parts of the body. Here they use
+ulltrasonic waves, and in common practice. it is
+called sonography. Ultrasonic waves enter the
+body of the person. some of them are reﬂected
+back. and give information about motion of blood
+and pulsation of heart valves, as well as pulsation
+of the heart of the foetus. In the case of heart.
+the picture generated is called echocardiogram.
+
+This reaches the observer at time.
+t2 = To + [L + (vS — vo)To)] /(v + DD)
+
+At time nTo the source emits its (n+1) th crest
+and this reaches the observer at time
+
+tn+1 = nTo + [L + n (vS — vo)ToH /(v + v0)
+Hence, in a time interval tn+1 —t1, i.e.,
+
+nTo+ [L+ n(vs— vo)To)] /(v+ v0) —L/(v+ v0),

@@ -1,0 +1,89 @@
+Dual Nature of Radiation
+and Mo’r’rer
+bLL
+p mv
+
+Mass, m = h/xlv
+For an electron, mass me = h/xle ve
+
+Now, we have v/ve = 3 and
+,t/ze = 1.813 x 10‘4
+
+A, ve
+Then, mass of the particle, m = me (7] [j]
+
+m= (9.11x1o-31 kg) x (1/3) x (1/1.813 x 104*)
+m = 1.675 x 10‘27 kg.
+Thus, the particle, with this mass could be a proton or a neutron.
+
+Example 11.7 What is the de Broglie wavelength associated with an
+electron, accelerated through a potential differnece of 100 volts?
+
+Solution Accelerating potential V = 100 V. The de Broglie wavelength
+
+A is
+1.227
+
+x1 = h =— nm
+/P x/V {‘1
+1.227 g
+l =— nm = 0.123 nm r'
+\/100 I"
+The de Broglie wavelength associated with an electron in this case is of E
+the order of X—ray wavelengths. K]
+
+1 1.9 DAVISSON AND GERMER EXPERIMENT
+
+The wave nature of electrons was ﬁrst experimentally veriﬁed by C.J.
+Davisson and L.H. Germer in 1927 and independently by GP. Thomson,
+in 1928, who observed
+
+diffraction effects with beams of
+
+electrons scattered by crystals. ‘ M7Lil' +
+
+Davisson and Thomson shared - -
+the Nobel Prize in 1937 for their
+experimental discovery of
+
+ 
+
+diffraction of electrons by
+
+crystals. A Electron Beam /Nickel
+The experimental arrange- ___ , __._,_-_ _. Target
+
+ment used by Davisson and |—' 0 ’
+
+        
+        
+   
+
+Germer is schematically shown
+in Fig. 11.7. It consists of an
+electron gun which comprises of
+a tungsten filament F, coated
+with barium oxide and heated
+by a low voltage power supply
+(L.T. or battery). Electrons
+
+emitted by the filament are FIGURE 11.7 Davissoanermer electron
+accelerated to a desired velocity diffraction arrangement.
+
+gun
+
+/ Diffracted KVacuum
+
+electron Chamb er
+beam
+
+Movable —>
+collector
+
+ 
+
+To galvanometer
+
+403
+
+2019-20

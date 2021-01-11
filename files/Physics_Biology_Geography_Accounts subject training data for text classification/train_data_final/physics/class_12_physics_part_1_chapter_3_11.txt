@@ -1,0 +1,85 @@
+i Physics
+
+ 
+
+.0
+,4;
+
+Resistivity )2 (1 04-h m)
+0
+[Q
+
+0 50 100 150
+
+Temperature T (K) —>
+
+FIGURE 3.9
+Resistivity p7. of
+copper as a function
+of temperature T.
+
+104
+
+For metals, ais positive and values of a for some metals at T0 = 0°C are
+listed in Table 3.1.
+
+The relation of Eq. (3.26) implies that a graph of pT plotted against T
+would be a straight line. At temperatures much lower than 0°C, the graph,
+however, deviates considerably from a straight line (Fig. 3.9).
+
+Equation (3.26) thus, can be used approximately over a limited range
+of T around any reference temperature To, where the graph can be
+approximated as a straight line.
+
+E
+31.20 ’0
+as
+E
+3: 1.10
+.2
+3
+m 1.00
+200 400 600 800
+Temperature T(K) A T
+FIGURE 3.10 Resistivity FIGURE 3.11
+p,,. of nichrome as a Temperature dependence
+function of absolute of resistivity for a typical
+temperature T. semiconductor.
+
+Some materials like Nichrome (which is an alloy of nickel, iron and
+chromium) exhibit a very weak dependence of resistivity with temperature
+(Fig. 3.10). Manganin and constantan have similar properties. These
+materials are thus widely used in wire bound standard resistors since
+their resistance values would change very little with temperatures.
+
+Unlike metals, the resistivities of semiconductors decrease with
+increasing temperatures. A typical dependence is shown in Fig. 3.1 1.
+
+We can qualitatively understand the temperature dependence of
+resistivity, in the light of our derivation of Eq. (3.23). From this equation,
+resistivity of a material is given by
+
+_1_ m
+_—_ 2
+0' net
+
+ 
+
+(3.27)
+
+p thus depends inversely both on the number n of free electrons per unit
+volume and on the average time 1' between collisions. As we increase
+temperature, average speed of the electrons, which act as the carriers of
+current, increases resulting in more frequent collisions. The average time
+of collisions I, thus decreases with temperature.
+
+In a metal, n is not dependent on temperature to any appreciable
+
+extent and thus the decrease in the value of T with rise in temperature
+causes p to increase as we have observed.
+
+For insulators and semiconductors, however, n increases with
+temperature. This increase more than compensates any decrease in 1: in
+Eq.(3.23) so that for such materials, p decreases with temperature.
+
+2019-20

@@ -1,0 +1,45 @@
+1 32 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Solution:
+
+12% Debentures Account
+
+Dr. Cr.
+Date Particulars J .F. Amount Date Particulars J.F. Amount
+{Rs} {Rs}
+
+2017 Bank 10,00,000 2017 Balance b/d 10,00,000
+March 3 1 I _, 00, 000 March 3 1 10,00,000
+
+Debenture Redemption Fund Account
+
+Dr. Cr.
+Date Particulars J .F. Amount Date Particulars J.F. Amount
+{Rs} {Rs}
+2017
+
+10,30,000 2017 balance b/d
+March 3 1 Debenture
+Redemption Fund
+Investment
+
+ 
+
+10,30,000
+
+ 
+
+Debenture Redemption Fund Investment Account
+
+W-W-
+moms}
+Balance b/d Bank (9% Loan)
+9% Loan 3,80,000 March 3 1 Bank
+8% Govt.Paper (8% Govt.Paper)
+March 3 1 Debenture
+Redempﬁon
+
+Fund
+
+10,30,000 10,30,000
+=

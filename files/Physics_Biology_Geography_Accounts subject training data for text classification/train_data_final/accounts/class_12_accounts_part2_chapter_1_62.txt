@@ -1,0 +1,52 @@
+Accounting for Share Capital 6 3
+
+cumulatively called ‘Unpaid calls’ or ‘Calls in Arrears’. However, it is not mandatory
+for a company to maintain a separate Calls-in-Arrears Account. There are also
+instances where some shareholders consider it discreet to pay a part or whole of
+the amount not yet called-up on the shares allotted to them. Any amount paid by
+a shareholder in the excess of the amount due from him on allotment/ call (calls) is
+known as ‘Calls in Advance’ for which a separate account is maintained. A company
+has the power to charge interest on calls in arrears and is under an obligation to
+pay interest on calls-in-advance if it accepts them in accordance with the provisions
+of Articles of Association.
+
+Over Subscription: It is possible for the shares of some companies to be over
+subscribed which means that applications for more shares are received than the
+number offered for subscription.
+
+If the amount of minimum subscription is not received to the extent of 90%, the
+issue dissolves. In case the applications received are less than the number of
+shares offered to the public, the issue is termed as ‘under subscribed’.
+
+Issue of Shares at Premium: Irrespective of the fact that shares have been issued for
+consideration other than cash, they can be issued either at par or at premium.
+The issue of shares at par implies that the shares have been issued for an amount
+exactly equal to their face or nominal value. In case shares are issued at a premium,
+i.e. at an amount more than the nominal or par value of shares, the amount of
+premium is credited to a separate account called ‘Securities Premium Reserve
+Account’, the use of which is strictly regulated by law.
+
+Issue of Shares at Discount: Shares can as well be issued at a discount, i.e. for an
+amount less than the nominal or par value of shares provided the company fully
+complies with the provisions laid down by law with regard to the same. Apart from
+such compliance, shares of a company cannot ordinarily be issued at a discount.
+According to the Companies Act, 2013, only sweat equity shares can be issued at
+a discount. When shares are issued at a discount, the amount of discount is debited
+to ‘Discount on Issue of Share Account’, which is in the nature of capital loss for
+the company.
+
+Forfeiture of Shares: Sometimes, shareholders fail to pay one or more instalments
+on shares allotted to them. In such a case, the company has the authority to forfeit
+shares of the defaulters. This is called ‘Forfeiture of Shares’. Forfeiture means the
+cancellation of allotment due to breach of contract and to treat the amount already
+received on such shares as forfeited to the company. The precise accounting
+treatment of share forfeiture depends upon the conditions on which the shares
+have been issued — at par, premium or discount. Generally speaking, accounting
+treatment on forfeiture is to reverse the entries passed till the stage of forfeiture,
+the amount already received on the shares being credited to Forfeiture Shares
+Account.
+
+Reissue of Shares: The management of a company is vested with the power to
+reissue the shares once forfeited by it, subject of course, to the terms and conditions
+in the articles of association relating to the same. The shares can be reissued even
+at a discount provided the amount of discount allowed does not exceed the credit

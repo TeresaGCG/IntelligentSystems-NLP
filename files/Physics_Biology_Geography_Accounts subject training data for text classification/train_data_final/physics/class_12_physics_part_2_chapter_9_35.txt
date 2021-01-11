@@ -1,0 +1,86 @@
+344
+
+l Physics
+
+9.1
+
+9.2
+
+9.3
+
+9.4
+
+9.5
+
+9.6
+
+9.7
+9.8
+
+9.9
+
+ 
+
+ 
+
+ 
+
+EXERCISES
+
+A small candle, 2.5 cm in size is placed at 27 cm in front of a concave
+mirror of radius of curvature 36 cm. At what distance from the mirror
+should a screen be placed in order to obtain a sharp image? Describe
+the nature and size of the image. If the candle is moved closer to the
+mirror, how would the screen have to be moved?
+
+A 4.5 cm needle is placed 12 cm away from a convex mirror of focal
+length 15 cm. Give the location of the image and the magnification.
+Describe what happens as the needle is moved farther from the mirror.
+A tank is filled with water to a height of 12.5 cm. The apparent
+depth of a needle lying at the bottom of the tank is measured by a
+microscope to be 9.4 cm. What is the refractive index of water? If
+water is replaced by a liquid of refractive index 1.63 up to the same
+height, by what distance would the microscope have to be moved to
+focus on the needle again?
+
+Figures 9.31(a) and (b) show refraction of a ray in air incident at 60°
+with the normal to a glass-air and water-air interface, respectively.
+Predict the angle of refraction in glass when the angle of incidence
+in water is 45° with the normal to a water-glass interface [Fig. 9.3 1 (c)].
+
+ 
+
+Air
+Glass 35 ° 60.
+Air 0
+60 Water 470
+(a) (bl
+FIGURE 9.3 1
+
+A small bulb is placed at the bottom of a tank containing water to a
+depth of 80cm. What is the area of the surface of water through
+which light from the bulb can emerge out? Refractive index of water
+is 1.33. (Consider the bulb to be a point source.)
+
+A prism is made of glass of unknown refractive index. A parallel
+beam of light is incident on a face of the prism. The angle of minimum
+deviation is measured to be 40°. What is the refractive index of the
+material of the prism? The refracting angle of the prism is 60°. If the
+prism is placed in water (refractive index 1.33), predict the new
+angle of minimum deviation of a parallel beam of light.
+
+Double-convex lenses are to be manufactured from a glass of
+refractive index 1.55, with both faces of the same radius of
+curvature. What is the radius of curvature required if the focal length
+is to be 20cm?
+
+A beam of light converges at a point P. Now a lens is placed in the
+path of the convergent beam 12cm from P. At what point does the
+beam converge if the lens is (a) a convex lens of focal length 20 cm,
+and (b) a concave lens of focal length 16cm?
+
+An object of size 3.0cm is placed 14cm in front of a concave lens of
+focal length 21cm. Describe the image produced by the lens. What
+happens if the object is moved further away from the lens?
+
+2019-20

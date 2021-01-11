@@ -1,0 +1,32 @@
+5.4 A Simple Implementation Scheme 313
+Now, let's add the jump instruction to show how the basic datapath and con 
+trol can be extended to handle other instructions in the instruction set.
+Implementing Jumps
+Figure 5.1 7 on page 307 shows the implementation of many of the instruc  EXAMPLE
+tions we looked at in Chapter 2. One class of instructions missing is that of
+the jump instruction. Extend the datapath and control of Figure 5.1 7 to in 
+clude the jump instruction. Describe how to set any new control lines.
+The jump instruction looks somewhat like a branch instruction but com  ANSWER
+putes the target PC differently and is not conditional. Like a branch, the low 
+order 2 bits of a jump address are always The next lower 26 bits of this
+ootwo.
+32-bit address come from the 26-bit immediate field in the instruction, as
+shown in Figure 5.23. The upper 4 bits of the address that should replace the
+PC come from the PC of the jump instruction plus 4. Thus, we can imple 
+ment a jump by storing into the PC the concatenation of
+• the upper 4 bits of the current PC + 4 (these are bits 31:28 of the se 
+quentially following instruction address)
+• the 26-bit immediate field of the jump instruction
+• the bits
+OOtwo
+Figure 5.24 shows the addition of the control for jump added to Figure 5.1 7.
+An additional multiplexor is used to select the source for the new PC value,
+which is either the incremented PC (PC + 4), the branch target PC, or the
+jump target Pc. One additional control signal is needed for the additional
+multiplexor. This control signal, called jump, is asserted only when the in 
+struction is a jump- that is, when the opcade is 2.
+Field 000010 add r ess
+Bit positions 31:26 25:0
+FtGURE 5.23 Instruction format for the jump Instruction (opcode _ 2). The destination
+address for a jump instruction is formed by concatenating the upper 4 bits ofthe current PC + 4 to the
+26-bit address field in the jump instruction and adding 00 as the 2 low-order bits.

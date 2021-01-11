@@ -1,0 +1,45 @@
+Issue and Redemption of Debentures 83
+
+Illustration 5
+
+X Limited Issued 10,000, 12% debentures of Rs 100 each payable Rs 40 on
+application and Rs 60 on allotment. The public applied for 14,000 debentures.
+Applications for 9,000 debentures were accepted in full; applications for 2,000
+debentures were allotted 1,000 debentures and the remaining applications, were
+rejected. All money was duly received. J oumalise the transactions.
+
+Solution:
+
+Books of X Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(Rs) (Rs)
+
+Bank A/c Dr. 5.60.000
+To 12% Debenture Application A/c 5.60.000
+
+(Receipt of application money on 14,000
+debentures)
+
+12% Debenture Application A/c . 5.60.000
+To 12% Debentures A/c 4.00.000
+To Debentures Allotment A/c 40.000
+To Bank A/c 1.20.000
+
+(Debenture Application money transferred
+
+to Debenuture A/c. Excess application money
+
+credited to Debenture Allotment account and
+
+money refunded on rejected application)
+
+12% Debenture AlloUnent A/c Dr. 6.00.000
+To 12% Debentures A/c 6.00.000
+(Amount due on allotment on 10,000 debentures)
+
+Bank A/c . 5.60.000
+To Debenture Allotment A/c 5.60.000
+(AlloiInent money received)

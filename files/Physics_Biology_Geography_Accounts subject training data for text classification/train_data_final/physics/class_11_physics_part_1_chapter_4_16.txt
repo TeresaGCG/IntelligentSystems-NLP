@@ -1,0 +1,103 @@
+MOTION IN A PLANE
+
+81
+
+U
+
+aC = [R] v = v2/R (4.44)
+
+Thus, the acceleration of an object moving with
+speed 1) in a circle of radius R has a magnitude
+
+v2 / R and is always directed towards the centre.
+This is why this acceleration is called centripetal
+acceleration (a term proposed by Newton). A
+thorough analysis of centripetal acceleration was
+first published in 1673 by the Dutch scientist
+Christiaan Huygens (1629-1695) but it was
+probably known to Newton also some years earlier.
+“Cent1ipetal” comes ﬁom a Greek term which means
+‘centre-seeln‘ng’. Since 1) and R are constant, the
+magnitude of the centripetal acceleration is also
+constant. However, the direction changes —
+pointing always towards the centre. Therefore, a
+centripetal acceleration is not a constant vector.
+
+We have another way of describing the
+velocity and the acceleration of an object in
+uniform circular motion. As the object moves
+from P to P’ in time At (= t’ — t), the line CP
+(Fig. 4.19) turns through an angle A0 as shown
+in the figure. A0 is called angular distance. We
+define the angular speed a) (Greek letter omega)
+as the time rate of change of angular
+displacement :
+
+w: _
+At (4.45)
+
+Now, if the distance travelled by the object
+during the time At is As, i.e. PP’is As, then :
+
+As
+v = —
+At
+but As = R A6. Therefore :
+A6
+1) = R— = R a)
+At
+v = R a) (4.46)
+
+We can express centripetal acceleration aC in
+terms of angular speed :
+
+v2 (02R2 2
+aC = — = — = a) R
+R R
+a =sz (4.47)
+
+The time taken by an object to make one revolution
+is known as its time period Tand the number of
+revolution made in one second is called its
+frequency v (= 1 / T). However, during this time the
+distance moved by the object is s = 27rR.
+
+Therefore, 1) = 27cR/ T =27ch (4.48)
+In terms of frequency v, we have
+a) = 27w
+v = 275Rv
+ac = 47:2 v2R (4.49)
+
+ 
+
+} Example 4.10 An insect trapped in a
+circular groove of radius 12 cm moves along
+the groove steadily and completes 7
+revolutions in 100 s. (a) What is the
+angular speed, and the linear speed ol‘the
+motion? (b) Is the acceleration vector a
+constant vector ? What is its magnitude ’?
+
+ 
+
+Answer This is an example of uniform circular
+motion. Here R = 12 cm. The angular speed a) is
+given by
+
+a) = 2Tc/T= 27: X 7/100 = 0.44 rad/s
+The linear speed v is :
+
+v =0) R = 0.44 s1 X 12 cm = 5.3 cm s1
+
+The direction of velocity v is along the tangent
+to the circle at every point. The acceleration is
+directed towards the centre of the circle. Since
+this direction changes continuously,
+acceleration here is not a constant vector.
+However, the magnitude of acceleration is
+constant:
+
+a= a)2 R: (0.44 S'1)2 (12 em)
+= 2.3 cm s2 4
+
+2019-20

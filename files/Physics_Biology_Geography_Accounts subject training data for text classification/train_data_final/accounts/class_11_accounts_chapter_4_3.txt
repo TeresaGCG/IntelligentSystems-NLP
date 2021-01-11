@@ -1,0 +1,58 @@
+102 Accountancy
+
+Books of Roopa Traders
+Gurrneet’s Account
+
+Dr. Cr.
+Date Particulars J. F. Amount Date Particulars J. F. Amount
+? 7
+20 1 7
+Nov.04 Cash 12,000
+
+Sales Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? 7
+Cash 28,000
+Cash 1 8,200
+
+Insurance Account
+
+Dr. Cr.
+? 7
+2017
+Nov. 08 Cash 6,000
+
+Furniture Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+- - I - _ I
+20 1 7
+
+Nov. 13 Cash 13,800
+
+Purchases Account
+
+Dr. Cr.
+7 7
+2017
+Nov. 1 7 Cash 1 7,400
+
+Stationery Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+--I- -_I-
+20 1 7
+Nov. 20 Cash 1 , 100
+
+   
+   
+   
+   
+   
+   
+
+2019-2020

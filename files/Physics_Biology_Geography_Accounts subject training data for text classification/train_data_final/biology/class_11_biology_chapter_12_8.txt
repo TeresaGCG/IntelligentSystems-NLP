@@ -1,0 +1,57 @@
+202
+
+ 
+
+BIOLOGY
+
+called biological nitrogen ﬁxation. The enzyme, nitrogenase which is
+capable of nitrogen reduction is present exclusively in prokaryotes. Such
+microbes are called N2" ﬁxers.
+
+Nitrogenase
+
+NEN NHS
+
+The nitrogen-ﬁxing microbes could be free-living or symbiotic. Examples
+of free-living nitrogen-ﬁxing aerobic microbes are Azotobacter and
+Beyerinckia while Rhodospirillum is anaerobic and free-living. In addition,
+a number of cyanobacteria such as Anabaena and Nostoc are also free-
+living nitrogen-fixers.
+
+Symbiotic biological nitrogen ﬁxation
+
+Several types of symbiotic biological nitrogen ﬁxing associations are known.
+The most prominent among them is the legume-bacteria relationship.
+Species of rod-shaped Rhizobium has such relationship with the roots of
+several legumes such as alfalfa, sweet clover, sweet pea, lentils, garden pea,
+broad bean, clover beans, etc. The most common association on roots is
+as nodules. These nodules are small outgrowths on the roots. The microbe,
+Frankia, also produces nitrogen-ﬁxing nodules on the roots of non-
+leguminous plants (e.g., Alnus). Both Rhizobium and Frankia are free-
+living in soil, but as symbionts, can ﬁx atmospheric nitrogen.
+
+Uproot any one plant of a common pulse, just before ﬂowering. You
+will see near-spherical outgrowths on the roots. These are nodules. If
+you cut through them you will notice that the central portion is red or
+pink. What makes the nodules pink? This is due to the presence of
+leguminous haemoglobin or leg-haemoglobin.
+
+Nodule Formation
+
+Nodule formation involves a sequence of multiple interactions between
+Rhizobium and roots of the host plant. Principal stages in the nodule
+formation are summarised as follows:
+
+Rhizobia multiply and colonise the surroundings of roots and get attached
+to epidermal and root hair cells. The root-hairs curl and the bacteria invade
+the root-hair. An infection thread is produced carrying the bacteria into
+the cortex of the root, where they initiate the nodule formation in the cortex
+of the root. Then the bacteria are released from the thread into the cells
+which leads to the differentiation of specialised nitrogen ﬁxing cells. The
+nodule thus formed, establishes a direct vascular connection with the host
+for exchange of nutrients. These events are depicted in Figure 12.4.
+
+The nodule contains all the necessary biochemical components, such
+as the enzyme nitrogenase and leghaemoglobin. The enzyme nitrogenase
+is a Mo-Fe protein and catalyses the conversion of atmospheric nitrogen
+to ammonia, (Figure 12.5) the ﬁrst stable product of nitrogen ﬁxation.

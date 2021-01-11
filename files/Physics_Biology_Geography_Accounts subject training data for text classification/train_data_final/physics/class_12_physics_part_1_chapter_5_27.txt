@@ -1,0 +1,102 @@
+200
+
+i Physics
+
+ 
+
+ 
+
+ 
+
+EXERCISES
+
+5.1 Answer the following questions regarding earth’s magnetism:
+
+(a)
+
+(b)
+
+(C)
+
+(d)
+
+(f)
+
+A vector needs three quantities for its specification. Name the
+three independent quantities conventionally used to specify the
+earth’s magnetic field.
+
+The angle of dip at a location in southern India is about 18°.
+Would you expect a greater or smaller dip angle in Britain?
+
+If you made a map of magnetic field lines at Melbourne in
+Australia, would the lines seem to go into the ground or come out
+of the ground?
+
+In which direction would a compass free to move in the vertical
+plane point to, if located right on the geomagnetic north or south
+pole?
+
+The earth’s field, it is claimed, roughly approximates the field
+due to a dipole of magnetic moment 8 X 1022 J T1 located at its
+centre. Check the order of magnitude of this number in some
+way.
+
+Geologists claim that besides the main magnetic N-S poles, there
+are several local poles on the earth’s surface oriented in different
+directions. How is such a thing possible at all?
+
+5.2 Answer the following questions:
+
+(a)
+
+(b)
+
+(C)
+
+(d)
+
+(e)
+
+(f)
+
+The earth’s magnetic field varies from point to point in space.
+Does it also change with time? If so, on what time scale does it
+change appreciably?
+
+The earth’s core is known to contain iron. Yet geologists do not
+regard this as a source of the earth’s magnetism. Why?
+
+The charged currents in the outer conducting regions of the
+earth’s core are thought to be responsible for earth’s magnetism.
+What might be the ‘battery’ (i.e., the source of energy) to sustain
+these currents?
+
+The earth may have even reversed the direction of its field several
+times during its history of 4 to 5 billion years. How can geologists
+know about the earth’s field in such distant past?
+
+The earth’s field departs from its dipole shape substantially at
+large distances (greater than about 30,000 km). What agencies
+may be responsible for this distortion?
+
+Interstellar space has an extremely weak magnetic field of the
+order of 10’12 T. Can such a weak field be of any significant
+consequence? Explain.
+
+[Notez Exercise 5.2 is meant mainly to arouse your curiosity.
+Answers to some questions above are tentative or unknown. Brief
+answers wherever possible are given at the end. For details, you
+should consult a good text on geomagnetism.]
+
+5.3 A short bar magnet placed with its axis at 30° with a uniform external
+magnetic field of 0.25 T experiences a torque of magnitude equal to
+4.5 X 10’2 J. What is the magnitude of magnetic moment of the magnet?
+
+5.4 A short bar magnet of magnetic moment m = 0.32 J T51 is placed in a
+uniform magnetic field of 0.15 T. If the bar is free to rotate in the
+plane of the field, which orientation would correspond to its (a) stable,
+and (b) unstable equilibrium? What is the potential energy of the
+magnet in each case?
+
+2019-20

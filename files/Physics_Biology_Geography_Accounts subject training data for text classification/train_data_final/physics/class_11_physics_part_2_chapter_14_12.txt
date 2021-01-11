@@ -1,0 +1,116 @@
+OSCILLATIONS
+
+353
+
+Example 14.8 A 5 kg collar is attached
+to a spring of spring constant 500 N m'l. It
+slides without friction over a horizontal rod.
+The collar is displaced from its equilibrium
+
+position by 10.0 cm and released. Calculate
+(a) the period of oscillation.
+
+(b) the maximum speed and
+
+(c) maximum acceleration of the collar.
+
+ 
+
+Answer (a) The period of oscillation as given by
+Eq. (14.21) is,
+
+f I 5.0kg
+m _
+
+= _ —27r
+
+T 2” k 500Nm‘1
+
+= (27r/ 10) s
+= 0.63 s
+(b) The velocity of the collar executing SHM is
+given by,
+v(t) = —Aco sin (cot + (1))
+The maximum speed is given by,
+vm = Aw
+
+’k
+=O.1>< —
+m
+
+1
+
+5OON m—
+5 kg
+
+=O.l><
+
+= 1 m s-1
+and it occurs at x = O
+(c) The acceleration of the collar at the
+displacement x (t) from the equilibrium is
+given by,
+a(t) = —w2x(t)
+k
+
+= — — x{t)
+m
+
+Therefore, the maximum acceleration is,
+a = cozA
+
+max
+
+= 500 N m‘ 1
+5 kg
+= 10 m s-2
+
+and it occurs at the extremities. 4
+
+x0.1m
+
+14.8.2 The Simple Pendulum
+
+It is said that Galileo measured the periods of a
+swinging chandelier in a church by his pulse
+beats. He observed that the motion of the
+chandelier was periodic. The system is a kind
+
+of pendulum. You can also make your own
+pendulum by tying a piece of stone to a long
+unstretchable thread, approximately 100 cm
+long. Suspend your pendulum from a suitable
+support so that it is free to oscillate. Displace
+the stone to one side by a small distance and
+let it go. The stone executes a to and fro motion,
+it is periodic with a period of about two seconds.
+
+We shall show that this periodic motion is
+simple harmonic for small displacements from
+the mean position. Consider simple pendulum
+— a small bob of mass m tied to an inextensible
+massless string of length L. The other end of
+the string is fixed to a rigid support. The bob
+oscillates in a plane about the vertical line
+through the support. Fig. 14.18(a) shows this
+system. Fig. 14.18(b) is a kind of ‘free-body’
+diagram of the simple pendulum showing the
+forces acting on the bob.
+
+    
+
+/'
+
+Rigid Support
+
+ 
+
+(bl
+
+Fig. 14.18 (a) A bob oscillating about its mean
+position. (b) The radial force T-mg cost)
+provides centripetal force but no torque
+about the support. The tangential force
+mg sine provides the restoring torque.
+
+2019-20

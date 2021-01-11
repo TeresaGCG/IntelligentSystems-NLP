@@ -1,0 +1,43 @@
+CH6 Glossary
+action processing applications typically determined by the cause of the exception.
+have both response time requirements and a verilog One of the two most common
+performance measurement based on the hardware description languages.
+throughput of transactions. very large scale integrated (VLSI)
+transistor An on/off switch controlled by circuit A device containing hundreds of
+an electric signaL thousands to millions of transistors.
+translation-Iookaside buffer (TLB) A VHDL One of the two most common
+cache that keeps track of recently used ad  hardware description languages.
+dress mappings to avoid an access to the virtual address An address that corre 
+page table. sponds to a location in virtual space and is
+underflow (floating-point) A situation in translated by address mapping to a physical
+which a negative exponent becomes too address when memory is accessed.
+large to fit in the exponent field. virtual machine A virtual computer that
+units in the last place (ulp) The number of appears to have nondelayed branches and
+bits in error in theleast significant bits ofthe loads and a richer instruction set than the
+significand between the actual number and actual hardware.
+the number that can be prepresented. virtual memory A technique that uses
+unmapped A portion of the address space main memory as a "cache" for secondary
+that cannot have page faults. storage.
+unresolved refereO(;e A reference that re  virtually addressed cache A cache that is
+quires more information from an outside accessed with a virtual address rather than a
+source in order to be complete. physical address.
+untaken branch One that falls through to volatile memory Storage, such as DRAM,
+the successive instruction. A taken branch is that only retains data only ifit is receiving
+one that causes transfer to the branch target. power.
+user CPU time The CPU time spent in a wafer A slice from a silicon ingot no more
+program itself. than 0.1 inch thick, used to create chips.
+vacuum tube An electronic component, weighted arithmetic mean An average of
+predecessor of the transistor, that consists the execution time of a workload with
+ofa hollow glass tube about 5 to 10 cm long weighting factors designed to reflect the
+from which as much air has been removed presence of the programs in a workload;
+as possibleand which uses an electron beam computed as the sum of the products of
+to transfer data. weighting factors and execution times.
+valid bit A field in the tables of a memory wide area network A network extended
+hierarchy that indicates that the associated over hundredsofkilometers which can span
+block in the hierarchy contains valid data. a continent.
+vector processor An architecture and com  wire In Verilog, specifies a combinational
+piler model that was popularized by super  signaL
+computers in which high-level operations word The natural unit of access in a com 
+work on linear arrays of numbers. puter, usually a group of 32 bits; corre 
+vectored interrupt An interrupt for which sponds to the size of a register in the MIPS
+the address to which control istransferred is architecture.

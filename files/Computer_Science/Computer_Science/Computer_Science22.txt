@@ -1,0 +1,41 @@
+6 Chapter 1 Computer Abstractions and Technology
+or persollal digital assistant, the computers in a video game or digital television,
+and the networks of processors that control a modern airplane or cargo ship.
+Embedded computing systems are designed to run one application or one set of
+related applications, which is normally integrated with the hardware and delivered
+as a single system; thus, despite the large number of embedded computers, most
+users never really see that they are using a computer!
+Embedded applications often have unique application requirements that com 
+bine a minimum performance with stringent limitations on cost or power. For
+example, consider a cell phone: the processor need only be as fast as necessary to
+handle its limited function, and beyond that, minimizing cost and power are the
+most important objectives. Despite their low cost, embedded computers often
+have the least tolera nce for fa ilure, since the results ca n vary from upsetting (when
+your new television crashes) to devastating (such as might occur when the com 
+puter in a plane or car crashes). In consumer-oriented embedded applications,
+such as a digital home appliance, dependability is achieved primarily through
+simplicity-the emphasis is on doing one function, as perfectly as possible. In
+large embedded systems, techniques of redundancy, which are used in servers, are
+often employed. Although this book focuses on general-purpose computers, most
+of the concepts apply directly, or with slight modifications, to embedded comput 
+ers. In several places, we will touch on some of the unique aspects of embedded
+computers.
+Figure 1.1 shows that during the last several years, the growth in the number of
+embedded computers has been much faster (40% compounded annual growth
+rate) than the growth rate among desktop computers and servers (9% annually).
+Note that the embedded computers include cell phones, video garnes, digital TVs
+and set-top boxes, personal digital assistants, and a variety of such consumer
+devices. Note that this data does not include low-end embedded control devices
+that use 8-bit and 16-bit processors.
+Elaboration: Elaborations are short sections used throughout the text to provide
+more detail on a particular subject, which may be of interest. Disinterested readers
+may skip over an elaboration, since the subsequent material will never depend on the
+contents of the elaboration.
+Many embedded processors are designed using processor cores, a version of a pro 
+cessor written in a hardware description language such as Verilog or VHDL. The core
+allows a designer to integrate other application-specific hardware with the processor
+core for fabrication on a single chip. The availability of synthesis tools that can gener 
+ate a chip from a Verilog specification, together with the capacity of modern silicon
+chips, has made such special-purpose processors highly attractive. Since the core can
+be synthesized for different semiconductor manufacturing lines, using a core provides
+flexibility in choosing a manufacturer as well. In the last few years, the use of cores has

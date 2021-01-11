@@ -1,0 +1,90 @@
+WAVES
+
+389
+
+ 
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+When two or more waves traverse simultaneously in the same medium, the
+
+displacement of any element of the medium is the algebraic sum of the displacements
+due to each wave. This is known as the principle of superposition of waves
+
+y=ifi(x — vt)
+
+Two sinusoidal waves on the same string exhibit interference, adding or cancelling
+according to the principle of superposition. If the two are travelling in the same
+direction and have the same amplitude a and frequency but differ in phase by a phase
+constant (1), the result is a single wave with the same frequency (0:
+
+_ 1 . 1
+le, t) - [Zacosiqb] sm(kx—wt +E¢j
+
+If (1) = 0 or an integral multiple of 271', the waves are exactly in phase and the interference
+is constructive; if q) = 7:, they are exactly out of phase and the interference is destructive.
+
+A travelling wave, at a rigid boundary or a closed end, is reﬂected with a phase reversal
+but the reﬂection at an open boundary takes place without any phase change.
+
+For an incident wave
+yi[x, t) = asin [kx— cot]
+the reﬂected wave at a rigid boundary is
+y,(X. t] = — asin [kx+ cot)
+
+For reﬂection at an open boundary
+
+yr(x,t) = asin (kx+ cat)
+The interference of two identical waves moving in opposite directions produces standing
+waves. For a string with fixed ends, the standing wave is given by
+
+y[x, t) = [2a sin kx] cos cot
+
+Standing waves are characterised by fixed locations of zero displacement called nodes
+and fixed locations of maximum displacements called antinodes. The separation between
+two consecutive nodes or antinodes is M 2.
+
+A stretched string of length L fixed at both the ends vibrates with frequencies given by
+
+n v
+
+2 L ’
+The set of frequencies given by the above relation are called the normal modes of
+osciﬂation of the system. The oscillation mode with lowest frequency is called the
+
+fundamental mode or the ﬁrst hamonic. The second hamonic is the oscillation mode
+with n=2andso on.
+
+v : n=1,2,3,...
+
+A pipe of length L with one end closed and other end open (such as air columns)
+vibrates with frequencies given by
+
+v =(n+1/2) % n=0, 1,2,3,
+
+The set of frequencies represented by the above relation are the nomial modes of
+oscillation of such a system. The lowest frequency given by v/ 4L is the fundamental
+mode or the first harmonic.
+
+A string of length L fixed at both ends or an air column closed at one end and open at
+the other end or open at both the ends, vibrates with certain frequencies called their
+normal modes. Each of these frequencies is a resonant frequency of the system.
+
+Beats arise when two waves having slightly different frequencies, v1 and v2 and
+comparable amplitudes, are superposed. The beat frequency is
+
+V
+
+beat_ V1 N V2
+
+2019-20

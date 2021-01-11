@@ -1,0 +1,32 @@
+Homework Helpers: Basic Math and Pre-Algebra
+100
+To compare two decimal numbers, start by comparing their integral
+parts. If the two decimal numbers have the same integral part, start com-
+paring their fractional parts. To compare the fractional parts, start com-
+paring the digits immediately to the right of the decimal point and keep
+going right until one number wins.
+Example 1
+Compare: 10.56 and 8.37
+Solution: Compare the integral parts of the two numbers: The
+integral part of 10.56 is 10, and the integral part of 8.37 is 8. Clearly
+10.56 wins:
+10.56> 8.37
+Example 2
+Compare: 1.369 and 1.375
+Solution: Both numbers have the same integral part, so they tie,
+and we will need to compare the fractional parts. Start with the
+tenths’ place: Both numbers have a 3 in the tenths’ place, so they
+still tie. 1.369 has a 6 in the hundredths’ place and 1.375 has a 7 in
+the hundredths’ place, so 1.375 wins:
+1.369< 1.375
+Example 3
+Compare: 1.25 and 1.254
+Solution: Both numbers have the same integral part, so they tie,
+and we will need to compare the fractional parts. Start with the
+tenths’ place: Both numbers have a 2 in the tenths’ place, so they
+still tie. Both numbers have a 5 in the hundredths’ place, so they
+continue to tie. Now compare the digits in the thousandths’ place:
+1.25 has a 0 in the thousandths’ place and 1.254 has a 4 in the
+thousandths’ place, so 1.254 wins:
+1.25< 1.254
+www.ebook3000.com

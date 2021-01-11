@@ -1,0 +1,38 @@
+Inequalities and Graphs
+145
+that we are not allowed to do with equalities that we are allowed to do
+with inequalities. The differences in how we treat equalities and inequali-
+ties stems from the fact that equality is an equivalence relation, whereas
+inequalities are not.
+Lesson 8-2: Properties of Inequalities
+There are two ways that we can transform equations: We can add (or
+subtract) the same number to both sides of the equality, and we can
+multiply (or divide) both sides of the equation by the same number. These
+transformations are allowed because of the addition property of equality
+and the multiplication property of equality. Inequalities actually have
+two addition properties and a restricted multiplication property.
+The first addition property of inequality states that if a > b, then
+a + c > b +  c. To understand this property, let’s go back to our example
+with money. Suppose I have $25 and you have $5. If someone gives us
+each $5, then I will still have more money than you. I will have $30 and
+you will have $10. We will both be richer, but I’ll still be richer than you.
+The second addition property of inequality states that if a > b and
+c > d, then a+ c>b+  d. Again, this is not surprising. Suppose I have $25
+and you have $5. If some kind person gives me $10 and you $5, then I will
+definitely still have more money than you.
+The only thing you are not allowed to do is try to correct the inequal-
+ity by trying to balance things out. Either you give the same amount to
+both sides of the inequality (the first addition property) or you increase
+the imbalance by giving more to “haves” then you do to the “have nots”
+(the second addition property). You are not allowed to try to make up
+for any injustice by giving more to the “have nots.” It may not seem fair,
+but that’s the way it is. That’s why they are called inequalities.
+The restricted multiplication property of inequalities is also fairly
+clear. It states that if a>b and c> 0, then a⋅ c>b⋅ c. The restriction that
+the number that you multiply by must be positive is very important, and
+it is worth looking at in more detail.
+Consider the inequality 0 < 1. Suppose that we wanted to multiply
+both sides of this inequality by a negative number; let’s multiply both
+sides of the inequality 0 < 1 by −1. On the left hand side of the inequality,
+you would have 0 ⋅ (−1), which is 0. On the right hand side of the inequal-
+ity, you would have 1 ⋅ (−1), which is −1. Now, how does 0 compare to −1?

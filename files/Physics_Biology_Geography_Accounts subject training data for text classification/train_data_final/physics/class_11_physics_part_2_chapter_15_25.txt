@@ -1,0 +1,79 @@
+392
+
+15.11
+
+15.12
+
+15.13
+
+15.14
+
+15.15
+
+15.16
+
+15.17
+
+15.18
+
+where xand y are in cm and tin s. Calculate the phase difference between oscillatory
+motion of two points separated by a distance of
+
+(a) 4 m.
+(b) 0.5 m,
+(C) M2.
+[d] 31/ 4
+The transverse displacement of a string [clamped at its both ends) is given by
+27:
+y[x, t] = 0.06 sin (3X) cos [120 711]
+
+where x and y are in m and tin s. The length of the string is 1.5 m and its mass is
+3.0 X 10’2 kg.
+
+Answer the following :
+[a] Does the function represent a travelling wave or a stationary wave?
+
+[b] Interpret the wave as a superposition of two waves travelling in opposite
+directions. What is the wavelength, frequency, and speed of each wave ?
+
+[c] Determine the tension in the string.
+
+[i] For the wave on a string described in Exercise 15.1 1, do all the points on the
+string oscillate with the same [a] frequency, [b] phase, (0) amplitude? Explain
+your answers. (ii) What is the amplitude of a point 0.375 m away from one end?
+
+Given below are some functions of xand tto represent the displacement [transverse
+or longitudinal] of an elastic wave. State which of these represent [i] a travelling
+wave, [ii] a stationary wave or (iii) none at all:
+
+[a] y = 2 cos [3x) sin [100
+
+[b] y =2xlx — vt
+[c] y = 3 sin [5x— 0.5t) + 4 cos (5x— 0.5t)
+
+[d] y = cos xsin t+ cos 2x sin 2t
+
+A wire stretched between two rigid supports vibrates in its fundamental mode with
+a frequency of 45 Hz. The mass of the wire is 3.5 X 10’2 kg and its linear mass density
+is 4.0 X 10‘2 kg m‘l. What is (a) the speed of a transverse wave on the string, and
+[b] the tension in the string?
+
+A metre—long tube open at one end, with a movable piston at the other end, shows
+resonance with a fixed frequency source (a tuning fork of frequency 340 Hz] when
+the tube length is 25.5 cm or 79.3 cm. Estimate the speed of sound in air at the
+temperature of the experiment. The edge effects may be neglected.
+
+A steel rod 100 cm long is clamped at its middle. The fundamental frequency of
+longitudinal vibrations of the rod are given to be 2.53 kHz. What is the speed of
+sound in steel?
+
+A pipe 20 cm long is closed at one end. Which harmonic mode of the pipe is
+resonantly excited by a 430 Hz source ? Will the same source be in resonance with
+the pipe if both ends are open? [speed of sound in air is 340 m s4].
+
+Two sitar strings A and B playing the note ‘Ga’ are slightly out of tune and produce
+beats of frequency 6 Hz. The tension in the string A is slightly reduced and the
+
+2019-20
+
+PHYSICS

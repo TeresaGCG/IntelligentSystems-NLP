@@ -1,0 +1,22 @@
+Monomials and Polynomials
+207
+Lesson 11-2: Multiplying and Dividing Monomials
+Whenever you multiply monomials you must make use of the rules
+for exponents discussed in Chapter 4. Some of those rules are worth
+mentioning again:
+Multiplying and dividing monomials is a bit more relaxed than adding
+and subtracting them. The variables that are involved in the monomials
+can be raised to different powers. All that matters is that the only opera-
+tions involved in the expression are multiplication or division.
+When you multiply monomials you must multiply the constants to-
+gether and then focus on each variable involved in the product. Use your
+rules for how to handle exponents and you can’t go wrong.
+Example 1
+Simplify the following expressions:
+a.
+b.
+c.
+d.
+Solution:
+a.
+b.

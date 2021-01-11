@@ -1,0 +1,23 @@
+Pioneers of Thermodynamics
+
+Lord Kelvin (William Thomson) (1824-1907), born in Belfast. Ireland. is
+among the foremost British scientists of the nineteenth century. Thomson
+played a key role in the development of the law of conservation of energy
+suggested by the work of James Joule (1818—1889). Julius Mayer (1814—
+1878) and Hermann Helmholtz (1821—1894). He collaborated with Joule
+on the so—called Joule-Thomson effect : cooling of a gas when it expands
+into vacuum. He introduced the notion of the absolute zero of temperature
+and proposed the absolute temperature scale. now called the Kelvin scale
+in his honour. From the work of Sadi Carnot [1796- 1832). Thomson arrived
+at a form of the Second Law of Thermodynamics. Thomson was a versatile
+physicist. with notable contributions to electromagnetic theory and
+hydrodynamics.
+
+Rudolf Clausius (1822-1888). born in Poland. is generally regarded as
+the discoverer of the Second Law of Thermodynamics. Based on the work
+of Caniot and Thomson. Clausius arrived at the important notion of entropy
+that led him to a fundamental version of the Second Law of
+Thermodynamics that. states that the entropy of an isolated system can
+never decrease. Clausius also worked on the kinetic theory of gases and
+obtained the first reliable estimates of molecular size. speed. mean free
+path. etc.

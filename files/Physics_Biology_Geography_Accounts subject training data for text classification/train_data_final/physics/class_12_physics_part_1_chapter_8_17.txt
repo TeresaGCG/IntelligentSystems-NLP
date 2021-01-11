@@ -1,0 +1,80 @@
+286
+
+i Physics
+
+8.2
+
+8.3
+8.4
+8.5
+8.6
+8.7
+8.8
+
+8.9
+
+8.10
+
+ 
+
+(b) Obtain the displacement current across the plates.
+
+(0) Is Kirchhoffs first rule (junction rule) valid at each plate of the
+capacitor? Explain.
+
+0 +++++ 0»
+
+FIGURE 8.6
+
+ 
+
+A parallel plate capacitor (Fig. 8.7) made of circular plates each of radius
+R = 6.0 cm has a capacitance C = 100 pF. The capacitor is connected to
+a 230 V ac supply with a (angular) frequency of 300 rad $4.
+
+(a) What is the rms value of the conduction current?
+
+(b) Is the conduction current equal to the displacement current?
+
+(0) Determine the amplitude of B at a point 3.0 cm from the axis
+between the plates.
+
+ 
+
+FIGURE 8.7
+
+What physical quantity is the same for X-rays of wavelength
+10’10m, red light of wavelength 6800 A and radiowaves of wavelength
+500m?
+
+A plane electromagnetic wave travels in vacuum along z—direction.
+What can you say about the directions of its electric and magnetic
+field vectors? If the frequency of the wave is 30 MHZ, what is its
+wavelength?
+
+A radio can tune in to any station in the 7.5 MHZ to 12 MHZ band.
+What is the corresponding wavelength band?
+
+A charged particle oscillates about its mean equilibrium position
+with a frequency of 109 Hz. What is the frequency of the
+electromagnetic waves produced by the oscillator?
+
+The amplitude of the magnetic field part of a harmonic
+electromagnetic wave in vacuum is B0 = 510 nT. What is the
+amplitude of the electric field part of the wave?
+
+Suppose that the electric field amplitude of an electromagnetic wave
+is E0 = 120 N/ C and that its frequency is v = 50.0 MHZ. (a) Determine,
+30.0). k, and x1. (b) Find expressions for E and B.
+
+The terminology of different parts of the electromagnetic spectrum
+is given in the text. Use the formula E = hv (for energy of a quantum
+of radiation: photon) and obtain the photon energy in units of eV for
+different parts of the electromagnetic spectrum. In what way are
+the different scales of photon energies that you obtain related to the
+sources of electromagnetic radiation?
+
+In a plane electromagnetic wave, the electric field oscillates
+sinusoidally at a frequency of 2.0 X 1010 Hz and amplitude 48 V m’l.
+
+2019-20

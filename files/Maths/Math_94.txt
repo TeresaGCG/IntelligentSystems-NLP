@@ -1,0 +1,24 @@
+Homework Helpers: Basic Math and Pre-Algebra
+94
+Lesson 5-4: Dividing Decimal Numbers
+Dividing decimals is very similar to dividing whole numbers. Our first
+goal is to turn the decimal number in the denominator into a whole num-
+ber. To do this, determine the number of digits there are to the right of
+the decimal point in the denominator. Move the decimal points in both
+the numerator and the denominator over to the right by that many places,
+filling in 0s as a placeholder in the numerator if necessary. For example,
+if we wanted to evaluate   we would first observe that the denominator
+has two digits to the right of the decimal point. We would then move the
+decimal points of both the numerator and the denominator to the right
+by two places, and our problem becomes  . This is equivalent to multi-
+plying both the numerator and the denominator by 100 (we are multiply-
+ing the fraction by the number 1 disguised as the fraction  ). Once we
+have a whole number in the denominator we can do the division:
+So:
+Example 1
+Evaluate:
+Solution: The decimal number in the denominator has two digits
+to the right of the decimal point, so we need to move the decimal
+points in both the numerator and the denominator two places to
+the right:
+www.ebook3000.com

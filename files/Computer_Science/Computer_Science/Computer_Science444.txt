@@ -1,0 +1,50 @@
+428 Chapter 6 Enhancing Performance with Plpellnlng
+control signal, called ID.Flush, is ORed with the stall signal from the Hazard
+Detection Unit to flush during ID. To flush the instruction in the EX phase, we use
+a new signal called EX.Flush to cause new multiplexors to zero the control lines.
+To start fetching instructions from location 8000 0180 which is the exception
+,
+hex
+location for an arithmetic overflow, we simply add an additional input to the PC
+multiplexor that sends 8000 0180 to the Pc. Figure 6.42 shows these changes.
+hex
+This example points out a problem with exceptions: If we do not stop execu 
+tion in the middle of the instruction, the programmer will not be able to see the
+original value of register $1 that helped cause the overflow because it will be clob 
+bered as the destination register of the add instruction. Because of careful plan 
+ning, the overflow exception is detected during the EX stage; hence, we can use the
+EX.Flush signal to prevent the instruction in the EX stage from writing its result in
+the WB stage. Many exceptions require that we evennlally complete the instruc 
+tion that caused the exception as if it executed normally. The easiest way to do this
+- 
+Hoard
+.",
+•
+f-+-,
+IDIEX r- ~
+"'"r-r---"....\J
+,""".
+-·I ~H--I~
+."h'-F I-r----,
+'
+~ LM~B
+, f 
+~­ • L-I~
+, '0 - V " WBf-----
+'" r-
+Ir f-H.
+•
+"" ,
+"
+, Instruction •
+" "
+memory - :1----+--11/
+~"
+, ~ ~ memory
+-
+Fawardlng
+unit
+FIGURE 6.42 The datapath with controls to handle exceptions. The key additions mclude a new mput, with the value 8<XXl 0180bu, In
+the multiplexor that supplies the new PC value; a Cause register to record the cause of the exception; and an Exception PC register to s.we the address
+of the instruction that caused the exception. The 8000 018Ot..x input to the multiplexor is the initial address to begin fetching instructions in the event
+of an exception. Although not shown, the ALU overflow signal is an input to the control unit.

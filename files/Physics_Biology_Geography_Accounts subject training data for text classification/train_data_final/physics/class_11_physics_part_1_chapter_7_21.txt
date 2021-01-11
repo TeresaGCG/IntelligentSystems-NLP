@@ -1,0 +1,117 @@
+162
+
+PIIYSICS
+
+ 
+
+vary from one point of the body to the other. If
+the body is so extended that g varies from part
+to part of the body, then the centre of gravity
+and centre of mass will not coincide. Basically,
+the two are different concepts. The centre of
+mass has nothing to do with gravity. It depends
+only on the distribution of mass of the body.
+
+In Sec. 7.2 we found out the position of the
+centre of mass of several regular, homogeneous
+objects. Obviously the method used there gives
+us also the centre of gravity of these bodies, if
+they are small enough.
+
+Figure 7.25 illustrates another way of
+determining the CG of an irregular shaped body
+like a cardboard. If you suspend the body from
+some point like A, the vertical line through A
+passes through the CG. We mark the vertical
+AAl. We then suspend the body through other
+points like B and C. The intersection of the
+verticals gives the CG. Explain why the method
+works. Since the body is small enough, the
+method allows us to determine also its centre
+of mass.
+
+bExample 7.8 A metal bar 70 cm long
+and 4.00 kg in mass supported on two
+knife-edges placed 10 cm from each end.
+A 6.00 kg load is suspended at 30 cm from
+one end. Find the reactions at the knife—
+edges. (Assume the bar to be of uniform
+cross section and homogeneous.)
+
+ 
+
+Figure 7.26 shows the rod AB, the positions
+of the knife edges K1 and K2 , the centre of
+gravity of the rod at G and the suspended load
+at P.
+
+Note the weight of the rod W acts at its
+centre of gravity G. The rod is uniform in cross
+section and homogeneous; hence G is at the
+centre of the rod; AB = 70 cm. AG = 35 cm, AP
+= 30 cm, PG = 5 cm, AK1= BK2= 10 cm and KlG
+= K2G = 25 cm. Also, W= weight of the rod =
+
+2019-20
+
+4.00 kg and W1: suspended load = 6.00 kg;
+R1 and R2 are the normal reactions of the
+support at the knife edges.
+
+For translational equilibrium of the rod,
+
+R1+R2 —W1 —W = 0 (i)
+
+Note W1 and W act vertically down and R1
+and R2 act vertically up.
+
+For considering rotational equilibrium, we
+take moments of the forces. A convenient point
+to take moments about is G. The moments of
+R2 and W1 are anticlockwise (+ve), whereas the
+moment of R1 is clockwise (-ve).
+
+For rotational equilibrium,
+
+—R1(K1G) + W1 (PG) + R2 (KZG) = 0 (ii)
+
+It is given that W: 4.009 N and W1 = 6.009
+N, where 9 = acceleration due to gravity. We
+take 9 = 9.8 m/s2.
+
+With numerical values inserted, from (i)
+
+R1+ R2 — 4.009 — 6.009 = 0
+
+or R1+ R2 = 10.009 N (iii)
+= 98.00 N
+
+From (ii), — 0.25 R1+ 0.05 W1+ 0.25 R2= 0
+orRl—R2= 1.29 N= 11.76N (iv)
+
+From (iii) and (iv), R1 = 54.88 N,
+
+R2 = 43.12 N
+Thus the reactions of the support are about
+55NatK1and43NatK2. 4
+
+P Example 7.9 A 3m long ladder weighing
+20 kg leans on a frictionless wall. Its feet
+
+rest on the ﬂoor 1 m from the wall as shown
+in Fig.7.27. Find the reaction forces of the
+wall and the ﬂoor.
+
+ 
+
+Answer
+F. B
+3 m
+2J§m
+N F2
+A F E C
+1 m
+Fig. 7.27
+
+The ladder AB is 3 m long, its foot A is at
+distance AC = 1 m from the wall. From

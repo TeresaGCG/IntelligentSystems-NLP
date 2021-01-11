@@ -1,0 +1,70 @@
+1.3 Under the Covers 23
+A Safe Place for Data
+Thus far we have seen how to input data, compute using the data, and display
+memory The storage area in
+data. If we were to lose power to the computer, however, everything would be lost which programs are kept when
+because the memory inside the computer is volatile-that is, when it loses power, they are running and that con 
+tains the data needed by the
+it forgets. In contrast, a cassette tape for a stereo doesn't forget the recorded music
+runmng programs.
+when you turn off the power because the tape is magnetic and is thus a nonvola 
+tile memory technology. volatile memory Storage, such
+To distinguish between the memory used to hold programs while they are run  as DRAM, that only retains data
+ning and this nonvolatile memory used to store programs between runs, the term only ifit is receiving power.
+primary memory or main memory is used for the former, and secondary mem 
+nonvolatile memory A form
+ory for the latter. DRAMs have dominated main memory since 1975, but mag  ofmemory that retains data
+netic disks have dominated secondary memory since 1965. In embedded even in the absence ofa power
+source and that is used to store
+applications, FLASH, a nonvolatile semiconductor memory is also used.
+programs between runs. Mag 
+Today the primary nonvolatile storage used on all desktop and server comput 
+netic disk is nonvolatile and
+ers is the magnetic hard disk. As Figure 1.11 shows, a magnetic hard disk consists
+DRAM is not.
+of a collection of platters, which rotate on a spindle at 5400 to 15,000 revolutions
+primary memory Also called
+per minute. The metal platters are covered with magnetic recording material on
+main memory. Volatile memory
+both sides, similar to the material found on a cassette or video tape. To read and
+used to hold programs while
+write information on a hard disk, a movable arm containing a small electromag 
+they are running; typically
+netic coil called a read/write head is located just above each surface. The entire
+consists ofDRAM in today's
+drive is permanently sealed to control the environment inside the drive, which, in
+computers.
+turn, allows the disk heads to be much closer to the drive surface.
+secondary memory Non 
+Diameters of hard disks vary by more than a fa ctor of 3 today, from less than I
+volatile memory used to store
+inch to 3.5 inches, and have been shrunk over the years to fit into new products;
+programs and data between
+workstation servers, personal computers, laptops, palmtops, and digital cameras
+runs; typically consists ofmag 
+have all inspired new disk form factors. Traditionally, the widest disks have the netic disks in today's computers.
+highest performance, the smallest disks have the lowest unit cost, and the best cost
+magnetic disk (also called
+per megabyte is usually a disk in between. Although most hard drives appear
+hard disk) A form ofnonvola 
+inside computers (as in Figure 1.8), hard drives can also be attached using external
+tile secondary memory com 
+interfaces such as Firewire or USB. posed ofrotating platters coated
+The use of mechanical components means that access times for magnetic disks with a magnetic recording
+material.
+are much slower than for DRAMs: disks typically take 5-15 milliseconds, while
+DRAMs take 40--80 nanoseconds-making DRAMs about 100,000 times faster.
+megabyte Traditionally
+Yet disks have much lower costs than DRAM for the same storage capacity because 1,048,576 (220) bytes, although
+the production costs for a given amount of disk storage are lower than for the some communications and sec 
+ondary storage systems have
+same amount of integrated circuit. In 2004, the cost per megabyte of disk is about
+redefined it to mean 1,000,000
+100 times less expensive than DRAM.
+6
+(10 bytes.
+)
+Thus there are three primary differences between magnetic disks and main
+memory: disks are nonvolatile because they are magnetic; they have a slower
+access time because they are mechanical devices; and they are cheaper per mega 
+byte because they have very high storage capacity at a modest cost.

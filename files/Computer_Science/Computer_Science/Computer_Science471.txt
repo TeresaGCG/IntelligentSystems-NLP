@@ -1,0 +1,44 @@
+6.14 Exercises 455
+6.3 [5J <§6.1 > Using a drawing similar to Figure 6.5 on page 377, show the for 
+warding paths needed to execute the following four instructions:
+add $3 , $4, $6
+sub $5 , $3 , $2
+lw $7 . 100($5)
+add $8 , $7 , $2
+6.4 [ IOJ <§6.1 > Idelltify all of the data dependencies in the following code. Which
+dependencies are data hazards that will be resolved via forwarding? Which depen 
+dencies are data hazards that will cause a stall?
+add $3 , $4 , $2
+sub $5 , $3 , $1
+lw $6 . 200($3)
+add $7 , $3 , $6
+II
+6.5 [5J <§6.1 > For More Practice: Delayed Branches
+6.6 [IOJ <§6.2> Using Figure 6.22 on page 400 as a guide, use colored pens or
+markers to show which portions of the datapath are active and which are inactive
+in each of the five stages of the sw instruction. We suggest that you use five pho 
+tocopies of Figure 6.22 to answer this exercise. (We hereby grant you permission
+to violate the Copyright Protection Act in doing the exercises in Chapters 5 and 6!)
+Be sure to include a legend to explain your color scheme.
+II
+6.7 [5J <§6.2> For More Practice: Understanding Pipelines by Drawing Them
+II
+6.8 [5J <§6.2> For More Practice: Understanding Pipelines by Drawing Them
+II
+6.9 [15J <§6.2> For More Practice: Understanding Pipelines by Drawing
+Them
+II
+6.10 [5J <§6.2> For More Practice: Pipeline Registers
+II
+6.11 [IS) <§§4.8, 6.2> For More Practice: Pipelining Floating Point
+6.12 [IS) <§6.3> Figure 6.37 on page 41 7 and Figure 6.35 on page 41 5 are two
+styles of drawing pipelines. To make sure you understand the relationship between
+these two styles, draw the information in Figures 6.31 through 6.35 on pages 4 10
+th rough 41 5 using the style of Figure 6.37 on page 41 7. Highlight the active por 
+tions of the data paths in the figure.
+6.13 (20) <§6.3> Figure 6.14. 10 is similar to Figure 6.14.7 on page 6.14-9 in the
+II
+For More Practice section, but the instructions are unidentified. Determine as
+much as you can about the five instructions in the five pipeline stages. If you can 
+not fill in a field of an instruction, state why. For some fields it will be easier to
+decode the machine instructions into assembly language, using Figure 3.1 8 on

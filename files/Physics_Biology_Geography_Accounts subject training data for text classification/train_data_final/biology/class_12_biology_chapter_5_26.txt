@@ -1,0 +1,76 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+SUMMARY
+
+Genetics is a branch of biology which deals with principles of inheritance
+and its practices. Progeny resembling the parents in morphological and
+physiological features has attracted the attention of many biologists.
+Mendel was the first to study this phenomenon systematically. While
+studying the pattern of inheritance in pea plants of contrasting
+characters, Mendel proposed the principles of inheritance, which are
+today referred to as ‘Mendel’s Laws of Inheritance’. He proposed that
+the ‘factors’ (later named as genes) regulating the characters are found
+in pairs known as alleles. He observed that the expression of the
+characters in the offspring follow a definite pattern in different—first
+generations (F1), second (F2) and so on. Some characters are dominant
+over others. The dominant characters are expressed when factors are
+in heterozygous condition (Law of Dominance). The recessive characters
+are only expressed in homozygous conditions. The characters never
+blend in heterozygous condition. A recessive character that was not
+expressed in heterozygous conditon may be expressed again when it
+becomes homozygous. Hence, characters segregate while formation of
+gametes (Law of Segregation).
+
+Not all characters show true dominance. Some characters show
+incomplete, and some show co-dominance. When Mendel studied the
+inheritance of two characters together, it was found that the factors
+independently assort and combine in all permutations and
+combinations (Law of Independent Assortment). Different combinations
+of gametes are theoretically represented in a square tabular form known
+as ‘Punnett Square’. The factors (now known as gene) on chromosomes
+regulating the characters are called the genotype and the physical
+expression of the chraracters is called phenotype.
+
+After knowing that the genes are located on the chromosomes, a
+good correlation was drawn between Mendel’s laws : segregation and
+assortment of chromosomes during meiosis. The Mendel’s laws were
+extended in the form of ‘Chromosomal Theory of Inheritance’. Later, it
+was found that Mendel’s law of independent assortment does not hold
+true for the genes that were located on the same chromosomes. These
+genes were called as ‘linked genes’. Closely located genes assorted
+together, and distantly located genes, due to recombination, assorted
+independently. Linkage maps, therefore, corresponded to arrangement
+of genes on a chromosome.
+
+Many genes were linked to sexes also, and called as sex-linked
+genes. The two sexes (male and female) were found to have a set of
+chromosomes which were common, and another set which was
+different. The chromosomes which were different in two sexes were
+named as sex chromosomes. The remaining set was named as
+autosomes. In humans, a normal female has 22 pairs of autosomes
+and a pair of sex chromosomes (XX). A male has 22 pairs of autosomes
+and a pair of sex chromosome as XY. In chicken, sex chromosomes in
+male are ZZ, and in females are ZW.
+
+Mutation is defined as change in the genetic material. A point
+mutation is a change of a single base pair in DNA. Sickle-cell anemia is
+caused due to change of one base in the gene coding for beta-chain of
+hemoglobin. Inheritable mutations can be studied by generating a
+pedigree of a family. Some mutations involve changes in whole set of
+
+2019-2020
+
+ 
+
+ 
+
+ 
+
+wmv
+
+,
+7‘s
+
+ 
+
+93

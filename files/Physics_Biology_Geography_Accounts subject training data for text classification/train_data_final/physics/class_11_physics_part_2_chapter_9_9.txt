@@ -1,0 +1,120 @@
+244
+
+PHYSICS
+
+9.6.5 POISSON'S RATIO
+
+Careful observations with the Young’s modulus
+experiment (explained in section 9.6.2), show
+that there is also a slight reduction in the cross-
+section (or in the diameter) of the wire. The strain
+perpendicular to the applied force is called
+lateral strain. Simon Poisson pointed out that
+within the elastic limit, lateral strain is directly
+proportional to the longitudinal strain. The ratio
+of the lateral strain to the longitudinal strain in
+a stretched wire is called Poisson’s ratio. If the
+original diameter of the wire is d and the
+contraction of the diameter under stress is Ad,
+the lateral strain is Ad/d. If the original length
+of the wire is L and the elongation under stress
+is AL, the longitudinal strain is AL/ L. Poisson’s
+ratio is then (Ad/ d) / (AL/ L) or (Ad/AL) X (L/d).
+Poisson’s ratio is a ratio of two strains; it is a
+pure number and has no dimensions or units.
+Its value depends only on the nature of material.
+For steels the value is between 0.28 and 0.30,
+and for aluminium alloys it is about 0.33.
+
+9.6.6 Elastic Potential Energy
+in a Stretched Wire
+
+When a wire is put under a tensile stress, work
+is done against the inter-atomic forces. This
+work is stored in the wire in the form of elastic
+potential energy. When a wire of original length
+L and area of cross-section A is subjected to a
+deforming force F along the length of the wire,
+let the length of the wire be elongated by I. Then
+from Eq. (9.8), we have F= YA X (l/L). Here Yis
+the Young’s modulus of the material of the wire.
+Now for a further elongation of infinitesimal
+small length dl, work done dWis F X dl or YAldl/
+L. Therefore, the amount of work done (W) in
+increasing the length of the wire from L to L + l,
+thatis from l=0 to l= lis
+
+lYAl YA 12
+= —dl=— _
+W Io L 2 XL
+
+lex££T ><AL
+W‘ 2 L
+
+X Young’s modulus X strain2 X
+
+_l
+'2
+
+volume of the wire
+
+2019-20
+
+1
+= 5X stress X strain X volume of the
+
+wire
+This work is stored in the wire in the form of
+elastic potential energy (U). Therefore the elastic
+potential energy per unit volume of the wire (u) is
+
+1
+u= —><0'8 (9.15)
+
+2
+
+9.7 APPLICATIONS OF ELASTIC
+BEHAVIOUR OF MATERIALS
+
+The elastic behaviour of materials plays an
+important role in everyday life. All engineering
+designs require precise knowledge of the elastic
+behaviour of materials. For example while
+designing a building, the structural design of
+the columns, beams and supports require
+knowledge of strength of materials used. Have
+you ever thought why the beams used in
+construction of bridges, as supports etc. have
+a cross-section of the type 1? Why does a heap
+of sand or a hill have a pyramidal shape?
+Answers to these questions can be obtained
+from the study of structural engineering which
+is based on concepts developed here.
+
+Cranes used for lifting and moving heavy
+loads from one place to another have a thick
+metal rope to which the load is attached. The
+rope is pulled up using pulleys and motors.
+Suppose we want to make a crane, which has
+a lifting capacity of 10 tonnes or metric tons (1
+metric ton = 1000 kg). How thick should the
+steel rope be? We obviously want that the load
+does not deform the rope permanently.
+Therefore, the extension should not exceed the
+elastic limit. From Table 9.1, we find that mild
+steel has a yield strength (0y) of about 300 x
+106 N m‘2. Thus, the area of cross-section (A)
+of the rope should at least be
+
+A2 W/oy = Mg/oy (9.16)
+= (104 kgx 9.8 m s‘2)/(300 x 106 N m'2)
+= 3.3 x 10‘4 m2
+
+corresponding to a radius of about 1 cm for
+a rope of circular cross-section. Generally
+a large margin of safety (of about a factor of
+ten in the load) is provided. Thus a thicker
+rope of radius about 3 cm is recommended.
+A single wire of this radius would practically
+be a rigid rod. So the ropes are always made
+of a number of thin wires braided together,

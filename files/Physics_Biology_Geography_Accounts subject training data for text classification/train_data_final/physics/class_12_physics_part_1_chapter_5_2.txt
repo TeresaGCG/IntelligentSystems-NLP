@@ -1,0 +1,92 @@
+Magnetism and
+Mo’r’rer
+
+ 
+
+We begin our study by examining iron ﬁlings sprinkled on a sheet of
+glass placed over a short bar magnet. The arrangement of iron ﬁlings is
+shown in Fig. 5.2.
+
+The pattern of iron ﬁlings suggests that the magnet has two poles
+similar to the positive and negative charge of an electric dipole. As
+mentioned in the introductory section, one pole is designated the North
+pole and the other, the South pole. When suspended freely, these poles
+point approximately towards the geographic north and south poles,
+
+respectively. A similar pattern of iron ﬁlings is observed around a current _ ‘
+
+carrying solenoid.
+
+5.2. 1 The magnetic field lines
+
+The pattern of iron ﬁlings permits us to plot the magnetic ﬁeld lines*. This is
+shown both for the bar-magnet and the current-carrying solenoid in
+Fig. 5.3. For comparison refer to the Chapter 1, Figure 1. 1 7(d). Electric ﬁeld
+lines of an electric dipole are also displayed in Fig. 5.3(c). The magnetic ﬁeld
+lines are a Visual and intuitive realisation of the magnetic ﬁeld. Their
+properties are:
+
+(i) The magnetic ﬁeld lines of a magnet (or a solenoid) form continuous
+closed loops. This is unlike the electric dipole where these ﬁeld lines
+begin from a positive charge and end on the negative charge or escape
+to inﬁnity.
+
+(ii) The tangent to the ﬁeld line at a given point represents the direction of
+the net magnetic ﬁeld B at that point.
+
+Axis
+
+  
+    
+
+  
+
+   
+
+‘\\“"II"
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) (b)
+
+ 
+
+ 
+
+FIGURE 5.2 The
+arrangement of iron
+filings surrounding a
+
+bar magnet. The
+
+pattern mimics
+magnetic ﬁeld lines.
+The pattern suggests
+that the bar magnet
+is a magnetic dipole.
+
+FIGURE 5.3 The field lines of (a) a bar magnet. (b) a current—carrying finite solenoid and
+(c) electric dipole. At large distances, the field lines are very similar. The curves
+
+labelled CD and @are closed Gaussian surfaces.
+
+* In some textbooks the magnetic field lines are called magnetic lines of force.
+This nomenclature is avoided since it can be confusing. Unlike electrostatics
+the field lines in magnetism do not indicate the direction of the force on a
+(moving) charge.
+
+2019-20
+
+175

@@ -1,0 +1,41 @@
+Example 3.5 A network of resistors is connected to a 16 V battery
+with internal resistance of 19, as shown in Fig. 3.19: (a) Compute
+the equivalent resistance of the network. (b) Obtain the current in
+each resistor. (c) Obtain the voltage drops VAB, VBC and VCD.
+FIGURE 3. 19
+Solution
+(a) The network is a simple series and parallel combination of
+resistors. First the two 49 resistors in parallel are equivalent to a
+resistor = [(4 X 4)/(4 + 4)] £2 = 2 Q.
+In the same way, the 12 S2 and 6 S2 resistors in parallel are
+equivalent to a resistor of
+[(12 x 6)/(12 + 6)] $2 = 4 Q
+The equivalent resistance R of the network is obtained by
+combining these resistors (2 S2 and 4 S2) with 1 Q in series,
+that is,
+R=2S2+4Q+ 1S2=7§2.
+(b) The total current I in the circuit is
+I: 13 = 16V : 2A
+R+r (7+1)Q
+Consider the resistors between A and B. If I1 is the current in one
+of the 4 £2 resistors and I2 the current in the other,
+gx4=gx4
+that is, I1 = I2, which is otherwise obvious from the symmetry of
+the two arms. But II + I2 = I = 2 A. Thus,
+5=5=1A
+that is, current in each 4 Q resistor is 1 A. Current in 1 Q resistor
+between B and C would be 2 A.
+Now, consider the resistances between C and D. If I3 is the current
+in the 12 Q resistor, and I4 in the 6 S2 resistor,
+gx12=gxsneﬁq=2g
+Bm,g+g=1=2A
+2 4
+Thus,I3= 5 A, I4= 3 A
+m that is, the current in the 12 S2 resistor is (2/3) A, while the current
+05 in the 6 S2 resistor is (4/3) A.
+a (c) The voltage drop across AB is
+E vw=gx4=1Ax4o=4m
+I'd This can also be obtained by multiplying the total current between
+1 12 A and B by the equivalent resistance between A and B, that is,
+
+2019-20

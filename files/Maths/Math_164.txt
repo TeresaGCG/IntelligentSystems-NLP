@@ -1,0 +1,43 @@
+Homework Helpers: Basic Math and Pre-Algebra
+164
+ordered pair (a, b). We have already talked about how the number line
+can be used to graph a number. In order to graph an ordered pair (a, b)
+we will need to be able to graph two numbers simultaneously.
+To graph an ordered pair, you will need to use one number line for
+the input and another number line for the output. If you arrange these
+two number lines so that they are perpendicular to each other, as is shown
+in Figure 9.1, you will have created what is known as the Cartesian coor-
+dinate system. The Cartesian coordinate system is named for Rene
+Descartes, who is credited with inventing it. This coordinate system brings
+geometry and algebra together, enabling us to use algebra to solve prob-
+lems in geometry, and to use geometry
+y-axis to gain insight into algebraic results.
+We use this system, which is sometimes
+called the coordinate plane, to locate
+points and draw figures.
+2
+The horizontal number line is
+called the x-axis, and it is used to
+record the values of the input, or in-
+x-axis dependent variable, or the first num-
+ber in the ordered pair (a, b). The
+vertical number line is called the y-axis,
+–2 and it is used to record the function
+values, or the output, or the values of
+the dependent variable, or the second
+number in the ordered pair (a,b). We
+Figure 9.1 will draw the two number lines so that
+they intersect at 0; the point where the
+two lines intersect is called the origin. The ordered pair corresponding to
+the origin is (0, 0).
+Two numbers are used to describe the location of a point in the plane,
+and they are recorded as an ordered pair (x, y), where the first number
+represents the horizontal distance from the y-axis to the point and the
+second number represents the vertical distance from the x-axis to the
+point. The first coordinate is called the x-coordinate, and the second
+coordinate is called the y-coordinate.
+Points that are on the x-axis have a y-coordinate equal to 0, and points
+that are on the y-axis have their x-coordinate equal to 0. Those points
+that lie to the right of the y-axis have a positive x-coordinate and points
+to the left of the y-axis have a negative x-coordinate. Similarly, points
+www.ebook3000.com

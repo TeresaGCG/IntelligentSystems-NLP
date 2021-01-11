@@ -1,0 +1,46 @@
+150 Accountancy: Company Accounts and Analysis of Financial Statements
+
+(ii) Loans repayable on demand or whose original tenure is not more than
+twelve months / operating cycle are classified as short-term borrowings
+on the face of balance sheet.
+
+(iii) Current maturities to long-term loan include amount repayable within
+twelve months / operating cycle under other current liabilities with Note
+to Account.
+
+Deferred tax assets/ liabilities are always non—current. This is in accordance
+to IAS-I.
+
+Trade payables
+
+Sundry creditors have been replaced with the term Trade payables and are
+classiﬁed as current and non—current. Trade payables to be settled beyond 12
+months from the date of balance sheet or beyond the operating cycle are classiﬁed
+under “other long-term liabilities” with Note to Account. For example, purchase
+of goods and services in normal course of business. The balance of trade payables
+are classiﬁed as current liabilities on the face of balance sheet.
+
+Provisions
+
+The amount of provision settled within 12 months from balance sheet date or
+within operating cycle period from date of its recognition is classiﬁed as short
+term provisions and shown under current liabilities on the face of balance sheet.
+Others are depicted as long-term provisions under non-current liabilities on the
+face of balance sheet.
+
+Fixed assets
+
+There is no change in the treatment of ﬁxed assets. Both tangible and intangible
+assets are non—current. This may also be noted if the useful life of the asset is
+less than 12 months, it will still fall under non—current.
+
+Investments
+
+Investments are also classified into current and non-current categories.
+Investments expected to realise within twelve months are considered as current
+investments under current assets. Others are classified as non—current
+investments under non-current assets. Both are however shown on the face of
+the balance sheet.
+
+Inventories
+All inventories are always treated as current.

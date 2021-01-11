@@ -1,0 +1,36 @@
+360 Chapter 5 The Processor: Datapath and Control
+c. Invalid instruction
+d. External interrupt
+e. Invalid instruction memory address
+f. Invalid data mem ory address
+5.52 [IS) <§5.6> .. For More Practice: Adding Instructions to the Datapath
+5.53 [3D) <§5.7> Microcode has been used to add m ore powerful instructions to
+an instruction set; let's explore the potential benefits of this approach. Devise a
+strategy for implementing the bcmp instruction described in Exercise 5.38 using
+the multicycle datapath and microcode. You will probably need to make some
+changes to the datapath in order to efficiently implement the bcmp instruction.
+Provide a description of your proposed changes and describe how the bcmp in 
+struction will work. Are there any advantages that ca n be obtained by adding inter 
+nal registers to the datapath to help support the bcmp instruction? Estimate the
+improvement in performance that you can achieve by implementing the instruc 
+tion in hardware (as opposed to the software solution you obtained in Exercise
+5.38) and explain where the performance increase comes from.
+5.54 [3D) <§5.7> .. For Mo re Practice: Microcode
+5.55 [3D) <§5.7> .. For Mo re Practice: Microcode
+'8
+5.56 [5] <§5.7> For More Practice: Microcode
+5.57 [3D) <§5.8> Using the strategy you developed in Exercise 5.53, modify the
+'8
+MIPS microinstruction format described in Figure 5.7. 1and provide the com  
+plete microprogram for the bcmp instruction. Describe in detail how you extended
+the microcode so as to support the creation of more complex control structures
+(such as a loop) within the microcode. Has support for the bcmp instruction
+cha nged the size ofthe microcode? Will other instructions besides bcmp be affected
+by the change in the microinstruction format?
+5.58 [5] <§5.8> A and B are registers defined through the following Verilog ini 
+tialization code:
+reg A, B
+ini ti al begin
+A 1 ;
+B ~ 2 ;
+end

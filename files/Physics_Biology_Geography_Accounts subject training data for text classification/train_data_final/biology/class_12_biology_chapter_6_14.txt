@@ -1,0 +1,51 @@
+MOLECULAR BASIS OF INHERITANCE
+
+deﬁne a gene in terms of DNA sequence. The DNA sequence coding for
+tRNA or rRNA molecule also deﬁne a gene. However by deﬁning a cistron
+as a segment of DNA coding for a polypeptide, the structural gene in a
+transcription unit could be said as monocistronic (mostly in eukaryotes)
+or polycistronic (mostly in bacteria or prokaryotes). In eukaryotes, the
+monocistronic structural genes have interrupted coding sequences — the
+genes in eukaryotes are split. The coding sequences or expressed
+sequences are deﬁned as exons. Exons are said to be those sequence
+that appear in mature or processed RNA. The exons are interrupted by
+introns. Introns or intervening sequences do not appear in mature or
+processed RNA. The split-gene arrangement further complicates the
+deﬁnition of a gene in terms of a DNA segment.
+
+Inheritance of a character is also affected by promoter and regulatory
+sequences of a structural gene. Hence, sometime the regulatory sequences
+are loosely deﬁned as regulatory genes, even though these sequences do
+not code for any RNA or protein.
+
+6.5.3 Types of RNA and the process of Transcription
+
+In bacteria, there are three major types of RNAs: mRNA (messenger RNA),
+tRNA (transfer RNA), and rRNA (ribosomal RNA). All three RNAs are
+needed to synthesise a protein in a cell. The mRNA provides the template,
+tRNA brings aminoacids and reads the genetic code, and rRNAs play
+structural and catalytic role during translation. There is single
+DNA-dependent RNA polymerase that catalyses transcription of all types
+of RNA in bacteria. RNA polymerase binds to promoter and initiates
+transcription (Initiation). It uses nucleoside triphosphates as substrate
+
+3’ 3.
+Promoter DNA helix
+RNA polynlerase Sigma factor
+Initiation
+3’ 5,
+5’ 3,
+Terminator
+- RNA ©
+Elongatlon
+3’ 5!
+5’ 3,
+
+RNA
+Termination Polymerase
+RNA
+Rho factor
+
+Figure 6.10 Process of Transcription in Bacteria
+
+2019—2020

@@ -1,0 +1,32 @@
+406 Chapter 6 Enhancing Performance with Plpellnlng
+of the field in that register. Using this notation, the two pairs ofhaza rd conditions
+'"
+lao E.,X/MEM.RegisterRd = ID/EX.RegisterRs
+1b. EX/MEM.RegisterRd = ID/EX.RegisterRt
+2a. MEM/WB.RegisterRd = ID/EX.RegisterRs
+2b. MEM/WB.RegisterRd = ID/EX.RegisterRt
+The first haza rd in the sequence on page 403 is on register $2, between the
+result of sub $2 , $1 , $3 and the first read operand of and $12 , $2 , $5. This
+hazard can be detected when the a nd instruction is in the EX stage and the prior
+instruction is in the MEM stage, so this is hazard la:
+EX/MEM.RegisterRd = ID/EX.RegisterRs = $2
+Dependence Detection
+Classify the dependences in this sequence from page 403:
+EXAMPLE
+sub $2 . 11 . $3 # Regis t e r $2 se t by sub
+and $12 . $2 . $5 # 1s t ope ra nd($2) se t by sub
+or $13 . $6 . $2 # 2nd ope ra nd( $2) se t by sub
+add $1 4. $2 . $2 # lst($2l & 2nd($2l set by sub
+sw $15 . 100( $2) # Index($2l set by sub
+As mentioned above, the s ub-a nd is a type la hazard. The remaining hazards
+ANSWER
+'"
+• The sub-or is a type 2b hazard:
+MEM/WB.RegisterRd = ID/ EX.RegisterRt = $2
+• The two dependences on sub-add are not hazards because the register
+file supplies the proper data during the ID stage of add.
+• There is no data hazard between sub and sw because sw reads $2 the
+clock cycle after sub writes $2.
+Because some instructions do not write registers, this policy is inaccurate;
+sometimes it would forward when it was unnecessary. One solution is simply to
+check to see if the RegWrite signal will be active: examining the WB control field

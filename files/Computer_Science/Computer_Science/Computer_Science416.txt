@@ -1,0 +1,52 @@
+400 Chapter 6 Enhancing Performance with Plpellnlng
+r----------------------------------'''~
+' - v I"
+ 
+':u.~_~_~--,
+o
+•
+_.
+r- _ ,
+,•" .~
+..  
+-
+I -
+ALUSn: bro - ~og
+- ....- ,---1
+-L-I Add AlU
+••
+w r ~ - •
+",
+r-l.---'rjo;o! ••
+n - "
+, •
+_
+W~ o
+r
+~.
+W~
+~.
+f-- 'O ALUOp
+~ f------I
+, 
+,
+•
+I" "I
+-
+-
+FIGURE 6.22 The plpellned datapath of Figure 6.17 with the control signals Identified. ThIs dalapalh borrows the controllogJc for
+PC source, register destination number, and ALU control from Chapter 5. Note that we now need the 6-bit funcl field (function code) ofthe instruc 
+tion in the EX stage as inpul to ALU control, so these bits must also be included in the ID/EX pipeline register. RJ.>call that these 6 bits are also the 6
+least significant bits of the immediate field in the instruction, so the ID/EX pipeline register can supply them from the immediate field since sign
+extension leaves these bits lUlchangoo.
+Pc. By the same argument, there are no separate write signals for the pipeline reg 
+isters (l FIl D, ID/EX, EXlM EM, and MEM/W B), since the pipeline registers are
+also written during each clock cycle.
+To specify control for the pipeline, we need only set the control values during
+each pipeline stage. Because each control line is associated with a component
+active in only a single pipeline stage, we can divide the control lines into five
+groups according to the pipeline stage.
+I. Instruction fetch: The control signals to read instruction memory and to
+write the PC are always asserted, so there is nothing special to control
+III
+this pipeline stage.

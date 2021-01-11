@@ -1,0 +1,16 @@
+Ratios, Proportions, and Percents
+129
+Example 1
+Convert  into a percent.
+Solution: In this case you are given the part (37) and the whole
+(40), and you are asked to find the percent. Set up a proportion
+and call the percent x:
+To solve for x, cross-multiply and apply the techniques discussed
+earlier:
+So,  represents 92.5%.
+Example 2
+Find 65% of 360.
+Solution: In this case you are given the whole (360) and the percent
+(65%), and you are asked to find the part. Set up a proportion
+and let x represent the part. Then cross-multiply and solve for x:
+So, 65% of 360 is 234.

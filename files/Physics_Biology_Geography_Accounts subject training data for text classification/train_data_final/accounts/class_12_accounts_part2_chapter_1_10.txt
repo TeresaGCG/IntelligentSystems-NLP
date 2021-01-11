@@ -1,0 +1,50 @@
+Accounting for Share Capital 1 1
+
+2. For Transfer of Application Money and AllotmentAmount Due
+Share Application and Allotment A/c Dr.
+To Share Capital A/c
+(Transfer of application money to Share Capital Account
+
+for amount due or allotment of — Share @ Rs. _ per share)
+3. For Money Refunded on Rejected Applications
+Share Application and Allotment A/c Dr.
+To Bank A/c
+
+(Application money returned on rejected application
+for _ shares)
+
+4. On Receipt of AllotmentAmount
+Bank A/c Dr.
+To Share Application and Allotment A/c
+(Balance of AllotInent Money Received)
+
+On Calls : Calls play a vital role in making shares fully paid—up and for realising
+the full amount of shares from the shareholders. In the event of shares not being
+fully called up till the completion of allotment, the directors have the authority
+to ask for the remaining amount on shares as and when they decide about the
+same. It is also possible that the timing of the payment of calls by the shareholders
+is determined at the time of share issue itself and given in the prospectus.
+
+Two points are important regarding the calls on shares. First, the amount
+on any call should not exceed 25% of the face value of shares. Second, there
+must be an interval of at least one month between the making of two calls unless
+otherwise provided by the articles of association of the company.
+
+When a call is made and the amount of the same is received, the journal
+entries are as given below:
+
+1. For Call Amount Due
+
+Share Call A/c Dr.
+To Share Capital A/c
+{Call money due on _Shares @ Rs. per share)
+2. For Receipt of Call Amount
+Bank A/c Dr.
+
+To Share Call A/c
+(Call money received)
+
+The word /words First, Second, or Third must be added between the words
+“Share" and ‘Call' in the Share Call account depending upon the identity of the
+call made. For example, in case of first call it will be termed as ‘Share First Call
+Account', in case of second call it will be ‘Share Second Call Account' and so on.

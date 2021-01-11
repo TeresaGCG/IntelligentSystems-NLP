@@ -1,0 +1,37 @@
+316 Chapter 5 The Processor: Datapath and Control
+We need only find the clock cycle time for the two implementations, since the
+instruction count and CPI are the same for both implementations. The criti 
+cal path for the different instruction classes is as follows:
+Instruction
+class Functional units used by the Instruction class
+R·type Instruction fetch Register access ALU Register access
+ALU
+Load word InstnJction fetch Register access Memory access Register access
+Store word InstnJction fetch Register access ALU Memory access
+ALU
+Branch Instruction fetch Register access
+Jump Instruction fetch
+Using these critical paths, we ca n compute the required length for each instruc 
+tion class:
+I I
+ALU
+Instruction Instruction Register Data Register
+class memory read operation memory write
+R·type 200 50 100 0 50 400 ps
+Load word 200 50 100 200 50 600 ps
+Store word 200 50 100 200 550 ps
+Branch 200 50 100 0 350 ps
+Jump 200 200 ps
+The clock cycle for a machine with a single clock for all instructions will be
+determined by the longest instruction, which is 600 ps. (This timing is ap 
+proximate, since our timing model is quite simplistic. In reality, the timing of
+modern digital systems is complex.)
+A machine with a variable clock will have a clock cycle that varies between
+200 ps and 600 ps. We ca n find the average clock cycle length for a machine
+with a variable-length clock using the information above and the instruction
+frequency distribution.
+Thus, the average time per instruction with a variable clock is
+CPU clock cycle = 600 x 25% + 550 x 10% + 400 x 45% + 350 x 15% + 200 x 5%
+447.5 ps
+Since the variable clock implementation has a shorter average clock cycle, it is
+clearly faster. Let's find the performance ratio:

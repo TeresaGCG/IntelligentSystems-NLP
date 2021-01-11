@@ -1,0 +1,142 @@
+SYSTEMS OF PARTICLES AND ROTA'l‘lONAL MOTION
+
+149
+
+problems without explicitly outlining and
+justifying the procedure. We now realise that in
+earlier studies we assumed, without saying so,
+that rotational motion and/ or internal motion
+of the particles were either absent or negligible.
+We no longer need to do this. We have not only
+found the justification of the procedure we
+followed earlier; but we also have found how to
+describe and separate the translational motion
+of (1) a rigid body which may be rotating as
+well, or (2) a system of particles with all kinds
+of internal motion.
+
+ 
+  
+
+Parabolic path
+
+of the projectile Explosion
+
+  
+ 
+   
+ 
+ 
+
+\ Path of the CM
+\
+g \of fragments
+
+Fig. 7.12 The centre of mass of the fragments
+of the projectile continues along the
+same parabolic path which it would
+have followed if there were no
+
+explosion.
+
+Figure 7 .12 is a good illustration of Eq.
+(7 . 1 1). A projectile, following the usual parabolic
+trajectory, explodes into fragments midway in
+air. The forces leading to the explosion are
+internal forces. They contribute nothing to the
+motion of the centre of mass. The total external
+force, namely, the force of gravity acting on the
+body, is the same before and after the explosion.
+The centre of mass under the inﬂuence of the
+external force continues, therefore, along the
+same parabolic trajectory as it would have
+followed if there were no explosion.
+
+7.4 LINEAR MOMENTUM OF A SYSTEM OF
+PARTICLES
+
+Let us recall that the linear momentum of a
+particle is defined as
+
+p = m v (7 . 12)
+
+Let us also recall that Newton’s second law
+
+written in symbolic form for a single particle is
+dp
+
+F:—
+dt (7.13)
+
+where F is the force on the particle. Let us
+consider a system of n particles with masses m1,
+
+Tl
+
+respectively. The particles may be interacting
+and have external forces acting on them. The
+
+n12,...mn respectively and velocities v1 ,v2 , ....... v
+
+linear momentum of the first particle is mlv1 ,
+
+of the second particle is m2v2 and so on.
+
+For the system of n particles, the linear
+momentum of the system is defined to be the
+vector sum of all individual particles of the
+system,
+
+P=p1+p2+...+pn
+
+=m1v1 +m2v2 +...+mnvn (7.14)
+Comparing this with Eq. (7 .8)
+P = M V (7 . 15)
+
+Thus, the total momentum of a system
+of particles is equal to the product of the
+total mass of the system and the velocity of
+its centre of mass. Differentiating Eq. (7.15)
+with respect to time,
+
+dP dV
+
+— = M— = MA
+
+dt dt (7'16)
+Comparing Eq. (7 . 16) and Eq. (7.1 1),
+
+——dP — (7 17)
+dt ext '
+
+This is the statement of Newton’s second law
+of motion extended to a system of particles.
+
+Suppose now, that the sum of external
+forces acting on a system of particles is zero.
+Then from Eq.(7.17)
+
+dP _
+
+dt
+
+Thus, when the total external force acting
+on a system of particles is zero, the total linear
+momentum of the system is constant. This is
+the law of conservation of the total linear
+momentum of a system of particles. Because of
+Eq. (7.15), this also means that when the
+total external force on the system is zero
+the velocity of the centre of mass remains
+constant. (We assume throughout the
+discussion on systems of particles in this
+chapter that the total mass of the system
+remains constant.)
+
+Note that on account of the internal forces,
+i.e. the forces exerted by the particles on one
+another, the individual particles may have
+
+0 or P = Constant (7.18a)
+
+2019-20

@@ -1,0 +1,18 @@
+Homework Helpers: Basic Math and Pre-Algebra
+134
+Convert  to a percent:
+So, the percent increase is 12.5%.
+As an alternative, you could have first converted   to a decimal
+and then changed the decimal representation to a percent by moving
+the decimal point two places to the right:
+= 0.125, or 12.5%.
+Example 2
+Find the percent decrease from 42 to 35.
+Solution: The first step in finding the percent decrease is to find
+the percent change. The percent change is found by first evaluating
+the ratio 
+Convert  to a decimal number by dividing: 
+Convert the decimal representation to a percent by moving the
+decimal point two places to the right: −0.2 = −20% . The percent
+change is –20%, and the percent decrease is 20%.
+www.ebook3000.com

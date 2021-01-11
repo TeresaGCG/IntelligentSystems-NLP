@@ -1,0 +1,47 @@
+2.6 Instructions for Making Decisions 77
+MIPS operands
+Name Example Comments
+32 registers $sO. $sl, ... , $s7 Fast locations for data. In MIPS, data must be in registers to perform arithmetic. Registers $sO-
+$s7 map to 16-23 and stO-st7 map to 8-15. MIPS register $zero always equals O.
+stO.$tl, ... ,st7 ,
+$zero
+30
+2 memory Memory[O), Accessed only by data transfer instructions in MIPS. MIPS uses byte addresses, so sequential
+words word addresses differ by 4. Memory holds data structures, arrays, and spilled registers.
+Memory[4), ... ,
+Memory[4294967292]
+MIPS assembly language
+Category Instruction Example Meaning Comments
+odd ,dd $s 1. $s2.$s3 $sl _ $s2 + $s3 Three operands; data in registers
+Arithmetic
+subtract ,ob $s 1. $s2.$s3 $sl _ $s2- $s3 Three operands; data in registers
+load word " $s l .100($s2 ) $s1 _ Memory[$ s2 + 100] Data from memory to register
+Data transfer
+store word " $sl.100($s2) Memory($ s2 + 1(0) _ $s1 Data from register to memory
+ood ,od $s1.$s2.$s3 $sl - $s2 &. $s3 Three reg. operands; bit.tly-bit AND
+0' " $s1.$s2.$s3 $sl - $s2 1 $s3 Three reg. operands; bit.tly-bit OR
+00' 0" $s1.$s2.$s3 $sl - ($ s21$s3) Three reg. operands; bit.tly-bit NOR
+Logical and immediate andi $s l .$s2. 100 $sl - $s2 &. 100 Bit.tly.tlit AND reg with constant
+",
+or immediate $s l .$s2. 100 $sl - $s2 1 100 Bit.tly.tlit OR reg with constant
+«
+,11
+shift left logical $s 1. $s2. 10 $sl - $s2 10 Shift left by constant
+shift right logical ;,1 $$s1.$s2.10 $sl - $s2» 10 Shift right by constant
+branch on equal b" $sl. $s2.L if ($sl """ $s2) goto L Equal test and branch
+branch on not bo, $sl. $s2.L if ($sl!= $s2)gotoL Not equal test and branch
+equal
+Conditional
+set on less than ,1t $s1. $s2. $s3 if ($s2 < $s3) $sl = 1; Compare less than; used with beq, bne
+branch
+else $sl = 0
+set on less than ,1t $sl. $s2.100 if ($s2 < 100)$sl_1; Compare less than immediate; used with
+immediate else $sl = 0 beQ, bne
+Unconditional jump j L go to L Jump to target address
+jump
+FIGURE 2.12 MIPS architecture revealed through Section 2.6. Highlighted portions show MIPS structures introouced in Section 2.6.
+C has many statements for decisions and loops while MIPS has few. Which of the Check
+following do or do not explain this imbalance? \-Vhy? Yourself
+I. More decision statements make code easier to read and understand.
+2. Fewer decision statements simplify the task of the underlying layer that is
+responsible for execution.

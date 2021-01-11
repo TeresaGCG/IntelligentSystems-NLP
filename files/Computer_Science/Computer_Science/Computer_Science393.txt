@@ -1,0 +1,63 @@
+6.1 An Overview of Plpellnlng 377
+200 400 600 800 1000
+Time , , ..... , , , •
+s;••
+[ll--4
+EX MEM
+add $sO, $tO, $11 I : I ....
+L___
+----
+FtGURE 6.4 Graphical representation of the Instruction pipeline, similar In spirit to the
+laundry pipeline In Figure 6.1 on page 371. Here we use symbols representing the physical
+resources with the abbreviations for pipeline stages used throughout the chapter. The symbols for the five
+stages: IF for the instruction fetch stage, with the box representing instruction memory; IV for the instruc-
+tion decode/register file read stage, with the drawing showing the register file being read; EX for the execu-
+tion stage, with the drawing representing the ALU; MEM for the memory access stage, with the box
+representing data memory; and for the write back stage, with the drawing showing the register file
+WB
+being written. The shading indicates the element is used by the instruction. Hence, MEM has awhite back-
+ground because add does not access the data memory. Shading on the rigltthalf ofthe register file or mem-
+ory means the element is read in that stage, and shading of the left half means it is written in that stage.
+Hence the right half of ID is shaded in the second stage because the register file is read, and the left half of
+is shaded in the fifth stage because the register file is WTitten.
+WB
+P"'9~
+execution
+200 400 600 800 1000
+....
+order Time , , , , , •
+(in instructions)
+r-- r.:'!~ i
+i~
+add $sO, $tO, $t1 1 1 ,,;,; MEM u : ,
+i
+~
+,--- C~
+sub $t2, $50, $13 1 ID MEM B
+....
+U
+,----
+Graphical representation of forwarding. The connection shows the forwarding path
+FtGURE 6.5
+from the output ofthe EX stage of add to the input ofthe EX stage for b, replacing the value from regis-
+5U
+ter S read in the second stage of uh.
+50 5
+instruction to the input of the execution stage of the following, since that would
+mean going backwards in time.
+Forwarding works very well and is described in detail in Section 6.4. It cannot
+prevent all pipeline stalls, however. For example, suppose the first instruction
+were a load of $sO instead of an add. As we can imagine from looking at Figure
+6.5, the desired data would be available only after the fourth stage of the first load-use data hazard A spe-
+cific form ofdata hazard in
+instruction in the dependence, which is too late for the input of the third stage of
+which the data requested by a
+sub. Hence, even with forwarding, we would have to stall one stage for a load-use
+load instruction has not yet
+data hazard, as Figure 6.6 shows. This figure shows an important pipeline con-
+become available when it is
+cept, officially called a pipeline stall, but often given the nickname bubble. We
+requested.
+shall see stalls elsewhere in the pipeline. Section 6.5 shows how we can handle pipeline stall Also called bub-
+hard cases like these, using either hardware detection and stalls or software that ble. Astall initiated in order to
+treats the load delay like a branch delay. resolve a hazard.

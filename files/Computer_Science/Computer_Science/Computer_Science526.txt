@@ -1,0 +1,42 @@
+510 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Check
+Which of the following is generally true about a design with multiple levels of
+Yourself caches?
+1. First-level caches are more concerned about hit time, and second-level
+caches are more concerned about miss rate.
+2. First-level caches are more concerned about rate, and second-level
+iniSS
+caches are more concerned about hit time.
+Summary
+In this section, we focused on three topics: cache performance, using associativity
+to reduce miss rates, and the use of multilevel cache hierarchies to reduce miss
+penalties.
+Since the total number of cycles spent on a program is the sum of the processor
+cycles and the memory-stall cycles, the memory system can have a significant effect
+on program execution time. In fact, as processors get faster (by lowering CPI or by
+increasing the clock rate or both), the relative effect of the memory-stall cycles
+increases, making good memory systems critical to achieving high performance.
+The number of memory-stall cycles depends on both the miss rate and the miss
+penalty. The challenge, as we will see in Section 7.5, is to reduce one of these factors
+without significantly affecting other critical factors in the memory hierarchy.
+To reduce the miss rate, we examined the use of associative placement schemes.
+Such schemes can reduce the miss rate of a cache by allowing more flexible place 
+ment of blocks within the cache. Fully associative schemes allow blocks to be
+placed anywhere, but also require that every block in the cache be searched to sat 
+isfy a request. This search is usually implemented by having a comparator per
+cache block and searching the tags in parallel. The cost of the comparators makes
+large fully associative caches impractical. Set-associative caches are a practical alter 
+native, since we need only search am ong the elements of a unique set that is cho 
+sen by indexing. Set-associative caches have higher miss rates but are fa ster to
+access. The amount of associativity that yields the best performance depends on
+both the technology and the details of the implementation.
+Finally, we looked at multilevel caches as a technique to reduce the miss pen 
+alty by allowing a larger secondary cache to handle misses to the primary cache.
+Second-level caches have become commonplace as designers find that limited
+silicon and the goals of high clock rates prevent primary caches from becoming
+large. The secondary cache, which is often 10 or more times larger than the pri 
+mary cache, handles many accesses that miss in the primary cache. In such
+cases, the miss penalty is that of the access time to the secondary cache (typically
+<
+10 processor cycles) versus the access time to memory (typically> 100 proces 
+sor cycles). As with associativity, the design trade-offs between the size of the

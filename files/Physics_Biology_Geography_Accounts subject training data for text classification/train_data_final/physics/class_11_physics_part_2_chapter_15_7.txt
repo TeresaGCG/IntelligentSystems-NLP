@@ -1,0 +1,106 @@
+374
+
+PHYSICS
+
+ 
+
+in general) and elastic properties (Young’s
+modulus for linear media / shear modulus, bulk
+modulus) of the medium. The medium
+determines the speed; Eq. (15.12) then relates
+wavelength to frequency for the given speed. Of
+course, as remarked earlier, the medium can
+support both transverse and longitudinal waves,
+which will have different speeds in the same
+medium. Later in this chapter, we shall obtain
+specific expressions for the speed of mechanical
+waves in some media.
+
+15.4.1 Speed of a Transverse Wave on
+Stretched String
+
+The speed of a mechanical wave is determined
+by the restoring force setup in the medium when
+it is disturbed and the inertial properties (mass
+density) of the medium. The speed is expected to
+be directly related to the former and inversely to
+the latter. For waves on a string, the restoring
+force is provided by the tension Tin the string.
+The inertial property will in this case be linear
+mass density p, which is mass m of the string
+divided by its length L. Using Newton’s Laws of
+Motion, an exact formula for the wave speed on
+a string can be derived, but this derivation is
+outside the scope of this book. We shall,
+therefore, use dimensional analysis. We already
+know that dimensional analysis alone can never
+yield the exact formula. The overall
+dimensionless constant is always left
+undetermined by dimensional analysis.
+
+The dimension of ,u is [ML—1] and that of T is
+like force, namely [MLT2]. We need to combine
+these dimensions to get the dimension of speed
+v [L’ILI]. Simple inspection shows that the
+quantity T/u has the relevant dimension
+
+[MLT—Z]
+[MEI]
+
+Thus if T and u are assumed to be the only
+relevant physical quantities,
+
+=[L2T-2]
+
+v =C E (15.13)
+
+y
+where C is the undetermined constant of
+dimensional analysis. In the exact formula, it
+turms out, C=l. The speed of transverse waves
+on a stretched string is given by
+
+v = 3 (15.14)
+
+)1
+
+Note the important point that the speed v
+depends only on the properties of the medium T
+and ,u (T is a property of the stretched string
+arising due to an external force). It does not
+depend on wavelength or frequency of the wave
+itself. In higher studies, you will come across
+waves whose speed is not independent of
+frequency of the wave. Of the two parameters 2L
+and v the source of disturbance determines the
+frequency of the wave generated. Given the
+
+Propagation of a pulse on a rope
+You can easily see the motion of a pulse on a rope. You can also see
+its reﬂection from a rigid boundary and measure its velocity of travel.
+You will need a rope of diameter 1 to 3 cm, two hooks and some
+weights. You can perform this experiment in your classroom or
+laboratory.
+
+Take a long rope or thick string of diameter 1 to 3 cm. and tie it to
+hooks on opposite walls in a hall or laboratory. Let one end pass on
+a hook and hang some weight [about 1 to 5 kg) to it. The walls may
+be about 3 to 5 m apart.
+
+Take a stick or a rod and strike the rope hard at a point near one
+end. This creates a pulse on the rope which now travels on it. You
+can see it reaching the end and reﬂecting back from it. You can
+check the phase relation between the incident pulse and reﬂected
+pulse. You can easily watch two or three reﬂections before the pulse
+dies out. You can take a stopwatch and find the time for the pulse
+to travel the distance between the walls. and thus measure its
+
+velocity. Compare it with that obtained from Eq. [15.14].
+
+This is also what happens with a thin metallic string of a musical instrument. The major difference is
+that the velocity on a string is fairly high because of low mass per unit length. as compared to that on a
+thick rope. The low velocity on a rope allows us to watch the motion and make measurements beautifully.
+
+ 
+
+2019-20

@@ -1,0 +1,36 @@
+Homework Helpers: Basic Math and Pre-Algebra
+162
+Keep in mind that it doesn’t matter what we name an expression, just as
+it doesn’t matter what we name a variable. We will interchange y and ƒ(x)
+frequently, sometimes in the middle of working out one problem! It’s
+important that you remember that y and ƒ(x) are common names to de-
+note an expression.
+A function is a specific type of relation, and, because of that, we can
+represent a function in the same way that we can represent a relation:
+words, a formula, a table of input and output values, a list of ordered
+pairs, or a graph are all examples of ways used to describe a function.
+Lesson 9-2: Linear Functions and Equations
+A linear function is one of the nicest functions to work with. A linear
+function is created when we name a linear expression. Remember that a
+linear expression contains only constants and one variable raised to the
+first power. The function ƒ(x) = 3x + 2 is an example of a linear function.
+If the function is called y instead of ƒ(x) you will see it written as y= 3x+ 2.
+Don’t let the names bother you; it doesn’t matter how we name the func-
+tion. What matters is the formula that describes it. Two functions that
+have different names, but are described using the same formula, repre-
+sent the same function.
+Linear functions are usually written as ƒ(x) = mx + b, where m and b
+are constants and x is the independent variable. The constants m and b
+are very important and have special names. The constant m is called the
+slope, and the constant b is called the y-intercept. Functions of this form
+are called linear because their graphs are lines. Every linear function
+involves two constants, the slope and the y-intercept, and one indepen-
+dent variable with an exponent equal to 1.
+We can evaluate functions for particular values of the independent
+variable.
+Example 1
+Evaluate the function y= 3x+ 2 when x= 2 and write your answer
+as an ordered pair.
+Solution: When x= 2, y= 3 ⋅ 2 + 2 = 6 + 2 = 8. This corresponds to
+the ordered pair (2, 8).
+www.ebook3000.com

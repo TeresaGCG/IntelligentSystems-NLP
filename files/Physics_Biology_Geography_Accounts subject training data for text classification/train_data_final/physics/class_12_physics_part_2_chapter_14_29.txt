@@ -1,0 +1,90 @@
+496
+
+i Physics
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+16.
+
+17.
+
+18.
+
+19.
+
+ 
+
+There are two distinct band of energies [called valence band and
+conduction band] in which the electrons in a material lie. Valence
+band energies are low as compared to conduction band energies. AH
+energy levels in the valence band are filled while energy levels in the
+conduction band may be fully empty or partially filled. The electrons in
+the conduction band are free to move in a solid and are responsible for
+the conductivity. The extent of conductivity depends upon the energy
+gap [E9] between the top of valence band (EV) and the bottom of the
+conduction band EC. The electrons from valence band can be excited by
+heat, light or electrical energy to the conduction band and thus, produce
+a change in the current ﬂowing in a semiconductor.
+
+For insulators Eg> 3 eV, for semiconductors Eg is 0.2 eV to 3 eV, while
+for metals Eg z 0.
+
+p—n junction is the ‘key’ to all semiconductor devices. When such a
+junction is made. a ‘depletion layer’ is formed consisting of immobile
+ion—cores devoid of their electrons or holes. This is responsible for a
+junction potential barrier.
+
+By changing the external applied voltage, junction barriers can be
+changed. In forward bias (n-side is connected to negative terminal of the
+battery and p—side is connected to the positive), the barrier is decreased
+while the barrier increases in reverse bias. Hence, forward bias current
+is more [mA] while it is very small [11A] in a p-n junction diode.
+
+Diodes can be used for rectifying an ac voltage (restricting the ac voltage
+to one direction). With the help of a capacitor or a suitable filter, a dc
+voltage can be obtained.
+
+There are some special purpose diodes.
+
+Zener diode is one such special purpose diode. In reverse bias, after a
+certain voltage. the current suddenly increases [breakdown voltage] in
+a Zener diode. This property has been used to obtain voltage regulation
+
+p—n junctions have also been used to obtain many photonic or
+optoelectronic devices where one of the participating entity is ‘photon’:
+(a) Photodiodes in which photon excitation results in a change of reverse
+saturation current which helps us to measure light intensity; (b) Solar
+cells which convert photon energy into electricity; [c] Light Emitting
+Diode and Diode Laser in which electron excitation by a bias voltage
+results in the generation of light.
+
+There are some special circuits which handle the digital data consisting
+of 0 and 1 levels. This forms the subject of Digital Electronics.
+
+The important digital circuits performing special logic operations are
+called logic gates. These are: OR, AND, NOT, NAND. and NOR gates.
+
+POINTS TO PONDER
+
+The energy bands (EC or EV) in the semiconductors are space delocalised
+which means that these are not located in any specific place inside the
+solid. The energies are the overall averages. When you see a picture in
+which EC or EV are drawn as straight lines, then they should be
+respectively taken simply as the bottom of conduction band energy levels
+and top of valence band energy levels.
+
+In elemental semiconductors (Si or Ge), the n—type or p—type
+semiconductors are obtained by introducing ‘dopants’ as defects. In
+compound semiconductors, the change in relative stoichiometric ratio
+can also change the type of semiconductor. For example. in ideal GaAs
+
+2019-20

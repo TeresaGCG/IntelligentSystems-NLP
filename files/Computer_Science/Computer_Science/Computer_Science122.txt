@@ -1,0 +1,37 @@
+106 Chapter 2 Instructions: Language of the Computer
+Translating and Starting a Program
+This section describes the four steps in transforming a C program in file on disk
+:I
+into a program running on a computer. Figure 2.28 shows the translation hierar 
+chy. Some systems combine these steps to reduce translation time, but these are
+the logical four phases that programs go through. This section follows this trans 
+lation hierarchy.
+I C program I
+"
+( Compiler)
+"-
+Assembly language program
+( Assembler
+"
+I I I
+Object: Machine language mcx:lule Object: Library routine (machine language) I
+/
+(
+Linker )
+"-
+Exea.Jtable: Machine language program
+"
+(
+Loader
+"
+Memory
+FIGURE 2.28 A translation hierarchy for C. A hlgh·level·language program IS first complIed mto
+an assembly langu.1ge program and then assembled into an object mooule in machine language. The linker
+combines multiple modules with library routines to resolve all references. The loader then places the
+machine cooe into the proper memory locations for execution by the processor. To speed up the translation
+process, some steps are skipped or combined together. Some compilers produce object mooules directly,
+and some systems use linking loaders that perform the last two steps. To identify the type of file, UNIX fol 
+lows a suffix convention for files: C source files are named x. c, assembly files are x. 5, object files are
+named x. 0, statically linked library routines are x. a, dynamically linked library routes are x. 50, and exe 
+cutable files by default are called d . OUt. MS-DOS uses the suffixes .C, .ASM, . OBJ, .ll B, . Dll, and. EXE
+to the same effect.

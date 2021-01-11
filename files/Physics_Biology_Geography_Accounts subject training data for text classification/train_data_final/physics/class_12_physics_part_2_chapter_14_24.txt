@@ -1,0 +1,66 @@
+Semiconductor Electronics:
+Materials, Devices and
+Simple Circuits
+
+In digital circuits only two values (represented by O or 1) of the input and
+output voltage are permissible.
+
+This section is intended to provide the ﬁrst step in our understanding
+of digital electronics. We shall restrict our study to some basic building
+blocks of digital electronics (called Logic Gates) which process the digital
+signals in a specific manner. Logic gates are used in calculators, digital
+watches, computers, robots, industrial control systems, and in
+telecommunications.
+
+A light switch in your house can be used as an example of a digital
+circuit. The light is either ON or OFF depending on the switch position.
+When the light is ON, the output value is ‘1’. When the light is OFF the
+output value is ‘0’. The inputs are the position of the light switch. The
+switch is placed either in the ON or OFF position to activate the light.
+
+Time
+
+Voltage amplitude
+Voltage amphtude
+
+ 
+
+(a)
+FIGURE 14.27 (a) Analog signal. (b) Digital signal.
+
+14.9.1 Logic gates
+
+A gate is a digital circuit that follows curtain logical relationship A Y
+between the input and output voltages. Therefore, they are generally
+
+known as logic gates — gates because they control the ﬂow of (a)
+
+information. The five common logic gates used are NOT, AND, OR,
+NAND, NOR. Each logic gate is indicated by a symbol and its function
+is defined by a truth table that shows all the possible input logic level
+combinations with their respective output logic levels. Truth tables
+help understand the behaviour of logic gates. These logic gates can be
+realised using semiconductor devices.
+
+(i) NOT gate
+
+This is the most basic gate, with one input and one output. It produces
+a ‘1’ output if the input is ‘0’ and vice-versa. That is, it produces an
+
+ 
+
+inverted version of the input at its output. This is why it is also known (b)
+
+as an inverter. The commonly used symbol together with the truth FIGURE 14.28
+
+table for this gate is given in Fig. 14.28. (:1) Logic symbol.
+
+(ii) OR Gate (1)] Truth table of
+NOT gate.
+
+An OR gate has two or more inputs with one output. The logic symbol
+and truth table are shown in Fig. 14.29. The output Y is 1 when either
+input A or input B or both are Is, that is, if any of the input is high, the
+output is high. 49 1
+
+2019-20

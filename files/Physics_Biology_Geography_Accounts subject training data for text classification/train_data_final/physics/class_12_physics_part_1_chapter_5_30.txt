@@ -1,0 +1,80 @@
+5.20
+
+5.21
+
+5.22
+
+5.23
+
+5.24
+
+5.25
+
+Magnetism and
+Matter
+
+ 
+
+earth’s magnetic field at the place is 0.39 G, and the angle of dip is
+
+35°. The magnetic declination is nearly zero. What are the resultant
+
+magnetic ﬁelds at points 4.0 cm below the cable?
+
+A compass needle free to turn in a horizontal plane is placed at the
+
+centre of circular coil of 30 turns and radius 12 cm. The coil is in a
+
+vertical plane making an angle of 45° with the magnetic meridian.
+
+When the current in the coil is 0.35 A, the needle points west to
+
+east.
+
+(a) Determine the horizontal component of the earth’s magnetic field
+at the location.
+
+(b) The current in the coil is reversed, and the coil is rotated about
+its vertical axis by an angle of 90° in the anticlockwise sense
+looking from above. Predict the direction of the needle. Take the
+magnetic declination at the places to be zero.
+
+A magnetic dipole is under the inﬂuence of two magnetic ﬁelds. The
+angle between the field directions is 60°, and one of the ﬁelds has a
+magnitude of 1.2 X 10’2 T. If the dipole comes to stable equilibrium at
+an angle of 15° with this field, what is the magnitude of the other
+field?
+
+A monoenergetic (18 keV) electron beam initially in the horizontal
+direction is subjected to a horizontal magnetic field of 0.04 G normal
+to the initial direction. Estimate the up or down deﬂection of the
+beam over a distance of 30 cm (me = 9.11 X 10’31 kg). [Note: Data in
+this exercise are so chosen that the answer will give you an idea of
+the effect of earth’s magnetic ﬁeld on the motion of the electron beam
+from the electron gun to the screen in a TV set.]
+
+A sample of paramagnetic salt contains 2.0 X 1024 atomic dipoles
+each of dipole moment 1.5 X 10’23 J T4. The sample is placed under
+a homogeneous magnetic ﬁeld of 0.64 T, and cooled to a temperature
+of 4.2 K. The degree of magnetic saturation achieved is equal to 15%.
+What is the total dipole moment of the sample for a magnetic field of
+0.98 T and a temperature of 2.8 K? (Assume Curie’s law)
+
+A Rowland ring of mean radius 15 cm has 3500 turns of wire wound
+on a ferromagnetic core of relative permeability 800. What is the
+magnetic field B in the core for a magnetising current of 1.2 A?
+
+The magnetic moment vectors us and "1 associated with the intrinsic
+spin angular momentum S and orbital angular momentum 1,
+respectively, of an electron are predicted by quantum theory (and
+veriﬁed experimentally to a high accuracy) to be given by:
+
+u, = -(e/ m) S,
+111 = -(e/2m)l
+
+Which of these relations is in accordance with the result expected
+classically? Outline the derivation of the classical result.
+
+2019-20
+
+203

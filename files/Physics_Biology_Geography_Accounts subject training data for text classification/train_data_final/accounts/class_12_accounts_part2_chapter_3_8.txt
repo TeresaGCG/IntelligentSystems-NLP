@@ -1,0 +1,57 @@
+Financial Statements of a Company 1 4 7
+
+Money Received against share warrants
+Money received against share warrants' to be disclosed as a separate line item
+under ‘shareholder's fund'.
+
+Illustration 1
+
+Dinkar Ltd. has an authorised capital of Rs. 50,00,000 divided into equity shares
+of Rs. 100 each. The company invited applications for 40,000 shares, applications
+for 36,000 shares were received. All calls were made and duly received except
+for 500 shares on which the ﬁnal call of Rs. 20 was not received. The company
+forfeited 200 shares on which ﬁnal call was not received. Show how share capital
+will appear in the balance sheet of the company. Also prepare ‘Notes to Accounts'
+for the same.
+
+Solution:
+Books of Dinkar Limited
+Balance Sheet as at (Date)
+
+Particulars Note
+No. (Rs.)
+
+I. Equity and Liabilities
+1. Shareholders‘ funds
+a) Share capital 1 35,90,000
+
+Notes to Accounts
+
+mm
+(R5,) (Rs)
+
+1. Share capital
+Authorised share capital
+50,000 equity shares of Rs. 100 each 50,00,000
+
+Issued capital
+40,000 equity shares of Rs. 100 each 40,00,000
+
+Subscirbed and fully paid up capital
+35,500 equity shares of Rs. 100 each
+fully paid 35,50,000
+Subscirbed but not fully paid-up capital
+300 equity shares of Rs. 100 each fully
+called up 30,000
+Less: Calls-in-arrears (300x20) (6,000)
+24,000
+Add: Share forfeiture A/c [200 shares x Rs. 80) 16,000
+35,90,000
+
+ 
+
+ 
+
+Current and Non-current Classiﬁcation
+The classified balance sheet in terms of current and non-current assets
+and current and non—current liabilities have been introduced. The

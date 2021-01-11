@@ -1,0 +1,61 @@
+Issue and Redemption of Debentures 1 2 1
+
+Statement of proﬁt and loss
+To Discount on Issue of Debenture A/c
+(Discount on issue of debentures written-off)
+
+Balance in Statement of proﬁt and loss . 2.00.000
+To Debenture Redemption Reserve A/c 2.00.000
+(Transfer of proﬁts DRR)
+
+Debenture Redemption Investment A/c
+To Bank A/c
+(Required amount invested in DRI)
+
+Bank A/c
+
+To Debenture Redemption Investment A/c
+(DRI encashed at the time of Redemption of
+debentures)
+
+6% Debentures A/c
+
+To Bank A/c
+
+To Proﬁt on Redemption of Debenture A/c
+(Redemption of 80 debentures by purchasing @ Rs
+950 per debenture)
+
+6% Debentures A/c Dr. 1.20.000
+To Bank A/c 1.08.000
+To Proﬁt on Redemption of Debentures A/c 12.000
+(Redemption of 80 debentures @ Rs 900 by
+purchasing in open market)
+
+Proﬁt on Redemption of Debentures A/c Dr.
+To Capital Reserve A/c
+
+(Transfer of proﬁts on cancellation of debentures
+
+of Capital Reserve A/c)
+
+Statement of proﬁt and loss Dr.
+To Discount on Issue of Debentures A/c
+(Discount on debentures written-off)
+
+Debenture Redemption Reserve A/c Dr.
+
+To General Reserve A/c
+(Debenture Redemption Reserve in r/o debentures
+redeemed transferred to General Reserve A/c)
+
+ 
+
+2.14 Redemption by Conversion
+
+As stated earlier the debentures can also be redeemed by converting them into
+shares or new debentures. If debentureholders ﬁnd that the offer is beneﬁcial to
+them, they will take advantage of this offer. The new shares or debentures may
+be issued at par, at a discount or at a premium. It may be noted that no
+Debenture Redemption Reserve is required in case of convertible debentures
+because no funds are required for redemption.

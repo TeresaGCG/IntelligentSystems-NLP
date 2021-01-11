@@ -1,0 +1,48 @@
+4.1 Introduction 243
+1
+Performance =
+x
+Execution timex
+This mea ns that for two computers X and Y, if the performance of X is greater
+than the performance ofY, we have
+>
+Performance Perforrnance
+x y
+1 1
+oo----,,-'----c- > oo----,,-'----c 
+Execution timex Execution time
+y
+>
+Execution time Execution timex
+y
+That is, the execution time on Y is longer than that on X, if X is faster than Y.
+In discussing a computer design, we often want to relate the performance of
+two different computers quantitatively. We will use the phrase "X is times faster
+11
+than y"-or equivalently "X is times as fast as y"-to mea n
+11
+Performance
+x
+=
+11
+Performance
+y
+If X is times faster than Y, then the execution time on Y is times longer than it is
+11 11
+onX:
+Performance Execution time
+x y
+n
+Performance Execution timex
+y
+Relative Performance
+If computer A runs a program in 10 seconds and computer B runs the same EXAMPLE
+program in 15 seconds, how much faster is A than B?
+We know that A is 11 times fa ster than B if ANSWER
+Performance" Execution times
+"
+Performances Execution time"
+Thus the performance ratio is
+15 = 1.5
+10
+and A is therefore 1.5 times faster than B.

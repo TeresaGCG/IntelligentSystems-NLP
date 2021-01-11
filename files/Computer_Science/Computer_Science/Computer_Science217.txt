@@ -1,0 +1,37 @@
+3.6 Floating Point 201
+Sign Exponent Fraction Sign Exponent Fraction
+Compare
+,
+""small ALU/
+exponent
+Exponent
+difference
+0 1 . ( 0 1 0 1
+I
+/ "-
+Shift smalIer
+Cont~I Shift right
+number right
+'-
+V /
+Add
+BigALU
+"'"
+0 1 0 1
+•
++
+Increment or
+Shift left or right •
+Normaliz
+decrement
++
+Rounding hardware Round
+I I I
+Sign Exponent Fraction
+FtGURE 3.17 Block diagram of an arithmetic unit dedicated to floating-poInt addition. The steps ofFigure 3.16 cor·
+respond to each block, from top to bottom. First, the exponent of one operand is subtracted from the other using the small ALU to
+determine which is larger and by how much. This difference controls the three multiplexors; from left to right, they select the larger
+exponem, the significand of the smaller mUlIber, and the significand of the larger mUlIber. The smaller significand is shifted right,
+and then the significands are added together using the big ALU. The normalization step then shifts the sum left or right and incre·
+ments or decrements the exponent. Rounding then creates the final result, which may require normalizing again to proouce the final
+result.

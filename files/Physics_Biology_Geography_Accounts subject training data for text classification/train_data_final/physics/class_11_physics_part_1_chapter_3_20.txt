@@ -1,0 +1,57 @@
+MOTION IN A STRAIGHT LINE 59
+—
+
+3.22 Figure 3.25 gives a speed—time graph of
+a particle in motion along a constant
+direction. Three equal intervals of time
+are shown. In which interval is the
+average acceleration greatest in
+magnitude ? In which interval is the
+average speed greatest ? Choosing the
+positive direction as the constant
+direction of motion, give the signs of v
+and a in the three intervals. What are
+the accelerations at the points A, B, C
+and D ?
+
+ 
+
+Additional Exercises
+
+3.23 A three—wheeler starts from rest, accelerates uniformly with 1 m 5‘2 on a straight
+road for 10 s, and then moves with uniform velocity. Plot the distance covered by
+the vehicle during the nth second [n = 1,2,3....] versus n. What do you expect this
+plot to be during accelerated motion : a straight line or a parabola ?
+
+3.24 A boy standing on a stationary lift [open from above] throws a ball upwards with
+the maximum initial speed he can, equal to 49 m s4. How much time does the ball
+take to return to his hands? If the lift starts moving up with a uniform speed of
+5 m s’1 and the boy again throws the ball up with the maximum speed he can, how
+long does the ball take to return to his hands ?
+
+3.25 On a long horizontally moving belt (Fig. 3.26), a child runs to and fro with a speed
+9 km h [with respect to the belt] between his father and mother located 50 m apart
+on the moving belt. The belt moves with a speed of 4 km h‘l. For an observer on a
+stationary platform outside, what is the
+[a] speed of the child running in the direction of motion of the belt ?.
+(b) speed of the child running opposite to the direction of motion of the belt ?
+(c) time taken by the child in (a) and [b] ?
+
+Which of the answers alter if motion is viewed by one of the parents ?
+
+Moving belt , 4 km/h
+
+ 
+
+Stationary observer
+
+Fig. 3.26
+
+3.26 Two stones are thrown up simultaneously from the edge of a cliff 200 m high with
+initial speeds of 15 m s*1 and 30 m s4. Verify that the graph shown in Fig. 3.27
+correctly represents the time variation of the relative position of the second stone
+with respect to the first. Neglect air resistance and assume that the stones do not
+rebound after hitting the ground. Take 9 = 10 m s”. Give the equations for the
+linear and curved parts of the plot.
+
+2019-20

@@ -1,0 +1,68 @@
+Accounting for Share Capital 3
+
+(ii)
+
+(iii)
+
+his part whatsoever may be the debts of the company. He need not pay a
+single paise from his private property. However, if there is any liability
+involved, it can be enforced during the existence of the company as well
+as during the winding up.
+
+Companies Limited by Guarantee: In this case, the liability of its members
+is limited to the amount they undertake to contribute in the event of the
+company being wound up. Thus, the liability of the members will arise
+only in the event of its winding up.
+
+Unlimited Companies: When there is no limit on the liability of its
+members, the company is called an unlimited company. When the
+company’s property is not sufﬁcient to pay off its debts, the private
+property of its members can be used for the purpose. In other words, the
+creditors can claim their dues from its members. Such companies are
+not found in India even though permitted by the Companies Act.
+
+On the basis of the number of members, companies can be divided into
+three categories as follows:
+
+(i)
+
+(ii)
+
+(iii)
+
+Public Company: A public company means a company which (a) is not a
+private company; (b) is a company which is not a subsidiary of a private
+
+company.
+
+Private Company: A private company is one which by its articles:
+
+(a) Restricts the right to transfer its shares;
+
+(b) A private company must have at least 2 persons, except in case of
+one person company;
+
+(c) Limits the number of its members to 200 (excluding its employees);
+
+One Person Company (OPC): Sec. 2 (62) of the companies Act, 2013,
+deﬁnes OPC as a “company which has only one person as a member”.
+Rule 3 of the Companies (Incorporation) Rules, 20 14 provides that:
+
+(a) Only a natural person being an Indian citizen and resident in
+India can form one person company,
+
+(b) It cannot carry out non-banking financial investment activities.
+
+(c) Its paid up share capital is not more than Rs. 50 Lakhs
+
+(d) Its average annual turnover of three years does not exceed
+Rs. 2 Crores.
+
+1.3 Share Capital of a Company
+
+A company, being an artiﬁcial person, cannot generate its own capital which has
+necessarily to be collected from several persons. These persons are known as
+shareholders and the amount contributed by them is called share capital. Since the
+number of shareholders is very very large, a separate capital account cannot be
+opened for each one of them. Hence, innumerable streams of capital contribution
+merge their identities in a common capital account called as ‘Share Capital Account'.

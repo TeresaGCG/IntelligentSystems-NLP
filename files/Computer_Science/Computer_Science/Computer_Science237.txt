@@ -1,0 +1,59 @@
+3.8 Fallacies and Pitfalls 221
+38 38
+For example, suppose x = - I.S X 10 , Y = I.S X 10 , and z = 1.0, and that
+ten ten
+these are all single precision numbers. Then
+x + (y+ )z =- I.S X 1038+ ( I.S X 103+81.0)
+ten ten
+38 ( 38)
+= - I.S X 10 + I.S X 10 = 0.0
+ten ten
+38 38
+(x + y) + z = (- I.S X 10 + I.S X 10 ) + 1.0
+ten ten
+= (O.Oten) + 1.0
+= 1.0
+Therefore, x + (y + z) (x + y) + z .
+-:/c-
+Since floating-point numbers have limited precision and result in approxima 
+38 38
+tions of real results, I.S X 10 is so much larger than l.0 that I.S X 10 +
+ten ten ten
+38
+1.0 is still I.S X 10 . That is why the sum of x, y, and z is 0.0 or 1.0, depending
+ten
+on the o rder of the floating-point additions, and hence floating-point add is not
+associative.
+Fallacy: just as a left shift instrtlctioll replace all integer multiply by a power
+CIlll
+of2, a right shift is the same as an integer division by a power of2.
+Recall that a binary number x, where xi means the ith bit, represents the number
++ ~3X23) + (x2X22) + (xI X21) + (xOX20)
+...
+n
+Shifting the bits of x right by n bits would seem to be the same as dividing by 2 .
+And this is true for unsigned integers. The problem is with signed integers. For
+example, suppose we wa nt to divide -Sten by 4 ; the quotient should be - Iten.
+ten
+The two's com plement representation of -Sten is
+111111111111111111111111 1111 1011
+two
+2
+According to this fallacy, shifting right by two should divide by 4 (2 ):
+ten
+00111111111111111111111111111110
+two
+With a 0 in the sign bit, this result is clearly wrong. The value created by the shift
+right is actually 1,073,741 ,822 instead of - Iten.
+ten
+II
+A solution would be to have an arithmetic right shift (see In More Depth:
+Booth's Algorithm) that extends the sign bit instead of shifting in Os. A 2-bit arith 
+metic shift right of -Sten produces
+11111111111111111111111111111110
+two
+The result is -2 instead of - Iten; close, but no cigar.
+ten
+The PowerPC, however, does have a fast shift instruction (sh ift right algebraic)
+that in conjunction with a special add (add with carry) gives the same answer as
+dividing by a power of 2.

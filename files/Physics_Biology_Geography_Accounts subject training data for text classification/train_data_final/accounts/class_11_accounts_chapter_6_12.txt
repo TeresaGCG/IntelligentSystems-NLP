@@ -1,0 +1,53 @@
+192 Accountancy
+
+6.6 Rectiﬁcation of Errors
+
+From the point of view of rectiﬁcation, the errors may be classiﬁed into the
+following two categories:
+
+(a) errors which do not affect the trial balance.
+
+(b) errors which affect the trial balance.
+This distinction is relevant because the errors which do not affect the trial
+balance usually take place in two accounts in such a manner that it can be
+easily rectified through a journal entry whereas the errors which affect the
+trial balance usually affect one account and a journal entry is not possible for
+rectiﬁcation unless a suspense account has been opened. Such errors are rectiﬁed
+
+by passing a nullifying entry in the respective account as explained before under
+6.6.2.
+
+6.6.1 Rectification of Errors which do not Affect the Trial Balance
+
+These errors are committed in two or more accounts. Such errors are also known
+as two sided errors. They can be rectified by recording a j ournal entry giving the
+correct debit and credit to the concerned accounts.
+
+Examples of such errors are — complete omission to record an entry in the
+books of original entry; wrong recording of transactions in the book of accounts;
+complete omission of posting to the wrong account on the correct side, and
+errors of principle.
+
+The rectiﬁcation process essentially involves:
+° Cancelling the effect of wrong debit or credit by reversing it; and
+0 Restoring the effect of correct debit or credit.
+
+For this purpose, we need to analyse the error in terms of its effect on the
+
+accounts involved which may be:
+
+(i) Short debit or credit in an account; and / or
+(ii) Excess debit or credit in an account.
+
+Therefore, rectification entry can be done by:
+(i) debiting the account with short debit or with excess credit,
+(ii) crediting the account with excess debit or with short credit.
+The procedure for rectiﬁcation for such errors is explained with the help of
+following examples:
+
+(a) Credit sales to Mohan ? 10,000 were not recorded in the sales book. This is an error
+of complete omission. Its affect is that Mohan’s account has not been debited and
+Sales account has not been credited. Accordingly, recording usual entry for credit
+sales will rectify the error.
+
+2019-2020

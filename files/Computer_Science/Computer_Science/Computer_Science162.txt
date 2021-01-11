@@ -1,0 +1,51 @@
+146 Chapter 2 Instructions: Language of the Computer
+_ . . .
+MIPS Instructions Name Pseudo MIPS
+,dd ,dd R move R
+m"~
+subtract ,ob R, multiply mult R,
+add immediate add1 , multiply immediate multi ,
+load word , load immediate 1; ,
+"
+store word " , branch less than b1t ,
+load half 1h , branch less than or equal Ol, ,
+store half ,h , branch greater than bgt ,
+load byte 1b , branch greater than or equal bg,
+,b
+store byte ,
+load upper immediate 1ui
+eo' eod R
+"' "' R
+0"'
+'" R,
+and immediate and1 ,
+ori
+or immediate
+shift left logical ,II R
+,,'
+shift right logical R,
+branch on equal be, ,
+branch on not equal boe
+set less than ,lt R,
+set less than slti
+immediate
+jump j J
+j,
+jump register R
+j,]
+jump and link J
+FIGURE 2.47 The MIPS Instruction set covered so far, with the real MIPS Instructions on
+the left and the pseudolnstruc:tlons on the right. • Appendix A (Section A. 10, on page A-45)
+describes the full MIPS architecture. Figure 2.27 shows more details of the MIPS architecture revealed in
+this chapter.
+Frequency
+Instruction class MIPS examples HLl correspondence
+Arithmetic add. sub. addi operations in assignment statements 24% 48%
+Data transfer lw. sw. lb. sb. lui references to data structures, such as arrays 36% 39%
+Logical and. or. nor. andi. ori. operations in assignment statements 18% 4%
+sl1. srl
+Conditional branch beq.bne. sl t. s lti if statements and loops 18% 6%
+Jump j.jr.jal procedure calls, returns, and case/switch statements 3% 0%
+FIGURE 2.48 MIPS Instruction classes, examples, correspondence to high-level program language constructs, and percent 
+age of MIPS Instructions executed by category for average of five SPEC2000 Integer programs and five SPEC2000 floating
+point programs. Figure 3.26 shows the percentage of the individual MIPS instructions executed.

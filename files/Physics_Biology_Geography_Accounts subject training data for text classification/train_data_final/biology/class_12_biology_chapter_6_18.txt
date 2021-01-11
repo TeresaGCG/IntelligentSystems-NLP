@@ -1,0 +1,55 @@
+MOLECULAR BASIS OF INHERITANCE
+
+Now try the opposite. Following is the sequence of amino acids coded
+by an mRNA. Predict the nucleotide sequence in the RIVA:
+
+Met-Phe-Phe-Phe-Phe-Phe-Phe
+Do you face any difﬁculty in predicting the opposite?
+
+Can you now correlate which two properties of genetic code you have
+learnt?
+
+6.6. 1 Mutations and Genetic Code
+
+The relationships between genes and DNA are best understood by mutation
+studies. You have studied about mutation and its effect in Chapter 5. Effects
+of large deletions and rearrangements in a segment of DNA are easy to
+comprehend. It may result in loss or gain of a gene and so a function. The
+effect of point mutations will be explained here. A classical example of
+point mutation is a change of single base pair in the gene for beta globin
+chain that results in the change of amino acid residue glutamate to valine.
+It results into a diseased condition called as sickle cell anemia. Effect of
+point mutations that inserts or deletes a base in structural gene can be
+better understood by following simple example.
+
+Consider a statement that is made up of the following words each
+having three letters like genetic code.
+
+RAM HAS RED CAP
+
+If we insert a letter B in between HAS and RED and rearrange the
+statement, it would read as follows:
+
+RAMHASBREDCAP
+
+Similarly, if we now insert two letters at the same place, say BI'. Now it
+would read,
+
+RAM HAS BIR EDC AP
+Now we insert three letters together, say BIG, the statement would read
+RAM HAS BIG RED CAP
+
+The same exercise can be repeated, by deleting the letters R, E and D,
+one by one and rearranging the statement to make a triplet word.
+
+RAM HAS EDC AP
+RAM HAS DCA P
+RAMHAS CAP
+
+The conclusion from the above exercise is very obvious. Insertion or
+deletion of one or two bases changes the reading frame from the point of
+insertion or deletion. However, such mutations are referred to as
+
+2019—2020
+
+113

@@ -1,0 +1,26 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Exponents
+Recall that multiplication is shorthand notation for addition:
+4× 5 = 4 + 4 + 4 + 4 + 4
+In a similar way, exponents are a shorthand notation for multiplication.
+Lesson 4-1: Positive Integer Powers
+Exponents represent the number of times that a number is multiplied
+by itself. For example, the product 4 × 4 × 4 × 4 × 4 involves multiplying 4
+by itself 5 times. Instead of writing out all of the 4s, we write 45. In this
+expression, the number 5 is called the exponent, or the power, and the
+number 4 is called the base.
+When dealing with exponential expressions, it is important to cor-
+rectly identify the base and the exponent. If the base is positive then this
+task is straightforward. For example, in the expression 38, the base is 3
+and the exponent is 8. This expression is a shorthand way of expressing
+the product of 3 times itself 8 times. We can expand 38 as:
+38= 3 × 3 × 3 × 3 × 3× 3 × 3 × 3
+Exponents may not seem to be a very important invention, but with them
+we can write numbers that are even larger than we can comprehend. In
+general, an exponential expression is written an, where a is the base and n
+is the exponent. The expression an is read “a to the nth power” or “a to
+the n.” By convention, any number a raised to the first power is just that
+number: a1 = a. Examples of this are 41 = 4 and 81 = 8.
+Identifying the base becomes more difficult when negative numbers
+are involved. When the base is a negative number, parentheses become
+67

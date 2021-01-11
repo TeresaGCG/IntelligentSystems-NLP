@@ -1,0 +1,58 @@
+Rate of photosynthesis
+
+222
+
+ 
+
+BIOLOGY
+
+13. 10 FACTORS AFFECTING PHOTOSYNTHESIS
+
+An understanding of the factors that affect photosynthesis is necessary.
+The rate of photosynthesis is very important in determining the yield of
+plants including crop plants. Photosynthesis is under the inﬂuence of
+several factors, both internal (plant) and external. The plant factors include
+the number, size, age and orientation of leaves, mesophyll cells and
+chloroplasts, internal CO2 concentration and the amount of chlorophyll.
+The plant or internal factors are dependent on the genetic predisposition
+and the growth of the plant.
+
+The external factors would include the availability of sunlight,
+temperature, CO2 concentration and water. As a plant photosynthesises,
+all these factors will simultaneously affect its rate. Hence, though several
+factors interact and simultaneously affect photosynthesis or CO2 ﬁxation,
+usually one factor is the major cause or is the one that limits the rate.
+Hence, at any point the rate will be determined by the factor available at
+sub-optimal levels.
+
+When several factors affect any [bio] chemical process, Blackman’s
+(1905) Law of Limiting Factors comes into effect. This states the following:
+
+If a chemical process is affected by more than one factor, then its
+rate will be determined by the factor which is nearest to its minimal
+value: it is the factor which directly affects the process if its quantity is
+changed.
+
+For example, despite the presence of a green
+leaf and optimal light and CO2 conditions, the
+plant may not photosynthesise if the temperature
+is very low. This leaf, if given the optimal
+temperature, will start photosynthesising.
+
+13.1o.1 Light
+
+We need to distinguish between light quality, light
+intensity and the duration of exposure to light,
+while discussing light as a factor that affects
+photosynthesis. There is a linear relationship
+between incident light and CO2 ﬁxation rates at
+low light intensities. At higher light intensities,
+gradually the rate does not show further increase
+as other factors become limiting (Figure 13.10).
+
+Light intenSitY What is interesting to note is that light saturation
+
+occurs at 10 per cent of the full sunlight. Hence,
+
+Figure 13. 10 Graph of light intensity on the except for plants in shade or in dense forests, light
+rate of photosynthesis is rarely a limiting factor in nature. Increase in

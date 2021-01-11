@@ -1,0 +1,28 @@
+Homework Helpers: Basic Math and Pre-Algebra
+30
+The accepted order of operations stipulates that multiplication and
+division, read left to right, take precedence over addition and subtrac-
+tion. In our example 4 + 3 × 2, the multiplication of 3 and 2 must be done
+before any addition takes place. If you specifically wanted the addition to
+take place first, you would need to use parentheses: (4 + 3) × 2. The order
+of operations includes a clause for parentheses: Anything in parentheses
+must be done first. The hierarchy of operations is:
+1. Parentheses
+2. Multiplication and division, read left to right
+3. Addition and subtraction, read left to right
+Just to make sure that we’re on the same page, let’s work out a
+calculation.
+Example 1
+Evaluate: 2 + 16 ÷ 2 × 10
+Solution: Follow the order of operations:
+2 + 16 ÷ 2× 10
+Divide 16 by 2: 2 + 8 × 10
+Multiply 8 by 10: 2 + 80
+Add 2 and 80: 82
+Lesson 1-8 Review
+Evaluate the following:
+1. 20 + 3 × (4+ 5)
+2. 90 – 4 × 3+ 2
+3. (2 + 3) × 5 – 10 × 2
+4. 4 ÷ 2 × 9
+www.ebook3000.com

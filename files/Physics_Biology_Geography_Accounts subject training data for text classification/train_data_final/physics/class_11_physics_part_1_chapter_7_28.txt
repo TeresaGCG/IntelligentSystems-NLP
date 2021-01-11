@@ -1,0 +1,116 @@
+SYSTEMS OI’ PARTICLES AND ROTATIONAL MOTION
+
+169
+
+The angular acceleration of the engine
+= 47C rad / s2
+(ii) The angular displacement in time t is
+given by
+1 2
+6=q¢+—at
+2
+
+=(407rx16+%><475><162) rad
+
+= (6407: + 5 1 27;) rad
+= l 1527c rad
+
+1152ﬂ
+27;
+
+ 
+
+Number of revolutions = =576 4
+
+7.12 DYNAMICS OF ROTATIONAL MOTION
+ABOUT A FIXED AXIS
+
+Table 7 .2 lists quantities associated with linear
+motion and their analogues in rotational motion.
+We have already compared kinematics of the
+two motions. Also, we know that in rotational
+motion moment of inertia and torque play the
+same role as mass and force respectively in
+linear motion. Given this we should be able to
+guess what the other analogues indicated in the
+table are. For example, we know that in linear
+motion, work done is given by F dx, in rotational
+
+motion about a fixed axis it should be rdﬂ,
+since we already know the correspondence
+dx _> d0 and F _> 1- . It is, however, necessary
+
+that these correspondences are established on
+sound dynamical considerations. This is what
+we now turn to.
+
+Before we begin, we note a simpliﬁcation
+that arises in the case of rotational motion
+about a ﬁxed axis. Since the axis is fixed, only
+those components of torques, which are along
+the direction of the fixed axis need to be
+considered in our discussion. Only these
+components can cause the body to rotate about
+the axis. A component of the torque
+perpendicular to the axis of rotation will tend
+to turn the axis from its position. We specifically
+assume that there will arise necessary forces of
+constraint to cancel the effect of the
+perpendicular components of the (external)
+torques, so that the fixed position of the axis
+will be maintained. The perpendicular
+components of the torques, therefore need not
+be taken into account. This means that for our
+calculation of torques on a rigid body:
+
+(1) We need to consider only those forces that
+lie in planes perpendicular to the axis.
+Forces which are parallel to the axis will
+give torques perpendicular to the axis and
+need not be taken into account.
+
+(2) We need to consider only those components
+of the position vectors which are
+perpendicular to the axis. Components of
+position vectors along the axis will result in
+torques perpendicular to the axis and need
+not be taken into account.
+
+Work done by a torque
+y'
+
+ 
+
+Fig. 7.34 Work done by a force F1 acting on a particle
+of a body rotating about a ﬁxed axis; the
+particle describes a circular path with
+centre C on the axis; arc P1P’1(ds1) gives
+the displacement of the particle.
+
+Figure 7 .34 shows a cross-section of a rigid
+body rotating about a fixed axis, which is taken
+as the z-axis (perpendicular to the plane of the
+page; see Fig. 7.33). As said above we need to
+consider only those forces which lie in planes
+perpendicular to the axis. Let F1 be one such
+typical force acting as shown on a particle of
+the body at point P1 with its line of action in a
+plane perpendicular to the axis. For convenience
+we call this to be the x’—y’ plane (coincident
+with the plane of the page). The particle at P1
+describes a circular path of radius r1 with centre
+C on the axis; CP1 = r1.
+
+In time At, the point moves to the position
+Pl’. The displacement of the particle dsl,
+therefore, has magnitude ds1 = rlde and
+direction tangential at P1 to the circular path
+as shown. Here do is the angular displacement
+
+of the particle, d0 = APICPI’ .The work done by
+
+the force on the particle is
+dW1 = F1. ds1= FldsI cos¢1= F1(r1d9)sin061
+where ([51 is the angle between F1 and the tangent
+
+2019-20

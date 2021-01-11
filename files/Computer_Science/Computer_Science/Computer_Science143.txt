@@ -1,0 +1,35 @@
+2.13 A C Sort Example to Put It All Together 127
+Calling swa p is easy enough:
+jal swap
+Passing Parameters in so r t
+The problem comes when we want to pass parameters because the sort proce 
+dure needs the values in registers $aO and $a1, yet the swap procedure needs to
+have its parameters placed in those same registers. One solution is to copy the
+parameters for sor t into other registers earlier in the procedure, making registers
+$aO and $a1 available for the call of swap. (This copy is faster than saving and
+restoring on the stack.) We first copy $a0 and $a 1 into $s 2 and $s 3 during the
+procedure:
+move $s2, $aO # copy parameter $aO into $s2
+move $s3, $a1 # copy parameter $a1 into $s3
+Then we pass the parameters to swap with these two instructions:
+move $aO, $s2 # first swap parameter is v
+move $a1, $sl # second swap parameter is j
+Preserving Registers in so r t
+The only remaining code is the saving and restoring of registers. Clearly we must
+save the return address in register $ra, since sor t is a procedure and is called
+itself. The sort procedure also uses the saved registers $sO, $sl, $s2, and $s3,
+so they must be saved. The prologue of the sort procedure is then
+addi $sp,$sp, - 20 # make room on stack for 5 regs
+sw $ra, 16( $sp) # save $ra on stack
+SW $s3, 12( $sp) # save $s3 on stack
+SW $s2, 8($sp) # save $s2 on stack
+SW $sl, 4($sp) # save $sl on stack
+sw $sO, O($sp) # save $sO on stack
+The tail of the procedure simply reverses all these instructions, then adds a j r to
+return.
+The Full Procedure sort
+Now we put all the pieces together in Figure 2.36, being careful to replace refer 
+ences to registers $aO and $a1 in the for loops with references to registers $s 2 and
+$s3. Once again to make the code easier to follow, we identify each block of code
+with its purpose in the procedure. In this example, 9 lines of the sort procedure
+in C became 35 lines in the MIPS assembly language.

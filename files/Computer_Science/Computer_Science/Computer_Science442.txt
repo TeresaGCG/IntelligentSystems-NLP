@@ -1,0 +1,31 @@
+426 Chapter 6 Enhancing Performance with Plpellnlng
+Let's compare the three designs by the average instruction time. For the sin 
+gle-cycle design, it is fixed at 600 ps. For the lTIulticycle design, it is 200 x
+4.1 2 = 824 ps. For the pipelined design, the average instruction time is 1.1 7 x
+200 = 234 ps, making it almost twice as fast as either approach.
+The clever reader will notice that the long cycle time of the memory is a per 
+formance bottleneck for both the pipelined and lTIulticycle designs. Breaking
+memory accesses into two clock cycles and thereby allowing the clock cycle to
+be 100 ps would improve the performance in both cases. We explore this in the
+exercises.
+This chapter started in the laundry room, showing principles of pipelining in
+an everyday setting. Using that analogy as a guide, we explained instruction pipe 
+lining step-by-step, starting with the single-cycle data path and then adding pipe 
+line registers, forwarding paths, data hazard detection, branch prediction, and
+flushing instructions on exceptions. Figure 6.41 shows the final evolved datapath
+and control.
+Check
+Consider three branch prediction schemes: branch not taken, predict taken, and
+Yourself dynamic prediction. Assume that they all have zero penalty when they predict cor 
+rectly and 2 cycles when they are wrong. Assume that the average predict accuracy
+of the dynamic predictor is 90%. Which predictor is the best choice for the follow 
+ing branches?
+1. A branch that is taken with 5% frequency
+2. A branch that is taken with 95% frequency
+3. A branch that is taken with 70% frequency
+Using a Hardware Description Language to
+Describe and Model a Pipeline
+This section, which appears on the CD, provides a behavioral model in Verilog of
+the MIPS five-stage pipeline. The initial model ignores hazards, and additions to
+the model highlight the changes for forwarding, data hazards, and branch haz 
+ards.

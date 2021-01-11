@@ -1,0 +1,118 @@
+MOTION IN A STRAIGHT LINE
+
+ 
+
+statement requires use of calculus. We can,
+however, see that it is true for the simple case of
+an object moving with constant velocity u. Its
+velocity-time graph is as shown in Fig. 3.1 l.
+
+OIIIIIIIIII
+
+Tt—>
+
+Fig. 3.1 1 Area under v—t curve equals displacement
+of the object over a given time interval.
+
+The v-t curve is a straight line parallel to the
+time axis and the area under it between t = O
+and t= T is the area of the rectangle of height u
+and base T. Therefore, area = uXT = uT which
+is the displacement in this time interval. How
+come in this case an area is equal to a distance?
+Think! Note the dimensions of quantities on
+the two coordinate axes, and you will arrive at
+the answer.
+
+Note that the x-t, v-t, and a-t graphs shown
+in several ﬁgures in this chapter have sharp
+kinks at some points implying that the
+functions are not differentiable at these
+points. In any realistic situation, the
+functions will be differentiable at all points
+and the graphs will be smooth.
+
+What this means physically is that
+acceleration and velocity cannot change
+values abruptly at an instant. Changes are
+always continuous.
+
+3.6 KINEMATIC EQUATIONS FOR
+UNIFORMLY ACCELERATED MOTION
+
+For uniformly accelerated motion, we can derive
+some simple equations that relate displacement
+(x), time taken (t), initial velocity (v0), final
+velocity (v) and acceleration (a). Equation (3.6)
+already obtained gives a relation between final
+and initial velocities v and v0 of an object moving
+with uniform acceleration a :
+
+v = v0 + at (3.6)
+
+This relation is graphically represented in Fig. 3. 12.
+The area under this curve is :
+
+Area between instants O and t= Area of triangle
+ABC + Area of rectangle OACD
+
+ 
+
+47
+1
+= — v—v t+ v t
+2 ( 0 ) 0
+O 13—»
+Fig. 3.12 Area under v—t curve for an object with
+uniform acceleration.
+
+As explained in the previous section, the area
+under v-t curve represents the displacement.
+Therefore, the displacement x of the object is :
+
+l
+X = 5(U-vo)t + vat (3.7)
+But U— v0 2 at
+1 2
+Therefore, x = Ea t + Dot
+1 2
+or, X : Dot + Eat (3.8)
+
+Equation (3.7) can also be written as
+
+v+v0
+
+x — t= 5t (3.9a)
+
+ 
+
+where ,
+
+— v+v
+U: 0
+
+ 
+
+(constant acceleration only)
+(3.9b)
+
+Equations (3.9a) and (3.9b) mean that the object
+has undergone displacement xwith an average
+velocity equal to the arithmetic average of the
+initial and final velocities.
+
+From Eq. (3.6), t = (v — v0) / a. Substituting this in
+Eq. (3.9a), we get
+
+x=5t=(v+v0](v—v0]:v2—v§
+2 a 2a
+
+v2 = v3 + 2ax (3.10)
+
+ 
+
+ 
+
+ 
+
+2019-20

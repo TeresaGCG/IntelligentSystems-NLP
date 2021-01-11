@@ -1,0 +1,52 @@
+TRANSPORT IN PLANTS
+
+water. A seed may appear dry but it still has water — otherwise it would
+not be alive and respiring!
+
+Terrestrial plants take up huge amount water daily but most of it is
+lost to the air through evaporation from the leaves, i.e., transpiration. A
+mature corn plant absorbs almost three litres of water in a day, while a
+mustard plant absorbs water equal to its own weight in about 5 hours.
+Because of this high demand for water, it is not surprising that water is
+often the limiting factor for plant growth and productivity in both
+agricultural and natural environments.
+
+1 1 .2. 1 Water Potential
+
+To comprehend plant-water relations, an understanding of certain
+standard terms is necessary. Water potential (WW) is a concept
+fundamental to understanding water movement. Solute potential
+01’s) and pressure potential (WP) are the two main components that
+determine water potential.
+
+Water molecules possess kinetic energy. In liquid and gaseous form
+they are in random motion that is both rapid and constant. The greater
+the concentration of water in a system, the greater is its kinetic energy or
+‘water potential’. Hence, it is obvious that pure water will have the greatest
+water potential. If two systems containing water are in contact, random
+movement of water molecules will result in net movement of water
+molecules from the system with higher energy to the one with lower energy.
+Thus water will move from the system containing water at higher water
+potential to the one having low water potential This process of movement
+of substances down a gradient of free energy is called diffusion. Water
+potential is denoted by the Greek symbol Psi or ‘l‘ and is expressed in
+pressure units such as pascals (Pa). By convention, the water potential
+of pure water at standard temperatures, which is not under any pressure,
+is taken to be zero.
+
+If some solute is dissolved in pure water, the solution has fewer free
+water molecules and the concentration (free energy) of water decreases,
+reducing its water potential. Hence, all solutions have a lower water potential
+than pure water; the magnitude of this lowering due to dissolution of a
+solute is called solute potential or ‘PS. ‘1; is always negative. The more
+the solute molecules, the lower (more negative) is the ‘PS . For a solution at
+atmospheric pressure (water potential) ‘Pw = (solute potential) ‘PS.
+
+If a pressure greater than atmospheric pressure is applied to pure
+water or a solution, its water potential increases. It is equivalent to
+pumping water from one place to another. Can you think of any system
+in our body where pressure is built up? Pressure can build up in a plant
+system when water enters a plant cell due to diffusion causing a pressure
+built up against the cell wall, it makes the cell turgid (see section 1 1.2.2);
+
+179

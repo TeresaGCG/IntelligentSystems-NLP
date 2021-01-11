@@ -1,0 +1,71 @@
+l
+
+_2xsi4x50xnmxiqe
+Therefore,
+
+-4.Q
+
+ 
+
+ 
+
+zszWHXL—Xa2=$¥+B—4f
+=59
+
+X —X
+(b) Phase difference, ¢ = tan’1#
+
+= tan’1(%j = 753. 1°
+
+Since o is negative, the current in the circuit lags the voltage
+across the source.
+
+(c) The power dissipated in the circuit is
+P=PR
+
+i 1 283
+I: m =—— =4OA
+NOW’ J5 ofsl
+
+Therefore, P = (40A)2 >< SQ = 4800 W
+(d) Power factor =cos¢ = cos(—53.1°) = 0.6
+
+Example 7.9 Suppose the frequency of the source in the previous
+example can be varied. (a) What is the frequency of the source at
+which resonance occurs? (b) Calculate the impedance, the current,
+and the power dissipated at the resonant condition.
+
+Solution
+
+(a) The frequency at which the resonance occurs is
+
+l l
+
+(00 _ = 73 76
+JLC J2548x10 x796x10
+
+ 
+
+ 
+
+= 222.1rad/s
+
+Lg=gh=—22l£—HZ=354HZ
+2n 2 x 3.14
+(b) The impedance Z at resonant condition is equal to the resistance:
+Z = R = 39
+
+The rms current at resonance is
+
+l: 66.7A
+
+_E_E_ 3
+
+_v_v_[2_83)
+
+J5
+The power dissipated at resonance is
+P=12xR=w67Fx3=1335kw
+
+You can see that in the present case, power dissipated
+at resonance is more than the power dissipated in Example 7.8.

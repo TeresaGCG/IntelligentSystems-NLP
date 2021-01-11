@@ -1,0 +1,67 @@
+l Physics
+
+ 
+
+_ 6.63x10*34Js
+4.50x kgm/s
+1': 1.47 ><10“34 m
+The de Broglie wavelength of electron is comparable with X-ray
+
+wavelengths. However, for the ball it is about 10‘19 times the size of
+the proton, quite beyond experimental measurement.
+
+Example 11.5 An electron, an oc-particle, and a proton have the same I
+
+EXAMPLE 11.4
+
+kinetic energy. Which of these particles has the shortest de Broglie
+wavelength?
+
+Solution
+
+For a particle, de Broglie wavelength, A = h/ p
+
+Kinetic energy, K = pZ/Zm
+
+Then, i=h/«l2mK
+
+For the same kinetic energy K, the de Broglie wavelength associated
+with the particle is inversely proportional to the square root of their
+
+masses. A proton (iH) is 1836 times massive than an electron and
+
+an oc-particle (gHe) four times that of a proton.
+Hence, 0L — particle has the shortest de Broglie wavelength.
+
+PROBABILITY INTERPRETATION T0 MATTER WAVES
+
+It is worth pausing here to reﬂect on just what a matter wave associated with a particle,
+say, an electron, means. Actually, a truly satisfactory physical understanding of the
+dual nature of matter and radiation has not emerged so far. The great founders of
+quantum mechanics (Niels Bohr, Albert Einstein, and many others) struggled with this
+and related concepts for long. Still the deep physical interpretation of quantum
+mechanics continues to be an area of active research. Despite this, the concept of
+matter wave has been mathematically introduced in modern quantum mechanics with
+great success. An important milestone in this connection was when Max Born (1882-
+1970) suggested a probability interpretation to the matter wave amplitude. According
+to this, the intensity (square of the amplitude) of the matter wave at a point determines
+the probability density of the particle at that point. Probability density means probability
+per unit volume. Thus, if A is the amplitude of the wave at a point, |A| 2 AV is the
+probability of the particle being found in a small volume AV around that point. Thus,
+if the intensity of matter wave is large in a certain region, there is a greater probability
+of the particle being found there than Where the intensity is small. ‘
+
+Example 11.6 A particle is moving three times as fast as an electron.
+
+S The ratio of the de Broglie wavelength of the particle to that of the
+-1 electron is 1.813 X 10‘4. Calculate the particle’s mass and identify the
+a particle.
+
+5 Solution
+
+III
+
+de Broglie wavelength of a moving particle, having mass m and
+4.02 velocity D:
+
+2019-20

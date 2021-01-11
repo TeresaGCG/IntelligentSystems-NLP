@@ -1,0 +1,63 @@
+Issue and Redemption of Debentures 93
+
+Solution:
+First Method:
+
+Balance Sheet (Extract)
+
+Long-term borrowings
+
+ 
+
+No. (RS)
+
+I. Equity and Liabilities -
+1. Non-current Liabilities
+
+1 10 00 000
+
+Notes to Accounts
+{Rs}
+1. Long-term borrowings _
+Bank loan 10 00 000
+
+(Secured by issue of 12,000,
+10% debentures of Rs. 100 each
+as Collatoral Security
+
+ 
+
+Second Method:
+
+Journal Entries
+
+Date Particulars L.F. Debit
+Amount
+{Rs}
+Debenture Suspense A/c . 12,00,000
+To 10% Debentures A/c 12,00,000
+(12,000 debenture of Rs. 100 each issued as
+collateral security to P.N.Bank)
+
+Balance Sheet (Extract)
+mm
+No. (RS)
+I. Equity and Liabilities
+1. Non-current Liabilities
+Long-term borrowings 1 10.00.000
+
+Notes to Accounts
+
+ 
+
+ 
+
+1. Long-term borrowings
+Secured Loan from 10,00,000
+PNB
+
+12,000, 10% debentures of 12,00,000
+Rs. 100 each
+Less: Debenture
+Suspense 12,00,000
+10,00,000

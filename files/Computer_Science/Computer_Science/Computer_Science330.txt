@@ -1,0 +1,71 @@
+314 Chapter 5 The Processor: Datapath and Control
+~SlrUClion [25-0J Shift Jump address [31-01 L.. 0
+~f12
+26
+28 0
+PC+4(31 28)
+M M
+, ,
+) Add
+----- " "
+V ) t ALU
+4- 1 0
+Add result
+~
+I RegDsl c-I Shift ~
+/
+\ Jump left 2
+Branch
+MemRead
+Instruction [31-26] MemloReg
+Control
+ALUO
+MemWrite
+ALUSrc
+\ RegWrite
+Instruction [25-21)
+R~d
+R~d
+PC register 1 e--
+address Read
+Instruction [20-16) data 1
+R~d
+Zero
+Instruction I register 2
+0
+ALU
+[31-0) " ALU Read
+M, I-- Write Read result Address data 1
+" data 2 M
+Instruction ~f-.
+Instruction [15-11) register ,
+"
+memory
+~
+1
+I-- '
+Write "--
+.L
+d'fa Registers Data
+Wrne
+memory
+data
+/ '\
+/ '\
+Instruction [15-01 16 32
+Sign
+,- ALU
+extend
+control
+\
+\
+Instruction [5-01
+..
+FIGURE 5.24 The simple control and datapath are extended to handle the jump Instruction. An addltlonal multIplexor (at the
+upper right) is used to choose between the jump larget and either the branch target or the sequential instruction following this one. This multiplexor
+is controlled bythe jump control signal. The jmnp target address is obtained by shifting the lower 26 bits ofthe jump instruction left 2 bits,effectively
+adding 00 as the low-order bits, and then concatenating the upper 4 bits of PC + 4 as the high-order bits, thus yielding a 32-bit address.
+Why a Single.cycle Implementation Is Not Used Today
+Although the single-cycle design will work correctly, it would not be used in modern
+designs because it is inefficient. To see why this is so, notice that the clock cycle must
+have the same length for every instruction in this single-cycle design, and the CPI

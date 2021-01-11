@@ -1,0 +1,60 @@
+352
+
+ 
+
+l Physics
+
+ 
+
+and it was felt that a wave would always require a medium to propagate
+from one point to the other. However, when Thomas Young performed
+his famous interference experiment in 1801, it was firmly established
+that light is indeed a wave phenomenon. The wavelength of visible
+light was measured and found to be extremely small; for example, the
+wavelength of yellow light is about 0.6 mm. Because of the smallness
+of the wavelength of visible light (in comparison to the dimensions of
+typical mirrors and lenses), light can be assumed to approximately
+travel in straight lines. This is the field of geometrical optics, which we
+had discussed in the previous chapter. Indeed, the branch of optics in
+which one completely neglects the finiteness of the wavelength is called
+geometrical optics and a ray is defined as the path of energy
+propagation in the limit of wavelength tending to zero.
+
+After the interference experiment of Young in 1801, for the next 40
+years or so, many experiments were carried out involving the
+interference and diffraction of lightwaves; these experiments could only
+be satisfactorily explained by assuming a wave model of light. Thus,
+around the middle of the nineteenth century, the wave theory seemed
+to be very well established. The only major difficulty was that since it
+was thought that a wave required a medium for its propagation, how
+could light waves propagate through vacuum. This was explained
+when Maxwell put forward his famous electromagnetic theory of light.
+Maxwell had developed a set of equations describing the laws of
+electricity and magnetism and using these equations he derived what
+is known as the wave equation from which he predicted the existence
+of electromagnetic waves*. From the wave equation, Maxwell could
+calculate the speed of electromagnetic waves in free space and he found
+that the theoretical value was very close to the measured value of speed
+of light. From this, he propounded that light must be an
+electromagnetic wave. Thus, according to Maxwell, light waves are
+associated with changing electric and magnetic ﬁelds; changing electric
+field produces a time and space varying magnetic field and a changing
+magnetic field produces a time and space varying electric field. The
+changing electric and magnetic fields result in the propagation of
+electromagnetic waves (or light waves) even in vacuum.
+
+In this chapter we will first discuss the original formulation of the
+Huygens principle and derive the laws of reﬂection and refraction. In
+Sections 10.4 and 10.5, we will discuss the phenomenon of interference
+which is based on the principle of superposition. In Section 10.6 we
+will discuss the phenomenon of diffraction which is based on Huygens-
+Fresnel principle. Finally in Section 10.7 we will discuss the
+phenomenon of polarisation which is based on the fact that the light
+waves are transverse electromagnetic waves.
+
+* Maxwell had predicted the existence of electromagnetic waves around 1855; it
+was much later [around 1890) that Heinrich Hertz produced radiowaves in the
+laboratory. J .C. Bose and G. Marconi made practical applications of the Hertzian
+waves
+
+2019-20

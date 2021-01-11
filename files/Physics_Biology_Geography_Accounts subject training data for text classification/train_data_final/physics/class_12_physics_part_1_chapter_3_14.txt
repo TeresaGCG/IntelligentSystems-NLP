@@ -1,0 +1,62 @@
+Current
+Electricity
+
+may be hundreds of miles away, via transmission cables. One obviously
+wants to minimise the power loss in the transmission cables connecting
+the power stations to homes and factories. We shall see now how this
+can be achieved. Consider a device R, to which a power Pis to be delivered
+via transmission cables having a resistance RC to be dissipated by it ﬁnally.
+If Vis the voltage across R and I the current through it, then
+
+P = VI (3.34)
+
+The connecting wires from the power station to the device has a ﬁnite
+resistance RC. The power dissipated in the connecting wires, which is
+wasted is PC with
+
+ 
+
+PC: 12 RC
+P2 R
+2 V2 C (3.35)
+
+from Eq. (3.32). Thus, to drive a device of power P, the power wasted in the
+connecting wires is inversely proportional to V2. The transmission cables
+from power stations are hundreds of miles long and their resistance RC is
+considerable. To reduce PC, these wires carry current at enormous values
+of Vand this is the reason for the high voltage danger signs on transmission
+lines — a common sight as we move away from populated areas. Using
+electricity at such voltages is not safe and hence at the other end, a device
+called a transformer lowers the voltage to a value suitable for use.
+
+3.10 COMBINATION OF RESISTORS - SERIES AND
+PARALLEL
+
+The current through a single resistor R across which there is a potential
+difference Vis given by Ohm’s law I = V/R. Resistors are sometimes joined
+together and there are simple rules for calculation of equivalent resistance
+of such combination.
+
+I I
+._>_/\/\/V\/\/\—.a_/\/\/\/VV\_>_.
+
+I R R2
+FIGURE 3.13 A series combination of two resistors R1 and R2.
+
+Two resistors are said to be in series if only one of their end points is
+joined (Fig. 3.13). If a third resistor is joined with the series combination
+of the two (Fig. 3.14), then all three are said to be in series. Clearly, we
+can extend this deﬁnition to series combination of any number of resistors.
+
+I R1 I R2 I Re I
+FIGURE 3.14 A series combination of three resistors RI. R2. R3.
+
+Two or more resistors are said to be in parallel if one end of all the
+resistors is joined together and similarly the other ends joined together
+(Fig. 3.15).
+
+FIGURE 3.15 Two resistors RJ and R2 connected in parallel.
+
+2019-20
+
+107

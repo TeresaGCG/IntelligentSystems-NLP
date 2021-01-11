@@ -1,0 +1,107 @@
+i Physics
+
+ 
+
+Solution
+(a) In the given network, Cl, 02 and C3 are connected in series. The
+effective capacitance C’ of these three capacitors is given by
+
+l 1 1 l
+= — + — + —
+C’ C1 02 03
+For C1 = C2 = C3 = 10 “F, C’= (10/3) ”F. The network has 0’ and C4
+connected in parallel. Thus, the equivalent capacitance C of the
+
+network is
+
+ 
+
+C = C’+ C4= (%+IO] uF =13.3uF
+
+(b) Clearly, from the figure, the charge on each of the capacitors, Cl,
+02 and C3 is the same, say Q. Let the charge on C4 be Q’. Now, since
+the potential difference across AB is Q/Cl, across BC is Q/CZ, across
+
+CD is Q/Cs, we have
+
+999
+
+—+—+—=500V
+
+C31 02 C3
+
+10
+
+EXAMPLE 2.9
+
+2.15
+
+Also, Q’/Q1 = 500 V.
+This gives for the given value of the capacitances,
+
+Q = 500V XEuF = 1.7 x10'3C and
+Q’= 500V><10uF= 5.0><10‘3 C
+
+ENERGY STORED IN A CAPACITOR
+
+A capacitor, as we have seen above, is a system of two conductors with
+charge Q and —Q. To determine the energy stored in this configuration,
+consider initially two uncharged conductors 1 and 2. Imagine next a
+process of transferring charge from conductor 2 to conductor 1 bit by
+
+I
+
++++++++++©~
+To
+I]
++
+J
+
+H
+M
+
+H
+M
+
+(a) (b)
+
+FIGURE 2.30 (a) Work done in a small
+
+step of building charge on conductor 1
+
+from Q’to Q’+ 5 Q’. (b) Total work done
+in charging the capacitor may be
+viewed as stored in the energy of
+electric field between the plates.
+
+80
+
+bit, so that at the end, conductor 1 gets charge Q. By
+charge conservation, conductor 2 has charge —Q at
+the end (Fig 2.30 ).
+
+In transferring positive charge from conductor 2
+to conductor 1, work will be done externally, since at
+any stage conductor 1 is at a higher potential than
+conductor 2. To calculate the total work done, we ﬁrst
+calculate the work done in a small step involving
+transfer of an inﬁnitesimal (i.e., vanishingly small)
+amount of charge. Consider the intermediate situation
+when the conductors l and 2 have charges Q’ and
+—Q’respectively. At this stage, the potential difference
+V’between conductors 1 to 2 is Q’/ C, where C is the
+capacitance of the system. Next imagine that a small
+charge 6 Q’ is transferred from conductor 2 to 1. Work
+done in this step (6 W’), resulting in charge Q’ on
+conductor 1 increasing to Q’+ 6 Q’, is given by
+
+Q’
+
+6W=V’5 ’=
+Q C
+
+ 
+
+5 Q’ (2.68)
+
+2019-20

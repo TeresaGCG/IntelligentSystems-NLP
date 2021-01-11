@@ -1,0 +1,95 @@
+WAV ES
+
+371
+
+kx + constant. Thus, the shape of the wave (at
+any fixed instant) as a function of x is a sine
+wave. Similarly, take a fixed location, say x = x0.
+Then, the argument of the sine function in
+Equation (1 5.2) is constant -03t. The
+displacement y, at a fixed location, thus, varies
+sinusoidally with time. That is, the constituents
+of the medium at different positions execute
+simple harmonic motion. Finally, as tincreases,
+xmust increase in the positive direction to keep
+kx— cot + q) constant. Thus, Eq. (15.2) represents
+a sinusiodal (harmonic) wave travelling along
+the positive direction of the x—axis. On the other
+hand, a function
+
+y(x,t)=asin(kx+u)t+¢) (15.4)
+represents a wave travelling in the negative
+direction of x-axis. Fig. (15.5) gives the names of
+the various physical quantities appearing in Eq.
+(15.2) that we now interpret.
+
+displacement as a function of
+position x and time t
+amplitude of a wave
+
+angular frequency of the wave
+angular wave number
+initial phase angle (a+x = O, t= O)
+
+ 
+
+Fig. 15.5 The meaning of standard symbols in
+Eq. (15.2)
+
+Fig. 15.6 shows the plots of Eq. (15.2) for
+different values of time differing by equal
+intervals of time. In a wave, the crest is the
+point of maximum positive displacement, the
+trough is the point of maximum negative
+displacement. To see how a wave travels, we
+can fix attention on a crest and see how it
+progresses with time. In the figure, this is
+shown by a cross (X) on the crest. In the same
+manner, we can see the motion of a particular
+constituent of the medium at a fixed location,
+say at the origin of the x—axis. This is shown
+by a solid dot (0). The plots of Fig. 15.6 show
+that with time, the solid dot (0) at the origin
+moves periodically, i.e., the particle at the
+origin oscillates about its mean position as
+the wave progresses. This is true for any other
+location also. We also see that during the time
+the solid dot (0) has completed one full
+oscillation, the crest has moved further by a
+certain distance.
+
+ 
+
+(6)
+
+Fig. 15.6 A harmonic wave progressing along the
+positive direction of x—axis at different times.
+
+Using the plots of Fig. 15.6, we now define
+the various quantities of Eq. (15.2).
+
+15.3.1 Amplitude and Phase
+
+In Eq. (15.2), since the sine function varies
+between 1 and —1, the displacement y (x, t) varies
+between a and —a. We can take a to be a positive
+constant, without any loss of generality. Then,
+a represents the maximum displacement of the
+constituents of the medium from their
+equilibrium position. Note that the displacement
+y may be positive or negative, but a is positive.
+It is called the amplitude of the wave.
+
+The quantity (kx — wt + (p) appearing as the
+argument of the sine function in Eq. (15.2) is
+called the phase of the wave. Given the
+amplitude a, the phase determines the
+displacement of the wave at any position and
+at any instant. Clearly q) is the phase at x = O
+and t = 0. Hence, ¢ is called the initial phase
+angle. By suitable choice of origin on the x—axis
+and the intial time, it is possible to have (1) = 0.
+Thus there is no loss of generality in dropping
+q), i.e., in taking Eq. (15.2) with q) = 0.
+
+2019-20

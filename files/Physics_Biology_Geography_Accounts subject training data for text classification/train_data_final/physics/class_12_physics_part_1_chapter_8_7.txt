@@ -1,0 +1,81 @@
+Simulate propagation of electromagnetic waves
+
+8
+
+E),
+
+276
+
+(i)
+
+http://www.ama nogawaLom/waves. html
+(ii) http://www.phys.hawaii.eclu/~teb/java/ntnujava/emWave/emWave.html
+
+, i
+
+‘f—
+
+en
+
+ 
+
+ 
+
+a) = ck, where, c = 1/ «(#050 [8.9(a)]
+
+The relation 0) = ck is the standard one for waves (see for example,
+Section 15.4 of class XI Physics textbook). This relation is often written
+in terms of frequency, v (=co/27t) and wavelength, 1 (=21: / k) as
+
+27L"
+‘2 — _
+TCV C( ) or
+
+wt = c [8.903)]
+It is also seen from Maxwell’s equations that the magnitude of the
+electric and the magnetic fields in an electromagnetic wave are related as
+
+B0 = (EC/c) (8.10)
+
+We here make remarks on some features of electromagnetic waves.
+They are self-sustaining oscillations of electric and magnetic ﬁelds in free
+space, or vacuum. They differ from all the other waves we have studied
+so far, in respect that no material medium is involved in the Vibrations of
+the electric and magnetic ﬁelds. Sound waves in air are longitudinal waves
+of compression and rarefaction. Transverse elastic (sound) waves can
+also propagate in a solid, which is rigid and that resists shear. Scientists
+in the nineteenth century were so much used to this mechanical picture
+that they thought that there must be some medium pervading all space
+and all matter, which responds to electric and magnetic fields just as any
+elastic medium does. They called this medium ether. They were so
+convinced of the reality of this medium, that there is even a novel called
+The Poison Belt by Sir Arthur Conan Doyle (the creator of the famous
+detective Sherlock Holmes) where the solar system is supposed to pass
+through a poisonous region of ether! We now accept that no such physical
+medium is needed. The famous experiment of Michelson and Morley in
+1887 demolished conclusively the hypothesis of ether. Electric and
+magnetic fields, oscillating in space and time, can sustain each other in
+vacuum.
+
+But what if a material medium is actually there? We know that light,
+an electromagnetic wave, does propagate through glass, for example. We
+have seen earlier that the total electric and magnetic fields inside a
+medium are described in terms of a permittivity s and a magnetic
+permeability ,u (these describe the factors by which the total fields differ
+from the external fields). These replace so and [.10 in the description to
+electric and magnetic fields in Maxwell’s equations with the result that in
+a material medium of permittivity e and magnetic permeability u, the
+velocity of light becomes,
+
+U = x/E (8.1 1)
+Thus, the velocity of light depends on electric and magnetic properties of
+
+the medium. We shall see in the next chapter that the refractive index of
+one medium with respect to the other is equal to the ratio of velocities of
+light in the two media.
+
+The velocity of electromagnetic waves in free space or vacuum is an
+important fundamental constant. It has been shown by experiments on
+electromagnetic waves of different wavelengths that this velocity is the
+
+2019-20

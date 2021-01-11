@@ -1,0 +1,48 @@
+7.2 The Basics of Caches 477
+. - . -
+Data Data
+()()() N ()()() N
+001 N 001 N
+010 N 010 N
+011 N 011 N
+100 N 100 N
+101 N 101 N
+110 N 110 Y 10~ Memory(1011°
+)
+two
+111 N 111 N
+a. The initial state of the cache after power~n b. After handling a miss of address (10110-,)
+. - . -
+Dlata Data
+()()() N ()()() y 10,_ Memory (10000,_)
+001 N 001 N
+010 y Memory (11010 010 y Memory (11010,_)
+)
+two
+011 N 011 N
+100 N 100 N
+101 N 101 N
+110 y Memortly (10110_) 110 y Memory (10110,_)
+111 N 111 N
+c. After handling a miss of address (1101,\_) d. After handling a miss of address (1~)
+. - . -
+Data Data
+()()() y 10~ Memory (10000"",) ()()() y 10,_ Memory (10000,_)
+001 N 001 N
+010 y Memory (11010"",) 010 y Memory (10010,_)
+011 y Memory (00011"",) 011 y 00,_ Memory (00011,_)
+100 N 100 N
+101 N 101 N
+110 y 10~ Memory (10110 ) 110 y Memory (10110,_)
+two
+111 N 111 N
+e. After handling a miss of address (00011,_) f. After handling a miss of address (10010"",)
+FIGURE 7.6 The cache contents are shown after each reference request that misses. with the Index and tag fields shown In
+binary. The cache is initially empty, with all valid bits (V entry in cache) turned off (N). The processor requests the following addresses: 10110
+lwo
+(miss), 1l01Oty,"O (miss), 1011Otv."O (hit), 1101Oty,"O (hit), HXXXlty,"O (miss), OOOlltwo (miss), HXXXlty,"O (hit), and l00lOty,"O (miss). The figures show the
+cache contents after each miss in the sequence has been handled. When address l00lO (18) is referenced, the entry for address llOlO (26) must
+two two
+be replaced, and a reference to 1101Otv."O wiU cause a subsequent miss. The tag field wiU contain only the upper portion ofthe address. The full address
+ofa word contained in cache block i with tag field j for this cache is j x 8 + ;, or equivalently the concatenation ofthe tag field j and the index;. For
+example, in cache f above, index 010 has tag 10 and corresponds to address 10010.

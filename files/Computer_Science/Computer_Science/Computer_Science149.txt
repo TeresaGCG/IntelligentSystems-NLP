@@ -1,0 +1,50 @@
+2.15 Arrays versus Pointers 133
+add HZ,$aO,$t1 # $t2 = address of array[size)
+The loop test is simply to see if p is less than the last element of a r ray:
+slt H3,HO,$t2 # $t3 = (p<&array[size)l
+bne H3, $ze ro , 100p2 # if (p<&array[size)l go to loopZ
+With all the pieces completed, we ca n show a pointer version of the code to
+zero an array:
+move $tO, $aO # p = address of array[O)
+loop2 : sw$zero ,O($tOl It Memory[p) = 0
+addi $tO,HO,4
+Ilp ~ p + 4
+add $tl, $al,$al # $tl - size * 2
+add $tl,Hl,$t1 # $tl - size * 4
+add $t2, $aO , $t1 # $t2 - address of array[size)
+slt $t3,HO,$t2 # $t3 - (p<&array[size)l
+bne $t3, $zero ,1oopZ # if (p<&array[size)l go to loopZ
+As in the first example, this code assumes size is greater than O.
+Note that this program calculates the address of the end of the array in every
+iteration of the loop, even though it does not change. A faster version of the code
+moves this calculation outside the loop:
+move HO,$aO p address of array[O)
+II
+~
+s 11 Hl,$a1,2 II It! = size*4
+H2, $aO , HI $t 2 = address of array[size )
+add II
+100p2 :sw $zero ,O(HOl Memory[p) = 0
+II
+addi ItO, ItO ,4 II p = p + 4
+s 1t 1t3, ItO ,lt2 II $t 3 = (p<&array[size]l
+bne H3,$zero,loop2 II if (p<&array[size]) go t o 10op2
+Comparing the Two Versions of Clear
+Comparing the two code sequences side by side illustrates the difference between
+array indices and pointers (the changes introduced by the pointer version are
+highlighted):
+,
+move StO.S zero II 0 move StO, SaO II array[O]
+~ p = '"
+, ,"
+loopl:sll Stl.StO,2 II HI • 4 Stl, Sa1. 2 II Stl = Slze • 4
+~
+,dd St2.SaO,S t1 II H2 &array[i] ,dd St2.SaO. Stl II St2 = &array[ size ]
+~
+Szero. O(S t 2) II array[i] = 0 100p2 : sw Szero,O {HO ) II Memory[p] = 0
+'"
+, ,
+add i StO. StO, 1 II + 1 addi StO, StO. 4 II p = p + 4
+~
+, It St3.StO,Sa l II St3 = ( i < size) ,It St3, StO, H2 II St3={p<&array[size)
+be, St3,Szero,100p1# if (l go to loopl be, St3,Szero,100p2# i f () go to 100p2

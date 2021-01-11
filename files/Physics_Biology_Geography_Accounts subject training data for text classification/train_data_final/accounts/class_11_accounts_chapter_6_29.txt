@@ -1,0 +1,66 @@
+Trial Balance and Rectification of Errors 209
+
+(vii)
+
+Salary A/c Dr. 2,000
+
+To Employee’s personal A/c 2,000
+[Salary paid wrongly debited to employee’s personal account, now
+corrected)
+
+Suspense Account
+
+Dr. Cr.
+? ?
+
+Difference as per 10,000
+
+trial balance Purchases
+
+Sales return 1,000 Sales
+Purchases
+Sales
+
+   
+ 
+
+Illustration 5
+
+Trial balance of Rahul did not agree, Rahul put the difference to suspense account.
+Subsequently, he located the following errors :
+
+(i) Wages paid for installation of Machinery ? 600 was posted to wages account.
+
+(ii) Repairs to Machinery ? 400 debited to Machinery account.
+
+(iii) Repairs paid for the overhauling of second hand machinery purchased ? 1,000 was
+debited to Repairs account.
+
+(iv) Own business material ? 8,000 and wages ? 2,000 were used for construction of
+building. No adjustment was made in the books.
+
+(v) Furniture purchased for ? 5,000 was posted to purchase account as ? 500.
+
+(vi) Old machinery sold to Karim at its book value of ? 2,000 was recorded through sales
+book.
+
+[vii] Total of sales returns book ? 3,000 was not posted to the ledger.
+
+Rectify the above errors and prepare suspense account to ascertain the original
+difference in trial balance.
+
+[i]
+
+Machinery A/c Dr. 600
+
+To Wages A/c 600
+[Wages paid for installation of machinery wrongly debited to wages account,
+now rectified)
+
+(ii)
+
+Repairs A/c Dr. 400
+To Machinery A/c 400
+[Repairs paid wrongly debited to machinery account now rectified)
+
+2019-2020

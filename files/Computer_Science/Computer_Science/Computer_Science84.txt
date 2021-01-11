@@ -1,0 +1,46 @@
+68 Chapter 2 Instructions: Language of the Computer
+------------- -
+I
+Editor program
+I
+(machine axle)
+LI
+I
+--------------
+: C compiler
+I
+, ,l
+I (machine axle)
+Processor --------------
+I-~--~-----I
+: Payroll data :
+~-----------_...!
+,-------- -----i
+l J
+~::k_t:~
+--------------
+: Source code in C :
+__:
+l_f~~:d~~..P~~~
+FIGURE 2.8 The stored-program concept. Stored programs allow a computer that performs
+accounting to become, in the blink ofan eye, a computer that helps an author WTite a book.The switch hap 
+pens simply by loading memory with programs and data and then telling the computer to begin executing
+at a given location in memory. Treating instructions in the same way as data greatly simplifies both the
+memory hardware and the software of computer systems. Specifically, the memory technology needed for
+data can also be used for programs, and programs like compilers, for instance, can translate code written in
+a notation far more convenient for humans into code that the computer can understand.
+"Contrariwise," continI/cd
+Tweedledee, "ifit was so, it
+Logical Operations
+might be; and if it were it
+50,
+would be; bllt as it isn't, it
+ain't. That's logic."
+Although the first computers concentrated on full words, it soon became clear that
+Lewis Carroll,Alice's Adven 
+it was useful to operate on fields of bits within a word or even on individual bits.
+tures ill Wonderland, 1865
+Examining characters within a word, each of which are stored as 8 bits, is one exam 
+ple of such an operation. It follows that instructions were added to simplify, among
+other things, the packing and unpacking of bits into words. These instructions are
+called logical operations. Figure 2.9 shows logical operations in C and Java.

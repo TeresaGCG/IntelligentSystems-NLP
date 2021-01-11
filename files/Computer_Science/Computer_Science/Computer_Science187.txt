@@ -1,0 +1,49 @@
+3.3 Addition and Subtraction 171
+a
+0000 0000 0000 0000 0000 0000 0000 111
+two
+ANSWER
++ 0000 0000 0000 0000 0000 0000 0000 all 0two
+0000 0000 0000 0000 0000 0000 0000 1101
+two
+The 4 bits to the right have all the action; Figure 3.2 shows the sums and car 
+ries. The carries are shown in parentheses, with the arrows showing how they
+are passed.
+(0) (0) (1) (1) (0) (Carries)
+o o o
+1 1 1
+o o o o
+1 1
+(0) 0 (0) 0 (0) 1 (1) 1 (1) 0 (0) 1
+FIGURE 3.2 Binary addition, showing earrles from right to left. The rightmost bit adds 1
+to 0, resulting in the sum ofthis bi°t being 1and the carryout °from this bit being O. Hence, the operation
+for the second digit to the right is + 1 + 1. This generates a for this swn bit and a carry out of 1. The
+third digit is the sum of 1+ 1+ 1, resulting in a carry out of 1and a sum bit of 1. The fourth bit is 1+ a
++ 0, yielding a I swn and no carry.
+Subtracting 6 from 7 ca n be done directly:
+ten ten
+0000 0000 0000 0000 0000 0000 0000 0111 7ten
+two
+0000 0000 0000 0000 0000 0000 0000 0110 6
+two ten
+0000 0000 0000 0000 0000 0000 0000 0001 1
+two ten
+or via addition using the two's complement representation of -6:
+a
+0000 0000 0000 0000 0000 0000 0000 111
+two
++ 11111111111111111111111111111010
+two
+0000 0000 0000 0000 0000 0000 0000 0001
+two
+We said earlier that overflow occurs when the result from an operation cannot
+be represented with the available hardware, in this case a 32-bit word. \-Vhen can
+overflow occur in addition? When adding operands with different signs, overflow
+cannot occur. The reason is the sum must be no larger than one of the operands.
+For example, -10 + 4 = -6. Since the operands fit in 32 bits and the sum is no
+larger than an operand, the sum must fit in 32 bits as well. Therefore no overflow
+can occur when adding positive and negative operands.
+There are similar restrictions to the occurrence of overflow during subtract, but
+it's just the opposite principle: When the signs of the operands are the mme, over 
+flow cannot occur. To see this, remember that x - y = x + (-y) because we subtract
+by negating the second operand and then add. So, when we subtract operands of

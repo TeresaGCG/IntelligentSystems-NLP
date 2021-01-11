@@ -1,0 +1,38 @@
+7.10 Exercises 557
+cache, which usually refers to the number ofbytes ofdata stored in the cache. The
+number of bits needed to implement the cache represents the total amount of
+memory needed for storing all the data, tags, and valid bits.
+7.13 (10 ) <§7.2> Find a method to eliminate the AND gate on the valid bit in
+Figure 7.7 on page 478. (Hint: You need to change the comparison.)
+7.14 [IOJ <§7.2> Consider a memory hierarchy using one of the three organiza 
+tions for main memory shown in Figure 7.11 on page 489. Assume that the cache
+block size is 16 words, that the width oforganization (b) of the figure is four words,
+and that the number ofbanks in organization (c) is four. Ifthe main memory latency
+for a new access is 10 memory bus clock cycles and the transfer time is 1memory bus
+clock cycle, what are the miss penalties for each ofthese organizations?
+7.15 (10 ) <§7.2> • For More Practice: Cache Performance.
+7.16 [IS) <§7.2> Cache C 1 is direct-mapped with 16 one-word blocks. Cache C2
+is direct-mapped with 4 four-word blocks. Assume that the miss penalty for C 1 is
+8 memory bus clock cycles and the miss penalty for C2 is 11 memory bus clock cy 
+cles. Assuming that the caches are initially empty, find a reference string for which
+C2 has a lower miss rate but spends more memory bus clock cycles on cache misses
+than C 1. Use word addresses.
+7.17 [5J <§7.2> .. In More Depth: Average Memory Access Time
+7.18 [5J <§7.2> • In Mo re Depth: Average Memory Access Time
+7.19 (10 ) <§7.2> • In More Depth: Average Memory Access Time
+7.20 (10) <§7.2> Assume a memory system that supports interleaving either four
+reads or four writes. Given the following mem ory addresses in order as they ap 
+pear on the memory bus: 3, 9, 17,2,5 1, 37, 13, 4,8,41 ,67, 10, which ones will result
+in a bank conflict?
+7.21 [3 hours) <§7.3> Use a cache simulator to simulate several different cache
+orga nizations for the first 1 million references in a trace of gce. Both dinero (a
+cache simulator) and the gcc traces are available-see the Preface of this book for
+information on how to obtain them. Assume an instruction cache of 32 KB and a
+data cache of32 KB using the same orga nization. You should choose at least two
+kinds of associativity and two block sizes. Draw a diagram like that in Figure 7. 17
+on page 503 that shows the data cache o rganization with the best hit rate.
+7.22 [I dayJ <§7.3> You are commissioned to design a cache fora new system. It
+has a 32-bit physical byte address and requires separate instruction and data cach 
+es. The SRAMs have an access time of 1.5 ns and a size of32K X8 bits, and you have
++
+a total of 16 SRAMs to use. The miss penalty for the mem ory system is 8 2 x Block

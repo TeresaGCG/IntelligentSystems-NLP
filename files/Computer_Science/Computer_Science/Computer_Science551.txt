@@ -1,0 +1,62 @@
+7.4 Virtual Memory 535
+Save state
+Save GPR addi Skl. $sp. -XCPSIZE If save space on for state
+stac~
+Ssp. XCCSP(Skll If save Ssp on
+" stac~
+SVO. XCCVO(Skll If save SvO on
+" stac~
+II save Svl. $di. $si . Hi .... on sta c ~
+Sra, XCCRA($U ) II save Sra on stac~
+,,0
+Save Hi, La mfhi ,,1 II copy Hi
+mfl 0 II copy Lo
+" SVO. XCCH](Skll II save Hi value on sta c ~
+,,,
+" Sv!. XCT L](Skll II save Lo value on stack
+Save Exception mfcO SaO. II copy ca use regist er
+Registers " SaO. X,,C,CCR(Skll II save Scr value on stac~
+II save Svl. ....
+mfcO Sa 3. II copy Status Regi ster
+" Sa 3. XCT SR(Skll II save Ssr on stac~
+Set sp move Ssp. '" II sp - sp - XCPSIZE
+Enable nested exceptions
+andi SvO. Sa3. MASKl If $vO - $s r &MASKl. enable exceptions
+mtcO SvO. Ssr If $sr - val ue that enables exceptions
+Call C exception handler
+Set $gp move Sgp. GPINIT II set $gp to poi nt to heap area
+',p
+move SaO. II ar~I - pointer to except ion stack
+Call C code
+xcpt deliver II ca 1 C code t o handl e exception
+j"
+Restoring state
+',p
+Rest ore most move Sa t. II temporary va lue of $sp
+GPR. Hi. 10 " Sra, XCT RA($a t ) II rest ore $ra from sta,.c1k
+II rest ore HO.
+• ••••
+" SaO. XCT AO($U) II rest ore $aO from stack
+Restore Status " SVO. XCCSR($at ) II load old Ssr f rom stac~
+Register ,1,; ' Sv l. M,,A,SK2"1 Zmask t o disable exceptions
+SvO. SvO. $vO - $s r &MASK2. disenable exceptions
+mtcO SvO. II set Statlls Regi st er
+Exception return
+Rest ore $sp and Ssp. XCCSP($at ) If restore $sp f rom sta ck
+rest of GPR
+SVO. XCCVO($at ) If restore $vO f rom sta ck
+used as
+Sv l. XCCVl($at ) If rest ore $vl f rom stack
+tempora ry
+Skl. XCCEPC($at) If copy old Sepc f rom stack
+reg1 st ers
+Sa t . XCT AT($a t ) If rest ore $at f rom stack
+Rest ore ERC and mtcO ,S,k,I.Sepc If restore $epc
+retllrn
+eret If retllrn t o interrupted instruction
+FIGURE 7.28 MIPS code to save and restore state on an exception.
+The virtual address that caused the fault depends on whether the fault was an
+instmction or data fault. The address of the instmction that generated the fault is in
+the EPC. If it was an instmction page fault, the EPC contains the virtual address of the
+faulting page; otherwise, the faulting virtual address can be computed by examining
+the instmction (whose address is in the EPC) to find the base register and offset field.

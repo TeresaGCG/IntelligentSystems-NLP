@@ -1,0 +1,55 @@
+BIOMOLECULES
+
+The catalytic cycle of an enzyme action can be described in the following
+steps:
+
+1. First, the substrate binds to the active site of the enzyme, ﬁtting
+into the active site.
+
+2. The binding of the substrate induces the enzyme to alter its shape,
+ﬁtting more tightly around the substrate.
+
+3. The active site of the enzyme, now in close proximity of the
+substrate breaks the chemical bonds of the substrate and the
+new enzyme- product complex is formed.
+
+4. The enzyme releases the products of the reaction and the free
+enzyme is ready to bind to another molecule of the substrate and
+run through the catalytic cycle once again.
+
+9. 12.4 Factors Affecting Enzyme Activity
+
+The activity of an enzyme can be affected by a change in the conditions
+which can alter the tertiary structure of the protein. These include
+
+temperature, pH, change in substrate concentration or binding of speciﬁc
+chemicals that regulate its activity.
+
+Temperature and pH
+
+Enzymes generally function in a narrow range of temperature and pH
+(Figure 9.7). Each enzyme shows its highest activity at a particular
+temperature and pH called the optimum temperature and optimum pH.
+Activity declines both below and above the optimum value. Low
+temperature preserves the enzyme in a temporarily inactive state whereas
+
+high temperature destroys enzymatic activity because proteins are
+denatured by heat.
+
+ 
+
+Vmax
+(a) (b)
+E
+3, 8
+:E §
+§ Vmax e
+‘D 2 ‘8
+g a
+8
+pH Temperature Km
+
+Figure 9.7 Effect of change in : (a) pH (b) Temperature and (c) Concentration of
+substrate on enzyme activity
+
+157

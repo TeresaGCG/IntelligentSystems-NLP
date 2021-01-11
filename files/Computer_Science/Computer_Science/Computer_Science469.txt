@@ -1,0 +1,43 @@
+6.12 Concluding Remarks 453
+Deeply Multiple issue
+pipelined with deep pipeline
+(Section 6.10)
+Multiple-issue
+Multicycle
+- Pipelined pipelined
+•
+(Section 5.5)
+(Section 6.9)
+•
+"
+il
+o
+u
+Single-eycle
+(Section 5.4)
+Slower Faster
+Instructions per clock (IPC = 1/CPI)
+FtGURE 6.52 The performance consequences of simple (slngl&eycle) datapath and mul·
+tlcycle datapath from Chapter 5 and the plpellned execution model In Chapter 6. Remem 
+ber that CPU performance is a nUlction of IPC times dock rate, and hence moving to the upper right
+increases performance. Although the instructions per dock cyde is slightly larger in the simple datapath,
+thepipelined datapath is dose, and it uses adock rate as fast as the multicyde datapath.
+Multiple issue
+with deep pipeline
+(Section 6.10)
+]
+Multiple-issue
+pipelined
+1
+(Section 6.9)
+Single-cycle Deeply
+Pipelined
+(Section 5.4) pipelined
+Multicycle
+(Section 5.5)
+1 Several
+Use latency in instructions
+FtGURE 6.53 The basic relationship between the datapaths In Figure 6.52. Notice that the
+x-axis is use latency in instructions, which is wltat determines theease ofkeeping tlte pipeline full. The pipe 
+lined dalap.1th is shown as multiple dock cydes for instruction latency because the execution time of an
+instruction is not shorter; it's tlte instruction throughput tltat is improved.

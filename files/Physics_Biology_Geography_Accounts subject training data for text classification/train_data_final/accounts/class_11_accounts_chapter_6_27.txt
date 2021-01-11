@@ -1,0 +1,55 @@
+Trial Balance and Rectification of Errors 207
+
+Illustration 3
+
+Depreciation written—off as the machinery ? 2,000
+(i) was not posted at all
+[ii] was not posted to machinery account
+(iii) was not posted to depreciation account
+
+Solution
+
+(i) It was recorded through journal proper. From journal proper posting to all the
+accounts are made individually. Hence, no posting was made to depreciation account
+and machinery account. Therefore, rectification entry will be :
+
+Depreciation A/c Dr. 2,000
+To Machinery A/c 2,000
+[Depreciation on machinery not posted, now corrected)
+
+(ii) In this case posting was not made to machinery account. It is to be assumed that
+depreciation account should have been correctly debited. Therefore, rectification
+entry shall be :
+
+Suspense A/c Dr. 2,000
+
+To Machinery A/c 2,000
+[Depreciation on machinery not posted to Machinery account, now
+corrected).
+
+(iii) In this case depreciation account was not been debited. However, machinery account
+must have been correctly credited. Therefore, rectification entry shall be :
+
+Depreciation A/c Dr. 2,000
+To Suspense A/c 2,000
+[Depreciation on machinery not posted to Depreciation account, now
+corrected).
+Illustration 4
+
+Trial balance of Anurag did not agree. It showed an excess credit ? 10,000. Anurag put the
+difference to suspense account. He located the following errors :
+
+(i) Sales return book over cast by ? 1 .000.
+(ii) Purchases book was undercast by ? 600.
+
+(iii) In the sales book total of page no. 4 was carried forward to page 5 as ? l ,000 instead
+of ? l ,200 and total of page 8 was carried forward to page 9 as
+? 5,600 instead of? 5,000.
+
+(iv) Goods returned to Ram ? 1,000 were recorded through sales book.
+[v] Credit purchases from M & Co. ? 8,000 were recorded through sales book.
+(vi) Credit purchases from S & Co. ? 5,000 were recorded through sales book.
+However, S & Co. were correctly credited.
+[vii] Salary paid ? 2,000 was debited to employee’s personal account.
+
+2019-2020

@@ -1,0 +1,58 @@
+406
+
+I Physics
+
+9.
+
+10.
+
+ 
+
+ 
+
+attributed a wave-like character to matter (material particles). The waves
+associated with the moving material particles are called matter waves
+or de Broglie waves.
+
+The de Broglie wavelength (/1) associated with a moving particle is related
+to its momentum p as: 7» = h/ p. The dualism of matter is inherent in the
+de Broglie relation which contains a wave concept (/1) and a particle concept
+(p). The de Broglie wavelength is independent of the charge and nature of
+the material particle. It is signiﬁcantly measurable (of the order of the
+atomic-planes spacing in crystals) only in case of sub-atomic particles
+like electrons, protons, etc. (due to smallness of their masses and hence,
+momenta). However, it is indeed very small, quite beyond measurement,
+in case of macroscopic objects, commonly encountered in everyday life.
+
+Electron diffraction experiments by Davisson and Germer, and by G. P.
+Thomson, as well as many later experiments, have veriﬁed and conﬁrmed
+the wave-nature of electrons. The de Broglie hypothesis of matter waves
+supports the Bohr ’s concept of stationary orbits.
+
+Physical Symbol Dimensions
+Quantity
+
+ 
+
+POINTS TO PONDER
+
+Free electrons in a metal are free in the sense that they move inside the
+metal in a constant potential [This is only an approximation). They are
+not free to move out of the metal. They need additional energy to get
+out of the metal.
+
+Free electrons in a metal do not all have the same energy. Like molecules
+in a gas jar, the electrons have a certain energy distribution at a given
+temperature. This distribution is different from the usual Maxwell’s
+distribution that you have learnt in the study of kinetic theory of gases.
+You will learn about it in later courses, but the difference has to do
+with the fact that electrons obey Pauli’s exclusion principle.
+
+Because of the energy distribution of free electrons in a metal, the
+energy required by an electron to come out of the metal is different for
+different electrons. Electrons with higher energy require less additional
+energy to come out of the metal than those with lower energies. Work
+function is the least energy required by an electron to come out of the
+metal.
+
+2019-20

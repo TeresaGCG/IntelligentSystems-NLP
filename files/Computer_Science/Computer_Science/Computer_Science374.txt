@@ -1,0 +1,42 @@
+358 Chapter 5 The Processor: Datapath and Control
+Thus in Figure 5.38 on page 339, states 6 and 7 and states 3 and 4 are combined.
+This machine has an 3.2 GHz clock, since the register update increases the length
+of the critical path.
+M3: A machine like M2 except that effective address calculations are done in the
+same clock cycle as a memory access. Thus states 2, 3, and 4 can be combined, as
+can 2 and 5, as well as 6 and 7. This machine has a 2.8 GHz clock because of the
+long cycle created by combining address calculation and memory access.
+Find out which of the machines is fa stest. Are there instruction mixes that would
+make another machine faster, and if so, what are they?
+3
+5.37 [20) <§5.S> Your friends at C (Creative Computer Corporation) have de 
+termined that the critical path that sets the clock cycle length of the multicycle
+datapath is memory access for loads and stores (not for fetching instructions). This
+has caused their newest implementation of the MIPS 30000 to run at a clock rate
+3
+of4.8 GHz rather than the target clock rate of 5.6 GHz. However, Clara at C has
+a solution. If all the cycles that access memory are broken into two clock cycles,
+then the machine can run at its target clock rate.
+Using the SPEC CPUint 2000 mixes shown in Chapter 3 (Figure 3.26 on page
+228), determine how much faster the machine with the two-cycle memory
+accesses is compared with the 4.8 GHz machine with single-cycle memory access.
+Assume that all jumps and branches take the same number of cycles and that the
+set instructions and arithmetic immediate instructions are implemented as R-type
+instructions. Would you consider the further step of splitting instruction fetch
+into two cycles if it would raise the clock rate up to 6.4 GHz? Why?
+5.38 (20) <§S.5> Suppose there were a MIPS instruction, called bcmp, that com 
+pares two blocks of words in two memory addresses. Assume that this instruction
+requires that the starting address ofthe first block is in register $tl and the starting
+address of the second block is in $t2, and that the number ofwords to compare is
+in $t3 (which is $t3:2::0). Assume the instruction can leave the result (the address
+of the first mismatch or zero if a complete match) in $t1 and/or H2. Further 
+more, assume that the values of these registers as well as registers $t4 and tS can
+be destroyed in executing this instruction (so that the registers can be used as tem 
+poraries to execute the instruction).
+Write the MIPS assembly language program to implement (emulate the behavior
+on
+block compare. How many instructions will be executed to compare two 100 
+word blocks? Using the CPI of the instructions in the multicycle implementation,
+how many cycles are needed for the lOO-word block compare?
+5.39 [2-3 months] <§§S.I-S.5> Using standard parts, build a machine that im 
+plements the multicycle machine in this chapter.

@@ -1,0 +1,73 @@
+Moving Charges and
+Magnetism
+
+charge (— e), if we had taken a particle with charge (+q), the angular
+momentum and magnetic moment would be in the same direction. The
+
+ratio
+#1 _ e
+T — 2m (4.35)
+is called the gyromagnetic ratio and is a constant. Its value is 8.8 x 1010 C / kg
+for an electron, which has been veriﬁed by experiments. . f
+
+The fact that even at an atomic level there is a magnetic moment,
+confirms Ampere’s bold hypothesis of atomic magnetic moments. This
+according to Ampere, would help one to explain the magnetic properties
+
+ 
+
+ 
+
+_ 1.60 x 10'19 x 6.63 x 10'34
+4><3.14>< 9.11x10‘31
+
+= 9.27 x 10—24 Am2 (4.37)
+where the subscript ‘min’ stands for minimum. This value is called the
+Bohr magneton.
+
+Any charge in uniform circular motion would have an associated
+magnetic moment given by an expression similar to Eq. (4.34). This dipole
+moment is labelled as the orbital magnetic moment. Hence, the subscript
+‘l’ in MI. Besides the orbital moment, the electron has an intrinsic magnetic
+moment, which has the same numerical value as given in Eq. (4.37). It is
+called the spin magnetic moment. But we hasten to add that it is not as
+though the electron is spinning. The electron is an elementary particle
+and it does not have an axis to spin around like a top or our earth.
+Nevertheless, it does possess this intrinsic magnetic moment. The
+microscopic roots of magnetism in iron and other materials can be traced
+back to this intrinsic spin magnetic moment.
+
+ 
+
+of materials. Can one assign a value to this atomic dipole moment? The E g
+answer is Yes. One can do so within the Bohr model. Bohr hypothesised i 53
+that the angular momentum assumes a discrete set of values, namely, 5 g
+n h 8_ c:
+
+l 2 n (4.36) g (i
+where n is a natural number, n = 1, 2, 3, and h is a constant named f g
+after Max Planck (Planck’s constant) with a value h = 6.626 x 10‘34 J s. g 3
+This condition of discreteness is called the Bohr quantisation condition. .33?) %
+We shall discuss it in detail in Chapter 12. Our aim here is merely to use 3 a
+it to calculate the elementary dipole moment. Take the value n = 1, we ‘3 8
+have from Eq. (4.34) that, g g
+e 55 (53
+
+_ | FF
+(#l)mm—47Tmeh :3
+
+2% a
+
+3 <3
+
+63
+
+4. 1 1 THE MOVING COIL GALVANOMETER
+
+Currents and voltages in circuits have been discussed extensively in
+Chapters 3. But how do we measure them? How do we claim that
+current in a circuit is 1.5 A or the voltage drop across a resistor is 1.2 V?
+
+Figure 4.24 exhibits a very useful instrument for this purpose: the moving 1 63
+
+2019-20

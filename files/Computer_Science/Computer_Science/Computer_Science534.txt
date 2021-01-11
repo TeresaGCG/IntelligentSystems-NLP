@@ -1,0 +1,47 @@
+518 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Virtual page
+number
+Page table
+Physical page or Physical memory
+Valid disk address
+/,
+1 / /
+1
+1
+1
+~
+0
+1
+1
+0 ~
+Disk storage
+1
+1
+~
+0
+1
+-,
+[ I
+I
+FIGURE 7.22 The page table maps each page In virtual memory to either a page In
+main memory or a page stored on disk, which Is the next level In the hierarchy. The vir 
+tual page number is used to index the page table. If the valid bit is on, the page table supplies the physical
+page number (i.e., the starting address of the page in memory) corresponding to the virtual page. If the
+valid bit is off, the page currently resides only on disk, at a specified disk address. In many systems, the
+table of physical page addresses and disk page addresses, while logically one table, is stored in two sepa 
+rate data structures. Dual tables are justified in part because we must keep the disk addresses of all the
+pages, even if they are currently in main memory. Remember that the pages in main memory and the
+pages on disk are identical in size.
+shows the organization when a single table holds either the physical page number
+or the disk address.
+The operating system also creates a data structure that tracks which processes
+and which virtual addresses use each physical page. When a page fault occurs, if all
+the pages in main memory are in use, the operating system must choose a page to
+replace. Because we want to minimize the number of page faults, most operating
+systems try to choose a page that they hypothesize will not be needed in the near
+future. Using the past to predict the future, operating systems follow the least
+recently used (LRU) replacement scheme, which we mentioned in Section 7.3.
+The operating system searches for the least recently used page, making the
+assumption that a page that has not been used in a long time is less likely to be
+needed than a more recently accessed page. The replaced pages are written to swap
+space on the disk. In case you are wondering, the operating system is just another

@@ -1,0 +1,22 @@
+Homework Helpers: Basic Math and Pre-Algebra
+64
+Lesson 3-6: Fractions and the Distributive Property
+The distributive property still applies when you work with fractions.
+For example, the expressions  and  give the same
+numerical result. The advantage to using the distributive property is that
+you may be able to avoid the process of finding a common denominator
+and adding the fractions together, because multiplication of fractions
+does not require a common denominator.
+Example 1
+Use the distributive property to evaluate:
+Solution: Use the distributive property and simplify:
+Use the distributive property instead of trying to add   and  .
+Cancel the common factors in each fraction. Treat each fraction
+separately. You are not allowed to cancel across an addition symbol.
+Add the two integers together.
+8 + 3 = 11
+Lesson 3-6: Review
+Use the distributive property to evaluate the following expressions:
+1. 3.
+2. 4.
+www.ebook3000.com

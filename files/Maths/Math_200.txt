@@ -1,0 +1,24 @@
+Homework Helpers: Basic Math and Pre-Algebra
+200
+Solution: In the first triangle, the base has length 10 and the
+corresponding height is 5. The enclosed area is:
+The base of the second triangle has length 2 and the corresponding
+height is 4, so the enclosed area is:
+Lesson 10-7 Review
+Find the enclosed areas of the following polygons.
+1. A rectangle with width 20 decimeters and length 2 decimeters.
+2. A square of length 10 centimeters.
+3. An isosceles right triangle with hypotenuse of length 8 inches.
+4. A triangle with base 8 inches and corresponding height 4 inches.
+5. A right triangle with one leg of length 3 feet and the hypotenuse of
+length 5 feet.
+Lesson 10-8: Circles
+Acircle is defined to be the set of all points that are an equal distance
+from a special point called the center of the circle. The distance between
+the center of the circle and a point on the circle is called the radius of the
+circle. An example of a circle is shown in Figure 10.17.
+Every line that passes through the center of a circle will intersect the
+circle at two distinct places. The distance between these two points of
+intersection is called the diameter of the circle. The diameter of a circle
+is related to the radius of a circle. If d represents the diameter of a circle,
+www.ebook3000.com

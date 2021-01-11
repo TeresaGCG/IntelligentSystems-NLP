@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+98
+You can round and estimate with multiplication as well as addition.
+For example, to estimate the product 7.65 × 3.3, you could round 7.65 to
+8 and 3.3 to 3: 8 × 3 = 24. So 7.65 × 3.3 is roughly 24. The exact answer is
+25.245. We’re a little off, but we’re still in the neighborhood. Keep in
+mind that if you round down, your estimate will be a little low, and if you
+round up, your estimate will be a little high.
+Example 1
+Scott charges $2.10 per square foot to tile a floor. If he charges
+me $750 to tile a 300-square-foot room, is he charging me the
+right amount?
+Solution: Round $2.10 to the nearest dollar: 2.1 ≈ 2.
+Scott should have charged me roughly 300 × 2 or $600 to tile the
+room; $750 is way too high! He definitely overcharged me for the
+job.
+Example 2
+To celebrate their first softball victory of the season, Michael
+wants to treat his friends to pizza. If each pizza costs $7.50 and
+Michael wants to buy 8 pizzas, how much money will he spend?
+Solution: Round the price of each pizza to the nearest dollar:
+$7.50 ≈ $8, so 8 pizzas will cost roughly 8 × 8 or $64.
+Example 3
+Estimate the product: 0.088 × 40.48
+Solution: Round 0.088 to the nearest tenth: 0.088 ≈ 0.1
+Round 40.48 to the nearest one: 40.48 ≈ 40
+The product 0.088 × 40.48 will be close to the product
+0.1× 40 = 4
+So, 0.088 × 40.48 ≈ 4
+www.ebook3000.com

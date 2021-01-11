@@ -1,0 +1,110 @@
+U N [TS AND M EASU REM EN’I‘
+
+EXERCISES
+
+Note : In stating numerical answers, take care of signiﬁcant ﬁgures.
+
+2.1
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+2.9
+
+Fill in the blanks
+
+[a] The volume of a cube of side 1 cm is equal to ..... m3
+
+[b] The surface area of a solid cylinder of radius 2.0 cm and height 10.0 cm is equal to
+...[mm]2
+
+[c] A vehicle moving with a speed of 18 km h’1 covers....m in 1 s
+
+(d) The relative density of lead is 1 1.3. Its density is ....g cm’3 or ....kg mi3.
+
+Fill in the blanks by suitable conversion of units
+(a) 1 kg m2 5’2 = ....g cmzsr2
+
+(b) 1 m = ..... 1y
+
+[0) 3.0 m s*2 = km h’2
+
+[d] G = 6.67 x 10’11 N m2 [kg]’2 = [cm]3 s*2 g1.
+
+A calorie is a unit of heat [energy in transit) and it equals about 4.2 J where 1J =
+1 kg m2 s”. Suppose we employ a system of units in which the unit of mass equals 05
+kg, the unit of length equals [3 m, the unit of time is ys. Show that a calorie has a
+magnitude 4.2 (1’1 [3’2 Y2 in terms of the new units.
+
+Explain this statement clearly :
+
+“To call a dimensional quantity ‘large’ or ‘small’ is meaningless without specifying a
+standard for comparison”. In view of this, reframe the following statements wherever
+necessary :
+
+(a) atoms are very small objects
+
+[b] a jet plane moves with great speed
+
+[c] the mass of Jupiter is very large
+
+(d) the air inside this room contains a large number of molecules
+
+[e] a proton is much more massive than an electron
+
+[f] the speed of sound is much smaller than the speed of light.
+
+A new unit of length is chosen such that the speed of light in vacuum is unity. What
+is the distance between the Sun and the Earth in terms of the new unit if light takes
+8 min and 20 s to cover this distance ?
+
+Which of the following is the most precise device for measuring length :
+
+(a) a vernier callipers with 20 divisions on the sliding scale
+
+(b) a screw gauge of pitch 1 mm and 100 divisions on the circular scale
+
+(c) an optical instrument that can measure length to within a wavelength of light ?
+
+A student measures the thickness of a human hair by looking at it through a
+microscope of magnification 100. He makes 20 observations and finds that the average
+width of the hair in the field of view of the microscope is 3.5 mm. What is the
+estimate on the thickness of hair ?
+
+Answer the following :
+
+[a)You are given a thread and a metre scale. How will you estimate the diameter of
+the thread ?
+
+[b)A screw gauge has a pitch of 1.0 mm and 200 divisions on the circular scale. Do
+you think it is possible to increase the accuracy of the screw gauge arbitrarily by
+increasing the number of divisions on the circular scale ?
+
+[c] The mean diameter of a thin brass rod is to be measured by vernier callipers. Why
+is a set of 100 measurements of the diameter expected to yield a more reliable
+estimate than a set of 5 measurements only ?
+
+The photograph of a house occupies an area of 1.75 cm2 on a 35 mm slide. The slide
+is projected on to a screen, and the area of the house on the screen is 1.55 m2. What
+is the linear magnification of the projector—screen arrangement.
+
+2.10 State the number of significant figures in the following :
+
+(a) 0.007 m2
+(b) 2.64 X 1024 kg
+[C] 0.2370 g cm’3
+
+2019-20
+
+35

@@ -1,0 +1,128 @@
+OSCILLATIONS
+
+357
+
+Of course, as expected, if we put b = 0, all
+equations of a damped oscillator in this section
+reduce to the corresponding equations of an
+undamped oscillator.
+
+Example 14.10 For the damped oscillator
+shown in Fig. 14.19. the mass m of the block
+is 200 g. k = 90 N m‘1 and the damping
+constant b is 40 g 5’1. Calculate (a) the
+
+period of oscillation. (b) time taken for its
+amplitude of vibrations to drop to half of
+its initial value. and (c) the time taken for
+its mechanical energy to drop to half its
+initial value.
+
+ 
+
+Answer (a) We see that km = 90X0.2 = 18 kg N
+m‘1 = kg2 S'2; therefore . (km = 4.243 kg 8'1, and
+b = 0.04 kg S'l. Therefore, b is much less than
+
+. (km . Hence, the time period Tfrom Eq. (14.34)
+is given by
+
+T227: 3
+
+Vk
+Zzﬂlﬂ
+QONmT1
+
+= 0.3s
+
+(b) Now, from Eq. (14.33), the time, T for the
+
+1/2’
+
+amplitude to drop to half of its initial value is
+given by,
+
+_ ln(1/2)
+_ b/2m
+
+ 
+
+1/2
+
+= 0693 x 2 x 200 s
+40
+
+ 
+
+= 6.93 s
+
+(c) For calculating the time, t1/2, for its
+mechanical energy to drop to half its initial value
+we make use of Eq. (14.35). From this equation
+
+we have,
+
+E(t )/E(O) = exp (—bt1/2/m)
+
+1/2
+
+Or 1/2 = exp (—bt /m)
+
+1/2
+
+ln(1/2) = -(bt /m)
+
+1/2
+
+Or t1/2 2%x200g
+
+= 3.46 s
+This is just half of the decay period for
+amplitude. This is not surprising, because,
+according to Eqs. (14.33) and (14.35), energy
+depends on the square of the amplitude. Notice
+that there is a factor of 2 in the exponents of
+the two exponentials. 4
+
+14. 10 FORCED OSCILLATIONS
+AND RESONANCE
+
+When a system (such as a simple pendulum or
+a block attached to a spring) is displaced from
+its equilibrium position and released, it oscillates
+with its natural frequency w, and the oscillations
+are called free oscillations. All free oscillations
+eventually die out because of the ever present
+damping forces. However, an external agency
+can maintain these oscillations. These are called
+forced or driven oscillations. We consider the
+case when the external force is itself periodic,
+with a frequency cod called the driven frequency.
+The most important fact of forced periodic
+oscillations is that the system oscillates not with
+its natural frequency a), but at the frequency cod
+of the external agency; the free oscillations die
+out due to damping. The most familiar example
+of forced oscillation is when a child in a garden
+swing periodically presses his feet against the
+ground (or someone else periodically gives the
+child a push) to maintain the oscillations.
+
+Suppose an external force Ht) of amplitude
+F0 that varies periodically with time is applied
+to a damped oscillator. Such a force can be
+represented as,
+
+F(t) = F0 cos wdt (14.36)
+
+The motion of a particle under the combined
+action of a linear restoring force, damping force
+and a time dependent driving force represented
+by Eq. (14.36) is given by,
+
+ma(t) =—kx(t) — bv(t) +F0 cos wdt (14.37a)
+
+Substituting d2x/dt2 for acceleration in
+Eq. (14.37a) and rearranging it, we get
+
+2019-20

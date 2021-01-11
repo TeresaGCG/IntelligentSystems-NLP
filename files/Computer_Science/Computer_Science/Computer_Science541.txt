@@ -1,0 +1,39 @@
+7.4 Virtual Memory 525
+Virtual address
+31 30 29 14131211109 ·· 3 2 1 0
+Virtual page number Page offset
+20 }"
+Valid Dirty T.g Physical page number
+0
+TLB
+0
+TLB hit ...... •
+0
+0
+0
+20
+I
+Physical page number _ Page offset
+B_.
+Physical address
+Block
+Physical address lag " Cache index
+,
+offset offset
+B 4
+V B
+B
+12 00..
+Valid T.g
+Cache
+0
+Cache h~
+32
+FtGURE 7.24 11Ie TLB and cache Implement the process of going from a virtual address to a data Item In the Intrlnslty Fast·
+MATH. This figure shows the org.1nization of the TLB and the data cache assuming a 4 KB page size. This diagram focuses on a read; Figure 7.25
+describes howto handle writes. Note that unlike Figure 7.9 on page 486, the tag and data RAMs are split. By addressing the longbut narrow data RAM
+with the cache index concatenated with the block offset, we select the desired word in the block without a 16:1 multiplexor. While the cache is direct
+mapped, the TLB is fully associative. Implementing a fully associative TLB requires that every TLB tag be compared against the virtual p.1ge number,
+since the entry of interest can be anywhere in the TLB. If the valid bit of the matching entry is on, the access is a TLB hit, and bits from the physical
+page number together with bits from the page offset form the index that is used to access the cache. (The Intrinsity actually has a 16 KB page size; the
+FJaboration on page 528 explains how it works.)

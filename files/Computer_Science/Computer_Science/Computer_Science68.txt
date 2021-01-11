@@ -1,0 +1,38 @@
+52 Chapter 2 Instructions: Language of the Computer
+Check
+For a given function, which programming language likely takes the most lines of
+Yourself code? Put the three representations below in order.
+1. lava
+2. C
+3. MIPS assembly language
+Elaboration: To increase portability, Java was originally envisioned as relying on a
+software interpreter. The instruction set of this interpreter is called Java bytecodes,
+which is quite different from the MIPS instruction set. To get performance close to the
+equivalent C program, Java systems today typically compile Java bytecodes into the
+native instruction sets like MIPS. Because this compilation is normally done much later
+than for C programs, such Java compilers are often called Just-in-Time (JIT) compilers.
+Section 2.10 shows how JITs are used later than C compilers in the startup process,
+and Section 2.13 shows the performance consequences of compiling versus interpret 
+ing Java programs. The Java examples in this chapter skip the Java bytecode step and
+just show the MIPS code that are produced by a compiler.
+Operands of the Computer Hardware
+Unlike programs in high-level languages, the operands of arithmetic instructions
+are restricted; they must be from a limited number of special locations built
+directly in hardware called registers. Registers are the bricks of computer construc 
+tion: registers are primitives used in hardware design that are also visible to the
+programmer when the computer is completed. The size of a register in the MIPS
+architecture is 32 bits; groups of 32 bits occur so frequently that they are given the
+word The natural unit ofaccess name word in the MIPS architecture.
+in a computer, usually a group
+One major difference between the variables of a programming language and
+of 32 bits; corresponds to the
+registers is the limited number of registers, typically 32 on current computers.
+size ofa register in the MIPS
+MIPS has 32 registers. (See Section 2.19 for the history of the number of regis 
+architecture.
+ters.) Thus, continuing in our top-down, stepwise evolution of the symbolic
+representation of the MIPS language, in this section we have added the restriction
+that the three operands of MIPS arithmetic instructions must each be chosen
+from one of the 32 32-bit registers.
+The reason for the limit of 32 registers may be found in the second of our four
+underlying design principles of ha rdware technology:

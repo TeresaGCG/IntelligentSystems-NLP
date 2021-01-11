@@ -1,0 +1,79 @@
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+3.7
+
+3.8
+
+3.9
+
+3.10
+
+x
+Q
+P
+A
+B
+0 t
+Fig. 3.19
+
+A woman starts from her home at 9.00 am, walks with a speed of 5 km h"1 on a
+straight road up to her office 2.5 km away, stays at the office up to 5.00 pm, and
+returns home by an auto with a speed of 25 km h_1. Choose suitable scales and
+plot the x—t graph of her motion.
+
+A drunkard walking in a narrow lane takes 5 steps forward and 3 steps backward,
+followed again by 5 steps forward and 3 steps backward, and so on. Each step is 1
+m long and requires 1 s. Plot the x—t graph of his motion. Determine graphically
+and otherwise how long the drunkard takes to fall in a pit 13 m away from the
+start.
+
+A jet airplane travelling at the speed of 500 km h‘1 ejects its products of combustion
+at the speed of 1500 km h‘1 relative to the jet plane. What is the speed of the
+latter with respect to an observer on the ground ?
+
+A car moving along a straight highway with speed of 126 km h‘1 is brought to a
+stop within a distance of 200 m. What is the retardation of the car [assumed
+uniform], and how long does it take for the car to stop ?
+
+Two trains A and B of length 400 In each are moving on two parallel tracks with a
+uniform speed of 72 km h—1 in the same direction, with A ahead of B. The driver of
+B decides to overtake A and accelerates by 1 m s”. If after 50 s, the guard of B just
+brushes past the driver of A, what was the original distance between them ?
+
+On a two—lane road, car A is travelling with a speed of 36 km h—l. Two cars B and
+C approach car A in opposite directions with a speed of 54 km h‘1 each. At a
+certain instant, when the distance AB is equal to AC, both being 1 km, B decides
+to overtake A before C does. What minimum acceleration of car B is required to
+avoid an accident ?
+
+Two towns A and B are connected by a regular bus service with a bus leaving in
+either direction every Tminutes. A man cycling with a speed of 20 km h‘1 in the
+direction A to B notices that a bus goes past him every 18 min in the direction of
+his motion, and every 6 min in the opposite direction. What is the period Tof the
+bus service and with what speed [assumed constant) do the buses ply on the
+road?
+
+A player throws a ball upwards with an initial speed of 29.4 m s‘l.
+
+(a) What is the direction of acceleration during the upward motion of the ball ?
+
+[b] What are the velocity and acceleration of the ball at the highest point of its
+motion ?
+
+(c) Choose the x = 0 m and t = 0 s to be the location and time of the ball at its
+highest point, vertically downward direction to be the positive direction of
+x—axis, and give the signs of position, velocity and acceleration of the ball
+during its upward, and downward motion.
+
+[d] To what height does the ball rise and after how long does the ball return to the
+player’s hands ? [Take 9 = 9.8 m s*2 and neglect air resistance).
+
+2019-20
+
+PHYSICS

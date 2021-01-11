@@ -1,0 +1,99 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+ 
+
+le=vAt| IF
+
+ 
+
+(b)
+
+Fig 1 0.14 (a) A layer of liquid sandwiched between
+two parallel glass plates, in which the
+lower plate is fixed and the upper one is
+moving to the right with velocity v
+(b) velocity distribution for viscous ﬂow in
+apwe
+
+(At). During this time interval the liquid has
+
+undergone a shear strain of
+
+Ax/ I. Since, the strain in a ﬂowing ﬂuid
+
+increases with time continuously. Unlike a solid,
+
+here the stress is found experimentally to depend
+
+on ‘rate of change of strain’ or ‘strain rate’ i.e.
+
+Ax/ (I At) or v/ 1 instead of strain itself. The
+
+coefficient of viscosity (pronounced ‘eta’) for a
+
+ﬂuid is defined as the ratio of shearing stress to
+
+the strain rate.
+_ F / A _ Fl
+TI— v/l _v—A (10.18)
+
+ 
+
+The SI unit of viscosity is poiseiulle (Pl). Its
+other units are N s m‘2 or Pa s. The dimensions
+of viscosity are [ML'ITl]. Generally, thin liquids,
+like water, alcohol, etc., are less viscous than
+thick liquids, like coal tar, blood, glycerine, etc.
+The coefficients of viscosity for some common
+
+ 
+
+Fig. 1 0. 1 5 Measurement of the coefﬁcient of viscosity
+of a liquid.
+
+ﬂuids are listed in Table 10.2. We point out two
+facts about blood and water that you may find
+interesting. As Table 10.2 indicates, blood is
+‘thicker’ (more viscous) than water. Further, the
+relative viscosity (n/nvater) of blood remains
+constant between 0 0C and 37 0C.
+
+The viscosity of liquids decreases with
+temperature, while it increases in the case of gases.
+
+Example 1 0.9A metal block of area 0. 10 m2
+is connected to a 0.010 kg mass via a string
+that passes over an ideal pulley (considered
+
+massless and frictionless). as in Fig. 10. 15.
+A liquid with a film thickness of 0.30 mm
+
+is placed between the block and the table.
+When released the block moves to the right
+with a constant speed of 0.085 m 5". Find
+the coefficient of viscosity of the liquid.
+
+ 
+
+Answer The metal block moves to the right
+because of the tension in the string. The tension
+T is equal in magnitude to the weight of the
+suspended mass m. Thus, the shear force F is
+
+F=T= mg=0.0lOkg>< 9.8mS‘2=9.8>< 10'2N
+
+—2
+Shear stress on the ﬂuid = F/A = %N/m2
+
+Strain rate = E = ﬂ
+1 0.30 x 10—3
+stress _1
+TI: — 5
+strain rate
+
+(9.8 X 10‘2 N) (0.30 x 10‘3 m)
+= (0.085m s'l) (0.1Om2)
+
+= 3.46 x 10'3 Pa s
+
+2019-20

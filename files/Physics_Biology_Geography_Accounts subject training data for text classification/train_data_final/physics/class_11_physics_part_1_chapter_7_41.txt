@@ -1,0 +1,72 @@
+l82
+
+PHYSICS
+
+ 
+
+velocities taken relative to the centre of mass. Remember 1'; = r1. —- R ; rest of the
+
+notation is the standard notation used in the chapter. Note L’ and MR x V can
+
+be said to be angular momenta, respectively, about and of the centre of mass of
+the system of particles.
+
+dL’ , dp’
+= r. x
+
+dt 2 1 011:
+
+Further, show that
+
+dL’_T,
+dt 6’“
+
+where 'c’ext is the sum of all external torques acting on the system about the
+
+centre of mass.
+[Hint : Use the definition of centre of mass and third law of motion. Assume the
+internal forces between any two particles act along the line joining the particles.)
+
+ 
+
+ 
+
+(d) Show
+
+ 
+
+Pluto - A Dwarf Planet
+
+The International Astronomical Union (IAU) at the IAU 2006 General Assembly
+held on August 24, 2006, in Prague in Czech Republic, adopted a new
+deﬁnition of planets in our Solar System. According to the new deﬁnition,
+Pluto is no longer a planet. This means that the Solar System consists of
+eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and
+Neptune. According to the IAU usage, the ‘planet’ and ‘other bodies’ in our
+Solar System, except satellites, are to be deﬁned into three distinct categories
+of celestial objects in the following way:
+
+1. A ‘planet’ is a celestial body that (a) is in orbit around the Sun, (b) has
+sufficient mass for its self-gravity to overcome rigid body forces so that it
+assumes a hydrostatic equilibrium (nearly round) shape, and (c) has
+cleared the neighbourhood around its orbit.
+
+2. A ‘dwarf planet’ is a celestial body that (a) is in orbit around the Sun,
+(b) has sufficient mass for its self-gravity to overcome rigid body forces so
+that it assumes a hydrostatic equilibrium (nearly round) shape, (c) has
+not cleared the neighbourhood around its orbit, and (d) is not a satellite.
+
+3. All ‘other objects’, except satellites, orbiting the Sun, shall be referred to
+collectively as ‘Small Solar-System Bodies’.
+
+Unlike other eight planets in the Solar System, Pluto’s orbital path overlaps
+with ‘other objects’ and the planet Neptune. The ‘other objects’ currently
+include most of the Solar System asteroids, most of the Trans—Neptum’an
+Objects (TNOs), comets, and other small bodies.
+
+Pluto is a ‘dwarf planet’ by the above definition and is recognised as the
+prototype of a new category of Trans-Neptunian Objects.
+
+ 
+
+2019-20

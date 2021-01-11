@@ -1,0 +1,86 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+ 
+
+on the other side, with its horizontal edge just
+over water. The vessel is raised slightly till the
+liquid just touches the glass plate and pulls it
+down a little because of surface tension. Weights
+are added till the plate just clears water.
+
+ 
+
+Fig. 1 0. 1 8 Measuring Surface Tension.
+
+Suppose the additional weight required is W.
+Then from Eq. 10.22 and the discussion given
+there, the surface tension of the liquid-air
+interface is
+
+s,,= (W/2z) = (mg/21)
+
+where m is the extra mass and lis the length of
+the plate edge. The subscript (la) emphasises
+the fact that the liquid-air interface tension is
+involved.
+
+(10.23)
+
+10.6.3 Angle of Contact
+
+The surface of liquid near the plane of contact,
+with another medium is in general curved. The
+angle between tangent to the liquid surface at
+the point of contact and solid surface inside the
+liquid is termed as angle of contact. It is denoted
+by 0. It is different at interfaces of different pairs
+of liquids and solids. The value of 6 determines
+whether a liquid will spread on the surface of a
+solid or it will form droplets on it. For example,
+water forms droplets on lotus leaf as shown in
+Fig. 10.19 (a) while spreads over a clean plastic
+plate as shown in Fig. 10.19(b).
+
+2 6 7
+Sla
+‘
+Ssa Ssl
+(a) S1a
+A
+S S
+
+sa 5]
+
+(b)
+
+Fig. 1 O. 1 9 Different shapes of water drops with
+interfacial tensions (a) on a lotus leaf (b)
+on a clean plastic plate.
+
+We consider the three interfacial tensions at
+all the three interfaces, liquid-air, solid-air and
+solid-liquid denoted by Sla, Ssa and S81 , respectively
+as given in Fig. 10.19 (a) and (b). At the line of
+contact, the surface forces between the three media
+must be in equilibrium. From the Fig. 10. 19(b) the
+following relation is easily derived.
+
+Slacos 0 + 881: S
+
+sa (10.24)
+
+The angle of contact is an obtuse angle if
+SSl > Sla as in the case of water-leaf interface
+while it is an acute angle if SSl < Sla as in the
+case of water-plastic interface. When 6 is an
+obtuse angle then molecules of liquids are
+attracted strongly to themselves and weakly to
+those of solid, it costs a lot of energy to create a
+liquid-solid surface, and liquid then does not
+wet the solid. This is what happens with water
+on a waxy or oily surface, and with mercury on
+any surface. On the other hand, if the molecules
+
+of the liquid are strongly attracted to those of
+
+2019-20

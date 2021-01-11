@@ -1,0 +1,53 @@
+90
+
+i Physics
+
+2.29
+
+2.30
+
+2.31
+
+ 
+
+A spherical capacitor consists of two concentric spherical conductors,
+held in position by suitable insulating supports (Fig. 2.34). Show
+that the capacitance of a spherical capacitor is given by
+
+ 
+
+FIGURE 2.34
+
+where r1 and r2 are the radii of outer and inner spheres,
+respectively.
+
+A spherical capacitor has an inner sphere of radius 12 cm and an
+outer sphere of radius 13 cm. The outer sphere is earthed and the
+inner sphere is given a charge of 2.5 11C. The space between the
+concentric spheres is filled with a liquid of dielectric constant 32.
+
+(a) Determine the capacitance of the capacitor.
+(b) What is the potential of the inner sphere?
+
+(c) Compare the capacitance of this capacitor with that of an
+isolated sphere of radius 12 cm. Explain why the latter is much
+smaller.
+
+Answer carefully:
+
+(a) Two large conducting spheres carrying charges Q1 and Q2 are
+brought close to each other. Is the magnitude of electrostatic
+force between them exactly given by Q1 Q2/47'C80r2, where r is
+the distance between their centres?
+
+(b) If Coulomb’s law involved 1/r3 dependence (instead of 1/r2),
+would Gauss’s law be still true ?
+
+(c) A small test charge is released at rest at a point in an
+electrostatic field configuration. Will it travel along the field
+line passing through that point?
+
+(d) What is the work done by the field of a nucleus in a complete
+circular orbit of the electron? What if the orbit is elliptical?
+
+2019-20

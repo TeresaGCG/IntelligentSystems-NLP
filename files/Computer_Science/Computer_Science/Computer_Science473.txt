@@ -1,0 +1,42 @@
+6.14 Exercises 457
+6.19 [5] <§§6.4, 6.5> With regard to the program in Exercise 6.17, explain what the
+hazard detection unit is doing during the fifth cycle of execution. Ifany comparisons
+are being made, mention them.
+II
+6.20 [20) <§§6.4, 6.5> For More Practice: Forwarding in Memory
+3
+6.21 [5] <§6.5> We have a program of 10 instructions in the format of"1 add,
+W,
+1w, add, ..." The add instruction depends (and only depends) on the 1 instruction
+W
+right before it. The 1w instruction also depends (and only depends) on the add
+instruction right before it. If the program is executed on the pipelined datapath of
+Figure 6.36 on page 41 6:
+a. What would be the acnlal CPI?
+b. Without forwarding, what would be the actual CPI?
+6.22 [5] <§§6.4, 6.5> Consider executing the following code on the pipelined data 
+path of Figure 6.36 on page 41 6:
+1w $4. 1001 $2)
+sub $6, $4 , $3
+add $2, $3 , $5
+How many cycles will it take to execute this code? Draw a diagram like that of Figure
+6.34 on page 414 that illustrates the dependencies that need to be resolved, and pro 
+vide another diagram like that of Figure 6.35 on page 41 5 that illustrates how the
+code will actually be executed (incorporating any stalls or forwarding) so as to
+resolve the identified problems.
+6.23 [ IS) <§6.5> List all the inputs and outputs of the fonvarding unit in Figure
+6.36 on page 41 6. Give the names, the number ofbits, and brief usage for each input
+and output.
+6.24 [20) <§6.5> .. For More Practice: Illustrating Diagrams with Forwarding and
+Stalls
+6.25 [20) <§6.5> (II For More Practice: Impact on Fonvarding of Moving It to ID
+Stage
+II
+6.26 [ IS) <§§6.2-6.5> For More Practice: Impact of Memory Addressing Mode
+on Pipeline
+II
+6.27 (10) <§§6.2-6.5> For More Practice: Impact of Arithmetic Operations
+with Memory Operands on Pipeline
+II
+6.28 [30) <§6.5, Appendix C> For More Practice: Fonvarding Unit Hardware
+Design

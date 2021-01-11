@@ -1,0 +1,87 @@
+314
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+the object AB, image A’B’ as well as the focus F from the pole P, we have
+to travel opposite to the direction of incident light. Hence, all the three
+
+will have negative signs. Thus,
+B’P=—v, FP=—f, BP=—u
+
+Using these in Eq. (9.6), we get
+— v + f — v
+
+ 
+
+or lv_f
+
+ 
+
+3
+f
+
+Dividing it by v, we get
+1 1 1
+
+v u f (9-7)
+
+This relation is known as the mirror equation.
+The size of the image relative to the size of the object is another
+important quantity to consider. We deﬁne linear magniﬁcation (m) as the
+
+ratio of the height of the image (h’) to the height of the object (h):
+
+=1+
+
+g:
+:lc :lc
+
+m= F (9.8)
+
+h and h’will be taken positive or negative in accordance with the accepted
+sign convention. In triangles A’B’P and ABP, we have,
+
+‘B’A’ _ B’P
+BA BP
+With the sign convention, this becomes
+— h’ — U
+
+h — u
+so that
+
+h’ v
+= _ _ 9.9
+h u ( )
+
+We have derived here the mirror equation, Eq. (9.7), and the
+magniﬁcation formula, Eq. (9.9), for the case of real, inverted image formed
+by a concave mirror. With the proper use of sign convention, these are,
+in fact, valid for all the cases of reﬂection by a spherical mirror (concave
+or convex) whether the image formed is real or virtual. Figure 9.6 shows
+the ray diagrams for virtual image formed by a concave and convex mirror.
+You should verify that Eqs. (9.7) and (9.9) are valid for these cases as
+well.
+
+ 
+
+ 
+
+ 
+
+ 
+
+m:
+
+ 
+
+FIGURE 9.6 Image formation by (a) a concave mirror with object between
+
+P and F. and (b) a convex mirror.
+
+2019-20

@@ -1,0 +1,81 @@
+10.
+
+ 
+
+ 
+
+SUMMARY
+
+An atom has a nucleus. The nucleus is positively charged. The radius
+of the nucleus is smaller than the radius of an atom by a factor of
+104. More than 99.9% mass of the atom is concentrated in the nucleus.
+
+On the atomic scale, mass is measured in atomic mass units (u). By
+definition, 1 atomic mass unit [lu] is 1/ 12th mass of one atom of 120;
+
+lu = 1.660563 x 10‘27 kg.
+
+A nucleus contains a neutral particle called neutron. Its mass is almost
+the same as that of proton
+
+The atomic number Z is the number of protons in the atomic nucleus
+of an element. The mass number A is the total number of protons and
+neutrons in the atomic nucleus; A = Z+N; Here N denotes the number
+of neutrons in the nucleus.
+
+A nuclear species or a nuclide is represented as 2X, where X is the
+chemical symbol of the species.
+
+Nuclides with the same atomic number Z, but different neutron number
+N are called isotopes. Nuclides with the same A are isobars and those
+with the same N are isotones.
+
+Most elements are mixtures of two or more isotopes. The atomic mass
+of an element is a weighted average of the masses of its isotopes. The
+masses are the relative abundances of the isotopes.
+
+A nucleus can be considered to be spherical in shape and assigned a
+radius. Electron scattering experiments allow determination of the
+nuclear radius; it is found that radii of nuclei fit the formula
+
+R = R0 Al/S’
+where R0 = a constant = 1.2 fm. This implies that the nuclear density
+is independent of A. It is of the order of 1017 kg/ms.
+
+Neutrons and protons are bound in a nucleus by the short—range strong
+nuclear force. The nuclear force does not distinguish between neutron
+and proton.
+
+The nuclear mass M is always less than the total mass, Em, of its
+constituents. The difference in mass of a nucleus and its constituents
+is called the mass defect,
+
+AM=[Zmp+[A~Z]mn)—M
+
+Using Einstein’s mass energy relation, we express this mass difference
+in terms of energy as
+
+AEb = AM c2
+The energy AEb represents the binding energy of the nucleus. In the
+
+mass number range A = 30 to 170, the binding energy per nucleon is
+nearly constant, about 8 MeV/ nucleon.
+
+Energies associated with nuclear processes are about a million times
+larger than chemical process.
+
+The Q—value of a nuclear process is
+
+Q = final kinetic energy ~ initial kinetic energy.
+Due to conservation of mass—energy, this is also,
+
+Q = [sum of initial masses — sum of final masses)c2
+
+Radioactivity is the phenomenon in which nuclei of a given species
+transform by giving out on or ,B or yrays; a—rays are helium nuclei;
+
+2019-20
+
+Nuclei
+
+459

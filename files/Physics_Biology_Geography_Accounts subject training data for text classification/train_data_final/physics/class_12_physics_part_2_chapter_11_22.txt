@@ -1,0 +1,128 @@
+408
+
+l Physics
+
+11.8
+
+11.9
+
+11.
+
+11.
+
+11.
+
+11.
+
+11.
+
+11.
+
+11.
+
+11.
+
+11.
+
+11.
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+ 
+
+ 
+
+with the sodium light? (b) At what rate are the photons delivered to
+the sphere?
+
+The threshold frequency for a certain metal is 3.3 X 1014 Hz. If light
+of frequency 8.2 X 1014 Hz is incident on the metal, predict the cut-
+off voltage for the photoelectric emission.
+
+The work function for a certain metal is 4.2 eV. Will this metal give
+photoelectric emission for incident radiation of wavelength 330 nm?
+
+Light of frequency 721 X 1014 Hz is incident on a metal surface.
+Electrons with a maximum speed of 6.0 X 105 m/s are ejected from
+the surface. What is the threshold frequency for photoemission of
+electrons?
+
+Light of wavelength 488 nm is produced by an argon laser which is
+used in the photoelectric effect. When light from this spectral line is
+incident on the emitter, the stopping (cut-off) potential of
+photoelectrons is 0.38 V. Find the work function of the material
+from which the emitter is made.
+
+Calculate the
+
+(a) momentum, and
+
+(b) de Broglie wavelength of the electrons accelerated through a
+potential difference of 56 V.
+
+What is the
+
+(a) momentum,
+
+(b) speed, and
+
+(c) de Broglie wavelength of an electron with kinetic energy of
+120 eV.
+
+The wavelength of light from the spectral emission line of sodium is
+589 nm. Find the kinetic energy at which
+
+(a) an electron, and
+
+(b) a neutron, would have the same de Broglie wavelength.
+
+What is the de Broglie wavelength of
+
+(a) a bullet of mass 0.040 kg travelling at the speed of 1.0 km/s,
+
+(b) a ball of mass 0.060 kg moving at a speed of 1.0 m/s, and
+
+(c) a dust particle of mass 1.0 X 10’9 kg drifting with a speed of
+2.2 m/s?
+
+An electron and a photon each have a wavelength of 1.00 nm. Find
+(a) their momenta,
+
+(b) the energy of the photon, and
+
+(c) the kinetic energy of electron.
+
+(a) For what kinetic energy of a neutron will the associated de Broglie
+wavelength be 1.40 X 10mm?
+
+(b) Also find the de Broglie wavelength of a neutron, in thermal
+equilibrium with matter, having an average kinetic energy of
+(3/2) kTat 300 K.
+
+Show that the wavelength of electromagnetic radiation is equal to
+the de Broglie wavelength of its quantum (photon).
+
+What is the de Broglie wavelength of a nitrogen molecule in air at
+300 K? Assume that the molecule is moving with the root-mean-
+square speed of molecules at this temperature. (Atomic mass of
+nitrogen = 14.0076 u)
+
+2019-20

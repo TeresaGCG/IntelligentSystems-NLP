@@ -1,0 +1,11 @@
+252
+
+ 
+
+7.7 POWER IN AC CIRCUIT: THE PGWER FACTOR
+
+Example 7.7 (a) For circuits used for transporting electric power. a
+low power factor implies large power loss in transmission. Explain.
+
+[b] Power factor can often be improved by the use of a capacitor of
+appropriate capacitance in the circuit. Explain.

@@ -1,0 +1,22 @@
+Homework Helpers: Basic Math and Pre-Algebra
+74
+Lesson 4-2 Review
+Evaluate the following. Leave your answers as exponential expressions.
+1. 4.
+2. 5.
+3. 6.
+Lesson 4-3: Negative Integer Powers
+We need an interpretation for when the exponent of a number is
+negative. Mathematicians have chosen to think of a–1 as the reciprocal of
+a non-zero number a. Recall that we wrote the reciprocal of a non-zero
+number a as  .
+We have two ways to express the reciprocal of a:
+1
+either     or a–1
+a
+Using this information we can interpret exponents that are negative
+integers. We can use the power rule for exponents to interpret an expres-
+sion such as 2–4:
+On the other hand, we can also interpret 2–4 as  . Because 24=16,
+and the reciprocal of 16 is  , we see that:
+www.ebook3000.com

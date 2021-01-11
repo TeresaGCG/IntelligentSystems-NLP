@@ -1,0 +1,34 @@
+6.4 Data Hazards and Forwarding 405
+Time (in clock cycles) ------------------------_ .
+cca
+CC3 CC, CC 5 CCS CC? CC g
+Value of CC 1 CC 2
+register $2: 10 10 10 10 101-20 -20 -20 - 20 - 20
+Program
+execution
+order
+(in instructions)
+sub $2, $1, $3
+and $12, $2, $5
+-,
+or $13, $6, $2
+~
+add $14, $2, $2
+sW$15, 100($2)
+FIGURE 6.28 Plpellned dependences In a five-Instruction sequence using simplified datapaths to show the dependences.
+AU the dependent actions are shown in color, and "CC j" at the top ofthe figure means clock cycle i. The first instruction writes into $2, and all the fol·
+lowing instructions read $2.This register is written in clock cycle 5, so the proper value is unavailable before clock cycle S. (A read ofa register during
+a clock cycle returns the value written at the end ofthe first halfofthe cycle, when such a write occurs.) The colored lines from the top datapath to the
+lower ones show the dependences.Those that must go backwards in time are pipelille dm<l h<lZ<lrds.
+this segment without stalls if we simply forward the data as soon as it is available
+to any units that need it before it is available to read from the register file.
+How does forwarding work? For simplicity in the rest of this section, we con 
+sider only the challenge of forwarding to an operation in the EX stage, which may
+be either an ALU operation or an effective address calculation. This means that
+when an instruction tries to use a register in its EX stage that an ea rlier instruction
+intends to write in its \VBstage, we actually need the values as inputs to the ALU.
+A notation that names the fields of the pipeline registers allows for a more pre 
+cise notation of dependences. For example, "ID/EX.RegisterRs" refers to the num 
+ber of one register whose value is found in the pipeline register ID/EX; that is, the
+one from the first read port of the register file. The first part of the name, to the
+left of the period, is the name of the pipeline register; the second part is the name

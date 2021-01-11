@@ -1,0 +1,31 @@
+Inequalities and Graphs
+153
+The starting point of a ray may or may not be included. The relations
+< and > are called strict inequalities. For strict inequalities, the starting
+point is not included in the ray. We draw an open circle to reflect that the
+starting point is not included. The relations ≤ and ≥ are just called in-
+equalities, and for these inequalities the starting point is included in the
+ray. We draw a closed circle to reflect that the starting point is included.
+A ray that does not include its starting point is called an open ray; a ray
+that does include its starting point is called a closed ray.
+The following will help you draw a ray:
+(cid:96) Start with a number line with 0 labeled.
+(cid:96) Label your starting point. If your starting point is negative,
+make sure you move to the left of 0. If the starting point is
+positive, move to the right of 0.
+(cid:96) Look at the type of inequality involved to determine if your
+ray is open or closed.
+(cid:208) If the inequality is strict, then the ray is open; draw
+an open circle at your labeled starting point.
+(cid:208) If the inequality is not strict, then the ray is closed;
+draw a filled-in circle at your labeled starting point.
+(cid:96) Draw a ray pointing in the correct direction from your
+starting point.
+Figure 8.2 shows the open ray representing the set of real numbers
+less than 3.
+3
+x< 3
+ Figure 8.2
+Figure 8.3 shows an open ray representing the set of real numbers
+less than −3 and the closed ray representing the set of real numbers less
+than or equal to−3. Notice that the only difference between these two rays

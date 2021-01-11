@@ -1,0 +1,111 @@
+OSCILLATIONS
+
+349
+
+ 
+
+the value of x between —A and A, the acceleration
+a(t) is always directed towards the centre.
+
+For simplicity, let us put (1) = 0 and write the
+expression for x (t), v (t) and a(t)
+
+)dt) = A cos cot, v(t) = — wAsin out, a(t)=—a)2 A cos cut
+The corresponding plots are shown in Fig. 14.1 3.
+All quantities vary sinusoidally with time; only
+their maxima differ and the different plots differ
+in phase. x varies between —A to A; v(t) varies
+from —a)A to (0A and a(t) from —a)2A to (02A. With
+respect to displacement plot, velocity plot has a
+phase difference of 7r/ 2 and acceleration plot
+has a phase difference of 7c.
+
+X
+
+Displacement —>
+
+ 
+
+Fig. 1 4. 1 3 Displacement, velocity and acceleration of
+a particle in simple harmonic motion have
+the same period T, but they differ in phase
+
+Example 1 4.5 A body oscillates with SHM
+according to the equation (in SI units),
+
+x= 5 cos I27: t+ 75/4].
+
+At t= 1.5 s. calculate the (a) displacement.
+(b) speed and (c) acceleration of the body.
+
+ 
+
+Answer The angular frequency a) of the body
+= 27: S‘1 and its time period T= 1 s.
+
+At t= 1.5 S
+(a) displacement = (5.0 m) cos [(27r S'l) X
+1.5 s + 7r/4]
+= (5.0 m) cos [(37r+ 3/4)]
+= —5.0 X 0.707 m
+= —3.535 m
+
+(b) Using Eq. (14.9), the speed of the body
+= — (5.0 m)(21t S'l) sin [(27r S'l) X1.5 s
++ 7r/4]
+= — (5.0 m)(27rs") sin [(371'+ 7r/4)]
+= 107r>< 0.707 m s-1
+= 22 m s-1
+
+(c) Using Eq.(14. 10), the acceleration of the
+body
+= —(27r S'1)2 X displacement
+= — (27: s‘l)2 X (—3.535 m)
+
+= 140 m S‘2 ‘
+14.6 FORCE LAW FOR SIMPLE HARMONIC
+MOTION
+
+Using Newton’s second law of motion, and the
+expression for acceleration of a particle
+undergoing SHM (Eq. 14.1 1), the force acting
+on a particle of mass m in SHM is
+
+F(t) = ma
+= —man (t)
+i.e., F(t) =—kx(t) (14.13)
+where k = ma)2 (14.14a)
+or a) = E (14.14b)
+m
+
+Like acceleration, force is always directed
+towards the mean position—hence it is sometimes
+called the restoring force in SHM. To summarise
+the discussion so far, simple harmonic motion can
+be defined in two equivalent ways, either by Eq.
+(14.4) for displacement or by Eq. (14. 13) that gives
+its force law. Going from Eq. (14.4) to Eq. (14.13)
+required us to differentiate two times. Likewise,
+by integrating the force law Eq. (14.13) two times,
+we can get back Eq. (14.4).
+
+Note that the force in Eq. (14.13) is linearly
+proportional to At). A particle oscillating under
+such a force is, therefore, calling a linear
+harmonic oscillator. In the real world, the force
+may contain small additional terms proportional
+to x2, )8, etc. These then are called non-linear
+oscillators.
+
+Example 14.6 Two identical springs of
+spring constant k are attached to a block
+of mass m and to fixed supports as shown
+in Fig. 14.14. Show that when the mass is
+
+displaced from its equilibrium position on
+either side. it executes a simple harmonic
+motion. Find the period of oscillations.
+
+ 
+
+2019-20

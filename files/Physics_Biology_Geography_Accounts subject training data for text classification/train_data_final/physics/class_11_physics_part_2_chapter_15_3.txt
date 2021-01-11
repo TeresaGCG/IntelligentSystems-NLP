@@ -1,0 +1,125 @@
+370
+
+PHYSICS
+
+sinusoidal wave will be generated propagating
+in air along the length of the pipe. This is clearly
+an example of longitudinal waves.
+
+The waves considered above, transverse or
+longitudinal, are travelling or progressive waves
+since they travel from one part of the medium
+to another. The material medium as a whole
+does not move, as already noted. A stream, for
+example, constitutes motion of water as a whole.
+In a water wave, it is the disturbance that moves,
+not water as a whole. Likewise a wind (motion
+of air as a whole) should not be confused with a
+sound wave which is a propagation of
+disturbance (in pressure density) in air, without
+the motion of air medium as a whole.
+
+In transverse waves, the particle motion is
+normal to the direction of propagation of the
+wave. Therefore, as the wave propagates, each
+element of the medium undergoes a shearing
+strain. Transverse waves can, therefore, be
+propagated only in those media, which can
+sustain shearing stress, such as solids and not
+in ﬂuids. Fluids, as well as, solids can sustain
+compressive strain; therefore, longitudinal
+waves can be propagated in all elastic media.
+For example, in medium like steel, both
+transverse and longitudinal waves can
+propagate, while air can sustain only
+longitudinal waves. The waves on the surface
+of water are of two kinds: capillary waves and
+gravity waves. The former are ripples of fairly
+short wavelength—not more than a few
+centimetre—and the restoring force that
+produces them is the surface tension of water.
+Gravity waves have wavelengths typically
+ranging from several metres to several hundred
+meters. The restoring force that produces these
+waves is the pull of gravity, which tends to keep
+the water surface at its lowest level. The
+oscillations of the particles in these waves are
+not confined to the surface only, but extend with
+diminishing amplitude to the very bottom. The
+particle motion in water waves involves a
+complicated motion—they not only move up and
+down but also back and forth. The waves in an
+ocean are the combination of both longitudinal
+and transverse waves.
+
+It is found that, generally, transverse and
+longitudinal waves travel with different speed
+in the same medium.
+
+2019-20
+
+Example 1 5. 1 Given below are some
+
+examples of wave motion. State in each case
+
+if the. wave motion is transverse. longitudinal
+
+or a combination of both:
+
+(a) Motion of a lq'nk in a longitudinal spring
+produced by displacing one end of the
+spring sideways.
+
+(b) Waves produced in a cylinder
+containing a liquid by moving its piston
+back and forth.
+
+(C) Waves produced by a motorboat sailing
+in water.
+
+Ultrasonic waves in air produced by a
+vibrating quartz crystal.
+
+ 
+
+Answer
+(a) Transverse and longitudinal
+(b) Longitudinal
+(c) Transverse and longitudinal
+(d) Longitudinal 4
+
+15.3 DISPLACEMENT RELATION IN
+APROGRESSIVEWAVE
+
+For mathematical description of a travelling
+wave, we need a function of both position x and
+time t. Such a function at every instant should
+give the shape of the wave at that instant. Also,
+at every given location, it should describe the
+motion of the constituent of the medium at that
+location. If we wish to describe a sinusoidal
+travelling wave (such as the one shown in Fig.
+15.3) the corresponding function must also be
+sinusoidal. For convenience, we shall take the
+wave to be transverse so that if the position of
+the constituents of the medium is denoted by x,
+the displacement from the equilibrium position
+may be denoted by y. A sinusoidal travelling
+wave is then described by:
+
+y(x,t) = asin(kx—0)t+q)) (15.2)
+
+The term {/5 in the argument of sine function
+means equivalently that we are considering a
+linear combination of sine and cosine functions:
+
+y(x,t) = A sinUoc — cot) + Bcos(kx — cot) (15.3)
+From Equations (15.2) and (15.3),
+
+B
+a=\/A2 +B2 and ¢= tan'1(Z)
+
+To understand why Equation (15.2)
+represents a sinusoidal travelling wave, take a
+fixed instant, say t= to. Then, the argument of
+the sine function in Equation (15.2) is simply

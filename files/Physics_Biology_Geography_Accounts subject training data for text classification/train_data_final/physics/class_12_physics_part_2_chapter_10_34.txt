@@ -1,0 +1,43 @@
+Wove Optics
+
+ 
+
+obstacles, how is it that the students are unable to see each
+other even though they can converse easily.
+
+(e) Ray optics is based on the assumption that light travels in a
+straight line. Diffraction effects (observed when light propagates
+through small apertures/slits or around small obstacles)
+disprove this assumption. Yet the ray optics assumption is so
+commonly used in understanding location and several other
+properties of images in optical instruments. What is the
+justification?
+
+10.18 Two towers on top of two hills are 40 km apart. The line joining
+them passes 50 m above a hill halfway between the towers. What is
+the longest wavelength of radio waves, which can be sent between
+the towers without appreciable diffraction effects?
+
+10.19 A parallel beam of light of wavelength 500 nm falls on a narrow slit
+and the resulting diffraction pattern is observed on a screen 1 m
+away. It is observed that the first minimum is at a distance of 2.5
+mm from the centre of the screen. Find the width of the slit.
+
+10.20 Answer the following questions:
+
+(a) When a low ﬂying aircraft passes overhead, we sometimes notice
+a slight shaking of the picture on our TV screen. Suggest a
+possible explanation.
+
+(b) As you have learnt in the text, the principle of linear
+superposition of wave displacement is basic to understanding
+intensity distributions in diffraction and interference patterns.
+What is the justification of this principle?
+
+10.21 In deriving the single slit diffraction pattern, it was stated that the
+intensity is zero at angles of n/l/ a. Justify this by suitably dividing
+the slit to bring out the cancellation.
+
+2019-20
+
+385

@@ -1,0 +1,136 @@
+170
+
+PHYSICS
+
+Table 7.2 Comparison of Translational and Rotational Motion
+
+Linear Motion
+Displacement x
+Velocity v = dx/dt
+Acceleration a = dv/dt
+
+Force F = Ma
+Work dW = Fds
+
+Power P = F v
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+at P1. and 061 is the angle between F1 and the
+radius vector 0P1; ((51 + 061 = 90°.
+
+The torque due to F1 about the origin is
+OP1 XFI. Now OP1 = 00 + 0P1. [Refer to
+Fig. 7 .17 (b).] Since 00 is along the axis, the
+torque resulting from it is excluded from our
+consideration. The effective torque due to F1 is
+11= CPXFI; it is directed along the axis of rotation
+and has a magnitude 1'1: rlF1 sinoc , Therefore,
+
+dW1 = Tlde
+
+If there are more than one forces acting on
+the body, the work done by all of them can be
+added to give the total work done on the body.
+
+Denoting the magnitudes of the torques due to
+
+the different forces as 11, 1'2, etc,
+
+dW 2 (1'1 + 2'2 + ...)d6
+
+Remember, the forces giving rise to the
+torques act on different particles, but the
+
+angular displacement d9 is the same for all
+particles. Since all the torques considered are
+parallel to the fixed axis, the magnitude 10f the
+total torque is just the algebraic sum of the
+magnitudes of the torques, i.e., 1': 11+ 12 + .....
+We, therefore, have
+
+dW= 7010 (7.41)
+
+This expression gives the work done by the
+total (external) torque ”C which acts on the body
+rotating about a fixed axis. Its similarity with
+the corresponding expression
+
+dW= F ds
+for linear (translational) motion is obvious.
+
+2019-20
+
+Rotational Motion about a Fixed Axis
+Angular displacement 6
+
+Angular velocity 60 = dO/dt
+
+Angular acceleration a = dw/dt
+
+Mass M Moment of inertia I
+
+Torque 1 = I a
+
+Work W = T d0
+
+Kinetic energy K = M1)2 / 2 Kinetic energy K = 1602/2
+
+Power P = no
+
+Linear momentum p = M1) Angular momentum L = In)
+
+ 
+
+Dividing both sides of Eq. (7.41) by dt gives
+
+dW d6
+P = — = 1'— = 1a)
+dt dt
+01‘ P = 1a) (7-42)
+
+This is the instantaneous power. Compare
+this expression for power in the case of
+rotational motion about a fixed axis with that of
+power in the case of linear motion,
+
+P = Fv
+
+In a perfectly rigid body there is no internal
+motion. The work done by external torques is
+therefore, not dissipated and goes on to increase
+the kinetic energy of the body. The rate at which
+work is done on the body is given by Eq. (7.42).
+This is to be equated to the rate at which kinetic
+energy increases. The rate of increase of kinetic
+energy is
+
+1 1w2 _I(2w)d_w
+dt 2 dt
+
+2
+
+We assume that the moment of inertia does
+not change with time. This means that the mass
+of the body does not change, the body remains
+rigid and also the axis does not change its
+position with respect to the body.
+
+Since a: dw/dt, we get
+
+d 1602
+— — 21am
+dt 2
+
+Equating rates of work done and of increase
+in kinetic energy,
+
+7w=1wa

@@ -1,0 +1,89 @@
+68
+
+PHYSICS
+
+arranged head to tail, this graphical method is
+called the head-to-tail method. The two vectors
+and their resultant form three sides of a triangle,
+so this method is also known as triangle method
+of vector addition. If we find the resultant of
+B + A as in Fig. 4.4(c), the same vector R is
+obtained. Thus, vector addition is commutative:
+
+A+B=B+A (4.1)
+
+The addition of vectors also obeys the associative
+law as illustrated in Fig. 4.4(d). The result of
+adding vectors A and B first and then adding
+vector C is the same as the result of adding B
+and C first and then adding vector A :
+
+(A+B)+C=A+(B+C) (4.2)
+
+What is the result of adding two equal and
+opposite vectors ? Consider two vectors A and
+—A shown in Fig. 4.3(b). Their sum is A + (—A).
+Since the magnitudes of the two vectors are the
+same, but the directions are opposite, the
+resultant vector has zero magnitude and is
+represented by 0 called a null vector or a zero
+vector :
+
+A—A=0 |0|=O (4.3)
+Since the magnitude of a null vector is zero, its
+direction cannot be specified.
+
+The null vector also results when we multiply
+a vector A by the number zero. The main
+properties of 0 are :
+
+A+0=A
+7&0=0
+OA=0 (4.4)
+
+(a)
+
+What is the physical meaning of a zero vector?
+Consider the position and displacement vectors
+in a plane as shown in Fig. 4. 1(a). Now suppose
+that an object which is at P at time t, moves to
+P’ and then comes back to P. Then, what is its
+displacement? Since the initial and final
+positions coincide, the displacement is a “null
+vector”.
+
+Subtraction of vectors can be defined in terms
+of addition of vectors. We define the difference
+of two vectors A and B as the sum of two vectors
+A and —B :
+
+A— B = A + (—B) (4.5)
+
+It is shown in Fig 4.5. The vector —B is added to
+vectorA to get R2 = (A — B). The vector R1= A + B
+is also shown in the same figure for comparison.
+We can also use the parallelogram method to
+find the sum of two vectors. Suppose we have
+two vectors A and B. To add these vectors, we
+bring their tails to a common origin 0 as
+shown in Fig. 4.6(a). Then we draw a line from
+the head of A parallel to B and another line from
+the head of B parallel to A to complete a
+parallelogram OQSP. Now we join the point of
+the intersection of these two lines to the origin
+0. The resultant vector R is directed from the
+common origin 0 along the diagonal (OS) of the
+parallelogram [Fig. 4.6(b)]. In Fig.4.6(c), the
+triangle law is used to obtain the resultant of A
+and B and we see that the two methods yield the
+same result. Thus, the two methods are
+equivalent.
+
+ 
+
+(b)
+
+Fig. 4.5 (a) Two vectors A and B, — B is also shown. (b) Subtracting vector B from vectorA — the result is R2. For
+comparison, addition of vectors A and B, i.e. R1 is also shown.
+
+2019-20

@@ -1,0 +1,36 @@
+34 Chapter 1 Computer Abstractions and Technology
+10,000
+Intel Pentium 4/3000
+~
+Intel Xeonf20oo
+21?2'~64~A~l6~6~7::::';"'------­
+DEC Alpha p
+DEC Alpha 21264/600
+1,000
+DEC Alpha 51500
+DEC Alpha 51300
+IBM POWER 100.........
+100 ........ DEC Alpha 4/266
+DEC AXP/5OO ~-
+SUN-41 HP 90001750
+260 IBM RS6000
+]~/~;,;oa~'M;'~P~S~M:2000:,.-...,...---,_-,---,-_;--r--;_"-"""'_r---1
+MIPS M/120
+o
+1987 1988 1989 1990 1991 199219931994 1995 1996 1997 1998 19992000 2001 2002 2003
+Yoo,
+FIGURE 1.17 Performance Increase of workstations, 1987-2003. Here performance is given
+as approximately the number of times faster than the VAX-II/780, which was a commonly used yardstick.
+The rate of performance improvement is between 1.5 and 1.6 times per year. These performance numbers
+are based on SPECint performance (see Chapter 2) and scaled over time to deal with changing benchmark
+sets. For processors listed with xly after their name, x is the model nwnber andy is the speed in megahertz.
+performance growth rate for the industry will yield machines with the same
+performance. For example, assuming a 50% yearly growth rate in performance, a
+3
+machine with performance x today can be expected to have performance l.S x =
+3.4x in three years. Your machine would have no performance advantage! Many
+projects within computer companies are canceled, either because they ignore this
+rule or because the project is completed late and the performance of the delayed
+machine is below the industry average. This phenomenon may occur in any
+industry, but rapid improvements in cost/performan ce make it a major concern in
+the computer industry.

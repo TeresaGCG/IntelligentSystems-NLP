@@ -1,0 +1,54 @@
+186
+
+ 
+
+BIOLOGY
+
+ﬁlaments form a network around the young root or they penetrate the
+root cells. The hyphae have a very large surface area that absorb mineral
+ions and water from the soil from a much larger volume of soil that perhaps
+a root cannot do. The fungus provides minerals and water to the roots, in
+turn the roots provide sugars and N-containing compounds to the
+mycorrhizae. Some plants have an obligate association with the
+mycorrhizae. For example, Pinus seeds cannot germinate and establish
+without the presence of mycorrhizae.
+
+1 1.3.2 Water Movement up a Plant
+
+We looked at how plants absorb water from the soil, and move it into the
+vascular tissues. We now have to try and understand how this water is
+transported to various parts of the plant. Is the water movement active, or
+is it still passive? Since the water has to be moved up a stem against
+gravity, what provides the energy for this?
+
+1 1 .3.2.1 Root Pressure
+
+As various ions from the soil are actively transported into the vascular
+tissues of the roots, water follows (its potential gradient) and increases
+the pressure inside the xylem. This positive pressure is called root
+pressure, and can be responsible for pushing up water to small heights
+in the stem. How can we see that root pressure exists? Choose a small
+soft-stemmed plant and on a day, when there is plenty of atmospheric
+moisture, cut the stem horizontally near the base with a sharp blade,
+early in the morning. You will soon see drops of solution ooze out of the
+cut stem; this comes out due to the positive root pressure. If you ﬁx a
+rubber tube to the cut stem as a sleeve you can actually collect and
+measure the rate of exudation, and also determine the composition of the
+exudates. Effects of root pressure is also observable at night and early
+morning when evaporation is low, and excess water collects in the form of
+droplets around special openings of veins near the tip of grass blades,
+and leaves of many herbaceous parts. Such water loss in its liquid phase
+is known as guttation.
+
+Root pressure can, at best, only provide a modest push in the overall
+process of water transport. They obviously do not play a major role in
+water movement up tall trees. The greatest contribution of root pressure
+may be to re-establish the continuous chains of water molecules in the
+xylem which often break under the enormous tensions created by
+transpiration. Root pressure does not account for the majority of water
+transport; most plants meet their need by transpiratory pull.
+
+11.3.2.2 Transpiration pull
+
+Despite the absence of a heart or a circulatory system in plants, the
+upward ﬂow of water through the xylem in plants can achieve fairly high

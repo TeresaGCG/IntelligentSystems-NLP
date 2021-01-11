@@ -1,0 +1,46 @@
+176 Chapter 3 Arithmetic: for Computers
+can use it as a temporary register (see the Hardware Software Interface section on
+page 96 in Chapter 2), compilers also abstain from using registers $kO and $k1 to
+make them available for the operating system. Exception routines place the return
+address in one of these registers and then use jump register to restore the instruction
+address.
+Multiplication is vexation,
+Division is as bad;
+Multiplication
+The rule ofthree doth puzzle
+me,
+And practice drives me mad.
+Now that we have completed the explanation of addition and subtraction, we are
+Anonymous, Elizabethan
+manuscript, 1570 ready to build the more vexing operation of multiply.
+But first let's review the multiplication of decimal numbers in longhand to
+remind ourselves of the steps and the names of the operands. For reasons that will
+become clear shortly, we limit this decimal example to using only the digits 0 and
+1. Multiplying WOOten by WOllen:
+Multiplicand 1000
+t en
+Multiplier x 1001
+t en
+1000
+0000
+0000
+1000
+Product 1001000
+t en
+The first opera nd is called the multiplicand and the second the multiplier. The
+final result is called the product. As you may recall, the algorithm learned in gram 
+mar school is to take the digits of the multiplier one at a time from right to left,
+multiplying the multiplicand by the single digit of the multiplier and shifting the
+intermediate product one digit to the left of the earlier intermediate products.
+The first observation is that the number of digits in the product is considerably
+larger than the number in either the multiplicand or the multiplier. In fact, if we
+ignore the sign bits, the length of the multiplication of an n-bit multiplicand and
+an m-bit multiplier is a product that is n + m bits long. That is, n + m bits are
+required to represent all possible products. Hence, like add, multiply must cope
+with overflow because we frequently want a 32-bit product as the result of multi 
+plying two 32-bit numbers.
+In this example we restricted the decimal digits to 0 and 1. With only two
+choices, each step of the multiplication is simple:
+I. Just place a copy of the multiplicand ( I Xmultiplicand) in the proper place
+ifthe multiplierdigitisa I, or
+2. Place 0 (0 Xmultiplicand) in the proper place if the digit is O.

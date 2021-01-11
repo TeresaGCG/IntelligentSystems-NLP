@@ -1,0 +1,67 @@
+416 Chapter 6 Enhancing Performance with Plpellnlng
+1
+HIZ.rd
+IllIEX.MemRood
+de1eC1lon
+unit
+)
+!
+I~X
+~
+m
+E~EM
+I--
+M
+Control ," " m L~B
+I--
+I--
+~
+I 10 " "
+I-- -
+M
+,
+"
+'"
+j
+, Registers y
+I M
+ACO ,
+"
+Instruction
+~ memory M /
+, Data
+~ " memory
+IFID.R >ioIorRo
+••
+IFID.R
+••
+Ib-
+M
+IFID.R
+,
+"
+IFID.RogiotorAd
+-
+~ ~
+IDiEX.R~orAl
+I ~
+• Forwarding
+unit
+FIGURE 6.36 Plpellned control overview, showing the two multiplexors for forwarding, the hazard detection unit, and the
+forwarding unit. Although the ID and EX stages have been simplified- the sign-extended immediate and branch logic are missing----this drawing
+gives the essence of the forwarding hardware requirements.
+°
+Elaboration: Regarding the remark earlier about setting control lines to to avoid
+writing registers or memory: only the signals RegWrite and MemWrite need be 0, while
+the other control signals can be don't cares.
+There are a thol/sand hack 
+ing at the branches ofevil to
+Branch Hazards
+one who is striking
+Ilt
+the root.
+Henry David Thoreau,
+Walden, 1854
+Thus far we have limited our concern to hazards involving arithmetic operations
+and data transfers. But as we saw in Section 6. 1, there are also pipeline hazards
+involving branches. Figure 6.37 shows a sequence of instructions and indicates

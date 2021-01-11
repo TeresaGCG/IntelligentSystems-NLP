@@ -1,0 +1,48 @@
+2.13 A C Sort Example to Put It All Together 125
+The loop should be exited if i < n is nottrue or, sa id another way, should be exited
+if i:?: n. The set on less than instruction sets register $tO to 1 if $sO < $a1 and 0
+otherwise. Since we want to test if $sO:?: $a 1, we branch if register $t0 is O. This
+test takes two instructions:
+It
+f orlts t: slt $tO , $sO , $a1 reg $tO 0 if $sO:?: $a1 (i:?:n)
+=
+It
+beq $tO , $zero ,ex itl go t o exi t 1 if $sO:?:$a1 (i:?:n)
+The bottom of the loop just jumps back to the loop test:
+J forltst # jump to test of outer loop
+exit1 :
+The skeleton code of the first for loop is then
+move $sO , $zero # i - 0
+It
+f orlts t: sl t ItO . $sO, $a1 reg $tO 0 if $sO :?: $a1 (i:?:n)
+=
+beq ItO . $zero ,exi t1 # go to exi t1 i f $sO:?:$a1 (i:?:n)
+(body of fi rs t f or loop)
+addi $sO , $sO , 1 Iti -+= l
+f orlts t # Jump t o test of ou t er loop
+J
+exi t1:
+Voila! Exercise 2.14 explores writing faster code for similar loops.
+The second for loop looks like this in C:
+= >= >
+for (j i - 1; j 0 && v[j J v[j + 1] ; J - 1) {
+The initialization portion of th is loop is again one instruction:
+It
+addi $sl, $sO, - 1 j i - I
+=
+The decrement of j at the end of the loop is also one instruction:
+#
+addi $sl, $sl, - 1 j 1
+-=
+The loop test has two parts. We exit the loop if either condition fails, so the first
+test must exit the loop if it fails (j < 0):
+It
+f or2ts t: sltHtO , $sl, 0 reg $t O 1 if $sl < 0 (j < 0)
+=
+It
+bne $tO, $zero , exit2 go t o exi t 2 if $sl<O (j < 0)
+This branch will skip over the second condition test. If it doesn't skip, j :?: O.
+>
+The second test exits if v[jJ v[j + 1J is not true, or exits if v[jJ -::;
+v[j + 1J. First we create the address by multiplying j by 4 (since we need a byte
+address) and add it to the base address of v:

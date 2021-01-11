@@ -1,0 +1,37 @@
+Recording of Transactions — II 105
+
+In case of an A/c payee only crossing, the amount of the cheque can be
+deposited only in the account of the person whose name appears on the cheque.
+When the name of the bank is written between two parallel lines, it becomes a
+special crossing and the payment can be made only to the bank whose name
+has been written between the two lines.
+
+Though this is rarely done, a cheque can be transferred by the payee (the
+person in whose favour the cheque has been drawn) to another person, if it is
+not crossed A/c payee only. A bearer cheque can be passed on by mere delivery.
+An order cheque can be transferred by endorsement and delivery. Endorsement
+means the writing of instructions to pay the cheque to a particular person
+and then singing it on the back of the cheque.
+
+ 
+
+Fig. 4.4 : Types of crossing
+
+When the number of bank transactions is large; it is convenient to have a
+separate amount column for bank transactions in the cash book itself instead of
+recording them in the journal. This helps in getting information about the position
+of the bank account from time to time. Just like cash transactions, all payments
+into the bank are recorded on the left side and all withdrawals / payments through
+the bank are recorded on the right side. When cash is deposited in the bank or
+cash is withdrawn from the bank, both the entries are recorded in the cash
+
+book. This is so because both aspects of the transaction appear in the cash
+book itself. When cash is paid into the bank, the amount deposited is written on
+
+the left side in the bank column and at the same time the same amount is entered
+on the right side in the cash column. The reverse entries are recorded when cash
+is withdrawn from the bank for use in the office. Against such entries the word
+C, which stands for contra is written in the L.F. column indicating that these
+entries are not to be posted to the ledger account.
+
+2019-2020

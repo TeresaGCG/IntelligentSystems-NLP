@@ -1,0 +1,19 @@
+Homework Helpers: Basic Math and Pre-Algebra
+190
+Example 2
+The length of one leg of an isosceles right triangle is 1.5 feet. Find
+the length of the hypotenuse of this triangle.
+Solution: The lengths of each of the legs is 1.5 feet. Let c represent
+the length of the hypotenuse. Use the Pythagorean Theorem to
+find c:
+The length of the hypotenuse is approximately 2.12 feet.
+In general, there is a special relationship between the lengths of the
+legs and the length of the hypotenuse in 45° – 45° – 90° triangles. If a
+represents the length of each of the legs and c represents the length of
+the hypotenuse, we see that:
+This relationship between the length of the hypotenuse and the length
+of each leg holds for all isosceles right triangles. This relationship is worth
+noticing, understanding and becoming familiar with, but it is not neces-
+sarily worth memorizing. It is just one application of the Pythagorean
+Theorem.
+www.ebook3000.com

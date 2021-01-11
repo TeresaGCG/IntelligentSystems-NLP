@@ -1,0 +1,37 @@
+5.2 Logic Design Conventions 291
+State " State
+element Combinational logic element
+1 ./ 2
+~
+Clock cycle
+FIGURE 5.3 Combinational logic, state elements, and the clock are closely related. In a
+synchronous digital system, the clock determines when elements with state will write values into internal
+storage. Any inputs to a state element must reach a stable value (that is, have reached a value from which
+they will not change until after the clock edge) before the active clock edge causes the state to be updated.
+All state elements, including memory, are assumed to be edge-triggered.
+State
+,-I f--( Combinational logic
+element
+FIGURE 5.4 An edge·triggered methodology allows a state element to be read and writ·
+ten In the same clock cycle without creating a race that could lead to Indeterminate data
+values. Of course, the clock cycle still must be long enough so that the input values are stable when the
+active clock edge occurs. Feedback cannot occur within I clock cycle because of the edge-triggered update
+of the state element. If feedback were possible, this design could not work properly. Our designs in this
+chapter and the next rely on the edge-triggered timing methooology and structures like the one shown in
+this figure.
+An edge-triggered methodology allows us to read the contents of a register,
+send the value through some combinational logic, and write that register in the
+same clock cycle, as shown in Figure 5.4. It doesn't matter whether we assume that
+all writes take place on the rising clock edge or on the falling clock edge, since the
+inputs to the combinational logic block cannot change except on the chosen clock
+edge. With an edge-triggered timing methodology, there is no feedback within a
+II
+single clock cycle, and the logic in Figure 5.4 works correctly. In Appendix Bwe
+briefly discuss additional timing constraints (such as setup and hold times) as well
+as other timing methodologies.
+Nea rly all of these state and logic elements will have inputs and outputs that are
+32 bits wide, since that is the width of most of the data handled by the processor.
+We will make it clear whenever a unit has an input or output that is other than 32
+bits in width. The figures will indicate buses, which are signals wider than 1 bit,
+with thicker lines. At times we will want to combine several buses to form a wider
+bus; for example, we may want to obtain a 32-bit bus by combining two 16-bit

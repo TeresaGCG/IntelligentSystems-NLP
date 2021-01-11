@@ -1,0 +1,52 @@
+92 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Journal Entries
+
+L Issue of 10,000, 9% debentures of Rs. 100 each as collateral security
+for bank loan of Rs. 1 0,00,000.
+
+Debenture Suspense A/c Dr. 1 0,00 , 000
+To 9% Debentures A/c 10,00,000
+
+ii. For cancellation of 9% debentures as collateral security on repayment
+of bank loan.
+
+Debenture Suspense account will appear as a deduction from the debentures
+in notes to accounts of long-term borrowings. When loan is repaid the above
+
+entry will be cancelled by a reverse entry :
+
+9% Debentures A/c Dr. 1 0,00 , 000
+To Debenture Suspense A/c 1 0,00,000
+Balance Sheet of X Co. _ (Extract)
+
+Note Amount
+No. (RS)
+
+ 
+
+ 
+
+I. Equity and Liabilities
+1. Non—current Liabilities
+Long term borrowings 1 10,00,000
+E
+
+Notes to Accounts
+
+1. Long term borrowings 10,00,000
+Bank loan
+
+10,000. 9% debentures of
+Rs 100 each 10,00,000
+Less: Debenture suspense 10,00,000 —
+
+10,00,000
+
+ 
+
+Illustration 1 4
+
+A company took a loan of Rs. 10,00,000 from Punjab National Bank and issued
+10% debentures of Rs. 12,00,000 of Rs. 100 each as a collateral security. Explain
+how you will deal with the issue of debentures in the books of the company.

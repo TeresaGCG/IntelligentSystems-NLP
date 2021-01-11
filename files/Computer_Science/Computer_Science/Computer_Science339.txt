@@ -1,0 +1,79 @@
+5.5 A Multleycle Imple mentation 323
+PCWriteCond PCSource
+~
+~
+PCWrite
+ALUOp
+Outputs
+lorD
+ALUSrcB
+MemRead Control
+ALUSrcA
+MemWrile
+Op RegWrite
+MemtoReg
+[5-0]
+lR'Nrite RegDst 0'
+V
+Jump M
+,
+address
+1 "
+Shift
+26 28
+Instruction [25-0] [31-0]
+lell 2 2
+t
+Instruction '-./
+[31-26)
+PC [31-28) ~
+PC 0
+Rood 0
+Instruction
+M
+," Address [25-21] register 1 M,
+- Read " ~
+A
+Instruction data 1
+1 Rood ' Co
+Memory 1
+[20-16]
+register 2
+0
+MemData )ALU ALU
+Instruction M Registers ALUOut
+, result
+[15-0] Instruction " Write R d '"
+. t ea
+Write [15-11] regis er data 2 8
+/
+d,~ Instruction ~ 4.... 1 M
+register Write "
+r- 0 rI" 2 ,
+data
+M
+Instruction
+, ~
+"
+[15-0]
+1 \
+1 / '\
+c. I
+Memory
+16 32 ALU
+data Sign Shift
+control
+register extend left 2
+'\ /
+\
+Instruction [5-0]
+FtGURE 5.28 The complete datapath for the multleycle Implementation togethe r with the necessary control lines. The con 
+trollines of Figure 5.27 are attached to the control unit, and the control and datapath elements needed to effect changes to the PC are included. The
+major additions from Figure 5.27 include the multiplexor wed to select the source ofa new PC value; g.1tes wed to combine the PC write signals; and
+the control signals PCSource, PCWrite, and PCWriteCond. The PCWriteCond signal is used to decide whether a conditional branch should be taken.
+Support for jwnps is included.
+and multiple readers of the value. Just as we reduced the number of functional units for
+the datapath , we can reduce the number of buses interconnecting these units by shar 
+ing the buses. For example, there are six sources coming to the ALU; however, only two
+of them are needed at anyone time. Thus, a pair of buses can be used to hold values
+that are being sent to the ALU. Rather than placing a large multiplexor in front of the

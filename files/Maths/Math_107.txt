@@ -1,0 +1,23 @@
+Expressions and Equations
+107
+When division is involved, writing the expression out using the sym-
+bol÷ becomes somewhat awkward. An expression such as (2y) ÷ (y+ 8) will
+usually be written in fractional form. Because of the importance of the
+order of operations, think of the expression   as   so you are sure
+to perform the operations in parentheses before doing the division.
+Expressions can involve more than one variable. In order to evaluate
+expressions that involve more than one variable you will be given specific
+values for all of the variables.
+Example 4
+Evaluate the expression   when a = 4 and b = 1.
+Solution: Everywhere there is an a plug in 4, and where
+there’s a b, plug in a 1.
+Whena = 4 and b = 1,
+Example 5
+Evaluate the expression x2 + 5 when x = 4.
+Solution: When x = 4,
+x2+ 5 = 42+ 5= 16+ 5= 21
+Example 6
+Evaluate the expression (a + b)(a − b) when a = 5 and b = 2.
+Solution: When a = 5 and b = 2,
+(a + b) (a − b) = (5 + 2)(5 − 2) = 7 ⋅ 3 = 21

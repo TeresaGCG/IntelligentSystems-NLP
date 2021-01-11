@@ -1,0 +1,37 @@
+3.4 Multiplication 179
+clock cycle, this algorithm would require almost 100 clock cycles to multiply two
+32-bit numbers. The relative importance of arithmetic operations like multiply
+varies with the program, but addition and subtraction may be anywhere from 5 to
+100 times more popular than multiply. Accordingly, in many applications, multi 
+ply can take multiple clock cycles without significantly affecting performance. Yet
+Amdahl's law (see Chapter 4, page 267) reminds us that even a moderate fre 
+quency for a slow operation can limit perfo rmance.
+This algorithm and hardware are easily refined to take 1 clock cycle per step.
+The speedup comes from performing the operations in parallel: the multiplier
+and multiplicand are shifted while the multiplicand is added to the product if the
+multiplier bit is a one. The hardware just has to ensure that it tests the right bit of
+the multiplier and gets the preshifted version of the multiplicand. The hardware is
+usually further optimized to halve the width of the adder and registers by noticing
+where there are unused portions of registers and adders. Figure 3.7 shows the
+revised hardwa reo
+Replacing arithmetic by shifts can also occur when multiplying by constants. Hardware
+Some compilers replace multiplies by short constants with a series of shifts and
+Software
+adds. Because one bit to the left represents a number twice as large in base 2, shift 
+Interface
+ing the bits left has the same effect as multiplying by a power of 2. As mentioned
+in Chapter 2, almost every com piler will perform the strength reduction optimi 
+zation of substituting a left shift for a multiply by a power of 2.
+Multiplicand
+32 bits
+/'
+""" 32-bit ALU
+•
+PreJUcl Shift right Control'
+Write test
+64 bits
+FIGURE 3.7 Relined version of the multiplication hardware. Compare WIth the first versIon m
+Figure 3.5. The Multiplicand register, ALU, and Multiplier register are aU 32 bits wide, with only the Prod·
+uct register left at 64 bits. Nowthe product is shifted right. The separate Multiplier register also dis.1ppeared.
+The multiplier is placed instead in the right half of the Product register. These changes are highlighted in
+color.

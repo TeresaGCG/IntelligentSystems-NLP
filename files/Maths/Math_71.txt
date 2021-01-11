@@ -1,0 +1,27 @@
+Exponents
+71
+Lesson 4-2: Rules for Exponents
+Many mathematical rules have been developed by working out spe-
+cific problems and looking for patterns. Now that we can deal with posi-
+tive integer exponents, it’s time to make some observations. Let’s look at
+what happens when we multiply two exponential expressions with the
+same base. For example, let’s find the product of 23 and 25:
+23× 25= (2 × 2× 2)× (2× 2× 2× 2× 2)= 2× 2× 2× 2× 2× 2× 2× 2= 28
+Notice that the exponents of the two products are 3 and 5, and the
+exponent of the result is 8, which is 3+5. This observation is actually our
+product rule for exponents: When you multiply two numbers with the
+same base, you add the exponents. This can be stated mathematically as
+am × an = am+n
+Example 1
+Find the following products. Leave your answers as exponential
+expressions:
+a. 65× 67
+b. (−3)6× (−3)8
+c. 74× 73
+Solution:
+a. 65× 67=65 + 7= 612
+b. (−3)6× (−3)8 = (−3)6+8= (−3)14
+c. 74× 73= 74+3= 77
+Next let’s explore what happens when you divide two exponential
+expressions with the same base.
+For example, let’s evaluate  :

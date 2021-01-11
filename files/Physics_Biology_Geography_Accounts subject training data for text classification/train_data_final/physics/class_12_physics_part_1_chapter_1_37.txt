@@ -1,0 +1,84 @@
+FIGURE 1.30 Gaussian surface for a
+uniformly charged infinite plane sheet.
+
+38
+
+ 
+
+i Physics
+
+2
+
+ 
+
+Flux through the Gaussian surface
+
+ﬂux through the curved cylindrical part of the surface
+
+= EX 2an
+
+The surface includes charge equal to A l. Gauss’s law then gives
+E X 2an = 21/80
+
+A
+_ 2n80r
+
+ 
+
+i.e., E
+
+Vectorially, E at any point is given by
+
+A -
+
+E = n
+2ns0r (1'32)
+
+ 
+
+where 13 is the radial unit vector in the plane normal to the wire passing
+through the point. E is directed outward if A is positive and inward if 2. is
+negative.
+
+Note that when we write a vector A as a scalar multiplied by a unit
+vector, i.e., as A = A i , the scalar A is an algebraic number. It can be
+negative or positive. The direction of A will be the same as that of the unit
+vector {1 if A > O and opposite to i if A < 0. When we want to restrict to
+non-negative values, we use the symbol |A| and call it the modulus of A.
+Thus, A| 2 O .
+
+Also note that though only the charge enclosed by the surface (Al)
+was included above, the electric field E is due to the charge on the entire
+wire. Further, the assumption that the wire is infinitely long is crucial.
+Without this assumption, we cannot take E to be normal to the curved
+part of the cylindrical Gaussian surface. However, Eq. (1.32) is
+approximately true for electric ﬁeld around the central portions of a long
+wire, where the end effects may be ignored.
+
+ 
+
+1. 15.2 Field due to a uniformly charged inﬁnite plane sheet
+
+Let a be the uniform surface charge density of an infinite plane sheet
+(Fig. 1.30). We take the x—axis normal to the given plane. By symmetry,
+the electric field will not depend on y and z coordinates and its direction
+at every point must be parallel to the x—direction.
+Surface We can take the Gaussian surface to be a
+charge densitya rectangular parallelepiped of cross-sectional area
+A, as shown. (A cylindrical surface will also do.) As
+seen from the figure, only the two faces 1 and 2 will
+contribute to the ﬂux; electric field lines are parallel
+to the other faces and they, therefore, do not
+contribute to the total ﬂux.
+The unit vector normal to surface 1 is in —x
+direction while the unit vector normal to surface 2
+
+ 
+
+is in the +x direction. Therefore, ﬂux E.AS through
+both the surfaces are equal and add up. Therefore
+the net ﬂux through the Gaussian surface is 2 EA.
+The charge enclosed by the closed surface is 6A.
+Therefore by Gauss’s law,
+
+2019-20

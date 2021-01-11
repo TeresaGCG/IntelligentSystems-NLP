@@ -1,0 +1,84 @@
+WAV ES
+
+391
+
+15.1
+
+15.2
+
+15.3
+
+15.4
+
+15.5
+
+15.6
+
+15.7
+
+15.8
+
+15.9
+
+15.10
+
+EXERCISES
+
+A string of mass 2.50 kg is under a tension of 200 N. The length of the stretched
+string is 20.0 m. If the transverse jerk is struck at one end of the string, how long
+does the disturbance take to reach the other end?
+
+A stone dropped from the top of a tower of height 300 m splashes into the water of
+a pond near the base of the tower. When is the splash heard at the top given that
+the speed of sound in air is 340 m s*1 ? [g = 9.8 m s”)
+
+A steel wire has a length of 12.0 m and a mass of 2.10 kg. What should be the
+tension in the wire so that speed of a transverse wave on the wire equals the speed
+of sound in dry air at 20°C = 343 m s‘l.
+
+I P
+Use the formula v = Y— to explain why the speed of sound in air
+,0
+
+(a) is independent of pressure,
+(b) increases with temperature,
+
+(c) increases with humidity.
+
+You have learnt that a travelling wave in one dimension is represented by a function
+y = f (x, t) where x and t must appear in the combination x — v t or x + v t, i.e.
+y = f (x i v t). Is the converse true? Examine if the following functions for y can
+possibly represent a travelling wave :
+
+(a) (x — vt )2
+(b) log [[x + vt]/x0]
+(C) 1 / (x + vt}
+
+A bat emits ultrasonic sound of frequency 1000 kHz in air. If the sound meets a
+water surface, what is the wavelength of (a) the reﬂected sound, [b] the transmitted
+sound? Speed of sound in air is 340 m s ‘1 and in water 1486 m s4.
+
+A hospital uses an ultrasonic scanner to locate tumours in a tissue. What is the
+wavelength of sound in the tissue in which the speed of sound is 1.7 km s*1 ? The
+operating frequency of the scanner is 4.2 MHz.
+
+A transverse harmonic wave on a string is described by
+y(x, t) = 3.0 sin [36 t + 0.018 x+ 7r/4]
+where x and y are in cm and tin s. The positive direction of xis from left to right.
+(a) Is this a travelling wave or a stationary wave ?
+If it is travelling, what are the speed and direction of its propagation ?
+(b) What are its amplitude and frequency ?
+
+(c) What is the initial phase at the origin ?
+
+(d) What is the least distance between two successive crests in the wave ?
+
+For the wave described in Exercise 15. 8, plot the displacement (y) versus [t] graphs
+for x = 0, 2 and 4 cm. What are the shapes of these graphs? In which aspects does
+the oscillatory motion in travelling wave differ from one point to another: amplitude,
+frequency or phase ?
+
+For the travelling harmonic wave
+y[x, t] = 2.0 cos 27L" [10t— 0.0080 x + 0.35)
+
+2019-20

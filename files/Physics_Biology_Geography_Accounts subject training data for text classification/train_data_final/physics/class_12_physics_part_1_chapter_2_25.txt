@@ -1,0 +1,81 @@
+76
+
+ 
+
+ 
+
+i Physics
+
+and the potential difference V0 is
+
+V0 = Eod
+The capacitance CO in this case is
+_ Q _ A
+C0 — V0 ‘80 a [2-46)
+
+Consider next a dielectric inserted between the plates fully occupying
+the intervening region. The dielectric is polarised by the ﬁeld and, as
+explained in Section 2.10, the effect is equivalent to two charged sheets
+(at the surfaces of the dielectric normal to the field) with surface charge
+densities 0p and —0p. The electric field in the dielectric then corresponds
+to the case when the net surface charge density on the plates is i(0— 0p).
+That is,
+
+ 
+
+ 
+
+0' — 0'
+E = P (2.47)
+80
+so that the potential difference across the plates is
+0' — 0'
+V = E d = P d
+80 (2.48)
+
+For linear dielectrics, we expect GP to be proportional to E , i.e., to 0.
+Thus, (0— Up) is proportional to 0 and we can write
+
+a—o‘P =— (2.49)
+
+where K is a constant characteristic of the dielectric. Clearly, K > 1. We
+then have
+
+ 
+
+ 
+
+ 
+
+0'd Qd
+V = =
+80K AeOK (2'50)
+The capacitance C, with dielectric between the plates, is then
+_ Q _ EOKA
+— V d (2.5 1)
+
+The product 80K is called the permittivity of the medium and is
+denoted by 8
+e = 80 K (2.52)
+For vacuum K = 1 and 8 = £0; 80 is called the permittivity of the vacuum
+The dimensionless ratio
+
+8
+
+K = —
+80 (2.53)
+
+is called the dielectric constant of the substance. As remarked before,
+from Eq. (2.49), it is clear that K is greater than 1. From Eqs. (2.46) and
+(2. 5 1)
+
+C
+
+K = —
+Co (2.54)
+
+Thus, the dielectric constant of a substance is the factor (> 1) by which
+the capacitance increases from its vacuum value, when the dielectric is
+inserted fully between the plates of a capacitor. Though we arrived at
+
+2019-20

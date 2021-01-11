@@ -1,0 +1,78 @@
+Electric Charges
+and Fields
+
+ 
+
+Solution Let the original charge on sphere A be q and that on B be
+q’. At a distance r between their centres, the magnitude of the
+electrostatic force on each is given by
+
+F: 1 q?
+47!?801'
+
+ 
+
+ 
+
+neglecting the sizes of spheres A and B in comparison to r. When an
+identical but uncharged sphere C touches A, the charges redistribute
+on A and C and, by symmetry, each sphere carries a charge q/2.
+Similarly, after D touches B, the redistributed charge on each is
+q / 2. Now, if the separation between A and B is halved, the magnitude
+of the electrostatic force on each is
+
+F,= 1 (q/2)(q’/2)= 1 (qq’)=F
+47:80 (r/2)2 47:80 r2
+
+ 
+
+Thus the electrostatic force on A, due to B, remains unaltered.
+
+g' I 31mg
+
+1.7 FORCES BETWEEN MULTIPLE CHARGES
+
+The mutual electric force between two charges is given
+by Coulomb’s law. How to calculate the force on a
+charge where there are not one but several charges
+around? Consider a system of n stationary charges
+q1, q2, q3, qn in vacuum. What is the force on q1 due
+to q2, q3, qn? Coulomb’s law is not enough to answer
+this question. Recall that forces of mechanical origin
+add according to the parallelogram law of addition. Is
+the same true for forces of electrostatic origin?
+
+Experimentally, it is verified that force on any
+charge due to a number of other charges is the vector
+sum of all the forces on that charge due to the other
+charges, taken one at a time. The individual forces
+are unaffected due to the presence of other charges.
+This is termed as the principle of superposition.
+
+To better understand the concept, consider a
+system of three charges q1, q2 and q3, as shown in
+Fig. 1.8(a). The force on one charge, say ql, due to two
+other charges q2, q3 can therefore be obtained by
+performing a vector addition of the forces due to each
+one of these charges. Thus, if the force on q1 due to q2
+is denoted by F12, F12 is given by Eq. (1.3) even though
+other charges are present.
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 q q -
+Thus, F = 1—Zr
+12 47:80 r122 12 (b)
+In the same way, the force on q1 due to q3, denoted FIGURE 1.8 A system of (a) three
+by F13, is given by Charges (b) multiple charges.
+1 q q -
+F =— 1 3 r
+13 47580 r123 13 15
+
+2019-20

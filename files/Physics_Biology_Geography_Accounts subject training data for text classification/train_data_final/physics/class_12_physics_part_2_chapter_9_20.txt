@@ -1,0 +1,70 @@
+Roy Optics and
+Optical Instruments
+
+the ﬁrst lens A (Fig. 9.2 1). The ﬁrst lens produces A ___B
+an image at 11. Since image I1 is real, it serves as a
+virtual object for the second lens B, producing the
+ﬁnal image at I. It must, however, be borne in mind
+that formation of image by the ﬁrst lens is presumed
+only to facilitate determination of the position of the
+ﬁnal image. In fact, the direction of rays emerging
+from the ﬁrst lens gets modiﬁed in accordance with FIGURE 9-2 1 Image formation by a
+the angle at which they strike thC second lens. Since combination of two thin lenses in contact.
+the lenses are thin, we assume the optical centres of the lenses to be
+coincident. Let this central point be denoted by P.
+
+For the image formed by the ﬁrst lens A, we get
+
+111
+
+= .27
+01 u f1 (9 )
+For the image formed by the second lens B, we get
+
+1 1 1
+v 01—f2 (9.28)
+
+Adding Eqs. (9.27) and (9.28), we get
+
+ 
+
+v u fl+?2 (9.29)
+
+If the two lens-system is regarded as equivalent to a single lens of
+focal length f, we have
+
+111
+
+5—3:?
+so that we get
+121+ L
+f fl f2 (9.30)
+
+The derivation is valid for any number of thin lenses in contact. If
+several thin lenses of focal length f1 f2, jg... are in contact, the effective
+focal length of their combination is given by
+
+1 1 1 1
+
+—:—+ —+ —+
+
+f 11 f2 f3
+
+In terms of power, Eq. (9.3 1) can be written as
+P=P1+P2+P3+... (9.32)
+
+where P is the net power of the lens combination. Note that the sum in
+Eq. (9.32) is an algebraic sum of individual powers, so some of the terms
+on the right side may be positive (for convex lenses) and some negative
+(for concave lenses). Combination of lenses helps to obtain diverging or
+converging lenses of desired magnification. It also enhances sharpness
+of the image. Since the image formed by the ﬁrst lens becomes the object
+for the second, Eq. (9.25) implies that the total magniﬁcation m of the
+combination is a product of magnification (m1, m2, m3,...) of individual
+lenses
+
+m= m1 m2 m3 (9.33) 329
+
+(9.31)
+
+2019-20

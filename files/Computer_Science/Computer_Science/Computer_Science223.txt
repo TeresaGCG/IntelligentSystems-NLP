@@ -1,0 +1,53 @@
+3.6 Floating Point 207
+MIPS floating-point operands
+Name Example Comments
+32 floating.- Sf0 • SfI. Sf2. $f3l MIPS floating.point registers are used in pairs for double predsion numbers.
+• • • •
+point registers
+30
+2 memory words Memory(O], Accessed only by data transfer instructions. MIPS uses byte addresses, so
+Memory(4], ... , sequential word addresses differ by 4. Memory holds data structures, such as
+Memory(4294967292) arrays, and spilled registers, such as those saved on procedure calls.
+MIPS floating-point assembly language
+Category Instruction Example Meaning Comments
+FP add single add.s Sf2. Sf4. Sf6 Sf2 Sf4 + Sf6 FP add (single precision)
+FP subtract single sub.s Sf2. Sf4. Sf6 Sf2 Sf4 Sf6 FP sub (single predsion)
+FP multiply single mul.s Sf2. Sf4. Sf6 Sf2 - Sf4 x Sf6 FP multiply (single predsion)
+FP divide single d i v. s Sf2. Sf4. Sf6 Sf2 Sf4 / Sf6 FP divide (single predsion)
+Arithmetic
+FP add double add.d Sf2. Sf4. Sf6 Sf2 Sf4 + Sf6 FP add (double predsion)
+FP subtract double sub.d Sf2. Sf4. Sf6 Sf2 Sf4 Sf6 FP sub (double precision)
+FP multiply double mul.d Sf2. Sf4. Sf6 Sf2 Sf4 x Sf6 FP multiply (double precision)
+FP divide double div.d Sf2. Sf4. Sf6 Sf2 - Sf4 / Sf6 FP divide (double precision)
+load word copr. 1 1wel SfI.I00 ($ s2 l Sf! Memory[ $s2 + 100] 32.t>it data to FP register
+Do...
+transfer store word copr. 1 swel SfI.I00 ($ s2 l Memory($s2 + 100)- $f} 32.t>it data to memory
+branch on FP true belt 25 if (cond __ 1) go to PC + 4 + 100 PC-relative branch if FP condo
+branch on FP false bclf 25 if (cond "'''' 0) go to PC + 4 + 100 PC-relative branch if not condo
+Condi-
+<
+FP compare single elLs Sf2.Sf4 if (Sf2 Sf4) FP compare less than
+tional
+(eq,ne,lt,le,gt,ge) cond '" 1; else cond '" 0 single precision
+branch
+<
+FP compare double c.H.d Sf2.Sf4 if (Sf2 Sf4) FP compare less than
+(eq,ne,lt,le,gt,ge) cond '" 1; else cond '" 0 double precision
+MIPS floating-point machine language
+Name Example Comments
+add. s R 17 16 6 4 2 0 add. s Sf2.Sf4.Sf6
+sub.s R 17 16 6 4 2 1 su b. s Sf2.Sf4. Sf6
+mu1 . s R 17 16 6 4 2 2 mu 1 . s Sf2.Sf4. Sf6
+d i v. s R 17 16 6 4 2 3 di v. s Sf2.Sf4.Sf6
+add. d R 17 17 6 4 2 0 add. d Sf2.Sf4. Sf6
+sub.d R 17 17 6 4 2 1 sub.d Sf2.Sf4. Sf6
+mul . d R 17 17 6 4 2 2 mul . d Sf2.Sf4.Sf6
+di v. d R 17 17 6 4 2 3 di v. d Sf2.Sf4. Sf6
+1wel I 49 20 2 100 lwel Sf2.l00($s4l
+swel I 57 20 2 100 swel Sf2.100($s4l
+bel t I 17 8 1 25 bel t 25
+bel f I 17 8 0 25 bel f 25
+c. lt. s R 17 16 4 2 0 60 elLs Sf2.Sf4
+c.H.d R 17 17 4 2 0 60 c.1 Ld Sf2.Sf4
+Field size 6 bits 5 bits 5 bits 5 bits 5 bits 6 bits All MIPS instructions 32 bits
+FIGURE 3.19 MIPS floating-poInt architecture revealed thus far. See Appendix A, Section A.IO, on page A-49, for more detail.

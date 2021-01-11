@@ -1,0 +1,36 @@
+7.3 Measuring and Improving Cache Performance 503
+Address
+31 30 "'1 2 111098"' 3210
+I I I I
+22 8
+T,g
+Index
+Index V Tao Data V T,o Data V Tao Data V Tao Data
+0
+1
+2
+C- lOT C- lOT C-
+253
+25'
+255
+22 32
+~
+=
+y
+'y
+=f
+I
+4-t0-1 multiplexor
+Hit Data
+FIGURE 7.17 The Implementation of a four-way set-associative cache requires four comparators and a 4-to-l multiplexor.
+The comparators determine which element of the selected set (if any) matches the tag. The output of the comparators is used to select the data from
+one ofthe four blocks ofthe indexed set, using a multiplexor with a decoded select signal. In some implementations, the Output enable signals on the
+data portions ofthe cache RAMs can be used to select the entry in the set that drives the output. The Output enable signal comes from the compara 
+tors, causing the element that matches to drive the data outputs. This organization eliminates the need for the multiplexor.
+among the four potential members of the selected set. The cache access consists of
+indexing the appropriate set and then searching the tags of the set. The costs of an
+associative cache are the extra comparators and any delay imposed by having to
+do the compare and select from among the elements of the set.
+The choice among direct-mapped, set-associative, or fully associative mapping
+in any memory hierarchy will depend on the cost of a miss versus the cost of
+implementing associativity, both in time and in extra hardware.

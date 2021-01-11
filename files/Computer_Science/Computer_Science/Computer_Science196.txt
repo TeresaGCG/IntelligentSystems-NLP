@@ -1,0 +1,41 @@
+180 Chapter 3 Arithmetic: for Computers
+A Multiply Algorithm
+Using 4-bit numbers to save space, multiply 2 X 3 or OO lOt\o,"OX00 11 '
+ten ten> two
+EXAMPLE
+Figure 3.8 shows the value of each register for each of the steps labeled ac 
+ANSWER
+cording to Figure 3.6, with the final value of 0000 011O or 6 . Color is
+two ten
+used to indicate the register values that change on that step, and the bit cir 
+cled is the one examined to determine the operation of the next step.
+Signed Multiplication
+So far we have dealt with positive numbers. The easiest way to understand how to
+deal with signed numbers is to first convert the multiplier and multiplicand to
+positive numbers and then remember the original signs. The algorithms should
+then be run for 31 iterations, leaving the signs out of the calculation. As we
+learned in grammar school, we need negate the product only if the original signs
+disagree.
+It turns out that the last algorithm will work for signed numbers provided that
+we remember that the numbers we are dealing with have infinite digits, and that
+we are only representing them with 32 bits. Hence, the shifting steps would need
+to extend the sign of the product for signed numbers. \Vhen the algorithm com 
+pletes, the lower word would have the 32-bit product.
+IteratIon Step MultIplier MultIplicand Product
+o
+Initial values 001 00000010 0000 0000
+1 la: 1 ~ Prod _ Prod + Mcand 0011 00000010 00000010
+2: Shift left Multiplicand 0011 00000100 00000010
+oo<\!)
+3: Shift right Multiplier 00000100 0000 0010
+2 la: 1 ~ Prod _ Prod + Mcand 0001 00000100 00000110
+2: Shift left Multiplicand 0001 ()()()() 1000 00000110
+3: Shift right Multiplier 000 ()()()() 1()()() 0000 0110
+3 1: 0 ~ no operation 0000 ()()()() 1()()() 0000 0110
+2: Shift left Multiplicand 0000 ()()()1 ()()()() 00000110
+3: Shift right Multiplier oo<@ ()()()1 ()()()() 0000 0110
+4 1: 0 ~ no operation 0000 ()()()1 ()()()() 0000 0110
+2: Shift left Multiplicand 0000 00100000 00000110
+3: Shift right Multiplier 0000 00100000 0000 0110
+FIGURE 3.8 MultIply example usIng algorithm In FIgure 3.6. The bit examined to determine
+the next step is circled in color.

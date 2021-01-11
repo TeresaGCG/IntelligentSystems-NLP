@@ -1,0 +1,54 @@
+Magnetism and
+Mo’r’rer
+
+0°41’ E at Delhi and 0°58’ W at Mumbai. Thus, at both these places a
+magnetic needle shows the true north quite accurately.
+
+There is one more quantity of interest. If a magnetic needle is perfectly
+balanced about a horizontal aXis so that it can swing in a plane of the
+magnetic meridian, the needle would make an angle with the horizontal
+(Fig. 5.10). This is known as the angle of dip (also known as inclination).
+Thus, dip is the angle that the total magnetic field BE of the earth makes
+with the surface of the earth. Figure 5.1 1 shows the magnetic meridian
+plane at a point P on the surface of the earth. The plane is a section through
+the earth. The total magnetic field at P
+can be resolved into a horizontal
+component HE and a vertical
+component ZE. The angle that BE makes
+with HE is the angle of dip, I.
+
+   
+
+ 
+
+FIGURE 5.10 The circle is a FIGURE 5.11 The earth‘s
+section through the earth magnetic ﬁeld. BE. its horizontal
+containing the magnetic and vertical components. HE and
+
+meridian. The angle between BE ZE. Also shown are the
+
+and the horizontal component declination, D and the
+
+HE is the angle of dip. inclination 0r angle of dip. I.
+
+In most of the northern hemisphere, the north pole of the dip needle
+tilts downwards. Likewise in most of the southern hemisphere, the south
+pole of the dip needle tilts downwards.
+
+To describe the magnetic field of the earth at a point on its surface, we
+need to specify three quantities, viz., the declination D, the angle of dip or
+the inclination I and the horizontal component of the earth’s field HE. These
+are known as the element of the earth’s magnetic field.
+
+Representing the verticle component by ZE, we have
+
+ZE = BE sinI [5.10(a)]
+HE: BE cosI [5.10(b)]
+which gives,
+Z
+t I = —E
+an HE [510(0)]
+
+2019-20
+
+187

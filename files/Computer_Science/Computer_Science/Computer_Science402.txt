@@ -1,0 +1,42 @@
+386 Chapter 6 Enhancing Performance with Plpellnlng
+There are, however, two exceptions to this left-to-right flow of instructions:
+• The write-back stage, which places the result back into the register file in the
+middle of the datapath
+• The selection of the next value of the PC, choosing between the incremented
+PC and the branch address from the MEM stage
+Data flowing from right to left does not affect the current instruction; only later
+instructions in the pipeline are influenced by these reverse data movements. Note
+that the first right-to-left arrow can lead to data hazards and the second leads to
+control hazards.
+One way to show what happens in pipelined execution is to pretend that each
+instruction has its own datapath, and then to place these datapaths on a time line
+to show their relationship. Figure 6.1 0 shows the execution of the instructions in
+Figure 6.3 by displaying their private datapaths on a common time line. We use a
+stylized version of the datapath in Figure 6.9 to show the relationships in
+Figure 6. 10.
+Figure 6.10 seems to suggest that three instructions need three datapaths. In
+Chapter 5, we added registers to hold data so that portions of the datapath could
+be shared during instruction execution; we use the same technique here to share
+the multiple datapaths. For example, as Figure 6.10 shows, the instruction mem 
+ory is used during only one of the five stages of an instruction, allowing it to be
+shared by other instructions during the other four stages.
+To retain the value of an individual instruction for its other four stages, the
+value read from instruction memory must be saved in a register. Similar argu 
+ments apply to every pipeline stage, so we must place registers wherever there are
+dividing lines between stages in Figure 6.9. This change is similar to the registers
+added in Chapter 5 when we went from a single-cycle to a multicycle datapath.
+Returning to our laundry analogy, we might have a basket between each pair of
+stages to hold the clothes for the next step.
+Figure 6.11 shows the pipelined datapath with the pipeline registers high 
+lighted. All instructions adva nce during each clock cycle from one pipeline regis 
+ter to the next. The registers are named for the two stages separated by that
+register. For example, the pipeline register between the IF and ID stages is called
+IFIID.
+Notice that there is no pipeline register at the end of the write-back stage. All
+instructions must update some state in the processor-the register file, memory,
+or the PC-so a separate pipeline register is redundant to the state that is updated.
+For example, a load instruction will place its result in 1 of the 32 registers, and any
+later instruction that needs that data will simply read the appropriate register.
+Of course, every instruction updates the PC, whether by incrementing it or by
+setting it to a branch destination address. The PC can be thought of as a pipeline
+register: one that feeds the IF stage of the pipeline. Unlike the shaded pipeline reg-

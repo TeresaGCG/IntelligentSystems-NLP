@@ -1,0 +1,118 @@
+346
+
+PHYSICS
+
+ 
+
+Finally, the quantity a) can be seen to be
+related to the period of motion T. Taking, for
+simplicity, ¢ = O in Eq. (14.4), we have
+
+x(t)=Acosa)t (14.5)
+
+Since the motion has a period T, x (t) is equal to
+x (t + T). That is,
+
+Acoswt=Acosw(t+T) (14.6)
+
+Now the cosine function is periodic with period
+27c, i.e., it first repeats itself when the argument
+changes by 27c. Therefore,
+
+a)(t+T)=a)t+21t
+
+that is a) = 211/ T (14.7)
+
+a) is called the angular frequency of SHM. Its
+S.I. unit is radians per second. Since the
+frequency of oscillations is simply 1 /T, 03 is 2%
+times the frequency of oscillation. Two simple
+harmonic motions may have the same A and (1),
+but different a), as seen in Fig. 14.8. In this plot
+the curve (b) has half the period and twice the
+frequency of the curve (a).
+
+X
+
+{b
+
+t—>
+
+Displacement —>
+5> o
+
+Fig. 1 4.8 Plots of Eq. (1 4. 4) for q) = 0 for two different
+
+periods.
+
+Example 14.3 Which of the following
+functions of time represent (a) simple
+harmonic motion and (b) periodic but not
+
+simple harmonic? Give the period for each
+case.
+
+(1) sin cut-cos wt
+
+(2) sin2 Lot
+
+Answer
+(a) sin wt— cos (at
+
+= sin wt— sin (TE/2 — (at)
+= 2 cos (TE/4) sin (wt— 7c/4)
+= W/2 sin (cot— 75/4)
+
+2019-20
+
+ 
+
+This function represents a simple harmonic
+motion having a period T = 27r/a) and a
+phase angle (—7c/ 4) or (7 75/ 4)
+(b) sin2 wt
+= 1/2 — 1/2 cos 2 cut
+The function is periodic having a period
+T = n/w. It also represents a harmonic
+motion with the point of equilibrium
+
+occurring at 1/2 instead of zero. 4
+
+14.4 SIMPLE HARMONIC MOTION AND
+UNIFORM CIRCUIAR MOTION
+
+In this section, we show that the projection of
+uniform circular motion on a diameter of the
+circle follows simple harmonic motion. A
+simple experiment (Fig. 14.9) helps us visualise
+this connection. Tie a ball to the end of a string
+and make it move in a horizontal plane about
+a fixed point with a constant angular speed.
+The ball would then perform a uniform circular
+motion in the horizontal plane. Observe the
+ball sideways or from the front, fixing your
+attention in the plane of motion. The ball will
+appear to execute to and fro motion along a
+horizontal line with the point of rotation as
+the midpoint. You could alternatively observe
+the shadow of the ball on a wall which is
+perpendicular to the plane of the circle. In this
+process what we are observing is the motion
+of the ball on a diameter of the circle normal
+to the direction of viewing.
+
+ 
+
+Fig. 1 4.9 Circular motion of a ball in a plane viewed
+edge—on is SHM.
+
+Fig. 14.10 describes the same situation
+mathematically. Suppose a particle P is moving
+uniformly on a circle of radius A with angular
+speed a). The sense of rotation is anticlockwise.
+The initial position vector of the particle, i.e.,
+
+the vector 5 at t= 0 makes an angle of q) with
+
+the positive direction of x—axis. In time t, it will
+cover a further angle cot and its position vector

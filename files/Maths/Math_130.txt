@@ -1,0 +1,17 @@
+Homework Helpers: Basic Math and Pre-Algebra
+130
+Example 3
+216 is 48% of what number?
+Solution: In this case you are given the part (216) and the percent
+(48%), and you are asked to find the whole. Set up a proportion
+and let x represent the whole:
+So, 216 is 48% of 450.
+Percents can be greater than 100%. For example, when preparing for
+a math test I know that every one of my students gives 110%!
+Example 4
+Find 150% of 30.
+Solution: You are given the percent (150%) and the whole (30)
+and you are asked to find the part. Let x represent the part and
+set up a proportion to solve for x:
+So, 150% of 30 is 45.
+www.ebook3000.com

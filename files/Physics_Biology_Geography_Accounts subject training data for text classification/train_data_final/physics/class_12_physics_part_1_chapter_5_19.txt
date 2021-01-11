@@ -1,0 +1,77 @@
+E
+
+FIGURE 5.12
+Behaviour of
+
+magnetic field lines
+
+(a) diamagnetic.
+(b) paramagnetic
+
+192
+
+ 
+
+ 
+
+i Physics
+
+(b)
+
+near E1
+
+substance.
+
+—lsx<0 O<x<e x>>1
+OSHr< 1 1< ,ur<1+e pr>> 1
+#<#0 #>#o #>>H0
+
+5.6. 1 Diamagnetism
+
+Diamagnetic substances are those which have tendency to move from
+stronger to the weaker part of the external magnetic ﬁeld. In other words,
+unlike the way a magnet attracts metals like iron, it would repel a
+diamagnetic substance.
+
+Figure 5. 1 2(a) shows a bar of diamagnetic material placed in an external
+magnetic ﬁeld. The ﬁeld lines are repelled or expelled and the ﬁeld inside
+the material is reduced. In most cases, as is evident from
+Table 5.2, this reduction is slight, being one part in 105. When placed in a
+non-uniform magnetic ﬁeld, the bar will tend to move from high to low ﬁeld.
+
+The simplest explanation for diamagnetism is as follows. Electrons in
+an atom orbiting around nucleus possess orbital angular momentum.
+These orbiting electrons are equivalent to current-carrying loop and thus
+possess orbital magnetic moment. Diamagnetic substances are the ones
+in which resultant magnetic moment in an atom is zero. When magnetic
+field is applied, those electrons having orbital magnetic moment in the
+same direction slow down and those in the opposite direction speed up.
+This happens due to induced current in accordance with Lenz’s law which
+you will study in Chapter 6. Thus, the substance develops a net magnetic
+moment in direction opposite to that of the applied ﬁeld and hence
+
+repulsion.
+
+Some diamagnetic materials are bismuth, copper, lead, silicon,
+nitrogen (at STP), water and sodium chloride. Diamagnetism is present
+in all the substances. However, the effect is so weak in most cases that it
+gets shifted by other effects like paramagnetism, ferromagnetism, etc.
+
+The most exotic diamagnetic materials are superconductors. These
+are metals, cooled to very low temperatures which exhibits both perfect
+conductivity and perfect diamagnetism Here the ﬁeld lines are completely
+expelled! = —1 and ur = O. A superconductor repels a magnet and (by
+Newton’s third law) is repelled by the magnet. The phenomenon of perfect
+diamagnetism in superconductors is called the Meissner effect, after the
+name of its discoverer. Superconducting magnets can be gainfully
+exploited in variety of situations, for example, for running magnetically
+levitated superfast trains.
+
+5.6.2 Paramagnetism
+
+Paramagnetic substances are those which get weakly magnetised when
+placed in an external magnetic ﬁeld. They have tendency to move from a
+region of weak magnetic ﬁeld to strong magnetic ﬁeld, i.e., they get weakly
+attracted to a magnet.
+
+2019-20

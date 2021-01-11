@@ -1,0 +1,41 @@
+152 Chapter 2 Instructions: Language of the Computer
+It
+beq $vl , $zero , loop Loop if word copied != zero
+TIlere are multiple bugs in this MIPS program; fix them and turn in a bug-free ver 
+sion. Like many of the exercises in this chapter,the easiest way to write MIPS programs
+II
+is to use the simulator described in Appendix A.
+II
+2.35 (10 ) <§§2.2, 2.3, 2.6, 2.9> For More Practice: Reverse Translation from
+MIPS to C
+II
+2.36 <§2.9> Fo r More Practice: Translating from C to MIPS
+2.37 [25J <§2.1O> As discussed on page 107 (Section 2.10, "Assembler"),
+pseudoinstructions are not part of the MIPS instruction set but often appear in
+MIPS programs. For each pseudoinstruction in the following table, produce a
+minimal sequence of actual MIPS instructions to accomplish the same thing.
+You may need to use $a t fo r some of the sequences. In the following table, bi 9
+refers to a specific number that requires 32 bits to represent and sma 11 to a
+number that can fit in 16 bits.
+Pseudolnstructlon What It accomplishes
+move Hl. H2 Hl - St 2
+c1 ear H50 Sto - 0
+beQ St l. small. l if (Stl - sma ll) go t o l
+beQ St 2, big, l if (H2 - bi g) go t o l
+1i Hl. small Hl - smal1
+11 H2, big H2 - big
+b1 e St 3, H5, l if (H3 ( - H5l go t o l
+bgt St4 . H5, l if (H4 ) H5) go to l
+bge St 5. H3. l if (H5)- H3l goto l
+addi Sto . H2. big Sto - St 2 + big
+lw H5, big (H2) H5 - Memory[ H2 + bi g]
+2.38 [5 J <§§2.9, 2.10> Given your understanding of PC-relative addressing, ex 
+plain why an assembler might have problems directly implementing the branch in 
+struction in the following code sequence:
+he r e : beq $sO , $s2 , t here
+there add $sO , $sO , $sO
+Show how the assembler might rewrite this code sequence to solve these problems.
+II
+2.39 <§2.1O> For More Practice: MIPS Pseudoinstructions
+II
+2.40 <§2.10> For More Practice: Linking MIPS Code

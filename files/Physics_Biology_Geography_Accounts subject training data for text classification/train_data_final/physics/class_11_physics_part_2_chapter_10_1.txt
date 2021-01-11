@@ -1,0 +1,123 @@
+MECllANlCAL PROPERTIES OF FLUIDS
+
+25l
+
+ 
+
+chest a large, light but strong wooden plank is
+placed first, is saved from this accident. Such
+everyday experiences convince us that both the
+force and its coverage area are important. Smaller
+the area on which the force acts, greater is the
+impact. This impact is known as pressure.
+
+When an object is submerged in a ﬂuid at
+rest, the ﬂuid exerts a force on its surface. This
+force is always normal to the object’s surface.
+This is so because if there were a component of
+force parallel to the surface, the object will also
+exert a force on the ﬂuid parallel to it; as a
+consequence of Newton’s third law. This force
+will cause the ﬂuid to ﬂow parallel to the surface.
+Since the ﬂuid is at rest, this cannot happen.
+Hence, the force exerted by the ﬂuid at rest has
+to be perpendicular to the surface in contact
+with it. This is shown in Fig. 10.1(a).
+
+The normal force exerted by the ﬂuid at a point
+may be measured. An idealised form of one such
+pressure-measuring device is shown in Fig.
+10. 1 (b). It consists of an evacuated chamber with
+a spring that is calibrated to measure the force
+acting on the piston. This device is placed at a
+point inside the ﬂuid. The inward force exerted
+by the ﬂuid on the piston is balanced by the
+outward spring force and is thereby measured.
+
+ 
+
+(a) [b]
+
+Fig. 10.1 (a) The force exerted by the liquid in the
+beaker on the submerged object or on the
+walls is normal (perpendicular) to the
+surface at all points.
+
+(b) An idealised device for measuring
+pressure.
+
+If Fis the magnitude of this normal force on the
+piston of area A then the average pressure Pay
+is defined as the normal force acting per unit
+area.
+
+F
+P :—
+
+an A (10.1)
+
+In principle, the piston area can be made
+arbitrarily small. The pressure is then defined
+in a limiting sense as
+
+lim AF
+
+Pressure is a scalar quantity. We remind the
+reader that it is the component of the force
+normal to the area under consideration and not
+the (vector) force that appears in the numerator
+in Eqs. (10.1) and (10.2). Its dimensions are
+[ML—1T2]. The S1 unit of pressure is N m‘2. It has
+been named as pascal (Pa) in honour of the
+French scientist Blaise Pascal (1623- 1662) who
+carried out pioneering studies on ﬂuid pressure.
+A common unit of pressure is the atmosphere
+(atm), i.e. the pressure exerted by the
+atmosphere at sea level (1 atm = 1.013 x 105 Pa).
+
+Another quantity, that is indispensable in
+describing ﬂuids, is the density p. For a ﬂuid of
+mass m occupying volume V,
+
+—2- now
+p—V -
+
+The dimensions of density are [ML—3]. Its SI
+unit is kg m‘3. It is a positive scalar quantity. A
+liquid is largely incompressible and its density
+is therefore, nearly constant at all pressures.
+Gases, on the other hand exhibit a large
+variation in densities with pressure.
+
+The density of water at 4°C (277 K) is
+1.0 x 103 kg m‘3. The relative density of a
+substance is the ratio of its density to the
+density of water at 4°C. It is a dimensionless
+positive scalar quantity. For example the relative
+density of aluminium is 2.7. Its density is
+2.7 x 103 kg m‘3. The densities of some common
+ﬂuids are displayed in Table 10.1.
+
+Table 10.1 Densities of some common ﬂuids
+at STP*
+
+Water 1.00 x 103
+Sea water 1.03 x 103
+
+Mercury 13.6 x 103
+Ethyl alcohol
+
+0.806 X 103
+Whole blood 1.06 x 103
+
+Air 1.29
+Oxygen 1.43
+
+Hydrogen 9.0 x 10'2
+Interstellar space z 10'20
+
+ 
+
+* STP means standard temperature (00C) and 1 atm pressure.
+
+2019-20

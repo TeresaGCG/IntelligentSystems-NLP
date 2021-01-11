@@ -1,0 +1,58 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+(Glu) by Valine (Val) at the sixth position of the beta globin chain of the
+haemoglobin molecule. The substitution of amino acid in the globin
+protein results due to the single base substitution at the sixth codon of
+the beta globin gene from GAG to GUG. The mutant haemoglobin molecule
+undergoes polymerisation under low oxygen tension causing the change
+in the shape of the RBC from biconcave disc to elongated sickle like
+structure (Figure 5. 1 5).
+
+Phenylketonuria : This inborn error of metabolism is also inherited as
+the autosomal recessive trait. The affected individual lacks an enzyme
+that converts the amino acid phenylalanine into tyrosine. As a result of
+this phenylalanine is accumulated and converted into phenylpyruvic acid
+and other derivatives. Accumulation of these in brain results in mental
+retardation. These are also excreted through urine because of its poor
+absorption by kidney.
+
+Thalassemia : This is also an autosome-linked recessive blood disease
+transmitted from parents to the offspring when both the partners are
+unaffected carrier for the gene (or heterozygous). The defect could be due
+to either mutation or deletion which ultimately results in reduced rate of
+synthesis of one of the globin chains (0L and B chains) that make up
+haemoglobin. This causes the formation of abnormal haemoglobin
+molecules resulting into anaemia which is characteristic of the disease.
+’Ihalassemia can be classiﬁed according to which chain of the haemoglobin
+molecule is affected. In 0c Thalassemia, production of Of globin chain is
+affected while in B Thalassemia, production of B globin chain is affected.
+0c Thalassemia is controlled by two closely linked genes HBAl and HBA2
+on chromosome 1 6 of each parent and it is observed due to mutation or
+deletion of one or more of the four genes. The more genes affected, the
+less alpha globin molecules produced. While B Thalassemia is controlled
+by a single gene HBB on chromosome 1 1 of each parent and occurs due
+to mutation of one or both the genes. Thalassemia differs from sickle-cell
+anaemia in that the former is a quantitative problem of synthesising too
+few globin molecules while the latter is a qualitative problem of
+synthesising an incorrectly functioning globin.
+
+5.8.3 Chromosomal Disorders
+
+The chromosomal disorders on the other hand are caused due to absence
+or excess or abnormal arrangement of one or more chromosomes.
+
+Failure of segregation of chromatids during cell division cycle results
+in the gain or loss of a chromosome(s), called aneuploidy. For example,
+Down’s syndrome results in the gain of extra copy of chromosome 21.
+Similarly, Turner’s syndrome results due to loss of an X chromosome in
+human females. Failure of cytokinesis after telophase stage of cell division
+results in an increase in a whole set of chromosomes in an organism and,
+this phenomenon is known as polyploidy. This condition is often seen in
+plants.
+
+The total number of chromosomes in a normal human cell is 46
+(23 pairs). Out of these 22 pairs are autosomes and one pair of
+chromosomes are sex chromosome. Sometimes, though rarely, either an
+additional copy of a chromosome may be included in an individual or an
+
+2019-2020

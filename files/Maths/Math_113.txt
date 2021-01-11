@@ -1,0 +1,27 @@
+Expressions and Equations
+113
+Example 2
+Solve the equation: x+ 8 = −5
+Solution: Subtract 8 from both sides and simplify:
+x+ 8 = −5
+Subtract 8 from both sides x+ 8 − 8 = −5 − 8 
+Simplify x = −13
+Let’s check our work.
+Substitute x = −13  into the original equation.
+Is−13+ 8 equal to −5? Yes.
+Transforming equations using addition and subtraction is just the
+beginning. We can also transform equations using multiplication and di-
+vision. You will need to transform equations using multiplication and
+division whenever the coefficient in front of the variable is any number
+other than 1. Remember that the goal is to get the variable by itself so
+that the equation explicitly states what the variable is equal to.
+Transformation Original Transformation New Equation
+Equation
+Multiply each Multiply both
+side of the sides of the
+equation by the equation by 2 x= 16
+same number and simplify
+Divide each side 3x = 15 Divide both sides
+of the equation of the equation
+by the same by 3 and simplify x= 5
+number

@@ -1,0 +1,52 @@
+202 Accountancy
+
+Suspense A/c Dr. 1 ,000
+To Purchases A/c 1,000
+
+6. 6.3 Rectiﬁcation of Errors in the Next Accounting Year
+
+If some errors committed during an accounting year are not located and
+rectified before the finalisation of ﬁnancial statements, suspense account
+cannot be closed and its balance will be carried forward to the next accounting
+period. When the errors committed in one accounting year are located and
+rectified in the next accounting year, profit and loss adjustment account is
+debited or credited in place of accounts of expenses/losses and incomes/
+gains in order to avoid impact on the income statement of next accounting
+period. You will learn about this aspect at an advanced stage of your studies
+in accounting.
+
+Box 1
+
+Guiding Principles of Rectiﬁcation of Errors
+
+If error is committed in books of original entry then assume all postings are
+done accordingly.
+
+If error is at the posting stage then assume that recording in the subsidiary
+books has been correctly done.
+
+If error is in posting to a wrong account [without mentioning side and amount of
+posting] then assume that posting has been done on the right side and with the
+right amount.
+
+If posting is done to a correct account but with wrong amount [without mentioning
+side of posting) then assume that posting has been done on the correct side.
+
+If error is posting to a wrong account on the wrong side (without mentioning
+amount of posting) then assume that posting has been done with the amount as
+per the original recording of the transaction.
+
+If error is of posting to a wrong account with wrong amount [without mentioning
+the side of posting] then assume that posting has been done on the right side.
+
+If posting is done to a correct account on the wrong side (without mentioning
+amount of posting] then assume that posting has been done with correct amount
+as per original recording.
+
+Any error in posting of individual transactions in subsidiaries books relates to
+individual account only, the sales account, purchase account, sales return
+account or purchases return account are not involved.
+
+ 
+
+2019-2020

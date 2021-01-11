@@ -1,0 +1,56 @@
+1 22 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Illustration 25
+
+AIjun Plastics Limited redeemed 1,000, 15% debentures of Rs 100 each by
+converting them into equity shares of Rs 10 each at a premium of Rs 2.50 per
+share. The company also redeemed 500 debentures by utilising Rs 50,000 out
+of proﬁt. Give the necessary journal entries.
+
+Solution:
+
+Books of Arjun Plastic Limted
+Journal
+
+_.
+
+Statement of Proﬁt and Loss
+
+To Debenture Redemption Reserve A/c
+(Transfer of proﬁt to Debenture Redemption
+Reserve)
+
+Debenture Redemption Investment A/c
+To Bank A/c
+(Required amount invested in DRI)
+
+1 5% Debentures A/c . 1,00,000
+To Debentureholders A/c 1.00.000
+(Amount due to debentureholders)
+
+Debentureholders A/c . 1.00.000
+To Equity Shares Capital A/c
+To Securities Premium Reserve A/c
+
+(Issue of 800 equity shares at a premium of Rs
+
+2.50 per share)
+
+Bank A/c Dr.
+
+To Debenture Redemption Investment A/c
+(DRI encashed at the time of redemption of
+debentures)
+
+Debenture A/c
+To Debentureholders A/c
+(Amount due to debentureholders)
+
+Debentureholders A/c
+To Bank A/c
+(Payment to debentureholders)
+
+Debenture Redemption Reserve A/c
+To General Reserve
+(Debenture Redemption Reserve transferred
+to General Reserve on redemption of Debentures)

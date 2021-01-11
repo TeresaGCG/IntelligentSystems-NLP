@@ -1,0 +1,45 @@
+434 Chapter 6 Enhancing Performance with Plpellnlng
+There are two primary and distinct responsibilities that must be dealt with in a
+multiple-issue pipeline:
+issue slots The positions from I. Packaging instructions into issue slots: How does the processor determine
+which instructions could issue how many instructions and which instructions can be issued in a given
+in a given clock cycle; by analogy
+clock cycle? In most static issue processors, this process is at least partially
+these correspond to positions at
+handled by the compiler; in dynamic issue designs, it is normally dealt with
+the starting blocks for a sprint.
+at runtime by the processor, although the compiler will often have already
+tried to help improve the issue rate by placing the instructions in a benefi 
+cial order.
+2. Dealing with data and control hazards: In static issue processors, some or
+all of the consequences of data and control hazards are handled statically by
+the compiler. In contrast, most dynamic issue processors attempt to allevi 
+ate at least some classes of hazards using hardware techniques operating at
+execution time.
+Although we describe these as distinct approaches, in reality techniques from one
+approach are often borrowed by the other, and neither approach can claim to be
+perfectly pure.
+The Concept of Speculation
+One of the most important methods for finding and exploiting more ILP is specu 
+speculation An approach lation. Speculation is an approach that allows the compiler or the processor to
+whereby the compiler or proces  "guess" about the properties of an instruction, so as to enable execution to begin
+sor guesses the outcome of an
+for other instructions that may depend on the speculated instruction. For exa m 
+instruction to remove it as a
+ple, we might speculate on the outcome of a branch, so that instructions after the
+dependence in executing other
+branch could be executed earlier. Or, we might speculate that a store that precedes
+instructions.
+a load does not refer to the same address, which would allow the load to be exe 
+cuted before the store. The difficulty with speculation is that it may be wrong. So,
+any speculation mechanism must include both a method to check if the guess was
+right and a method to unroll or back out the effects of the instructions that were
+executed speculatively. The implementation of this back-out capability adds com 
+plexity to any processor supporting speculation.
+Speculation may be done in the com piler or by the hardwa re. For example, the
+compiler can use speculation to reorder instructions, moving an instruction
+across a branch or a load across a store. The processor hardware ca n perform the
+sa me transformation at runtime using techniques we discuss later in this section.
+The recovery mechanisms used for incorrect speculation are rather different. In
+the case of speculation in software, the compiler usually inserts additional instruc 
+tions that check the accuracy of the speculation and provide a fix-up routine to

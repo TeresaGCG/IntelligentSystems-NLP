@@ -1,0 +1,96 @@
+Equation (2.8) is true for any
+sign of the charge Q, though we
+considered Q > O in its derivation.
+For Q < O, V< O, i.e., work done (by
+the external force) per unit positive
+test charge in bringing it from
+inﬁnity to the point is negative. This
+is equivalent to saying that work
+done by the electrostatic force in
+bringing the unit positive charge
+form infinity to the point P is
+positive. [This is as it should be,
+since for Q < O, the force on a unit
+positive test charge is attractive, so
+that the electrostatic force and the
+displacement (from inﬁnity to P) are
+in the same direction.] Finally, we
+note that Eq. (2.8) is consistent with
+the choice that potential at infinity
+be zero.
+
+ 
+
+ 
+
+Electrostatic Potential
+and Capacitance
+
+ 
+
+5 : I I I I I I I I
+
+l —1/r
+* l/r2-
+
+ 
+
+ 
+
+ 
+
+0 0.5 l 1.5 2 2.5 3 3.5 4 4.5 5
+
+FIGURE 2.4 Variation of potential V with r [in units of
+(Q/47I80) rn 1] (blue curve) and field with r [in units
+of (Q/47IEU) m2] (black curve) for a point charge Q.
+
+Figure (2.4) shows how the electrostatic potential (0: 1 / r) and the
+electrostatic field (o< l / r2 ) varies with r.
+
+Example 2. 1
+
+(a) Calculate the potential at a point P due to a charge of 4 X 10‘7C
+
+located 9 cm away.
+
+(b) Hence obtain the work done in bringing a charge of 2 X 10-9 C
+from infinity to the point P. Does the answer depend on the path
+along which the charge is brought?
+
+ 
+
+Solution
+(a) V: 1 9=9x109Nm2 0‘2 x
+4:71:80 r
+= 4 x 104v
+
+(b) W=qV=2 x 10% x4x 104v
+
+= 8 x 105.]
+
+No, work done will be path independent. Any arbitrary infinitesimal
+path can be resolved into two perpendicular displacements: One along
+1‘ and another perpendicular to r. The work done corresponding to
+
+the later will be zero.
+
+4x10'7C
+
+0.09m
+
+I 'z EI’IJWVXEI
+
+2.4 POTENTIAL DUE To AN ELECTRIC DIPOLE
+
+As we learnt in the last chapter, an electric dipole consists of two charges
+q and —q separated by a (small) distance 2a. Its total charge is zero. It is
+characterised by a dipole moment vector p whose magnitude is q X 2a
+and which points in the direction from —q to q (Fig. 2.5). We also saw that
+the electric field of a dipole at a point with position vector r depends not
+
+just on the magnitude r, but also on the angle between 1' and p. Further,
+
+55
+
+2019-20

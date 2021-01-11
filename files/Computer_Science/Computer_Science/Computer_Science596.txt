@@ -1,0 +1,30 @@
+580 Chapter 8
+Check
+Which of the following are true about dependability?
+Yourself
+I. If :l system is up, then all its components are accomplishing their expected
+service.
+2. Availability is a quantitative measure of the percentage of time a system is
+accomplishing its expected service.
+3. Reliability is a quantitative measure of continuous service accomplishment
+by a system.
+4. The major source of outages today is software.
+\Vhich of the following are true about RAID levels 1,3, 4, 5, and 6?
+I. RAID systems rely on redundancy to achieve high ava ilability.
+2. RAID 1 (mirroring) has the highest check disk overhead.
+3. For small writes, RAID 3 (bit-interleaved parity) has the worst throughput.
+4. For large writes, RAID 3, 4, and 5 have the same throughput.
+Elaboration: One issue is how mirroring interacts with striping. Suppose you had,
+say, four disks worth of data to store and eight physical disks to use. Would you create
+four pairs of disks-each organized as RAID 1-and then stripe data across the four
+RAID 1 pairs? Alternatively, would you create two sets offour disks-each organized as
+RAID o-and then mirror writes to both RAID 0 sets? The RAID terminology has evolved
+to call the former RAID 1 + 0 or RAID 10 ("striped mirrors") and the latter RAID 0 + 1 or
+RAID 01 ("mirrored stripes").
+Networks
+Networks are growing in popularity over time, and unlike other I/O devices, there
+are many books and courses on them. For readers who have not taken courses or
+read books on networking, Section 8.3 on the " CD gives a quick overview of the
+topics and terminology, including internetworking, the OS! model, protocol fam 
+ilies such as TCPIlP, long-haul networks such as ATM , local area networks such as
+Ethernet, and wireless networks such as IEEE 802.11.

@@ -1,0 +1,38 @@
+250 Chapter 4 Assessing and Understanding Performance
+BIG
+Figure 4.2 shows the basic measurements at different levels in the computer
+The
+and what is being measured in each case. We can see how these factors are
+Picture combined to yield execution time measu red in seconds per program:
+" Seconds Instructions Clock cycles -,;S"""o"n,d~',""
+Tline = = X - x-;.
+Program Program Instruction Clock cycle
+Always bear in mind that the only complete and reliable measure of
+computer performance is time. For example, changing the instruction set
+to lower the instruction count may lead to an organization with a slower
+clock cycle time that offsets the improvement in instruction count. Simi 
+larly, because CPI depends on type of instructions executed, the code that
+executes the fewest number of instructions may not be the fastest.
+Components of performance Units of measure
+CPU execution time for a program Se<:onds for the program
+Instruction count Instructions eXe<:uted for the program
+Clock cycles per instruction (CPI) Average number of clock cycles per instruction
+Clock cycle time Se<:onds per clock cycle
+FIGURE 4.2 The basic components of performance and how each Is measured.
+on the architecture, but not on the exact implementation, we can measure the
+instruction count without knowing all the details of the implementation. The
+CPI, however, depends on a wide variety of design details in the computer, includ 
+ing both the memory system and the processor structure (as we will see in Chap 
+ters 5, 6, and 7), as well as on the mix of instruction types executed in an
+application. Thus, CPI varies by application, as well as among implementations
+with the same instruction set.
+Designers often obtain CPI by a detailed simulation of an implementation or by
+using hardware counters, when a CPU is operational. Sometimes it is possible to com 
+pute the CPU clock cycles by looking at the different types of instructions and using
+their individual clock cycle counts. In cases, the following formula is useful:
+SUdl
+L
+"
+CPU clock cycles = (CPI XCi)
+i
+; '" I

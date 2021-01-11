@@ -1,0 +1,109 @@
+66
+
+PHYSICS
+
+just as the ordinary numbers*. For example,
+if the length and breadth of a rectangle are
+1.0 m and 0.5 m respectively, then its
+perimeter is the sum of the lengths of the
+four sides, 1.0 m + 0.5 m +1.0 m + 0.5 m =
+3.0 m. The length of each side is a scalar
+and the perimeter is also a scalar. Take
+another example: the maximum and
+minimum temperatures on a particular day
+are 35.6 °C and 24.2 °C respectively. Then,
+the difference between the two temperatures
+is 1 1.4 °C. Similarly, if a uniform solid cube
+of aluminium of side 10 cm has a mass of
+2.7 kg, then its volume is 10'3 m3 (a scalar)
+and its density is 2.7x103 kg m'3 (a scalar).
+
+A vector quantity is a quantity that has both
+a magnitude and a direction and obeys the
+triangle law of addition or equivalently the
+parallelogram law of addition. So, a vector is
+specified by giving its magnitude by a number
+and its direction. Some physical quantities that
+are represented by vectors are displacement,
+velocity, acceleration and force.
+
+To represent a vector, we use a bold face type
+in this book. Thus, a velocity vector can be
+represented by a symbol v. Since bold face is
+difficult to produce, when written by hand, a
+vector is often represented by an arrow placed
+over a letter, say U. Thus, both v and U
+represent the velocity vector. The magnitude of
+a vector is often called its absolute value,
+indicated by |v| = v. Thus, a vector is
+represented by a bold face, e.g. byA, a, p, q, r,
+x, y, with respective magnitudes denoted by light
+face A, a, p, q, r, x, y.
+
+4.2. 1 Position and Displacement Vectors
+
+To describe the position of an object moving in
+a plane, we need to choose a convenient point,
+say 0 as origin. Let P and P’ be the positions of
+the object at time tand t’, respectively [Fig. 4. 1(a)].
+We join 0 and P by a straight line. Then, OP is
+the position vector of the object at time t. An
+arrow is marked at the head of this line. It is
+represented by a symbol r, i.e. OP = r. Point P’ is
+
+represented by another position vector, OP’
+denoted by r’. The length of the vector r
+represents the magnitude of the vector and its
+direction is the direction in which P lies as seen
+from 0. If the object moves from P to P’, the
+vector PP’ (with tail at P and tip at P’) is called
+the displacement vector corresponding to
+motion from point P (at time t) to point P’ (at time t’).
+
+   
+
+(b)
+
+Fig. 4.1 [a] Position and displacement vectors.
+(b) Displacement vector P9 and different
+
+courses of motion.
+
+It is important to note that displacement
+vector is the straight line joining the initial and
+final positions and does not depend on the actual
+path undertaken by the object between the two
+positions. For example, in Fig. 4.1(b), given the
+initial and final positions as P and Q, the
+displacement vector is the same PQ for different
+paths of journey, say PABCQ, PDQ, and PBEFQ.
+Therefore, the magnitude of displacement is
+either less or equal to the path length of an
+object between two points. This fact was
+emphasised in the previous chapter also while
+discussing motion along a straight line.
+
+4.2.2 Equality of Vectors
+
+Two vectors A and B are said to be equal if, and
+only if, they have the same magnitude and the
+same direction.**
+
+Figure 4.2(a) shows two equal vectors A and
+B. We can easily check their equality. Shift B
+parallel to itself until its tail Q coincides with that
+of A, i.e. Q coincides with 0. Then, since their
+tips S and P also coincide, the two vectors are
+said to be equal. In general, equality is indicated
+
+* Addition and subtraction of scalars make sense only for quantities with same units. However, you can multiply
+
+and divide scalars of different units.
+
+** In our study, vectors do not have ﬁxed locations. So displacing a vector parallel to itself leaves the vector
+
+unchanged. Such vectors are called free vectors. However, in some physical applications, location or line of
+
+application of a vector is important. Such vectors are called localised vectors.
+
+2019-20

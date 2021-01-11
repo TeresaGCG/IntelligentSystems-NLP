@@ -1,0 +1,70 @@
+440
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+atomic electrons is thus (—Ze), and since the atom is neutral, the charge
+of the nucleus is (+Ze). The number of protons in the nucleus of the atom
+is, therefore, exactly Z, the atomic number.
+
+Discovery of Neutron
+
+Since the nuclei of deuterium and tritium are isotopes of hydrogen, they
+must contain only one proton each. But the masses of the nuclei of
+hydrogen, deuterium and tritium are in the ratio of 1:2:3. Therefore, the
+nuclei of deuterium and tritium must contain, in addition to a proton,
+some neutral matter. The amount of neutral matter present in the nuclei
+of these isotopes, expressed in units of mass of a proton, is approximately
+equal to one and two, respectively. This fact indicates that the nuclei of
+atoms contain, in addition to protons, neutral matter in multiples of a
+basic unit. This hypothesis was verified in 1932 by James Chadwick
+who observed emission of neutral radiation when beryllium nuclei were
+bombarded with alpha-particles (oz-particles are helium nuclei, to be
+discussed in a later section). It was found that this neutral radiation
+could knock out protons from light nuclei such as those of helium, carbon
+and nitrogen. The only neutral radiation known at that time was photons
+(electromagnetic radiation). Application of the principles of conservation
+of energy and momentum showed that if the neutral radiation consisted
+of photons, the energy of photons would have to be much higher than is
+available from the bombardment of beryllium nuclei with a-particles.
+The clue to this puzzle, which Chadwick satisfactorily solved, was to
+assume that the neutral radiation consists of a new type of neutral
+particles called neutrons. From conservation of energy and momentum,
+he was able to determine the mass of new particle ‘as very nearly the
+same as mass of proton’.
+
+The mass of a neutron is now known to a high degree of accuracy. It is
+
+mn = 1.00866 u = 1.6749X10‘27 kg (13.3)
+
+Chadwick was awarded the 1935 Nobel Prize in Physics for his
+discovery of the neutron.
+
+A free neutron, unlike a free proton, is unstable. It decays into a
+proton, an electron and a antineutrino (another elementary particle), and
+has a mean life of about 1000s. It is, however, stable inside the nucleus.
+
+The composition of a nucleus can now be described using the following
+terms and symbols:
+
+Z - atomic number = number of protons [13.4(a)]
+N - neutron number = number of neutrons [13.4(b)]
+
+A- mass number=Z+N
+
+= total number of protons and neutrons [13.4(c)]
+
+One also uses the term nucleon for a proton or a neutron. Thus the
+number of nucleons in an atom is its mass number A.
+
+Nuclear species or nuclides are shown by the notation ‘Z‘X where X is
+the chemical symbol of the species. For example, the nucleus of gold is
+denoted by 1% Au. It contains 197 nucleons, of which 79 are protons
+and the restl 18 are neutrons.
+
+2019-20

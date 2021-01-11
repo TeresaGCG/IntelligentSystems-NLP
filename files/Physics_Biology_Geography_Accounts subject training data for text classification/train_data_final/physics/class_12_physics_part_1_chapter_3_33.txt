@@ -1,0 +1,43 @@
+Physical Quantity
+
+126
+
+Symbol Dimensions Unit
+
+HT
+
+ 
+
+‘20st TO PONDER
+
+T’Current isEyva‘.t‘s”calar although we represent current with an arrow.
+
+Cuigrenm dammit obey the law of vector addition. That current is a
+scalég’iialsd‘follows from it's deﬁnition. The current I through an area
+of cros“§«s€ction is given by the scalar product of two vectors:
+
+1:” . AS
+
+where j and AS are vectors.
+
+Refer to V-I curves of a resistor and a diode as drawn in the text. A
+resistor obeys Ohm’s law while a diode does not. The assertion that
+V = IR is a statement of Ohm’s law is not true. This equation deﬁnes
+resistance and it may be applied to all conducting devices whether
+they obey Ohm’s law or not. The Ohm's law asserts that the plot of I
+versus Vis linear i.e., R is independent of V.
+
+Equation E = p j leads to another statement of Ohm’s law, i.e., a
+conducting material obeys Ohm’s law when the resistivity of the
+material does not depend on the magnitude and direction of applied
+electric ﬁeld.
+
+Homogeneous conductors like silver or semiconductors like pure
+germanium or germanium containing impurities obey Ohm’s law
+within some range of electric ﬁeld values. If the ﬁeld becomes too
+strong. there are departures from Ohm’s law in all cases.
+
+Motion of conduction electrons in electric ﬁeld E is the sum of (i)
+motion due to random collisions and (ii) that due to E. The motion
+
+2019-20

@@ -1,0 +1,44 @@
+Computers
+Empowering
+in the
+the Disabled
+Real World
+Problem to solve: To overcome the obsta 
+cles faced by disabled people.
+Solution: Use robotics, sensors, and com 
+puter control to replace or supplement dam 
+aged limbs and organs.
+The picture on the right shows a system
+developed for a firefighter who was injured
+while fighting a fire. Sensors in latex fingers
+instantly register hot and cold, and an elec 
+tronic interface in his artificial limb stimulates Firefighter Ken Whitten proudly displays his new
+bionic arm.
+the nerve endings in his upper arm, which
+then pass the information to his brain. The
+bypass the photoreceptors of the eye with a
+$3000 system allows his hand to feel pressure
+signal from a digital camera that connects
+and weight, so for the first time since losing
+directly to the visual system. They are devel 
+his arms in a 1986 accident, he can pick up a
+oping a neural interface to the visual system
+can of soda without crushing it or having it
+called the artificial synapse chip. The chal 
+slip through his fingers. The main enabling
+lenge is to turn electrical signals into the
+device is an electronic interface that can trans 
+chemicals that cells use to communicate. This
+mit signals to nerve endings in Whitten's chip is attached to cells, and from the cell's
+upper arm, which then pass this information
+perspective the artificial synapse is simply a
+to his brain.
+hole in the silicon. This hole is connected to a
+Harvey Fishman and Mark Peterman of
+reservoir of neurotransmitter. When an elec 
+Stanford have taken steps towards informa 
+tric field is applied to the ch ip, the neu 
+tion technology that might someday treat
+rotransmitter is pumped through the hole,
+age-related blindness. Their approach is to
+stimulating nearby cells. In 2003 they have

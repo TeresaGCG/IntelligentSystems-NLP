@@ -1,0 +1,39 @@
+210 Chapter 3 Arithmetic: for Computers
+They are then divided to get the fraction 5.0/9.0:
+div . s H1 6 . Ifl6 . HIB II I fl6 ~ 5 . 0 / 9 . 0
+( Many compilers would divide 5.0 by 9.0 at compile time and save the single
+constant 5.0/9.0 in memory, thereby avoiding the divide at runtime.) Next we
+load the constant 32.0 and then subtract it from fa hr ($ f 12):
+lwei $f18, cons t32 ( $gp ) # $f18 32 . 0
+=
+sub . s $f18, $f12, $f18 # $f18 fahr - 32 . 0
+=
+Finally, we multiply the two intermediate results, placing the product in $fO
+as the return result, and then return:
+mul . s HO . H1 6 , $fIB It $fO (5/9l * (fahr - 32 . 0)
+=
+J r $ ra It return
+Now let's perform floating-point operations on matrices, code commonly
+found in scientific programs.
+Compiling F1oating·Point C Procedure with Two-Dimensional
+Matrices into MIPS
+Most floating-point calculations are performed in double precision. Let's per 
+EXAMPLE
++
+form matrix multiply of X = X Y ~ Z. Let's assume X, Y, and Z are all square
+matrices with 32 elements in each dimension.
+void mm (double x[][] , double double z[][] )
+y[][] ,
+I
+int 1 , j , k;
+,
+.
+f or ( i - 0 ; 1., - 32 ; 1 - 1 + 11
+.
+f or ( j - 0 ; J . - 32 ; J - J + 11
+f or ( k - 0 ; k ! - 32 ; k - k + 11
+x[iHj] - xl i Hj] + y[i Hk] * z[kHj] ;
+}
+The array starting addresses are parameters, so they are in $aO, $al, and
+$a 2. Assume that the integer variables are in $s 0, $s 1, and $s 2, respectively.
+What is the MIPS assembly code for the body of the procedure?

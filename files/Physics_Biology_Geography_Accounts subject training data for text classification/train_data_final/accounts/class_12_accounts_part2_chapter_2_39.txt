@@ -1,0 +1,46 @@
+Issue and Redemption of Debentures 1 1 1
+
+Illustration 1 9
+
+Give the necessary journal entries at the time of redemption of debentures in
+each of the following cases.
+
+1. X Ltd. issued 5,000, 9% debentures of Rs 100 each at par and
+redeemable at par at the end of 5 years out of capital.
+
+2. X Ltd. issued 1,000, 12% debentures of Rs 100 each at par. These
+debentures are redeemable at 10% premium at the end of 4 years
+
+3. X Ltd. issued 12% debentures of the total face value of Rs 1 ,00,000 at
+premium of 5% to be redeemed at par at the end of 4 years
+
+4. X Ltd. issued Rs 1,00,000, 12% debentures at a discount of 5% but
+redeemable at a premium of 5% at the end of 5 years
+
+Solution:
+
+Journal
+
+1—.
+
+9% Debentures A/c 5,00,000
+To Debentureholders A/c 5,00,000
+(Amount due on redemption debentures)
+
+Debentureholders A/c
+To Bank A/c 5,00,000
+(Payment made to debentureholders)
+
+1 2% Debentures A/c . 1 ,00,000
+
+Premium on Redemption of Debentures A/c . 10,000
+To Debentureholders 1 , 10,000
+(Amount due on redemption of debentures)
+
+Debentureholders A/c . 1 , 10,000
+To Bank A/c 1.10.000
+(Payment made to debentureholders)
+
+12% Debentures A/c . 1 ,00,000
+To Debentureholders A/c 1 ,00,000
+[Amount due on redemption)

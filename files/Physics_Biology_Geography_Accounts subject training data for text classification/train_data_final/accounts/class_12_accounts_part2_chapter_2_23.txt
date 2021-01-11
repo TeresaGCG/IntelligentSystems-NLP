@@ -1,0 +1,43 @@
+Issue and Redemption of Debentures 95
+
+1. Issue at par and redeemable at par
+(a) Bank A/c Dr.
+To Debenture Application & Allotment A/c
+(Receipt of application money)
+(b) Debenture Application & Allotment A/c Dr.
+To Debentures A/c
+(Allotment of debentures)
+
+2. Issue at a discount and redeemable at par
+
+(a) Bank A/c Dr.
+To Debenture Application & Allotment A/c
+(Receipt of application money)
+(b) Debenture Application & Allotment A/c Dr.
+Discount on Issue of Debentures A/c Dr.
+To Debentures A/c
+(Allotment of debentures at a discount)
+
+3. Issue at premium and redemption at par
+
+(a) Bank A/c Dr.
+To Debenture Application & Allotment A/c
+[Receipt of application money)
+(b) Debenture Application & Allotment A/c Dr.
+To Debentures A/c
+To Securities Premium Reserve A/ c
+[Allotment of debentures at a premium)
+
+4. Issue at par and redeemable at premium
+(a) Bank A/c Dr.
+To Debenture Application & Allotment A/c
+(Receipt of application money)
+
+(b) Debenture Application & Allotment A/c Dr.
+Loss on Issue of Debentures A/c Dr. (with premium on redemption)
+To Debentures A/c (with nominal value of debenture)
+To Premium on Redemption (with premium on redemption)
+of Debenture A/c
+
+(Allotment of debentures at par and
+redeemade at a premium)

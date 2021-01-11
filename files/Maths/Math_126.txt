@@ -1,0 +1,17 @@
+Homework Helpers: Basic Math and Pre-Algebra
+126
+Divide both sides by 10 
+Simplify. Because the denominator is 10,
+writing the answer as a
+decimal number is natural. x= 2.1
+Example 3
+At the local print shop, 25 copies cost $1.50. At this rate, how
+much would 60 copies cost?
+Solution: Set up a proportion. Let x represent that cost of 60
+copies. Then 60 is to x as 25 is to $1.50. This can be translated into
+a proportion:
+Now it is a matter of cross-multiplying and solving for x:
+Money is always given as a decimal. In order to get a decimal
+representation for this answer we will need to divide:
+So, 60 copies will cost $3.60.
+www.ebook3000.com

@@ -1,0 +1,38 @@
+Chapter Two
+
+ELECTROSTATIC
+POTENTIAL AND
+CAPACITANCE
+
+ 
+
+ 
+
+ 
+
+2. 1 INTRODUCTION
+
+In Chapters 6 and 8 (Class XI), the notion of potential energy was
+introduced. When an external force does work in taking a body from a
+point to another against a force like spring force or gravitational force,
+that work gets stored as potential energy of the body. When the external
+force is removed, the body moves, gaining kinetic energy and losing
+an equal amount of potential energy. The sum of kinetic and
+potential energies is thus conserved. Forces of this kind are called
+conservative forces. Spring force and gravitational force are examples of
+conservative forces.
+
+Coulomb force between two (stationary) charges is also a conservative
+force. This is not surprising, since both have inverse-square dependence
+on distance and differ mainly in the proportionality constants — the
+masses in the gravitational law are replaced by charges in Coulomb’s
+law. Thus, like the potential energy of a mass in a gravitational
+field, we can deﬁne electrostatic potential energy of a charge in an
+electrostatic field.
+
+Consider an electrostatic field E due to some charge configuration.
+First, for simplicity, consider the field E due to a charge Q placed at the
+origin. Now, imagine that we bring a test charge q from a point R to a
+point P against the repulsive force on it due to the charge Q. With reference
+
+2019-20

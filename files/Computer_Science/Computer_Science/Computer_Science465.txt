@@ -1,0 +1,46 @@
+•••
+6.10 Real Stuff: The Pentium 4 Pipeline
+Instruction prefetch
+and decode
+Branch
+prediction
+Trace cache
+Microoperation queue
+Register file
+Dispatch and register remaining
+I I I
+Integer and floating-point operation queue Memory operation queue
+I I I I I I
+Complex Floating
+Integer Integer Load Store
+instruction point
+I
+Commit
+unit
+Data
+cache
+FtGURE 6.50 The mlcroarchltecture of the Intel Pentium 4. The extensive queues allow up to 126 microoperations to be outstanding at
+any point in time, including 48 loads and 24 stores. There are actually seven functional units, since the FP unit includes a separate dedicated lUlit for
+floating-point moves. The load and store units are actually separated into two p.uts, with the first part handling address calculation and the second
+part responsible for the actual memory reference. The integer ALUs operate at twice the clock frequency, allowing two integer ALU operations to be
+completed by each of the two imeger units in a single clock cycle. As we described in Chapter 5, the Pentium 4 uses a special cache, called the trace
+cache, to hold predecoded sequences of microoperations, corresponding to IA-32 instructions. The operation of a trace cache is explained in more
+detail in Chapter 7. The FP unit also handles the MMX multimedia and SSE2 instructions. There is an extensive bypass network among the functional
+units; since the pipeline is dynamic rather than static, bypassing is done by tagging results and tracking source operands, so as to allow a match when a
+result is produced for an instruction in one ofthe queuesthat net'ds the result. Intel is expected to release newversions ofthe Pentium 4 in 2004, which
+will probably have changes in the microorchitecture.
+-
+~r='-~~::~B-I ,~~
+-
+~-I=ill-
+rg =rn- =rn-
+,':;;~' ~
+-
+•
+, , , , ,
+Number 01
+•
+dockcydas
+FtGURE 6.51 The Pentium 4 pipeline showing the pipeline flow for a typical Instruction
+and the number of clock cycles for the major steps In the pipeline. The major buffers where
+instructions wait are also shown.

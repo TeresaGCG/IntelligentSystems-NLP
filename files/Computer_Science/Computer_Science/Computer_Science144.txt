@@ -1,0 +1,48 @@
+128 Chapter 2 Instructions: Language of the Computer
+Saving registers
+sort: addi Ssp, Ssp. 20 Ii make room OJ) stad f or 5 reg1 sters
+" Sra.16($sp ) If save $fa on stack
+" Ss3.12(Sspl Ii save $53 on stack
+" $52.80sp) Ii save $52 on stack
+" Ssl. 4 ($sp) If save $sl on stack
+" $50. D($sp) It save $sO on stack
+Procedure body
+move $52. SaO Heopy parameter SaO i nto $52 (save SaO)
+Move parameters
+move $53. Sal #copyparameter Sal into $53 (save Sal)
+move $50. Szero It i - 0
+Outer loop f or ltst: slt stD. $50. $53 # reg stO - Oif SsOe-: $s3 (1;:.,n)
+be, stD. $zero. exitl #gotoexitl1f $sO<':Ss3 (1;:., n )
+addi Ss1. $50. 1 II j - i 1
+for2tst:s l ti stD. $51. 0 If reg stO - l1f Ssl (0 (j (0)
+boe stD. $zero. exit2 #gotoexit2 1f $sl (0 (j (0)
+;11 stl. $s1. 2 Dreg stl - j *4
+Inner loop .dd H2. $52. Stl Dreg st2 - v + (j * 4)
+" St3.0($t2) It reg st3 - v[ j]
+" st4.4 ( st2) If reg st4 - v[ j + 1]
+;1t sto. st4. st3 If reg stO - Oi f st4;:., st3
+be, stO. Slero. exit2 If go to exit21f st4;:., st3
+move S~O. Ss2 If 1st para met er of swap is v (old S~O)
+Pass parameters
+move Sal. Ssl If 2nd para meter of swap is j
+and call
+If swa p code shown in Figure 2.34
+j" sw~p
+Inner loop ~ddi Ssl.Ssl. 1 If j -- 1
+j for2tst If j ump to t est of inner loop
+Outer loop exi t 2: ~ddi SsO. SsO. 1 1f1+- 1
+j f or1tst If j ump to test of out er loop
+Restoring registers
+exitl: l w SsO.O($sp) If restore SsO f rom st~cI<.
+" Ssl. 4($sp) If restore Ssl f rom st~cI<.
+" Ss2.8($sp) If restore Ss2 f rom st~cI<.
+" Ss3.120sp) If restore Ss3 f rom st~cI<.
+" Sr~ .16( Ssp) If restore Sr~ f rom st~cI<.
+~ddi Ssp. Ssp. 20 If restore st~cI< po1nter
+Procedure return
+jc If return t o c~111 ng rout i ne
+FIGURE 2.36 MIPS assembly version of procedure sort In Figure 2.35 on page 124.
+Elaboration: One optimization that works with this example is procedure inlining,
+mentioned in Section 2.11. Instead of passing arguments in parameters and invoking
+the code with a j a1 instruction, the compiler would copy the code from the body of the
+swap procedure where the call to swap appears in the code. Inlining would avoid four

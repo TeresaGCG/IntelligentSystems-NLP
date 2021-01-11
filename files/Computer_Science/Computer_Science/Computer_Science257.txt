@@ -1,0 +1,39 @@
+4.1 Introduction 241
+implements the instructions, and how well the memory and I/O systems perform.
+Understanding how to determine the performance impact of these fa ctors is cru 
+cial to understa nding the motivation behind the design of particular aspects of the
+computer, as we will see in the chapters that follow.
+The rest of this section describes different ways in which performance can be
+determined. In Section 4.2, we describe the metrics for measuring performance
+from the viewpoint of both a computer user and a designer. We also look at how
+these metrics are related and present the classical processor performance equa 
+tion, which we will use throughout the text. Sections 4.3 and 4.4 describe how best
+to choose benchmarks to evaluate computers and how to accurately summarize
+the performance of a group of programs. Section 4.4 also describes one set of
+commonly used CPU benchmarks and examines measurements for a variety of
+Intel processors using those benchmarks. Finally, in Section 4.5, we'll examine
+some of the many pitfalls that have trapped designers and those who analyze and
+report performance.
+Defining Performance
+When we say one computer has better performance than another, what do we
+mean? Although this question might seem simple, an analogy with passenger air 
+planes shows how subtle the question of performance can be. Figure 4.1 shows
+some typical passenger airplanes, together with their cruising speed, range, and
+capacity. If we wanted to know which of the planes in this table had the best per 
+formance, we would first need to define performance. For example, considering
+different measures of performance, we see that the plane with the highest cruising
+speed is the Concorde, the plane with the longest range is the DC-B, and the plane
+with the largest capacity is the 747.
+Let's suppose we define performance in terms of speed. This still leaves two possi 
+ble definitions. You could define the fastest plane as the one with the highest cruis 
+ing speed, taking a single passenger from one point to another in the least time. If
+you were interested in transporting 450 passengers from one point to another, how-
+Passenger Cruising range Cruising speed Passenger throughput
+Airplane capacity (miles) (m.p.h.) (passengers x m.p.h.)
+Boeing 777 375 4630 610 228,750
+Boeing 747 470 4150 610 286,700
+BAC/Sud Concorde 132 4000 1350 178,200
+Douglas DC-8-50 146 8720 544 79,424
+FIGURE 4.1 The capacity, range, and speed for a number of commercial airplanes. The
+last colwun shows the rate at which the airplane transports passengers, which is the capacity times the
+cruising speed (ignoring range and takeoffand landing times).

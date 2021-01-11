@@ -1,0 +1,52 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 439
+ALU or branch Instruction ,.Data transfer Instruction Clock cycle
+loop: StD. O{ $sl) 1
+~ddi $51. $51. - 4 2
+~ddLl $tO.StO.$s2 3
+$sl. $zero.loop StD. 4{$sl) 4
+FtGURE 6.46 The scheduled code as It would look on a two-lssue MIPS pipeline. The
+empty slots are nops.
+Loop Unrolling for Multiple-lssue Pipelines
+See how well loop unrolling and scheduling work in the example above.
+EXAMPLE
+Assume that the loop index is a multiple of four, for simplicity.
+To schedule the loop without any delays, it out that we need to make
+nirilS
+ANSWER
+four copies of the loop body. After unrolling and eliminating the unnecessary
+loop overhead instructions, the loop will contain four copies each of 1 add,
+W,
+and plus one addi and one bne. Figure 6.47 shows the unrolled and
+SW,
+scheduled code.
+During the unrolling process, the compiler introduced additional registers
+($t 1, $t2, $t3). The goal of this process, called register renaming, is to elim  register renaming The renam 
+ing ofregisters, by the compiler
+inate dependences that are not true data dependences, but could either lead to
+or hardware, to remove antide 
+potential hazards or prevent the compiler from flexibly scheduling the code.
+pendences.
+Consider how the unrolled code would look using only $tO. There would be
+repeated instances of 1W $tO . 0 ( $$ s1 ), addLl $tO. $tO . $s 2 followed by sw
+to.
+4 ($ s1), but these sequences, despite using $tO, are actually completely
+independent- no data values flow between one pair of these instructions and
+the next pair. This is what is called an antidependence or name dependence, antidependence Also called
+name dependence. An order 
+which is an ordering forced purely by the reuse of a name, rather than a real
+ing forced by the reuse ofa
+data dependence.
+name, typically a register, rather
+Renaming the registers during the unrolling process allows the compiler to
+then by a true dependence that
+subsequently move these independent instructions so as to better schedule the
+carries a value between two
+code. The renaming process eliminates the name dependences, while preserv 
+ing the true dependences.
+Notice now that 12 of the 14 instructions in the loop execute as a pair. It
+takes 8 clocks for four loop iterations, or 2 clocks per iteration, which yields a
+CPI of 8/14 = 0.57. Loop unrolling and scheduling with dual issue gave us a
+factor of two improvement, partly from reducing the loop control instructions
+and partly from dual issue execution. The cost of this performance improve 
+ment is using four temporary registers rather than one, as well as a significant
+increase in code size.

@@ -1,0 +1,26 @@
+Homework Helpers: Basic Math and Pre-Algebra
+154
+is the circle at −3. The open ray has an open circle and the closed ray has a
+closed (or filled in) circle. Both of these rays point to the left because we
+are describing points that are less than (or less than or equal to) −3.
+–3
+x< –3
+–3
+x≤ –3
+Figure 8.3
+Figure 8.4 shows an open ray representing the set of real numbers
+greater than 2 and the closed ray representing the set of real numbers
+greater than or equal to 2. Notice that the only difference between these
+two rays is the circle at 2. The open ray has an open circle and the closed
+ray has a closed (or filled in) circle. Both of these rays point to the right
+because we are describing points that are greater than (or greater than or
+equal to) 2.
+2
+x> 2
+2
+x≥ 2
+ Figure 8.4
+In the last section we solved several inequalities and described the
+solution in words. We will take a minute to give a graphical solution to
+those same inequalities.
+www.ebook3000.com

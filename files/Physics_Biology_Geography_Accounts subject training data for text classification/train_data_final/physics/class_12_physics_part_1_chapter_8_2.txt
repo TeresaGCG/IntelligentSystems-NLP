@@ -1,0 +1,108 @@
+Electromagnetic
+VVoves
+
+Now, consider a different surface, which has the same b—oundary. This
+
+is a pot like surface [Fig 8.1(b)] which nowhere touches the current, but
+has its bottom between the capacitor plates; its mouth is the circular
+loop mentioned above. Another such surface is shaped like a tiffin box
+(Without the lid) [Fig 8.1(c)]. On applying Ampere s circuital law to such
+surfaces with the same perimeter, we find that the left hand side of
+Eq. (8. 1) has not changed but the right hand side is zero and not ,uoi,
+since no current passes through the surface of Fig. 8.1(b) and (c). So we
+have a contradiction; calculated one way, there is a magnetic field at a
+point P; calculated another way, the magnetic ﬁeld at P is zero.
+Since the contradiction arises from our use of Ampere’s circuital law,
+this law must be missing something. The missing term must be such
+that one gets the same magnetic field at point P, no matter What surface
+is used.
+
+We can actually guess the missing term by looking carefully at
+Fig. 8.1(c). Is there anything passing through the surface S between the
+plates of the capacitor? Yes, of course, the electric ﬁeld! If the plates of the
+capacitor have an area A, and a total charge Q, the magnitude of the
+electric field E between the plates is (Q/A) /20 (see Eq. 2.4 1). The field is
+perpendicular to the surface S of Fig. 8.1(c). It has the same magnitude
+over the area A of the capacitor plates, and vanishes outside it. So what
+is the electric ﬂux <DE through the surface S ? Using Gauss’s law, it is
+
+_i9 _2
+E=|E|A 80 AA 80 (8.3)
+
+Now if the charge Q on the capacitor plates changes with time, there is a
+current i= (dQ/dt), so that using Eq. (8.3), we have
+
+(1qu _i Q _id_Q
+dt dt 80 dt
+
+ 
+
+ 
+
+This implies that for consistency,
+d<1>E
+8 = ' 8.4
+o ( Cl t j l ( )
+
+This is the missing term in Ampere’s circuital law. If we generalise
+this law by adding to the total current carried by conductors through
+the surface, another term which is so times the rate of change of electric
+ﬂux through the same surface, the total has the same value of current i
+for all surfaces. If this is done, there is no contradiction in the value of B
+obtained anywhere using the generalised Ampere’s law. B at the point P
+is non-zero no matter which surface is used for calculating it. B at a
+point P outside the plates [Fig 8.1(a)] is the same as at a point M just
+inside, as it should be. The current carried by conductors due to ﬂow of
+charges is called conduction current. The current, given by Eq. (8.4), is a
+new term, and is due to changing electric field (or electric displacement,
+an old term still used sometimes). It is, therefore, called displacement
+current or Maxwell’s displacement current. Figure 8.2 shows the electric
+and magnetic fields inside the parallel plate capacitor discussed above.
+
+The generalisation made by Maxwell then is the following. The source
+of a magnetic field is not just the conduction electric current due to ﬂowing
+
+2019-20
+
++++++++-++
+<ullllllllgl
+
+1)
+
+S:
+:5
+iv
+IlIIIII-II
+
+ 
+
+(C)
+
+FIGURE 8.1 A
+parallel plate
+capacitor C. as part of
+a circuit through
+which a time
+dependent current
+i (t) flows. (a) a loop of
+radius r. to determine
+magnetic field at a
+point P on the loop:
+(b) a pot—shaped
+surface passing
+through the interior
+between the capacitor
+plates with the loop
+shown in (a) as its
+rim: (c) a tiffinr
+shaped surface with
+the circular loop as
+its rim and a ﬂat
+circular bottom S
+between the capacitor
+plates. The arrows
+show uniform electric
+held between the
+capacit01 plates.
+
+271

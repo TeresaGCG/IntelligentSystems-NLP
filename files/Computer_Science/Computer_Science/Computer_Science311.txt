@@ -1,0 +1,59 @@
+5.3 Building a Datapath 295
+5
+Read ALU operation
+4
+register 1
+Read
+5 data 1 -
+Register Read
+numbers register 2 z.~
+Data ) ALU ALU
+5 Registers
+Write
+result
+register ~
+Read
+data 2
+Write
+Data {
+Data
+I RegWrite
+a. Registers b.ALU
+FIGURE 5.7 The two elements needed to Implement R·format ALU operations are the reg·
+Ister file and the ALU. The register file contains all the registers and has tm> read ports and one write port.
+The design of multiported register files is discussed in Section B.8 ofAppendix B. The register file always out 
+puts the contents of the registers corresponding to the Read register inputs on the outputs; no other control
+inputs are needed. In contrast, a register write must be explicitly indicated by asserting the write control signal.
+Remember that writes are edge-triggered, so that all the write inputs (i.e., the value to be written, the register
+munber, and the write control signal) must be valid at the clock edge. Since writes to the register file are edge 
+triggered, our design can legally read and write the same register within aclock cycle: the read will get the value
+written in an earlier dock cycle, while the value written will be available to a read in a subsequent dock cyde.
+The inputs carrying the register number to the register file are all 5 bits wide, whereas the lines carrying data
+values are 32 bits wide. The operation to be performed by theALU is controlled with theALU operation signal,
+'II
+which will be 4 bits wide, using the AW designed in Appendix B. We will use the Zero detection output of
+the ALU shortly to implement branches. The overflow output will not be needed until Section 5.6, when we
+discuss exceptions; we omit it wltil then.
+• The instruction set ardlitecture specifies that the base for the brandl address cal 
+culation is the address ofthe instruction following the branch. Since we compute
++
+PC 4 (the address of the next instruction) in the instruction fetch datapath, it is
+easy to use this value as the base for computing the branch target address.
+• The architecnlfe also states that the offset field is shifted left 2 bits so that it bram:h taken A branch where
+is a word offset; this shift increases the effective range of the offset field by a the branch condition is satisfied
+and the program counter (PC)
+factor of four.
+becomes the branch target. All
+To deal with the latter complication, we will need to shift the offset field by two. unconditional branches are
+In addition to computing the branch target address, we must also determine taken branches.
+whether the next instruction is the instruction that follows sequentially or the
+instruction at the branch target address. When the condition is true (Le., the branch not taken A branch
+where the branch condition is
+operands are equal), the branch target address becomes the new PC, and we say
+false and the program counter
+that the branch is taken. If the operands are not equal, the incremented PC
+(PC) becomes the address ofthe
+should replace the current PC Oust as for any other normal instruction); in this
+instruction that sequentially fol 
+case, we say that the branch is not taken.
+lows the branch.

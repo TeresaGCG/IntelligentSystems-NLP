@@ -1,0 +1,46 @@
+3.6 Floating Point 193
+308
+MIPS double precision allows numbers almost as small as 2.0 X and
+10-
+ten
+308
+almost as large as 2.0'en X Although double precision does increase the
+10 .
+exponent range, its primary advantage is its greater precision because of the larger
+significand.
+These formats go beyond MIPS. They are part of the IEEE 754 floating-point
+standard, found in virtually every computer invented since 1980. This standard
+has greatly improved both the ease of porting floating-point programs and the
+quality of computer arithmetic.
+To pack even more bits into the significand, IEEE 754 makes the leading 1bit of
+normalized binary numbers implicit. Hence, the number is actually 24 bits long in
+single precision (implied 1 and a 23-bit fraction), and 53 bits long in double preci 
+sion (1 + 52). To be precise, we use the term significand to represent the 24- or 53 
+bit numberthat is 1plus the fraction, and fmction when we mean the 23- or 52-bit
+number. Since 0 has no leading 1, it is given the reserved exponent value 0 so that
+the hardware won't attach a leading 1 to it.
+Thus 00 ... 001\\oU represents 0; the representation of the rest of the numbers
+uses the form from before with the hidden 1 added:
++ E
+(_ I)S X( 1 Fraction) X 2
+where the bits of the fraction represent a number between 0 and 1 and E specifies
+the value in the exponent field, to be given in detail shortly. If we number the bits
+of the fraction from left to right s1, s2, s3, ... , then the value is
+Figure 3.1 5 shows the encodings of IEEE 754 floating-point numbers. Other
+features of IEEE 754 are special symbols to represent unusual events. For example,
+instead of interrupting on a divide by 0, software can set the result to a bit pattern
+representing + 00 or _00; the largest exponent is reserved for these special symbols.
+When the programmer prints the results, the program will print an infinity sym 
+bol. (For the mathematically trained, the purpose of infinity is to form topological
+closure of the reals.)
+IEEE 754 even has a symbol for the result of invalid operations, such as % or
+subtracting infinity from infinity. This symbol is NaN, for Not a Number. The
+purpose of NaNs is to allow programmers to postpone some tests and decisions to
+a later time in the program when it is convenient.
+The designers of IEEE 754 also wanted a floating-point representation that
+could be easily processed by integer comparisons, especially for sorting. This
+desire is why the sign is in the most significa nt bit, allowing a quick test of less
+o.
+than, greater than, or equal to (It's a little more complicated than a simple inte 
+ger sort, since this notation is essentially sign and magnitude rather than two's
+complement.)

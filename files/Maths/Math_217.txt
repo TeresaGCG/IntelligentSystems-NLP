@@ -1,0 +1,26 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Applications
+Algebra has been around for a long time precisely because it is so
+useful. Algebra provides us with efficient techniques that enable us to
+solve problems systematically. Up until now, I have given you the equa-
+tions to solve. At this point in the book, the problems will be put into the
+context of a story and you will have to come up with an equation first, and
+then solve it.
+Lesson 12-1: How to Approach Word Problems
+A word problem involves a description of a situation and a question
+to answer. There are no variables in the word problem; it is your job to
+come up with variables and write an equation based on the information
+given in the original question. The nice thing about word problems is that
+they are a closer representation of how algebra will serve you in everyday
+life. I seriously doubt that you will be walking down the street and some-
+one will ask you, “What is x ÷ 5 if x = 20?” However, you may encounter
+someone who will ask you if you if you can change a twenty-dollar bill
+into five-dollar bills, and you would need to figure out how many five-
+dollar bills to give him or her for the twenty.
+I recommend using a systematic method for approaching and solving
+word problems. Here is one problem-solving approach that will help you
+solve word problems.
+(cid:96) Read the problem description and pick out the important
+information. Determine what you are given and what you are
+asked to find. Choose variables to represent what you are
+217

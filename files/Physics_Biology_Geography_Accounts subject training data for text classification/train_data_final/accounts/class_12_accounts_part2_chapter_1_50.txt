@@ -1,0 +1,67 @@
+Accounting for Share Capital 5 1
+
+July 31 Equity Share First Call A/c . 5,00,000
+To Equity Share Capital A/c 5,00,000
+(First call money due on 2,00,000 shares
+@ Rs. 2.50 per share)
+
+Equity Share Second and Final Call A/c . 5,00,000
+
+To Equity Share Capital A/c 5,00,000
+(Second call money due on 2,00,000 shares
+@ Rs. 2.50 per share)
+
+Calls in Advance A/c Dr.
+
+Calls in Arrears A/c Dr.
+To Equity Share Second and Final Call A/c
+
+(Calls in advance on 8,000 shares
+
+adjusted against second call money due)
+
+Equity Share Capital A/c
+
+To Calls in Arrears A/c
+
+To Share Forfeiture A/c
+(Forfeiture of 100 shares for the non-payment
+of call money)
+
+Share Forfeiture A/c
+
+To Equity Share Capital A/c
+(Amount due from A for the reissue
+of 100 shares as fully paid at Rs. 9
+per share)
+
+Share Forfeiture A/c Dr.
+To Capital Reserve
+
+(Proﬁt on reissue of forfeited Shares transferred
+
+to Capital reserve)
+
+ 
+
+Cash Book
+Dr. Cr.
+(Rs. ) (Rs. )
+Equity Share Application 7,92,500 Equity Shares Application 77,500
+
+    
+
+Equity Share Allotment 6,91,000 Balance c/d 24,00,650
+Calls in Advance 40,000
+
+Equity Share First Call 4,75,000
+
+Equity Share Second and
+
+Final Call 4,78,750
+
+Equity Share Capital 900
+
+24.78. 150 24.78. 150
+
+* Date column omitted.

@@ -1,0 +1,82 @@
+a curve drawn in such a way that the tangent to it at each
+point is in the direction of the net field at that point. An
+arrow on the curve is obviously necessary to specify the
+direction of electric ﬁeld from the two possible directions
+indicated by a tangent to the curve. A ﬁeld line is a space
+curve, i.e., a curve in three dimensions.
+
+Figure 1.1 7 shows the ﬁeld lines around some simple
+charge conﬁgurations. As mentioned earlier, the ﬁeld lines
+are in 3-dimensional space, though the ﬁgure shows them
+only in a plane. The ﬁeld lines of a single positive charge
+are radially outward while those of a single negative
+charge are radially inward. The ﬁeld lines around a system
+of two positive charges (q, q) give a vivid pictorial
+description of their mutual repulsion, while those around
+the conﬁguration of two equal and opposite charges
+(q, —q), a dipole, show clearly the mutual attraction
+between the charges. The ﬁeld lines follow some important
+general properties:
+
+(i) Field lines start from positive charges and end at
+negative charges. If there is a single charge, they may
+start or end at inﬁnity.
+
+(ii) In a charge-free region, electric ﬁeld lines can be taken
+to be continuous curves without any breaks.
+
+(iii) Two ﬁeld lines can never cross each other. (If they did,
+the field at the point of intersection will not have a
+unique direction, which is absurd.)
+
+(iv) Electrostatic field lines do not form any closed loops.
+
+This follows from the conservative nature of electric
+ﬁeld (Chapter 2).
+
+1 . 10 ELECTRIC FLUX
+
+Consider ﬂow of a liquid with velocity v, through a small
+ﬂat surface dS, in a direction normal to the surface. The
+rate of ﬂow of liquid is given by the volume crossing the
+area per unit time 0 dS and represents the ﬂux of liquid
+ﬂowing across the plane. If the normal to the surface is
+not parallel to the direction of ﬂow of liquid, i.e., to v, but
+makes an angle 0 with it, the projected area in a plane
+perpendicular to v is 0 ds cos 0. Therefore, the ﬂux going
+out of the surface dS is v. :1 ds. For the case of the electric
+ﬁeld, we define an analogous quantity and call it electric
+ﬂux. We should, however, note that there is no ﬂow of a
+physically observable quantity unlike the case of
+liquid ﬂow.
+
+In the picture of electric field lines described above,
+we saw that the number of ﬁeld lines crossing a unit area,
+placed normal to the ﬁeld at a point is a measure of the
+strength of electric field at that point. This means that if
+
+2019-20
+
+Electric Charges
+and Fields
+
+v/
+7m
+
+\\ /
+/ \\,.,
+
+ 
+
+ 
+
+(b)
++ +
+q q
++q -
+(d)
+
+FIGURE 1.17 Field lines due to
+some simple charge configurations.
+
+25

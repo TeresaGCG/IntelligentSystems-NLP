@@ -1,0 +1,70 @@
+108 PHYSICS
+—
+
+In simple terms, the law can be stated thus :
+Forces in nature always occur between pairs of bodies. Force on a body A by body
+B is equal and opposite to the force on the body B by A.
+Action and reaction forces are simultaneous forces. There is no cause-effect
+relation between action and reaction. Any of the two mutual forces can be
+called action and the other reaction. Action and reaction act on different
+bodies and so they cannot be cancelled out. The internal action and reaction
+forces between different parts of a body do, however, sum to zero.
+
+7. Law of Conservation ofMomentum
+The total momentum of an isolated system of particles is conserved. The law
+follows from the second and third law of motion.
+
+8. Friction
+Frictional force opposes (impending or actual) relative motion between two
+surfaces in contact. It is the component of the contact force along the common
+tangent to the surface in contact. Static friction fS opposes impending relative
+motion; kinetic friction fk opposes actual relative motion. They are independent
+of the area of contact and satisfy the following approximate laws :
+
+fs S (fslmaX = :usR
+
+f k = ”kR
+us (co—efficient of static friction) and uk [co-efficient of kinetic friction) are
+
+constants characteristic of the pair of surfaces in contact. It is found
+experimentally that ukis less than us.
+
+Momentum kg m s or N s [MLT ] Vector
+
+    
+
+Force F N [MLT-Z] F = m a Second Law
+
+Impulse kg m s"1 or N s [M 13“} Impulse = force X time
+= change in momentum
+
+Static friction N [MLT'Z] fs 5 ,us N
+
+Kinetic friction N [MLT'Z] fk = #1: N
+
+ 
+
+POINTS TO PONDER
+
+1. Force is not always in the direction of motion. Depending on the situation. F
+may be along v. opposite to v. nomlal to v or may make some other angle with
+v. In every case. it is parallel to acceleration.
+
+2. va = 0 at an instant, i.e. ifa body is momentarily at rest. it does not mean that
+force or acceleration are necessarily zero at that instant. For example. when a
+ball thrown upward reaches its maximum height. v = 0 but the force continues
+to be its weight mg and the acceleration is not zero but g.
+
+3. Force on a body at a given time is determined by the situation at the location of
+the body at that time. Force is not 'carried' by the body from its earlier history of
+motion. The moment after a stone is released out of an accelerated train. there is
+no horizontal force (or acceleration) on the stone, if the effects of the surrounding
+air are neglected. The stone then has only the vertical force of gravity.
+
+4. In the second law of motion F = m a. F stands for the net force due to all
+material agencies external to the body. a is the effect of the force. ma should
+not be regarded as yet another force. besides F.
+
+ 
+
+2019-20

@@ -1,0 +1,37 @@
+162 Chapter 3 Arithmetic: for Computers
+ASCII versus Binary Numbers
+We could represent numbers as strings of ASCII digits instead of as integers
+EXAMPLE
+(see Figure 2.21 on page 91). How much does storage increase jfthe number
+1 billion is represented in ASCII versus a 32-bit integer?
+One billion is 1 000 000 000, so it would take 10 ASCII digits, each 8 bits
+ANSWER
+long. Thus the storage expansion would be (10 x 8)/32 or 2.5. In addition to
+the expansion in storage, the hardware to add, subtract, multiply, and divide
+such numbers is difficult. Such difficulties explain why computing profes 
+sionals are raised to believe that binary is natural and that the occasional dec 
+imal computer is bizarre.
+Keep in mind that the binary bit patterns above are simply representatives of
+numbers. Numbers really have an infinite number of digits, with almost all being
+o
+except for a few of the rightmost digits. We just don't normally show leading Os.
+Hardware can be designed to add, subtract, multiply, and divide these binary
+bit patterns. If the number that is the proper result of such operations cannot be
+represented by these rightmost hardware bits, overflow is said to have occurred. It's
+up to the operating system and program to determine what to do if overflow
+occurs.
+Computer programs calculate both positive and negative numbers, so we need
+a representation that distinguishes the positive from the negative. The most obvi 
+ous solution is to add a separate sign, which conveniently ca n be represented in a
+single bit; the name for this representation is sign and magnitude.
+Alas, sign and magnitude representation has several shortcomings. First, it's
+not obvious where to put the sign bit. To the right? To the left? Early computers
+tried both. Second, adders for sign and magnitude may need an extra step to set
+the sign because we can't know in advance what the proper sign will be. Finally, a
+separate sign bit means that sign and magnitude has both a positive and negative
+zero, which can lead to problems for inattentive programmers. As a result of these
+shortcomings, sign and magnitude was soon abandoned.
+In the search for a more attractive alternative, the question arose as to what
+would be the result for unsigned numbers if we tried to subtract a large number
+from a small one. The answer is that it would try to borrow from a string of lead 
+ing Os, so the result would have a string of leading Is.

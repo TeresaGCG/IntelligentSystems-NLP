@@ -1,0 +1,72 @@
+i Physics
+
+time more than 1: and some less than ”C. In other words, the time ti in
+Eq. (3.16) will be less than T for some and more than T for others as we go
+through the values of i = 1, 2 ..... N. The average value of ti then is ’5
+(known as relaxation time). Thus, averaging Eq. (3.16) over the
+N—electrons at any given time t gives us for the average velocity vd
+
+_§
+
+vd E (vi )auerage = (vi )average m (ti )average
+=0—§r=—§r (3.17)
+m m
+
+This last result is surprising. It tells us that the
+electrons move with an average velocity which is
+independent of time, although electrons are
+accelerated. This is the phenomenon of drift and the
+velocity vd in Eq. (3.1 7) is called the drift velocity.
+
+Because of the drift, there will be net transport of
+charges across any area perpendicular to E. Consider
+a planar area A, located inside the conductor such that
+
+FIGURE 3.4 Current in a metallic the normal to the area is parallel to E (Fig. 3.4). Then
+conductor. The magnitude of current because Of the drift, in an inﬁnitesimal amount Of time
+density in a metal is the magnitude of At, all electrons to the left Of the area at distances upto
+Charge containffd in 3 Cylinder of unit Iv d | At would have crossed the area. If n is the number
+area and length ”(r of free electrons per unit volume in the metal, then
+there are 11 At | vd | A such electrons. Since each
+electron carries a charge —e, the total charge transported across this area
+A to the right in time At is —neA | vd | At. E is directed towards the left and
+hence the total charge transported along E across the area is negative of
+this. The amount of charge crossing the area A in time At is by definition
+
+[Eq. (3.2)] I At, where I is the magnitude of the current. Hence,
+
+ 
+
+IAt=+neAlvdlAt (3.18)
+
+Substituting the value of Ivdl from Eq. (3.1 7)
+
+ 
+
+2
+IAt=e ATnAt|E| (3.19)
+m
+By definition I is related to the magnitude | j | of the current density by
+I = | j IA (3.20)
+
+Hence, from Eqs.(3. 19) and (3.20),
+
+ne2
+
+ 
+
+ 
+
+ljl= TIEI (3.21)
+m
+The vector j is parallel to E and hence we can write Eq. (3.21) in the
+vector form
+2
+1:“ TE (3.22)
+m
+
+Comparison with Eq. (3.13) shows that Eq. (3.22) is exactly the Ohm’s
+
+98 law, if we identify the conductivity 6 as
+
+2019-20

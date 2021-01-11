@@ -1,0 +1,30 @@
+S.4 A Simple Implementation Scheme 315
+(see Chapter 4) will therefore be 1. Of course, the clock cycle is determined by the
+longest possible path in the machine. This path is almost certainly a load instruc 
+tion, which uses five functional units in series: the instruction memory, the register
+file, the ALU, the data memory, and the register file. Although the CPl is I, the over 
+all performance of a single-cycle implementation is not likely to be very good, since
+several of the instruction classes could fit in a shorter clock cycle.
+Performance of Single-Cycle Machines
+Assume that the operation times for the major functional units in this imple  EXAMPLE
+mentation are the following:
+• Memory units: 200 picoseconds (ps)
+• ALU and adders: 100 ps
+• Register file (read or write): 50 ps
+Assuming that the multiplexors, control unit, PC accesses, sign extension
+unit, and wires have no delay, which of the following implementations would
+be faster and by how much?
+1. An implementation in which every instruction operates in I clock cycle
+of a fixed length.
+2. An implementation where every instruction executes in I clock cycle
+using a variable-length clock, which for each instruction is only as long
+as it needs to be. (Such an approach is not terribly practical, but it will
+allow us to see what is being sacrificed when all the instructions must
+execute in a single clock of the same length.)
+To compare the performance, assume the following instruction mix: 25%
+loads, 10% stores, 45% ALU instructions, 15% branches, and 5% jumps.
+Let's start by comparing the CPU execution times. Recall from Chapter 4 that
+ANSWER
+CPU execution time = Instruction count x CPI x Clock cycle time
+Since CPI must be I, we can simplify this to
+CPU execution time = Instruction count x Clock cycle time

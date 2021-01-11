@@ -1,0 +1,107 @@
+LAWS OF MOTION
+
+l03
+
+Answer As the string is inextensible, and the
+pully is smooth, the 3 kg block and the 20 kg
+trolley both have same magnitude of
+acceleration. Applying second law to motion of
+the block (Fig. 5.12(b)),
+3O — T = 3a
+
+Apply the second law to motion of the trolley (Fig.
+5.12(c)),
+
+T—J; = 20 a.
+Now fk =ukN,
+Here pk =0.04,
+N = 20x 10
+= 200 N.
+
+Thus the equation for the motion of the trolley is
+T— 0.04X 200 = 20 a Or T— 8 = 20a.
+
+These equations give a = 2 m s*2 = 0.96 m s2
+
+23
+andT =27.1 N. 4
+
+Rolling friction
+
+A body like a ring or a sphere rolling without
+slipping over a horizontal plane will suffer no
+friction, in principle. At every instant, there is
+just one point of contact between the body and
+the plane and this point has no motion relative
+to the plane. In this ideal situation, kinetic or
+static friction is zero and the body should
+continue to roll with constant velocity. We know,
+in practice, this will not happen and some
+resistance to motion (rolling friction) does occur,
+i.e. to keep the body rolling, some applied force
+is needed. For the same weight, rolling friction
+is much smaller (even by 2 or 3 orders of
+magnitude) than static or sliding friction. This
+
+  
+  
+   
+
+is the reason why discovery of the wheel has
+been a major milestone in human history.
+
+Rolling friction again has a complex origin,
+though somewhat different from that of static
+and sliding friction. During rolling, the surfaces
+in contact get momentarily deformed a little, and
+this results in a finite area (not a point) of the
+body being in contact with the surface. The net
+effect is that the component of the contact force
+parallel to the surface opposes motion.
+
+We often regard friction as something
+undesirable. In many situations, like in a
+machine with different moving parts, friction
+does have a negative role. It opposes relative
+motion and thereby dissipates power in the form
+of heat, etc. Lubricants are a way of reducing
+kinetic friction in a machine. Another way is to
+use ball bearings between two moving parts of a
+machine [Fig. 5.13(a)]. Since the rolling friction
+between ball bearings and the surfaces in
+contact is very small, power dissipation is
+reduced. A thin cushion of air maintained
+between solid surfaces in relative motion is
+another effective way of reducing friction (Fig.
+5.13(a)).
+
+In many practical situations, however, friction
+is critically needed. Kinetic friction that
+dissipates power is nevertheless important for
+quickly stopping relative motion. It is made use
+of by brakes in machines and automobiles.
+Similarly, static friction is important in daily
+life. We are able to walk because of friction. It
+is impossible for a car to move on a very slippery
+road. On an ordinary road, the friction between
+the tyres and the road provides the necessary
+external force to accelerate the car.
+
+Inﬂated balloon
+
+Plastic disc with hole
+
+ 
+
+Air cushion
+
+ 
+
+ 
+
+(b)
+
+Fig. 5.13 Some ways of reducing friction. (a) Ball bearings placed between moving parts of a machine.
+(b) Compressed cushion of air between surfaces in relative motion.
+
+2019-20

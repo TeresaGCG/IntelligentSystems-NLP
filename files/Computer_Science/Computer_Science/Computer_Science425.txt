@@ -1,0 +1,62 @@
+6.4 Data Hazards and Forwarding 409
+to/EX EXIMEM MEMJVoIB
+- -
+-
+=
+~
+-
+I-
+Registers
+ALU
+/
+I- ~
+D.~
+memory M
+"
+r-'
+~
+I-
+- -
+-
+a. No forwarding
+to/EX EXIMEM MEMJVoIB
+- -
+-
+~
+=
+M
+- ",
+-
+I-
+-
+Registers ¥ DlWardA
+ALU
+~
+I-
+~
+M
+D.~
+,
+" memory M
+"
+r-'
+~
+FOlWartE
+f-
+~
+J
+EXlMEM.R~gis1~rRd
+M I-
+,
+"
+-
+-
+Forwarding
+MEMIWB.Regisl~fRd
+un~
+b. With forwarding
+FIGURE 6.30 On the top are the ALU and pipeline reg is te rs before adding forwarding. On the bottom, the multiplexors have b«n
+expanded to add the forwarding p.1ths, and we show the forwarding unit. The new hardware is shown in color. This figure is a stylized drawing, how 
+ever, leaving out details from the full datapath such as the sign extension hardware. Note that the ID/EX.RegisterRt field is shown twice, once to con 
+nect to the mux and once to the forwarding unit, but it is a single signal. As in the earlier discussion, this ignores forwarding ofa store value to a store
+instruction.

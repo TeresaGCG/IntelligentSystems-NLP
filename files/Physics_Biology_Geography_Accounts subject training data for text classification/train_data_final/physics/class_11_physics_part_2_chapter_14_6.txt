@@ -1,0 +1,84 @@
+OSCILLATIONS
+
+will make an angle of wt + q) with the +ve
+x—aXis. Next, consider the projection of the
+position vector OP on the x—axis. This will be
+OP’. The position of P’ on the x—aXis, as the
+particle P moves on the circle, is given by
+x(t) = A cos (wt+ ¢)
+
+which is the defining equation of SHM. This
+shows that if P moves uniformly on a circle,
+its projection P’ on a diameter of the circle
+executes SHM. The particle P and the circle
+on which it moves are sometimes referred to
+as the reference particle and the reference circle,
+respectively.
+
+We can take projection of the motion of P on
+any diameter, say the y-axis. In that case. the
+displacement y(t) of P’ on the y-axis is given by
+
+y=Asin (cot+ (1))
+
+which is also an SHM of the same amplitude
+as that of the projection on x-axis, but differing
+by a phase of 7r/2.
+
+In spite of this connection between circular
+motion and SHM, the force acting on a particle
+in linear simple harmonic motion is very
+different from the centripetal force needed to
+keep a particle in uniform circular motion.
+
+347
+
+Example 14.4 The figure given below
+depicts two circular motions. The radius
+of the circle. the period of revolution. the
+initial position and the sense of revolution
+are indicated in the figures. Obtain the
+simple harmonic motions of the
+x-projection of the radius vector of the
+rotating particle P in each case.
+
+    
+
+Answer
+
+(a) At t= 0, OP makes an angle of 450 = 7c/4 rad
+with the (positive direction of) x—axis. After
+
+time t, it covers an angle 272% in the
+
+anticlockwise sense, and makes an angle
+
+of ﬁt + E with the x-aXis.
+T 4-
+
+The projection of OP on the x-axis at time t
+is given by,
+
+x(t) =Acos (th+£]
+
+T 4
+For T= 4 s,
+x(t) =Acos (at + E]
+4 4
+which is a SHM of amplitude A, period 4 s,
+
+7!
+
+and an initial phase* = _
+4
+
+* The natural unit of angle is radian, defined through the ratio of arc to radius. Angle is a dimensionless
+quantity. Therefore it is not always necessary to mention the unit ‘radian’ when we use 7:, its multiples
+or submultiples. The conversion between radian and degree is not similar to that between metre and
+centimetre or mile. If the argument of a trigonometric function is stated without units, it is understood
+that the unit is radian. On the other hand, if degree is to be used as the unit of angle, then it must be
+shown explicitly. For example, sin(1 50) means sine of 1 5 degree, but sin(1 5) means sine of 1 5 radians.
+Hereafter, we will often drop ‘rad’ as the unit, and it should be understood that whenever angle is
+mentioned as a numerical value, without units, it is to be taken as radians.
+
+2019-20

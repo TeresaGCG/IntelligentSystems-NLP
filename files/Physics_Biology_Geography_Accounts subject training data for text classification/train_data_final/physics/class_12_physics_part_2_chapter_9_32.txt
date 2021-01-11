@@ -1,0 +1,60 @@
+Roy Optics and
+Optical Instruments
+
+ 
+
+ 
+  
+  
+ 
+ 
+    
+
+Obj ective
+mirror
+
+Secondary
+
+mirror \
+
+Eyepiece
+
+FIGURE 9.30 Schematic diagram of a reﬂecting telescope (Cassegrain).
+
+convex secondary mirror to focus the incident light, which now passes
+through a hole in the objective primary mirror, is shown in Fig. 9.30.
+This is known as a Cassegrain telescope, after its inventor. It has the
+advantages of a large focal length in a short telescope. The largest telescope
+in India is in Kavalur, Tamil Nadu. It is a 2.34 m diameter reﬂecting
+telescope (Cassegrain). It was ground, polished, set up, and is being used
+by the Indian Institute of Astrophysics, Bangalore. The largest reﬂecting
+telescopes in the world are the pair of Keck telescopes in Hawaii, USA,
+with a reﬂector of 10 metre in diameter.
+
+SUMMARY
+
+1. Reﬂection is governed by the equation Ai = Ar’ and refraction by the
+Snell’s law, sini/ sinr = n, where the incident ray, reﬂected ray, refracted
+ray and normal lie in the same plane. Angles of incidence, reﬂection
+and refraction are i, r’ and r, respectively.
+
+2. The critical angle of incidence iC for a ray incident from a denser to rarer
+medium, is that angle for which the angle of refraction is 90°. For
+i> ic, total internal reﬂection occurs. Multiple internal reﬂections in
+diamond [iC a 24.4°), totally reﬂecting prisms and mirage, are some
+examples of total internal reﬂection. Optical fibres consist of glass
+fibres coated with a thin layer of material of lower refractive index.
+Light incident at an angle at one end comes out at the other, after
+multiple internal reﬂections, even if the fibre is bent.
+
+3. Cartesian sign convention: Distances measured in the same direction
+as the incident light are positive; those measured in the opposite
+direction are negative. All distances are measured from the pole / optic
+centre of the mirror / lens on the principal axis. The heights measured
+upwards above x—axis and normal to the principal axis of the mirror /
+lens are taken as positive. The heights measured downwards are taken
+as negative.
+
+2019-20
+
+341

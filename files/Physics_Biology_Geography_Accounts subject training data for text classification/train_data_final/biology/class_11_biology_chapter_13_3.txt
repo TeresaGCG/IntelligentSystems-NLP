@@ -1,0 +1,66 @@
+PHOTOSYNTHESIS IN HIGHER PLANTS
+
+reaction but description of a multistep process called photosynthesis.
+
+Can you explain why twelve molecules of water as substrate are used
+in the equation given above?
+
+13.3 WHERE DOES PHOTOSYNTHESIS TAKE PLACE?
+
+You would of course answer: in ‘the green leaf or ‘in the chloroplasts’,
+based on what you earlier read in Chapter 8. You are deﬁnitely right.
+Photosynthesis does take place in the green leaves of plants but it does so
+also in other green parts of the plants. Can you name some other parts
+where you think photosynthesis may occur?
+
+You would recollect from previous unit that the mesophyll cells in the
+leaves, have a large number of chloroplasts. Usually the chloroplasts align
+themselves along the walls of the mesophyll cells, such that they get the
+optimum quantity of the incident light. When do you think the
+chloroplasts will be aligned with their ﬂat surfaces parallel to the walls?
+When would they be perpendicular to the incident light?
+
+You have studied the structure of chloroplast in Chapter 8. Within
+the chloroplast there is membranous system consisting of grana, the
+stroma lamellae, and the matrix stroma (Figure 13.2). There is a clear
+division of labour within the chloroplast. The membrane system is
+responsible for trapping the light energy and also for the synthesis of ATP
+and NADPH. In stroma, enzymatic reactions synthesise sugar, which in
+turn forms starch. The former set of reactions, since they are directly light
+driven are called light reactions (photochemical reactions). The latter
+are not directly light driven but are dependent on the products of light
+reactions (ATP and NADPH). Hence, to distinguish the latter they are called,
+by convention, as dark reactions (carbon reactions). However, this should
+not be construed to mean that they occur in darkness or that they are not
+light-dependent.
+
+   
+  
+ 
+ 
+  
+ 
+
+Grana
+
+Stroma
+
+Ribosomes
+
+Figure 13.2 Diagrammatic representation of an electron micrograph of a section of
+
+chloroplast
+
+2019-2020
+
+Stromal lamella
+
+Starch granule
+
+Lipid droplet
+
+209
+
+Outer membrane
+
+Inner membrane

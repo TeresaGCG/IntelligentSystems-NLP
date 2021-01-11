@@ -1,0 +1,44 @@
+G-4 Glossary
+that allows for a subsequent transfer of con  D flip-flop A flip-flop with one data input
+trol to a new address in the program based that stores the value of that input signal in
+on the outcome of the comparison. the internal memory when the clock edge
+conflict miss Also called collision miss. A occurs.
+cache miss that occurs in a set-associative or data hazard Also called pipeline data haz 
+direct-mapped cache when multiple blocks ard. An occurrence in which a planned in 
+compete for the same set and that are elim  struction cannot execute in the proper clock
+inated in a fully associative cache of the cycle because data that is needed to execute
+same Size. the instruction is not yet available.
+constellation A cluster that uses an SMP as data parallelism Parallelism achieved by
+the building block. having massive data.
+context switch A changing of the internal data rate Performance measure of bytes
+state of the processor to allow a different per unit time, such as GB/second.
+process to use the processor that includes data segment The segment of a UNIX ob 
+saving the state needed to return to the cur  ject or executable file that contains a binary
+rently executing process. representation of the initialized data used
+control The component of the processor by the program.
+that commands the datapath, memory, and data transfer instruction A command that
+I/O devices according to the instructions of moves data between memory and registers.
+the program. datapath The component of the processor
+control hazard Also called branch hazard. that performs arithmetic operations.
+An occurrence in which the proper instruc  datapath element A functional unit used
+tion cannot execute in the proper clock cy  to operate on or hold data within a proces 
+cle because the instruction that was fetched sor. In the MIPS implementation the datap 
+is not the one that is needed; that is, the flow ath elements include the instruction and
+of instruction addresses is not what the data memories, the register file, the arith 
+pipeline expected. metic logic unit (ALU), and adders.
+control signal A signal used for multiplex  deasserted signal A signal that is (logically)
+or selection or for directing the operation of false, or O.
+a functional unit; contrasts with a data sig  decoder A logic block that has an II-bit in 
+nal, which contains information that is op  put and 2/1 outputs where only one output
+erated on by a functional unit. is asserted for each input combination.
+correlating predictor A branch predictor defect A microscopic flaw in a wafer or in
+that combines local behavior of a particular patterning steps that can result in the failure
+branch and global information about the of the die containing that defect.
+behavior of some recent number of execut  delayed branch A type of branch where the
+ed branches. instruction immediately following the
+CPUexecution time Also called CPUtime. branch is always executed, independent of
+The actual time the CPU spends computing whether the branch condition is true or false.
+for a specific task. desktop computer A computer designed
+crossbar network A network that allows for use by an individual, usually incorporat 
+any node to communicate with any other ing a graphics display, keyboard, and
+node in one pass through the network. mouse.

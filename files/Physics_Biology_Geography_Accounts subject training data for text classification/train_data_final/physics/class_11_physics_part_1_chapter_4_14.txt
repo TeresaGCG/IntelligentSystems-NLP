@@ -1,0 +1,117 @@
+MOTION IN A PLANE
+
+79
+
+ 
+
+Answer We choose the origin of the x—,and y-
+axis at the edge of the cliff and t = O s at the
+instant the stone is thrown. Choose the positive
+direction of x—axis to be along the initial velocity
+and the positive direction of y-axis to be the
+vertically upward direction. The x—, and y-
+components of the motion can be treated
+independently. The equations of motion are :
+x(t) =xo+voxt
+y (t) = y0 + voy t+(l/2) ay t2
+Here, x0 = y0 = 0,1)Dy = O, ay= —g = —9.8 m s2,
+v0X = 15 m s‘l.
+The stone hits the ground when y(t) = — 490 m.
+— 490 m = —(1/2)(9.8) t2.
+This gives t=lO s.
+The velocity components are vx = vex and
+vy = voy — g 1;
+so that when the stone hits the ground :
+vex = 15 m s‘1
+voy=O—9.8>< lO=—98ms‘1
+Therefore, the speed of the stone is
+
+.(ui +vy2 =«/152 +982 =99m s‘1 4
+
+ 
+
+b Example 4.9 A cricket ball is thrown at a
+speed of 28 m 3’1 in a direction 30° above
+the horizontal. Calculate (a) the maximum
+height, (b) the time taken by the ball to
+return to the same level. and (c) the
+distance from the thrower to the point
+where the ball returns to the same level.
+
+ 
+
+Answer (a) The maximum height is given by
+(v0 sint90)2 (28 sin 30°)2
+
+ 
+
+m 29 2 (9.8)
+'_ 14x14 _ 10 o
+‘2x9.8‘ ' m
+
+(b) The time taken to return to the same level is
+Tf= (2 v0 sin 00)/g = (2X 28 X sin 30°)/9.8
+= 28/98 s =2.9 s
+(c) The distance from the thrower to the point
+where the ball returns to the same level is
+
+(US$200) _ 28 x 28 x sin 60°
+9 9.8
+
+R: =69m
+
+Neglecting air resistance - what does
+the assumption really mean?
+
+While treating the topic of projectile motion.
+we have stated that we assume that the
+air resistance has no effect on the motion
+of the projectile. You must understand what
+the statement really means. Friction, force
+due to viscosity, air resistance are all
+dissipative forces. In the presence of any of
+such forces opposing motion, any object will
+lose some part of its initial energy and
+consequently, momentum too. Thus, a
+projectile that traverses a parabolic path
+would certainly show deviation from its
+idealised trajectory in the presence of air
+resistance. It will not hit the ground with
+the same speed with which it was projected
+from it. In the absence of air resistance, the
+x-component of the velocity remains
+constant and it is only the y-component that
+undergoes a continuous change. However.
+in the presence of air resistance, both of
+these would get affected. That would mean
+that the range would be less than the one
+given by Eq. (4.43). Maximum height
+attained would also be less than that
+predicted by Eq. (4.42). Can you then,
+anticipate the change in the time of ﬂight?
+
+In order to avoid air resistance. we will
+have to perform the experiment in vacuum
+or under low pressure, which is not easy.
+When we use a phrase like ‘neglect air
+resistance’. we imply that the change in
+parameters such as range. height etc. is
+much smaller than their values without air
+resistance. The calculation without air
+resistance is much simpler than that with
+air resistance.
+
+4. 1 1 UNIFORM CIRCULAR MOTION
+
+When an object follows a circular path at a
+constant speed, the motion of the object is called
+uniform circular motion. The word “uniform”
+refers to the speed, which is uniform (constant)
+throughout the motion. Suppose an object is
+moving with uniform speed 1) in a circle of radius
+R as shown in Fig. 4. 19. Since the velocity of the
+object is changing continuously in direction, the
+object undergoes acceleration. Let us find the
+magnitude and the direction of this acceleration.
+
+2019-20

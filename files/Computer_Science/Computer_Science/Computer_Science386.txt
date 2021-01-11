@@ -1,0 +1,44 @@
+370 Chapter 6 Enhancing Performance with Plpellnlng
+Never waste time.
+American proverb
+An Overview of Pipelining
+pipelining An implementa  Pipelining is an implementation technique in which multiple instructions are
+tion technique in which multi  overlapped in execution. Today, pipelining is key to making processors fast.
+ple instructions are overlapped
+This section relies heavily on one analogy to give an overview of the pipelining
+in execution, much like to an
+terms and issues. If you are interested in just the big picture, you should concen 
+assembly line.
+trate on this section and then skip to Sections 6.9 and 6.10 to see an introduction
+to the advanced pipelining techniques used in recent processors such as the Pen 
+tium III and 4. If you are interested in exploring the anatomy of a pipelined com 
+puter, this section is a good introduction to Sections 6.2 through 6.8.
+Anyone who has done alot of laundry has intuitively used pipelining. The
+nOfl-
+pipelined approach to laundry would be
+1. Place one dirty load of clothes in the washer.
+2. \Vhen the washer is finished, place the wet load in the dryer.
+3. \Vhen the dryer is finished, place the dry load on a table and fold.
+4. \Vhen folding is finished, ask your roommate to put the clothes away.
+When your roommate is done, then start over with the next dirty load.
+The pipelined approach takes much less time, as Figure 6. 1 shows. As soon as
+the washer is finished with the first load and placed in the dryer, you load the
+washer with the second dirty load. When the first load is dry, you place it on the
+table to start folding, move the wet load to the dryer, and the next dirty load into
+the washer. Next you have your roommate put the first load away, you start fold 
+ing the second load, the dryer has the third load, and you put the fourth load into
+the washer. At this point all steps-called stages in pipelining-are operating con 
+currently. As long as we have separate resources for each stage, we ca n pipeline the
+tasks.
+The pipelining paradox is that the time from placing a single dirty sock in the
+washer until it is dried, folded, and put away is not shorter for pipelining; the rea 
+son pipelining is fa ster for many loads is that everything is working in parallel, so
+more loads are finished per hour. Pipelining improves throughput of our laundry
+system without improving the time to complete a single load. Hence, pipelining
+would not decrease the time to complete one load of laundry, but when we have
+many loads of laundry to do, the improvement in throUgilput decreases the total
+time to complete the work.
+If all the stages take about the same amount of time and there is enough work
+to do, then the speedup due to pipelining is equal to the number of stages in the
+pipeline, in this case four: washing, drying, folding, and putting away. So, pipe 
+lined laundry is potentially four times faster than nonpipelined: 20 loads would

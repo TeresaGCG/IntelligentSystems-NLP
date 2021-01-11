@@ -1,0 +1,31 @@
+Applications
+223
+Example 1
+Amanda’s cell phone plan costs $30 per month plus $0.35 per
+minute that she talks more than 250 minutes. If she talked for 320
+minutes in September, what will her phone bill be?
+Solution: Let m represent the number of minutes that Amanda
+talks on her phone, and let B represent the bill. We have the
+following equation:
+B= 30+ 0.35(m− 250)
+We know that m is 320, so we have to solve for B when m = 320:
+B = 30+ 0.35(320− 250)
+= 30+ 0.35(70)
+= 30+ 24.5
+= 54.5
+Amanda’s phone bill will be $54.50.
+Example 2
+Nathan just purchased a home entertainment center. His plasma
+TV cost 31 times as much as his DVD player cost. If his DVD
+player cost $90, how much did his plasma TV cost?
+Solution: Let d represent the cost of the DVD player, and let P
+represent the cost of the plasma TV. Then we have the following
+equation relating the two variables:
+P= 31d
+We need to evaluate P when d = 90:
+P= 31⋅ 90 = 2,790
+Nathan paid $2,790 for his plasma TV.
+Example 3
+An electric company charges a customer a $10 service charge
+plus $0.04 for each kWh of electricity used. Find the amount Robert
+will have to pay if he uses 1500 kWh in a month.

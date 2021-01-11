@@ -1,0 +1,38 @@
+5.13 Exercises 361
+Analyze the following two segments of Verilog description lines, and compare the
+results of variables A and B, and the operation done in each example.
+a) always @(negedge clock) begin
+A B;
+B A;
+=
+end
+b) always @(negedge clock) begin
+<=
+A B;
+<=
+B A;
+end
+5.59 [IS) <§§5.4, 5.8> Write the ALUControl module in combinational Verilog
+using the following form as the basis:
+module ALUControl (ALUOp , FuncCode, ALUCtl) ;
+input ALUOp[l :O] , FuncCode[5:0] ;
+output ALUCtl[3 :0] ;
+endmodule
+5.60 [I week) <§§5.3, 5.4, 5.8> Using a hardware simulation language such as
+Verilog, implement a functional simulator for the single-cycle version. Build your
+simulator using an existing library of parts, if such a library is available. Ifthe parts
+contain timing information, determine what the cycle time of your implementa 
+tion will be.
+5.61 [2-4 hours] <§§4.7, 55, 5.8, 5.8> Extend the multicycle Verilog description
+II
+in 5.8 by adding an implementation of the unsigned MIPS multiply instruction;
+assume it is implemented using the MIPS ALU and a shift and add operation.
+5.62 [2-4 hours] <§§4.7, 5.5, 5.8, 5.9> Extend the multicycle Verilog description
+II
+in 5.8 by adding an implementation of the unsigned MIPS divide instruction;
+assume it is implemented using the MIPS ALU with a one-bit-at-a-time algorithm.
+5.63 [I week] <§§55, 5.8> Using a hardware simulation language such as Ver 
+ilog, implement a functiona I simulator for a multicycle implementation of the de 
+sign of a PowerPC processor. Build your simulator using an existing library of
+parts, if such a library is available. If the parts contain timing information, deter 
+mine what the cycle time ofyour implementation will be.

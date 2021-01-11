@@ -1,0 +1,67 @@
+lSO
+
+7.23
+
+7.24
+
+7.25
+
+7.26
+
+7.27
+
+7.28
+
+PHYSICS
+
+ 
+
+Fig.7.40
+
+A man stands on a rotating platform, with his arms stretched horizontally holding a
+5 kg weight in each hand. The angular speed of the platform is 30 revolutions per
+minute. The man then brings his arms close to his body with the distance of each
+weight from the axis Changing from 90cm to 200m. The moment of inertia of the
+man together with the platform may be taken to be constant and equal to 7.6 kg m2.
+(a) What is his new angular speed? (Neglect friction.)
+
+[b] Is kinetic energy conserved in the process? If not, from where does the change
+come about?
+
+A bullet of mass 10 g and speed 500 m/ s is fired into a door and gets embedded
+exactly at the centre of the door. The door is 1.0 m wide and weighs 12 kg. It is
+hinged at one end and rotates about a vertical axis practically without friction. Find
+the angular speed of the door just after the bullet embeds into it.
+
+(Hint: The moment of inertia of the door about the vertical axis at one end is ML2/3.)
+
+Two discs of moments of inertia 11 and I2 about their respective axes (normal to the
+disc and passing through the centre], and rotating with angular speeds (01 and cog
+are brought into contact face to face with their axes of rotation coincident. (a) What
+is the angular speed of the two—disc system? [b] Show that the kinetic energy of the
+combined system is less than the sum of the initial kinetic energies of the two discs.
+How do you account for this loss in energy? Take (01 7’: (02.
+
+[a] Prove the theorem of perpendicular axes.
+
+[Hint : Square of the distance of a point (x, y] in the x—y plane from an axis through
+the origin and perpendicular to the plane is x2+y2).
+
+[b] Prove the theorem of parallel axes.
+[Hint : If the centre of mass of a system of n particles is chosen to be the origin
+
+2min = 0).
+Prove the result that the velocity v of translation of a rolling body [like a ring, disc,
+cylinder or sphere) at the bottom of an inclined plane of a height h is given by
+
+v2 = 2 gh
+
+(1 + k2 / R2 )
+using dynamical consideration [i.e. by consideration of forces and torques]. Note k is
+the radius of gyration of the body about its symmetry axis, and R is the radius of the
+body. The body starts from rest at the top of the plane.
+
+A disc rotating about its axis with angular speed (00 is placed lightly [without any
+translational push] on a perfectly frictionless table. The radius of the disc is R. What
+
+2019-20

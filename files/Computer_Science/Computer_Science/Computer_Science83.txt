@@ -1,0 +1,47 @@
+2.4 Representing Instructions In the Computer 67
+MIPS operands
+Name Example Comments
+32 $sO, $sl, ... , $s7 Fast locations for data. In MIPS, data must be in registers to perform arithmetic.
+registers stO.$tl, ... , st7 Registers $sO- $s7 map to 16-23 and stO- H7 map to 8-15.
+2'" Memory[O), Accessed only by data transfer instructions in MIPS. MIPS uses byte addresses, so
+memory Memory[4), ... , sequential word addresses differ by 4. Memory holds data structures, arrays, and
+words Memory[4294967292) spilled registers.
+MIPS assembly language
+Category Instruction Example Meaning Comments
+,,2 ,,3
+'" +
+odd odd $sl,$s2.$s3 Three operands; data in registers
+Arithmetic ,"b ,,2 ,,3
+'"
+subtract $sl,$s2.$s3 Three operands; data in registers
+0,,.
+load word $sl,100($s2) $s 1 - Memory[ $s2 + 100] Data from memory to register
+"
+transfer store word " $sl,100($s2) Memory[$s2 + 100] - $sl Data from register to memory
+. . . MIPS machine language
+Name Example Comments
+,dd R a 18 19 17 0 32 ,dd $s1.$s2. $s3
+'"' R a 18 19 17 0 34 '"' $s1.$s2. $s3
+addi I 8 18 17 100 addi $s1,$s2.100
+I 35 18 17 100 $sl.1 00( $s2 )
+" "
+" I 43 18 17 100 " $sl.1 00($s2 )
+Field size 6 bits 5 bits 5 bits 5 bits 5 bits 6 bits All MIPS instructions 32 bits
+R.format R op ffi rt ,d shamt funct Arithmetic instruction format
+Hormat I op ffi rt address Data transfer format
+FIGURE 2.7 MIPS architecture revealed through Section 2.4. Highlighted portions show MIPS machine language structures
+introduced in Section 2.4. The two MIPS instruction formats so far are R and I. The first 16 bits are the same: both contain an op field, giv.
+ing the base operation: an rs field, giving one ofthe sources; and the rt field, which specifies the other source operand, except for lo.1d word,
+where it specifies the destination register. R·format divides the last 16 bits into an rd field, specifying the destination register; slulInt field,
+which Section 2.5 explains; and thefUllet field, which specifies the specific operation of R·format instructions. I·format keeps the last 16
+bits as a single address field.
+Elaboration: Representing decimal numbers in base 2 gives an easy way to represent
+positive integers in computer words. Chapter 3 explains how to represent negative num 
+_231
+bers, but for now take it on faith that a 32-bit word can represent integers between
+31
+and +2 -lor -2,147,483,648 to +2,147,483,647, and the 16-bit constant field really
+15 15
+holds _2 to +2 -1 or-32,768 to 32,767. Such integers are called two's complement
+numbers. Chapter 3 shows how we would encode addi $tO. $tO. - 1 or 1w $tO. - 4( $ sa),
+which require negative numbers in the constant field of the immediate format.

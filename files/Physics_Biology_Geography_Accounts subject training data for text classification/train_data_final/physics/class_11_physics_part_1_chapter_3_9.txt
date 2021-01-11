@@ -1,0 +1,125 @@
+48
+
+PHYSICS
+
+This equation can also be obtained by
+substituting the value of t from Eq. (3.6) into
+Eq. (3.8). Thus, we have obtained three
+important equations :
+
+v=vO +at
+l
+x=v0t+—at2
+2
+v2 = v3 +2ax (3.11a)
+
+connecting ﬁve quantities v0, 1), a, tand x. These
+are kinematic equations of rectilinear motion
+for constant acceleration.
+
+The set of Eq. (3.11a) were obtained by
+assuming that at t = O, the position of the
+particle, x is 0. We can obtain a more general
+equation if we take the position coordinate at t
+= O as non-zero, say x0. Then Eqs. (3.1 1a) are
+modified (replacing x by x— x0 ) to :
+
+v=vO +at
+
+1 2
+x=x0+v0t+§at (3.11b)
+v2 =v§ +2a(x—x0) (3.110)
+
+b Example 3.3 Obtain equations of motion
+for constant acceleration using method of
+
+calculus.
+
+ 
+
+Answer By definition
+
+dv = a dt
+Integrating both sides
+
+[Ifdv = Iga dt
+
+t
+= (II 0 dt (a is constant)
+v — vO =at
+v = D0 + at
+dx
+F , v = —
+urther d t
+dx = v dt
+Integrating both sides
+
+J:dx=I;vdt
+
+2019-20
+
+2} t(v0 +at) dt
+
+0
+
+l
+x—x0=v0 t+§a t2
+1 2
+x = x0+v0 t+§at
+
+We can write
+
+dv dv dx dv
+a:—:——=U—
+
+dt dx dt dx
+or,vdv=adx
+
+ 
+
+Integrating both sides,
+I U vdv = X adx
+v0 x0
+2 2
+v —v
+2 ° = a<x—xo)
+
+v2 =v§ +2a(x—x0)
+
+The advantage of this method is that it can be
+used for motion with non-uniform acceleration
+also.
+
+Now, we shall use these equations to some
+important cases. 4
+
+ 
+
+Example 3.4 A ball is thrown vertically
+upwards with a velocity of 20 In S‘1 from
+the top of a multistorey building. The
+height of the point from where the ball is
+thrown is 25.0 m from the ground. (a) How
+high will the ball rise ‘? and (b) how long
+will it be before the ball hits the ground?
+Take g =10 m s‘2.
+
+ 
+
+Answer (a) Let us take the y-axis in the
+vertically upward direction with zero at the
+ground, as shown in Fig. 3.13.
+Now v0: + 20 m 8—1,
+a = —g=—lOmS'2,
+v = O m S‘1
+If the ball rises to height y from the point of
+
+launch, then using the equation
+v2: v§+2 a (y—yo)
+
+we get
+0 = (20? + 2(—10)(y — yo)
+Solving, we get, (y — yo) = 20 m.
+
+(b) We can solve this part of the problem in two
+ways. Note carefully the methods used.

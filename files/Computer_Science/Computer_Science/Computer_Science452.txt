@@ -1,0 +1,42 @@
+436 Chapter 6 Enhancing Performance with Plpellnlng
+Let's look at simple static issue version of MIPS processor, before we
+:1 :I
+describe the use of these techniques in more aggressive processors. After using this
+simple example to review the comments, we discuss the highlights of the Intel IA 
+64 architecture.
+An Example: Static Multiple Issue with the MIPS ISA
+To give:1 flavor of static multiple issue, we consider a simple two-issue MIPS pro 
+cessor, where one of the instructions can be an integer ALU operation or branch,
+and the other can be a load or store. Such a design is like that used in some
+embedded MIPS processors. Issuing two instructions per cycle will require fetch 
+ing and decoding 64 bits of instructions. In many static multiple-issue processors,
+and essentially all VLIW processors, the layout of simultaneously issuing instruc 
+tions is restricted to simplify the decoding and instruction issue. Hence, we will
+require that the instructions be paired and aligned on a 64-bit boundary, with the
+ALU or branch portion appearing first. Furthermore, if one instruction of the pair
+cannot be used, we require that it be replaced with a no-op. Thus, the instructions
+always issue in pairs, possibly with a nop in one slot. Figure 6.44 shows how the
+instructions look as they go into the pipeline in pairs.
+Static multiple-issue processors vary in how they deal with potential data and
+control hazards. In some designs, the compiler takes full responsibility for remov 
+ing all hazards, scheduling the code and inserting no-ops so that the code executes
+without any need for hazard detection or hardware-generated stalls. In others, the
+hardware detects data hazards and generates stalls between two issue packets,
+while requiring that the compiler avoid all dependences within an instruction
+pair. Even so, a hazard generally forces the entire issue packet containing the
+dependent instruction to stall. \Vhether the software must handle all hazards or
+Instruction type Pipe stages
+ALU or branch instruction IF 10 EX MEM WS
+Load or store instruction IF 10 EX MEM WS
+ALU or branch instruction IF 10 EX MEM WS
+Load or store instruction IF 10 EX MEM WS
+ALU or branch instruction IF 10 EX MEM WS
+Load or store instruction IF 10 EX MEM WS
+ALU or branch instruction IF 10 EX MEM WS
+Load or store instruction IF 10 EX MEM WS
+FIGURE 6.44 Static two-Issue pipeline In operation. The ALU and data transfer instructions are
+issued at the time. Here we have assWTIed the same five-stage structure as used for the single-issue
+&1me
+pipeline. Although this is not strictly necessary, it does have some advantages. In particular, keeping the reg 
+ister writes at the end of the pipeline simplifies the handling of exceptions and the maintenance ofa precise
+exception model, which become more difficult in multiple-issue processors.

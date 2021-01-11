@@ -1,0 +1,41 @@
+486 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Address (showing bit positions)
+31 ••• 1413 "' 65 "' 2 1 0
+18 8 4 B~e Data
+Hit
+Tag offset
+Index Block offset
+18 bits 512 bits
+• •
+•••
+V Tag Data
+•••
+•••
+•••
+••• 256
+~
+••• entries
+•••
+•••
+•••
+,. •••
+•••
+:J2 32 32
+•••
+I ... I
+M",
+Y
+32
+FIGURE 7.9 11Ie 16 KB caches In the Intrinslty FastMATH each contain 256 blocks with 16 words per block. The tag field IS 18 bIts
+wide and the index field is 8 bits wide,while a 4-bit field (bits 5- 2) is used to index the block and select the mJrd from the block using a 16-to-1 multi 
+plexor. In practice, to elimin.1le the multiplexor, caches U'ie a separate large RAM for the data and asmaller RAM for thetags, with the block offset supply 
+ing the extra address bits for the large data RAM. In this case, the large RAM is 32 bits wide and mU'it have 16 tinles as many words as blocks in the cache.
+one. A block index field is used to control the multiplexor (shown at the
+bottom of the figure), which selects the requested word from the 16 words
+in the indexed block.
+3. If the cache signals miss, we send the address to the main memory. When
+the memory returns with the data, we write it into the cache and then read
+it to fulfill the request.
+For writes, the Intrinsity FastMATH offers both write-through and write-back,
+leaving it up to the operating system to decide which strategy to use for an appli 
+cation. It has a one-entry write buffer.

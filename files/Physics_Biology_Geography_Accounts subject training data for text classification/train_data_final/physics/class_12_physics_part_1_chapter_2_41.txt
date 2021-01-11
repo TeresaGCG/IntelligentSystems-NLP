@@ -1,0 +1,27 @@
+92
+
+l Physics
+
+(d)
+
+ 
+
+the globe. Why then does the atmosphere not discharge itself
+completely in due course and become electrically neutral? In
+other words, what keeps the atmosphere charged?
+
+What are the forms of energy into which the electrical energy
+of the atmosphere is dissipated during a lightning?
+
+(Hint: The earth has an electric field of about 100 Vm’1 at its
+surface in the downward direction, corresponding to a surface
+charge density = —10’9 C m’2. Due to the slight conductivity of
+the atmosphere up to about 50 km (beyond which it is good
+conductor), about + 1800 C is pumped every second into the
+earth as a whole. The earth, however, does not get discharged
+since thunderstorms and lightning occurring continually all
+
+over the globe pump an equal amount of negative charge on
+the earth.)
+
+2019-20

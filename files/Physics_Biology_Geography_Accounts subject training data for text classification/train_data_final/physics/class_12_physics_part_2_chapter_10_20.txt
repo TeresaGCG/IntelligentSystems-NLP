@@ -1,0 +1,78 @@
+Wave Optics
+
+slit diffraction pattern on the screen. The centre of the central bright fringe
+
+will appear at a point which lies on the straight line SS1 or SS2, as the
+
+case may be.
+
+We now compare and contrast the interference pattern with that seen
+for a coherently illuminated single slit (usually called the single slit
+diffraction pattern).
+
+(i) The interference pattern has a number of equally spaced bright and
+dark bands. The diffraction pattern has a central bright maximum
+which is twice as wide as the other maxima. The intensity falls as we
+go to successive maxima away from the centre, on either side.
+
+(ii) We calculate the interference pattern by superposing two waves
+originating from the two narrow slits. The diffraction pattern is a
+superposition of a continuous family of waves originating from each
+point on a single slit.
+
+(iii) For a single slit of width a, the first null of the interference pattern
+occurs at an angle of l/ a. At the same angle of l/ a, we get a maximum
+(not a null) for two narrow slits separated by a distance a.
+
+One must understand that both d and a have to be quite small, to be
+able to observe good interference and diffraction patterns. For example,
+the separation 01 between the two slits must be of the order of a milimetre
+or so. The width a of each slit must be even smaller, of the order of 0.1 or
+0.2 mm.
+
+In our discussion of Young’s experiment and the single-slit diffraction,
+we have assumed that the screen on which the fringes are formed is at a
+large distance. The two or more paths from the slits to the screen were
+treated as parallel. This situation also occurs when we place a converging
+lens after the slits and place the screen at the focus. Parallel paths from
+the slit are combined at a single point on the screen. Note that the lens
+does not introduce any extra path dtﬁerences in a parallel beam. This
+arrangement is often used since it gives more intensity than placing the
+screen far away. If f is the focal length of the lens, then we can easily work
+out the size of the central bright maximum. In terms of angles, the
+separation of the central maximum from the ﬁrst null of the diffraction
+pattern is A/ a. Hence, the size on the screen will be f A / a.
+
+10.6.2 Seeing the single slit diffraction pattern
+
+It is surprisingly easy to see the single-slit diffraction pattern for oneself.
+The equipment needed can be found in most homes — two razor blades
+and one clear glass electric bulb preferably with a straight filament. One
+has to hold the two blades so that the edges are parallel and have a
+narrow slit in between. This is easily done with the thumb and forefmgers
+(Fig. 10.18).
+
+Keep the slit parallel to the filament, right in front of the eye. Use
+spectacles if you normally do. With slight adjustment of the width of the
+slit and the parallelism of the edges, the pattern should be seen with its
+bright and dark bands. Since the position of all the bands (except the
+central one) depends on wavelength, they will show some colours. Using
+a filter for red or blue will make the fringes clearer. With both filters
+available, the wider fringes for red compared to blue can be seen.
+
+2019-20
+
+W
+
+W
+
+FIGURE 10.18
+Holding two blades to
+form a single slit. A
+bulb filament viewed
+through this shows
+
+clear diffraction
+bands.
+
+371

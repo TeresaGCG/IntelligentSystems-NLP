@@ -1,0 +1,52 @@
+Issue and Redemption of Debentures 81
+
+Notes to Accounts
+
+Am"
+(RS)
+
+1. Reserve and surplus
+Securties Premium Reserve 20 000
+
+2. Long-term borrowings
+
+2,000, 10% debentures of Rs 100 each 2.00.000
+3. Cash and cash equivalents
+
+Cash at bank 2 20 000
+
+ 
+
+Illustration 4
+
+A Limited issued 5,000, 10% debentures of Rs 100 each, at a premium of Rs 10
+per debenture payable as follows:
+
+On application Rs 25
+On allotment Rs 45 (including premium)
+On ﬁrst and ﬁnal call Rs 40
+
+The debentures were fully subscribed and all money was duly received.
+Record the necessary entries in the books of the company. Show how the amounts
+will appear in the balance sheet.
+
+Solution:
+
+Books of A Limited
+Journal
+
+Bank A/c Dr. 1.25.000
+To 10% Debenture Application A/c 1.25.000
+(Application money on 10% debentures received)
+
+10% Debenture Application A/c . 1.25.000
+To 10% Debentures A/c 1.25.000
+(Transfer of application money on allotment)
+
+1 0% Debenture AlloUnent A/c . 2.25.000
+To 10% Debentures A/c 1.75.000
+
+To Securities Premium Reserve A/c 50,000
+
+(Allotment money of due on debentures including
+the premium)

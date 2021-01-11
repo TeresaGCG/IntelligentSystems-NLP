@@ -1,0 +1,25 @@
+Homework Helpers: Basic Math and Pre-Algebra
+16
+If the sum of the digits in the ones’ column is greater than 9, you will
+need to carry over to the tens’ column. To carry over is to bump up the
+number in the place immediately to the left of the column under consid-
+eration. Carry-over from the ones’ place will increase the number in the
+tens’ place. Carry-over from the tens’ place will bump up the number in
+the hundreds’ place, and so on. The next examples will help illustrate this
+point.
+Example 2
+Find the sum:  54 + 29
+Solution:When we add the numbers in the ones’ place, we have
+4+ 9 = 13; this means we need to carry a 1 over to the tens’ place:
+Example 3
+Find the sum: 156 + 68
+Solution: When we add the numbers in the ones’ place, we have
+6+ 8 = 14; this means we need to carry a 1 over to the tens’ place.
+We will also need to carry over to the hundreds’ place:
+We can add three numbers together as well. To find the sum 2 + 6 + 4,
+we could either first find 2 + 6 and then add that result to 4, or we could
+find 6 + 4 and then add 2 to that result. Either way we would get an
+answer of 12.
+Because we can group addition in any way we want, we say that addi-
+tion is associative.
+www.ebook3000.com

@@ -1,0 +1,92 @@
+146
+
+TABLE 9.3 Some Secondary Metabolites
+
+BIOLOGY
+
+9.2 PRIMARY AND SECONDARY METABOLITES
+
+The most exciting aspect of chemistry deals with isolating thousands of
+compounds, small and big, from living organisms, determining their
+structure and if possible synthesising them.
+
+If one were to make a list of biomolecules, such a list would have
+thousands of organic compounds including amino acids, sugars, etc.
+For reasons that are given in section 9. 10, we can call these biomolecules
+as ‘metabolites’. In animal tissues, one notices the presence of all such
+categories of compounds shown in Figure 9.1. These are called primary
+metabolites. However, when one analyses plant, fungal and microbial cells,
+one would see thousands of compounds other than these called primary
+metabolites, e. g. alkaloids, ﬂavonoids, rubber, essential oils, antibiotics,
+coloured pigments, scents, gums, spices. These
+are called secondary metabolites (Table 9.3).
+
+«@aroiienoiﬂs, thmymﬁm While primary metabolites have identifiable
+
+ 
+
+functions and play known roles in normal
+physiologial processes, we do not at the moment,
+
+ 
+
+ 
+
+«Imam:
+
+understand the role or functions of all the
+
+ 
+
+Eéééﬁﬁﬁlﬁﬂg 11"" " ' ‘
+
+‘secondary metabolites’ in host organisms.
+
+ 
+
+"“Ia‘m’ﬁs
+
+However, many of them are useful to ‘human
+
+ 
+
+ 
+
+7mm
+
+welfare’ (e. g., rubber, drugs, spices, scents and
+pigments). Some secondary metabolites have
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ecological importance. In the later chapters and
+years you will learn more about this.
+
+9.3 BIOMACROMOLECULES
+
+There is one feature common to all those compounds found in the acid
+soluble pool. They have molecular weights ranging from 18 to around
+800 daltons (Da) approximately.
+
+The acid insoluble fraction, has only four types of organic compounds
+i.e., proteins, nucleic acids, polysaccharides and lipids. These classes of
+compounds with the exception of lipids, have molecular weights in the
+range of ten thousand daltons and above. For this very reason,
+biomolecules, i.e., chemical compounds found in living organisms are of
+two types. One, those which have molecular weights less than one
+thousand dalton and are usually referred to as micromolecules or simply
+biomolecules while those which are found in the acid insoluble fraction
+are called macromolecules or biomacromolecules.
+
+The molecules in the insoluble fraction with the exception of lipids
+are polymeric substances. Then why do lipids, whose molecular weights
+do not exceed 800 Da, come under acid insoluble fraction, i.e.,
+macromolecular fraction? Lipids are indeed small molecular weight

@@ -1,0 +1,88 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+Table 5.1: Contrasting Traits Studied by
+Mendel in Pea
+
+|.S No. Characters Contrasting Traits I
+
+Stem height Tall/ dwarf
+I12. Flower oolour Violet/ white
+
+I
+I
+I3. Flower position Axial/temtinal I
+I4. Pod shape Inﬂated/ constricted I
+I 5. Pod colour Green/ yellow I
+I 6. Seed shape Round/ wrinkled I
+
+I 7. Seed colour Yellow / green I
+
+5.2 INHERITANCE OF ONE GENE
+
+Let us take the example of one such
+hybridisation experiment carried out by
+Mendel where he crossed tall and dwarf pea
+plants to study the inheritance of one gene
+(Figure 5.2). He collected the seeds produced
+as a result of this cross and grew them to
+generate plants of the ﬁrst hybrid generation.
+This generation is also called the Filial1
+progeny or the F1. Mendel observed that all
+the F1 progeny plants were tall, like one of
+its parents; none were dwarf (Figure 5.3). He
+made similar observations for the other pairs
+of traits — he found that the F1 always
+resembled either one of the parents, and that
+
+the trait of the other parent was not seen in ‘» 6
+
+them.
+
+Mendel then self-pollinated the tall F1
+plants and to his surprise found that in the
+Filial2 generation some of the offspring were
+‘dwarf’; the character that was not seen in
+the F1 generation was now expressed. The
+proportion of plants that were dwarf were
+
+   
+    
+
+Transfer of pollen
+
+*’ \ (Pollination)
+
+Petal
+
+Stigma
+Anther
+
+Stamen
+
+Carpel
+
+Removal of anthers
+(Emasculation)
+
+ 
+
+ 
+
+Figure 5.2 Steps in making a cross in pea
+
+1 /4th of the F2 plants while 3 / 4m of the F2 plants were tall. The tall and
+dwarf traits were identical to their parental type and did not show any
+blending, that is all the offspring were either tall or dwarf, none were of in-
+
+between height (Figure 5.3).
+
+Similar results were obtained with the other traits that he studied:
+only one of the parental traits was expressed in the F1 generation while at
+the F2 stage both the traits were expressed in the proportion 3: 1. The
+contrasting traits did not show any blending at either F1 or F2 stage.
+
+2019—2020
+
+ 
+
+—

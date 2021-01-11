@@ -1,0 +1,19 @@
+Decimals
+95
+Now do the division, converting this fraction into a decimal
+number:
+So:
+Example 2
+Evaluate:
+Solution: The decimal number in the denominator has two digits
+to the right of the decimal point, so we need to move the decimal
+points in both the numerator and the denominator two places to
+the right. The numerator only has one digit to the right of the
+decimal point, so we will need to introduce a 0 as a placeholder in
+the numerator:
+Notice that the numerator and denominator are whole numbers
+with at least one common factor (both 750 and 125 are evenly
+divisible by 5). At this point we could either factor both the
+numerator and the denominator and cancel common factors, or
+we could do the division. I prefer to factor and cancel:
+So:

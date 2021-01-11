@@ -1,0 +1,39 @@
+Magnetism and
+Mo’r’rer
+
+ 
+
+(a)
+O 0
+
+Empty space
+(b)
+
+ 
+
+A'A'A'A'A'A'A'A'A'A
+IIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIII II
+uuuuuuuuu!
+
+(d)
+
+FIGURE 5.7
+
+Solution
+
+(a) Wrong. Magnetic ﬁeld lines can never emanate from a point, as
+shown in ﬁgure. Over any closed surface, the net ﬂux of B must
+always be zero, i.e., pictorially as many field lines should seem to
+enter the surface as the number of lines leaving it. The field lines
+shown, in fact, represent electric field of a long positively charged
+wire. The correct magnetic field lines are circling the straight
+conductor, as described in Chapter 4.
+
+2019-20
+
+9' g mama
+
+ 
+
+183

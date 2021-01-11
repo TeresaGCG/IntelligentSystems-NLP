@@ -1,0 +1,55 @@
+150
+
+i Physics
+
+EXAMPLE 4.8
+
+Now the current enclosed 18 is not I, but is less than this value.
+Since the current distribution is uniform, the current enclosed is,
+
+nr2 Ir2
+Ie =1 2 2—2
+m1 (1
+
+ 
+
+ 
+
+I 2
+Using Ampere’s law, 3(27") = ﬂea—r2
+,u I
+B = [27:12} [4.19(b)]
+B o< r (r < a)
+
+ 
+
+FIGURE 4. 16
+
+Figure (4.16) shows a plot of the magnitude of B with distance r
+from the centre of the wire. The direction of the ﬁeld is tangential to
+the respective circular loop (1 or 2) and given by the right-hand
+rule described earlier in this section.
+
+This example possesses the required symmetry so that Ampere’s
+law can be applied readily.
+
+It should be noted that while Ampere’s circuital law holds for any
+loop, it may not always facilitate an evaluation of the magnetic field in
+every case. For example, for the case of the circular loop discussed in
+Section 4.6, it cannot be applied to extract the simple expression
+B = ,uOI/ZR [Eq. (4.16)] for the field at the centre of the loop. However,
+there exists a large number of situations of high symmetry where the law
+can be conveniently applied. We shall use it in the next section to calculate
+the magnetic field produced by two commonly used and very useful
+magnetic systems: the solenoid and the toroid.
+
+4.8 THE SOLENOID AND THE TOROID
+
+The solenoid and the toroid are two pieces of equipment which generate
+magnetic fields. The television uses the solenoid to generate magnetic
+fields needed. The synchrotron uses a combination of both to generate
+the high magnetic fields required. In both, solenoid and toroid, we come
+across a situation of high symmetry where Ampere’s law can be
+conveniently applied.
+
+2019-20

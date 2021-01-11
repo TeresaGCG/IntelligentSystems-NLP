@@ -1,0 +1,39 @@
+502 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Associativity Data miss rate
+1 10.396
+2 8.6%
+4 8.3%
+8 8.1%
+FIGURE 7.15 The data cache miss rates for an organization like the Intrlnslty FastMATH
+processor for SPEC2000 benchmarks with associativity varying from one-way to eight·
+way. These results for 10 SPEC2000 programs are from Hennessy and Patterson [2003].
+Locating a Block in the Cache
+Now, let's consider the task of finding:l block in cache that is set associative. Just
+:I
+as in a direct-mapped cache, each block in a set-associative cache includes an
+address tag that gives the block address. The tag of every cache block within the
+appropriate set is checked to see if it matches the block address from the proces 
+sor. Figure 7.1 6 shows how the address is decomposed. The index value is used to
+select the set containing the address of interest, and the tags of all the blocks in the
+set must be searched. Because speed is of the essence, all the tags in the selected set
+are searched in parallel. As in a fully associative cache, a sequential search would
+make the hit time of a set-associative cache too slow.
+If the total cache size is kept the same, increasing the associativity increases
+the number of blocks per set, which is the number of simultaneous compares
+needed to perfo rm the search in parallel: each increase by a facto r of two in
+associativity doubles the number of blocks per set and halves the number of
+sets. Accordingly, each factor-of-two increase in associativity decreases the size
+of the index by I bit and increases the size of the tag by I bit. In a fully associa 
+tive cache, there is effectively only one set, and all the blocks must be checked in
+parallel. Thus, there is no index, and the entire address, excluding the block off 
+set, is compared against the tag of every block. In other words, we sea rch the
+entire cache without any indexing.
+In a direct-mapped cache, such as in Figure 7.7 on page 478, only a single com  
+parato r is needed, because the entry can be in only one block, and we access the
+cache simply by indexing. Figure 7.1 7 shows that in a four-way set-associative
+cache, four comparators are needed, together with a 4-to- 1 multiplexor to choose
+T, g
+Index Block Offset
+FIGURE 7.16 The three portions of an address In a set·assoclatlve or dlrect-mapped
+cache. The index is used to seleC1 the set, then the tag is used to choose the block by comparison with the
+blocks in the selected set.The block offset is the address ofthe desired data within the block.

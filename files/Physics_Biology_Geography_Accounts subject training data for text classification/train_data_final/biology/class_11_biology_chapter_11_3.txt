@@ -1,0 +1,54 @@
+176
+
+ 
+
+BIOLOGY
+
+compounds synthesised in the photosynthetic leaves are exported to all
+other parts of the plant including storage organs. From the storage organs
+they are later re-exported. The mineral nutrients are taken up by the
+roots and transported upwards into the stem, leaves and the growing
+regions. When any plant part undergoes senescence, nutrients may be
+withdrawn from such regions and moved to the growing parts. Hormones
+or plant growth regulators and other chemical signals are also transported,
+though in very small amounts, sometimes in a strictly polarised or
+unidirectional manner from where they are synthesised to other parts.
+Hence, in a ﬂowering plant there is a complex trafﬁc of compounds (but
+probably very orderly) moving in different directions, each organ receiving
+some substances and giving out some others.
+
+1 1. 1 MEANS OF TRANSPORT
+
+1 1 . 1 . 1 Diffusion
+
+Movement by diffusion is passive, and may be from one part of the cell to
+the other, or from cell to cell, or over short distances, say, from the inter-
+cellular spaces of the leaf to the outside. No energy expenditure takes place.
+In diffusion, molecules move in a random fashion, the net result being
+substances moving from regions of higher concentration to regions of lower
+concentration. Diffusion is a slow process and is not dependent on a ‘living
+system’. Diffusion is obvious in gases and liquids, but diffusion in solids is
+more likely rather than of solids. Diffusion is very important to plants since
+it is the only means for gaseous movement within the plant body.
+Diffusion rates are affected by the gradient of concentration, the
+permeability of the membrane separating them, temperature and pressure.
+
+1 l. 1.2 Facilitated Diffusion
+
+As pointed out earlier, a gradient must already be present for diffusion to
+occur. The diffusion rate depends on the size of the substances; obviously
+smaller substances difﬁise faster. The diffusion of any substance across a
+membrane also depends on its solubility in lipids, the major constituent of
+the membrane. Substances soluble in lipids diffuse through the membrane
+faster. Substances that have a hydrophilic moiety, ﬁnd it difﬁcult to pass
+through the membrane; their movement has to be facilitated. Membrane
+proteins provide sites at which such molecules cross the membrane. They
+do not set up a concentration gradient: a concentration gradient must
+already be present for molecules to diffuse even if facilitated by the proteins.
+This process is called facilitated diffusion.
+
+In facilitated diffusion special proteins help move substances across
+membranes without expenditure of ATP energy. Facilitated diffusion
+cannot cause net transport of molecules from a low to a high concentration
+— this would require input of energy. Transport rate reaches a maximum
+when all of the protein transporters are being used (saturation). Facilitated

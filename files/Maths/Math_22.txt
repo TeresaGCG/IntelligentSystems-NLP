@@ -1,0 +1,36 @@
+Homework Helpers: Basic Math and Pre-Algebra
+22
+When you multiply 3 numbers together, the order in which you per-
+form the multiplication doesn’t matter. For example, when finding the
+product 4 × 2 × 5, it doesn’t matter if you first find 4 × 2 and then multiply
+the result by 5: (4 × 2) × 5 = 8 × 5 = 40 or if you first find 2 × 5 and then
+multiply the result by 4: 4 × (2 × 5) = 4 × 10 = 40. Multiplication is said to
+be associative (again, just as addition is). It doesn’t matter how you group
+a string of products together, or which products you find first.
+Lesson 1-4 Review
+Find the following products:
+1. 4 × 9
+2. 36 × 8
+3. 62 × 18
+4. 3 × 5 × 8
+5. 16 × 10,000
+Lesson 1-5: Properties of 0 and 1
+You are now ready to learn some of the properties of zero that make
+it unique. The symbol zero represents that there is “nothing,” but it is
+very important to know where we have nothing. You use 0 as a place-
+holder in a number such as 1,052. If you didn’t have a zero in the hun-
+dreds place, the number would be 152. You have just seen examples of
+how zero is used as a placeholder in multiplication. The thousands’, hun-
+dreds’, tens’, and ones’ places are a way to organize our numbers so that
+we can perform calculations more easily. Without 0, this system could
+not work.
+In addition to being a placeholder, the “nothingness” of 0 is also spe-
+cial because it can be added to any number and not change the original
+number. For example, 6 + 0 = 6 and 152 + 0 = 152. Zero is called the
+additive identity because when you add it to any number you don’t change
+that number. In our number system there is only one additive identity; 0
+is unique in that regard.
+Zero does some strange things when it is involved in multiplication.
+Instead of doing “nothing” to the original number, it turns all numbers
+into itself. If you take any number and multiply it by 0, you will get 0.
+www.ebook3000.com

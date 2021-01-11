@@ -1,0 +1,136 @@
+WORK. ENERGY AND POWER
+
+131
+
+to 103 m s‘1 so that it can have a high
+probability of interacting with isotope 2SSU
+and causing it to fission. Show that a
+neutron can lose most of its kinetic energy
+in an elastic collision with a light nuclei
+like deuten‘um or carbon which has a mass
+of only a few times the neutron mass. The
+material making up the light nuclei. usually
+heavy water (D20) or graphite. is called a
+moderator.
+
+ 
+
+Answer The initial kinetic energy of the neutron
+is
+
+1
+Kli = E m1v12i
+
+while its final kinetic energy from Eq. (6.27)
+
+2
+1 2 1 m1_m2 2
+KleEmlvlf 2—m1{m +m vli
+1 2
+
+The fractional kinetic energy lost is
+2
+f 2 Km 2 w
+1 Kli m1 + m2
+
+while the fractional kinetic energy gained by the
+moderating nuclei KZf / K h. is
+
+ 
+
+f2 = 1 — f1 (elastic collision)
+
+4mlm2
+
+(m1 + m2 )2
+
+One can also verify this result by substituting
+from Eq. (6.28).
+
+For deuterium m2 = 2m1 and we obtain
+f1 = 1/9 whilef2 = 8/9. Almost 90% of the
+neutron’s energy is transferred to deuterium. For
+carbon j"1 = 71.6% and f2 = 28.4%. In practice,
+however, this number is smaller since head-on
+collisions are rare. 4
+
+If the initial velocities and final velocities of
+both the bodies are along the same straight line,
+then it is called a one-dimensional collision, or
+head-on collision. In the case of small spherical
+bodies, this is possible if the direction of travel
+of body 1 passes through the centre of body 2
+which is at rest. In general, the collision is two-
+dimensional, where the initial velocities and the
+final velocities lie in a plane.
+
+6. 12.3 Collisions in Two Dimensions
+
+Fig. 6.10 also depicts the collision of a moving
+mass m1 with the stationary mass m2. Linear
+momentum is conserved in such a collision.
+Since momentum is a vector this implies three
+equations for the three directions (x, y, 2}.
+Consider the plane determined by the final
+velocity directions of m1 and m2 and choose it to
+be the x—y plane. The conservation of the
+z-component of the linear momentum implies
+that the entire collision is in the x—y plane. The
+x— and y-component equations are
+
+”11%: mlvlfcos 01 + mgvycos 02 (6.29)
+
+O = mlv sin 61 — n12v2f sin 62 (6.30)
+
+1f
+One lmows {m1, m2, v1 3 in most situations. There
+are thus four unknowns {v1f, vgf, 01 and 02}, and
+only two equations. If 6 1 = 6 2 = O, we regain
+Eq. (6.24) for one dimensional collision.
+
+If, further the collision is elastic,
+
+lmv.2=lmv 2+1 v 2 (631)
+2 1 11 2 1 1f 2 m2 2f -
+
+We obtain an additional equation. That still
+leaves us one equation short. At least one of
+the four unknowns, say 0 1, must be made known
+for the problem to be solvable. For example, 01
+can be determined by moving a detector in an
+angular fashion from the x to the y axis. Given
+(ml, m2, v”, 01} we can determine {1) 02}
+
+1f’ v2f’
+from Eqs. (6.29)-(6.3 l).
+
+   
+
+F Example 6.13 Consider the collision
+depicted in Fig. 6.10 to be between two
+billiard balls with equal masses ml = m2.
+The first ball is called the cue while the
+second ball is called the target. The
+billiard player wants to ‘sink‘ the target
+ball in a corner pocket, which is at an
+angle 62 = 37°. Assume that the collision
+is elastic and that friction and rotational
+motion are not important. Obtain 91.
+
+ 
+
+ 
+
+ 
+
+Answer From momentum conservation, since
+the masses are equal
+
+V11 = vlf + V2f
+
+or ”1i2=("1f +V2f)'(v1f +V2f)
+
+2 2
+=v1f +v2f +2v1f.v2f
+
+2019-20

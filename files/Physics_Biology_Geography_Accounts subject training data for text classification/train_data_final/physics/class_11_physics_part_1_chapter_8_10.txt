@@ -1,0 +1,145 @@
+G RAVITATI ON
+
+ 
+
+ 
+
+ 
+
+2Gm2 1 Gm2
+— 1 2+— =—5.41 1
+
+J5
+
+The gravitational potential at the centre of
+
+the square (r 2 J2 l / 2) is
+
+U(r) = — 45 $
+
+8.8 ESCAPE SPEED
+
+If a stone is thrown by hand, we see it falls back
+to the earth. Of course using machines we can
+shoot an object with much greater speeds and
+with greater and greater initial speed, the object
+scales higher and higher heights. A natural
+query that arises in our mind is the following:
+‘can we throw an object with such high initial
+speeds that it does not fall back to the earth?’
+
+The principle of conservation of energy helps
+us to answer this question. Suppose the object
+did reach infinity and that its speed there was
+Vf. The energy of an object is the sum of potential
+and kinetic energy. As before W1 denotes that
+gravitational potential energy of the object at
+infinity. The total energy of the projectile at
+infinity then is
+
+2
+me
+2
+
+If the object was thrown initially with a speed
+Vi from a point at a distance (h+RE) from the
+centre of the earth (RE = radius of the earth), its
+energl initially was
+1 2 GmME
+E (h+RE)=—mVi ——+W1
+2 (h + RE)
+By the principle of energy conservation
+Eqs. (8.26) and (8.27) must be equal. Hence
+
+E(oo)=Wl+
+
+ 
+
+(8.26)
+
+(8.27)
+
+mV,2 _ GmME _ me
+
+2 (h + RE) 2
+The R.H.S. is a positive quantity with a
+minimum value zero hence so must be the L.H.S.
+
+Thus, an object can reach infinity as long as V1.
+is such that
+
+ml/i2 GmME
+. ——2o
+2 (h+RE) (8.29)
+
+The minimum value of V1. corresponds to the
+case when the L.H.S. of Eq. (8.29) equals zero.
+
+ 
+
+ 
+
+(8.28)
+
+ 
+
+193
+
+Thus, the minimum speed required for an object
+to reach infinity (i.e. escape from the earth)
+corresponds to
+l 2 GmM
+—m V. = E
+
+( , )mm h + RE (8.30)
+
+ 
+
+2
+
+If the object is thrown from the surface of
+
+the earth, h = O, and we get
+
+2GME
+(Wm. - ./ RE (8.31)
+
+Using the relation 9 2 GM E / R2 , we get
+
+(Vi)min = 1/2gRE (8.32)
+Using the value of g and RE, numerically
+(Vl.)mmzl 1.2 km/s. This is called the escape
+speed, sometimes loosely called the escape
+velocity.
+
+Equation (8.32) applies equally well to an
+object thrown from the surface of the moon with
+g replaced by the acceleration due to Moon’s
+gravity on its surface and rE replaced by the
+radius of the moon. Both are smaller than their
+values on earth and the escape speed for the
+moon turns out to be 2.3 km/s, about five times
+smaller. This is the reason that moon has no
+atmosphere. Gas molecules if formed on the
+surface of the moon having velocities larger than
+this will escape the gravitational pull of the
+moon.
+
+ 
+
+} Example 8.4 Two uniform solid spheres
+of equal radii R, but mass M and 4 M have
+a centre to centre separation 6 R, as shown
+in Fig. 8.10. The two spheres are held fixed.
+A projectile of mass m is projected from
+the surface of the sphere of mass M directly
+towards the centre of the second sphere.
+Obtain an expression for the minimum
+
+speed v of the projectile so that it reaches
+the surface of the second sphere.
+
+Answer The projectile is acted upon by two
+mutually opposing gravitational forces of the two
+
+2019-20

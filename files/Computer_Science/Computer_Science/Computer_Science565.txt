@@ -1,0 +1,43 @@
+7.6 Real Stuff: The Pentium P4 and the AMD Opteron Memory Hierarchies 549
+the RAM cells in a multiported memory must be much larger than single-ported
+cells. The alternative scheme is to break the cache into banks and allow multiple,
+independent accesses, provided the accesses are to different banks. The technique is
+similar to interleaved main memory (see Figure 7.11 on page 489).
+To reduce the memory traffic in a multiprocessor configuration, Intel has other
+versions of the P4 with much larger on-dlip caches in 2004. For example, the Intel
+Pentium P4 Xeon comes with third-level cache chip of 1 MB and is intended for
+011
+dual-processor servers. A more radical example is the Intel Pentium P4 Extreme
+Edition, which comes with 2 MB of L3 cache but no support for multiprocessing.
+These two chips are much larger and more expensive. For example, in 2004 a Preci 
+sion Workstation 360 with a 3.2 GHz P4 costs about $1900. Upgrading to the
+Extreme Edition processor adds $500 to the price. The Dell Precision Workstation
+450, which allows dual processors, costs about $2000 for a 3.2 GHz Xeon with 1MB
+of L3 cache. Adding a second processor like that one adds $1500 to the price.
+The sophisticated memory hierarchies of these chips and the large fraction of
+the dies dedicated to caches and TLBs show the significant design effort expended
+to try to close the gap between processor cycle times and memory latency. Future
+advances in processor pipeline designs, together with the increased use of multi 
+processing that presents its own problems in memory hierarchies, provide many
+new challenges for designers.
+Elaboration: Perhaps the largest difference between the AMD and Intel chips is the
+use of a trace cache for the P4 instruction cache, while the AMD Opteron uses a more
+traditional instruction cache.
+Instead of organizing the instructions in a cache block sequentially to promote spa 
+tial locality, a trace cache finds a dynamic sequence of instructions including taken
+branches to load into a cache block. Thus, the cache blocks contain dynamic traces of
+the executed instructions as determined by the CPU rather than static sequences of
+instructions as determined by memory layout. It folds branch prediction (Chapter 6) into
+the cache, so the branches must be validated along with the addresses in order to have
+a valid fetch. In addition, the P4 caches the micro-operations (see Chapter 5) rather
+than the IA-32 instructions as in the Opteron.
+Clearly, trace caches have much more complicated address mapping mechanisms,
+since the addresses are no longer aligned to power-of-two multiples of the word size.
+Trace caches can improve utilization of cache blocks, however. For example, very
+long blocks in conventional caches may be entered from a taken branch, and hence the
+first portion of the block occupies space in the cache that might not be fetched. Simi 
+larly, such blocks may be exited by taken branches, so the last portion of the block
+might be wasted. Given that taken branches or jumps occur every 5-10 instructions,
+effective block utilization is a real problem for processors like the Opteron, whose 64 
+byte block would likely include 16-24 80x86 instructions. Trace caches store instruc 
+tions only from the branch entry point to the exit of the trace, thereby avoiding such

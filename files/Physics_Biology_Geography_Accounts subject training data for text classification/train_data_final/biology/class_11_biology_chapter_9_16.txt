@@ -1,0 +1,62 @@
+158
+
+ 
+
+BIOLOGY
+
+Concentration of Substrate
+
+With the increase in substrate concentration, the velocity of the enzymatic
+reaction rises at ﬁrst. The reaction ultimately reaches a maximum velocity
+(Vmax) which is not exceeded by any further rise in concentration of the
+substrate. This is because the enzyme molecules are fewer than the
+substrate molecules and after saturation of these molecules, there are no
+free enzyme molecules to bind with the additional substrate molecules
+(Figure 9.7).
+
+The activity of an enzyme is also sensitive to the presence of speciﬁc
+chemicals that bind to the enzyme. When the binding of the chemical
+shuts off enzyme activity, the process is called inhibition and the chemical
+is called an inhibitor.
+
+When the inhibitor closely resembles the substrate in its molecular
+structure and inhibits the activity of the enzyme, it is known as
+competitive inhibitor. Due to its close structural similarity with the
+substrate, the inhibitor competes with the substrate for the substrate-
+binding site of the enzyme. Consequently, the substrate cannot bind and
+as a result, the enzyme action declines, e. g., inhibition of succinic
+dehydrogenase by malonate which closely resembles the substrate
+succinate in structure. Such competitive inhibitors are often used in the
+control of bacterial pathogens.
+
+9. 12.5 Classification and Nomenclature of Enzymes
+
+Thousands of enzymes have been discovered, isolated and studied. Most
+of these enzymes have been classiﬁed into different groups based on the
+
+type of reactions they catalyse. Enzymes are divided into 6 classes each
+with 4- 13 subclasses and named accordingly by a four-digit number.
+
+Oxidoreductases/dehydrogenases: Enzymes which catalyse
+oxidoreduction between two substrates S and S’ e. g.,
+
+-.
+T
+
+)-. \y-"l . ~ -.'~;',... 3- #2; v “we -v. 512.46-
+w: “’3’WarsawEimﬂmmﬂw—ﬁsgmﬁmlwr - -
+
+ 
+
+Transferases: Enzymes catalysing a transfer of a group, G (other than
+hydrogen) between a pair of substrate S and S’ e. g.,
+
+Hydrolases: Enzymes catalysing hydrolysis of ester, ether, peptide,
+glycosidic, C-C, C-halide or P-N bonds.
+
+Lyases: Enzymes that catalyse removal of groups from substrates by
+mechanisms other than hydrolysis leaving double bonds.
+
+ 
+
+21‘ ‘f

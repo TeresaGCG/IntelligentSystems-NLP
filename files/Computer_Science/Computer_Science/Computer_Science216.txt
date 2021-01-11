@@ -1,0 +1,22 @@
+200 Chapter 3 Arithmetic: for Computers
+(
+Start
+1. Compare the exponents of the two numbers.
+Shift the smaller number to the right until its
+exponent would match the larger exponent
+2.Add the significands
+3. Normalize the sum, either shifting right and
+incrementing the exponent or shifting left
+and decrementing the exponent
+Yo,
+Overllow or
+underflow?
+No Exception
+4. Round the significand to the appropriate
+number of bits
+No
+Still normalized?
+Yo,
+FIGURE 3.16 floating-poInt addition. The normal p.1th is to execute steps 3 and 4 once, but if
+rounding the sum to be unnormalized,we must repeat step 3.
+QlU'ie&

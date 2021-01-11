@@ -1,0 +1,43 @@
+304 Chapter 5 The Processor: Datapath and Control
+Field 0 " rt shamt funct
+Bit positions 31:26 25:21 20:16 15 :11 10:6 5:0
+0- R-t ype instruction
+Field 35 or 43 " rt address
+Bit positions 31:26 25:21 20:16 15:0
+b. Load " st ore inst ruction
+Field 4 " rt address
+Bit positions 31:26 25:21 20:16 15:0
+c Branch instruction
+FIGURE 5.14 The three Instruction classes (R·type, load and store, and branch) use two
+different Instruction formats. The jmnp instructions use another format, which we will discuss
+shortly. (a) Instruction format for R-format instructions, which aU have an opoode of o. These instructions
+have three register operands: rs, fI, and rd. Fields rs and rt are sources, and rd is the destination. The ALU
+nUlction is in the funct field and is decoded by the ALU control design in the previous section. The R-type
+instructions that we implement are add, sub, and, or, and s1t. The shamt field is wed only for shifts.; we
+will ignore it in this chapter. (b) Instruction format for load (opcode = 35 ,) and store (opcode = 43 ...)
+tet t
+instructions. The register rs is the base register that is added to the 16-bit address field to form the memory
+address. For 10.1ds, rt is the destination register for the loaded value. For stores, is the source register
+rt
+whose value should be stored into memory.(c) Instruction format for branch equal (opcode = 4).The reg 
+isters rs and are the source registers that are compared for equality. The 16-bit address field is sign 
+rt
+extended, shifted, and added to the PC to compute the branch target address.
+• The 16-bit offset for branch equal, load, and store always positions
+tS ttl
+15: O•
+• The destination register is in one of two places. For a load it is in bit
+positions 20:16 (rt), while for an R-type instruction it is in bit positions
+15: II (rd). Thus we will need to add a multiplexor to select which field of
+the instruction is used to indicate the register number to be written.
+Using this information, we can add the instruction labels and extra multiplexor
+(for the Write register number input of the register file) to the simple datapath.
+Figure 5. 15 shows these additions plus the ALU control block, the write signals fo r
+state elements, the read signal fo r the data memory, and the control signals for the
+multiplexors. Since all the multiplexors have two inputs, they each require a single
+control line.
+Figure 5.1 5 shows seven single-bit control lines plus the 2-bit ALUOp control
+signal. We have already defined how the ALUOp control signal works, and it is
+useful to define what the seven other control signals do informally before we
+determine how to set these control signals during instruction execution.
+Figure 5. 16 describes the function of these seven control lines.

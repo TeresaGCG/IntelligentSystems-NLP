@@ -1,0 +1,106 @@
+U N [TS AND M EASU REM ENT
+
+21
+
+2.3.3 Range of Lengths
+
+The sizes of the objects we come across in the
+universe vary over a very wide range. These may
+vary from the size of the order of 10'14 m of the
+tiny nucleus of an atom to the size of the order
+of 1026 m of the extent of the observable universe.
+Table 2.3 gives the range and order of lengths
+and sizes of some of these objects.
+
+We also use certain special length units for
+short and large lengths. These are
+
+1 fermi = 1 f= 10'15 m
+1 angstrom = 1 A = 10'10 m
+1 astronomical unit = 1 AU (average distance
+of the Sun from the Earth)
+= 1.496x 1011 m
+
+1 light year = 1 ly= 9.46 x 1015 m (distance
+that light travels with velocity of
+3 x 108 m S'1 in 1 year)
+1 parsec = 3.08 x 1016 m (Parsec is the
+distance at which average radius of earth’s orbit
+subtends an angle of 1 arc second)
+
+2.4 MEASUREMENT OF MASS
+
+Mass is a basic property of matter. It does not
+depend on the temperature, pressure or location
+of the object in space. The SI unit of mass is
+kilogram (kg). The prototypes of the International
+standard kilogram supplied by the International
+Bureau of Weights and Measures (BIPM) are
+available in many other laboratories of different
+countries. In India, this is available at the
+National Physical Laboratory (NPL), New Delhi.
+
+While dealing with atoms and molecules, the
+kilogram is an inconvenient unit. In this case,
+there is an important standard unit of mass,
+called the unified atomic mass unit (u), which
+has been established for expressing the mass
+of atoms as
+
+1 unified atomic mass unit = 1u
+= (1 / 12) of the mass of an atom of carbon- 12
+isotope (1: C) including the mass of electrons
+= 1.66 X 10—27 kg
+
+Mass of commonly available objects can be
+determined by a common balance like the one
+used in a grocery shop. Large masses in the
+universe like planets, stars, etc., based on
+Newton’s law of gravitation can be measured by
+using gravitational method (See Chapter 8). For
+measurement of small masses of atomic/sub-
+atomic particles etc., we make use of mass
+spectrograph in which radius of the trajectory
+is proportional to the mass of a charged particle
+moving in uniform electric and magnetic field.
+
+2.4.1 Range of Masses
+
+The masses of the objects, we come across in
+the universe, vary over a very wide range. These
+may vary from tiny mass of the order of 10'30 kg
+of an electron to the huge mass of about 1055 kg
+of the known universe. Table 2.4 gives the range
+and order of the typical masses of various
+objects.
+
+Table 2.3 Range and order of lengths
+
+Size of object or distance
+Size of a proton
+
+Size of atomic nucleus
+Size of hydrogen atom
+Length of typical virus
+Wavelength of light
+
+Size of red blood corpuscle
+Thickness of a paper
+
+Height of the Mount Everest above sea level
+
+Radius of the Earth
+
+Distance of moon from the Earth
+
+Distance of the Sun from the Earth
+
+Distance of Pluto from the Sun
+Size of our galaxy
+Distance to Andromeda galaxy
+
+Distance to the boundary of observable universe
+
+ 
+
+2019-20

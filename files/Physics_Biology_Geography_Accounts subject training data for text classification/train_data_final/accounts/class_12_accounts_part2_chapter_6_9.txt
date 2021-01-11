@@ -1,0 +1,63 @@
+244
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+0 from the accounting records of the enterprise, or
+o by adjusting revenue from operation, cost of revenue from operations
+and other items in the statement of proﬁt or loss for the following:
+
+changes during the period in inventories and trade receivables
+and payables;
+
+other non—cash items; and
+
+other items for which cash effects are investing or ﬁnancing cash
+ﬂows.
+
+Exhibit 6.3 shows the proforma of cash ﬂows from operating activities using
+direct method.
+
+Cash Flows from Operating Activities (Direct Method)
+
+Cash ﬂows from operating activities:
+Cash receipts from customers
+—) Cash paid to suppliers and employees
+
+= Cash generated from operations
+
+(—) Income tax paid
+
+— Cash ﬂow before extraordinary items
+
++/— Extraordinary items
+= Net cash from operating activities
+
+Illustration
+
+ 
+
+Exhibit 6.3 : Proforma of Cash Flows from Operating Activities
+1
+
+From the following information, calculate cash ﬂow from operating activities
+using direct method.
+
+Statement of Proﬁt and Loss
+for the ear ended on March 31 2017
+
+i) Revenue from operations 2,20,000
+ii) Other Income —
+iii) Total revenue (i+ii) 2,20,000
+
+iv) Expenses
+
+Cost of materials consumed 1,20,000
+Employees beneﬁts expenses 30.000
+
+Depreciation 20,000
+Other expenses
+Insurance Premium 8,000
+Total expenses 1.78.000
+v) Proﬁt before tax (iii-iv) 42.000
+Less Income tax (10,000)
+vi) Proﬁt after tax

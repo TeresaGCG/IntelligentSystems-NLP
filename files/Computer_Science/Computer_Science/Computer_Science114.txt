@@ -1,0 +1,47 @@
+98 Chapter 2 Instructions: Language of the Computer
+15
+branch within ± 2 words of the current instruction if we use the PC as the regis 
+ter to be added to the address. Almost all loops and ifstatements are much smaller
+16
+than 2 words, so the PC is the ideal choice.
+PC-relative addressing An This form of branch addressing is called PC-relative addressing. As we shall see
+addressing regime in which the in Chapter 5, it is convenient for the hardware to increment the PC early to point to
+address is the slim ofthe pro 
+the next instruction. Hence, the MIPS address is actually relative to the address of
+gram counter (PC) and a con 
++
+the following instruction (PC 4) as opposed to the current instmction (PC).
+stant in the instruction.
+Like most recent computers, MIPS uses PC-relative addressing for all condi 
+tional branches because the destination of these instructions is likely to be close to
+the branch. On the other hand, jump-and-link instructions invoke procedures
+that have no reason to be near the call, and so they normally use other forms of
+addressing. Hence, the MIPS architecture offers long addresses for procedure calls
+by using the I-type format for both jump and jump-and-link instructions.
+Since all MIPS instructions are 4 bytes long, MIPS stretches the distance of the
+branch by having PC-relative addressing refer to the number of words to the next
+instruction instead of the number of bytes. Thus, the 16-bit field can branch four
+times as far by interpreting the field as a relative word address rather than as a rel 
+ative byte address. Similarly, the 26-bit field in jump instructions is also a word
+address, meaning that it represents a 28-bit byte address.
+Elaboration: Since the PC is 32 bits, 4 bits must come from somewhere else. The
+MIPS jump instruction replaces only the lower 28 bits of the PC, leaving the upper 4
+bits of the PC unchanged. The loader and linker (Section 2.9) must be careful to avoid
+placing a program across an address boundary of 256 MB (64 million instructions); oth 
+erwise a jump must be replaced by a jump register instruction preceded by other
+instructions to load the full 32-bit address into a register.
+Showing Branch Offset in Machine Language
+EXAMPLE The while loop on page 74 was compiled into this MIPS assembler code:
+Loop : sll $tl , $s3 , 2 # Temp r eg $t1 4 * i
+=
+add $t1,$t1,$s6 # $t1 address of save[i]
+=
+1w ItO , O(It!) # Temp r eg $t O save[i]
+=
+*
+bne $tO , $s5 , Exit # go to Exi t i f save[i] k
+addi $s3 , $s3 , 1 #i = i + l
+j Loop It go to Loop
+Exit :
+If we assume we place the loop starting at location 80000 in memory, what is
+the MIPS machine code for this loop?

@@ -1,0 +1,58 @@
+PLANT GROWTH AND DEVELOPMENT
+
+Similarly, there are a number of events in the life of a plant where
+more than one PGR interact to affect that event, e. g., dormancy in seeds /
+buds, abscission, senescence, apical dominance, etc.
+
+Remember, the role of PGR is of only one kind of intrinsic control.
+Along with genomic control and extrinsic factors, they play an important
+role in plant growth and development. Many of the extrinsic factors such
+as temperature and light, control plant growth and development via PGR.
+Some of such events could be: vernalisation, ﬂowering, dormancy, seed
+germination, plant movements, etc.
+
+We shall discuss brieﬂy the role of light and temperature (both of them,
+the extrinsic factors) on initiation of ﬂowering.
+
+15.5 PHOTOPERIODISM
+
+It has been observed that some plants require a periodic exposure to
+light to induce ﬂowering. It is also seen that such plants are able to
+measure the duration of exposure to light. For example, some plants
+require the exposure to light for a period exceeding a well deﬁned critical
+duration, while others must be exposed to light for a period less than this
+critical duration before the ﬂowering is initiated in them. The former group
+of plants are called long day plants while the latter ones are termed
+short day plants. The critical duration is different for different plants.
+There are many plants, however, where there is no such correlation
+between exposure to light duration and induction of ﬂowering response;
+such plants are called day-neutral plants (Figure 15.12). It is now also
+
+Above Above
+No Flowering _ .
+—Cnucal
+
+Flowering Critical Inhom-
+
+period
+photo-
+period
+Below
+
+No Flowering
+
+ 
+
+Below
+
+ 
+
+Long day plant Short day plant
+
+Figure 15.12 Photoperiodism : Long day, short day and day neutral plants
+
+ 
+
+Day neutral plant
+
+251

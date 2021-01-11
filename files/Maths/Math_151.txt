@@ -1,0 +1,29 @@
+Inequalities and Graphs
+151
+Example 2
+Solve the inequality: 2x+ 10 ≥ 7x
+Solution: Collect all the terms involving variables on one side,
+and the numbers on the other, and then solve for x:
+2x+ 10 ≥ 7x
+Subtract 2x from both sides 2x+ 10 − 2x≥ 7x− 2x
+Simplify 10 ≥ 5x
+Divide both sides by 5
+Simplify 2 ≥x
+Turn the entire inequality around,
+if you like seeing the variable on
+the left (as I do). x≤ 2
+The solution is all real numbers less than or equal to 2.
+Example 3
+Solve the inequality: 12 > −2x−6
+Solution: Add 6 to both sides, and then divide both sides by −2.
+Remember to flip the inequality symbol:
+12> −2x−6
+Add 6 to both sides 12 + 6 > −2x−6+ 6 
+Simplify 18 > −2x
+Divide both sides by −2 and
+flip the inequality 
+Simplify −9<x
+Turn the entire inequality around,
+if you like seeing the variables on
+the left (as I do). x> −9
+The solution is all real numbers greater than −9.

@@ -1,0 +1,32 @@
+Homework Helpers: Basic Math and Pre-Algebra
+36
+relationships to each other. You create a number line by first drawing a
+line and putting a mark for 0, as shown in Figure 2.1. By convention, the
+positive integers are located to the right of 0; the negative integers are
+located to the left of 0. The numbers increase in value as you go from left
+to right, regardless of whether you are working with negative or positive
+numbers. In general terms using variables, if a number x is located to the
+right of another number y on the number line, then x is greater than y.
+From a different perspective, if a number y is located to the left of an-
+other number x on the number line, then y is less than x.
+0
+Figure 2.1
+To place numbers on a number line you have to know two things. The
+first thing you need to know is whether the number goes to the left or the
+right of 0. This is determined by the sign of the number; if a number is
+positive it goes to the right, and if it is negative it goes to the left. The
+second thing you need to know is how far away from 0 to put the number.
+That is determined by the magnitude of the number. The magnitude of
+the integer tells you how many units the integer is away from 0.
+Example 1
+Graph the numbers 2, −3, and 5 on a number line. Order the
+numbers from smallest to greatest.
+Solution:
+The numbers from smallest to greatest are −3, 2, 5. Their graph is
+shown in Figure 2.2.
+–3 0 2 5
+ Figure 2.2
+The distance from a number to 0 is called its absolute value. The
+absolute value of a number is always positive. A number and its opposite
+are always the same distance away from 0, but are located on opposite
+www.ebook3000.com

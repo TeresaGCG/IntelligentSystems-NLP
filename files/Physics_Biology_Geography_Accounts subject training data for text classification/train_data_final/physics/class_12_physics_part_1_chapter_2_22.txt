@@ -1,0 +1,65 @@
+Electrostatic Potential
+and Capacitance
+
+every volume element Av of the slab has a dipole moment
+
+P Av in the direction of the field. The volume element Av is
+macroscopically small but contains a very large number of
+molecular dipoles. Anywhere inside the dielectric, the
+volume element Av has no net charge (though it has net
+dipole moment). This is, because, the positive charge of one
+dipole sits close to the negative charge of the adjacent dipole.
+However, at the surfaces of the dielectric normal to the
+electric ﬁeld, there is evidently a net charge density. As seen
+in Fig 2.23, the positive ends of the dipoles remain
+unneutralised at the right surface and the negative ends at
+the left surface. The unbalanced charges are the induced
+charges due to the external field.
+
+Thus, the polarised dielectric is equivalent to two charged
+surfaces with induced surface charge densities, say 6p
+and —c7p. Clearly, the ﬁeld produced by these surface charges
+opposes the external field. The total field in the dielectric FIGURE 2.23 A uniformly
+is, thereby, reduced from the case when no dielectric is polarised dielectric amounts
+present. We should note that the surface charge density [0 induced surface charge
+
+top arises from bound (not free charges) in the dielectric. denSity. but no volume
+charge density.
+
+ 
+
+2. 1 1 CAPACITORS AND CAPACITANCE
+
+A capacitor is a system of two conductors separated by an insulator
+(Fig. 2.24). The conductors have charges, say Q1 and Q2, and potentials
+V1 and V2. Usually, in practice, the two conductors have charges Q
+and — Q, with potential difference V = V1 — V2 between them. We shall
+consider only this kind of charge configuration of the capacitor. (Even a
+single conductor can be used as a capacitor by assuming the other at
+infinity.) The conductors may be so charged by connecting them to the
+two terminals of a battery. Q is called the charge of the capacitor, though
+this, in fact, is the charge on one of the conductors — the total charge of
+the capacitor is zero.
+
+The electric ﬁeld in the region between the
+conductors is proportional to the charge Q. That
+is, if the charge on the capacitor is, say doubled,
+the electric field will also be doubled at every point.
+(This follows from the direct proportionality
+between ﬁeld and charge implied by Coulomb’s
+law and the superposition principle.) Now,
+potential difference V is the work done per unit ~
+positive charge in taking a small test charge from Conductor 1 Conductor 2
+the conduCtor 2 to 1 againSt the field' FIGURE 2.24 A system of two conductors
+Consequently, Vis also 13013011101131 to Q, and the separated by an insulator forms a capacitor.
+ratio Q/ Vis a constant:
+
+_ Q
+C — V (2.38)
+
+The constant C is called the capacitance of the capacitor. C is independent
+of Q or V, as stated above. The capacitance C depends only on the 73
+
+   
+
+2019-20

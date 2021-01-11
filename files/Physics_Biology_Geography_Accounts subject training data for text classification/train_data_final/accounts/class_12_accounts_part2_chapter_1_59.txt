@@ -1,0 +1,55 @@
+6 0 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Equity Share Capital A/c
+Securities Premium Reserve A/c
+To Equity Share First Call A/c
+To Share Forfeiture A/c
+(Forfeiture of 750 shares of Muskan)
+
+Bank A/c
+Share Forfeiture A/c
+To Equity Share Capital A/c
+(Re-issue of 500 forfeited shares of Sudhir)
+
+Share Forfeiture A/c
+
+To Capital Reserve
+(Proﬁt on 500 re-issued shares transferred
+to Capital reserve)
+
+Equity Share Second and Final
+
+To Equity Share Capital A/c
+
+To Securities Premium Reserve A/c
+(Second and Final Call money due
+on 28,750 shares)
+
+Bank A/c Dr.
+To Equity Share Second and Final Call A/c
+
+(Second and ﬁnal call amount received
+on 27,750 shares)
+
+Equity Share Capital A/c Dr.
+
+Securities Premium Reserve Dr.
+To Equity Share Second and Final Call A/c
+To Share Forfeiture A/c
+
+(Forfeiture of 1,000 shares of Amit)
+
+Bank A/c
+
+To Equity Share Capital A/c
+
+To Securities Premium Reserve A/c
+(Re-issue of 1,500 forfeited shares. including
+1,000 shares of Lakshya and 500 shares
+of Muskan)
+
+Share Forfeiture A/c
+
+To Capital Reserve
+(Proﬁt on 1,500 re-issued shares transferred
+to Capital Reserve)

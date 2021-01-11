@@ -1,0 +1,41 @@
+318 Chapter 5 The Processor: Datapath and Control
+ity of a pipelined processor. For those, who want to understand how the hardwa re
+really implements the control, forge ahead!
+Check
+Look at the control signal in Figure 5.22 on page 312. Can any control signal in
+Yourself the figure be replaced by the inverse of another? (Hint: Take into account the don't
+cares.) If so, can you use one signal for the other without adding an inverter?
+A Multicycle Implementation
+In an earlier example, we broke each instruction into a series of steps corresponding
+to the functional unit operations that were needed. We can use these steps to create a
+multicyd e multicyde implementation. In a multicycle implementation, each step in the exe 
+implem entation Also called cution will take I clock cycle. The multicycle implementation allows a functional
+multiple dock cyde implem en 
+unit to be used more than once per instruction, as long as it is used on different
+tation. An implementation in
+clock cycles. This sharing can help reduce the amount of hardware required. The
+which an instruction is executed
+ability to allow instructions to take different numbers of clock cycles and the ability
+in multiple dock cydes.
+to share functional units within the execution of a single instruction are the major
+advantages of a multicycle design. Figure 5.25 shows the abstract version of the mul-
+Instruction
+register -
+PC Address Data f- A ~
+-
+Register #
+Instruction
+or data Registers ) ALU ALUOut
+Memory
+Register # r-
+1/
+f- B
+Memory
+Data data '---
+Register #
+register
+FIGURE 5.25 11Ie high-level view of the multlcycle datapath. This picture shows the key elements of the
+datapath: a shared memory unit,a singleALU shared among instructions, and the connections among these shared lUlits.The
+use of shared rrUlctionallUlits requires the addition or widening of multiplexors as well as new temporary registers that hold
+data between dock cycles of the same instruction. The additional registers are the Instruction register (IR), the Memory data
+register (MDR),A, B,and AWOUl.

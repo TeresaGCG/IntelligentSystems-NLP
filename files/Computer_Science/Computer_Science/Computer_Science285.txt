@@ -1,0 +1,41 @@
+4.5 Fallacies and Pitfalls 26.
+First we find the execution time for the two different compilers using the fol 
+ANSWER
+lowing equation:
+CPU clock cycles
+Execution time
+Clock rate
+We can use an earlier fo rmula fo r CPU clock cycles:
+L"
+CPU clock cycles = (CPI XCi)
+j
+; = I
+9 9
+CPUclock cycles\ = (5 x l + 1 x2+ 1 X 3) X 10 = lOx 10
+CPU clockcycles = ( lOX 1 + 1 X 2+ 1 X 3)X 109 = 15 X 109
+2
+Now, we find the execution time for the two compilers:
+9
+10 X 10
+Execution time\ = = 2.5 seconds
+9
+4 X 10
+Execution time 3.75 seconds
+2
+So, we conclude that compiler 1 generates the faster program, according to
+execution time. Now, let's compute the MIPS rate for each version of the pro 
+gram, USlllg
+Instruction count
+MIPS
+Execution time X 106
+9
+(5 + 1 + 1) X10 = 2800
+6
+2.5 X 10
+9
+MIPS = (10 + 1 + 1) X10 = 3200
+2
+6
+3.75(30) X 10
+So, the code from compiler 2 has a higher MIPS rating, but the code from
+compiler 1 runs faster!

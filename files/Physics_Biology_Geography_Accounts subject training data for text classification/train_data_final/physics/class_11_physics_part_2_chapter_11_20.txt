@@ -1,0 +1,64 @@
+In the absolute temperature scale, the zero of the scale corresponds to the temperature
+where every substance in nature has the least possible molecular activity. The Kelvin
+absolute temperature scale (T) has the same unit size as the Celsius scale (TC ). but
+differs in the origin :
+
+TC = T— 273.15
+
+The coefficient of linear expansion (all) and volume expansion (av) are defined by the
+relations :
+
+Al
+—= a,AT
+
+AV
+— = aVAT
+V
+
+where Al and AVdenote the change in length land volume Vfor a change of temperature
+AT. The relation between them is :
+
+05‘, = 3 0‘1
+
+The specific heat capacity of a substance is defined by
+
+52——
+mAT
+
+where m is the mass of the substance and AQ is the heat required to change its
+temperature by AT. The molar specific heat capacity of a substance is defined by
+
+_l§
+_yAT
+
+C
+
+where ,u. is the number of moles of the substance.
+
+The latent heat of fusion (Li) is the heat per unit mass required to change a substance
+from solid into liquid at the same temperature and pressure. The latent heat of
+vaporisation (LY) is the heat per unit mass required to change a substance from liquid
+
+to the vapour state without change in the temperature and pressure.
+
+The three modes of heat transfer are conduction, convection and radiation.
+
+. In conduction. heat is transferred between neighbouring parts of a body through
+molecular collisions, without any ﬂow of matter. For a bar of length L and uniform
+cross section A with its ends maintained at temperatures TC and TD, the rate of flow of
+heat H is :
+
+T —T
+H=KAM
+L
+
+where K is the thermal conductivity of the material of the bar.
+
+. Newton’s Law of Cooling says that the rate of cooling of a body is proportional to the
+excess temperature of the body over the surroundings :
+
+<19; _
+dt NE T.)
+
+Where T1 is the temperature of the surrounding medium and T2 is the temperature of
+the body.

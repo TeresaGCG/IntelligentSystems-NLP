@@ -1,0 +1,95 @@
+Semiconductor Electronics:
+
+Materials, Devices and
+
+Initially, diffusion current is large and drift current is small.
+As the diffusion process continues, the space-charge regions
+on either side of the junction extend, thus increasing the electric
+field strength and hence drift current. This process continues
+until the diffusion current equals the drift current. Thus a p-n
+junction is formed. In a p-n junction under equilibrium there
+is no net current.
+
+The loss of electrons from the n-region and the gain of
+electron by the p-region causes a difference of potential across
+the junction of the two regions. The polarity of this potential is
+such as to oppose further ﬂow of carriers so that a condition of
+equilibrium exists. Figure 14.1 1 shows the p-n junction at
+equilibrium and the potential across the junction. The
+n-material has lost electrons, and p material has acquired
+electrons. The n material is thus positive relative to the p
+material. Since this potential tends to prevent the movement of
+electron from the n region into the p region, it is often called a
+barrier potential.
+
+Simple Circuits
+
+9999
+9999
+p 9999
+9999
+9999
+
+4—E
+
+11
+
+[a]
+j?—
+(b)
+
+FIGURE 14.11 (a) Diode under
+equilibrium (V = O]. (b) Barrier
+potential under no bias.
+
+Example 14.3 Can we take one slab of p-type semiconductor and
+
+physically join it to another n-type semiconductor to get p-n junction? H
+
+Solution NO! Any slab, howsoever ﬂat, will have roughness much 5
+
+larger than the inter-atomic crystal spacing (~2 to 3 A) and hence a
+
+continuous contact at the atomic level will not be possible. The junction 3
+
+will behave as a discontinuity for the ﬂowing charge carriers. 50
+14.6 SEMICONDUCTOR DIODE 3%
+
+p 9999 n
+
+A semiconductor diode [Fig. 14.12(a)] is basically a ./7 2% K
+p-n junction with metallic contacts provided at the Metfultc 'T‘ . Metallic
+ends for the application of an external voltage. It is a con ac £2533)?“ contact
+
+two terminal device. A p-n junction diode is
+symbolically represented as shown in Fig. 14.12(b).
+
+The direction of arrow indicates the conventional
+direction of current (when the diode is under forward
+bias). The equilibrium barrier potential can be altered
+by applying an external voltage Vacross the diode.
+
+(a)
+
+._[>i_.
+
+p n
+(b)
+
+The situation of p-n junction diode under equilibrium FIGURE 1412 (a) Semiconductor diode.
+(without bias) is shown in Fig. 14.1 1(a) and (b). (b) Symbol for p-n junction diode.
+
+14.6.1 p-n junction diode under forward bias
+
+When an external voltage Vis applied across a semiconductor diode such
+that p-side is connected to the positive terminal of the battery and n—side
+to the negative terminal [Fig. 14.13(a)], it is said to be forward biased.
+The applied voltage mostly drops across the depletion region and the
+voltage drop across the p-side and n-side of the junction is negligible.
+(This is because the resistance of the depletion region — a region where
+there are no charges — is very high compared to the resistance of n-side
+and p-side.) The direction of the applied voltage (V) is opposite to the
+
+2019-20
+
+479

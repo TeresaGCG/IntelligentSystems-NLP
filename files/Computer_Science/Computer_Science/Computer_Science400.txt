@@ -1,0 +1,38 @@
+384 Chapter 6 Enhancing Performance with Plpellnlng
+Understanding Outside of the memory system, the effective operation of the pipeline is usually
+the most important factor in determining the CPI of the processor and hence its
+Program
+performance. As we will see in Section 6.9, understanding the performance of a
+Performance
+modern multiple-issue pipelined processor is complex and requires understand 
+ing more than just the issues that arise in a simple pipelined processor. Nonethe 
+less, structural, data, and control hazards remain important in both simple
+pipelines and in more sophisticated ones.
+For modern pipelines, structural hazards usually revolve around the floating 
+point unit, which may not be fully pipelined, while control hazards are usually
+more of a problem in integer programs, which tend to have higher branch fre 
+quencies as well as less predictable branches. Data hazards can be performance
+bottlenecks in both integer and floating-point programs. Often it is easier to deal
+with data hazards in floating-point programs because the lower branch frequency
+and more regular access patterns allow the compiler to try to schedule instruc 
+tions to avoid hazards. It is more difficult to perform such optimizations in inte 
+ger programs that have less regular access involving more use of pointers. As we
+will see in Section 6.9, there are more ambitious compiler and hardware tech 
+niques for reducing data dependences through scheduling.
+Check
+For each code sequence below, state whether it must stall, can avoid stalls using
+Yourself only forwarding, or can execute without stalling or forwarding:
+Sequence 1 Sequence 2 Sequence 3
+1. StO.O{StO) ,dd St1. StO. StO addi St1.StO.#l
+,dd St1. StO. StO addi St2. StO.#5 addi St2.StO.#2
+addi St4. Stl.#5 addi St3.StO.#2
+addi St3.StO.#4
+addi St5.StO.#5
+There is less in this thall
+meets the eye.
+A Pipelined Datapath
+Tallulah Bankhead, remark to
+Alexander Walleatt, 1922
+Figure 6.9 shows the single-cycle datapath from Chapter 5. The division of an
+instruction into five stages means a five-stage pipeline, which in turn means that
+up to five instructions will be in execution during any single clock cycle. Thus, we

@@ -1,0 +1,32 @@
+Ratios, Proportions, and Percents
+133
+Lesson 7-4 Review
+Solve the following problems:
+1. What is 55% of 1,900?
+2. What percent of 75 is 60?
+3. 72 is 60% of what number?
+Lesson 7-5: Percent Change
+The change in a variable is the difference between the final value of
+the variable and the initial value of the variable. For example, the price of
+a gallon of gasoline last week was $2.85, and this week the price is $2.52.
+The change of the price of a gallon of gasoline is 2.52 – 2.85, or –$0.33.
+When the change of a variable is negative, it means that the variable has
+decreased in value. When the change of a variable is positive, it means
+that the variable has increased in value. We use the symbol ∆ to repre-
+sent the change of a variable:
+∆x=x −x
+final initial
+The percent change of a variable is the ratio of the change in the
+variable divided by the initial value of the variable. This answer must be
+written as a percent, so you will need to convert the fraction to a percent.
+If the variable increases, then we talk about the percent increase of the
+variable. If the variable decreases, we talk about the percent decrease.
+Both the percent increase and the percent decrease are positive num-
+bers. The sign of the percent change is included through the words in-
+crease and decrease.
+Example 1
+Find the percent increase from 40 to 45.
+Solution: The percent change is found by first evaluating the ratio
+final – initial
+.
+initial

@@ -1,0 +1,10 @@
+234 Chapter 3 Arithmetic: for Computers
+3.52 (10 ) <§3.9> .. For More Practice: Evaluating Instruction Frequencies
+3.53 (10 ) <§3.9> .. For More Practice: Evaluating Instruction Frequencies
+3.54 (15) <§3.9> .. For More Practice: Evaluating Performance
+II
+3.55 (15) <§3.9> For More Practice: Evaluating Performance
+Answers To §3.2. page 168: 3, since each character in a Java string takes 16 bits plus one word
+Check Yourself for length.
+§3.3, page 174:2.
+§3.6, page 217: 3.

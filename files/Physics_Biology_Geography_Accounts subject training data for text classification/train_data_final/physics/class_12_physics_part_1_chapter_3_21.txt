@@ -1,0 +1,68 @@
+i Physics
+
+If we wish to replace the combination by a single cell between A and
+C of emf seq and internal resistance req, we would have
+
+VAC = eeq— I req (3.63)
+Comparing the last two equations, we get
+
+seq = 81 + 82 (3.64)
+
+and req = r1 + r2 (3.65)
+
+In Fig.3.20, we had connected the negative electrode of the first to the
+positive electrode of the second. If instead we connect the two negatives,
+Eq. (3.6 1) would change to VBC = —£2—Ir2 and we will get
+
+seq = 81 — 82 (81 > 82) (3.66)
+The rule for series combination clearly can be extended to any number
+of cells:
+
+(i) The equivalent emf of a series combination of 11 cells is just the sum of
+their individual emfs, and
+
+(ii) The equivalent internal resistance of a series combination of 11 cells is
+just the sum of their internal resistances.
+
+This is so, when the current leaves each cell from the positive
+electrode. If in the combination, the current leaves any cell from
+the negative electrode, the emf of the cell enters the expression
+
+1 C for egg with a negative sign, as in Eq. (3.66).
+
+Next, consider a parallel combination of the cells (Fig. 3.2 1).
+I1 and I2 are the currents leaving the positive electrodes of the
+cells. At the point B1, I1 and I2 ﬂow in whereas the current I ﬂows
+out. Since as much charge ﬂows in as out, we have
+
+ 
+
+ 
+
+ 
+
+FIGURE 3.21 Two cells in I = 11 + 12 (3.67)
+parallel. For connections Let V(B1) and V(B2) be the potentials at B1 and B2, respectively.
+across A and C» the Then, considering the first cell, the potential difference across its
+comblnatlon can be terminals is V(B1) — V(B2). Hence, from Eq. (3.57)
+replaced by one cell of emf
+8“, and internal resistances V5 V(Bl) — V(Bz): £1 — 1171 (3-68)
+ruq Whose “9111165 are 531"?“ in Points B1 and B2 are connected exactly similarly to the second
+1395' (3'73) and (3'74)‘ cell. Hence considering the second cell, we also have
+VEV(B1) —V(B2)= g2 — 12r2 (3.69)
+Combining the last three equations
+I = 11 + 12
+e — V e — V e e 1 1
+=1 + 2 =[1+ ZJ-V[ + J (3.70)
+’1 r2 r1 r2 r1 r2
+Hence, Vis given by,
++
+V : £1r2 82r1 _ I rer (3.71)
+n+5 n+5
+
+If we want to replace the combination by a single cell, between B1 and
+B2, of emf seq and internal resistance reg, we would have
+
+1 14 V: seq— 1 req (3.72)
+
+2019-20

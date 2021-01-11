@@ -1,0 +1,59 @@
+62 PHYSICS
+
+d(au) _adu d_u_d_u g
+
+dx _ dx ’ dt dx dt
+d(uv) dv du d(u/v) _ 1 du dv
+
+=“—+v— ’ d _—2d—_ud_
+
+dx dx dx x v x x
+du _ du/dx
+dv dv/dx
+i(sin x) = cos x - 1 (cos x) = — sinx
+dx ’ dx
+
+d 2 d
+—(tan x) = sec x ; —(cot x) = —cos ec2 x
+dx x
+
+d d
+— (SCC x) = tan x SCC x ; —(cosec2x) = —cot x co sec x
+dx dx
+1(u)" = nun—ld—u ' i(1n u) = 1
+dx dX ’ du u
+
+d Ll _ Ll
+a“? )— e
+
+In terms of derivatives, instantaneous velocity and acceleration are defined as
+
+v— limE—g
+_At—>0At_dt
+
+_ Av dv d2x
+a=11m —=——
+
+ 
+
+Ame At dt_dt2
+Integral Calculus
+
+You are familiar with the notion of area. The formulae for areas of simple geometrical figures are
+also known to you. For example, the area of a rectangle is length times breadth and that of a
+triangle is half of the product of base and height. But how to deal with the problem of determination
+of area of an irregular figure? The mathematical notion of integral is necessary in connection with
+such problems.
+
+Let us take a concrete example. Suppose a variable force f (x) acts on a particle in its motion
+along x - axis from x = a to x = b. The problem is to determine the work done (W) by the force on the
+particle during the motion. This problem is discussed in detail in Chapter 6.
+
+Figure 3.3 1 shows the variation of ﬁx) with x. If the force were constant, work would be simply
+the area F(b-a) as shown in Fig. 3.3l(i). But in the general case, force is varying .
+
+F(x) F F(x)
+
+ 
+
+2019-20

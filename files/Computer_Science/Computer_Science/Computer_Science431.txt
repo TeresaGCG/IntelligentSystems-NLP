@@ -1,0 +1,32 @@
+6.5 Data Hazards and Stalls 415
+Time (in clock cycles)-------------------------~••
+cc, cca
+CC 1 CC 2 CC3 CC 5 CCS CC, CC g CC 10
+Program
+execution
+order
+(in instructions)
+Iw $2, 20($1)
+bubble
+@
+and becomes nop
+add $4, $2, $5
+or$8, $2, $6
+add $9, $4, $2
+FtGURE 6.35 The way stalls are really Inserted Into the pipeline. A bubble is inserted beginning in dock cycle 4, by changing the and
+instruction to a nop. Note that the and instruction is really fetched and decooed in dock cycles 2 and 3,but its EX stage is delayed until clock cycle 5
+(versus the wlstaUed position in clock cycle 4). Likewise the 0 r instruction is fetched in clock cycle 3, but its IF stage is delayed until dock cyde 5 (ver 
+sus the unstaUed dock cycle 4 position).After insertion of the bubble, all the dependences go forward in time and no further hazards occur.
+from the proper pipeline register. The hazard detection unit controls the writing
+of the PC and lFIlD registers plus the multiplexor that chooses between the real
+control values and all Os. The hazard detection unit stalls and deasserts the control
+fields if the load-use hazard test above is true. We show the single-clack-cycle dia 
+II
+grams in the For More Practice section on the CD.
+BIG
+Although the hardware mayor may not rely on the compiler to resolve
+The
+hazard dependences to ensure correct execution, the compiler must
+Picture
+understand the pipeline to achieve the best performance. Otherwise,
+unexpected stalls will reduce the performance of the compiled code.

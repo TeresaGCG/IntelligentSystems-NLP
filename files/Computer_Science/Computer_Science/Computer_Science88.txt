@@ -1,0 +1,58 @@
+72 Chapter 2 Instructions: Language of the Computer
+The utility ofan automatic
+computer lies in the possibility
+Instructions for Making Decisions
+of/Ising agiven sequence of
+instructiollS repeatedly, the
+llumber oftimes it is iterated
+What distinguishes:1 computer from a simple calculator is its ability to make
+being dependent IIpon the
+decisions. Based on the input data and the va lues created during com  
+results ofthe computation.
+putation, different instructions execute. Decision making is commonly rep 
+W7lCfl the iteration is com 
+resented in programming languages using the if statement, sometimes
+pleted a dif)erent sequence of
+combined with go to statements and labels. MIPS assembly language includes
+[illstrtlctions] is to befollowed,
+two decision-making instructions, similar to an ifstatement with a go to. The
+so we must, ill most roses, give
+first instruction is
+parallel of{instmc 
+two traillS
+tions] preceded by an illStruc 
+beq regi st e r l , r egi st e r 2 , L1
+tion as to which routine is to be
+This instruction mea ns go to the statement labeled Ll jfthe value in regi s t e r l
+followed. This choice be
+call
+equals the value in r eg i s t e r 2. The mnemonic beq stands for branch if equal.
+made to depend upon the sign
+The second instruction is
+ofa number (zero being m::k 
+oned asplusfor machine pur 
+bne registe r l , regis t e r 2 , Ll
+poses). COllSequcntly, we
+introducean {instruction] (the
+It means go to the statement labeled L1 if the value in reg i s t e r 1 does flot equal
+conditional tramfer (instmc  the value in r egi s t er2. The mnemonic bne stands for branch if flot equal.
+tioll}) which will, depending These two instructions are traditionally called conditional branches.
+on the sign ofagiven Illlmber,
+calise the proper olle oftwo
+routines to be exeruted.
+Burks, Goldstine, and von
+Neumann, 1947
+Compiling if·the~lse into Conditional Branches
+EXAMPLE In the following code segment, f , g, h, i , and j are variables. If the five vari 
+ables f through j correspond to the five registers $sO through $s 4, what is
+the compiled MIPS code for this C if statement?
+i f (i j) f 9 + h ; else f 9 - h ;
+== = =
+Figure 2.11 is a flowchart of what the MIPS code should do. The first expres 
+ANSWER
+sion compares for equality, so it would seem that we would want beq. In gen 
+eral, the code will be more efficient if we test for the opposite condition to
+branch over the code that performs the subsequent then part of the if (the la 
+bel E1s e is defined below):.
+bne $s3 ,$ s 4,E lse # go t o Else if ~ J
+1

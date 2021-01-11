@@ -1,0 +1,71 @@
+i Physics
+
+ 
+
+5. 15 A short bar magnet of magnetic movement 5.25 X 10‘2 J T’1 is placed
+with its axis perpendicular to the earth’s field direction. At what
+distance from the centre of the magnet, the resultant ﬁeld is inclined
+at 45° with earth’s field on (a) its normal bisector and (b) its axis.
+Magnitude of the earth’s field at the place is given to be 0.42 G.
+Ignore the length of the magnet in comparison to the distances
+involved.
+
+ADDITIONAL EXERCISES
+
+5.16 Answer the following questions:
+
+(a) Why does a paramagnetic sample display greater magnetisation
+(for the same magnetising field) when cooled?
+
+(b) Why is diamagnetism, in contrast, almost independent of
+temperature?
+
+(c) If a toroid uses bismuth for its core, will the field in the core be
+(slightly) greater or (slightly) less than when the core is empty?
+
+(d) Is the permeability of a ferromagnetic material independent of
+the magnetic ﬁeld? If not, is it more for lower or higher fields?
+
+(e) Magnetic field lines are always nearly normal to the surface of a
+ferromagnet at every point. (This fact is analogous to the static
+electric ﬁeld lines being normal to the surface of a conductor at
+every point.) Why?
+
+(f) Would the maximum possible magnetisation of a paramagnetic
+sample be of the same order of magnitude as the magnetisation
+of a ferromagnet?
+
+5.17 Answer the following questions:
+
+(a) Explain qualitatively on the basis of domain picture the
+irreversibility in the magnetisation curve of a ferromagnet.
+
+(b) The hysteresis loop of a soft iron piece has a much smaller area
+than that of a carbon steel piece. If the material is to go through
+repeated cycles of magnetisation, which piece will dissipate greater
+heat energy?
+
+(c) ‘A system displaying a hysteresis loop such as a ferromagnet, is
+a device for storing memory?’ Explain the meaning of this
+statement.
+
+(d) What kind of ferromagnetic material is used for coating magnetic
+tapes in a cassette player, or for building ‘memory stores’ in a
+modern computer?
+
+(e) A certain region of space is to be shielded from magnetic fields.
+Suggest a method.
+
+5.18 A long straight horizontal cable carries a current of 2.5 A in the
+direction 10° south of west to 10° north of east. The magnetic meridian
+of the place happens to be 10° west of the geographic meridian. The
+earth’s magnetic ﬁeld at the location is 0.33 G, and the angle of dip
+is zero. Locate the line of neutral points (ignore the thickness of the
+cable)? (At neutral points, magnetic field due to a current-carrying
+cable is equal and opposite to the horizontal component of earth’s
+magnetic field.)
+
+5.19 A telephone cable at a place has four long straight horizontal wires
+202 carrying a current of 1.0 A in the same direction east to west. The
+
+2019-20

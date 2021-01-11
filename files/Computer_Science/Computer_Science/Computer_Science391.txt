@@ -1,0 +1,46 @@
+6.1 An Overview of Plpellnlng 375
+second stage. In an instruction set like the IA-32, where instructions va ry from I
+byte to 17 bytes, pipelining is considerably more challenging. As we saw in Chap 
+ter 5, all recent implementations of the IA-32 architecture acnlally translate IA-32
+instructions into simple microoperations that look like MIPS instructions. As we
+will see in Section 6.10, the Pentium 4 actually pipelines the microoperations
+rather than the native IA-32 instructions!
+Second, MIPS has only a few instruction formats, with the source register fields
+being located in the same place in each instruction. This symmetry means that the
+second stage can begin reading the register file at the same time that the hardwa re
+is determining what type of instruction was fetched. If MIPS instruction formats
+were not symmetric, we would need to split stage 2, resulting in six pipeline
+stages. We will shortly see the downside of longer pipelines.
+Third, memory operands only appear in loads or stores in MIPS. This restric 
+tion means we can use the execute stage to calculate the memory address and then
+access memory in the following stage. If we could operate on the operands in
+memory, as in the IA-32, stages 3 and 4 would expand to an address stage, mem 
+ory stage, and then execute stage.
+Fourth, as discussed in Chapter 2, operands must be aligned in memory.
+Hence, we need not worry about a single data transfer instruction requiring two
+data memory accesses; the requested data can be transferred between processor
+and memory in a single pipeline stage.
+Pipeline Hazards
+There are situations in pipelining when the next instruction cannot execute in the
+following clock cycle. These events are called hazards, and there are three different
+types.
+Structural Hazards
+The first hazard is called a structural hazard. It means that the hardware cannot structural hazard An occur 
+support the combination of instructions that we want to execute in the same clock rence in which a planned
+instruction cannot execute in
+cycle. A structural hazard in the laundry room would occur if we used a washer 
+the proper clock cycle bemuse
+dryer combination instead of a separate washer and dryer,or if our roommate was
+the hardware mnnot support
+busy doing something else and wouldn't put clothes away. Our carefully scheduled
+the combination of instructions
+pipeline plans would then be foiled.
+that are set to execute in the
+As we said above, the MIPS instruction set was designed to be pipelined, mak 
+given clock cycle.
+ing it fairly easy for designers to avoid structural hazards when designing a pipe 
+line. Suppose, however, that we had a single memory instead of two memories. If
+the pipeline in Figure 6.3 had a fourth instruction, we would see that in the same
+clock cycle that the first instruction is accessing data from memory while the
+fourth instruction is fetching an instruction from that same memory. Without
+two memories, our pipeline could have a strucnlfal hazard.

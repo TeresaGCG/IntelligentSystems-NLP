@@ -1,0 +1,119 @@
+4 2
+
+PHYSICS
+
+ 
+
+Now, let us consider the motion of a car that
+starts from rest at time t= O s from the origin 0
+and picks up speed till t = 10 s and thereafter
+moves with uniform speed till t = 18 s. Then the
+brakes are applied and the car stops at
+t= 20 s and x= 296 m. The position-time graph
+for this case is shown in Fig. 3.3. We shall refer
+to this graph in our discussion in the following
+sections.
+
+3.3 AVERAGE VELOCITY AND AVERAGE
+SPEED
+
+When an object is in motion, its position
+changes with time. But how fast is the position
+changing with time and in what direction? To
+describe this, we define the quantity average
+velocity. Average velocity is defined as the
+change in position or displacement (Ax) divided
+by the time intervals (At), in which the
+displacement occurs :
+
+x2 — x1 Ax (31)
+
+l): :—
+
+tZ—tl At
+
+ 
+
+where x2 and x1 are the positions of the object
+at time t2and t1, respectively. Here the bar over
+the symbol for velocity is a standard notation
+used to indicate an average quantity. The SI
+unit for velocity is m / s or In 8—1, although km h‘1
+is used in many everyday applications.
+
+Like displacement, average velocity is also a
+vector quantity. But as explained earlier, for
+motion in a straight line, the directional aspect
+of the vector can be taken care of by + and —
+signs and we do not have to use the vector
+notation for velocity in this chapter.
+
+ 
+
+0 1 2 3 4 5 6 7 8
+t (s) —+
+Fig. 3.4 The average velocity is the slope of line P1P2'
+
+2019-20
+
+Consider the motion of the car in Fig. 3.3. The
+portion of the x—t graph between t= O s and t= 8
+s is blown up and shown in Fig. 3.4. As seen
+from the plot, the average velocity of the car
+betweentime t= 5 s and t= 7 sis:
+x2 —x1 (27.4 — 10.0)m
+
+t2 — t1 (7 — 5) s
+Geometrically, this is the slope of the straight
+line P1P2 connecting the initial position P1 to
+the final position P2 as shown in Fig. 3.4.
+
+The average velocity can be positive or negative
+depending upon the sign of the displacement. It
+is zero if the displacement is zero. Fig. 3.5 shows
+the x—t graphs for an obj ect, moving with positive
+velocity (Fig. 3.5a), moving with negative velocity
+(Fig. 3.5b) and at rest (Fig. 3.5c).
+
+1| 1| T
+X X
+0 0 t_, o _,
+
+t—>
+(a) (b) (C)
+Fig. 3.5 Position—time graph for an object (a) moving
+with positive velocity, (b) moving with
+negative velocity, and (c) at rest.
+
+1
+
+B: =a7ms‘
+
+ 
+
+Average velocity as defined above involves
+only the displacement of the object. We have seen
+earlier that the magnitude of displacement may
+be different from the actual path length. To
+describe the rate of motion over the actual path,
+we introduce another quantity called average
+speed.
+
+Average speed is defined as the total path
+length travelled divided by the total time
+interval during which the motion has taken
+place :
+
+Total path length
+Average speed 2 — (32)
+
+Total time interval
+Average speed has obviously the same unit
+(m s4) as that of velocity. But it does not tell us
+in what direction an object is moving. Thus, it
+is always positive (in contrast to the average
+velocity which can be positive or negative). If the
+motion of an object is along a straight line and
+in the same direction, the magnitude of
+displacement is equal to the total path length.
+In that case, the magnitude of average velocity

@@ -1,0 +1,68 @@
+i Physics
+
+ 
+
+with the normal of the coil. Calculate the magnitude of the
+counter torque that must be applied to prevent the coil from
+turning.
+
+(b) Would your answer change, if the circular coil in (a) were replaced
+by a planar coil of some irregular shape that encloses the same
+area? (All other particulars are also unaltered.)
+
+ADDITIONAL EXERCISES
+
+4.14 Two concentric circular coils X and Y of radii 16 cm and 10 cm,
+respectively, lie in the same vertical plane containing the north to
+south direction. Coil X has 20 turns and carries a current of 16 A;
+coil Y has 25 turns and carries a current of 18 A. The sense of the
+current in X is anticlockwise, and clockwise in Y, for an observer
+looking at the coils facing west. Give the magnitude and direction of
+the net magnetic field due to the coils at their centre.
+
+4.15 A magnetic field of 100 G (1 G = 10’4 T) is required which is uniform
+in a region of linear dimension about 10 cm and area of cross-section
+about 10’3 mg. The maximum current-carrying capacity of a given
+coil of wire is 15 A and the number of turns per unit length that can
+be wound round a core is at most 1000 turns m’l. Suggest some
+appropriate design particulars of a solenoid for the required purpose.
+Assume the core is not ferromagnetic.
+
+4.16 For a circular coil of radius R and N turns carrying current I, the
+magnitude of the magnetic field at a point on its axis at a distance x
+from its centre is given by,
+
+,uOIR2N
+
+_ 2(x2 +R2)3/2
+
+(a) Show that this reduces to the familiar result for field at the
+centre of the coil.
+
+(b) Consider two parallel co-axial circular coils of equal radius R,
+and number of turns N, carrying equal currents in the same
+direction, and separated by a distance R. Show that the field on
+the axis around the mid-point between the coils is uniform over
+a distance that is small as compared to R, and is given by,
+
+NI
+B = 0.72%? , approximately.
+
+[Such an arrangement to produce a nearly uniform magnetic
+field over a small region is known as Helmholtz 00115.]
+
+4.17 A toroid has a core (non-ferromagnetic) of inner radius 25 cm and
+outer radius 26 cm, around which 3500 turns of a wire are wound.
+If the current in the wire is 11 A, what is the magnetic field
+(a) outside the toroid, (b) inside the core of the toroid, and (c) in the
+empty space surrounded by the toroid.
+
+4.18 Answer the following questions:
+
+(a) A magnetic field that varies in magnitude from point to point
+but has a constant direction (east to west) is set up in a chamber.
+A charged particle enters the chamber and travels undeﬂected
+
+170
+
+2019-20

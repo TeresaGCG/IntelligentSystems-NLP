@@ -1,0 +1,43 @@
+2.16 Real Stuff: 1A·32 Instructions 135
+instruction set as someone might add clothing to a packed bag. Here are impor 
+tant IA-32 milestones:
+• 1978: The Intel 8086 architecnlre was announced as an assembly-language 
+compatible extension of the then-successful Intel 8080, an 8-bit microproces 
+sor. The 8086 is a 16-bit architecnlre, with all internal registers 16 bits wide.
+Unlike MIPS, the registers have dedicated uses, and hence the 8086 is not con 
+sidered a general-purpose register architecture. general-purpose register
+(GPR) A register that can be
+• 1980: The Intel 8087 floating-point coprocessor is announced. This archi 
+used for addresses or for data
+tecnlfe extends the 8086 with about 60 floating-point instructions. Instead
+with virtually any instruction.
+of using registers, it relies on a stack (see Section 2.1 9 and Section 3.9).
+• 1982: The 80286 extended the 8086 architecture by increasing the address
+space to 24 bits, by creating an elaborate memory-mapping and protection
+model (see Chapter 7), and by adding a few instructions to round out the
+instruction set and to manipulate the protection model.
+• 1985: The 80386 extended the 80286 architecture to 32 bits. In addition to a
+32-bit architecture with 32-bit registers and a 32-bit address space, the
+80386 added new addressing modes and additional operations. The added
+instructions make the 80386 nearly a general-purpose register machine. The
+80386 also added paging support in addition to segmented addressing (see
+Chapter 7). Like the 80286, the 80386 has a mode to execute 8086 programs
+without change.
+• 1989- 95: The subsequent 80486 in 1989, Pentium in 1992, and Pentium Pro
+in 1995 were aimed at higher performance, with only four instructions
+added to the user-visible instruction set: three to help with multiprocessing
+(Chapter 9) and a conditional move instruction.
+• 1997: After the Pentium and Pentium Pro were shipping, Intel announced
+that it would expand the Pentium and the Pentium Pro architectures with
+MMX (Multi Media Extensions). This new set of 57 instructions uses the
+floating-point stack to accelerate multimedia and communication applica 
+tions. MMX instructions typically operate on multiple short data elements
+at a time, in the tradition of single instruction, multiple data (SIMD) archi 
+tecnlfes (see Chapter 9). Pentium II did not introduce any new instructions.
+• 1999: Intel added another 70 instructions, labeled SSE (Strea ming SIMD
+Extensions) as part of Pentium III. The primary changes were to add eight
+separate registers, double their width to 128 bits, and add a single-precision
+floating-point data type. Hence four 32-bit floating-point operations ca n be
+performed in parallel. To improve memory performance, SSE included
+cache prefetch instructions plus streaming store instructions that bypass the
+caches and write directly to memory.

@@ -1,0 +1,52 @@
+334
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+  
+ 
+
+Sunlight
+
+(0)
+
+FIGURE 9.25 Rainbow: (3) The sun rays incident on a water drop get
+refracted twice and reﬂected internally by a drop: (b) Enlarged view of
+internal reﬂection and refraction of a ray of light inside a drop forming
+primary rainbow: and (c) secondary rainbow is formed by rays undergoing
+internal reﬂection twice inside the drop.
+
+When light rays undergoes two internal reﬂections inside a raindrop,
+instead of one as in the primary rainbow, a secondary rainbow is formed
+as shown in Fig. 925(0). It is due to four-step process. The intensity of
+light is reduced at the second reﬂection and hence the secondary rainbow
+is fainter than the primary rainbow. Further, the order of the colours is
+reversed in it as is clear from Fig. 925(0).
+
+9.7.2 Scattering of light
+
+As sunlight travels through the earth’s atmosphere, it gets scattered
+(changes its direction) by the atmospheric particles. Light of shorter
+wavelengths is scattered much more than light of longer wavelengths.
+(The amount of scattering is inversely proportional to the fourth power
+of the wavelength. This is known as Rayleigh scattering). Hence, the bluish
+colour predominates in a clear sky, since blue has a shorter wave-
+length than red and is scattered much more strongly. In fact, violet
+gets scattered even more than blue, having a shorter wavelength.
+But since our eyes are more sensitive to blue than violet, we see the
+sky blue.
+
+Large particles like dust and water droplets present in the atmosphere
+behave differently. The relevant quantity here is the relative size of the
+wavelength of light 2., and the scatterer (of typical size, say, a). For a << 1,
+one has Rayleigh scattering which is proportional to 1/14. For a >> A,
+i.e., large scattering objects (for example, raindrops, large dust or ice
+particles) this is not true; all wavelengths are scattered nearly equally.
+Thus, clouds which have droplets of water with a >> A are generally white.
+
+2019-20

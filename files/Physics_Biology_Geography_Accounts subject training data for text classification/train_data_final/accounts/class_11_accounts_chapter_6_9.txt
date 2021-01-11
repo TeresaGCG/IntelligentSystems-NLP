@@ -1,0 +1,59 @@
+Trial Balance and Rectification of Errors 189
+
+6.4. Signiﬁcance of Agreement of Trial Balance
+
+It is important for an accountant that the trial balance should tally. Normally a tallied
+trial balance means that both the debit and the credit entries have been made correctly
+for each transaction. However, as stated earlier, the agreement of trial balance is not
+an absolute proof of accuracy of accounting records. A tallied trial balance only proves,
+to a certain extent, that the posting to the ledger is arithmetically correct. But it does
+not guarantee that the entry itself is correct. There can be errors, which affect the
+equality of debits and credits, and there can be errors, which do not affect the equality
+of debits and credits. Some common errors include the following:
+
+0 Error in totalling of the debit and credit balances in the trial balance.
+
+0 Error in totalling of subsidiary books.
+
+0 Error in posting of the total of subsidiary books.
+
+0 Error in showing account balances in wrong column of the tiral balance, or
+in the wrong amount.
+
+0 Omission in showing an account balance in the trial balance.
+
+0 Error in the calculation of a ledger account balance.
+
+0 Error while posting a journal entry: a j ournal entry may not have been posted
+properly to the ledger, i.e., posting made either with wrong amount or on the
+wrong side of the account or in the wrong account.
+
+0 Error in recording a transaction in the journal: making a reverse entry, i.e.,
+account to be debited is credited and amount to be credited is debited, or an
+entry with wrong amount.
+
+0 Error in recording a transaction in subsidiary book with wrong name or wrong
+amount.
+
+6.4.1 Classiﬁcation of Errors
+
+Keeping in view the nature of errors, all the errors can be classified into the
+following four categories:
+
+0 Errors of Commission
+
+0 Errors of Omission
+
+0 Errors of Principle
+
+° Compensating Errors
+
+6.4.2 Errors of Commission
+
+These are the errors which are committed due to wrong posting of transactions,
+wrong totalling or wrong balancing of the accounts, wrong casting of the
+subsidiary books, or wrong recording of amount in the books of original entry,
+etc. For example: Raj Hans Traders paid ? 25,000 to Preetpal Traders (a supplier
+of goods). This transaction was correctly recorded in the cashbook.
+
+2019-2020

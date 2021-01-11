@@ -1,0 +1,109 @@
+PHYSICS
+
+ 
+
+complicated trajectories. Yet, if the total external
+force acting on the system is zero, the centre of
+mass moves with a constant velocity, i.e., moves
+uniformly in a straight line like a free particle.
+
+The vector Eq. (7.1 8a) is equivalent to three
+scalar equations,
+
+Px=cl,Py=CZansz=c3 (7.18b)
+
+Here PX, Py and PZ are the components of the
+total linear momentum vector P along the x—, y—
+and z—axes respectively; Cl, 02 and 03 are
+constants.
+
+He
+
+Ra
+Rn
+(a) (b)
+
+Fig. 7. 1 3 (a) A heavy nucleus radium (Ra) splits into
+a lighter nucleus radon (Rn) and an alpha
+particle (nucleus of helium atom). The CM
+of the system is in unifom motion.
+
+(b) The same spliting of the heavy nucleus
+radium (Ra) with the centre of mass at
+rest. The two product particles ﬂy back
+to back.
+
+As an example, let us consider the
+radioactive decay of a moving unstable particle,
+like the nucleus of radium. A radium nucleus
+disintegrates into a nucleus of radon and an
+alpha particle. The forces leading to the decay
+are internal to the system and the external
+forces on the system are negligible. So the total
+linear momentum of the system is the same
+before and after decay. The two particles
+produced in the decay, the radon nucleus and
+the alpha particle, move in different directions
+in such a way that their centre of mass moves
+along the same path along which the original
+decaying radium nucleus was moving
+[Fig. 7.13(a)].
+
+If we observe the decay from the frame of
+reference in which the centre of mass is at rest,
+the motion of the particles involved in the decay
+looks particularly simple; the product particles
+
+2019-20
+
+ 
+
+Fig. 7.14 (a) Trajectories of two stars, 81 (dotted
+line) and 52 (solid line) forming a
+binary system with their centre of
+mass C in uniform motion.
+
+(b) The same binary system, with the
+centre of mass C at rest.
+
+move back to back with their centre of mass
+remaining at rest as shown in Fig.7.13 (b).
+
+In many problems on the system of
+particles, as in the above radioactive decay
+problem, it is convenient to work in the centre
+of mass frame rather than in the laboratory
+frame of reference.
+
+In astronomy, binary (double) stars is a
+common occurrence. If there are no external
+forces, the centre of mass of a double star
+moves like a free particle, as shown in Fig.7 . 14
+(a). The trajectories of the two stars of equal
+mass are also shown in the figure; they look
+complicated. If we go to the centre of mass
+frame, then we find that there the two stars
+are moving in a circle, about the centre of
+mass, which is at rest. Note that the position
+of the stars have to be diametrically opposite
+to each other [Fig. 7 . 14(b)]. Thus in our frame
+of reference, the trajectories of the stars are a
+combination of (i) uniform motion in a straight
+line of the centre of mass and (ii) circular
+orbits of the stars about the centre of mass.
+
+As can be seen from the two examples,
+separating the motion of different parts of a
+system into motion of the centre of mass and
+motion about the centre of mass is a very
+useful technique that helps in understanding
+the motion of the system.
+
+7.5 VECTOR PRODUCT OF TWO VECTORS
+
+We are already familiar with vectors and their
+use in physics. In chapter 6 (Work, Energy,
+Power) we defined the scalar product of two
+vectors. An important physical quantity, work,
+is defined as a scalar product of two vector
+quantities, force and displacement.

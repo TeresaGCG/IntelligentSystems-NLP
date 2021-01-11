@@ -1,0 +1,49 @@
+1.4 Real Stuff: Manufacturing Pentium 4 Chips 31
+•
+•
+•
+•
+• • •
+•
+..
+. •
+, • • .,.• .. • • • • ••• ,.......','j.
+• • • • •.. • .• ..••'•.•••' ·..''~ .'' ,;\
+• •• • .•.• •• •• . ,..• .. • , .•. , .•. • •....'1,
+, • • • ',' '.' '~' ' .~'
+• •• •• .. •• .•.• .•.• ,.•.. •,. ••• ••.' •.. '·; •'...; •..'.:•~'"'.,~J.
+• •• • •• .. .. .. ..
+,.. • •• •••• •• ..• ' '•.' ,.•
+,. "
+• •• •• •• •
+, .. •.. •• ••• •••• • .'••••••.••..'
+,
+•• •• •• • •• • •
+• .'
+, • • • • •
+• • • , •
+• • •
+• • •
+, ,
+, , ,
+•
+FtGURE 1.15 An 8-1nch (20~m) diameter wafer containing Intel Pentium 4 processors.
+The number of Pentium dies per wafer at 100% yield is 165. Figure 1.9 on page 21 is a photomicrograph of
+2
+one of these PentiwlI 4 dies. The die area is 250 mm , and it contains about 55 miUion transistors.This die
+uses a 0.18 micron technology, which means that the smallest transistors are approximately 0.18 microns in
+size, although they are typically somewhat smaller than the actual feature size, which refers to the size ofthe
+transistors as ~drawn" versus the final manufactured size. The Pentium 4 is also made using a more
+advanced 0.13 micron technology. The several dozen partially rounded chips at the bowldaries of the wafer
+are useless; they are included becaU'ie it's easier to create the masks used to pattern the silicon.
+compared to the 82 watts consumed by the Pentium 4. As we will see in later chap 
+ters, both performance and power consumption vary widely.
+Elaboration: In CMOS (Complementary Metal Oxide Semiconductor), which is the
+dominant technology for integrated circuits, the primary source of power dissipation is
+so-called "dynamic power"-that is, power that is consumed during switching. CMOS
+technology, unlike earlier technologies, does not directly consume power when it is
+idle-hence the use of low clock rates to allow a processor to "sleep" and conserve
+power. The dynamic power dissipation depends on the capacitive loading of each tran 
+sistor, the voltage applied, and the frequency that the transistor is switched:
+2
+Power = Capacitive load x Voltage x Frequency switched

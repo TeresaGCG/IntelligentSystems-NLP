@@ -1,0 +1,40 @@
+596 Chapter 8
+One method to allow the system to initiate DMA transfers that cross page
+boundaries is to make the DMA work on virtual addresses. In such a system, the
+DMA unit has a small number of map entries that provide virtual-to-physical
+mapping for a transfer. The operating system provides the mapping when the I/O
+is initiated. By using this mapping, the DMA unit need not worry about the loca 
+tion of the virtual pages involved in the transfer.
+Another technique is for the operating system to break the DMA transfer into a
+series of transfers, each confined within a single physical page. The transfers are
+then chained together and handed to an I/O processor or intelligent DMA unit
+that executes the entire sequence of transfers; alternatively, the operating system
+can individually request the transfers.
+Whichever method is used, the operating system must still cooperate by not
+remapping pages while a DMA transfer involving that page is in progress.
+We have looked at three different methods for transferring data between an I/O
+device and memory. In moving from polling to an interrupt-driven to a DMA
+interface, we shift the burden for managing an I/O operation from the processor
+to a progressively more intelligent I/O controller. These methods have the advan 
+tage of freeing up processor cycles. Their disadva ntage is that they increase the
+cost of the I/O system. Because of this, a given computer system can choose which
+point along this spectrum is appropriate for the I/O devices connected to it.
+Before discussing the design of I/O systems, let's look briefly at performance
+measures of them.
+Hardware The coherency problem for I/O data is avoided by using one of three major tech 
+niques. One approach is to route the I/O activity through the cache. This ensures
+Software
+that reads see the latest value while writes update any data in the cache. Routing all
+Interface
+I/O through the cache is expensive and potentially has a large negative perfor 
+mance impact on the processor, since the I/O data is rarely used immediately and
+may displace useful data that a running program needs. A second choice is to have
+the OS selectively invalidate the cache for an I/O read or force write-backs to
+occur for an I/O write (often called cachej1ushillg). This approach requires some
+small amount of hardwa re support and is probably more efficient if the softwa re
+can perform the function easily and efficiently. Because this flushing of large parts
+of the cache need only happen on DMA block accesses, it will be relatively infre 
+quent. The third approach is to provide a hardware mechanism for selectively
+flushing (or invalidating) cache entries. Hardware invalidation to ensure cache
+coherence is typical in multiprocessor systems, and the same technique can be
+used for I/O; we discuss this topic in detail in Chapter 9.

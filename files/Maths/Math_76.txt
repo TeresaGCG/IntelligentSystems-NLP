@@ -1,0 +1,24 @@
+Homework Helpers: Basic Math and Pre-Algebra
+76
+Lesson 4-3 Review
+Evaluate the following exponential expressions:
+1. 2 –5 3.
+2. (−3)–3 4.
+Lesson 4-4: When the Power Is Zero
+In order to interpret an exponential expression that has 0 as the ex-
+ponent, we must revisit division of exponential expressions. Consider the
+ratio , where a ≠ 0. Using one of the properties of multiplication dis-
+cussed earlier, any number divided by itself is equal to 1, so:
+Using the rules for dividing exponential expressions, when you divide
+two numbers with the same base you subtract the exponents, so:
+In mathematics, consistency is crucial. There’s not much of a choice
+for how to interpret an exponential expression that has 0 as the expo-
+nent: a0 = 1. Here is yet another special property of 0: Any number
+raised to the power of 0 (other than 0, of course) is 1. For example, 40= 1
+and 80= 1.
+Using this idea, we can now explore the exponential expression  :
+The main idea here is that when you move an exponential expression
+from the numerator to the denominator, or vice versa, the net effect is
+that the sign of the exponent is changed.
+This is demonstrated by   and 
+www.ebook3000.com

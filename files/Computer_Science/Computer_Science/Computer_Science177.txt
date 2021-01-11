@@ -1,0 +1,51 @@
+3.2 Signed and Unsigned Numbers 161
+represents
+3 1 0
+11 X 2 ) + (0 X 2') + 11 X 2 ) + 11 x 2 )ten
+- 11 x 8) + (0 x 4 ) + 11 x 2 ) + 11 xl) ten
+8 + 0 + 2 + 1
+- ten
+11
+- t en
+Hence the bits are numbered 0, I, 2, 3, ... from right to left in a word. The
+drawing below shows the numbering of bits within a MIPS word and the place 
+ment of the number 10 I Itwo:
+313029282726252423222120 1918 1716 1514 13 1211 109876543210
+I I I I I
+10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001000011 01 1 1
+(32 bits wide)
+Since words are drawn vertically as well as horizontally, leftmost and rightmost
+may be unclear. Hence, the phrase least significant bit is used to refer to the right  least significant bit The right 
+most bit (bit 0 above) and most significant bit to the leftmost bit (bit 31). most bit in a MIPSword.
+32
+The MIPS word is 32 bits long, so we can represent 2 different 32-bit patterns.
+most significant bit The left 
+32
+It is natural to let these combinations represent the numbers from 0 to 2 - I most bit in a MIPSword.
+(4,294,967,295 ):
+ten
+0000 0000 0000 0000 0000 0000 0000
+OOOOtwo - °ten
+0000 0000 0000 0000 0000 0000 0000 0OOl 1
+two - ten
+0000 0000 0000 0000 0000 0000 0000 0010 2
+two - ten
+1111 1111 1111 1111 1111 1111 1111 1101 4 , 294 , 967 , 293
+two - ten
+1111 1111 1111 1111 1111 1111 1111 1110 4,294,967 , 294
+two - ten
+1111 1111 1111 1111 1111 1111 1111 1111 4,294,967,295
+two - ten
+That is, 32-bit binary numbers can be represented in terms of the bit value times a
+power of 2 (here xi means the ith bit of x):
+29
+(x3 1 x 231 + (x30 X230) + (x29 X2 ) + ... + (xl X21 + (xO X2°)
+) )
+Base 2 is not natural to human beings; we have 10 fingers and so find base 10 nat  Hardware
+ural. Why didn't computers use decimal? In fact, the first commercial computer
+Software
+did offer decimal arithmetic. The problem was that the computer still used on and
+Interface
+off signals, so a decimal digit was simply represented by several binary digits. Dec 
+imal proved so inefficient that subsequent computers reverted to all binary, con 
+verting to base 10 only for the relatively infrequent input/output events.

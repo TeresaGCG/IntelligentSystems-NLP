@@ -1,0 +1,38 @@
+5.9 Real Stuff: The Organization of Recent Pentium Implementations 347
+Real Stuff: The Organization of Recent
+Pentium Implementations
+The techniques described in this chapter for building datapaths and control units
+are at the heart of every computer. All recent computers, however, go beyond the
+techniques of this chapter and use pipelining. Pipelilling, which is the subject of
+the next chapter, improves performance by overlapping the execution of multiple
+instructions, achieving throughput close to one instruction per clock cycle (like
+our single-cycle implementation) with a clock cycle time determined by the delay
+of individual functional units rather than the entire execution path of an instruc 
+tion (like our multicycle design). The last Intel lA-32 processor without pipelining
+was the 80386, introduced in 1985; the very first MIPS processor, the R2000, also
+introd uced in 1985, was pipelined.
+Recent Intel IA-32 processors (the Pentium II, III, and 4) employ sophisticated
+pipelining approaches. These processors, however, are still faced with the chal 
+lenge of implementing control for the complex IA-32 instruction set, described in
+Chapter 2. The basic functional units and datapaths in use in modern processors,
+while significantly more complex than those described in this chapter, have the
+same basic functionality and similar types of control signals. Thus the task of
+designing a control unit builds on the same principles used in this chapter.
+Challenges Implementing More Complex Architectures
+Unlike the MIPS architecture, the IA-32 architecture contains instructions that are
+very complex and can take tens, if not hundreds, of cycles to execute. For example,
+the string move instruction (MOVS) requires calculating and updating two different
+memory addresses as well as loading and storing a byte of the string. The larger
+number and greater complexity of addressing modes in the IA-32 architecnlfe
+complicates implementation of even simple instructions similar to those on MIPS.
+Fortunately, a multicycle datapath is well structured to adapt to variations in the
+amount of work required per instruction that are inherent in IA-32 instructions.
+This adaptability comes from two capabilities:
+1. A multicycle datapath allows instructions to take varying numbers of clock
+cycles. Simple IA-32 instructions that are similar to those in the MIPS
+architecture ca n execute in 3 or 4 clock cycles, while more complex instruc 
+tions can take tens of cycles.
+2. A multicycle datapath ca n use the datapath components more than once
+per instruction. This is critical to handling more complex addressing
+modes, as well as implementing more complex operations, both of which
+are present in the IA-32 architecture. Without this capability, the datapath

@@ -1,0 +1,93 @@
+Moving Charges and
+
+Magnetism
+
+In the next section, we shall use the Biot—Savart law to calculate the
+
+magnetic ﬁeld due to a circular loop.
+
+4.6 MAGNETIC FIELD ON THE AXIS OF A CIRCULAR
+
+CURRENT LOOP
+
+In this section, we shall evaluate the magnetic ﬁeld due to a circular coil
+along its axis. The evaluation entails summing up the effect of inﬁnitesimal
+
+current elements (1 dl) mentioned in the previous section.
+We assume that the current I is steady and that the
+evaluation is carried out in free space (i.e., vacuum).
+
+Figure 4.1 1 depicts a circular loop carrying a steady
+current I. The loop is placed in the y-z plane with its
+centre at the origin 0 and has a radius R. The x—axis is
+the axis of the loop. We wish to calculate the magnetic
+ﬁeld at the point P on this axis. Let xbe the distance of
+P from the centre 0 of the loop.
+
+Consider a conducting element dl of the loop. This is
+shown in Fig. 4.1 1. The magnitude dB of the magnetic
+ﬁeld due to dl is given by the Biot-Savart law [Eq. 4. 1 1(a)],
+
+dB 2 & I Idl: r|
+471: r
+
+Now r2 = x2 + R2 . Further, any element of the loop
+will be perpendicular to the displacement vector from
+the element to the axial point. For example, the element
+dl in Fig. 4.1 1 is in the y-z plane, whereas, the
+displacement vector r from dl to the axial point P is in
+the x—y plane. Hence | all X r | =r dl. Thus,
+
+deﬁ Idl
+
+41t(x2+R2) (4.13)
+
+ 
+
+(4.12)
+
+ 
+
+Z
+
+Y
+
+ 
+
+FIGURE 4.11 Magnetic ﬁeld on the
+axis of a current carrying circular
+loop of radius R. Shown are the
+magnetic field dB (due to a line
+
+element dl ) and its
+components along and
+perpendicular to the axis.
+
+The direction of dB is shown in Fig. 4.1 1. It is perpendicular to the
+plane formed by dl and I. It has an x—component de and a component
+perpendicular to x—axis, dB 1- When the components perpendicular to
+the x—axis are summed over, they cancel out and we obtain a null result.
+For example, the dB 1 component due to dl is cancelled by the contribution
+due to the diametrically opposite dl element,
+Fig. 4.1 1. Thus, only the x—component survives. The net contribution
+along x—direction can be obtained by integrating de = dB cos 0 over the
+
+loop. For Fig. 4.1 1,
+R
+From Eqs. (4.13) and (4.14),
+
+,uIdl R
+deZZ —/
+1t(x +R)
+
+cos6=
+
+ 
+
+2019-20
+
+shown in
+
+(4. 14)
+
+145

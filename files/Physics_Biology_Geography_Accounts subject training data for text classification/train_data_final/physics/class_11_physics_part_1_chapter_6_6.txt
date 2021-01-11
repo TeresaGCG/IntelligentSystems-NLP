@@ -1,0 +1,124 @@
+120
+
+PIIYSICS
+
+not available explicitly. Another observation is that
+Newton’s second law for two or three dimensions
+is in vector form whereas the work-energy
+theorem is in scalar form. In the scalar form,
+information with respect to directions contained
+in Newton’s second law is not present.
+
+ 
+
+b Example 6.6 A block of mass m = 1 kg,
+moving on a horizontal surface with speed
+v1. = 2 In S‘1 enters a rough patch ranging
+from x= 0.10 m to x= 2.01 m. The retarding
+force Fr on the block in this range is inversely
+proportional to x over this range,
+
+—k
+F, =7 forO.1<x<2.01m
+
+= O forx< 0.1m and x> 2.01m
+
+where k = 0.5 J. What is the final kinetic
+energy and speed or. of the block as it
+crosses this patch ?
+
+ 
+
+Answer From Eq. (6.8a)
+
+2.01 —k
+Kf 2K. + I de
+x
+0.1
+
+=5mv3—k1n<x)la:$l
+
+zérnuf —kln(2.01/O.l)
+
+=2—O.5 In (20.1)
+22— 1.5 =O.5J
+
+vf =1’2Kf/m=lms_1
+
+Here, note that In is a symbol for the natural
+logarithm to the base 6 and not the logarithm to
+the base 10 [lnX=logeX= 2.3O3log10X]. 4
+
+6.7 THE CONCEPT OF POTENTIAL ENERGY
+
+The word potential suggests possibility or
+capacity for action. The term potential energy
+brings to one’s mind ‘stored’ energy. A stretched
+bow-string possesses potential energy. When it
+is released, the arrow ﬂies off at a great speed.
+The earth’s crust is not uniform, but has
+discontinuities and dislocations that are called
+fault lines. These fault lines in the earth’s crust
+
+are like ‘compressed springs’. They possess a
+large amount of potential energy. An earthquake
+results when these fault lines readjust. Thus,
+potential energy is the ‘stored energy’ by virtue
+of the position or configuration of a body. The
+body left to itself releases this stored energy in
+the form of kinetic energy. Let us make our notion
+of potential energy more concrete.
+
+The gravitational force on a ball of mass m is
+my . 9 may be treated as a constant near the earth
+surface. By ‘near’ we imply that the height h of
+the ball above the earth’s surface is very small
+compared to the earth’s radius RE(h <<RE) so that
+we can ignore the variation of 9 near the earth’s
+
+surface*. In what follows we have taken the
+upward direction to be positive. Let us raise the
+ball up to a height h The work done by the external
+agency against the gravitational force is mgh This
+work gets stored as potential energy.
+Gravitational potential energy of an object, as a
+function of the height h, is denoted by V(h) and it
+is the negative of work done by the gravitational
+force in raising the object to that height.
+V(h) = mgh
+
+If h is taken as a variable, it is easily seen that
+the gravitational force F equals the negative of
+the derivative of V(h) with respect to h. Thus,
+
+d
+F=——V =—
+dh (h) mg
+
+The negative sign indicates that the
+gravitational force is downward. When released,
+the ball comes down with an increasing speed.
+Just before it hits the ground, its speed is given
+by the kinematic relation,
+
+v2 2 29h
+This equation can be written as
+l 2 h
+—mv=m
+2 g
+
+which shows that the gravitational potential
+energy of the object at height h, when the object
+is released, manifests itself as kinetic energy of
+the object on reaching the ground.
+
+Physically, the notion of potential energy is
+applicable only to the class of forces where work
+done against the force gets ‘stored up’ as energy.
+When external constraints are removed, it
+manifests itself as kinetic energy. Mathematically,
+(for simplicity, in one dimension) the potential
+
+* The variation of g with height is discussed in Chapter 8 on Gravitation.
+
+2019-20

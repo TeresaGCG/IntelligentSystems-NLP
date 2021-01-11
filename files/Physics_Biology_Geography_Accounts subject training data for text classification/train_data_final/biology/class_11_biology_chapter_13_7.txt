@@ -1,0 +1,56 @@
+PHOTOSYNTHESIS IN HIGHER PLANTS
+
+ 
+
+ATP is synthesised by cells (in mitochondria and
+chloroplasts) is named phosphorylation. Photo- Photosystem I
+pho sphorylation is the synthesis of ATP from
+
+l—l
+ADP and inorganic phosphate in the presence of
+light. When the two photosystems work in a ' W '
+series, ﬁrst PS 11 and then the PS I, a process called ‘
+non-cyclic photo-phosphorylation occurs. The \
+two photosystems are connected through an \ 03% E1 tr
+electron transport chain, as seen earlier— in the \\ {9 US$13;
+Z scheme. Both ATP and NADPH + H+ are \
+synthesised by this kind of electron ﬂow (Figure
+13.5).
+
+When only PS I is functional, the electron is
+circulated within the photosystem and the
+phosphorylation occurs due to cyclic ﬂow of
+electrons (Figure 13.6). A possible location
+where this could be happening is in the stroma
+lamellae. While the membrane or lamellae of the grana have both PS I
+and PS 11 the stroma lamellae membranes lack PS II as well as NADP
+reductase enzyme. The excited electron does not pass on to NADP+ but is
+cycled back to the PS I complex through the electron transport chain
+(Figure 13.6). The cyclic ﬂow hence, results only in the synthesis of ATP,
+but not of NADPH + H“. Cyclic photophosphorylation also occurs when
+only light of wavelengths beyond 680 nm are available for excitation.
+
+    
+ 
+
+Figure 13.6 Cyclic photophosphorylation
+
+13.6.3 Chemiosmotic Hypothesis
+
+Let us now ﬂy and understand how actually ATP is synthesised in the
+chloroplast. The Chemiosmotic hypothesis has been put forward to explain
+the mechanism. Like in respiration, in photosynthesis too, ATP synthesis is
+linked to development of a proton gradient across a membrane. This time
+these are the membranes of thylakoid. There is one difference though, here
+the proton accumulation is towards the inside of the membrane, i.e., in the
+lumen. In respiration, protons accumulate in the intermembrane space of
+the mitochondria when electrons move through the ETS (Chapter 14).
+
+Let us understand what causes the proton gradient across the
+membrane. We need to consider again the processes that take place during
+the activation of electrons and their transport to determine the steps that
+cause a proton gradient to develop (Figure 13.7).
+
+(a) Since splitting of the water molecule takes place on the inner side of
+the membrane, the protons or hydrogen ions that are produced by
+the splitting of water accumulate within the lumen of the thylakoids.

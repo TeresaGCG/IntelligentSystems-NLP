@@ -1,0 +1,39 @@
+616 Chapter 8
+b. If :l system uses odd pa rity, and the word 010 1 appears on the processor 
+memory bus, we suspect that a single-bit error has occurred. Can we tell
+which bit the error occurs in? \-Vhy or why not?
+c. If a system uses even parity and the word 010 1 appears on the processor-
+memory bus, can we tell if there is a double-bit error?
+8.16 (10 ) <§8.3> A program repeatedly performs a three-step process: It reads in
+a 4 KB block of data from disk, does some processing on that data, and then writes
+out the result as another 4 KB block elsewhere on the disk. Each block is contiguous
+and randomly located on a single track on the disk. The disk drive rotates at 10,000
+RPM, has an average seek time of8 ms, and has a transfer rate of 50 MB/sec. The
+controller overhead is 2 m s. No other program is using the disk or processor, and
+there is no overlapping of disk operation with processing. The processing step
+takes 20 million clock cycles, and the clock rate is 5 GHz. What is the overall speed
+of the system in blocks processed per second?
+8.17 [5] <§8.4> The OSI network protocol is a hierarchy of layers of abstraction,
+creating an interface between network applications and the physical wires. This is
+similar to the levels of abstraction used in the ISA interface between software and
+hardware. Name three adva ntages to using abstraction in network p rotocol design.
+8.18 [5] <§§8.3, 8.5> Suppose we have a system with the following characteris 
+tics:
+I. A memory and bus system supporting block access of 4 to 16 32-bit words.
+2. A 64-bit synch ronous bus clocked at 200 MHz, with each 64-bit transfer
+taking 1 clock cycle, and 1 clock cycle required to send an address to mem  
+ory.
+3. Two clock cycles needed between each bus operation. (Assume the bus is
+idle befo re an access.)
+4. A memory access time for the first four words of 200 ns; each additional set
+of four words can be read in 20 ns.
+Assume that the bus and mem ory systems described above are used to handle disk
+accesses from disks like the one described in the example on page 570. If the I/O is
+allowed to consume 100% of the bus and memory bandwidth, what is the maxi 
+mum number of simultaneous disk transfers that can be sustained for the two
+block sizes?
+8.19 [5] <§8.5> In the system described in Exercise 8.18, the memory system
+took 200 ns to read the first four words, and each additional four words required
+20 ns. Assuming that the memory system takes 150 ns to read the first four words
+and 30 ns to read each additional four words, find the sustained bandwidth and the
+latency for a read of 256 words for transfers that use 4-word blocks and for trans-

@@ -1,0 +1,65 @@
+Electrostatic Potential
+and Capacitance
+
+ 
+
+2.9 Explain what would happen if in the capacitor given in Exercise
+2.8, a 3 mm thick mica sheet (of dielectric constant = 6) were inserted
+between the plates,
+
+(a) while the voltage supply remained connected.
+(b) after the supply was disconnected.
+
+2.10 A 12pF capacitor is connected to a 50V battery. How much
+electrostatic energy is stored in the capacitor?
+
+2.11 A 600pF capacitor is charged by a 200V supply. It is then
+disconnected from the supply and is connected to another
+uncharged 600 pF capacitor. How much electrostatic energy is lost
+in the process?
+
+ADDITIONAL EXERCISES
+
+2. 12 A charge of 8 mC is located at the origin. Calculate the work done in
+taking a small charge of —2 X 10’9 C from a point P (O, O, 3 cm) to a
+point Q (0, 4 cm, 0), via a point R (O, 6 cm, 9 cm).
+
+2. 13 A cube of side b has a charge q at each of its vertices. Determine the
+potential and electric field due to this charge array at the centre of
+the cube.
+
+2.14 Two tiny spheres carrying charges 1.5 11C and 2.5 uC are located 30 cm
+apart. Find the potential and electric ﬁeld:
+
+(a) at the mid-point of the line joining the two charges, and
+
+(b) at a point 10 cm from this midpoint in a plane normal to the
+line and passing through the mid-point.
+
+2.15 A spherical conducting shell of inner radius r1 and outer radius r2
+has a charge Q.
+
+(a) A charge q is placed at the centre of the shell. What is the
+surface charge density on the inner and outer surfaces of the
+
+shell?
+
+(b) Is the electric field inside a cavity (with no charge) zero, even if
+the shell is not spherical, but has any irregular shape? Explain.
+
+2.16 (a) Show that the normal component of electrostatic field has a
+discontinuity from one side of a charged surface to another
+given by
+
+(EZ—E1)-ﬁ= 3
+
+£6
+where 11 is a unit vector normal to the surface at a point and
+a is the surface charge density at that point. (T he direction of
+
+n is from side 1 to side 2.) Hence, show that just outside a
+conductor, the electric field is 0 f1 /80.
+
+87
+
+2019-20

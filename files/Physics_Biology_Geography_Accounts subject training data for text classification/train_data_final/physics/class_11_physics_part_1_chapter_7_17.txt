@@ -1,0 +1,128 @@
+158
+
+PHYSICS
+
+ 
+
+Answer Let the particle with velocity v be at
+point P at some instant t. We want to calculate
+the angular momentum of the particle about an
+arbitrary point 0.
+
+ 
+
+0
+
+Fig 7.19
+
+The angular momentum is l = rX mv. Its
+magnitude is mvr sine, where 0 is the angle
+between 1' and v as shown in Fig. 7. 19. Although
+the particle changes position with time, the line
+of direction of v remains the same and hence
+OM = r sin 0. is a constant.
+
+Further, the direction of l is perpendicular
+to the plane of r and v. It is into the page of the
+figure.This direction does not change with time.
+
+Thus, 1 remains the same in magnitude and
+direction and is therefore conserved. Is there
+any external torque on the particle? 4
+
+7.8 EQUILIBRIUM OF A RIGID BODY
+
+We are now going to concentrate on the motion
+of rigid bodies rather than on the motion of
+general systems of particles.
+
+We shall recapitulate what effect the
+external forces have on a rigid body. (Henceforth
+we shall omit the adjective ‘external’ because
+unless stated otherwise, we shall deal with only
+external forces and torques.) The forces change
+the translational state of the motion of the rigid
+body, i.e. they change its total linear momentum
+in accordance with Eq. (7.17). But this is not
+the only effect the forces have. The total torque
+on the body may not vanish. Such a torque
+changes the rotational state of motion of the
+rigid body, i.e. it changes the total angular
+momentum of the body in accordance with Eq.
+(7 .28 b).
+
+A rigid body is said to be in mechanical
+equilibrium, if both its linear momentum and
+angular momentum are not changing with time,
+or equivalently, the body has neither linear
+
+2019-20
+
+acceleration nor angular acceleration. This
+
+means
+
+(1) the total force, i.e. the vector sum of the
+forces, on the rigid body is zero;
+
+F1+F2+...+FH=ZFi=0 (7.30a)
+i=1
+
+If the total force on the body is zero, then
+the total linear momentum of the body does
+not change with time. Eq. (7 .30a) gives the
+condition for the translational equilibrium
+of the body.
+
+(2) The total torque, i.e. the vector sum of the
+torques on the rigid body is zero,
+
+121+152+...+‘Cn=z12i=0 (7.30b)
+
+i=1
+
+If the total torque on the rigid body is zero,
+the total angular momentum of the body does
+not change with time. Eq. (7.30 b) gives the
+condition for the rotational equilibrium of the
+body.
+
+One may raise a question, whether the
+rotational equilibrium condition [Eq. 7 .30(b)]
+remains valid, if the origin with respect to which
+the torques are taken is shifted. One can show
+that if the translational equilibrium condition
+[Eq. 7 .30(a)] holds for a rigid body, then such a
+shift of origin does not matter, i.e. the rotational
+equilibrium condition is independent of the
+location of the origin about which the torques
+are taken. Example 7.7 gives a proof of this
+result in a special case of a couple, i.e. two forces
+acting on a rigid body in translational
+equilibrium. The generalisation of this result to
+n forces is left as an exercise.
+
+Eq. (7 .30a) and Eq. (7 .30b), both, are vector
+equations. They are equivalent to three scalar
+equations each. Eq. (7 .30a) corresponds to
+
+;Fm=0, gmy=0 and gFiz=o (7.31a)
+
+where Fix, Fig and Fiz are respectively the x, y
+and 2 components of the forces Fi. Similarly,
+Eq. (7.30b) is equivalent to three scalar
+equations
+
+Tiy : O and £712 2 O (7.31b)
+
+i=1
+
+1. =0
+
+IX 5
+
+n n
+i=1 [:1
+
+where 170‘, fig and 11.2 are respectively the x, y and
+2 components of the torque 1.- .

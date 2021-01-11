@@ -1,0 +1,53 @@
+186 P1 [YSICS
+—
+
+Central Forces
+
+We know the time rate of change of the angular momentum of a single particle about the origin
+is
+
+ﬂ=r><F
+dt
+
+The angular momentum of the particle is conserved, if the torque 4: : 1- x F due to the
+force F on it vanishes. This happens either when F is zero or when F is along r. We are
+
+interested in forces which satisfy the latter condition. Central forces satisfy this condition.
+
+A ‘central’ force is always directed towards or away from a ﬁxed point, i.e., along the position
+
+vector of the point of application of the force with respect to the fixed point. [See Figure below.)
+
+Further. the magnitude of a central force Fdepends on r, the distance of the point of application
+
+of the force from the fixed point; F = FIr).
+
+In the motion under a central force the angular momentum is always conserved. Two important
+results follow from this:
+
+[1] The motion of a particle under the central force is always confined to a plane.
+
+(2] The position vector of the particle with respect to the centre of the force (i.e. the fixed point]
+has a constant areal velocity. In other words the position vector sweeps out equal areas in
+equal times as the particle moves under the inﬂuence of the central force.
+
+Try to prove both these results. You may need to know that the areal velocity is given by :
+dA/dt = 1/2 r 1) sin a.
+
+An immediate application of the above discussion can be made to the motion of a planet
+under the gravitational force of the sun. For convenience the sun may be taken to be so heavy
+that it is at rest. The gravitational force of the sun on the planet is directed towards the sun.
+This force also satisfies the requirement F = F(r), since F = G m1m2/ r2 where m1 and m2 are
+respectively the masses of the planet and the sun and G is the universal constant of gravitation.
+The two results [I] and [2) described above, therefore, apply to the motion of the planet. In fact,
+the result [2) is the well—known second law of Kepler.
+
+ 
+
+Tr is the trejectory of the particle under the central force. At a position P, the force is directed
+along 0P, 0 is the centre of the force taken as the origin. In time At, the particle moves from P to P’,
+are PP’ = As = D At. The tangent PQ at P to the trajectory gives the direction of the velocity at P. The
+
+area swept in At is the area of sector POP’ z (r sin a) PP’/2 = (r 1) sin a) At/ 2.)
+
+2019-20

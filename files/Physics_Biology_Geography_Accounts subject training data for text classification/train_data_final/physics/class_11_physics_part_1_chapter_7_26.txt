@@ -1,0 +1,125 @@
+SYSTEMS OI’ PARTICLES AND ROTATIONAL MOTION
+
+167
+
+7. 10. 1 Theorem of parallel axes
+
+This theorem is applicable to a body of any
+shape. It allows to find the moment of inertia of
+a body about any axis, given the moment of
+inertia of the body about a parallel axis through
+the centre of mass of the body. We shall only
+state this theorem and not give its proof. We
+shall, however, apply it to a few simple situations
+which will be enough to convince us about the
+usefulness of the theorem. The theorem may
+be stated as follows:
+
+The moment of inertia of a body about any
+axis is equal to the sum of the moment of
+inertia of the body about a parallel axis passing
+through its centre of mass and the product of
+its mass and the square of the distance
+between the two parallel axes. As shown in
+the Fig. 7.31, z and z’ are two parallel axes,
+separated by a distance a. The z-axis passes
+through the centre of mass 0 of the rigid body.
+Then according to the theorem of parallel axes
+
+IZ,=IZ+ Ma2 (7.37)
+where 12 and I2, are the moments of inertia of the
+body about the z and z’axes respectively, M is the
+total mass of the body and a is the perpendicular
+distance between the two parallel axes.
+
+> Example 7.11 What is the moment of
+inertia of a rod of mass M. length I about
+
+an axis perpendicular to it through one
+end?
+
+ 
+
+Answer For the rod of mass M and length l,
+I = Ml2/12. Using the parallel axes theorem,
+I’= I+ Ma2 with a= 1/2 we get,
+
+2 2 2
+I’=Ml—+M(L) = M
+12 2 3
+
+We can check this independently since I is
+half the moment of inertia of a rod of mass 2M
+and length 21 about its midpoint,
+
+412 1 M12
+
+I’=2M.—><—=
+12 2 3
+
+ 
+
+ 
+
+FExample 7.12 What is the moment of
+
+inertia of a ring about a tangent to the
+circle of the ring?
+
+ 
+
+Answer
+The tangent to the ring in the plane of the ring
+is parallel to one of the diameters of the ring.
+
+The distance between these two parallel axes is
+R, the radius of the ring. Using the parallel axes
+theorem,
+
+Tangent
+
+ 
+
+ 
+
+—————————— >
+Fig. 7.32
+2
+Imgem=1dm+ MR2= M; + MR2=§MR2. 4
+
+7. 1 1 KINEMATICS OF ROTATIONAL MOTION
+ABOUT A FIXED AXIS
+
+We have already indicated the analogy between
+rotational motion and translational motion. For
+example, the angular velocity 0) plays the same
+role in rotation as the linear velocity v in
+translation. We wish to take this analogy
+further. In doing so we shall restrict the
+discussion only to rotation about fixed axis. This
+case of motion involves only one degree of
+freedom, i.e., needs only one independent
+variable to describe the motion. This in
+translation corresponds to linear motion. This
+section is limited only to kinematics. We shall
+turn to dynamics in later sections.
+
+We recall that for specifying the angular
+displacement of the rotating body we take any
+particle like P (Fig.7 .33) of the body. Its angular
+displacement 6 in the plane it moves is the
+angular displacement of the whole body; 0 is
+measured from a fixed direction in the plane of
+
+motion of P, which we take to be the x’-axis,
+chosen parallel to the x-axis. Note, as shown,
+the axis of rotation is the z — axis and the plane
+of the motion of the particle is the x - y plane.
+Fig. 7.33 also shows 00, the angular
+displacement at t= 0.
+
+We also recall that the angular velocity is
+the time rate of change of angular displacement,
+a) = dO/dt. Note since the axis of rotation is fixed,
+
+2019-20

@@ -1,0 +1,58 @@
+234
+
+Outer
+
+Inner
+mitochondrial —
+membrane
+
+  
+
+BIOLOGY
+
+transport system is utilised in synthesising ATP
+with the help of ATP synthase (complex V). This
+complex consists of two major components, F1
+and F0 (Figure 14.5). The F1 headpiece is a
+peripheral membrane protein complex and
+contains the site for synthesis of ATP from ADP
+and inorganic phosphate. F0 is an integral
+membrane protein complex that forms the
+channel through which protons cross the inner
+membrane. The passage of protons through the
+ADP Pi channel is coupled to the catalytic site of the F1
+component for the production of ATP. For each
+ATP produced, 2H+ passes through F0 from the
+
+Matrix
+
+Figure 14.5 Diagramatic presentation of ATP intermembrane space to the matrix down the
+synthesis in mitochondria electrochemical proton gradient.
+
+14.5 THE RESPIRATORY BALANCE SHEET
+
+It is possible to make calculations of the net gain of ATP for every glucose
+molecule oxidised; but in reality this can remain only a theoretical exercise.
+These calculations can be made only on certain assumptions that:
+
+’ There is a sequential, orderly pathway functioning, with one
+substrate forming the next and with glycolysis, TCA cycle and ETS
+pathway following one after another.
+
+' The NADH synthesised in glycolysis is transferred into the
+mitochondria and undergoes oxidative phosphorylation.
+
+' None of the intermediates in the pathway are utilised to synthesise
+any other compound.
+
+° Only glucose is being respired — no other alternative substrates are
+entering in the pathway at any of the intermediary stages.
+
+But this ldnd of assumptions are not really valid in a living system; all
+pathways work simultaneously and do not take place one after another;
+substrates enter the pathways and are withdrawn from it as and when
+necessary; ATP is utilised as and when needed; enzymatic rates are
+controlled by multiple means. Yet, it is useful to do this exercise to
+appreciate the beauty and efﬁciency of the living system in extraction
+and storing energy. Hence, there can be a net gain of 38 ATP molecules
+during aerobic respiration of one molecule of glucose.

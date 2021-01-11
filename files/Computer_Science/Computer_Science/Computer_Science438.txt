@@ -1,0 +1,33 @@
+422 Chapter 6 Enhancing Performance with Plpellnlng
+The steady-state prediction behavior will mispredict on the first and last loop
+ANSWER
+iterations. Mispredicting the last iteration is inevitable since the prediction
+bit will say taken: the branch has been taken nine times in a row at that point.
+The misprediction on the first iteration happens because the bit is flipped on
+prior execution of the last iteration of the loop, since the branch was not tak 
+en on that exiting iteration. Thus, the prediction accuracy for this branch that
+is taken 90% of the time is only 80% (two incorrect predictions and eight
+correct ones).
+Ideally, the accuracy of the predictor would match the taken branch frequency
+for these highly regular branches. To remedy this weakness, 2-bit prediction
+schemes are often used. In a 2-bit scheme, a prediction must be wrong twice
+before it is changed. Figure 6.39 shows the finite state machine for a 2-bit predic 
+tion scheme.
+A branch prediction buffer can be implemented as a small, special buffer
+accessed with the instruction address during the IF pipe stage. If the instruction is
+predicted as taken, fetching begins from the target as soon as the PC is known; as
+mentioned on page 418, it can be as early as the 10 stage. Otherwise, sequential
+Taken
+Not taken
+Prwdict taken
+Taken
+1
+Not taken
+T,keo
+Not taken
+Taken
+FIGURE 6.39 The states In a 2-b1t prediction scheme. By using 2 bits rather than l,a branch that
+strongly favors taken or not taken-as many branches do---will be mispredicted only once. The 2 bits are
+U'ied to encode the four states in the system. The two-bit scheme is a general instance of a counter-based
+predictor, which is incremented when the prediction is accurate and decremented otherwise, and U'ies the
+midpoint of its range as the division between taken and not taken.

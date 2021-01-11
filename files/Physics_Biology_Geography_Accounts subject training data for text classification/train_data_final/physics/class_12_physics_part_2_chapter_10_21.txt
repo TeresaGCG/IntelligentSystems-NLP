@@ -1,0 +1,72 @@
+372
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+In this experiment, the ﬁlament plays the role of the first slit 8 in
+Fig. 10.16. The lens of the eye focuses the pattern on the screen (the
+retina of the eye).
+
+With some effort, one can cut a double slit in an aluminium foil with
+a blade. The bulb filament can be viewed as before to repeat Young’s
+experiment. In daytime, there is another suitable bright source subtending
+a small angle at the eye. This is the reﬂection of the Sun in any shiny
+convex surface (e. g., a cycle bell). Do not try direct sunlight — it can damage
+the eye and will not give fringes anyway as the Sun subtends an angle
+of (1 / 2)°.
+
+In interference and diffraction, light energy is redistributed. If it
+reduces in one region, producing a dark fringe, it increases in another
+region, producing a bright fringe. There is no gain or loss of energy,
+which is consistent with the principle of conservation of energy.
+
+10.6.3 Resolving power of optical instruments
+
+In Chapter 9 we had discussed about telescopes. The angular resolution
+of the telescope is determined by the objective of the telescope. The stars
+which are not resolved in the image produced by the objective cannot be
+resolved by any further magniﬁcation produced by the eyepiece. The
+primary purpose of the eyepiece is to provide magnification of the image
+produced by the objective.
+
+Consider a parallel beam of light falling on a convex lens. If the lens is
+well corrected for aberrations, then geometrical optics tells us that the
+beam will get focused to a point. However, because of diffraction, the
+beam instead of getting focused to a point gets focused to a spot of finite
+area. In this case the effects due to diffraction can be taken into account
+by considering a plane wave incident on a circular aperture followed by
+a convex lens (Fig. 10.19). The analysis of the corresponding diffraction
+pattern is quite involved; however, in principle, it is similar to the analysis
+carried out to obtain the single-slit diffraction pattern. Taking into account
+the effects due to diffraction, the pattern on the focal plane would consist
+of a central bright region surrounded by concentric dark and bright rings
+(Fig. 10. 19). A detailed analysis shows that the radius of the central bright
+region is approximately given by
+
+~ 1.22/if _ 0.61/if
+2a a
+
+l
+
+2a
+
+l
+
+FIGURE 10.19 A parallel beam of light is incident on a convex lens.
+Because of diffraction effects. the beam gets focused to a
+spot of radius : 0.61 xlf/a.
+
+ 
+
+r0 (10.24)
+
+  
+
+<—f—>
+
+2019-20

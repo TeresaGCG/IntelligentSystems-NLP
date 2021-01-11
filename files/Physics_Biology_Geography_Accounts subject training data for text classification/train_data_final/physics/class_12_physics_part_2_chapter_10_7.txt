@@ -1,0 +1,80 @@
+l Physics
+
+ 
+
+Incidcni
+l'lui Icwaivc
+
+Z,
+
+Incident
+plant-wave
+
+[a]
+
+discussed in detail in Chapter 9 on the basis of rectilinear propagation of
+light. Here we just describe the behaviour of the wavefronts as they
+undergo reﬂection or refraction. In Fig. 10.7(a) we consider a plane wave
+passing through a thin prism. Clearly, since the speed of light waves is
+less in glass, the lower portion of the incoming wavefront (which travels
+through the greatest thickness of glass) will get delayed resulting in a tilt
+in the emerging wavefront as shown in the figure. In Fig. l 0.7(b) we
+consider a plane wave incident on a thin convex lens; the central part of
+the incident plane wave traverses the thickest portion of the lens and is
+delayed the most. The emerging wavefront has a depression at the centre
+and therefore the wavefront becomes spherical and converges to the point
+F which is known as the focus. In Fig. 10.7(c) a plane wave is incident on
+a concave mirror and on reﬂection we have a spherical wave converging
+to the focal point F. In a similar manner, we can understand refraction
+and reﬂection by concave lenses and convex mirrors.
+
+Concave mirror
+. of radius R
+
+  
+
+I I1(‘l(l{'.‘1]l
+
+. i'-‘ pluncwuvc
+
+‘1,
+
+ 
+
+Spherical wavefront Spherical wavefront
+m‘ mqu f 01‘ radius R/2
+
+. ‘ (C)
+
+[11]
+
+FIGURE 10.7 Refraction of a plane wave by (a) a thin pn'sm. (b) a convex lens. (c) Reﬂection of a
+
+358
+
+plane wave by a concave mirror.
+
+From the above discussion it follows that the total time taken from a
+point on the object to the corresponding point on the image is the same
+measured along any ray. For example, when a convex lens focusses light
+to form a real image, although the ray going through the centre traverses
+a shorter path, but because of the slower speed in glass, the time taken
+is the same as for rays travelling near the edge of the lens.
+
+10.3.4 The doppler effect
+
+We should mention here that one should be careful in constructing the
+wavefronts if the source (or the observer) is moving. For example, if there
+is no medium and the source moves away from the observer, then later
+wavefronts have to travel a greater distance to reach the observer and
+hence take a longer time. The time taken between the arrival of two
+successive wavefronts is hence longer at the observer than it is at the
+source. Thus, when the source moves away from the observer the
+frequency as measured by the source will be smaller. This is known as
+the Doppler effect. Astronomers call the increase in wavelength due to
+doppler effect as red shift since a wavelength in the middle of the visible
+region of the spectrum moves towards the red end of the spectrum. When
+waves are received from a source moving towards the observer, there is
+an apparent decrease in wavelength, this is referred to as blue shift.
+
+2019-20

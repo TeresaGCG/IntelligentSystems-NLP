@@ -1,0 +1,30 @@
+Algebra and Geometry
+187
+Many mathematicians have constructed proofs of the Pythagorean
+Theorem. Even non-mathematicians have discovered new ways to prove
+this theorem. In fact, President Garfield published a proof of the
+Pythagorean Theorem back in 1876.
+One of the nice things about the Pythagorean Theorem is that it works
+both ways:
+(cid:96) Given any right triangle, the lengths of the three sides satisfy
+the relationship a2 + b2 = c2.
+(cid:96) If the lengths of the three sides of a triangle satisfy the equation
+a2+ b2 = c2, where a and b are the lengths of the shorter sides
+and c is the length of the longest side, then the triangle is a
+right triangle.
+The Pythagorean Theorem involves squaring lengths and solving for
+lengths by taking the square root of a number. Remember that if a num-
+ber is a perfect square, its square root will be an integer. Otherwise, its
+square root will be an irrational number. We can use a calculator to
+approximate the square root of a number that is not a perfect square and
+round to get estimates for these irrational numbers.
+Example 1
+If the lengths of the two legs of a right triangle are 5 inches and 12
+inches, find the length of the hypotenuse.
+Solution: Let c represent the length of the hypotenuse and use
+the Pythagorean Theorem to find c:
+So, the length of the hypotenuse is 13 inches.
+Example 2
+A right triangle has one leg that is three times longer than the
+other leg. If the length of the hypotenuse is 10 inches, find the
+lengths of the two legs.

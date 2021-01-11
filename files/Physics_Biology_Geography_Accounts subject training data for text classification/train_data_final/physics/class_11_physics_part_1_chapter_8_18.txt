@@ -1,0 +1,106 @@
+G RAVITATI ON
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+
+8.6
+
+8.7
+
+8.8
+
+8.9
+
+8.10
+
+8.11
+
+8.12
+
+8.13
+
+8.14
+
+8.15
+
+8. 16
+
+Choose the correct alternative :
+
+(a) Acceleration due to gravity increases / decreases with increasing altitude.
+
+(b) Acceleration due to gravity increases / decreases with increasing depth [assume the
+earth to be a sphere of uniform density).
+
+[c] Acceleration due to gravity is independent of mass of the earth / mass of the body.
+
+[d] The formula —GMm[1/r2 — 1/r1] is more/less accurate than the formula
+mg[r2 — r1] for the difference of potential energy between two points r2 and r1 distance
+away from the centre of the earth.
+
+Suppose there existed a planet that went around the sun twice as fast as the earth.
+
+What would be its orbital size as compared to that of the earth ?
+
+10, one of the satellites of Jupiter, has an orbital period of 1.769 days and the radius
+
+of the orbit is 4.22 x 108 m. Show that the mass of Jupiter is about one—thousandth
+
+that of the sun.
+
+Let us assume that our galaxy consists of 2.5 x 1011 stars each of one solar mass. How
+
+long will a star at a distance of 50,000 ly from the galactic centre take to complete one
+
+revolution ? Take the diameter of the Milky Way to be 105 ly.
+
+Choose the correct alternative:
+
+[a] If the zero of potential energy is at infinity, the total energy of an orbiting satellite
+is negative of its kinetic / potential energy.
+
+(b) The energy required to launch an orbiting satellite out of earth’s gravitational
+inﬂuence is more/ less than the energy required to project a stationary object at
+the same height [as the satellite) out of earth’s inﬂuence.
+
+Does the escape speed of a body from the earth depend on [a] the mass of the body, [b]
+the location from where it is projected, (c) the direction of projection, (d) the height of
+the location from where the body is launched?
+
+A comet orbits the sun in a highly elliptical orbit. Does the comet have a constant [a]
+linear speed, [b] angular speed, [c] angular momentum, (d) kinetic energy, [e] potential
+energy, (1] total energy throughout its orbit? Neglect any mass loss of the comet when
+it comes very close to the Sun.
+
+Which of the following symptoms is likely to afﬂict an astronaut in space [a] swollen
+feet, [b] swollen face, [c] headache, (d) orientational problem.
+
+In the following two exercises, choose the correct answer from among the given ones:
+The gravitational intensity at the centre of a hemispherical shell of uniform mass
+density has the direction indicated by the arrow [see Fig 8.12] (i) a, [ii] b, [iii] c, (iv) 0.
+
+ 
+
+Fig. 8.12
+For the above problem, the direction of the gravitational intensity at an arbitrary
+point P is indicated by the arrow (i) (:1, [ii] e, [iii] f, (iv) g.
+A rocket is fired from the earth towards the sun. At what distance from the earth’s
+centre is the gravitational force on the rocket zero ? Mass of the sun = 2><1030 kg,
+mass of the earth = 6x1024 kg. Neglect the effect of other planets etc. [orbital radius =
+1.5 x 1011 m].
+How will you ‘weigh the sun’, that is estimate its mass? The mean orbital radius of
+the earth around the sun is 1.5 x 108 km.
+A saturn year is 29.5 times the earth year. How far is the saturn from the sun if the
+earth is 1.50 x 108 km away from the sun ?
+A body weighs 63 N on the surface of the earth. What is the gravitational force on it
+due to the earth at a height equal to half the radius of the earth ?
+Assuming the earth to be a sphere of uniform mass density, how much would a body
+
+2019-20
+
+201

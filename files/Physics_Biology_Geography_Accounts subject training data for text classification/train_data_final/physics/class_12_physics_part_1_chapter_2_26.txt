@@ -1,0 +1,68 @@
+Electrostatic Potential
+and Copoci’ronce
+
+Eq. (2.54) for the case of a parallel plate capacitor, it holds good for any
+type of capacitor and can, in fact, be viewed in general as a deﬁnition of
+the dielectric constant of a substance.
+
+ELECTRIC DISPLACEMENT
+
+We have introduced the notion of dielectric constant and arrived at Eq. (2.54), without
+giving the explicit relation between the induced charge density GP and the polarisation P.
+We take without proof the result that
+
+O'P = P-ﬁ
+
+where in is a unit vector along the outward normal to the surface. Above equation is
+general, true for any shape of the dielectric. For the slab in Fig. 2.23, P is along 1‘: at the
+right surface and opposite to :1 at the left surface. Thus at the right surface, induced
+charge density is positive and at the left surface, it is negative, as guessed already in our
+qualitative discussion before. Putting the equation for electric field in vector form
+
+A — P-ﬁ
+E.n : 0-—
+80
+
+or (£0E+P)-ﬁ=cr
+
+The quantity 80 E + P is called the electric displacement and is denoted by D. It is a
+vector quantity. Thus,
+
+D=£0E+P,D-ﬁ =6,
+
+The significance of D is this : in vacuum, E is related to the free charge density 6.
+When a dielectric medium is present, the corresponding role is taken up by D. For a
+dielectric medium, it is D not E that is directly related to free charge density a, as seen in
+above equation. Since P is in the same direction as E, all the three vectors P, E and D are
+
+parallel.
+The ratio of the magnitudes of D and E is
+
+D 0'80
+
+E 2 0' — 03,
+Thus,
+D=%KE
+and P = D —80E = so (K—1)E
+This gives for the electric susceptibility 259 defined in Eq. (2.37)
+Xe =80 (K—l)
+
+ 
+
+=%K
+
+Example 2.8 A slab of material of dielectric constant K has the same
+area as the plates of a parallel-plate capacitor but has a thickness
+(3/4)d, where d is the separation of the plates. How is the capacitance
+changed when the slab is inserted between the plates?
+
+Solution Let E0 = VO/d be the electric field between the plates when
+there is no dielectric and the potential difference is V0. If the dielectric
+is now inserted, the electric ﬁeld in the dielectric will be E = EO/K.
+The potential difference will then be
+
+8 ’z 31mg
+
+77
+
+2019-20

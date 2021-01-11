@@ -1,0 +1,43 @@
+3.7 Real Stuff: floating Point In the IA·32 217
+Check
+Suppose there was a 16-bit IEEE 754 floating-point format with 5 exponent bits.
+What would be the likely range of numbers it could represent? Yourself
+31
+1. 1.0000000000X2° to 1.1111111111 X2 ,0
+14 15
+2. ± 1.0000 0000 0 X 2- to ± 1.1111 1111 1 X 2 , ±O, ±oo, NaN
+14 15
+3. ± 1.0000 0000 00 X 2- to ± 1.11111111 11 X 2 , ±O, ±oo, NaN
+15 14
+4. ± 1.0000 0000 00 X 2- to ± 1.1111 1111 11 X 2 , ±O, ±oo, NaN
+Elaboration: To accommodate comparisons that may include NaNs, the standard
+includes ordered and unordered as options for compares. Hence the full MIPS instruc 
+tion set has many flavors of compares to support NaNs. (Java does not support unor 
+dered compares.)
+In an attempt to squeeze every last bit of precision from a floating-point operation,
+the standard allows some numbers to be represented in unnormalized form. Rather
+than having a gap between a and the smallest normalized number, IEEE allows denor 
+malized numbers (also known as denonns or subnonnals). They have the same expo 
+nent as zero but a nonzero significand. They allow a number to degrade in significance
+until it becomes 0, called gradual underllow. For example, the smallest positive single
+precision normalized number is
+126
+1.0000 0000 0000 0000 0000 00Otwo 2-
+X
+but the smallest single precision denormalized number is
+126 149
+0.0000 0000 0000 0000 0000 00ltwo X 2- , or 1.Otwo x 2-
+1022 1074
+For double precision, the denorm gap goes from 1.0 x 2- to 1.0 X 2- .
+The possibility of an occasional unnormalized operand has given headaches to floating 
+point designers who are trying to build fast floating-point units. Hence, many computers
+cause an exception if an operand is denormalized, letting software complete the opera 
+tion. Although software implementations are perfectly valid, their lower performance
+has lessened the popularity of denorms in portable floating-point software. Also, if pro 
+grammers do not expect denorms, their programs may be surprised.
+Real Stuff: Floating Point in the IA·32
+The IA-32 has regular multiply and divide instructions that operate entirely on
+registers, unlike the reliance on Hi and Lo in M IPS. (In fact, later versions of the
+MIPS instruction set have added similar instructions.)
+The main differences are found in floating-point instructions. The IA-32 float 
+ing-point architecture is different from all other computers in the world.

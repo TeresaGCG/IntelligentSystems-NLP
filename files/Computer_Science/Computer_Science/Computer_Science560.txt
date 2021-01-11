@@ -1,0 +1,37 @@
+544 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+10%
+7%
+6%
+Miss rate
+5%
+per type
+4%
+3%
+2%
+Capacity
+1%
+0%
+4 8 16 32 64 128 256 512 1024
+Cache size (KB)
+FIGURE 7.31 The miss rate can be broken Into three sources of misses. This graph shows
+the total miss rate and its components for a range ofcache sizes. This data is for the SPEC2000 integer and
+floating-point benchmarks and is from the same source as the data in Figure 7.30. The compulsory miss
+component is 0.006% and cannot be seen in this graph. The next component is the capacity miss rate,
+which depends on cache size. The conflict portion, which depends both on associativity and on cache size,
+is shown for a range of associativities from one-way to eight-way. In each case, the labeled section com,>·
+sponds to the increase in the miss rate that occurs when the associativity is changed from the next higher
+degree to the labeled degree of associativity. For example, the section labeled fW<rway indicates the addi 
+tional misses arising when the cache has associativity of two rather than four. Thus, the difference in the
+miss rate incurred by a direct-mapped cache versus a fully associative cache ofthe same size is given by the
+swn ofthe sections marked eigllf-wfly.jollr-wfly. two-way, and oue-way.The difference between eight-way
+and four-way is so small that it is difficult to see on this graph.
+Figure 7.31 shows how the miss rate divides into the three sources. These
+sources of misses can be directly attacked by changing some aspect of the cache
+design. Since conflict misses arise directly from contention for the same cache
+block, increasing associativity reduces conflict misses. Associativity, however, may
+slow access time, leading to lower overall performance.
+Capacity misses can easily be reduced by enlarging the cache; indeed, second 
+level caches have been growing steadily larger for many years. Of course, when we
+make the cache larger, we must also be careful about increasing the access time,
+which could lead to lower overall performance. Thus, first -level caches have been
+growing slowly if at all.

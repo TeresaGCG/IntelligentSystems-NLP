@@ -1,0 +1,29 @@
+196 Chapter 3 Arithmetic: for Computers
+The double precision representation is
+i
+(_1)1x (1+ .1000 ()()()() 0<XXlססoo ()()()()<XX>Oססoo 0<XXlססoo ()()()()<XXX>ססoo O<XX>two) x lon_ lOll)
+31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+1 0 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 bit 11 bits 20 bits
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000000 1
+32 bits
+Now let's try going the other direction.
+Converting Binary to Decimal Floating Point
+What decimal number is represented by this single precision float?
+EXAMPLE
+31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+The sign bit is I, the exponent field contains 129, and the fraction field con-
+ANSWER 2
+r
+tains 1X = 1/4, or 0.25. Using the basic equation,
+(_ I)s X ( I + Fraction) X iExponent - Bias) = (_ 1)1X (i + 0.25) X2(129-127)
+2
+=-IX1.2SX2
+=-1.2Sx4
+= -5.0
+In the next sections we will give the algorithms for floating-point addition and
+multiplication. At their core, they use the corresponding integer operations on the
+significands, but extra bookkeeping is necessary to handle the exponents and nor 
+malize the result. We first give an intuitive derivation of the algorithms in decimal,
+and then give a more detailed, binary version in the figures.

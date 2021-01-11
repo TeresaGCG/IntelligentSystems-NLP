@@ -1,0 +1,136 @@
+G RAVI'I‘ATI ON
+
+185
+
+ 
+
+Table 8.1 Data from measurement of
+planetary motions given below
+conﬁrm Kepler's Law of Periods
+
+(a E Semi-major axis in units of 1010 m
+T a Time period of revolution of the planet
+in years(y).
+E The quotient [ T2/a3 ] in units of
+10 34 y2 m'3 .]
+-——_
+Mercury 5.79 0.24 2.95
+Venus 10.8 0.615 3.00
+Earth 15.0 1 2.96
+Mars 22.8 1.88 2.98
+Jupiter 77.8 1 1.9 3.0 1
+Saturn 143 29.5 2.98
+Uranus 287 84 2.98
+Neptune 450 165 2.99
+Pluto“ 590 248 2.99
+
+The law of areas can be understood as a
+consequence of conservation of angular
+momentum whch is valid for any central force .
+A central force is such that the force on the
+planet is along the vector joining the Sun and
+the planet. Let the Sun be at the origin and let
+the position and momentum of the planet be
+denoted by r and p respectively. Then the area
+swept out by the planet of mass m in time
+
+interval At is (Fig. 8.2) AA given by
+
+AA = 1/2 (r x vAt) (8.1)
+Hence
+AA/At =1/2 (r x p)/m, (since v = p/m)
+= L / (2 m) (8.2)
+
+where v is the velocity, L is the angular
+momentum equal to ( r x p). For a central
+force, which is directed along r, L is a constant
+
+ 
+
+Johannes Kepler
+(1571-1630) was a
+scientist of German
+origin. He formulated
+the three laws of
+planetary motion based
+on the painstaking
+: observations of Tycho
+Brahe and coworkers. Kepler himself was an
+assistant to Brahe and it took him sixteen long
+years to arrive at the three planetary laws. He
+is also known as the founder of geometrical
+optics. being the ﬁrst to describe what happens
+to light after it enters a telescope.
+
+ 
+
+ 
+
+ 
+
+Refer to information given in the Box on Page 182
+
+as the planet goes around. Hence, AA /At is a
+
+constant according to the last equation. This is
+the law of areas. Gravitation is a central force
+and hence the law of areas follows.
+
+Example 8.1 Let the speed of the planet
+at the perihelion Pin Fig. 8.1(a) be up and
+the Sun—planet distance SP be rp. Relate
+
+{rp. up} to the corresponding quantities at
+the aphelion {rA DA}. Will the planet take
+equal times to traverse BAC and CPB ?
+
+ 
+
+Answer The magnitude of the angular
+momentum at Pis L1) = up, since inspection
+tells us that rp and v1) are mutually
+perpendicular. Similarly, LA = mp rA DA. From
+angular momentum conservation
+
+TTIPTPUP=H1PTAUA
+
+U_P_TA
+or _ 4
+DA rp
+
+Since rA > rp, up > vA.
+
+The area SBAC bounded by the ellipse and
+the radius vectors SB and SC is larger than SBPC
+in Fig. 8. 1. From Kepler’s second law, equal areas
+are swept in equal times. Hence the planet will
+take a longer time to traverse BAC than CPB.
+
+8.3 UNIVERSAL LAW OF GRAVITATION
+
+Legend has it that observing an apple falling
+from a tree, Newton was inspired to arrive at an
+universal law of gravitation that led to an
+explanation of terrestrial gravitation as well as
+of Kepler’s laws. Newton’s reasoning was that
+the moon revolving in an orbit of radius Rm was
+subject to a centripetal acceleration due to
+earth’s gravity of magnitude
+
+V2 4722Rm
+am 2 — : 2 (8.3)
+Rm T
+where V is the speed of the moon related to the
+time period T by the relation V = 271'Rm / T. The
+
+time period T is about 27.3 days and Rm was
+already known then to be about 3.84 X 108m. If
+we substitute these numbers in Eq. (8.3), we
+get a value of am much smaller than the value of
+acceleration due to gravity g on the surface of
+the earth, arising also due to earth’s gravitational
+attraction.
+
+ 
+
+2019-20

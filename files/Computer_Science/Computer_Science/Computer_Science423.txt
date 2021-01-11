@@ -1,0 +1,47 @@
+6.4 Data Hazards and Forwarding 407
+of the pipeline register during the EX and MEM stages determines if RegWrite is
+asserted. Also, MIPS requires that every use of $0 as an operand must yield an
+operand value of zero. In the event that an instruction in the pipeline has $0 as its
+destination (for example, sll $0, $1, 2), we want to avoid forwarding its possibly
+nonzero result value. Not forwarding results destined for $0 frees the assembly
+programmer and the compiler of any requirement to avoid using $0 as a destina 
+tion. The conditions above thus work properly as long we add EXlMEM.Regis 
+"*
+terRd 0 to the first hazard condition and MEM/WB.RegisterRd 0 to the
+01-
+second.
+Now that we can detect hazards, half of the problem is resolved-but we must
+still forward the proper data.
+Figure 6.29 shows the dependences between the pipeline registers and the
+inputs to the ALU for the same code sequence as in Figure 6.28. The change is that
+the dependence begins from a pipeline register rather than wa iting for the WB
+stage to write the register file. Thus the required data exists in time for later
+instructions, with the pipeline registers holding the data to be forwarded.
+If we can take the inputs to the ALU from allY pipeline register rather than just
+ID/EX, then we can forward the proper data. By adding multiplexors to the input
+of the ALU and with the proper controls, we can run the pipeline at full speed in
+the presence of these data dependences.
+For now, we will assume the only instructions we need to forward are the four
+R-format instructions: add, sub, and, and or. Figure 6.30 shows a close-up of
+the ALU and pipeline register before and after adding forwarding. Figure 6.3 1
+shows the values of the control lines for the ALU multiplexors that select either the
+register file values or one of the forwarded values.
+This forwarding control will be in the EX stage because the ALU forwarding
+multiplexors are found in that stage. Thus, we must pass the operand register
+numbers from the ID stage via the ID/ EX pipeline register to determine whether
+to forward values. We already have the rt field (bits 20- 16). Before forwarding, the
+ID/EX register had no need to include space to hold the rs field. Hence, rs (bits
+25-2 1) is added to ID/EX.
+Let's now write both the conditions for detecting hazards and the control sig 
+nals to resolve them:
+I. E.X hazard:
+if ( EX/MEM.RegWrite
+*
+and ( EX/MEM . RegisterRd
+0)
+and ( EX/MEM . RegisterRd ID/EX . RegisterRsll ForwardA 10
+if ( EX/MEM.RegWrite
+*
+and ( EX/MEM . RegisterRd
+0)
+and ( EX/MEM . RegisterRd ID/EX . RegisterRtll ForwardS 10

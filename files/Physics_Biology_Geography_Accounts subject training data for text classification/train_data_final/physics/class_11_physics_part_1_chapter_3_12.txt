@@ -1,0 +1,130 @@
+MOTION IN A STRAIGHT LINE
+
+51
+
+ 
+
+initial velocity increases the stopping distance
+by a factor of 4 (for the same deceleration).
+
+For the car of a particular make, the braking
+distance was found to be 10 m, 20 m, 34 m and
+50 m corresponding to velocities of l 1, 15, 20
+and 25 m/s which are nearly consistent with
+the above formula.
+
+Stopping distance is an important factor
+considered in setting speed limits, for example,
+in school zones. 4
+
+F Example 3.8 Reaction time : When a
+situation demands our immediate
+action, it takes some time before we
+really respond. Reaction time is the
+time a person takes to observe, think
+and act. For example. if a person is
+driving and suddenly a boy appears on
+the road. then the time elapsed before
+he slams the brakes of the car is the
+reaction time. Reaction time depends
+
+on complexity of the situation and on
+an individual.
+
+You can measure your reaction time
+by a simple experiment. Take a ruler
+and ask your friend to drop it vertically
+through the gap between your thumb
+and forefinger (Fig. 3.15). After you
+catch it. find the distance d travelled
+by the ruler. In a particular case, (1 was
+found to be 21.0 cm. Estimate reaction
+
+time.
+
+Friend's hand
+
+Ruler
+
+.1 7;: E;
+a—
+
+     
+
+;‘ ".
+
+Fig. 3.15 Measuring the reaction time.
+
+Answer The ruler drops under free fall.
+Therefore, v0 = O, and a = —g = —9.8 m s”. The
+distance travelled d and the reaction time tr are
+related by
+
+ 
+
+1
+d=—— B
+2.61r
+
+Or tr: as
+’ V9
+
+Given d= 21.0 cm and g = 9.8 m s*2 the reaction
+time is
+
+tr=JZXO21 550.2 s. 4
+9.8
+
+3.7 RELATIVE VELOCITY
+
+ 
+
+You must be familiar with the experience of
+travelling in a train and being overtaken by
+another train moving in the same direction as
+you are. While that train must be travelling faster
+than you to be able to pass you, it does seem
+slower to you than it would be to someone
+standing on the ground and watching both the
+trains. In case both the trains have the same
+velocity with respect to the ground, then to you
+the other train would seem to be not moving at
+all. To understand such observations, we now
+introduce the concept of relative velocity.
+
+Consider two objects A and B moving
+uniformly with average velocities vA and DB in
+one dimension, say along x-axis. (Unless
+otherwise specified, the velocities mentioned in
+this chapter are measured with reference to the
+ground). Ifo (0) and xB (O) are positions of objects
+A and B, respectively at time t = 0, their positions
+xA (t) and xB (t) at time tare given by:
+
+xA (t) xA(O) + vA t (3.12a)
+xB (t) xB(O) + vBt (3.12b)
+
+Then, the displacement from object A to object
+B is given by
+
+xBA(t) = x8 (t) — xA (t)
+=1x,,(0)— x,(0)1+(uB— DA) t. (3.13)
+
+Equation (3.13) is easily interpreted. It tells us
+that as seen from object A, object B has a
+velocity vB— vA because the displacement from
+A to B changes steadily by the amount vB— DA in
+each unit of time. We say that the velocity of
+object B relative to objectA is vB — vA :
+
+— vA (3.14a)
+
+vBA = DB
+
+Similarly, velocity of object A relative to object B
+is:
+v = vA—vB (3.14b)
+
+AB
+
+2019-20

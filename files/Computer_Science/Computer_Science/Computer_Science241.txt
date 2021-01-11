@@ -1,0 +1,34 @@
+3.9 Concluding Remarks 225
+Concluding Remarks
+Computer arithmetic is distinguished from paper-and-pencil arithmetic by the
+constraints of limited precision. This limit may result in invalid operations
+through calculating numbers larger or smaller than the predefined limits. Such
+anomalies, called "overflow" or "underflow," may result in exceptions or inter 
+rupts, emergency events similar to unplanned subroutine calls. Chapter 5 dis 
+cusses exceptions in more detail.
+Floating-point arithmetic has the added challenge of being an approximation
+of real numbers, and care needs to be taken to ensure that the computer number
+selected is the representation closest to the actual number. The challenges of
+imprecision and limited representation are part of the inspiration for the field of
+numerical analysis.
+Over the years, computer arithmetic has become largely standardized, greatly
+enhancing the portability of programs. Two's complement binary integer arith 
+metic and IEEE 754 binary floating-point arithmetic are found in the vast major 
+ity of computers sold today. For example, every desktop computer sold since this
+book was first printed follows these conventions.
+A side effect of the stored-program computer is that bit patterns have no inher 
+ent meaning. The same bit pattern may represent a signed integer, unsigned inte 
+ger, floating-point number, instruction, and so on. It is the instruction that
+operates on the word that determines its meaning.
+With the explanation of computer arithmetic in this chapter comes a descrip 
+tion of much more of the MIPS instruction set. One point of confusion is the
+instructions covered in these chapters versus instructions executed by MIPS chips
+versus the instructions accepted by MIPS assemblers. The next two figures try to
+make this clear.
+Figure 3.24 lists the MIPS instructions covered in this chapter and Chapter 2.
+We call the set of instructions on the left-hand side of the figure the MIPS core.
+The instructions on the right we call the MIPS arithmetic core. On the left of Fig 
+ure 3.25 are the instructions the MIPS processor executes that are not found in
+Figure 3.24. We call the full set of hardware instructions MIPS-J2. On the right of
+Figure 3.25 are the instructions accepted by the assembler that are not part of
+MIPS-32. We call this set of instructions Pseudo MIPS.

@@ -1,0 +1,67 @@
+1 52 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Illustration 4
+
+Show the following items in the balance sheet of Avalon Ltd., as at March 3 1,
+20 1 7 :
+
+—-
+Lakh
+General Reserve (since 3 1 March 2016) 5
+Statement of Proﬁt 8: Loss (Debit Balance) for 2016—17 (8)
+
+Solution:
+
+ 
+
+Books of Avalon Ltd.
+Balance Sheet as at March 31. 2017
+
+No. 20 1 7 (Rs.)
+I. Equity and Liabilities
+1. Shareholders' Funds
+a) Reserve and Surplus 1 (3.00.000)
+
+Notes to Accounts
+
+Particulars
+A111(Rs )
+
+Reserve and Surplus
+i) General reserve (1 April, 2012) 5.00.000
+ii) Less: Statement of proﬁt and loss (8.00.000
+
+(debit balance) (3.00.000)
+
+Illustration 5
+Arushi Ltd. issued 5,000, 10% debentures of Rs. 100 each at par but redeemable
+
+at a premium of 5% after 5 years. Give journal entries and also prepare the
+balance sheet of the company.
+
+ 
+
+ 
+
+Solution:
+Books of Arushi Ltd.
+Journal
+
+-
+
+Bank A/c 5, 00S 000
+
+To 10% Debenture Application 5.00.000
+and Allotment A/c
+
+(Being application money received)
+
+10% Debenture Application Dr. 5.00.000
+
+and Allotment A/c
+Loss on Issue of Debentures A/c Dr. 25,000
+To 10% Debentures A/c
+To Premium on Redemption of 5.00.000
+Debentures A/c 25.000
+(Being debentures issued at par but
+redeemable at premium)

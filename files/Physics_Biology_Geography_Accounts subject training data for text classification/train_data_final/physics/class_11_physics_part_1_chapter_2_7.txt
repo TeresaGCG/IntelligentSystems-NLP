@@ -1,0 +1,112 @@
+U N [TS AND M EASU REM ENT
+
+23
+
+Table 2.5 Range and order of time intervals
+
+Life-span of most unstable particle
+
+Time interval(s)
+
+Time required for light to cross a nuclear distance
+
+Period of x—rays
+Period of atomic vibrations
+Period of light wave
+
+Life time of an excited state of an atom
+
+Period of radio wave
+Period of a sound wave
+Wink of eye
+
+Time between successive human heart beats
+
+Travel time for light from moon to the Earth
+Travel time for light from the Sun to the Earth
+
+Time period of a satellite
+Rotation period of the Earth
+
+Rotation and revolution periods of the moon
+
+Revolution period of the Earth
+
+Travel time for light from nearest star
+
+Average human life-span
+
+Age of Egyptian pyramids
+
+Time since dinosaurs became extinct
+A-e of the universe
+
+-
+
+closer to the true value) but less precision (its
+resolution is only 0.1 cm), while the
+second measurement is less accurate but
+more precise. Thus every measurement is
+approximate due to errors in measurement. In
+general, the errors in measurement can be
+broadly classified as (a) systematic errors and
+(b) random errors.
+
+Systematic errors
+
+The systematic errors are those errors that
+tend to be in one direction, either positive or
+negative. Some of the sources of systematic
+errors are :
+
+(a) Instrumental errors that arise from the
+errors due to imperfect design or calibration
+of the measuring instrument, zero error in
+the instrument, etc. For example, the
+temperature graduations of a thermometer
+may be inadequately calibrated (it may read
+104 °C at the boiling point of water at STP
+whereas it should read 100 °C); in a vernier
+callipers the zero mark of vernier scale may
+not coincide with the zero mark of the main
+scale, or simply an ordinary metre scale may
+be worn off at one end.
+
+(b) Imperfection in experimental technique
+or procedure To determine the temperature
+
+ 
+
+of a human body, a thermometer placed
+under the armpit will always give a
+temperature lower than the actual value of
+the body temperature. Other external
+conditions (such as changes in temperature,
+humidity, wind velocity, etc.) during the
+experiment may systematically affect the
+measurement.
+
+(c) Personal errors that arise due to an
+individual’s bias, lack of proper setting of
+the apparatus or individual’s carelessness
+in taking observations without observing
+proper precautions, etc. For example, if you,
+by habit, always hold your head a bit too far
+to the right while reading the position of a
+needle on the scale, you will introduce an
+error due to parallax.
+
+Systematic errors can be minimised by
+improving experimental techniques, selecting
+better instruments and removing personal bias
+as far as possible. For a given set-up, these
+errors may be estimated to a certain extent and
+the necessary corrections may be applied to the
+readings.
+
+Random errors
+
+The random errors are those errors, which occur
+irregularly and hence are random with respect
+
+2019-20

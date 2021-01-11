@@ -1,0 +1,51 @@
+598 Chapter 8
+Transaction Processing I/O Benchmarks
+transaction processing A type Transaction processing (TP) applications involve both a response time require 
+of application that involves han  ment and a performance measurement based on throughput. Furthermore, most
+dling small short operations
+of the I/O accesses are small. Because of this, TP applications are chiefly con 
+(called transactions) that typi 
+cerned with I/O rate, measured as the number of disk accesses per second, as
+cally require both I/O and com 
+opposed to data rate, measured as bytes of data per second. TP applications gen 
+putation. Transaction
+erally involve changes to a large database, with the system meeting some response
+processing applications typi 
+time requirements as well as gracefully handling certain types of failures. These
+cally have both response time
+requirements and a perfor  applications are extremely critical and cost-sensitive. For example, banks nor 
+mance measurement based on mally use TP systems because they are concerned about a range of characteristics.
+the throughput of transactions.
+These include making sure transactions aren't lost, handling transactions quickly,
+and minimizing the cost of processing each transaction. Although dependability
+ItO rate Performance measure
+of VOs per unit time, such as in the face of failure is an absolute requirement in such systems, both response
+reads per second. time and throughput are critical to building cost-effective systems.
+A number of transaction processing benchmarks have been developed. The
+data rate Performance mea 
+sure of bytes per unit time, such best-known set of benchmarks is a series developed by the Transaction Processing
+as GB/second. Council (TPC).
+TPC-C, initially created in 1992, simulates a complex query environment.
+TPC-H models ad hoc decision support- the queries are unrelated and knowl 
+edge of past queries cannot be used to optimize future queries; the result is that
+query execution times can be very long. TPC-R simulates a business decision sup 
+port system where users run a standard set of queries. In TPC-R, preknowledge of
+the queries is taken for granted, and the DBMS can be optimized to run these que 
+ries. TPC-W is a Web-based transaction benchmark that simulates the activities of
+a business-oriented transactional Web server. It exercises the database system as
+well as the underlying Web server software. The TPC benchmarks are described at
+www.tpc.org.
+All the TPC benchmarks measure performance in transactions per second. In
+addition, they include a response time requirement, so that throughput perfor 
+mance is measured only when the response time limit is met. To model real-world
+systems, higher transaction rates are also associated with larger systems, both in
+terms of users and the size of the database that the transactions are applied to.
+Finally, the system cost for a benchmark system must also be included, allowing
+accurate comparisons of cost-performance.
+File System and Web I/O Benchmarks
+File systems, which are stored on disks, have a different access pattern. For exa m 
+ple, measurements of UNIX file systems in an engineering environment have
+found that 80% of accesses are to files of less than 10 KB and that 90% of all file
+accesses are to data with sequential addresses on the disk. Furthermore, 67% of
+the accesses were reads, 27% were writes, and 6% were read-modify-write
+accesses, which read data, modify it, and then rewrite the same location. Such

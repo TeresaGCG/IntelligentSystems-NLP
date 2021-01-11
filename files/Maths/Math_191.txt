@@ -1,0 +1,26 @@
+Algebra and Geometry
+191
+The second special right triangle has the prop-
+erty that the hypotenuse is twice as long as the
+shorter leg. This second special right triangle
+doesn’t have a formal name, but it is often called
+a 30° – 60° – 90° triangle, again because of its angle
+measurements. A 30° – 60° – 90° triangle is shown
+in Figure 10.11.
+This triangle also has a specific relationship
+between the lengths of the two legs. If we let a
+represent the length of the shorter leg, then the
+30° – 60° – 90°
+hypotenuse has length 2a. This means that c, the Triangle
+hypotenuse, equals 2a. Let b represent the length
+Figure 10.11
+of the longer leg. We can use the Pythagorean
+Theorem to establish the relationship between the length of the longer
+leg and the length of the shorter leg:
+Example 3
+The length of the shorter leg of a 30° – 60° – 90° triangle is 7
+centimeters. Find the length of the hypotenuse and the length of
+the other leg.
+Solution: The length of the hypotenuse is twice the length of the
+shorter leg, so the length of the hypotenuse is 14 centimeters.
+Using the formula we just derived, the length of the longer leg is:

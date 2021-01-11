@@ -1,0 +1,55 @@
+Trial Balance and Rectification of Errors 199
+
+The trial balance when prepared on the basis of above balances will not
+tally. Its credit column total will amount to f 50,000 and debit column total to
+
+f 35,000. The trial balance would differ with ? 15,000. This difference will be
+
+temporarily put to suspense account and trial balance will be made to agree in
+the ledger.
+
+In the above case, difference in trial balance has arisen due to one sided
+error (omission of posting to Diwakar and sons’s account). In a real situation,
+there can be many other such one-sided errors which cause a difference in
+trial balance and thus result in opening of the suspense account. Till the all
+errors affecting agreement of trial balance are not located it is not possible to
+rectify them and tally the trial balance in such a situation, is shown in the
+Suspense account, make the total of debit and credit columns and proceed
+further with the accounting process.
+
+When the errors are located and the specific accounts and amounts involved
+are identified, the amounts are transferred from suspense account to the
+relevant accounts thereby closing the suspense account. Thus, suspense
+account is not placed in any particular category of accounts and is just a
+temporary phenomenon.
+
+While rectifying one-sided errors using suspense account, the following steps
+are taken:
+
+(i) Identify the account affected due to error.
+
+(ii) Ascertain the amount of excess debit / credit or short debit / credit in the
+affected account.
+
+(iii) If the error has resulted in excess debit or short credit in the affected
+account, credit the account with the amount of excess debit or short
+credit.
+
+(iv) If the error has resulted in excess credit or short debit in the affected
+
+account, debit the account with the amount of excess credit or short
+debit.
+
+(v) Complete the journal entry by debiting or crediting the suspense account
+as another account affected otherwise.
+
+We will now discuss the process of rectiﬁcation using suspense account:
+
+(a) Credit sales to Mohan 3 10,000 were not posted to his account. This is an
+error of partial omission comitted while posting entries of the sales book.
+Wrong effect has been:
+
+Mohan’s A/c Dr. Nil
+To Sales A/c 10,000
+
+2019-2020

@@ -1,0 +1,31 @@
+7.3 Measuring and Improving Cache Performance 495
+3.44
+77%
+4.44
+Similarly, increasing clock rate without changing the memory system also
+increases the performance lost due to cache misses, as the next example shows.
+Cache Performance with Increased Clock Rate
+Suppose we increase the performance of the computer in the previous exam   EXAMPLE
+ple by doubling its clock rate. Since the main memory speed is unlikely to
+change, assume that the absolute time to handle a cache miss does not
+change. How much faster will the computer be with the faster clock, assum 
+ing the same miss rate as the previous example?
+Measured in the fa ster clock cycles, the new miss penalty will be twice as ANSWER
+many clock cycles, or 200 clock cycles. Hence:
+Total miss cycles per instruction = (2% X 200) + 36% X (4% X 200) = 6.88
++
+Thus, the faster computer with cache misses will have a CPI of 2 6.88 =
+8.88, compared to a CPI with cache misses of 5.44 for the slower computer.
+Using the formula for CPU time from the previous example, we can compute
+the relative performance as
+Performance with fa st clock Execution time with slow clock
+Performance with slow clock Execution time with fast clock
+IC X CPIslow dock X Clock cycle
+IC CPI Clock 9'cle
+X fast dock X 2
+5.44
+1.23
+~
+8.88 X
+Thus, the computer with the fa ster clock is about 1.2 times faster rather than
+2 times faster, which it would have been if we ignored cache misses.

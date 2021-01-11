@@ -1,0 +1,55 @@
+Electric Charges
+and Fields
+
+ 
+
+[This happens even when the light object is not a conductor. The
+mechanism for how this happens is explained later in Sections 1.10 and
+2.1 0.] The centres of the two types of charges are slightly separated. We
+know that opposite charges attract while similar charges repel. However,
+the magnitude of force depends on the distance between the charges
+and in this case the force of attraction overweighs the force of repulsion.
+As a result the particles like bits of paper or pith balls, being light, are
+pulled towards the rods.
+
+Example 1.1 How can you charge a metal sphere positively Without
+touching it?
+
+Solution Figure 1.5(a) shows an uncharged metallic sphere on an
+insulating metal stand. Bring a negatively charged rod close to the
+metallic sphere, as shown in Fig. 1.5(b). As the rod is brought close
+to the sphere, the free electrons in the sphere move away due to
+repulsion and start piling up at the farther end. The near end becomes
+positively charged due to deﬁcit of electrons. This process of charge
+distribution stops when the net force on the free electrons inside the
+metal is zero. Connect the sphere to the ground by a conducting
+wire. The electrons will ﬂow to the ground while the positive charges
+at the near end will remain held there due to the attractive force of
+the negative charges on the rod, as shown in Fig. 1.5(c). Disconnect
+the sphere from the ground. The positive charge continues to be
+held at the near end [Fig. l.5(d)]. Remove the electrified rod. The
+positive charge will spread uniformly over the sphere as shown in
+
+Fig. 1.5(e).
+
+ 
+
+FIGURE 1 .5
+
+In this experiment, the metal sphere gets charged by the process
+of induction and the rod does not lose any of its charge.
+
+Similar steps are involved in charging a metal sphere negatively
+by induction, by bringing a positively charged rod near it. In this
+case the electrons will ﬂow from the ground to the sphere when the
+sphere is connected to the ground with a wire. Can you explain why?
+
+2019-20
+
+I "[ EI’IJWVXEI
+
+’3.
+
+Lup'usig/souuisa/BgpaLLILu/Luoo' LU OQJSSEpSDgSA'LId 'MMM/ﬂdnq
+
+:uononpui Kq wmsﬁs aiaqu-ozvn 12 611161qu uo uonewiue aAnoeiawI

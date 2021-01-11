@@ -1,0 +1,100 @@
+8.11
+
+8.12
+
+8.13
+
+8.14
+
+8.15
+
+ 
+
+ 
+
+Electromagnetic
+Waves
+
+ 
+
+(a) What is the wavelength of the wave?
+
+(b) What is the amplitude of the oscillating magnetic field?
+
+(c) Show that the average energy density of the E field equals the
+average energy density of the B field. [c = 3 X 108 m s’1.]
+
+ADDITIONAL EXERCISES
+
+Suppose that the electric field part of an electromagnetic wave in
+vacuum is E = {(3.1 N/C) cos [(1.8 rad/m) y + (5.4 X 106 rad/SM}?
+
+(a) What is the direction of propagation?
+
+(b) What is the wavelength xi ?
+
+(c) What is the frequency v ?
+
+(d) What is the amplitude of the magnetic field part of the wave?
+(e) Write an expression for the magnetic field part of the wave.
+
+About 5% of the power of a 100 W light bulb is converted to visible
+radiation. What is the average intensity of visible radiation
+
+(a) at a distance of 1m from the bulb?
+
+(b) at a distance of 10 m?
+
+Assume that the radiation is emitted isotropically and neglect
+reﬂection.
+
+Use the formula lmT = 0.29 ch to obtain the characteristic
+temperature ranges for different parts of the electromagnetic
+spectrum. What do the numbers that you obtain tell you?
+
+Given below are some famous numbers associated with
+
+electromagnetic radiations in different contexts in physics. State
+the part of the electromagnetic spectrum to which each belongs.
+
+(a) 21 cm (wavelength emitted by atomic hydrogen in interstellar
+space).
+
+(b) 1057 MHZ (frequency of radiation arising from two close energy
+levels in hydrogen; known as Lamb shift).
+
+(c) 2.7 K [temperature associated with the isotropic radiation filling
+all space-thought to be a relic of the ‘big-bang’ origin of the
+universe].
+
+(d) 5890 A - 5896 A [double lines of sodium]
+
+(e) 14.4 keV [energy of a particular transition in 57Fe nucleus
+associated with a famous high resolution spectroscopic method
+(Mossbauer spectroscopy)].
+
+Answer the following questions:
+
+(a) Long distance radio broadcasts use short-wave bands. Why?
+
+(b) It is necessary to use satellites for long distance TV transmission.
+Why?
+
+(c) Optical and radiotelescopes are built on the ground but X-ray
+astronomy is possible only from satellites orbiting the earth.
+Why?
+
+(d) The small ozone layer on top of the stratosphere is crucial for
+human survival. Why?
+
+(e) If the earth did not have an atmosphere, would its average
+surface temperature be higher or lower than what it is now?
+
+(f) Some scientists have predicted that a global nuclear war on the
+earth would be followed by a severe ‘nuclear winter’ with a
+devastating effect on life on earth. What might be the basis of
+this prediction?
+
+2019-20
+
+287

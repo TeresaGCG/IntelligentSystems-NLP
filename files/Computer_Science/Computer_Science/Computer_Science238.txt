@@ -1,0 +1,18 @@
+222 Chapter 3 Arithmetic: for Computers
+Pitfall: The MIPS instruction add immediate unsigned add i u sign-extends its 16 
+bit immediatefield.
+Despite its name, add immediate unsigned (addi u) is used to add constants to
+signed integers when we don't care about overflow. MIPS has no subtract immedi 
+ate instruction and negative numbers need sign extension, so the M IPS architects
+decided to sign-extend the immediate field.
+Fallacy: Only theoretical mathematicians care about j1oating-point accuracy.
+Newspaper headlines of November 1994 prove this statement is a fallacy (see Fig 
+ure 3.23). The following is the inside sto ry behind the headlines.
+The Pentium uses a standard floating-point divide algorithm that generates
+multiple quotient bits per step, using the most significa nt bits of divisor and divi 
+dend to guess the next 2 bits of the quotient. The guess is taken from a lookup
+table containing -2, - 1, 0, + 1, or +2. The guess is multiplied by the divisor and
+FIGURE 3.23 A sampling of newspaper and magazine articles from November 1994,
+Including the New Y«k Times. San Jose MfNeury News. San Francisco Chronicle, and
+Infoworld. The Pentium floating-point divide bug even made the ~Top 10 List" of the David Lettenmm
+Late Show on television. Intel eventuailytooka $300 million write-offto replace the buggy chips.

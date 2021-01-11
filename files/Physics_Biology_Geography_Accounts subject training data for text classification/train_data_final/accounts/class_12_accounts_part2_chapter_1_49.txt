@@ -1,0 +1,55 @@
+5 0 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Shares Allotted
+
+(i) Allotment in full (two applicants paid in 38,000
+full on allotment in respect of 4,000 shares each)
+(ii) Allotment of two shares for every 1 ,60,000
+three shares applied for
+(iii) Allotment of one share for every 2,000
+
+four shares applied for
+
+Cash amounting to Rs. 77,500 (being application money received with
+applications on 31,000 shares upon which no allotments were made) was
+returned to applicants on May 6, 2017.
+
+The amounts called from the allottees were received on the due dates with
+the exception of the final call on 100 shares. These shares were forfeited on
+November 15, 2017 and reissued to Aman on November 16 for payment of
+Rs. 9 per share.
+
+Record journal entries other than those relating to cash, in the books of
+0 Limited, and also show how to transaction would appear in the balance sheet
+assuming that the company paid interest due from it on October 3 1, 20 1 7.
+
+Solution:
+
+Books of 0 Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(Rs) (Rs.)
+
+Share Application A/c . 7.92.000
+To Equity Share Capital A/c 5.00.000
+To Bank 77,500
+To Equity Share Allotment A/c 2.09.000
+To Calls in Advance 6.000
+
+(Transfer of Application Money to share
+
+capital after allotment and excess application
+
+money on 86.000 shares due to pro-rata
+
+allotment credited to share allotment and
+
+calls in advance)
+
+April 30 Equity Share Allotment A/c . 9.00.000
+To Equity Share Capital A/c 5.00.000
+To Securities Premium Reserve A/c 4.00.000
+(Allotment amount due on 2.000.000
+shares @ Rs. 4.50 per share including premium)

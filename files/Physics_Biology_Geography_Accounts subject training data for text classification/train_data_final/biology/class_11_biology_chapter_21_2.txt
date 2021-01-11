@@ -1,0 +1,56 @@
+NEURAL CONTROL AND COORDINATION
+
+contain Nissl’s granules and are called dendrites. These
+ﬁbres transmit impulses towards the cell body. The
+axon is a long ﬁbre, the distal end of which is branched.
+Each branch terminates as a bulb-like structure called Nissl’s granules
+synaptic knob which possess synaptic vesicles
+containing chemicals called neurotransmitters. The Cell body
+axons transmit nerve impulses away from the cell body
+to a synapse or to a neuro-muscular junction. Based Nucleus
+on the number of axon and dendrites, the neurons are
+divided into three types, i.e., multipolar (with one axon
+and two or more dendn'tes; found in the cerebral cortex),
+bipolar (with one axon and one dendrite, found in the Schwan cell
+retina of eye) and unipolar (cell body with one axon
+only; found usually in the embryonic stage). There are
+two types of axons, namely, myelinated and non- Axon
+myelinated. ’Ihe myelinated nerve ﬁbres are enveloped
+with Schwann cells, which form a myelin sheath
+
+Dendrites
+
+Myelin
+around the axon. ’Ihe gaps between two adjacent sheath
+myelin sheaths are called nodes of Ranvier. Node of
+Myelinated nerve ﬁbres are found in spinal and cranial Ranvier
+nerves. Unmyelinated nerve ﬁbre is enclosed by a
+Schwann cell that does not form a myelin sheath Axon
+around the axon, and is commonly found in terminal
+autonomous and the somatic neural systems. Synaptic
+
+knob
+21.3. 1 Generation and Conduction of
+
+Nerve Impulse
+
+Neurons are excitable cells because their membranes are in a polarised
+state. Do you know why the membrane of a neuron is polarised? Different
+types of ion channels are present on the neural membrane. These ion
+channels are selectively permeable to different ions. When a neuron is not
+conducting any impulse, i.e., resting, the axonal membrane is
+comparatively more permeable to potassium ions (K+) and nearly
+impermeable to sodium ions (Nat). Similarly, the membrane is
+impermeable to negatively charged proteins present in the axoplasm.
+Consequently, the axoplasm inside the axon contains high concentration
+of K+ and negatively charged proteins and low concentration of Na“. In
+contrast, the ﬂuid outside the axon contains a low concentration of K‘”, a
+high concentration of Na+ and thus form a concentration gradient. These
+ionic gradients across the resting membrane are maintained by the active
+transport of ions by the sodium-potassium pump which transports 3
+Na+ outwards for 2 K+ into the cell. As a result, the outer surface of the
+axonal membrane possesses a positive charge while its inner surface
+
+317
+
+Figure 21.1 Structure of a neuron

@@ -1,0 +1,80 @@
+i Physics
+
+Clearly, the number of ﬁeld lines crossing the
+area element will be smaller. The projection of
+the area element normal to E is AS cos0. Thus,
+the number of field lines crossing AS is
+proportional to E AS cos6. When 0 = 90°, field
+lines will be parallel to AS and will not cross it
+
+—’ E we place a small planar element of area AS
+I normal to E at a point, the number of field lines
+
+_ _. E crossing it is proportional* to E AS. Now
+
+As — w suppose we tilt the area element by angle 6.
+
+ 
+
+E at all (Fig. 1.18).
+The orientation of area element and not
+— merely its magnitude is important in many
+contexts. For example, in a stream, the amount
+_ of water ﬂowing through a ring will naturally
+
+depend on how you hold the ring. If you hold
+it normal to the ﬂow, maximum water will ﬂow
+through it than if you hold it with some other
+orientation. This shows that an area element
+should be treated as a vector. It has a
+magnitude and also a direction. How to specify the direction of a planar
+area? Clearly, the normal to the plane specifies the orientation of the
+plane. Thus the direction of a planar area vector is along its normal.
+
+How to associate a vector to the area of a curved surface? We imagine
+dividing the surface into a large number of very small area elements.
+Each small area element may be treated as planar and a vector associated
+with it, as explained before.
+
+Notice one ambiguity here. The direction of an area element is along
+its normal. But a normal can point in two directions. Which direction do
+we choose as the direction of the vector associated with the area element?
+This problem is resolved by some convention appropriate to the given
+as = A S ,3 context. For the case of a closed surface, this convention is very simple.
+The vector associated with every area element of a closed surface is taken
+to be in the direction of the outward normal. This is the convention used
+in Fig. 1.19. Thus, the area element vector AS at a point on a closed
+
+FIGURE 1.18 Dependence of ﬂux on the
+inclination 6 between E and n .
+
+ 
+
+surface equals AS 11 where AS is the magnitude of the area element and
+
+fl is a unit vector in the direction of outward normal at that point.
+We now come to the definition of electric ﬂux. Electric ﬂux A¢ through
+
+an area element AS is defined by
+A¢=E~AS =EAS cos0 (1.11)
+
+which, as seen before, is proportional to the number of field lines cutting
+the area element. The angle 0 here is the angle between E and AS. For a
+closed surface, with the convention stated already, 9 is the angle between
+FIGURE 1. 19 E and the outward normal to the area element. Notice we could look at
+the expression E AS cos0 in two ways: E (AS cos6) i.e., E times the
+
+ 
+
+Convention for
+
+defining normal —
+v. and AS. * It will not be proper to say that the number of field lines is equal to EAS. The
+
+number of field lines is after all, a matter of how many field lines we choose to
+draw. What is physically significant is the relative number of field lines crossing
+a given area at different points.
+
+26
+
+2019-20

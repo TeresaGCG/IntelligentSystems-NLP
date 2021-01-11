@@ -1,0 +1,66 @@
+Electromagnetic
+Induction
+
+= yonzAlI
+where nl is the total number of turns. Thus, the self-inductance is,
+
+ 
+
+= ,uon2Al (6.1 7)
+
+If we ﬁll the inside of the solenoid with a material of relative permeability
+yr (for example soft iron, which has a high value of relative permeability),
+then,
+
+L = ,u, #0 n2Al (6.18)
+
+The self-inductance of the coil depends on its geometry and on the
+permeability of the medium.
+
+The self-induced emf is also called the back emf as it opposes any
+change in the current in a circuit. Physically, the self-inductance plays
+the role of inertia. It is the electromagnetic analogue of mass in mechanics.
+So, work needs to be done against the back emf (8) in establishing the
+current. This work done is stored as magnetic potential energy. For the
+current I at an instant in a circuit, the rate of work done is
+
+dW
+$441
+
+If we ignore the resistive losses and consider only inductive effect,
+then using Eq. (6.16),
+
+d_W=L [2
+dt dt
+
+Total amount of work done in establishing the current I is
+I
+W = j dW = I L I d1
+0
+
+Thus, the energy required to build up the current I is,
+
+W =%L12 (6.19)
+
+This expression reminds us of mu2 / 2 for the (mechanical) kinetic energy
+of a particle of mass m, and shows that L is analogous to m (i.e., L is
+electrical inertia and opposes growth and decay of current in the circuit).
+Consider the general case of currents ﬂowing simultaneously in two
+nearby coils. The ﬂux linked with one coil will be the sum of two ﬂuxes
+which exist independently. Equation (6.9) would be modified into
+
+N1 ¢1 : M11 11 +M12 12
+
+where M11 represents inductance due to the same coil.
+Therefore, using Faraday’s law,
+
+(111 dI2
+
+——M _
+11 dt 12 dt
+
+€1=—M
+
+2019-20
+
+223

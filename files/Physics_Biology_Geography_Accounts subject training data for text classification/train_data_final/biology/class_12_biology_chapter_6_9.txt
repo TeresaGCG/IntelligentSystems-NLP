@@ -1,0 +1,72 @@
+BIOLOGY
+
+genetic material, but DNA being more stable is preferred for storage of
+genetic information. For the transmission of genetic information, RNA
+
+is better.
+
+6.3 RNA WORLD
+
+From foregoing discussion, an immediate question becomes evident —
+which is the ﬁrst genetic material? It shall be discussed in detail in the
+chapter on chemical evolution, but brieﬂy, we shall highlight some of the
+facts and points.
+
+RNA was the ﬁrst genetic material. There is now enough evidence to
+suggest that essential life processes (such as metabolism, translation,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 6.6 Watson-Crick model for
+
+semiconservative
+replication
+
+DNA
+
+splicing, etc.), evolved around RNA. RNA used to act as
+a genetic material as well as a catalyst (there are some
+important biochemical reactions in living systems that
+are catalysed by RNA catalysts and not by protein
+enzymes). But, RNA being a catalyst was reactive and
+hence unstable. Therefore, DNA has evolved from RNA
+with chemical modiﬁcations that make it more stable.
+DNA being double stranded and having complementary
+strand further resists changes by evolving a process of
+
+repair.
+
+6.4 REPLICATION
+
+While proposing the double helical structure for DNA,
+Watson and Crick had immediately proposed a scheme
+for replication of DNA. To quote their original statement
+that is as follows:
+
+“It has not escaped our notice that the speciﬁc
+pairing we have postulated immediately suggests a
+possible copying mechanism for the genetic material”
+(Watson and Crick, 1953).
+
+The scheme suggested that the two strands would
+separate and act as a template for the synthesis of new
+complementary strands. After the completion of
+replication, each DNA molecule would have one
+parental and one newly synthesised strand. This
+scheme was termed as semiconservative DNA
+replication (Figure 6.6).
+
+6.4. 1 The Experimental Proof
+
+It is now proven that DNA replicates semiconservatively. It was shown ﬁrst in
+Escherichia coli and subsequently in higher organisms, such as plants
+
+2019—2020

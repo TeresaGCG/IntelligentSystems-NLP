@@ -1,0 +1,45 @@
+206 Accountancy
+
+(viii)
+
+Suspense A / c Dr. 40,000
+To Raghav’s A/c 20,000
+To Raghu’s A/c 20,000
+[Credited purchases from Raghu ? 20,000 wrongly debited to Raghav, now
+corrected).
+{ix}
+Sales A/c Dr. 20,000
+Purchases A/c Dr. 20,000
+To Raghu’s A/c 40,000
+[Credit purchases from Raghu wrongly recorded through sales book, now
+corrected).
+Illustration 2
+
+Rectify the following errors :
+Cash sales ? 16,000
+
+(i) were not posted to sales account.
+(ii) were posted as ? 6,000 in sales account.
+(iii) were posted to commission account.
+
+Solution
+(i)
+
+Suspense A/c Dr. 1 6,000
+To Sales A/c 16,000
+
+(Cash sales not posted to sales account now rectified)
+(ii)
+
+Suspense A/c Dr. 10,000
+To Sales A/c 10,000
+
+[Cash sales ? 16,000 were posted to sales account as ? 6,000, now rectified)
+[iii]
+Commission A/c Dr. 1 6,000
+To Sales A/c 16,000
+
+[Cash sales posted to commission account instead of sales account,
+now corrected]
+
+2019-2020

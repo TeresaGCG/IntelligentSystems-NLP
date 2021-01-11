@@ -1,0 +1,28 @@
+Integers
+45
+Next, determine whether your answer should be positive or
+negative. Because the signs of both integers involved in the
+problem are different, the answer should be negative:
+52÷(−4) = −13
+Lesson 2-5 Review
+Find the following quotients:
+1. −36÷ 3 3. 27 ÷(−9)
+2. −90÷(−5) 4. −64÷(−16)
+Lesson 2-6: Integers and the Distributive Property
+The nature of the distributive property doesn’t change with the intro-
+duction of negative integers. It just takes a little practice adjusting to the
+variety of problems that arise with this new twist. Remember the dis-
+tributive property:
+If a, b, and c are numbers,
+then a × (b + c) = a × b + a × c
+To evaluate a × (b + c) you will need to evaluate a × b and a × c
+separately and then add them.
+Example 1
+Evaluate the following:
+a. (−7) × (5+ 3)
+b. (−4) × (6− 2)
+c. (−3) × (−2− 8)
+d. (2) × (3 − 8)
+Solution:
+a. (−7) × (5+ 3)= (−7)(5) + (−7)(3) = −35 + (−21)
+= −56

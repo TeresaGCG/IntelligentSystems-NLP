@@ -1,0 +1,24 @@
+572 Chapter 8
+FIGURE 8.3 Six magnetic disks, varying In diameter from 14 Inches down to 1.8 Inches.
+The IBM microdrive, not shown, has a I-inch diameter. The pictured disks were introduced over more than
+IS years ago and hence are not intended to be representative of the best capacity of modern disks ofthese
+diameters. This photograph does, however, accurately portray their relative physical sizes.The widest disk is
+the DEC R81, containing four 14·jnch diameter planers and storing 456 MB.1t was manufactured in 1985.
+The 8-inch diameter disk comes from Fujitsu, and this 1984 disk stores 130 MB on six platters.The Microp 
+olis RDS3 has five S.lS·inch planers and stores 85 MB. The IBM 0361 also has five platters, bUllhese are just
+3.5 inches in diameter. This 1988 disk holds 320 MB. In 2004, the most dense 3.5·inch disk had 2 platters
+and holds 200 GB in the same space, yielding an increase in density of abom 600 times! The Conner CP
+2045 has two 2.5·inch platters containing 40 MB and was made in 1990. The smallest disk in this photo·
+graph is the Integral 1820. This single 1.8·inch platter contains 20 MB and was made in 1992. Figure 8.11
+on page 585 shows a lO·inch drive that holds 340 ME.
+Thus, you need a reference specification of expected behavior to be able to
+determine dependability. Users ca n then see a system alternating between two
+states of delivered service with respect to the service specification:
+I. Service accomplishment, where the service is delivered as specified
+2. Service interruption, where the delivered service is different from the speci-
+fied service
+Transitions from state 1 to state 2 are caused by failures, and transitions from state
+2 to state 1 are called restorations. Failures can be permanent or intermittent. The
+latter is the more difficult case to diagnose when a system oscillates between the
+two states; permanent failures are much easier to diagnose. This definition leads
+to two related terms: reliability and availability.

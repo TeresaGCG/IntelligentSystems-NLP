@@ -1,0 +1,57 @@
+320 Chapter 5 The Processor: Datapath and Control
+Replacing the three ALUs of the single-cycle datapath by a single ALU means that
+the single ALU must accommodate all the inputs that used to go to the three differ 
+ent ALUs. Handling the additional inputs requires two changes to the datapath:
+I. An additional multiplexor is added for the first ALU input. The multiplexor
+chooses between the A register and the Pc.
+2. The multiplexor on the second ALU input is changed from a two-way to a
+four-way multiplexor. The two additional inputs to the multiplexor are the
+constant 4 (used to increment the PC) and the sign-extended and shifted
+offset field (used in the branch address computation).
+Figure 5.26 shows the details of the datapath with these additional multiplex 
+ors. By introducing a few registers and multiplexors, we are able to reduce the
+number of memory units from two to one and eliminate two adders. Since regis 
+ters and multiplexors are fairly small compared to a memory unit or ALU, this
+could yield a substantial reduction in the hardware cost.
+'0
+PC L.. 'IJ'
+Instruction Read
+M
+," Address [25-21] register 1 _ M ~
+Read
+A L- ~r-
+"- Instruction data 1 f--
+Read
+Memory - 1 Zero
+[20-16]
+register 2
+0
+MemData "-' ) ALU ALU
+Instruction Registers ALUOut
+M
+[15-0] Instruction ," Write R d - ,r;::---... resuR
+. te ea ~ Mt-- V
+Write (15-11) regis r data 2 B
+data Instruction 1 - 4-0
+register ..r Write "
+r- 0 2 ,
+d.~
+M
+Instruction , 3
+"
+[15-0]
+1 \
+1
+I
+Memory 16 32
+Sign Shift
+c..
+data
+extend left 2
+register
+\
+FIGURE 5.26 Multleycle data path for MIPS handles the basic Instructions. Although thIS d.1lapath supports normal incrementing ofthe
+PC, a few more connections and a multiplexor will be needed for branches and jwnps; we will add these shortly. The additions versllS the single-clock
+d.1lapath include several registers (IR, MDR, A, B,ALUOut), a multiplexor for the memory address, a multiplexor for the top AW input, and expanding
+the multiplexor on the bottomALU input into a four-way selector. These small additions allow to remove tm> adders and a memory unit.
+lIS

@@ -1,0 +1,74 @@
+RESPIRATION IN PLANTS
+
+synthesise a larger number of ATP molecules needed for cellular
+metabolism? In eukaryotes these steps take place within the mitochondria
+and this requires 02. Aerobic respiration is the process that leads to a
+complete oxidation of organic substances in the presence of oxygen, and
+releases C02, water and a large amount of energy present in the substrate.
+This type of respiration is most common in higher organisms. We will
+look at these processes in the next section.
+
+14.4 AEROBIC RESPIRATION
+
+For aerobic respiration to take place within the mitochondria, the ﬁnal
+product of glycolysis, pyruvate is transported from the cytoplasm into
+the mitochondria. The crucial events in aerobic respiration are:
+
+‘ The complete oxidation of pyruvate by the stepwise removal of all
+the hydrogen atoms, leaving three molecules of C02.
+
+° The passing on of the electrons removed as part of the hydrogen
+atoms to molecular 02 with simultaneous synthesis of ATP.
+
+What is interesting to note is that the ﬁrst process takes place in the
+matrix of the mitochondria while the second process is located on the
+inner membrane of the mitochondria.
+
+Pyruvate, which is formed by the glycolytic catabolism of carbohydrates
+in the cytosol, after it enters mitochondrial matrix undergoes om'dative
+decarboxylation by a complex set of reactions catalysed by pyruvic
+dehydrogenase. The reactions catalysed by pyruvic dehydrogenase require
+
+ 
+
+231
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v
+
+the participation of several coenzymes, including NAD’“ and Coenzyme A.
+
+Pyruwgaéi‘mwﬂm” ‘
+
+ 
+
+* ' Aegiyl 96A+Q®2+ @319.ng
+
+42-—
+
+ 
+
+During this process, two molecules of NADH are produced from the
+metabolism of two molecules of pyruvic acid (produced from one glucose
+molecule during glycolysis).
+
+The acetyl CoA then enters a cyclic pathway, tricarboxylic acid cycle,
+more commonly called as Krebs’ cycle after the scientist Hans Krebs who
+ﬁrst elucidated it.
+
+14.4. 1 Tricarboxylic Acid Cycle
+
+The TCA cycle starts with the condensation of acetyl group with oxaloacetic
+acid (0AA) and water to yield citric acid (Figure 14.3). The reaction is
+catalysed by the enzyme citrate synthase and a molecule of CoA is released.
+Citrate is then isomerised to isocitrate. It is followed by two successive
+steps of decarboxylation, leading to the formation of oc-ketoglutaric acid

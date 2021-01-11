@@ -1,0 +1,47 @@
+Cash Flow Statement 241
+
+6.5.4 Treatment of Some Peculiar Items
+Extraordinary items
+
+Extraordinary items are not the regular phenomenon, e. g., loss due to theft or
+earthquake or ﬂood. Extraordinary items are non-recurring in nature and hence
+cash ﬂows associated with extraordinary items should be classiﬁed and disclosed
+separately as arising from operating, investing or ﬁnancing activities. This is
+done to enable users to understand their nature and effect on the present and
+future cash ﬂows of an enterprise.
+
+Interest and Dividend
+
+In case of a ﬁnancial enterprise (whose main business is lending and borrowing),
+interest paid, interest received and dividend received are classiﬁed as operating
+activities while dividend paid is a ﬁnancing activity.
+
+In case of a non-ﬁnancial enterprise, as per AS—3, it is considered more
+appropriate that payment of interest and dividends are classified as ﬁnancing
+activities whereas receipt of interest and dividends are classiﬁed as investing
+activities.
+
+Taxes on Income and Gains
+
+Taxes may be income tax (tax on normal proﬁt), capital gains tax (tax on capital
+proﬁts), dividend tax (tax on the amount distributed as dividend to shareholders).
+AS—3 requires that cash ﬂows arising from taxes on income should be separately
+disclosed and should be classiﬁed as cash ﬂows from operating activities unless
+they can be speciﬁcally identified with ﬁnancing and investing activities. This
+clearly implies that:
+0 tax on operating proﬁt should be classiﬁed as operating cash ﬂows.
+0 dividend tax, i.e., tax paid on dividend should be classiﬁed as ﬁnancing
+activity along with dividend paid.
+0 Capital gains tax paid on sale of ﬁxed assets should be classiﬁed under
+investing activities.
+
+Non-cash Transactions
+
+As per AS—3, investing and ﬁnancing transactions that do not require the use of
+cash or cash equivalents should be excluded from a cash ﬂow statement.
+Examples of such transactions are — acquisition of machinery by issue of equity
+shares or redemption of debentures by issue of equity shares. Such transactions
+should be disclosed elsewhere in the ﬁnancial statements in a way that provide
+all the relevant information about these investing and ﬁnancing activities. Hence,
+assets acquired by issue of shares are not disclosed in cash ﬂow statement due
+to non-cash nature of the transaction.

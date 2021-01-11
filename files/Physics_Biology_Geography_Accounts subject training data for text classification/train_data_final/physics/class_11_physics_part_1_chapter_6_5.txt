@@ -1,0 +1,109 @@
+WORK. ENERGY AND POWER 1 19
+
+The work done by the frictional force is
+
+F(x) Wf—> area of the rectangle AGHI
+W} = (—50) x 20
+W k = — 1000 J
+or The area on the negative side of the force axis
+has a negative sign. 4
+6.6 THE WORK-ENERGY THEOREM FOR A
+0 ’9- (b) ’9 x VARIABLE FORCE
+
+Fig. 6.3 (a) The shaded rectangle represents the
+work done by the varying force F(x), over
+the small displacement Ax, AW = FIX) Ax.
+(b) adding the areas of all the rectangles we
+ﬁnd that forAx a 0, the area under the curve
+
+is exactly equal to the work done by F(x).
+
+b Example 6.5 Awoman pushes a trunk on
+a railway platform which has a rough
+Surface. She applies a force of 100 N over a
+distance of 10 m. Thereafter. she gets
+progressively tired and her applied force
+reduces linearly with distance to 50 N. The
+total distance through which the trunk has
+been moved is 20 m. Plot the force applied
+by the woman and the frictional force, which
+is 50 N versus displacement. Calculate the
+work done by the two forces over 20 m.
+
+ 
+
+ 
+
+ 
+
+Fig. 6.4 Plot of the force Fapplied by the woman and
+the opposing frictional force f versus
+displacement.
+
+The plot of the applied force is shown in Fig.
+6.4. At x = 20 m, F = 50 N (i 0). We are given
+that the frictional force f is If I = 50 N. It opposes
+motion and acts in a direction opposite to F. It
+is therefore, shown on the negative side of the
+force axis.
+
+The work done by the woman is
+
+WF—> area of the rectangle ABCD + area of
+the trapezium CEID
+
+1
+WF = 100 x 10 + E(1oo+ 50) x 10
+
+= 1000 + 750
+: 1750J
+
+We are now familiar with the concepts of work
+and kinetic energy to prove the work-energy
+theorem for a variable force. We confine
+ourselves to one dimension. The time rate of
+change of kinetic energy is
+
+dK (1(1 2)
+—=— —mv
+dt dt 2
+
+dv
+=m—v
+dt
+
+2F u (from Newton’s Second Law)
+
+Thus
+
+dK = Fdx
+Integrating from the initial position (xi) to final
+position ( xf), we have
+
+Kf Xf
+j dK = dex
+Ki xi
+
+where, K. and K J, are the initial and final kinetic
+energies corresponding to xi and x f.
+
+"f
+or Kf - K = I Fdx (6.8a)
+From Eq. (6.7), it follows that
+Kf— K: = W (6.8b)
+
+Thus, the WE theorem is proved for a variable
+force.
+
+While the WE theorem is useful in a variety of
+problems, it does not, in general, incorporate the
+complete dynamical information of Newton’s
+second law. It is an integral form of Newton’s
+second law. Newton’s second law is a relation
+between acceleration and force at any instant of
+time. Work-energy theorem involves an integral
+over an interval of time. In this sense, the temporal
+(time) information contained in the statement of
+Newton’s second law is ‘integrated over’ and is
+
+2019-20

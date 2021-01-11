@@ -1,0 +1,100 @@
+G RAVITATI ON 1 99
+—
+
+(b) at depth (1 below the earth’s surface is
+G M d d
+M = Rf (l—R—j = g<0>(1—R—]
+E E E
+
+5. The gravitational force is a conservative force, and therefore a potential energy function
+can be defined. The gravitational potential energy associated with two particles separated
+by a distance r is given by
+
+ 
+
+Gml m2
+r
+
+where Vis taken to be zero at r —> 0°. The total potential energy for a system of particles
+is the sum of energies for all pairs of particles, with each pair represented by a term of
+the form given by above equation. This prescription follows from the principle of
+superposition.
+
+6. If an isolated system consists of a particle of mass m moving with a speed 1) in the
+vicinity of a massive body of mass M the total mechanical energy of the particle is given by
+
+V:—
+
+ 
+
+r
+
+That is, the total mechanical energy is the sum of the kinetic and potential energies.
+The total energy is a constant of motion.
+7. If mmovw in a circular orbit of radius aabout M, where M >> m, the total energy of the system is
+
+GMm
+
+2a
+with the choice of the arbitrary constant in the potential energy given in the point 5..
+above. The total energy is negative for any bound system, that is, one in which the orbit
+is closed, such as an elliptical orbit. The kinetic and potential energies are
+
+E:—
+
+ 
+
+ 
+
+ 
+
+K=GMm
+2a
+V=_GMm
+a
+
+8. The escape speed from the surface of the earth is
+
+2R—GME_
+ve= 2gRE
+
+and has a value of 1 1.2 km s4.
+
+9. If a particle is outside a uniform spherical shell or solid sphere with a spherically symmetric
+internal mass distribution, the sphere attracts the particle as though the mass of the
+sphere or shell were concentrated at the centre of the sphere.
+
+10. Ifa particle is inside a uniform spherical shell, the gravitational force on the particle is zero.
+If a particle is inside a homogeneous solid sphere, the force on the particle acts toward the
+centre of the sphere. This force is exerted by the spherical mass interior to the particle.
+
+1 1. A geostationary (geosynchronous communication) satellite moves in a circular orbit in
+the equatorial plane at a approximate distance of 4.22 x 104 km from the earth’s centre.
+
+-_EE_ Remarks
+
+        
+       
+             
+       
+     
+
+      
+
+Physical Quantity
+
+ 
+
+Gravitational Constant Gym [M'1 L 3T‘Z] N m2 kg2 6. 67x 10‘11
+Gravitational V(r) [M L 2T'Z] J GM m
+Potential Energy — r
+(scalar)
+Gravitational U(r) [LQ’F’Z] J kg‘1 GM
+Potential _ T
+(scalar)
+Gravitational E [LT‘2] m 5'2 GM .
+Intensity or g r—2 r
+
+(vector)
+
+2019-20

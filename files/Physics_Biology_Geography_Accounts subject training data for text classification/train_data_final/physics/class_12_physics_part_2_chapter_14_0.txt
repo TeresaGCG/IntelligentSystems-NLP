@@ -1,0 +1,36 @@
+Chapter Fourteen
+
+SEMICONDUCTOR
+ELECTRONICS:
+MATERIALS, DEVICES
+
+LE CIRCUITS ..
+
+AND SIMP
+*
+
+14. 1 INTRODUCTION
+
+Devices in which a controlled ﬂow of electrons can be obtained are the
+basic building blocks of all the electronic circuits. Before the discovery of
+transistor in 1948, such devices were mostly vacuum tubes (also called
+valves) like the vacuum diode which has two electrodes, viz. anode (often
+called plate) and cathode; triode which has three electrodes — cathode,
+plate and grid; tetrode and pentode (respectively with 4 and 5 electrodes).
+In a vacuum tube, the electrons are supplied by a heated cathode and
+the controlled ﬂow of these electrons in vacuum is obtained by varying
+the voltage between its different electrodes. Vacuum is required in the
+inter-electrode space; otherwise the moving electrons may lose their
+energy on collision with the air molecules in their path. In these devices
+the electrons can ﬂow only from the cathode to the anode (i.e., only in one
+direction). Therefore, such devices are generally referred to as values.
+These vacuum tube devices are bulky, consume high power, operate
+generally at high voltages (~ 100 V) and have limited life and low reliability.
+The seed of the development of modern solid-state semiconductor
+electronics goes back to 1930’s when it was realised that some solid-
+state semiconductors and their junctions offer the possibility of controlling
+the number and the direction of ﬂow of charge carriers through them.
+Simple excitations like light, heat or small applied voltage can change
+the number of mobile charges in a semiconductor. Note that the supply
+
+2019-20

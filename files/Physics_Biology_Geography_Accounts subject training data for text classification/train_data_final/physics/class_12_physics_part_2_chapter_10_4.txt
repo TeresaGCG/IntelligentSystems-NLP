@@ -1,0 +1,101 @@
+10.3 REFRACTION AND REFLECTION OF
+PLANE WAVES USING HUYGENS
+PRINCIPLE
+
+10.3.1 Refraction of a plane wave
+
+We will now use Huygens principle to derive the laws of
+refraction. Let PP' represent the surface separating medium
+1 and medium 2, as shown in Fig. 10.4. Let v1 and 02
+represent the speed of light in medium 1 and medium 2,
+respectively. We assume a plane wavefront AB propagating
+in the direction A’A incident on the interface at an angle i
+as shown in the ﬁgure. Let r be the time taken by the
+wavefront to travel the distance BC. Thus,
+
+BC=vlr
+
+     
+  
+
+Incident wavefront
+
+ 
+
+P I C P”
+Medium 2 \I\
+~ - - _ , Refracted
+v2 < v1 E wavefront
+
+FIGURE 10.4 A plane wave AB is incident at an angle 1'
+on the surface PP’ separating medium 1 and medium 2.
+The plane wave undergoes refraction and CE represents
+the refracted wavefront. The figure corresponds to v2 < vl
+so that the refracted waves bends towards the normal.
+
+Wave Optics
+
+ 
+
+Christiaan Huygens
+[1629 - 1.69.5.1 Dutch
+physicist, astronomer,
+mathematiCiari .and the
+founder of the wave
+theory of‘rlight. His book,
+
+. Treatise; on light, makes
+
+”fascinating reading even
+
+“toay. He brilliantly
+
+eiplained the double
+refraction shown by the
+mineral calcite in this
+work in addition to
+reﬂection and refraction.
+He was the first to
+analyse circular and
+simple harmonic motion
+and designed and built
+improved clocks and
+telescopes. He discovered
+the true geometry of
+Saturn’s rings.
+
+In order to determine the shape of the refracted wavefront, we draw a
+
+O
+E
+3
+g
+E
+C)
+Pl
+2
+U)
+5
+to
+CO
+|
+5
+w
+9
+
+ 
+
+sphere of radius 021: from the point A in the second medium (the speed of
+the wave in the second medium is 02). Let CE represent a tangent plane
+drawn from the point C on to the sphere. Then, AE = 02 r and CE would
+represent the refracted wavefront. If we now consider the triangles ABC
+and AEC, we readily obtain
+
+. . BC 011'
+Slnl=A—C=A—C (10.1)
+and
+. _‘AE _ v27
+sm r— A_C_A—C (10.2)
+where iand r are the angles of incidence and refraction, respectively. 355
+
+2019-20

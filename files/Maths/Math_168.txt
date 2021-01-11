@@ -1,0 +1,33 @@
+Homework Helpers: Basic Math and Pre-Algebra
+168
+The graph of ƒ(x) = 2x+ 3 is a line that is not horizontal (as the x-axis
+is) and is not vertical (as the y-axis is). It is worth measuring the slant, or
+slope, of lines that are not vertical or horizontal. The slope of a line is
+defined as the ratio of the “rise” of a graph divided by the “run” of the
+graph, or the “rise over the run” of the graph. The rise of the graph is a
+measurement of the change in the dependent variable (the variable y or
+ƒ(x)), and the run of the graph is a measurement of the change in the
+independent variable (the variable x):
+change in y ∆y
+Slope = =
+change in x ∆x
+You are already comfortable using the symbol ∆ to represent change,
+which you remember from Chapter 7. The change in a variable is just the
+final value of the variable minus the initial value of the variable. You
+usually calculate the slope of a line between two points. If you have two
+points, say (a, b) and (c, d), then the change in the dependent variable
+would be found by taking the difference between the y-coordinates of the
+two points: ∆y = d − b. The change in the independent variable would be
+found by taking the difference between the x-coordinates of the two points:
+∆x=c−a. Then the slope of the line would be found by using the previous
+equation:
+You may be wondering how I knew that the point (c, d) was the final
+point and (a, b) was the initial point. In reality, it doesn’t matter. If I had
+switched them so that (a, b) was the final point and (c, d) was the initial
+point, I would have calculated the slope to be
+So it is not important which point is considered to be the final point
+and which point is considered to be the initial point. What is important is
+that the change in y goes in the numerator of the fraction and the change
+in x goes in the denominator of the fraction. The other thing that is
+important is that you are consistent in which point you use as the final
+www.ebook3000.com

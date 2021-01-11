@@ -1,0 +1,44 @@
+Glossary G-5
+die The individual rectangular sections don't-care term An element of a logical
+that are cut from a wafer, more informally function in which the output does not de 
+known as chips. pend on the values of all the inputs. Don't 
+DIMM (dual inline memory module) A care terms maybe specified in different ways.
+small board that contains DRAM chips on double precision A floating-point value
+both sides. SIMMs have DRAMs on only represented in two 32-bit words.
+one side. Both DlMMs and SIMMs are dynamic branch prediction Prediction of
+meant to be plugged into memory slots, branches at runtime using runtime infor 
+usually on a motherboard. mation.
+direct memoryaccess (DMA) A mechanism dynamic multiple issue An approach to
+that provides a device controller the abilityto implementing a multiple-issue processor
+transfer data directly to or from the memory where many decisions are made during exe 
+without involving the processor. cution by the processor.
+direct-mapped cache A cache structure in dynamic pipeline scheduling Hardware
+which each memory location is mapped to support for reordering the order of instruc 
+exactly one location in the cache. tion execution so as to avoid stalls.
+directory A repository for information on dynamic random access memory
+the state of every block in main memory, in  (DRAM) Memory built as an integrated
+cluding which caches have copies of the circuit, it provides random access to any
+block, whether it is dirty, and so on. Used location.
+for cache coherence. edge-triggered d ocking A clocking
+dispatch An operation in a micropro  scheme in which all state changes occur on
+grammed control unit in which the next mi  a clock edge.
+croinstruction isselected on thebasisofoneor embedded computer A computer inside
+more fields of a macroinstruction, usually by another device used for running one pre 
+creatingatablecontainingtheaddresses ofthe determined application or collection of
+target microinstmctions and indexing the ta  software.
+ble using a field of the macroinstmction. The error-detecting code A code that enables
+dispatch tables are typically implemented in the detection ofan error in data, but not the
+ROM or programmable logic array (PLA). precise location,and hence correction of the
+The term dispatch is also used in dynamically error.
+scheduled processors to refer to the process of Ethernet A computer network whose
+sending an instruction to a queue. length is limited to about a kilometer. Orig 
+distributed memory Physical memory that inally capable of transferring up to 10 mil 
+is divided into modules, with some placed lion bits per second, nelver versions can run
+near each processor in a multiprocessor. up to 100 million bits per second and even
+distributed shared memory (DSM) A 1000 million bits per second. It treats the
+memory scheme that uses addresses to access wire like a bus with multiple masters and
+remote data when demanded rather than re  uses collision detection and a back-off
+trieving the data in case it might be used. scheme for handling simultaneous accesses.
+dividend A number being divided. exception Also called interrupt. An un 
+divisor A number that the dividend is di  scheduled event that disrupts program exe 
+vided by. cution; used to detect overflow.

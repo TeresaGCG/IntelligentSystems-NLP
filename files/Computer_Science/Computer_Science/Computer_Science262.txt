@@ -1,0 +1,35 @@
+246 Chapter 4 Assessing and Understanding Performance
+Check
+1. Suppose we know that an application that uses both a desktop client and a
+Yourself remote server is limited by network performance. For the following
+changes state whether only the throughput improves, both response time
+and throughput improve, or neither improves.
+An extra network channel is added between the client and the server,
+3.
+increasing the total network throughput and reducing the delay to
+obtain network access (since there are now two channels),
+b. The networking software is improved, thereby reducing the network
+communication delay, but not increasing throughput.
+c. More memory is added to the computer.
+2. Computer Cs performance is 4 times better than the performance of com  
+puter B, which runs a given application in 28 seconds. How long will com  
+puter C take to run that application?
+CPU Performance and Its Factors
+Users and designers often examine performance using different metrics. If we
+could relate these different metrics, we could determine the effect of a design
+change on the performance as seen by the user. Since we are confining ourselves to
+CPU performance at this point, the bottom-line performance measure is CPU
+execution time. A simple formula relates the most basic metrics (clock cycles and
+clock cycle time) to CPU time:
+CPU execution time
+CPU clock cycles X Clock cycle time
+for a program for a program
+Alternatively, because clock rate and clock cycle time are inverses,
+_ CPU clock cycles for a program
+CPU execution time
+Clock rate
+for a program
+This formula makes it clear that the hardware designer can improve performance
+by reducing either the length of the clock cycle or the number of clock cycles
+required for a program. As we will see in this chapter and later in Chapters 5,6,
+and 7, the designer often faces a trade-off between the number of clock cycles

@@ -1,0 +1,66 @@
+Electromagnetic
+Induction
+
+(iii) Induction furnace: Induction furnace can be used to produce high
+
+temperatures and can be utilised to prepare alloys, by melting the
+constituent metals. A high frequency alternating current is passed
+through a coil which surrounds the metals to be melted. The eddy
+currents generated in the metals produce high temperatures sufficient
+to melt it.
+
+(iv) Electric power meters: The shiny metal disc in the electric power meter
+
+(analogue type) rotates due to the eddy currents. Electric currents
+are induced in the disc by magnetic ﬁelds produced by sinusoidally
+varying currents in a coil.
+
+You can observe the rotating shiny disc in the power meter of your
+
+house.
+ELECTROMAGNETIC DAMPING
+
+Take two hollow thin cylindrical pipes of equal internal diameters made of aluminium and
+PVC, respectively. Fix them vertically with clamps on retort stands. Take a small cylinderical
+magnet having diameter slightly smaller than the inner diameter of the pipes and drop it
+through each pipe in such a way that the magnet does not touch the sides of the pipes
+during its fall. You will observe that the magnet dropped through the PVC pipe takes the
+same time to come out of the pipe as it would take when dropped through the same height
+without the pipe. Note the time it takes to come out of the pipe in each case. You will see that
+the magnet takes much longer time in the case of aluminium pipe. Why is it so? It is due to
+the eddy currents that are generated in the aluminium pipe which oppose the change in
+magnetic ﬂux, i.e., the motion of the magnet. The retarding force due to the eddy currents
+inhibits the motion of the magnet. Such phenomena are referred to as electromagnetic damping.
+Note that eddy currents are not generated in PVC pipe as its material is an insulator whereas
+
+aluminium is a conductor.
+
+6.9 INDUCTANCE
+
+An electric current can be induced in a coil by ﬂux change produced by
+another coil in its vicinity or ﬂux change produced by the same coil. These
+two situations are described separately in the next two sub-sections.
+However, in both the cases, the ﬂux through a coil is proportional to the
+current. That is, (DB 0c 1.
+
+Further, if the geometry of the coil does not vary with time then,
+
+dqu 0: d1
+
+dt dt
+For a closely wound coil of N turns, the same magnetic ﬂux is linked
+with all the turns. When the ﬂux (PB through the coil changes, each turn
+
+contributes to the induced emf. Therefore, a term called ﬂux linkage is
+used which is equal to N¢>B for a closely wound coil and in such a case
+
+NCDBoc I
+
+The constant of proportionality, in this relation, is called inductance.
+We shall see that inductance depends only on the geometry of the coil
+
+ 
+
+2019-20
+
+219

@@ -1,0 +1,83 @@
+Electromagnetic
+Induction
+
+   
+
+or current in a loop is through a change in the
+loops orientation or a change in its effective area.
+As the coil rotates in a magnetic field B, the
+effective area of the loop (the face perpendicular
+to the field) is A cos 0, where 9 is the angle
+between A and B. This method of producing a
+ﬂux change is the principle of operation of a
+simple ac generator. An ac generator converts
+mechanical energy into electrical energy.
+
+The basic elements of an ac generator are
+shown in Fig. 6. 16. It consists of a coil mounted
+on a rotor shaft. The axis of rotation of the coil Slip
+is perpendicular to the direction of the magnetic rings<
+field. The coil (called armature) is mechanically
+rotated in the uniform magnetic field by some
+external means. The rotation of the coil causes
+the magnetic ﬂux through it to change, so an
+emf is induced in the coil. The ends of the coil
+are connected to an external circuit by means
+of slip rings and brushes.
+
+When the coil is rotated with a constant
+angular speed a), the angle 0 between the magnetic field vector B and the
+area vectorA of the coil at any instant tis 9 = wt (assuming 0 = 0° at t= 0).
+As a result, the effective area of the coil exposed to the magnetic ﬁeld lines
+changes with time, and from Eq. (6.1), the ﬂux at any time tis
+
+(PB = BA cos 0 = BA cos wt
+
+From Faraday’s law, the induced emf for the rotating coil of N turns is
+then,
+
+Coil
+
+Alternating emf
+
+Carbon
+brushes
+
+FIGURE 6.16 AC Generator
+
+d 953
+dt
+
+Thus, the instantaneous value of the emf is
+
+8=NBAwsinaJt (6.21)
+
+where NBAa) is the maximum value of the emf, which occurs when
+sin wtzil. If we denote NBAa) as 80, then
+
+8 = 80 sin (at (6.22)
+
+Since the value of the sine fuction varies between + 1 and —1, the sign, or
+polarity of the emf changes with time. Note from Fig. 6.17 that the emf
+has its extremum value when 0 = 90° or 0 = 270°, as the change of ﬂux is
+greatest at these points.
+
+The direction of the current changes periodically and therefore the current
+is called alternating current (ac). Since a)= 27W, Eq (6.22) can be written as
+
+8 = 80sin 27c vt (6.23)
+
+where v is the frequency of revolution of the generator’s coil.
+Note that Eq. (6.22) and (6.23) give the instantaneous value of the emf
+and 8 varies between +80 and —80 periodically. We shall learn how to
+determine the time-averaged value for the alternating voltage and current
+in the next chapter. 225
+
+8=—N
+
+ 
+
+= — NBAi(cos wt)
+dt
+
+2019-20

@@ -1,0 +1,73 @@
+Dual Nature of Radiation
+and Muller
+
+ 
+
+(b) Obtain the de Broglie wavelength associated with thermal
+neutrons at room temperature (27 °C). Hence explain why a fast
+neutron beam needs to be thermalised with the environment
+before it can be used for neutron diffraction experiments.
+
+11.33 An electron microscope uses electrons accelerated by a voltage of
+50 kV. Determine the de Broglie wavelength associated with the
+electrons. If other factors (such as numerical aperture, etc.) are
+taken to be roughly the same, how does the resolving power of an
+electron microscope compare with that of an optical microscope
+which uses yellow light?
+
+11.34 The wavelength of a probe is roughly a measure of the size of a
+structure that it can probe in some detail. The quark structure
+of protons and neutrons appears at the minute length-scale of
+10115 m or less. This structure was first probed in early 1970’s using
+high energy electron beams produced by a linear accelerator at
+Stanford, USA. Guess what might have been the order of energy of
+these electron beams. (Rest mass energy of electron = 0.511 MeV.)
+
+11.35 Find the typical de Broglie wavelength associated with a He atom in
+helium gas at room temperature (27 °C) and 1 atm pressure; and
+compare it with the mean separation between two atoms under these
+conditions.
+
+11.36 Compute the typical de Broglie wavelength of an electron in a metal
+at 27 °C and compare it with the mean separation between two
+electrons in a metal which is given to be about 2 X 10‘10 m.
+
+[Note: Exercises 1 1.35 and 1 1.36 reveal that while the wave-packets
+associated with gaseous molecules under ordinary conditions are
+non-overlapping, the electron wave-packets in a metal strongly
+overlap with one another. This suggests that whereas molecules in
+an ordinary gas can be distinguished apart, electrons in a metal
+cannot be distintguished apart from one another. This
+indistinguishibility has many fundamental implications which you
+will explore in more advanced Physics courses.]
+
+11.37 Answer the following questions:
+
+(a) Quarks inside protons and neutrons are thought to carry
+fractional charges [(+2/3)e ; (—1/3)e]. Why do they not show up
+in Millikan’s oil-drop experiment?
+
+(b) What is so special about the combination 6/ m? Why do we not
+simply talk of e and m separately?
+
+(c) Why should gases be insulators at ordinary pressures and start
+conducting at very low pressures?
+
+(d) Every metal has a definite work function. Why do all
+photoelectrons not come out with the same energy if incident
+radiation is monochromatic? Why is there an energy distribution
+of photoelectrons?
+
+(e) The energy and momentum of an electron are related to the
+frequency and wavelength of the associated matter wave by the
+relations:
+
+h
+
+E=hv,p= 1
+
+But while the value of l is physically significant, the value of v
+(and therefore, the value of the phase speed VA) has no physical
+significance. Why? 41 1
+
+2019-20

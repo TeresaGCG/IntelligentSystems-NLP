@@ -1,0 +1,69 @@
+l Physics
+
+ 
+
+deviation, but it does suffer lateral displacement/
+
+Obsewer shift with respect to the incident ray. Another familiar
+
+Q observation is that the bottom of a tank ﬁlled with
+
+water appears to be raised (Fig. 9.10). For viewing
+
+'\ 3 l/ near the normal direction, it can be shown that the
+
+\ i ,' Observer apparent depth (hl) is real depth (h2) divided by
+- the refractive index of the medium (water).
+
+The refraction of light through the atmosphere
+is responsible for many interesting phenomena. For
+example, the Sun is visible a little before the actual
+sunrise and until a little after the actual sunset
+due to refraction of light through the atmosphere
+(Fig. 9.1 1). By actual sunrise we mean the actual
+crossing of the horizon by the sun. Figure 9.1 1
+shows the actual and apparent positions of the Sun
+with respect to the horizon. The ﬁgure is highly
+exaggerated to show the effect. The refractive index
+of air with respect to vacuum is 1.00029. Due to
+this, the apparent shift in the direction of the Sun
+
+Real depth
+
+ 
+
+ 
+
+W (b) is by about half a degree and the corresponding
+FIGURE 9_ 10 Apparent depth for time difference between actual sunset and apparent
+(a) normal. and (b) oblique Viewing. sunset is about 2 minutes (see Example 9.5). The
+
+apparent ﬂattening (oval shape) of the Sun at sunset
+and sunrise is also due to the same phenomenon.
+
+Apparent position
+of the Sun
+
+Observer E \u ./
+
+Actual position
+of the Sun
+
+Atmosphere
+FIGURE 9.11 Advance sunrise and delayed sunset due to
+atmospheric refraction.
+
+Example 9.5 The earth takes 24 h to rotate once about its axis. How
+much time does the sun take to shift by 1° when viewed from
+the earth?
+
+Solution
+Time taken for 360° shift = 24 h
+
+Time taken for 1° shift = 24/360 h = 4 min.
+
+EXAMPLE 9.5
+
+318
+
+2019-20

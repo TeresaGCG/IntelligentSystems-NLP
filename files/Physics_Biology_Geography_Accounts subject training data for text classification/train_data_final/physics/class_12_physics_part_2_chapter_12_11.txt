@@ -1,0 +1,87 @@
+Dual Nature of Radiation
+
+and Matter
+
+ 
+
+or, x) = hc/(eVO + $0)
+
+_ (6.63 X 10‘34Js) ><(3 >< lOsm/s)
+(O.606V+2. l4eV)
+
+19.89 x10“26Jm
+(2.74eV)
+
+—26
+it: 19.89X10 {11:1 =454nm
+2.74xl.6><10 J
+
+Example 11.3 The wavelength of light in the visible region is about
+390 nm for violet colour, about 550 nm (average wavelength) for yellow-
+green colour and about 760 nm for red colour.
+
+(a)
+
+(b)
+
+What are the energies of photons in (eV) at the (i) violet end, (ii)
+average wavelength, yellow-green colour, and (iii) red end of the
+visible spectrum? (Take h = 6.63X10‘34 J s and 1 eV = 1.6X10 ’IQJ.)
+From which of the photosensitive materials with work functions
+listed in Table 11.1 and using the results of (i), (ii) and (iii) of (a),
+can you build a photoelectric device that operates with visible
+light?
+
+Solution
+
+(a)
+
+(b)
+
+Energy of the incident photon, E = hv = hc/xl
+E = (6.63X10‘34J s) (3x108 m/s)//l
+
+_ 1.989 x 10-25 Jm
+
+xi
+(i) For violet light, ’11 = 390 nm (lower wavelength end)
+
+1.989 x 10‘25 Jm
+
+390x 10‘9 m
+= 5.10 x 10ng
+_ 5.10x10'19J
+' 1.6X10'19 J/eV
+= 3.19 eV
+(ii) For yellow-green light, 12 = 550 nm (average wavelength)
+1.989 x 10‘25 Jm
+550x10‘9 m
+
+= 3.62X10‘19 J = 2.26 eV
+(iii) For red light, ’13 = 760 nm (higher wavelength end)
+
+1.989 x 10‘25 Jm
+
+760><10'9 m
+= 2.62X10‘19 J = 1.64 eV
+
+For a photoelectric device to operate, we require incident light energy
+E to be equal to or greater than the work function $0 of the material.
+Thus, the photoelectric device will operate with violet light (with
+E = 3.19 eV) photosensitive material Na (with $0 = 2.75 eV), K (with
+$0 = 2.30 eV) and Cs (with $0 = 2.14 eV). It will also operate with
+yellow-green light (with E = 2.26 eV) for Cs (with (1)0 = 2.14 eV) only.
+However, it will not operate with red light (with E = 1.64 eV) for any
+of these photosensitive materials.
+
+Incident photon energy, E1 =
+
+Incident photon energy, E2 =
+
+Incident photon energy, E3 =
+
+2019-20
+
+Q'II GI’IJIWVXE
+
+397

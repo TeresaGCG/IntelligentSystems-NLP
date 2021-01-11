@@ -1,0 +1,94 @@
+92
+
+PHYSICS
+
+Galileo Galilei (1564 - 1642)
+
+Galileo Galilei. born in Pisa, Italy in 1564 was a key figure in the scientiﬁc revolution
+in Europe about four centuries ago. Galileo proposed the concept of acceleration.
+From experiments on motion of bodies on inclined planes or falling freely. he
+contradicted the Aristotelian notion that a force was required to keep a body in
+motion. and that heavier bodies fall faster than lighter bodies under gravity. He
+thus arrived at the law of inertia that was the starting point of the subsequent
+
+epochal work of Isaac Newton.
+
+Galileo's discoveries in astronomy were equally revolutionary. In 1609. he designed
+his own telescope (invented earlier in Holland) and used it to make a number of
+
+startling observations : mountains and depressions on the surface of the moon:
+dark spots on the sun: the moons of J upiter and the phases of Venus. He concluded
+that the Milky Way derived its luminosity because of a large number of stars not visible to the naked eye.
+In his masterpiece of scientiﬁc reasoning : Dialogue on the Two Chief World Systems, Galileo advocated
+the heliocentric theory of the solar system proposed by Copernicus. which eventually got universal
+
+acceptance.
+
+With Galileo came a turning point in the very method of scientiﬁc inquiry. Science was no longer
+merely observations of nature and inferences from them. Science meant devising and doing experiments
+to verify or refute theories. Science meant measurement of quantities and a search for mathematical
+
+relations between them. Not undeservedly. many regard Galileo as the father of modern science.
+
+More often, however, we do not know all the
+forces to begin with. In that case, if we know
+that an object is unaccelerated (i.e. it is either
+at rest or in uniform linear motion), we can infer
+from the ﬁrst law that the net external force on
+the object must be zero. Gravity is everywhere.
+For terrestrial phenomena, in particular, every
+object experiences gravitational force due to the
+earth. Also objects in motion generally experience
+friction, viscous drag, etc. If then, on earth, an
+object is at rest or in uniform linear motion, it is
+not because there are no forces acting on it, but
+because the various external forces cancel out
+i.e. add up to zero net external force.
+
+Consider a book at rest on a horizontal surface
+Fig. (5.2(a)). It is subject to two external forces :
+the force due to gravity (i.e. its weight W) acting
+downward and the upward force on the book by
+the table, the normal force R . Ris a self-adjusting
+force. This is an example of the kind of situation
+mentioned above. The forces are not quite known
+fully but the state of motion is known. We observe
+the book to be at rest. Therefore, we conclude
+from the first law that the magnitude of R equals
+that of W. A statement often encountered is :
+“Since W= R, forces cancel and, therefore, the book
+is at rest”. This is incorrect reasoning. The correct
+statement is : “Since the book is observed to be at
+rest, the net external force on it must be zero,
+according to the ﬁrst law. This implies that the
+
+2019-20
+
+ 
+
+normal force R must be equal and opposite to the
+weight W
+
+ 
+
+(a) (b)
+
+Fig. 5.2 (a) a book at rest on the table, and (b) a car
+moving with uniform velocity. The net force
+is zero in each case.
+
+Consider the motion of a car starting from
+rest, picking up speed and then moving on a
+smooth straight road with uniform speed (Fig.
+(5.2(b)). When the car is stationary, there is no
+net force acting on it. During pick-up, it
+accelerates. This must happen due to a net
+external force. Note, it has to be an external force.
+The acceleration of the car cannot be accounted
+for by any internal force. This might sound
+surprising, but it is true. The only conceivable
+external force along the road is the force of
+friction. It is the frictional force that accelerates
+the car as a whole. (You will learn about friction
+in section 5.9). When the car moves with
+constant velocity, there is no net external force.

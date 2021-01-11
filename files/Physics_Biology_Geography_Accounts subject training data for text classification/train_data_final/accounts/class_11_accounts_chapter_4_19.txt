@@ -1,0 +1,55 @@
+1 1 8 Accountancy
+
+Paid telephone bill by cheque
+Sale of goods and received cheque
+(deposited same day)
+
+Paid rent
+
+Drew cash for personal use
+Paid salary
+
+Interest collected by bank
+
+ 
+
+Solution
+Books of Laser Zone
+Cash Book
+Dr. Cr.
+7 7 7 ?
+
+   
+   
+
+Balance b / d Balance b / d
+
+Sales Wages
+
+Sales Purchase
+
+Cash Furniture
+
+Sales Rohit
+
+Interest Bank
+Overdraft
+interest
+Telephone
+Rent 800
+Drawings 500
+Salary 1 , 000
+Balance c / d 1 , 600
+
+15,500 11,700 15,500 11,700
+Balance b/d 1,600 5,700 --
+
+Wages Account
+
+Dr. Cr.
+Date Particulars J . F. Amount Date Particulars J . F. Amount
+7 ?
+20 1 7
+J an.04 Cash 400
+
+2019-2020

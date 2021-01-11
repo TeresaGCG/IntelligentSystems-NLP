@@ -1,0 +1,130 @@
+I28
+
+PIIYSICS
+
+ 
+
+We point out a common misconception created
+by newspapers and magazines. They mention
+food values in calories and urge us to restrict
+diet intake to below 2400 calories. What they
+should be saying is kilocalories (kcal) and not
+calories. A person consuming 2400 calories a
+day will soon starve to death! 1 food calorie is
+1 kcal. 4
+
+6.10.6 The Principle of Conservation of
+Energy
+
+We have seen that the total mechanical energy
+of the system is conserved if the forces doing work
+on it are conservative. If some of the forces
+involved are non-conservative, part of the
+mechanical energy may get transformed into
+other forms such as heat, light and sound.
+However, the total energy of an isolated system
+does not change, as long as one accounts for all
+forms of energy. Energy may be transformed from
+one form to another but the total energy of an
+isolated system remains constant. Energy can
+neither be created, nor destroyed.
+
+Since the universe as a whole may be viewed
+as an isolated system, the total energy of the
+universe is constant. If one part of the universe
+loses energy, another part must gain an equal
+amount of energy.
+
+The principle of conservation of energy cannot
+be proved. However, no violation of this principle
+has been observed. The concept of conservation
+and transformation of energy into various forms
+links together various branches of physics,
+chemistry and life sciences. It provides a
+unifying, enduring element in our scientific
+pursuits. From engineering point of view all
+electronic, communication and mechanical
+devices rely on some forms of energy
+transformation.
+
+6. 1 1 POWER
+
+Often it is interesting to know not only the work
+done on an object, but also the rate at which
+this work is done. We say a person is physically
+fit if he not only climbs four ﬂoors of a building
+but climbs them fast. Power is defined as the
+time rate at which work is done or energy is
+transferred.
+
+The average power of a force is defined as the
+ratio of the work, W, to the total time ttaken
+
+2019-20
+
+W
+t
+
+The instantaneous power is defined as the
+limiting value of the average power as time
+interval approaches zero,
+
+p:d_W
+dt
+
+The work dW done by a force F for a displacement
+dr is dW = F.dr. The instantaneous power can
+also be expressed as
+
+P=F.£
+dt
+
+= F.v (6.22)
+
+where v is the instantaneous velocity when the
+force is F.
+
+Power, like work and energy, is a scalar
+quantity. Its dimensions are [MLQT’3]. In the SI,
+its unit is called a watt (W). The watt is l J s4.
+The unit of power is named after James Watt,
+one of the innovators of the steam engine in the
+eighteenth century.
+
+There is another unit of power, namely the
+horse-power (hp)
+
+1 hp = 746 W
+This unit is still used to describe the output of
+automobiles, motorbikes, etc.
+
+We encounter the unit watt when we buy
+electrical goods such as bulbs, heaters and
+refrigerators. A 100 watt bulb which is on for l 0
+hours uses 1 kilowatt hour (kWh) of energy.
+
+100 (watt) x 10 (hour)
+= 1000 watt hour
+= l kilowatt hour (kWh)
+= 103 (W) x 3600 (s)
+= 3.6 x 106 J
+
+Our electricity bills carry the energy
+consumption in units of kWh. Note that kWh is
+a unit of energy and not of power.
+
+p:
+
+an
+
+(6.21)
+
+V Example 6.11 An elevator can carry a
+maximum load of 1800 kg (elevator +
+passengers) is moving up with a constant
+speed of 2 m s“. The frictional force opposing
+
+the motion is 4000 N. Determine the
+minimum power delivered by the motor to
+the elevator in watts as well as in horse
+power.

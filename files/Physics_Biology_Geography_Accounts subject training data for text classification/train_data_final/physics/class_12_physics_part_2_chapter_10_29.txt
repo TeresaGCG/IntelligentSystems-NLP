@@ -1,0 +1,58 @@
+l Physics
+
+ 
+
+A SPECIAL CASE OF TOTAL TRANSMISSION
+
+When light is incident on an interface of two media, it is observed that some part of it
+gets reﬂected and some part gets transmitted. Consider a related question: Is it possible
+that under some conditions a monochromatic beam of light incident on a surface
+(which is normally reﬂective) gets completely transmitted with no reﬂection? To your
+surprise, the answer is yes.
+
+ 
+
+Screen
+
+Let us try a simple experiment and check what happens. Arrange a laser, a good
+polariser, a prism and screen as shown in the ﬁgure here.
+
+Let the light emitted by the laser source pass through the polariser and be incident
+on the surface of the prism at the Brewster’s angle of incidence iB. Now rotate the
+polariser carefully and you will observe that for a speciﬁc alignment of the polariser, the
+light incident on the prism is completely transmitted and no light is reﬂected from the
+surface of the prism. The reﬂected spot will completely vanish. ‘
+
+10.7.2 Polarisation by reﬂection
+
+Figure 10.23(b) shows light reﬂected from a transparent medium, say,
+water. As before, the dots and arrows indicate that both polarisations are
+present in the incident and refracted waves. We have drawn a situation
+in which the reﬂected wave travels at right angles to the refracted wave.
+The oscillating electrons in the water produce the reﬂected wave. These
+move in the two directions transverse to the radiation from wave in the
+medium, i.e., the refracted wave. The arrows are parallel to the direction
+of the reﬂected wave. Motion in this direction does not contribute to the
+reﬂected wave. As the ﬁgure shows, the reﬂected light is therefore linearly
+polarised perpendicular to the plane of the figure (represented by dots).
+This can be checked by looking at the reﬂected light through an analyser.
+The transmitted intensity will be zero when the axis of the analyser is in
+the plane of the figure, i.e., the plane of incidence.
+
+When unpolarised light is incident on the boundary between two
+transparent media, the reﬂected light is polarised with its electric vector
+perpendicular to the plane of incidence when the refracted and reﬂected
+rays make a right angle with each other. Thus we have seen that when
+reﬂected wave is perpendicular to the refracted wave, the reﬂected wave
+is a totally polarised wave. The angle of incidence in this case is called
+Brewster’s angle and is denoted by iB. We can see that iB is related to the
+refractive index of the denser medium. Since we have iB+r = at / 2, we get
+from Snell’s law
+
+_ sin iB sin iB
+
+ 
+
+380 # sinr sin(7r/2—iB)
+
+2019-20

@@ -1,0 +1,39 @@
+7.7 Fallacies and Pitfalls 551
+Byte address 300 is block address
+00
+J
+l 332 9
+The number of blocks in the cache is
+l2
+526 J =8
+3
+Block number 9 falls into cache block number (9 modulo 8) = 1.
+This mistake catches many people, including the authors (in earlier drafts) and
+instructors who forget whether they intended the addresses to be in words, bytes,
+or block numbers. Remember this pitfall when you tackle the exercises.
+Pitfall: Ignoring memory system behavior when writing programs or when gener 
+Ilting code in a compiler.
+This could easily be written as a fallacy: "Programmers can ignore memory hierar 
+chies in writing code." We illustrate with an example using matrix multiply, to
+complement the sort comparison in Figure 7. 18 on page 508.
+Here is the inner loop of the version of matrix multiply from Chapter 3:
+for (i =O; i! =500 ; i =i +ll
+for (j =O; j! =500 ; j =j +ll
+for (k=O; k! =500 ; k=k+l)
+x[i][j] = x[i][j] + y[i][k] * z[k][j];
+When run with inputs that are 500 x 500 double precision matrices, the CPU
+runtime of the above loop on a MIPS CPU with a 1 MB secondary cache was
+about half the speed compared to when the loop order is changed to k , j , i (so i
+is innermost)! The only difference is how the program accesses memory and the
+ensuing effect on the memory hierarchy. Further compiler optimizations using a
+technique called blocking can result in a runtime that is another four times faster
+for this code!
+Pitfall: Using average memory access time to evaluate the memory hierarchy ofan
+out-of-order processor.
+If a processor stalls during a cache miss, then you can separately calculate the
+memory-stall time and the processor execution time, and hence evaluate the
+memory hierarchy independently using average memory access time.
+If the processor continues to execute instructions and may even sustain more
+cache misses during a cache miss, then the only accurate assessment of the mem 
+ory hierarchy is to simulate the out-of-order processor along with the memory
+hierarchy.

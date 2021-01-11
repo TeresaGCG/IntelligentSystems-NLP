@@ -1,0 +1,80 @@
+Electrostatic Potential
+
+and Capacitance
+
+Since 6 Q’can be made as small as we like, Eq. (2.68) can be written as
+
+1 I I2_ I2
+(SW—EHQ +5Q) Q ] (2.69)
+
+Equations (2.68) and (2.69) are identical because the term of second
+order in 6 Q’, i.e., 6 Q’2/ 2C, is negligible, since 6 Q’is arbitrarily small. The
+total work done (W) is the sum of the small work (6 W) over the very large
+number of steps involved in building the charge Q’from zero to Q.
+
+W = Z 6W
+sum over all steps
+1
+= —[(Q’ + 6Q’)2 — Q'Z]
+sum ovgall steps 2 C (2 . 7 O)
+
+= $H5Q’2 — 0} + {(2597 — 59/2} +{(3 5g? _ (2 age} +
+
+ 
+
+ 
+
++{Q2 —(Q—6Q)2} (2.71)
+1 2 92
+= _ _ 0 2 _
+20 [Q ] 2C (2.72)
+The same result can be obtained directly from Eq. (2.68) by integration
+Q I I2 Q 2
+W = Q 6Q’ = i Q I 2 Q—
+0 C C 2 0 2C
+
+This is not surprising since integration is nothing but summation of
+a large number of small terms.
+We can write the ﬁnal result, Eq. (2.72) in different ways
+92 1 2 1
+= — = —CV = — V ,
+2C 2 2 Q (2 73)
+
+Since electrostatic force is conservative, this work is stored in the form
+of potential energy of the system. For the same reason, the ﬁnal result for
+potential energy [Eq. (2.73)] is independent of the manner in which the
+charge configuration of the capacitor is built up. When the capacitor
+discharges, this stored-up energy is released. It is possible to View the
+potential energy of the capacitor as ‘stored’ in the electric field between
+the plates. To see this, consider for simplicity, a parallel plate capacitor
+[of area A (of each plate) and separation d between the plates].
+
+Energy stored in the capacitor
+
+_ 1Q2_(A0')2X d
+
+2 c _ 2 30A
+
+The surface charge density a is related to the electric field E between
+
+the plates,
+
+0'
+
+E = — (2.75)
+80
+
+From Eqs. (2.74) and (2.75) , we get
+
+Energy stored in the capacitor
+U= (1/2).90E2 ><Ad (2.76)
+
+ 
+
+ 
+
+(2.74)
+
+2019-20
+
+81

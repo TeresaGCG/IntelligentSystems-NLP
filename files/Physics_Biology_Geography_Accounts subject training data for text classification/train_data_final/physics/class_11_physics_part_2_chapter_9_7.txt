@@ -1,0 +1,115 @@
+242
+
+PHYSICS
+
+ 
+
+9.6.3 Shear Modulus
+The ratio of shearing stress to the corresponding
+shearing strain is called the shear modulus of
+the material and is represented by G. It is also
+called the modulus of rigidity.
+
+G = shearing stress (as) / shearing strain
+
+G = (F/AJ/(AX/L)
+
+= (FxL)/(A><Ax) (9.10)
+Similarly, from Eq. (9.4)
+G = (F/A)/ 0
+=F/(A>< 0) (9.11)
+The shearing stress (SS can also be expressed as
+(s = G x 0 (9.12)
+
+S
+
+SI unit of shear modulus is N m‘2 or Pa. The
+shear moduli of a few common materials are
+given in Table 9.2. It can be seen that shear
+modulus (or modulus of rigidity) is generally less
+than Young’s modulus (from Table 9. 1). For most
+materials G 2 Y/ 3.
+
+Table 9.2 Shear moduli (G) of some common
+
+materials
+Material G (109 Nm‘2
+or GPa)
+Aluminium 25
+Brass 36
+Copper 42
+Glass 23
+Iron 70
+Lead 5.6
+Nickel 77
+Steel 84
+Tungsten 150
+Wood 10
+
+Example 9.4 A square lead slab of side 50
+cm and thickness 10 cm is subject to a
+shearing force (on its narrow face) of 9.0 x
+
+104 N. The lower edge is riveted t0 the ﬂoor.
+How much will the upper edge be displaced?
+
+ 
+
+Answer The lead slab is fixed and the force is
+applied parallel to the narrow face as shown in
+Fig. 9.7. The area of the face parallel to which
+this force is applied is
+
+A =50cm>< 10cm
+=0.5m><0.1m
+=O.O5m2
+
+2019-20
+
+Therefore, the stress applied is
+= (9.4 x 104 N/0.05 m2)
+= 1.80 x 106 N.m‘2
+
+ 
+
+Fig. 9.7
+
+We know that shearing strain = (Ax/L)= Stress / G.
+
+Therefore the displacement Ax = (Stress x L)/ G
+= (1.8 x 106 N m‘2 x O.5m)/(5.6 x 109 N m‘z)
+=1.6><104m=0.16mm 4
+
+9.6.4 Bulk Modulus
+
+In Section (9.3), we have seen that when a body
+is submerged in a ﬂuid, it undergoes a hydraulic
+stress (equal in magnitude to the hydraulic
+pressure). This leads to the decrease in the
+volume of the body thus producing a strain called
+volume strain [Eq. (9.5)]. The ratio of hydraulic
+stress to the corresponding hydraulic strain is
+called bulk modulus. It is denoted by symbol B.
+
+B=-P/(AV/V) (9.13)
+
+The negative sign indicates the fact that with
+an increase in pressure, a decrease in volume
+occurs. That is, if p is positive, AV is negative.
+Thus for a system in equilibrium, the value of
+bulk modulus B is always positive. SI unit of
+bulk modulus is the same as that of pressure
+i.e., N m‘2 or Pa. The bulk moduli of a few
+common materials are given in Table 9.3.
+
+The reciprocal of the bulk modulus is called
+compressibility and is denoted by k. It is defined
+as the fractional change in volume per unit
+increase in pressure.
+
+k=(1/B)=-(1/AP)><(AV/V) (9.14)
+It can be seen from the data given in Table
+9.3 that the bulk moduli for solids are much
+
+larger than for liquids, which are again much
+larger than the bulk modulus for gases (air).

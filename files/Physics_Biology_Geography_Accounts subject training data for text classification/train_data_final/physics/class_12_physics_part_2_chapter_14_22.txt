@@ -1,0 +1,63 @@
+l Physics
+
+Physical Quantity
+
+ 
+
+460
+
+11.
+
+12.
+
+13.
+
+14.
+
+ 
+
+ 
+
+ 
+
+,B-rays are electrons. yhrays are electromagnetic radiation of wavelengths
+shorter than X-rays;
+
+Law of radioactive decay : N (t) = M0) 6"“
+
+where )1 is the decay constant or disintegration constant
+
+The half- life T /2 of a radionuclide is the time in which N has been
+reduced to one- -half of its initial value The mean hfe 1' is the time at
+which N has been reduced to e‘1 of its initial value
+
+T1,2 =1n72=11n2
+
+Energy is released when less tightly bound nuclei are transmuted into
+more tightly bound nuclei. In ﬁssion, a heavy nucleus like 2:5 2U breaks
+into two smaller fragments, e.g., 2325 U+gn #3? Sb + 2? Nb + 4 oﬁ:
+
+The fact that more neutrons are produced in ﬁssion than are ydﬁsﬂmed
+gives the possibility of a chain reaction with each neutron that is
+produced triggering another ﬁssion The chain reaction is 1:111controlled
+and rapid in a nuclear bomb explosion It is controlled and steady in
+a nuclear reactor In a reactor, the value ogthe neutron multiplication
+factor k is maintained at 1
+
+In fusion, lighter nu’clei Combine to form \a larger nucleus Fusion of
+hydrogen nuclei 111to hehum nuclei 1s the source of energy of all stars
+including our sun ‘
+
+Symbol Dimensions Units
+
+   
+
+POINTS TO PONDER
+
+The density of nuclear matter is independent of the size of the nucleus.
+The mass density of the atom does not follow this rule.
+
+The radius of a nucleus determined by electron scattering is found to
+be slightly different from that determined by alpha-particle scattering.
+
+2019-20

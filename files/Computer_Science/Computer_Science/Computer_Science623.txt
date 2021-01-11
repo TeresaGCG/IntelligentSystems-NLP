@@ -1,0 +1,43 @@
+8.9 Fallacies and Pitfalls 607
+or are unattainable because of other system limitations. For example, in quoting
+bus performance, the peak transfer rate is sometimes specified using a memory
+system that is impossible to build. For networked systems, the software overhead
+of initiating communication is ignored.
+The 32-bit, 33 MHz PCI bus has a peak bandwidth of about 133 MB/sec. In
+practice, even for long transfers, it is difficult to sustain more than about 80
+MB/sec for realistic memory systems. As mentioned above, users of wireless net 
+works typically achieve only about a third of the peak bandwidth.
+Amdahl's law also reminds us that the throughput of an I/O system will be lim 
+ited by the lowest-performance component in the I/O path.
+Fallacy: Magnetic disk storage is on its last legs and will be replaced shortly.
+This is both a fallacy and a pitfall. Such claims have been made constantly for the
+past 20 years, though the string of failed alternatives in recent years seems to have
+reduced the level of claims for the death of magnetic storage. Among the unsuc 
+cessful contenders are magnetic bubble memories, optical storage, and holo 
+graphic storage. None of these systems has matched the combination of
+characteristics that favor magnetic disks: high reliability, nonvolatility, low cost,
+reasonable access time, and rapid improvement. Magnetic storage technology
+continues to improve at the same-or faster- pace that it has sustained over the
+past 25 yea rs.
+Pitfall: Using magnetic tapes to back lip disks.
+Once again, this is both a fallacy and a pitfall.
+Magnetic tapes have been part of computer systems as long as disks because
+they use similar technology as disks, and hence historically have followed the same
+density improvements. The historic cost-performance difference between disks
+and tapes is based on a sealed, rotating disk having lower access time than sequen 
+tial tape access but removable spools of magnetic tape mean many tapes can be
+used per reader and they can be very long and so have high capacity. Hence, in the
+past a single magnetic tape could hold the contents of many disks, and since it was
+10 to 100 times cheaper per gigabyte than disks, it was a useful backup medium.
+The claim was that magnetic tapes must track disks since innovations in disks
+must help tapes. This claim was important because tapes were a small market and
+could not afford a separate large research and development effort. One reason the
+market is small is that desktop owners generally do not back up disks onto tape,
+and so while desktops are by far the largest market for disks, desktops are a small
+market for tapes.
+Alas, the larger market has led disks to improve much more quickly than tapes.
+Starting in 2000 to 2002, the largest popular disk was larger than the largest popu 
+lar tape. In that same time frame, the price per gigabyte of ATA disks dropped
+below that of tapes. Tape apologists now claim that tapes have compatibility
+requirements that are not imposed on disks; tape readers must read or write the
+current and previous generation of tapes, and must read the last four generations

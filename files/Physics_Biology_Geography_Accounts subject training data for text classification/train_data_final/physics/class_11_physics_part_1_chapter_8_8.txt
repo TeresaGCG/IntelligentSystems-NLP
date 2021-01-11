@@ -1,0 +1,121 @@
+G RAVITATI ON
+
+191
+
+F(h) GM E
+h = — =— .
+g( ) m (RE+h)2 (8.14)
+This is clearly less than the value of g on the
+GM E
+
+surface of earth : 9 = R2 - For h << RE ,we can
+E
+
+expand the RHS of Eq. (8.14) :
+
+GM ,2
+h
+For R—<< 1 , using binomial expression,
+E
+2h
+9(h)Eg[I—R—]. (8.15)
+E
+
+Equation (8.15) thus tells us that for small
+heights h above the value of g decreases by a
+
+factor (1 — 2h / RE).
+
+Now, consider a point mass m at a depth d
+below the surface of the earth (Fig. 8.8(b)), so
+that its distance from the centre of the earth is
+
+(RE — d) as shown in the figure. The earth can
+
+be thought of as being composed of a smaller
+sphere of radius (RE — d) and a spherical shell
+of thickness d. The force on m due to the outer
+shell of thickness d is zero because the result
+quoted in the previous section. As far as the
+smaller sphere of radius (RE — d ) is concerned,
+the point mass is outside it and hence according
+to the result quoted earlier, the force due to this
+smaller sphere is just as if the entire mass of
+the smaller sphere is concentrated at the centre.
+If Ms is the mass of the smaller sphere, then,
+Ms/ME=(RE—d)3 /RE3 (8.16)
+Since mass of a sphere is proportional to be
+cube of its radius.
+
+Earth's surface
+
+ 
+
+(b)
+
+Fig. 8.8 (b) g at a depth d. In this case only the
+smaller sphere of radius (RE—d)
+contributes to 9.
+
+Thus the force on the point mass is
+F(d) = GMsm/ (RE—d)2 (8.17)
+Substituting for MS from above , we get
+F(d) = GMEm(RE—d)/ RE3 (8.18)
+
+and hence the acceleration due to gravity at
+a depth d,
+
+ 
+
+ 
+
+ 
+
+Fd
+g(d)= ( )is
+g(d)=—F(d)=GR§E (RE-d)
+m RE
+R —d
+:9 :2 =g(1—d/RE) (8.19)
+
+Thus, as we go down below earth’s surface,
+the acceleration due gravity decreases by a factor
+
+(l—d/RE).The remarkable thing about
+
+acceleration due to earth’s gravity is that it is
+maximum on its surface decreasing whether you
+go up or down.
+
+8.7 GRAVITATIONAL POTENTIAL ENERGY
+
+We had discussed earlier the notion of potential
+energy as being the energy stored in the body at
+its given position. If the position of the particle
+changes on account of forces acting on it, then
+the change in its potential energy is just the
+amount of work done on the body by the force.
+As we had discussed earlier, forces for which
+the work done is independent of the path are
+the conservative forces.
+
+The force of gravity is a conservative force
+and we can calculate the potential energy of a
+body arising out of this force, called the
+gravitational potential energy. Consider points
+close to the surface of earth, at distances from
+the surface much smaller than the radius of the
+earth. In such cases, the force of gravity is
+practically a constant equal to mg, directed
+towards the centre of the earth. If we consider
+a point at a height h1 from the surface of the
+earth and another point vertically above it at a
+height h,2 from the surface, the work done in
+lifting the particle of mass m from the first to
+the second position is denoted by W12
+
+W12 = Force X displacement
+
+= mg (h, — h) (8.20)
+
+2019-20

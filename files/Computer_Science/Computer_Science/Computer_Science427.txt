@@ -1,0 +1,63 @@
+6.4 Data Hazards and Forwarding 411
+if (MEM/WB . RegWrite
+*
+and (MEM/WB . RegisterRd
+0)
+*
+and ( EX/MEM . RegisterRd IO/EX . RegisterRs)
+and (MEM/WB . RegisterRd IO/EX . RegisterRsll ForwardA 01
+if (MEM/WB . RegWrite
+*
+and (MEM/WB . RegisterRd
+0)
+*
+and ( EX/MEM . RegisterRd IO/EX . RegisterRt )
+and (MEM/WB . RegisterRd IO / EX . RegisterRtll ForwardS 01
+=
+Figure 6.32 shows the hardware necessary to support forward ing for operations
+that use results during the EX stage.
+IDlEX
+j \ e- Wi
+EXlMEM
+-
+Wi
+~~ M MEMl'NB
+- - _ c;,;;
+IF/ID \J '- " M
+- -
+ן-
+-
+M
+,
+"
+I-
+0
+0 y - -
+".
+IgI
+Registers
+ACO
+,- memory M
+- -
+M
+Instruction 0 I- "
+"
+memory M e- '
+,
+~ " ~
+•
+IF/ID.R9gi618rRs
+IF/ID.R9gi618rAt
+I"-
+•
+IF/ID.R9gi618rAt EXlMEM.Rogio191Rd
+M
+IF/ID. .~ ,
+"
+- - '---
+~
+FOlWardlog MEMIWB.Rogist••Rd
+~"
+FIGURE 6.32 The datapath modified to resolve hazards via forwarding. Compared WIth the datapath m Figure 6.27 on page 404, the
+additions are the multiplexors to the inputs to theALU. This figure is a more stylized drawing, however,leaving out details from the fuU datapath such
+as the branch hardware and the sign extension hardware.

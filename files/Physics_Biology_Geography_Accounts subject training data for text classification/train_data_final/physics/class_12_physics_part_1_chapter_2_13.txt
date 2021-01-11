@@ -1,0 +1,61 @@
+64
+
+i Physics
+
+EXAMPLE 2.4
+
+Add the work done in steps (i), (ii), (iii) and (iv). The total work
+required is
+
+=43;want—area
+
+ 
+
+ 
+
+The work done depends only on the arrangement of the charges, and
+not how they are assembled. By definition, this is the total
+electrostatic energy of the charges.
+
+(Students may try calculating same work/energy by taking charges
+in any other order they desire and convince themselves that the energy
+will remain the same.)
+
+(b) The extra work necessary to bring a charge qO to the point E when
+the four charges are at A, B, C and D is qO X (electrostatic potential at
+E due to the charges at A, B, C and D). The electrostatic potential at
+E is clearly zero since potential due to A and C is cancelled by that
+due to B and D. Hence, no work is required to bring any charge to
+
+point E.
+
+2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD
+2.8. 1 Potential energy of a single charge
+
+In Section 2.7, the source of the electric field was speciﬁed — the charges
+and their locations - and the potential energy of the system of those charges
+was determined. In this section, we ask a related but a distinct question.
+What is the potential energy of a charge q in a given ﬁeld? This question
+was, in fact, the starting point that led us to the notion of the electrostatic
+potential (Sections 2.1 and 2.2). But here we address this question again
+to clarify in what way it is different from the discussion in Section 2. 7.
+The main difference is that we are now concerned with the potential
+energy of a charge (or charges) in an external ﬁeld. The external ﬁeld E is
+not produced by the given charge(s) whose potential energy we wish to
+calculate. E is produced by sources external to the given charge(s).The
+external sources may be known, but often they are unknown or
+unspeciﬁed; what is speciﬁed is the electric ﬁeld E or the electrostatic
+potential Vdue to the external sources. We assume that the charge q
+does not signiﬁcantly affect the sources producing the external ﬁeld. This
+is true if q is very small, or the external sources are held fixed by other
+unspeciﬁed forces. Even if q is ﬁnite, its inﬂuence on the external sources
+may still be ignored in the situation when very strong sources far away
+at inﬁnity produce a ﬁnite field E in the region of interest. Note again that
+we are interested in determining the potential energy of a given charge q
+(and later, a system of charges) in the external ﬁeld; we are not interested
+in the potential energy of the sources producing the external electric ﬁeld.
+The external electric ﬁeld E and the corresponding external potential
+Vmay vary from point to point. By definition, Vat a point P is the work
+done in bringing a unit positive charge from inﬁnity to the point P.
+
+2019-20

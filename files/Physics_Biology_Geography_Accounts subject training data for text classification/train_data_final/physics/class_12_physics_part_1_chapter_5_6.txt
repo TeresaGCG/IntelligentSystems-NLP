@@ -1,0 +1,74 @@
+Magnetism and
+Mo’r’rer
+
+ 
+
+Example 5.2 A short bar magnet placed with its axis at 30° with an
+external field of 800 G experiences a torque of 0.016 Nm. (a) What is
+the magnetic moment of the magnet? (b) What is the work done in
+moving it from its most stable to most unstable position? (c) The bar
+magnet is replaced by a solenoid of cross-sectional area 2 X 10‘4 m2
+and 1000 turns, but of the same magnetic moment. Determine the
+current ﬂowing through the solenoid.
+
+Solution
+(a) From Eq. (5.3),1: = m B sin 9, 9: 30°, hence sine =1/2.
+Thus, 0.016 = m x (800 x 10‘4 T) x (1/2)
+
+m = 160 X 2/800 = 0.40 A m2
+
+(b) From Eq. (5.6), the most stable position is 0 = 0° and the most
+unstable position is 9 = 180°. Work done is given by
+
+W = Um(9= 180°)—Um(19= 0°)
+= 2 mB= 2 x 0.40 x 800 x 104: 0.064J
+(c) From Eq. (4.30), m5 = NIA. From part (a), mS = 0.40 A m2
+0.40 = 1000 x Ix 2 x 10‘4
+I = 0.40 x 104/(1000 x 2) = 2A
+
+Example 5.3
+
+(a) What happens if a bar magnet is cut into two pieces: (i) transverse
+to its length, (ii) along its length?
+
+(b) A magnetised needle in a uniform magnetic field experiences a
+torque but no net force. An iron nail near a bar magnet, however,
+experiences a force of attraction in addition to a torque. Why?
+
+(c) Must every magnetic configuration have a north pole and a south
+pole? What about the field due to a toroid?
+
+((1) TWO identical looking iron bars A and B are given, one of which is
+definitely known to be magnetised. (We do not know which one.)
+How would one ascertain whether or not both are magnetised? If
+only one is magnetised, how does one ascertain which one? [Use
+nothing else but the bars A and B.]
+
+Solution
+
+(a) In either case, one gets two magnets, each with a north and south
+pole.
+
+(b) No force if the ﬁeld is uniform. The iron nail experiences a non-
+uniform field due to the bar magnet. There is induced magnetic
+moment in the nail, therefore, it experiences both force and torque.
+The net force is attractive because the induced south pole (say) in
+the nail is closer to the north pole of magnet than induced north
+pole.
+
+(c) Not necessarily. True only if the source of the field has a net non-
+zero magnetic moment. This is not so for a toroid or even for a
+straight infinite conductor.
+
+((1) Try to bring different ends of the bars closer. A repulsive force in
+some situation establishes that both are magnetised. If it is always
+attractive, then one of them is not magnetised. In a bar magnet
+the intensity of the magnetic field is the strongest at the two ends
+(poles) and weakest at the central region. This fact may be used to
+determine whether A or B is the magnet, In this case, to see which
+
+2019-20
+
+z ' g S’IdWVXﬂ
+
+179

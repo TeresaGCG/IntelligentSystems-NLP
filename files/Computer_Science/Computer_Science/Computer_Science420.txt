@@ -1,0 +1,70 @@
+404 Chapter 6 Enhancing Performance with Plpellnlng
+~
+WB
+EXIIolEM
+I-
+Control WB
+M
+"~
+"-
+EX M WB
+~
+~
+_.
+"-
+In
+•
+~.~
+Shi~l- kUS<c ~
+~
+'ri
+j }-
+"
+~ '" - - l •
+... •
+" .. ,~ 1
+," ~ i -,~......,,
+• - ~ ,., •
+I
+- - -
+-'- ~ A_.
+,
+, ••
+ALU Al.U
+-~ r-"'" - -.
+-cW~ ~ - ~. "
+~"
+"
+,"
+" •
+•
+W~
+,
+~. '-'
+t--
+-
+..
+W~
+~. - -
+-
+•
+-[15...q .S_ingnd ~ ~" f-
+~ YAl.UOp
+-[20-"1 c-
+" I-
+,,"
+•
+[15-" 1 .......
+~ ~ ~ ~
+FIGURE 6.27 The plpellned datapath of Figure 6.22, with the control signals connected to the control portions of the pipe 
+line regis te rs . The control values for the last three stages are created during the instruction decooe stage and then placed in the ID{EX pipeline reg 
+ister. The control lines for each pipe stage are used, and remaining oontrollines are then passed to the next pipeline stage.
+Figure 6.28 shows that the values read for register $2 would flot be the result of
+the sub instruction unless the read occurred during clock cycle 5 or later. Thus,
+the instructions that would get the correct value of -20 are add and sw; the and
+and or instructions would get the incorrect value 1O! Using this style of drawing,
+such problems become apparent when a dependence line goes backwards in time.
+But, look carefully at Figure 6.28: When is the data from the sub instruction
+actually produced?The result is ava ilable at the end of the EX stage or clock cycle
+3. \Vhen is the data actually needed by the a nd and or instructions? At the begin 
+ning of the EX stage, or clock cycles 4 and 5, respectively. Thus, we can execute

@@ -1,0 +1,40 @@
+1.3 Under the Covers 27
+combined with the increases in capacity have made network technology central to
+the information revolution of the last 25 years.
+Recently, another innovation in networking is reshaping the way computers
+communicate. Wireless technology has become widely deployed, and most lap 
+tops now incorporate this technology. The ability to make a radio in the same low 
+cost semiconductor technology (CMOS) used for memory and microprocessors
+enabled a significant improvement in price, leading to an explosion in deploy 
+ment. Currently available wireless technologies, called by the IEEE standard name
+802.11, allow for transmission rates from I to less than 100 million bits per sec 
+ond. Wireless technology is quite a bit different from wire-based networks, since
+all users in an immediate area share the airwaves.
+1. Semiconductor DRAM and disk storage differ significantly. Describe the Check
+fundamental difference for each of the following: volatility, access time, and Yourself
+cost.
+Technologies for Building Processors and Memories
+Processors and memory have improved at an incredible rate because computer
+designers have long embraced the latest in electronic technology to try to win the
+race to design a better computer. Figure 1.1 2 shows the technologies that have
+been used over time, with an estimate of the relative performance per unit cost for
+each technology. This section explores the technology that has fueled the com 
+puter industry since 1975 and will continue to do so for the foreseeable future.
+Since this technology shapes what computers will be able to do and how quickly
+they will evolve, we believe all computer professionals should be familiar with the
+basics of integrated circuits.
+A transistor is simply an on/off switch controlled by electricity. The integrated transistor An on/offswitch
+circuit (Ie) combined dozens to hundreds of transistors into a single chip. To controlled by an electric signal.
+describe the tremendous increase in the number of transistors from hundreds to
+Technology used In computers Relative performance/ unit cost
+1951 Vacuum tube 1 vacuum tu be An electronic
+1965 Transistor 35 component, predecessor ofthe
+transistor, that consists ofa hol 
+1975 Integrated circuit 900
+low glass ntbe about 5 to 10 em
+1995 Very large scale integrated circuit 2,400,000
+long from which as much air has
+2005 Ultra large scale integrated circuit 6,200,000,000
+been removed as possible and
+FIGURE 1.12 Relative performance per unit cost of technologies used In computers which uses an electron beam to
+over time. Source: Computer Museum, Boston, with 2005 extrapolated by the authors. transfer data.

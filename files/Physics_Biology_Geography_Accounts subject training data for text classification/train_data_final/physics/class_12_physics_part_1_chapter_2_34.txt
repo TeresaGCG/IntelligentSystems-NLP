@@ -1,0 +1,56 @@
+Electrostatic Potential
+and Capacitance
+
+ 
+
+where Cl, CZ, Cs... are individual capacitances.
+
+12. The energy Ustored in a capacitor of capacitance C, with charge Q and
+voltage V is
+
+2
+U=lQV=lcv2—lQ
+2 2
+
+_ 2 F
+The electric energy density (energy per unit volume) in a region with
+electric ﬁeld is [1/2)80E2.
+
+Physical quantity Symbol Dimensions Unit
+
+ 
+
+¢orV
+
+     
+
+POINTS TO PONDER
+
+1. Electrostatics deals with forces between charges at rest. But if there is a
+force on a charge, how can it be at rest? Thus. when we are talking of
+electrostatic force between charges, it should be understood that each
+charge is being kept at rest by some unspecified force that opposes the
+net Coulomb force on the charge.
+
+2. A capacitor is so conﬁgured that it confines the electric ﬁeld lines within
+a small region of space. Thus, even though ﬁeld may have considerable
+strength, the potential difference between the two conductors of a
+capacitor is small.
+
+3. Electric ﬁeld is discontinuous across the surface of a spherical charged
+shell. It is zero inside and gen outside. Electric potential is, however
+continuous across the surface, equal to q/41t80R at the surface.
+
+4. The torque p X E on a dipole causes it to oscillate about E. Only if there
+is a dissipative mechanism, the oscillations are damped and the dipole
+eventually aligns with E.
+
+5. Potential due to a charge q at its own location is not defined — it is
+inﬁnite.
+
+6. In the expression qV(r) for potential energy of a charge q, V(r) is the
+potential due to external charges and not the potential due to q. As seen
+in point 5, this expression will be ill-deﬁned if V(r) includes potential
+due to a charge q itself. 85
+
+2019-20

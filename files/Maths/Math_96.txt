@@ -1,0 +1,35 @@
+Homework Helpers: Basic Math and Pre-Algebra
+96
+Lesson 5-4 Review
+Evaluate the following:
+1. 2. 3.
+Lesson 5-5: Rounding and Estimating
+Sometimes exact numbers give too much information. For example,
+there may be 7,853 people living in a particular town, but the town’s
+Website may round up to the nearest thousand and say that there are
+8,000 residents. People usually prefer nice, round numbers, and the more
+0s involved in the number, the happier they are. It doesn’t matter that
+our national debt is currently $8,017,113,351,645. It’s enough to say that
+our national debt is around $8 trillion. The key to rounding is to recog-
+nize that 5 is the cut-off. The numbers less than 5 (meaning 0, 1, 2, 3, and 4)
+turn into 0s. This is called rounding down. The numbers greater than or
+equal to 5 (meaning 5, 6, 7, 8, and 9) turn into 0s and bump the immediate
+digit to the left up by one unit. This is the same thing as turning into a 10
+and being carried over. This is called rounding up.
+The number 852.654 becomes 1,000 when rounding to the nearest
+thousand. It becomes 900 when rounding to the nearest hundred. It be-
+comes 850 when rounding to the nearest ten. It becomes 853 when round-
+ing to the nearest one. It becomes 852.7 when rounding to the nearest
+tenth. It becomes 852.65 when rounding to the nearest hundredth. Round-
+ing depends on the place on which you are focusing. When rounding to
+the nearest ten, your rounding digit is the digit in the tens place. You
+look at the digit immediately to the right and follow the rounding rules
+with a cut-off of 5.
+When you round a number, you are changing that number. The
+rounded number is not equal to the original number, but it is close. A
+handy symbol to represent being close, or approximate, but not equal to,
+is ≈.
+Example 1
+Round 65.32 to the nearest one.
+Solution: 65.32 ≈ 65
+www.ebook3000.com

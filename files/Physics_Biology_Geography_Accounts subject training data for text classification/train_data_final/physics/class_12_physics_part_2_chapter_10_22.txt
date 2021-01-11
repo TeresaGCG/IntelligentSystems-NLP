@@ -1,0 +1,67 @@
+Wove Optics
+
+where f is the focal length of the lens and 2a is the diameter of the circular
+aperture or the diameter of the lens, whichever is smaller. Typically if
+
+hz 0.5um, fz 20cm and az 5cm
+wehave
+
+r0 z 1.2 mm
+
+Although the size of the spot is very small, it plays an important role
+in determining the limit of resolution of optical instruments like a telescope
+or a microscope. For the two stars to be just resolved
+
+ 
+
+ngz r0 z 0.61/1f
+a
+implying
+0.61/1
+
+Thus A0 will be small if the diameter of the objective is large. This
+implies that the telescope will have better resolving power if a is large. It
+is for this reason that for better resolution, a telescope must have a large
+diameter objective.
+
+Example 10.6 Assume that light of wavelength 6000A is coming from
+a star. What is the limit of resolution of a telescope whose objective
+has a diameter of 100 inch?
+
+Solution A 100 inch telescope implies that 2a = 100 inch
+= 254 cm. Thus if,
+
+x z 6000A = 6x 10‘5 cm
+then
+
+~ 0.61 X 6 x 10'5
+
+z 2.9 x 10‘7 radians
+127
+
+A0
+
+We can apply a similar argument to the objective lens of a microscope.
+In this case, the object is placed slightly beyond f, so that a real image is
+formed at a distance D [Fig. 10.20]. The magnification (ratio of
+image size to object size) is given by m z 0/ f. It can be seen from
+Fig. 10.20 that
+
+D/fz2 tanﬁ (10.26)
+where 2[3 is the angle subtended by the diameter of the objective lens at
+the focus of the microscope.
+
+ 
+
+     
+
+Obj ectiv Image plane
+lens
+
+FIGURE 10.20 Real image formed by the objective lens of the microscope.
+
+2019-20
+
+9'01 :11qu
+
+373

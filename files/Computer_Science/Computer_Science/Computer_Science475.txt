@@ -1,0 +1,37 @@
+6.14 Exercises 459
+forwarding paths required and hazard cases that must be detected, considering only
+one of the two operands. The number of cases should equal the maximum length of
+the hazard if no forwarding existed.
+6.36 (15) <§6.6> We have a program core consisting of five conditional branches.
+The program core will be executed thousands of times. Below are the outcomes of
+each branch for one execution of the program core (T for taken, N for not taken).
+Branch I: T-T-T
+Branch 2: N-N-N-N
+Branch 3: T-N-T-N-T-N
+Branch 4: T-T-T-N-T
+Branch 5: T-T-N-T-T-N-T
+Assume the behavior of each branch remains the same for each program core execu 
+tion. For dynamic schemes, assume each branch has its own prediction buffer and
+each buffer initialized to the same state before each execution. List the predictions
+for the following branch prediction schemes:
+a. Always taken
+b. Always not taken
+c. I-bit predictor, initialized to predict taken
+d. 2-bit predictor, initialized to weakly predict taken
+What are the prediction accuracies?
+6.37 (10) <§§6.4-6.6> Sketch all the forwarding paths for the branch inputs and
+show when they must be enabled (as we did on page 407).
+6.38 (10) <§§6.4-6.6> Write the logic to detect any hazards on the branch sources,
+aswe did on page410.
+6.39 (10) <§§6.4-6.6> The example on page 378 shows how to maximize perfor 
+mance on our pipelined datapath with forwarding and stalls on a use following a
+load. Rewrite the following code to minimize performance on this datapath- that is,
+reorder the instructions so that this sequence takes the most clock cycles to execute
+while still obtaining the same result.
+lw 12. 100(16)
+lw 13. 200(17)
+add $4, $2 , $3
+add $6, $3 , $5
+sub $8, $4 , $6
+lw 17. 300(18)
+beq $7, $8 , Loop

@@ -1,0 +1,30 @@
+62 Chapter 2 Instructions: Language of the Computer
+Hexadecimal Hexadecimal Hexadecimal Hexadecimal
+s,.,
+O~, 0000_ 4~ 0100"", 1000_ 1100_
+Che•
+1~, 0001""0 5~ 0101""0 9~, 1001_ d~ 1101_
+2~, 001°""0 6~ 011°""0 .~, 101O""" .~ 111O""",
+",", 0011"'0 7~ 0111"'0 ,,", 1011_ f~ 1111_
+FIGURE 2.5 The hexadeclmal-blnary conversion table. Just replace one hexadecimal digit by the corresponding four binary
+digits, and vice versa. Ifthe length of the binary number is not a multiple of4, go from right to left.
+hexadecimal Numbers in verts easily into binary. Since almost all computer data sizes are multiples of 4, hexa 
+base 16. decimal (base 16) numbers are popular. Since base 16 is a powerof2, we can trivially
+convert by replacing each group of four binary digits by a single hexadecimal digit,
+and vice versa. Figure 2.5 converts hexadecimal to binary, and vice versa.
+Because we frequently deal with different number bases, to avoid confusion we
+will subscript decimal numbers with tefl, binary numbers with two, and hexadeci 
+mal numbers with hex. (If there is no subscript, the default is base 10.) By the way,
+C and Java use the notation Oxnnnn for hexadecimal numbers.
+Binary-tcHIexadecimal and Back
+EXAMPLE Convert the following hexadecimal and binary numbers into the other base:
+eca8 6420
+hex
+0001 0011 0101 0111 1001 1011 1101 1111 two
+Just a table lookup one way:
+ANSWER
+eca8
+1110 1100 1010 1000 0110 0100 0 10 OOOOtwo
+And then the other d irection too:
+0001 0011 0101 0111 1001 1011 1101 11l1
+two

@@ -1,0 +1,63 @@
+Duol Nature of Radiation
+
+and Moﬁer
+
+particles. They were found to travel with speeds ranging from about 0.1
+to 0.2 times the speed of light (3 X 108 m / s). The presently accepted value
+of e/m is 1.76 X 1011 C/kg. Further, the value of e/m was found to be
+independent of the nature of the material/ metal used as the cathode
+(emitter), or the gas introduced in the discharge tube. This observation
+suggested the universality of the cathode ray particles.
+
+Around the same time, in 1887, it was found that certain metals, when
+irradiated by ultraviolet light, emitted negatively charged particles having
+small speeds. Also, certain metals when heated to a high temperature were
+found to emit negatively charged particles. The value of e/ mof these particles
+was found to be the same as that for cathode ray particles. These
+observations thus established that all these particles, although produced
+under different conditions, were identical in nature. J. J. Thomson, in 1 897,
+named these particles as electrons, and suggested that they were
+fundamental, universal constituents of matter. For his epoch-making
+discovery of electron, through his theoretical and experimental
+investigations on conduction of electricity by gasses, he was awarded the
+Nobel Prize in Physics in 1906. In 1913, the American physicist R. A.
+Millikan (1868-1953) performed the pioneering oil-drop experiment for
+the precise measurement of the charge on an electron. He found that the
+charge on an oil-droplet was always an integral multiple of an elementary
+charge, 1.602 X 10‘19 C. Millikan’s experiment established that electric
+charge is quantised From the values of charge (e) and speciﬁc charge
+(e/ m), the mass (m) of the electron could be determined.
+
+1 1.2 ELECTRON EMISSION
+
+We know that metals have free electrons (negatively charged particles) that
+are responsible for their conductivity. However, the free electrons cannot
+normally escape out of the metal surface. If an electron attempts to come
+out of the metal, the metal surface acquires a positive charge and pulls the
+electron back to the metal. The free electron is thus held inside the metal
+surface by the attractive forces of the ions. Consequently, the electron can
+come out of the metal surface only if it has got sufficient energy to overcome
+the attractive pull. A certain minimum amount of energy is required to be
+given to an electron to pull it out from the surface of the metal. This
+minimum energy required by an electron to escape from the metal surface
+is called the work junction of the metal. It is generally denoted by $0 and
+measured in eV (electron volt). One electron volt is the energy gained by an
+electron when it has been accelerated by a potential difference of 1 volt, so
+that 1 eV= 1.602 X10‘19J.
+
+This unit of energy is commonly used in atomic and nuclear physics.
+The work function ($0) depends on the properties of the metal and the
+nature of its surface. The values of work function of some metals are
+given in Table 1 1.1. These values are approximate as they are very
+sensitive to surface impurities.
+
+Note from Table 1 1. 1 that the work function of platinum is the highest
+(¢0= 5.65 eV) while it is the lowest ($0 = 2.14 eV) for caesium.
+
+The minimum energy required for the electron emission from the metal
+surface can be supplied to the free electrons by any one of the following
+physical processes:
+
+2019-20
+
+387

@@ -1,0 +1,68 @@
+MIPS assembly language
+Category Instruction Example Meaning Comments
+.dd ,dd $sl, $s2. $s3 $51 _ $ s2 + $53 Three operands; overflow detected
+,ob
+subtract $sl, $s2. $s3 $sl_ $ s2_ $ s3 Three operands; overflow detected
+add immediate addi $sl, $s2.100 $sl_ $ s2 + 100 + constant; overflow detected
+add unsigned addu $sl. $s2. $s3 $51_ $sl + $SJ Three operands;overflow undetected
+subtract unsigned subu $sl. $s2. $s3 $sl_ $sl_ $sJ Three operands;overflow undetected
+add immediate unsigned addiu $sl, $s2.100 $sl_ $ s2 + 100 + constant; overflow undetected
+move from coprocessor mf cO $sl. $epc $sl ,- $epc Copy Exception PC + special regs
+register
+Arithmetic
+multiply mult $s2. $s3 Hi, La" $sl x ' 53 64-bit signed product in Hi, La
+multiply unsigned multu $s2. $s3 Hi, La" $52 x $53 64-bit unsigned product in Hi, Lo
+divide di v $s2. $s3 La" $Sl / ) 53, La _ quotient, Hi _ remainder
+Hi" $52 mod $ s3
+divide unsigned di vu $s2. $s3 La,, $ s~ n s::. Unsigned quotient and remainder
+Hi" $52 mod $ s3
+Sd
+move from Hi mfhi $sl"Hi Used to get copy of Hi
+,.
+move from Lo mfl 0 Sd ' sl"Lo Used to get copy of Lo
+Sd
+load word $sl.100{ $s2 ) Memoryl$ s2 + 100J Word from memory to register
+store word '" $sl.100{ $s2 ) Memory( $s2 + 100) Sd Word from register to memory
+load half unsigned 1ho $sl.100{ $s2 ) $51 _ Memory($52 + 1001 Halfword memory to register
+0<>,.
+,h
+store half $sl.100{ $s2 ) Memory($52 + 100) _ $51 Halfword register to memory
+transfer
+load byte unsigned 1bo $sl.100{ $s2 ) $51 _ Memory($52 + 1001 Byte from memory to register
+,b
+store byte $sl.100{ $s2 ) Memory($52 + 100) _ $51 Byte from register to memory
+,
+load upper immediate 1ui $sl.100 Sd 100 • 216 Loads constant in upper 16 bits
+'0' ,od $s1. $s2. $s3 Sd S,' S,3 Three reg. operands; bit-by-bit AND
+" " $s1. $s2. $s3 Sd S,' I S,3 Three reg. operands; bit-by-bit OR
+,
+0" 0" $sl, $s2. $s3 Sd - ( $52 1$ 53 ) Three reg. operands; bit-by-bit NOR
+Logical and immediate andi $sl. $s2.100 Sd S,' 100 Bit-by-bit AND with constant
+or immediate on $sl. $s2.100 Sd S,' I 100 Bit-by-bit OR with constant
+,"
+shift left logical $s1. $s2.10 Sd - S,' « 10 Shift left by constant
+shift right logical ,,1 $sl. $s2.10 Sd S,' » 10 Shift right by constant
+branch on equal beq $sl, $s2.25 if($ S~ __ $ ~l)goto Equal test; PC-relative branch
+PC + 4 + 100
+branch on not equal boe $sl, $s2.25 if($sl !_ $s2)goto Not equal test; PC-relative
+PC + 4 + 100
+,It
+set on less than $sl. $s2. $s3 if($s.2 < $ s_J ) $51 '- 1; Compare less than;
+Condi-
+else $51 ,, 0 two's complement
+tional
+set less than immediate slti $sl, $s2.100 if($s." <100) $sl_1; Compare < constant;
+branch
+else $51=0 two's complement
+set less than unsigned 5ltu $sl. $s2. $s3 if($s2 < $ s3) $51_1; Compare less than; natural numbers
+else $51=0
+set less than immediate 5Iti u $sl, $s2.100 if($\Z<1OO) $sl_1; Compare < constant; natural numbers
+unsigned else $51 ,, 0
+jump 2500 go to 1()(X)Q Jump to target address
+Uncondi- J
+tional jump register F Sco go to $ ra For switch, procedure return
+Ijump jump and link j a1 2500 $r a_PC + 4; goto10000 For procedure call
+FIGURE 3.14 MIPS architecture revealed thus far. The memory and registers of the MIPS architecture are not included for space reasons,
+but this section added the hi and 10 registers to support multiply and divide. Color indicates the portions revealed since Figure 3.4 on page 175. MIPS
+machine language is listed in the MIPS summary reference card at the front of this book.
+(page 190)

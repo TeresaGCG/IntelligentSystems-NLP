@@ -1,0 +1,76 @@
+SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 175
+—
+
+ 
+
+Equation (7 .49b) applies to any rolling body: 2
+a disc, a cylinder, a ring or a sphere. mgh :% m1} [1+ %]
+V Example 7.1 6 Three bodies. a ring. a solid
+cylinder and a solid sphere roll down the 2 _ 29h
+same inclined plane without slipping. They or 1) _ l + kZ/R2
+start from rest. The radii of the bodies are _ _
+identical. Which oi‘the bodies reaches the ‘Note Is independent 0f the mass Of the
+ground with maximum velocity? rolling body;
+For a ring, k2 = R2
+Answer We assume conservation of energy of 29h
+the rolling body, i.e. there is no loss of energy vrl'ng ﬁlm ,
+due to friction etc. The potential energy lost by
+the body in rolling down the inclined plane = Jg—h
+
+(= mgh) must, therefore, be equal to kinetic . . 2 _
+energy gained. (See Fig.7 .38) Since the bodies For a SOhd cyhnder k _ R2/2
+
+start from rest the kinetic energy gained is equal 2gh
+1) . =
+m \/ 1 + 1/2
+
+ 
+
+to the final kinetic energy of the bodies. From
+
+1 2 k2
+Eq. (7.49b), Kzgmv 1+—R2 , where v is the _ 4gh
+_ VT
+
+final velocity of (the centre of mass of) the body.
+
+Equating Kand mgh, For a solid sphere k2 = 2R2/5
+
+v _ 29h
+sphere 1+2/5
+_ flOgh
+7
+
+From the results obtained it is clear that among
+the three bodies the sphere has the greatest and
+the ring has the least velocity of the centre of mass
+at the bottom of the inclined plane.
+
+Suppose the bodies have the same mass. Which
+body has the greatest rotational ldnetic energy while
+Fig. 7.38 reaching the bottom of the inclined plane? 4
+
+ 
+
+ 
+
+SUMMARY
+
+1. Ideally, a rigid body is one for which the distances between different particles of the
+body do not change, even though there are forces on them.
+
+2. A rigid body fixed at one point or along a line can have only rotational motion. A rigid
+body not fixed in some way can have either pure translational motion or a combination
+of translational and rotational motions.
+
+3. In rotation about a fixed axis, every particle of the rigid body moves in a circle which
+lies in a plane perpendicular to the axis and has its centre on the axis. Every Point in
+the rotating rigid body has the same angular velocity at any instant of time.
+
+4. In pure translation, every particle of the body moves with the same velocity at any
+instant of time.
+
+5. Angular velocity is a vector. Its magnitude is a) = dG/dt and it is directed along the axis
+of rotation. For rotation about a fixed axis, this vector a) has a fixed direction.
+
+2019-20

@@ -1,0 +1,90 @@
+(a) Non-polar molecules
+
+ 
+
+(b) Polar molecules
+
+ 
+
+ 
+
+E t 0 In an external electric field, the
+
+positive and negative charges of a non-
+
+EE 6:3 polar molecule are displaced in opposite
+directions. The displacement stops when
+
+€39 the external force on the constituent
+
+charges of the molecule is balanced by
+
+E3 E) Q the restoring force (due to internal ﬁelds
+in the molecule). The non-polar molecule
+
+€29 thus develops an induced dipole moment.
+The dielectric is said to be polarised by
+
+the external field. We consider only the
+
+simple situation when the induced dipole
+
+E 7, 0 moment is in the direction of the ﬁeld and
+is proportional to the ﬁeld strength.
+
+(Substances for which this assumption
+is true are called linear isotropic
+
+@ %
+Q dielectrics.) The induced dipole moments
+69
+
+g of different molecules add up giving a net
+dipole moment of the dielectric in the
+
+@ presence of the external ﬁeld.
+A dielectric with polar molecules also
+develops a net dipole moment in an
+external field, but for a different reason.
+
+ 
+
+FIGURE 2.22 A dielectric develops a net dipole In the absence ofany external field the
+
+moment in an external electric field. (a) Nonrpolar
+molecules. (13) Polar molecules.
+
+72
+
+different permanent dipoles are oriented
+randomly due to thermal agitation; so
+the total dipole moment is zero. When
+an external field is applied, the individual dipole moments tend to align
+with the field. When summed overall the molecules, there is then a net
+dipole moment in the direction of the external field, i.e., the dielectric is
+polarised. The extent of polarisation depends on the relative strength of
+two mutually opposite factors: the dipole potential energy in the external
+ﬁeld tending to align the dipoles with the ﬁeld and thermal energy tending
+to disrupt the alignment. There may be, in addition, the ‘induced dipole
+moment’ effect as for non-polar molecules, but generally the alignment
+effect is more important for polar molecules.
+
+Thus in either case, whether polar or non-polar, a dielectric develops
+a net dipole moment in the presence of an external field. The dipole
+moment per unit volume is called polarisation and is denoted by P. For
+linear isotropic dielectrics,
+
+P :16 E (2.37)
+
+where Xe is a constant characteristic of the dielectric and is known as the
+electric susceptibility of the dielectric medium.
+It is possible to relate Xe to the molecular properties of the substance,
+
+but we shall not pursue that here.
+
+The question is: how does the polarised dielectric modify the original
+external field inside it? Let us consider, for simplicity, a rectangular
+dielectric slab placed in a uniform external field E0 parallel to two of its
+faces. The ﬁeld causes a uniform polarisation P of the dielectric. Thus
+
+2019-20

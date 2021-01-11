@@ -1,0 +1,38 @@
+2.11 How Compliers Optimize 119
+Programmers concerned about performance of critical loops, especially in real  Understanding
+time or embedded applications, often find themselves staring at the assembly lan 
+Program
+guage produced by a compiler and wondering why the compiler failed to perform
+Performance
+some global optimization or to allocate a variable to a register throughout a loop.
+The answer often lies in the dictate that the compiler be conservative. The oppor 
+tunity for improving the code may seem obvious to the programmer, but then the
+programmer often has knowledge that the compiler does not have, such as the
+absence of aliasing between two pointers or the absence of side effects by a func 
+tion call. The compiler may indeed be able to perform the transformation with a
+little help, which could eliminate the worst-case behavior that it must assume.
+This insight also illustrates an important observation: programmers who use
+pointers to try to improve performance in accessing variables, especially pointers
+to values on the stack that also have names as variables or as elements of arrays,
+are likely to disable many compiler optimizations. The end result is that the lower 
+level pointer code may run no better, or perhaps even worse, than the higher-level
+code optimized by the compiler.
+Compilers must be conservative. The first task of a compiler is to produce
+correct code; its second task is usually to produce fast code although other fac 
+tors such as code size may sometimes be important as well. Code that is fast but
+incorrect- for any possible combination of inputs-is simply wrong. Thus,
+when we say a compiler is "conservative," we mean that it performs an optimiza 
+tion only if it knows with 100% certainty that, no matter what the inputs, the
+code will perform as the user wrote it. Since most compilers translate and opti 
+mize one function or procedure at a time, most compilers, especially at lower
+optimization levels, assume the worst about function calls and about their own
+parameters.
+Global Code Optimizations
+Many global code optimizations have the same aims as those used in the local
+case, including common subexpression elimination, constant propagation, copy
+propagation, and dead store and dead code elimination.
+There are two other important global optimizations: code motion and induc 
+tion variable elimination. Both are loop optimizations; that is, they are aimed at
+code in loops. Code motion finds code that is loop invariant: a particular piece of
+code computes the same value on every loop iteration and, hence, may be com 
+puted once outside the loop. Induction variable elimination is a combination of

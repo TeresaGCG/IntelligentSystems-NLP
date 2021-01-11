@@ -1,0 +1,33 @@
+2.3 Operands of the Computer Hardware 53
+Design Principle 2: Smaller is faster.
+A very large number of registers may increase the clock cycle time simply because
+it takes electronic signals longer when they must travel farther.
+Guidelines such as "smaller is faster" are not absolutes; 31 registers may not be
+faster than 32. Yet, the truth behind such observations causes computer designers
+to take them seriously. In this case, the designer must balance the craving of pro 
+grams for more registers with the designer's desire to keep the clock cycle fast.
+Another reason for not using more than 32 is the number of bits it would take in
+the instruction format, as Section 2.4 demonstrates.
+Chapters 5 and 6 show the central role that registers play in hardware construc 
+tion; as we shall see in this chapter, effective use of registers is key to program per 
+formance.
+Although we could simply write instructions using numbers for registers, from
+o to 31, the MI PS convention is to use two-character na mes following a dollar sign
+to represent a register. Section 2.7 will explain the reasons behind these names.
+For now, we will use $sO, $sl , ... for registers that correspond to variables in C
+and Java programs and $tO, H I, ... for temporary registers needed to compile
+the program into MIPS instructions.
+Compiling a C Assignment Using Registers
+It is the compiler's job to associate program variables with registers. Take, for EXAMPLE
+instance, the assignment statement from our ea rlier example:
+f = (g + h) - (i + j) ;
+The variables f , g, h, i , and j are assigned to the registers $sO, $sl , $s2,
+$s3, and $s 4, respectively. What is the compiled MIPS code?
+The compiled program is very similar to the prior example, except we replace ANSWER
+the variables with the register names mentioned above plus two temporary
+registers, $tO and $t I, which correspond to the temporary variables above:
+add $t O,$ sl , $s2 # r egis t e r $t O con t ains g + h
+#
+add $t1, $s3 , $s 4 r egis t e r $t1 contains i + j
+#
+sub $sO , $t O, $t l f get s $tO - HI, which is (g + h) - (i + j)

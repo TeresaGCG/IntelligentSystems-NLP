@@ -1,0 +1,70 @@
+MOTION IN A STRAIGHT LINE 63
+
+ 
+
+To calculate the area under this curve [Fig 3.3 1 (ii)], let us employ the following trick. Divide the
+interval on x—axis from a to b into a large number (N) of small intervals: x0(=a) to x1, x1 to x2 ; x2 to x3,
+................................ xNJ to xN (=b). The area under the curve is thus divided into N strips. Each strip
+is approximately a rectangle, since the variation of Ex) over a strip is negligible. The area of the it“
+strip shown [Fig 3.3 1(ii)] is then approximately
+
+Mi 2 F(Xi)(xi —Xi_1): F(Xi)AX
+
+where Axis the width of the strip which we have taken to be the same for all the strips. You may
+wonder whether we should put Ext-,1) or the mean of HXJ and Ext, 1) in the above expression. If we
+take N to be very very large (New ), it does not really matter, since then the strip will be so thin that
+the difference between FIxi) and H29: 1) is vanishingly small. The total area under the curve then is:
+
+N N
+A = 2AA, = ZFDq-Mx
+i=1 i=1
+
+The limit of this sum as New is known as the integral of Ex) over xfrom a to b. It is given a special
+symbol as shown below:
+
+b
+A _ J: F(x)dx
+
+The integral sign J looks like an elongated S, reminding us that it basically is the limit of the sum
+
+of an infinite number of terms.
+A most significant mathematical fact is that integration is, in a sense, an inverse of differentiation.
+
+dgm
+dx
+
+The function g (x) is known as the indefinite integral off (x) and is denoted as:
+
+ 
+
+Suppose we have a function g (x) whose derivative is f (x), i.e. f (X) =
+
+gtx) = J fix)dx
+
+An integral with lower and upper limits is known as a definite integral. It is a number. Indefinite
+integral has no limits; it is a function.
+
+A fundamental theorem of mathematics states that
+
+b
+J fix) dx = gtx) l: a gib) — 9(a)
+
+As an example, suppose f (x) = x2 and we wish to determine the value of the definite integral from
+x =1 to x = 2. The function g (x) whose derivative is x2 is x3 / 3. Therefore,
+
+32
+
+2
+
+2 _X_ _§_l_Z
+IX 61"‘3 ‘3 3‘3
+1
+
+ 
+
+1
+
+Clearly, to evaluate definite integrals, we need to know the corresponding indefinite integrals. Some
+common indefinite integrals are
+
+2019-20

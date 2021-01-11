@@ -1,0 +1,71 @@
+Electric Charges
+and Fields
+
+the field at any point on the spherical Gaussian surface has the
+same direction as the normal to the surface there, and has the same
+magnitude at all points on the surface.
+The charge q enclosed by the Gaussian surface is the positive nuclear
+charge and the negative charge within the sphere of radius r,
+
+41v3
+3
+Substituting for the charge density p obtained earlier, we have
+
+ 
+
+i.e.,q=Ze + p
+
+T3
+
+q = Ze — 28F
+Gauss’s law then gives,
+
+Ze i—L; r<R
+
+4 1: 80 r2 R3
+
+The electric field is directed radially outward.
+
+(ii) r > R: In this case, the total charge enclosed by the Gaussian
+spherical surface is zero since the atom is neutral. Thus, from Gauss’s
+law,
+
+E(r) X41: r2=0 or E(r)=0; r>R
+
+At r = R, both cases give the same result: E = O.
+
+E(r):
+
+ 
+
+St 'I EI’IdWVXﬂ
+
+ON SYMMETRY OPERATIONS
+
+In Physics, we often encounter systems with various symmetries. Consideration of these
+symmetries helps one arrive at results much faster than otherwise by a straightforward
+calculation. Consider, for example an infinite uniform sheet of charge (surface charge
+density (S) along the y-z plane. This system is unchanged if (a) translated parallel to the
+y—z plane in any direction, (b) rotated about the x—axis through any angle. As the system
+is unchanged under such symmetry operation, so must its properties be. In particular,
+in this example, the electric ﬁeld E must be unchanged.
+
+Translation symmetry along the y—axis shows that the electric ﬁeld must be the same
+at a point (0, yl, O) as at (O, y2, 0). Similarly translational symmetry along the z—axis
+shows that the electric field at two point (0, O, 21) and (O, O, Z2) must be the same. By
+using rotation symmetry around the x—axis, we can conclude that E must be
+perpendicular to the y—z plane, that is, it must be parallel to the x—direction.
+
+Try to think of a symmetry now which will tell you that the magnitude of the electric
+ﬁeld is a constant, independent of the x—coordinate. It thus turns out that the magnitude
+of the electric ﬁeld due to a uniformly charged inﬁnite conducting sheet is the same at all
+points in space. The direction, however, is opposite of each other on either side of
+the sheet.
+
+Compare this with the effort needed to arrive at this result by a direct calculation
+
+using Coulomb’s law.
+
+41
+
+2019-20

@@ -1,0 +1,59 @@
+Nuclei
+
+The composition of isotopes of an element can now be readily
+explained. The nuclei of isotopes of a given element contain the same
+number of protons, but differ from each other in their number of neutrons.
+Deuterium, 2H, which is an isotope of hydrogen, contains one proton
+and one neutron. Its other isotope tritium, 3H , contains one proton and
+two neutrons. The element gold has 32 isotopes, ranging from A = 1 73 to
+A = 204. We have already mentioned that chemical properties of elements
+depend on their electronic structure. As the atoms of isotopes have
+identical electronic structure they have identical chemical behaviour and
+are placed in the same location in the periodic table.
+
+All nuclides with same mass number A are called isobars. For
+example, the nuclides f’H and 3He are isobars. Nuclides with same
+neutron number N but different atomic number Z, for example 1;? Hg
+and 1397 Au, are called isotones.
+
+13.3 SIZE OF THE NUCLEUS
+
+As we have seen in Chapter 12, Rutherford was the pioneer who
+postulated and established the existence of the atomic nucleus. At
+Rutherford’s suggestion, Geiger and Marsden performed their classic
+experiment: on the scattering of a-particles from thin gold foils. Their
+experiments revealed that the distance of closest approach to a gold
+nucleus of an a-particle of kinetic energy 5.5 MeV is about 4.0 X 10‘14 m.
+The scattering of a-particle by the gold sheet could be understood by
+Rutherford by assuming that the coulomb repulsive force was solely
+responsible for scattering. Since the positive charge is confined to the
+nucleus, the actual size of the nucleus has to be less than 4.0 X 10—14m.
+
+If we use a—particles of higher energies than 5.5 MeV, the distance of
+closest approach to the gold nucleus will be smaller and at some point
+the scattering will begin to be affected by the short range nuclear forces,
+and differ from Rutherford’s calculations. Rutherford’s calculations are
+based on pure coulomb repulsion between the positive charges of the a-
+particle and the gold nucleus. From the distance at which deviations set
+in, nuclear sizes can be inferred.
+
+By performing scattering experiments in which fast electrons, instead
+of OL-particles, are projectiles that bombard targets made up of various
+elements, the sizes of nuclei of various elements have been accurately
+measured.
+
+It has been found that a nucleus of mass number A has a radius
+
+R =R0A1/3 (13.5)
+where R0 = 1.2 X 10‘15m (=1.2 fm; 1 frn = 10—15m). This means the volume
+of the nucleus, which is proportional to R3 is proportional to A. Thus the
+density of nucleus is a constant, independent of A, for all nuclei. Different
+nuclei are like a drop of liquid of constant density. The density of nuclear
+matter is approximately 2.3 X 1017 kg m‘3. This density is very large
+compared to ordinary matter, say water, which is 103 kg m‘3. This is
+understandable, as we have already seen that most of the atom is empty.
+Ordinary matter consisting of atoms has a large amount of empty space.
+
+2019-20
+
+441

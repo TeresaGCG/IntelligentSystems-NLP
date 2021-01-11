@@ -1,0 +1,26 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Linear Functions and Graphs
+Algebraic expressions can be thought of as a collection of instruc-
+tions. The steps involved in evaluating the expression 2x + 4 are:
+1. Take the value of x and double it.
+2. Take the number obtained in the previous step and add
+4 to it.
+When we talk about an algebraic expression it is convenient to have a
+name to associate with it. We can call an algebraic expression anything
+that we want. Most of the time we call algebraic expressions either ƒ(x)
+or y. The function name ƒ(x) is pronounced “ƒ of x.” The function ƒ(x)
+defined by ƒ(x) = 2x+ 4 would be read as “ƒ of x equals two x plus four.”
+The name is not as important as the set of instructions that goes along
+with it.
+Once you name an algebraic expression, a function is born. A func-
+tion usually involves two variables. One variable is contained in the alge-
+braic expression and is called the independent variable. The other variable
+is the name of the function and is called the dependent variable. We
+think of the dependent variable depending on the values of the indepen-
+dent variable.
+Before I talk about linear functions, I will need to discuss relations
+and functions in general, and point out their differences.
+Lesson 9-1: Relations and Functions
+A relation is a mathematical way of establishing a relationship be-
+tween two quantities. One of the quantities in the relationship is called
+159

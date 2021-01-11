@@ -1,0 +1,66 @@
+190
+
+ 
+
+ 
+
+i Physics
+
+BO=yOnI (512)
+
+If the interior of the solenoid is ﬁlled with a material with non-zero
+magnetisation, the ﬁeld inside the solenoid will be greater than BO. The
+net B ﬁeld in the interior of the solenoid may be expressed as
+
+B=BO+Bm (513
+
+where Bm is the field contributed by the material core. It turns out that
+this additional field Bm is proportional to the magnetisation M of the
+material and is expressed as
+
+Bm = #0M (5.14)
+
+where ,u0 is the same constant (permittivity of vacuum) that appears in
+Biot-Savart’s law.
+
+It is convenient to introduce another vector ﬁeld H, called the magnetic
+intensity, which is defined by
+
+B
+
+H=——M 1
+#0 (5. 5)
+
+where H has the same dimensions as M and is measured in units of A m‘l.
+Thus, the total magnetic ﬁeld B is written as
+
+B=MJH+M) 51m
+
+We repeat our deﬁning procedure. We have partitioned the contribution
+to the total magnetic ﬁeld inside the sample into two parts: one, due to
+external factors such as the current in the solenoid. This is represented
+by H. The other is due to the specific nature of the magnetic material,
+namely M. The latter quantity can be inﬂuenced by external factors. This
+inﬂuence is mathematically expressed as
+
+where x, a dimensionless quantity, is appropriately called the magnetic
+susceptibility. It is a measure of how a magnetic material responds to an
+external field. Table 5.2 lists xfor some elements. It is small and positive
+for materials, which are called paramagnetic. It is small and negative for
+materials, which are termed diamagnetic. In the latter case M and H are
+opposite in direction. From Eqs. (5.16) and (5.1 7) we obtain,
+
+32 ,uo(1+;()H (5.18)
+=%mH
+
+where (1: 1 + x, is a dimensionless quantity called the relative magnetic
+permeability of the substance. It is the analog of the dielectric constant in
+electrostatics. The magnetic permeability of the substance is ,u and it has
+the same dimensions and units as #0;
+
+u = (tort, = (to (1+1).
+
+The three quantities )5, ,ur and ,u are interrelated and only one of
+them is independent. Given one, the other two may be easily determined.
+
+2019-20

@@ -1,0 +1,39 @@
+536 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Elaboration: This simplified version assumes that the stack pointer (sp) is valid. To
+avoid the problem of a page fault during this low-level exception code, MIPS sets
+unmapped A portion of the aside a portion of its address space that cannot have page faults, called unmapped.
+address space that cannot have The operating system places exception entry point code and the exception stack in
+page faults. unmapped memory. MIPS hardware translates virtual addresses 8000 000Clt.ex to
+BFFF FFFF to physical addresses simply by ignoring the upper bits of the virtual
+hex
+address, thereby placing these addresses in the low part of physical memory. Thus,
+the operating system places exception entry points and exception stacks in
+unmapped memory.
+Elaboration: The code in Figure 7.28 shows the MIP&32 exception return sequence.
+MIPS-l uses rfe and j r instead of er et.
+Summary
+Virtual memory is the name for the level of memory hierarchy that manages cach 
+ing between the main memory and disk. Virtual memory allows a single program
+to expand its address space beyond the limits of main memory. More importantly,
+in recent computer systems virtual memory supports sharing of the main mem 
+ory among multiple, simultaneously active processes, which together require far
+more total physical main memory than exists. To support sharing, virtual mem 
+ory also provides mechanisms for memory protection.
+Managing the memory hierarchy between main memory and disk is challeng 
+ing because of the high cost of page faults. Several techniques are used to reduce
+the miss rate:
+I. Blocks, called pages, are made large to take adva ntage of spatial locality and
+to reduce the miss rate.
+2. The mapping between virtual addresses and physical addresses, which is
+implemented with a page table, is made fully associative so that a virtual
+page can be placed anywhere in main memory.
+3. The operating system uses techniques, such as LRU and a reference bit, to
+choose which pages to replace.
+Writes to disk are expensive, so virtual memory uses a write-back scheme and also
+tracks whether a page is unchanged (using a dirty bit) to avoid writing unchanged
+pages back to disk.
+The virtual memory mechanism provides address translation from a virtual
+address used by the program to the physical address space used for accessing
+memory. This address translation allows protected sharing of the main memory
+and provides several additional benefits, such as simplifying memory allocation.
+To ensure that processes are protected from each other requires that only the

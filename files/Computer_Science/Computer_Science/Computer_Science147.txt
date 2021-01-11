@@ -1,0 +1,45 @@
+2.15 Arrays versus Pointers 131
+clearl{i nt array[]. int size )
+{
+i nt
+" , ,
+foe { i ~ 0, < S1ze: +~ 1)
+array[i] 0,
+~
+I
+cl ear2{in t *ar ray. i nt size )
+{
+int *p:
+<
+for ( p &ar ray[O] : p &array[size]: p p + 1)
+= =
+*p 0:
+=
+I
+FIGURE 2.39 Two C procedures for setting an array to all zeros. C1ea rl uses indices, while
+c1e a r2 uses pointers. The second procedure needs some explanation for those unfantiliar with C. The
+address of a variable is indicated by &, and referring to the object pointed to by a pointer is indicated by *.
+The declarations declare that ar ray and pare pointers to integers. The first p.ut ofthefor loop in c1ear2
+assigns the address of the first elentent of ar ray to the pointer p.The second part of thefor loop tests to
+see if the pointer is pointing beyond the last element of array. Incrementing a pointer by one, in the last
+part of thefor loop, means moving the pointer to the next sequential object of its declared size.Since p is a
+pointer to integers, the contpiler wiU generate MIPS instructions to increntent p by four, the number of
+bytes in a MIPS integer. The assignntent in the loop places 0 in the object pointed to by p.
+The initialization of i, the first part of the for loop, is straightforward:
+move HO.$zero It i 0 (register $tO 0)
+= =
+To set a rray[ i] to 0 we must first get its address. Start by multiplying i by 4 to
+get the byte address:
+loopl : sl1 Itl,ltO,2 It $t1 i * 4
+=
+Since the starting address of the array is in a register, we must add it to the index
+to get the address of a rray[ i] using an add instruction:
+add HZ.$aO.$t1 # $t2 address of array[i]
+=
+II
+(This example is an ideal situation for indexed addressing; see In More Depth
+in Section 2.20 on page 147.) Finally, we ca n store 0 in that address:
+sw $zero. 0(H2) It array[i] 0
+=
+This instmction is the end ofthe body ofthe loop, so the next step is to increment i:
+addi ItO,ltO,l Iti = i + l

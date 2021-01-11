@@ -1,0 +1,67 @@
+Current
+Electricity
+
+immediately gives us the relations I1 = I3 and I2 = I 4. Next, we apply
+Kirchhoffs loop rule to closed loops ADBA and CBDC. The first
+
+loop gives
+
+—11R1+0+12R2=0 (Ig=0) (3.81)
+and the second loop gives, upon using I3 = 11, I 4 = I2
+
+I2 R4+0—I1 R3=O (3.82)
+From Eq. (3.81), we obtain,
+
+1_1 2 i
+
+12 R1
+whereas from Eq. (3.82), we obtain,
+
+1_1 _ £
+
+12 R3
+Hence, we obtain the condition
+
+& _ &
+
+R1 R3 [3.83(a)]
+
+This last equation relating the four resistors is called the balance
+condition for the galvanometer to give zero or null deﬂection.
+
+The Wheatstone bridge and its balance condition provide a practical
+method for determination of an unknown resistance. Let us suppose we
+have an unknown resistance, which we insert in the fourth arm; R4 is
+thus not known. Keeping known resistances R1 and R2 in the first and
+second arm of the bridge, we go on varying R3 till the galvanometer shows
+a null deﬂection. The bridge then is balanced, and from the balance
+condition the value of the unknown resistance R 4 is given by,
+
+_ &
+R4 —R3 R1 [3.83(b)]
+
+A practical device using this principle is called the meter bridge. It
+will be discussed in the next section.
+
+Example 3.8 The four arms of a Wheatstone bridge (Fig. 3.26) have
+
+the following resistances:
+AB = 1009, BC = 109, CD = 59, and DA = 609.
+
+ 
+
+FIGURE 3.26
+
+2019-20
+
+FIGURE 3. 25
+
+El
+E
+E
+9’
+co
+
+ 
+
+119

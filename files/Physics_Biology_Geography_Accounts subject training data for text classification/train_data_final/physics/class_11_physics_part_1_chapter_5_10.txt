@@ -1,0 +1,111 @@
+LAWS OF MOTION
+
+ 
+
+The total momentum of an isolated system
+of interacting particles is conserved.
+
+An important example of the application of the
+law of conservation of momentum is the collision
+of two bodies. Consider two bodies A and B, with
+initial momenta p A and p3. The bodies collide,
+get apart, with final momenta p’A and p’B
+respectively. By the Second Law
+
+FABAt 2 PA — PA and
+
+FBAAt = P’B — PB
+(where we have taken a common interval of time
+
+for both forces i.e. the time for which the two
+bodies are in contact.)
+
+Since F AB = —FBA by the third law,
+p’A — pA = -(pia — p3)
+
+Le. P’A + P’B 2 PA + PB (5'9)
+which shows that the total final momentum of
+the isolated system equals its initial momentum.
+Notice that this is true whether the collision is
+elastic or inelastic. In elastic collisions, there is
+a second condition that the total initial kinetic
+
+energy of the system equals the total final kinetic
+energy (See Chapter 6).
+
+5.8 EQUILIBRIUM OF A PARTICLE
+
+Equilibrium of a particle in mechanics refers to
+the situation when the net external force on the
+particle is zero’." According to the first law, this
+means that, the particle is either at rest or in
+uniform motion.
+
+If two forces F1 and F2, act on a particle,
+equilibrium requires
+
+F1 = _F2 (5.10)
+
+i.e. the two forces on the particle must be equal
+
+and opposite. Equilibrium under three
+concurrent forces F1, F2 and F3 requires that
+the vector sum of the three forces is zero.
+
+F1+F2 +F3 = o (5.11)
+
+* Equilibrium of a body requires not only translational equilibrium (zero net external force) but also rotational
+
+99
+
+ 
+
+Fig. 5. 7 Equilibrium under concurrent forces.
+
+In other words, the resultant of any two forces
+say F1 and F2, obtained by the parallelogram
+law of forces must be equal and opposite to the
+third force, F3. As seen in Fig. 5.7, the three
+forces in equilibrium can be represented by the
+sides of a triangle with the vector arrows taken
+in the same sense. The result can be
+generalised to any number of forces. A particle
+is in equilibrium under the action of forces F1,
+F2, Fn if they can be represented by the sides
+of a closed n-sided polygon with arrows directed
+in the same sense.
+
+Equation (5.1 1) implies that
+
+F1x + F2x+ F3x = 0
+
+Fly + FZy + Fsy = 0
+
+F12 +FZZ+F3Z=O (5.12)
+
+where FIX, Fly and F12 are the components of F1
+along x, y and 2 directions respectively.
+
+ 
+
+> Example 5.6 See Fig. 5.8. A mass 0f6 kg
+is suspended by a rope of length 2 m
+from the ceiling. A force of 50 N in the
+horizontal direction is applied at the mid
+point P of the rope. as shown. What is the
+angle the rope makes with the vertical in
+equilibrium ? (Take g = 10 m s2). Neglect
+the mass of the rope.
+
+ 
+
+   
+
+60N
+
+(a) (b) (C)
+Fig. 5.8
+
+equilibrium (zero net external torque), as we shall see in Chapter 7.
+
+2019-20

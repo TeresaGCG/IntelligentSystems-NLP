@@ -1,0 +1,46 @@
+512 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+overlay that was not loaded and that the overlays loaded never exceeded the total
+size of the memory. Overlays were traditionally organized as modules, each con 
+taining both code and data. Calls between procedures in different modules would
+lead to overlaying of one module with another.
+As you can well imagine, this responsibility was a substantial burden on pro 
+grammers. Virtual memory, which was invented to relieve programmers of this
+difficulty, automatically manages the two levels of the memory hierarchy repre 
+sented by main memory (sometimes called physical memory to distinguish it from
+virtual memory) and secondary storage.
+Although the concepts at work in virtual memory and in caches are the
+same, their differing historical roots have led to the use of different termin 
+ology. A virtual memory block is called a page, and a virtual memory miss is
+called a page fault. With virtual memory, the processor produces a virtual
+page fault An event that occurs
+when an accessed page is not address, which is translated by a combination of hardware and softwa re to a
+present in main memory. physical address, which in turn can be used to access main memory.
+Figure 7. 19 shows the virtually addressed memory with pages mapped to main
+virtual address An address
+memory. This process is called address mapping or address translation. Today,
+that corresponds to a location in
+virtual space and is translated by the two memory hiera rchy levels controlled by virtual memory are DRAMs
+address mapping to a physical
+address when memory is
+accessed.
+Virtual addresses Physical addresses
+address translation Also Address translation
+called address mapping. The /
+•
+process by which a virtual
+~ /
+address is mapped to an address
+lIsed to access memory.
+/' •
+V
+~
+::.!:
+Disk addresses
+FIGURE 7.19 In virtual memory, blocks of memory (called pages) are mapped from one
+set of addresses (called vITfualaddresses) to another set (called physical addresses).
+The processor generates virtual addresses while the memory is accessed U'iing physical addresses. Both the
+virtual memory and the physical memory are broken into pages, so that a virtual p.1ge is really mapped to a
+physical page. Of course, it is also possible for a virtual page to be absent from main memory and not be
+mapped to a physical address, residing instead on disk. Physical P.1ges can be shared by having two virtual
+addresses point to the same physical address. This capability is used to allowtwo different programs to share
+data or code.

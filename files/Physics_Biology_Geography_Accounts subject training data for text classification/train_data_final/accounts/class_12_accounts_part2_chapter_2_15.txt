@@ -1,0 +1,56 @@
+Issue and Redemption of Debentures 87
+
+Sundry Assets A/c Dr.
+
+To Sundry Liabilities A/c
+To Vendors
+
+(Purchase of the Vendors’ business)
+
+Illustration 1 O
+
+Romi Ltd. acquired assets of Rs. 20 lakh and took over creditors of Rs. 2 lakh
+from Kapil Enterprises. Romi Ltd., issued 8% debentures of Rs 100 each at par
+as purchase consideration. Record necessary journal entries in the books of
+Romi Ltd.
+
+Solution:
+
+Books of Romi Ltd.
+Journal
+
+Date Particulars Debit Credit
+Amount Amount
+{Rs} {Rs}
+
+Sundry Assets A/c 20,00,000
+
+To Kapil Enterprises 18,00,000
+To Sundry Creditors A/c 2,00,000
+
+(Purchase of business from Kapil Enterprises)
+
+Kapil Enterprises . 18,00,000
+
+To 8% Debentures A/c 18,00,000
+
+(Issue of 18,000, 8% debentures of
+Rs 100 each)
+
+ 
+
+In case of the whole business being taken over if the amount of debentures
+issued is more than the amount of the net assets taken over, the difference (excess)
+will be treated as value of goodwill and the same shall also be debited while
+passing the journal entry for the purchase of vender's business (see Illustration
+1 1). But if it is the other way round, i.e., the value of debentures is less than the
+value of the net assets taken over the difference will be credited to capital Reserve
+accounts (See Illustration 12).
+
+Illustration 1 1
+
+Blue Prints Ltd., purchased building worth Rs.1,50,000, machinery worth
+Rs. 1,40,000 and furniture worth Rs. 10,000 from XYZ Co., and took over its
+liabilities of Rs. 20,000 for a purchase consideration of Rs. 3,1 5,000. Blue Prints
+Ltd., paid the purchase consideration by issuing 12% debentures of Rs. 100
+each at a premium of 5%. Record necessary journal entries.

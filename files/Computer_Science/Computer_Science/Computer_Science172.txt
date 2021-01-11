@@ -1,0 +1,28 @@
+Computers
+Helping Save Our
+in the
+Environment with Data
+Real World
+Problem to solve: Monitor plants and ani  other measurements. Data are saved in 1 MB of
+mals of our environment to collect information flash memory. The onboard 8-bit microproces 
+that may influence environmental polices. sor estimates depth from the water pressme. It
+finds longitude using light intensity data and
+Solution: Develop rugged, battery-operated, time of day. It determines sunrise, sunset, and
+embedded computers with sensors, wireless therefore high noon, and calculates the time shift
+communication, and appropriate software.
+between local noon and Greenwich Mean Time
+Stanford biologist Barbara Block studies noon, like a navigator using a sextant and chro 
+bluefin tuna. One policy question was whether nometer. The water temperature is later matched
+the tuna on one side of the Atlantic are differ 
+to satellite records to determine latitude. Block
+ent from those on the other side. If so, then
+does not rely on fishermen to catch the tuna and
+each region could set its own quotas. If not, retmn PSATs. A PSAT is attached to a fish with a
+then we need oceanwide quotas. pin that dissolves via electrolysis after the com 
+To answer this question, she started implant  puter tmns on a battery. The tag then floats to
+ing tuna with devices that could monitor their the surface and begins transmitting data to satel 
+journeys. Every two minutes a pop-up satellite lites. The floating tag can transmit for up to two
+archival tag (PSAT) records water pressme, weeks, sending the data directly to Block's lab.
+ambient light, temperatme, time of day, and
+Block and students tag a bluefln tuna, which can A pop-up archival satellite tag and Internal
+grow to 2000 pounds and 10 feet In length. electronics.

@@ -1,0 +1,42 @@
+2.10 Translating and Starting a Program 107
+Compiler
+The compiler transforms the C program into an assembly language program, a
+symbolic form of what the machine understands. High-level-language programs
+take many fewer lines of code than assembly language, so programmer productiv 
+ity is much higher.
+In 1975, many operating systems and assemblers were written in assembly lan  assembly language A sym 
+bolic language that can be trans 
+guage because memories were small and compilers were inefficient. The 128,000 
+lated into binary.
+fold increase in mem ory capacity per single DRAM chip has reduced program size
+concerns, and optimizing compilers today can produce assembly language pro 
+grams nearly as good as an assembly language expert, and sometimes even better
+for large programs.
+Assembler
+As mentioned on page 96, since assembly language is the interface to higher-level soft 
+ware, the assembler can also treat common variations of maclline language instmc 
+tions as ifthey were instructions in their own right. The hardware need not implement
+these instmctions; however, their appearance in assembly language simplifies transla 
+tion and programming. Such instmctions are called pseudoinstructions. pseudoinstruction A com 
+As mentioned above, the MIPS hardware makes sure that register $zer o mon variation of assembly lan 
+guage instructions often treated
+always has the value O. That is, whenever register $zero is used, it supplies a 0,
+as ifit were an instruction in its
+and the programmer cannot change the value of register $zer ooRegister $ze ro is
+own right.
+used to create the assembly language instruction move that copies the contents of
+one register to another. Thus the MIPS assembler accepts this instruction even
+though it is not found in the MIPS architecture:
+move $t O, $tl # r egis t er $t O get s regis t er $t l
+The assembler converts this assembly language instruction into the machine lan 
+guage equivalent of the following instruction:
+add $t O, $zer o , $t l # r egis t er $t O get s 0 + r egis t er $t l
+The MIPS assembler also converts b1t (branch on less than) into the two
+instructions s 1t and bne mentioned in the example on page 96. Other examples
+include bgt, bge, and b1e. It also converts branches to faraway locations into a
+branch and jump. As mentioned above, the MIPS assembler allows 32-bit constants
+to be loaded into a register despite the 16-bit limit of the immediate instmctions.
+In summary, pseudoinstructions give MIPS a richer set of assembly language
+instructions than those implemented by the hardwa re. The only cost is reserving
+one register, $a t , for use by the assembler. If you are going to write assembly pro 
+grams, use pseudoinstructions to simplify your task. To understand the MIPS

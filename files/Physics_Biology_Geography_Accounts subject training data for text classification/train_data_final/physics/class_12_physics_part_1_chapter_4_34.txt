@@ -1,0 +1,51 @@
+3.009
+3.00 V
+FIGURE 4.27
+Solution
+(a) Total resistance in the circuit is,
+RG +3 = 639. Hence, I = 3/63 = 0.048 A.
+(b) Resistance of the galvanometer converted to an ammeter is,
+RG rs _ 60 S2 x0029
+RG + rs (60 +0.02)s2 z 0029
+Total resistance in the circuit is,
+0.029 + 39 = 3.0252. Hence, I = 3/3.02 = 0.99 A.
+(c) For the ideal ammeter with zero resistance,
+I = 3/3 = 1.00 A
+SUMMARY
+
+1. The total force on a charge q moving with velocity v in the presence of
+magnetic and electric fields B and E, respectively is called the Lorentz
+force. It is given by the expression:
+
+F = q (v x B + E)
+The magnetic force q (v X B) is normal to v and work done by it is zero.
+
+2. A straight conductor of length l and carrying a steady current I
+experiences a force F in a uniform external magnetic field B,
+
+F = I l X B
+wherelll = l and the direction of l is given by the direction of the
+current.
+
+3. In a uniform magnetic field B, a charge q executes a circular orbit in
+a plane normal to B. Its frequency of uniform circular motion is called
+the cyclotron frequency and is given by:
+
+B
+Vc = q
+2 n m
+This frequency is independent of the particle’s speed and radius. This
+fact is exploited in a machine, the cyclotron, which is used to
+accelerate charged particles.
+
+4. The Biot—Savart law asserts that the magnetic field dB due to an
+element d1 carrying a steady current I at a point P at a distance r from
+the current element is:
+
+#0 dl x r
+dB = — I
+166 47: r3
+
+2019-20
+
+SI 'f 31mg

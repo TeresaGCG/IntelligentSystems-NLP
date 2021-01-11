@@ -1,0 +1,78 @@
+l Physics
+
+ 
+
+interference. Thomas Young had expected it because he believed
+in the wave theory of light.
+
+We should mention here that the fringes are straight lines although
+S1 and 82 are point sources. If we had slits instead of the point sources
+(Fig. 10. 14), each pair of points would have produced straight line fringes
+resulting in straight line fringes with increased intensities.
+
+single slits
+
+ 
+
+source. lwu slits
+—b
+—b S 1 Screen with fringes.
+—b
+s, S. H”
+I
+[max
+
+ 
+
+3121.131 013k 23k 37L
+
+—> Path difference
+
+FIGURE 10.14 Photograph and the graph of the intensity
+distribution in Young's double—slit experiment.
+
+Interactive animation of Young's experiment
+
+h ttp://vsg.quasi home.com/i nterfer. himl
+
+Example 10.3 Two slits are made one millimetre apart and the screen
+is placed one metre away. What is the fringe separation when blue-
+green light of wavelength 500 nm is used?
+
+—7
+Solution Fringe spacing = D—1 = w m
+
+d 1><10‘3
+=5x 10‘4m=0.5mm
+
+'0
+.1 h‘
+:5:
+EXAMPLE 10.3
+
+Example 10.4 What is the effect on the interference fringes in a
+Young’s double-slit experiment due to each of the following operations:
+
+(a) the screen is moved away from the plane of the slits;
+
+(b) the (monochromatic) source is replaced by another
+(monochromatic) source of shorter wavelength;
+
+(0) the separation between the two slits is increased;
+((1) the source slit is moved closer to the double-slit plane;
+(e) the width of the source slit is increased;
+
+(f) the monochromatic source is replaced by a source of white
+light?
+
+‘1
+o
+H
+g
+m
+
+366
+
+ 
+
+2019-20

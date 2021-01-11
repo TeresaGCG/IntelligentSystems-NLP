@@ -1,0 +1,78 @@
+180
+
+Solute
+molecule
+
+Water
+
+ 
+
+Figure 1 1 .3
+
+BIOLOGY
+
+this increases the pressure potential. Pressure potential is usually
+positive, though in plants negative potential or tension in the water column
+in the xylem plays a major role in water transport up a stem. Pressure
+potential is denoted as ‘I‘p.
+
+Water potential of a cell is affected by both solute and pressure
+potential. The relationship between them is as follows:
+
+ 
+
+ 
+
+ 
+
+A
+
+1 1 .2.2 Osmosis
+
+The plant cell is surrounded by a cell membrane and a cell wall. The cell
+wall is freely permeable to water and substances in solution hence is not
+a barrier to movement. In plants the cells usually contain a large central
+vacuole, whose contents, the vacuolar sap, contribute to the solute
+potential of the cell. In plant cells, the cell membrane and the membrane
+of the vacuole, the tonoplast together are important determinants of
+movement of molecules in or out of the cell.
+
+Osmosis is the term used to refer speciﬁcally to the diffusion of water across
+a differentially- or selectively permeable membrane. Osmosis occurs
+spontaneously in response to a driving force. The net direction and rate of osmosis
+depends on both the pressure gradient and concentration gradient. Water
+will move from its region of higher chemical potential (or concentration) to its
+region of lower chemical potential until equilibrium is reached. At equilibrium
+the two chambers should have nearly the same water potential.
+
+You may have made a potato osmometer in your earlier classes in
+school. If the potato tuber is placed in water, the water enters the cavity in
+the potato tuber containing a concentrated solution of sugar due to osmosis.
+
+Study Figure 1 1.3 in which the two chambers, A and B, containing
+solutions are separated by a semi-permeable membrane.
+
+(a) Solution of which chamber has a lower water potential?
+(b) Solution of which chamber has a lower solute potential?
+
+(c) In which direction will osmosis occur?
+
+(d) Which solution has a higher solute
+potential?
+
+(e) At equilibrium which chamber will
+have lower water potential?
+
+0‘) If one chamber has a ‘I‘ of — 2000
+kPa, and the other— 1 000 kPa, which
+is the chamber that has the higher
+‘I‘?
+
+(g) What will be the direction of the
+movement of water when two
+solutions with ‘I‘W = 0.2 MPa and
+‘I‘W= 0.1 MPa are separated by a
+selectively permeable membrane?
+
+Selectively permeable
+membrane

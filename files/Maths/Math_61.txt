@@ -1,0 +1,23 @@
+Operations With Fractions
+61
+So 100 is the common denominator. Change each fraction so that
+its denominator is 100:
+Finally, add the two fractions together:
+Check to see if any reduction is possible. Because 57 and 100 are
+relatively prime, no further reduction is possible, and the problem
+is solved.
+Lesson 3-4 Review
+Find the following sums:
+1. 2. 3.
+Lesson 3-5: Subtracting Fractions
+Subtracting fractions is very similar to adding fractions. The denomi-
+nators of the two fractions must be the same in order to be subtracted.
+Remember that, like integers, fractions can be positive or negative. When
+you practiced adding and subtracting integers you had to pay attention to
+the signs of the integers involved. Subtracting a negative integer was
+equivalent to adding the corresponding positive integer, since two nega-
+tives make a positive. You must pay attention to the signs of the two
+fractions involved in the subtraction, and subtracting a negative fraction
+will be equivalent to adding a positive fraction.
+Example 1
+Evaluate:

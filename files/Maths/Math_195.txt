@@ -1,0 +1,35 @@
+Algebra and Geometry
+195
+So, the length of the hypotenuse is 5. The length of the hypotenuse is
+the distance between the points (0, 0) and (3, 4), so the distance between
+the points (0, 0) and (3, 4) is 5.
+You may be wondering how I knew to use the point (3, 0) to help me
+find the distance between (0, 0) and (3, 4). I didn’t just pull it out of thin
+air. I just took the first coordinate of one of the points and the second
+coordinate of the other point, and put them together to make a new point.
+I could have made the point (0, 4), but then the right triangle that I cre-
+ated would have been upside down. No one likes to work on triangles that
+are upside down.
+We can derive a general equation to find the distance between two
+points. We will call this equation the distance formula. The distance
+formula will enable us to calculate the distance between two points with-
+out having to draw a picture and find the (now not-so) mysterious third
+point. The distance formula is certainly a shortcut to solving these types
+of problems, and it is definitely worth remembering. But some people,
+myself included, find it difficult to
+memorize formulas. I prefer to under-
+(c, d)
+stand where the formulas come from.
+That way, if I forget the formula I can
+always solve the problem by using ge-
+ometry and the Pythagorean Theorem.
+We will derive a formula to find the
+distance between two points (a, b) and
+(c, d). First, introduce the point (c, b),
+as shown in Figure 10.13. This is the
+magical third point that will form a right (a, b) (c, b)
+triangle.
+Notice that the two points (a,b) and  Figure 10.13
+(c, b) lie on a horizontal line, because
+the two y-coordinates are the same. Also, the two points (c,d) and (c,b)
+lie on a vertical line, because the two x-coordinates are the same. The

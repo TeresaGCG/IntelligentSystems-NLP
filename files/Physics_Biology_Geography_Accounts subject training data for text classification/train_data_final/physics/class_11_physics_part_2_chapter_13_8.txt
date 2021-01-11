@@ -1,0 +1,35 @@
+Maxwell Distribution Function
+
+In a given mass of gas. the velocities of all molecules are not the same. even when bulk
+parameters like pressure. volume and temperature are fixed. Collisions change the direction
+and the speed of molecules. However in a state of equilibrium. the distribution of speeds is
+constant. or fixed.
+
+Distributions are very important and useful when dealing with systems containing large
+number of objects. As an example consider the ages of different persons in a city. It is not
+feasible to deal with the age of each individual. We can divide the people into groups: children
+up to age 20 years. adults between ages of 20 and 60. old people above 60. If we want more
+detailed information we can choose smaller intervals, 0- 1, 1-2 ..... 99—100 of age groups. When
+the size of the interval becomes smaller, say half year, the number of persons in the interval
+will also reduce. roughly half the original number in the one year interval. The number of
+persons dN(x] in the age interval xand x+dx is proportional to dx or dN(x) = nv dx. We have
+used nx to denote the number of persons at the value of x. I
+
+0.5 1 Av 1.5 2.0 (v/vms)
+
+Maxwell distribution of molecular speeds
+
+In a similar way the molecular speed distribution gives the number of molecules between
+the speeds u and 0+ dv. dN(v) = 4p N a3e’bl'2 02 do = nvdv. This is called Maxwell distribution.
+The plot of n\, against v is shown in the figure. The fraction of the molecules with speeds v and
+v+dv is equal to the area of the strip shown. The average of any quantity like v2 is defined by
+the integral <v2> = (1 / N ) J. v2 dN(v) = \I(3kB T/ m] which agrees with the result. derived from
+more elementary considerations.
+
+Example 13.6 Uranium has two isotopes
+of masses 235 and 238 units. If both are
+present in Uranium hexaﬂuoride gas which
+would have the larger average speed ‘? If
+atomic mass of fluorine is 19 units.
+estimate the percentage difference in
+speeds at any temperature.

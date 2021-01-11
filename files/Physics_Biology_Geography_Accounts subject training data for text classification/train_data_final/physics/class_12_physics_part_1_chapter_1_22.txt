@@ -1,0 +1,98 @@
+Electric Charges
+and Fields
+
+The electric field vector E1B at B due to the positive charge q1 points
+towards the left and has a magnitude
+_ (9 xiogNm2c-2) >< (1045C) _
+
+E _—— 3.6 x 104 N c—1
+“3 (0.05m)2
+
+The electric field vector E2B at B due to the negative charge q2 points
+towards the right and has a magnitude
+
+(9 x 109Nm2C'2)><(10‘8C) _
+E2B = —2 _
+(0.15m)
+
+The magnitude of the total electric field at B is
+
+EB = EIB — E2B = 3.2 x 104 N 0‘1
+
+EB is directed towards the left.
+
+The magnitude of each electric field vector at point C, due to charge
+q1 and q2 is
+
+4 x 103 NC‘1
+
+_ (9 x lOQNmZC‘2)><(10_8C) =
+_ (0.10m)2
+
+The directions in which these two vectors point are indicated in
+Fig. 1.14. The resultant of these two vectors is
+
+E1C = E2C 9 x 103 N C‘1
+
+EC=E1cos g+E2COS 3: 9X 103 NC’1
+
+EC points towards the right.
+
+1.9 ELECTRIC FIELD LINES
+
+We have studied electric ﬁeld in the last section. It is a vector quantity
+and can be represented as we represent vectors. Let us try to represent E
+due to a point charge pictorially. Let the point charge be placed at the
+origin. Draw vectors pointing along the direction of the electric field with
+their lengths proportional to the strength of the field at
+
+each point. Since the magnitude of electric ﬁeld at a point
+
+decreases inversely as the square of the distance of that
+
+point from the charge, the vector gets shorter as one goes \
+away from the origin, always pointing radially outward.
+
+Figure 1.15 shows such a picture. In this figure, each \
+
+unit positive charge, placed at the tail of that arrow.
+
+arrow indicates the electric ﬁeld, i.e., the force acting on a \
+
+6' I EI’IJNVXﬂ
+
+/
+
+T
+T /
+i/
+
+Connect the arrows pointing in one direction and the <— <— <—.—> —> —>
+
+ﬁeld lines, all pointing outwards from the point charge.
+
+Have we lost the information about the strength or /
+magnitude of the ﬁeld now, because it was contained in /
+the length of the arrow? No. Now the magnitude of the
+
+ﬁeld is represented by the density of ﬁeld lines. E is strong
+
+near the charge, so the density of field lines is more near
+
+resulting figure represents a ﬁeld line. We thus get many / l \
+
+l\\
+
+l
+
+the charge and the lines are closer. Away from the charge, FIGURE 1 _ 15 Field of a point charge.
+
+the ﬁeld gets weaker and the density of ﬁeld lines is less,
+resulting in well-separated lines.
+
+Another person may draw more lines. But the number of lines is not
+important. In fact, an inﬁnite number of lines can be drawn in any region.
+
+2019-20
+
+23

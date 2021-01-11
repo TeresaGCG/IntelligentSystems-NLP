@@ -1,0 +1,26 @@
+Homework Helpers: Basic Math and Pre-Algebra
+224
+Solution: Let w represent the kWh used, and let B represent the
+monthly bill. We have the following equation:
+B= 10+ 0.04w
+We need to evaluate this equation when w = 1,500:
+B= 10+ 0.04w
+= 10+ 0.04 ⋅ 1,500
+= 10+ 60
+= 70
+Robert’s electric bill will be $70.
+Example 4
+Cameron spent   of his money on video games. He has $30 left.
+How much did he have to start with?
+Solution: Let m represent the money Cameron spent on video
+games, and let S represent the money he started with. The money
+he started with is split up into two groups: the money he has left
+and the money he spent on games. He spent   of the money he
+started with on games. We can write the following equation:
+We can now solve for S:
+Subtract  from both sides
+Simplify
+Multiply both sides by 3
+Simplify
+Cameron started out with $90.
+www.ebook3000.com

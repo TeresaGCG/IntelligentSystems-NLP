@@ -1,0 +1,27 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Operations With Fractions
+Real numbers belong to one of two camps. A real number can either
+be written as a ratio of two integers, or it can’t. A number that can be
+written as a ratio of two integers is called a rational number. A number
+that cannot be written as a ratio of two integers is called an irrational
+number. In this chapter we will focus on rational numbers. Irrational
+numbers will be discussed briefly in Chapter 4.
+A rational number is often called a fraction, though the definition of a
+fraction isn’t as precise as that of a rational number. Some people use the
+wordfraction to describe the ratio of two numbers that may, or may not be,
+integers. I will use the word fraction to mean a rational number. A fraction
+is written  , and it means the same thing as a ÷ b. In the fraction  , the
+number a is called the numerator of the fraction and the number b is
+called the denominator of the fraction. Remember that when you look at
+a fraction as a division problem, the number a is called the dividend and
+the number b is called the divisor. In other words, numerators and divi-
+dends represent the same thing, as do denominators and divisors. It is also
+important to remember that integers, as in the number 3 or the number 7,
+can be thought of as fractions. In the same way that the sign is implied with
+a positive number, the denominator of 1 is implied with integers.
+One of the most interesting fractions is the number 1. It has many
+forms: It can be written as   This is an important property of 1
+that we will use repeatedly. In general, any non-zero number divided by
+itself is 1, so we can represent 1 as the ratio of any non-zero number to
+itself. In other words, if a represents any non-zero number, then  .
+49

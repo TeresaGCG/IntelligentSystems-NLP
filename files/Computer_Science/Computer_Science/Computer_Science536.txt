@@ -1,0 +1,44 @@
+520 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+allows the page table to grow as a process consumes more space. Thus, the page
+table will only be large if the process is using many pages of virtual address space.
+This technique requires that the address space expand in only one direction.
+2. Allowing growth in only one direction is not sufficient, since most languages re 
+quire two areas whose size is expandable: one area holds the stack and the other
+area holds the heap. Because of this duality, it is convenient to divide the page
+table and let it grow from the highest address down, as well as from the lowest
+address up. This means that there will be two separate page tables and two sep 
+arate limits. The use of two page tables breaks the address space into two seg 
+ments. The high-order bit of an address usually determines which segment and
+thus which page table to use for that address. Since the segment is specified by
+the high-order address bit, each segment can be as large as one-half of the ad 
+dress space. A limit register for each segment specifies the current size ofthe seg 
+ment, which grows in units of pages. This type of segmentation is used by many
+architectures, including MIPS. Unlike the type of segmentation discussed in the
+Elaboration on page 514, this form of segmentation is invisible to the application
+program, although not to the operating system. The major disadvantage of this
+scheme is that it does not work well when the address space is used in a sparse
+fashion rather than as a contiguous set of virtual addresses.
+3. Another approach to reducing the page table size is to apply a hashing function to
+the virtual address so that the page table data structure need be only the size of
+the number of physical pages in main memory. Such a structure is called an invert 
+ed page table. Of course, the lookup process is slightly more complex with an in 
+verted page table because we can no longer just index the page table.
+4. Multiple levels of page tables can also be used to reduce the total amount of page
+table storage. The first level maps large fixed-size blocks of virtual address space,
+perhaps 64 to 256 pages in total. These large blocks are sometimes called seg 
+ments, and this first-level mapping table is sometimes called a segment table,
+though the segments are invisible to the user. Each entry in the segment table in 
+dicates whether any pages in that segment are allocated and, if so, points to a
+page table for that segment. Address translation happens by first looking in the
+segment table, using the highest-order bits of the address. If the segment address
+is valid, the next set of high-order bits is used to index the page table indicated by
+the segment table entry. This scheme allows the address space to be used in a
+sparse fashion (multiple noncontiguous segments can be active) without having to
+allocate the entire page table. Such schemes are particularly useful with very large
+address spaces and in software systems that require noncontiguous allocation.
+The primary disadvantage of this two-level mapping is the more complex process
+for address translation.
+5. To reduce the actual main memory tied up in page tables, most modern systems
+also allow the page tables to be paged. Although this sounds tricky, it works by
+using the same basic ideas of virtual memory and simply allowing the page tables
+to reside in the virtual address space. In addition, there are some small but critical

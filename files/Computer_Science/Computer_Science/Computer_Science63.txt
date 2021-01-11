@@ -1,0 +1,22 @@
+2.1 Introduction 48
+2.2 Operations of the Computer Hardware 49
+2.3 Operands of the Computer Hardware 52
+2.4 Representing Instructions in the Computer 60
+2.5 Logical Operations 68
+2.6 Instructions for Making Decisions 72
+2.7 Supporting Procedures in Computer Hardw.e 79
+2.8 Communicating with People 90
+2.9 MIPS Addressing for 32·Bit Immediates and Addresses 95
+2.10 Translating and StMing a Program 106
+2.11 How Compilers Optimize 116
+.. 2.12 How Compilers Work: An Introduction 121
+2.13 A C Sort Example to Put tt All Together 121
+.. 2.14 Implementing an Object-oriented Language 130
+2.15 Arrays versus Pointers 130
+2.16 Real Stuff: IA-32 Instructions 134
+2.17 Fallacies and Pitfalls 143
+2.18 Concluding Remarks 145
+.. 2.19 Historical Perspective and Further Reading 147
+2.20 Exercises 147
+The Five Classic Components of a Computer
+Interlace

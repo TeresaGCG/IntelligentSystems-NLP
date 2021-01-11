@@ -1,0 +1,38 @@
+7.1 Introduction 471
+Processor
+~
+Data are translerred
+FtGURE 7.2 Every pair of levels In the memory hierarchy can be thought of as having an
+upper and lower level. Within each level, the unit ofinformation that is present or not is called a block.
+Usually we transfer an emire block when we copy something between levels.
+mance of the memory hierarchy. The miss rate (I - hit rate) is the fraction of miss rate The fraction of
+memory accesses not found in the upper level. memory accesses not found in a
+level of the memory hierarchy.
+Since performance is the major reason for having a memory hierarchy, the time
+to service hits and misses is important. Hit time is the time to access the upper
+level of the memory hierarchy, which includes the time needed to determine hit time The time required to
+whether the access is a hit or a miss (that is, the time needed to look through the access a level of the memory
+hierarchy, including the time
+books on the desk). The miss penalty is the time to replace a block in the upper
+needed to determine whether
+level with the corresponding block from the lower level, plus the time to deliver
+the access is a hit or a miss.
+this block to the processor (or, the time to get another book from the shelves and
+place it on the desk). Because the upper level is smaller and built using faster
+miss penalty The time
+memory pa rts, the hit time will be much smaller than the time to access the next
+required to fetch a block into a
+level in the hierarchy, which is the major component of the miss penalty. (The
+level of the memory hierarchy
+time to examine the books on the desk is much smaller than the time to get up from the lower level, including
+and get a new book from the shelves.) the time to access the block,
+As we will see in this chapter, the concepts used to build memory systems transmit it from one level to the
+other, and insert it in the level
+affect many other aspects of a computer, including how the operating system
+that experienced the miss.
+manages memory and 110, how compilers generate code, and even how appli 
+cations use the computer. Of course, because all programs spend much of
+their time accessing memory, the memory system is necessa rily a major factor
+in determining performance. The reliance on memory hierarchies to achieve
+performance has meant that programmers, who used to be able to think of
+memory as a flat, random access storage device, now need to understand

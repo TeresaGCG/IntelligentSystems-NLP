@@ -1,0 +1,45 @@
+306
+
+20.2. 1 Structure of Contractile Proteins
+
+ 
+
+BIOLOGY
+
+Each actin (thin) ﬁlament is made of two ‘F’ (ﬁlamentous) actins
+helically wound to each other. Each ‘F’ actin is a polymer of monomeric
+‘G’ (Globular) actins. Two ﬁlaments of another protein, tropomyosin
+also run close to the ‘F’ actins throughout its length. A complex protein
+Troponin is distributed at regular intervals on the tropomyosin. In the
+resting state a subunit of troponin masks the active binding sites for
+
+myosin on the actin ﬁlaments (Figure 20.3a).
+
+Each myosin (thick) ﬁlament is also a polymerised protein. Many
+monomeric proteins called Meromyosins (Figure 20.3b) constitute one
+thick ﬁlament. Each meromyosin has two important parts, a globular
+head with a short arm and a tail, the former being called the heavy
+meromyosin HMM) and the latter, the ﬁght meromyosin ﬂ.MM). The HMM
+component, i.e.; the head and short arm projects outwards at regular
+distance and angle from each other from the surface of a polymerised myosin
+ﬁlament and is known as cross arm. The globular head is an active ATPase
+
+enzyme and has binding sites for ATP and active sites for actin.
+
+ 
+
+Actin binding sites
+
+ATP binding sites
+
+    
+
+(b)
+
+Figure 20.3 (a) An actin (thin) ﬁlament (b) Myosin monomer (Meromyosin)
+
+20.2.2 Mechanism of Muscle Contraction
+
+Mechanism of muscle contraction is best explained by the sliding ﬁlament
+theory which states that contraction of a muscle ﬁbre takes place by the
+sliding of the thin ﬁlaments over the thick ﬁlaments.

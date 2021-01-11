@@ -1,0 +1,40 @@
+618 Chapter 8
+transaction by sending additional blocks of data until the transaction is com 
+plete. Modify Figure 8.10 (both the steps and diagram) to indicate how such a
+transfer might take place. Assuming that each handshaking step takes 20 and
+tlS
+memory access takes 60 ns, how long does it take to complete a transfer? What is
+the maximum sustained bandwidth for this asynchronous bus, and how does it
+compare to the synchronous bus in the example?
+II
+8.25 (1 day-l weekI <§§8.2-8.S> For More Practice: Writing Code to Bench 
+mark I/O Performance
+8.26 (3 days-l weekI <§§8.3-8.S> . In More Depth: Ethernet Simulation
+8.27 (151 <§8.S> We wa nt to compare the maximum bandwidth for a synchro 
+nous and an asynchronous bus. The synchronous bus has a clock cycle time of
+50 ns, and each bus transmission takes 1clock cycle. The asynchronous bus requires
+40 ns per handshake. The data portion ofboth buses is 32 bits wide. Find the band 
+width for each bus when performing one-word reads from a 2oo-ns memory.
+8.28 (20) <§8.S> Suppose we have a system with the following characteristics:
+1. A memory and bus system supporting block access of 4 to 16 32-bit words.
+2. A 64-bit synchronous bus clocked at 200 MHz, with each 64-bit transfer
+taking 1 clock cycle, and 1 clock cycle required to send an address to mem 
+ory.
+3. Two clock cycles needed between each bus operation. (Assume the bus is
+idle before an access.)
+4. A memory access time for the first four words of 200 ns; each additional set
+of four words can be read in 20 ns. Assume that a bus transfer of the most
+recently read data and a read of the next four words can be overlapped.
+Find the sustained bandwidth and the latency for a read of 2S6 words for transfers
+that use 4-word blocks and for transfers that use 16-word blocks. Also compute
+the effective number of bus transactions per second for each case. Recall that a
+single bus transaction consists of an address transmission followed by data.
+8.29 (10 ) <§8.S> Let's determine the impact of polling overhead forthree differ 
+ent devices. Assume that the number of clock cycles for a polling operation 
+including transferring to the polling routine, accessing the device, and restarting
+the user program-is 400 and that the processor executes with a Soo-M Hz clock.
+Determine the fraction of CPU time consumed for the following three cases,
+assuming that you poll often enough so that no data is ever lost and assuming that
+the devices are potentially always busy:
+1. The mouse must be polled 30 times per second to ensure that we do not
+miss any movement made by the user.

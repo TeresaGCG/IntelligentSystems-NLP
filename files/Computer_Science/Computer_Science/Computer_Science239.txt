@@ -1,0 +1,39 @@
+3.8 Fallacies and Pitfalls 223
+subtracted from the remainder to generate a new remainder. Like nonrestoring
+division (see Exercise 3.29), if a previous guess gets too large a remainder, the par 
+tial remainder is adjusted in a subsequent pass.
+Evidently there were five elements of the table from the 80486 that Intel
+thought could never be accessed, and they optimized the PLA to return 0 instead
+of 2 in these situations on the Pentium. Intel was wrong: while the first 11 bits
+were always correct, errors would show up occasionally in bits 12 to 52, or the 4th
+to 15th decimal digits.
+The following is a time line of the Pentium bug morality play:
+• l illy 1994: Intel discovers the bug in the Pentium. The actual cost to fix the
+bug was several hundred thousa nd dollars. Following normal bug fix proce 
+dures, it will take months to make the change, reverify, and put the corrected
+chip into production. Intel planned to put good chips into production in
+January 1995, estimating that 3 to 5 million Pentiums would be produced
+with the bug.
+• September 1994: A math professor at Lynchburg College in Virginia,Thomas
+Nicely, discovers the bug. After calling Intel technical support and getting no
+official reaction, he posts his discovery on the Internet. It quickly gained a
+following, and some pointed out that even small errors become big when
+multiplying by big numbers: the fraction of people with a rare disease times
+the population of Europe, for example, might lead to the wrong estimate of
+the number of sick people.
+• November 7, J994: Electronic Engineering Times puts the story on its front
+page, which is soon picked up by other newspapers.
+• November 22, J994: Intel issues a press release, calling it a "glitch." The Pen 
+tium "can make errors in the ninth digit. ... Even most engineers and
+fin ancial analysts require accuracy only to the fourth or fifth decimal point.
+Spreadsheet and word processor users need not worry.... There are maybe
+several dozen people that this would affect. So far, we've only heard from
+one.... [Only] theoretical mathematicians (with Pentium computers pur 
+chased before the summer) should be concerned." What irked many was
+that customers were told to describe their application to Intel, and then Intel
+would decide whether or not their application merited a new Pentium with 
+out the divide bug.
+• December 5, J994: Intel claims the flaw happens once in 27,000 years for the
+typical spreadsheet user. Intel assumes a user does 1000 divides per day and
+multiplies the error rate assuming floating-point numbers are random,
+which is one in 9 billion, and then gets 9 million days, or 27,000 years.

@@ -1,0 +1,45 @@
+2.6 Instructions for Making Decisions 75
+The next instruction performs the loop test, exiting if sa ve [i ] k:
+l'
+It
+bne $tO ,$ s5 , Exit go t o Exit if s a ve[iJ k
+l'
+The next instruction adds 1 to i :
+add $s3 , $s3 , 1 Iti = i + l
+The end of the loop branches back to the while test at the top of the loop. We
+just add the Ex it label after it, and we're done:
+It
+Loop go to Loop
+J
+Exit :
+(See Exercise 2.33 for an optimization of this sequence.)
+Such sequences of instructions that end in a branch are so fundamental to compil  Hardware
+ing that they are given their own buzzword: a basic block is a sequence of instruc 
+Software
+tions without branches, except possibly at the end, and without branch targets or
+Interface
+branch labels, except possibly at the beginning. One of the first early phases of
+compilation is breaking the program into basic blocks
+The test for equality or inequality is probably the most popular test, but some  basic block A sequence of
+times it is useful to see if a variable is less than another variable. For example, a for instructions without branches
+(except possibly at the end) and
+loop may want to test to see if the index variable is less than O. Such comparisons are
+without branch targets or
+accomplished in MIPS assembly language with an instruction that compares two
+branch labels (except possibly at
+registers and sets a third register to I if the first is less than the second; otherwise, it
+the beginning).
+is set to O. The MIPS instruction is called set on less than, or s 1t. For example,
+slt $tO , $s3 , $54
+means that register $t 0 is set to I if the value in register $s 3 is less than the value
+in register $s 4; otherwise, register $tO is set to O.
+Constant operands are popular in com parisons. Since register $ze r o always
+has 0, we ca n already com pa re to O. To compare to other values, there is an imme 
+diate version of the set on less than instruction. To test if register $s 2 is less than
+the constant 10, we can just write
+<
+slti $t0 , $s2 , lO # $t O = 1 if $s2 10
+Heeding von Neumann's warning about the simplicity of the "equipment," the
+MIPS architecture doesn't include branch on less than because it is too compli 
+cated; either it would stretch the clock cycle time or it would take extra clock
+cycles per instruction. Two faster instructions are more useful.

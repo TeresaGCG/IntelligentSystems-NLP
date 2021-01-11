@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+116
+Lesson 6-5 Review
+Solve the following equations:
+1. x+ 2 = 9
+2. x− 3 = 9
+3.
+4. 3x= −4
+5.
+Lesson 6-6: Solving Linear Equations in 2 Steps
+In general, when solving a linear equation involving one variable the
+first thing you need to do is move all of the terms that involve the variable
+over to one side of the equation, and move all of the terms that don’t
+involve the variable over to the other side of the equation. If, after com-
+bining all of the terms together, the coefficient in front of the variable is
+a number other than 1, you will need to multiply both sides of the equa-
+tion by the reciprocal of the coefficient in front of the variable. Once you
+have done that, you should have an explicit equation for what numerical
+value the variable has to be. The last step is to check your work (using
+the original problem statement) to make sure that your answer is cor-
+rect. This last step is the one that is most often skipped, but it’s one that
+you really should get into the habit of doing. By checking your work you
+will know whether your answer is correct or not. If it’s not, you’ll have to
+start over.
+Example 1
+Solve the equation: 
+Solution: To isolate the variable, you must move the 5 that appears
+on the left side of the equation over to the right side. This can be
+done by subtracting 5 from both sides of the equation and
+simplifying:
+www.ebook3000.com

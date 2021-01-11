@@ -1,0 +1,47 @@
+3.6 Floating Point 199
+Let's first look at the binary version of the two numbers in normalized scien 
+ANSWER
+tific notation, assuming that we keep 4 bits of precision:
+I12ten 1/2\en
+o 1
+0. 1two O. I,,,-:? X 2 = 1.000twoxr
+-0.4375'en -7/16'en -7/2 'en
+o
+r 2
+-0.0 1I Itwo = -0.0 11I two X2 =-1.1 lO X
+two
+Now we follow the algorithm:
+Step I. The significand of the number with the lesser exponent (- 1.ll X
+two
+r 2
+is shifted right until its exponent matches the larger number:
+)
+r 2 1
+- 1.11O,wo X = -O. lll X r
+two
+Step 2. Add the significands:
+1 1 1
++
+1.000 X r (-O.llltwoX r ) = O.OO I,wo X r
+two
+Step 3. Normalize the sum, checking for overflow or underflow:
+1 r 2 r 3
+0.00 I,wo X r = 0.0 I0two X = 0. 1OO,wo X
+= 1.000 X 2--4
+two
+Since 127;::': - 4 ;::': - 126, there is no overflow or underflow. (The biased
+exponent would be -4 + 127, or 123, which is between I and 254, the
+smallest and largest unreserved biased exponents.)
+Step 4. Round the sum:
+-4
+1.000,wo X 2
+The sum already fits exactly in 4 bits, so there is no change to the bits
+due to rounding.
+This sum is then
+-4
+1.000,wo X 2 = O.ooOIOOO,wo = O.Ooo l'mJ
+1/2\en = 1/16ten = 0.0625'en
+This sum is what we would expect from adding O.5,en to -0.4375'eoo
+Many computers dedicate hardware to run floating-point operations as fast as
+possible. Figure 3.17 sketches the basic organization of hardwa re for floating-point
+addition.

@@ -1,0 +1,63 @@
+l Physics
+
+ 
+
+APPENDIX
+
+11.1 The history of wave-particle ﬂip-ﬂop
+
+What is light? This question has haunted mankind for a long time. But systematic experiments were done by
+scientists since the dawn of the scientific and industrial era, about four centuries ago. Around the same time,
+theoretical models about what light is made of were developed. While building a model in any branch of
+science, it is essential to see that it is able to explain all the experimental observations existing at that time.
+It is therefore appropriate to summarize some observations about light that were known in the seventeenth
+century.
+
+The properties of light known at that time included (a) rectilinear propagation of light, (b) reﬂection from
+plane and curved surfaces, [c] refraction at the boundary of two media, [d] dispersion into various colours, [e]
+high speed. Appropriate laws were formulated for the first four phenomena. For example, Snell formulated his
+laws of refraction in 1621. Several scientists right from the days of Galileo had tried to measure the speed of
+light. But they had not been able to do so. They had only concluded that it was higher than the limit of their
+measurement.
+
+Two models of light were also proposed in the seventeenth century. Descartes, in early decades of seventeenth
+century, proposed that light consists of particles, while Huygens, around 1650—60, proposed that light consists
+of waves. Descartes’ proposal was merely a philosophical model, devoid of any experiments or scientific
+arguments. Newton soon after, around 1660-70, extended Descartes’ particle model, known as corpuscular
+theory, built it up as a scientific theory, and explained various known properties with it. These models, light
+as waves and as particles, in a sense, are quite opposite of each other. But both models could explain all the
+known properties of light. There was nothing to choose between them.
+
+The history of the development of these models over the next few centuries is interesting. Bartholinus, in
+1669, discovered double refraction of light in some crystals, and Huygens, in 1678, was quick to explain it on
+the basis of his wave theory of light. In spite of this, for over one hundred years, Newton’s particle model was
+firmly believed and preferred over the wave model. This was partly because of its simplicity and partly because
+of Newton’s inﬂuence on contemporary physics.
+
+Then in 180 1, Young performed his double-slit experiment and observed interference fringes. This
+phenomenon could be explained only by wave theory. It was realized that diffraction was also another
+phenomenon which could be explained only by wave theory. In fact, it was a natural consequence of Huygens
+idea of secondary wavelets emanating from every point in the path of light. These experiments could not be
+explained by assuming that light consists of particles. Another phenomenon of polarisation was discovered
+around 1810, and this too could be naturally explained by the wave theory. Thus wave theory of Huygens
+came to the forefront and Newton’s particle theory went into the background. This situation again continued
+for almost a century.
+
+Better experiments were performed in the nineteenth century to determine the speed of light. With more
+accurate experiments, a value of 3X 108 m/ s for speed of light in vacuum was arrived at. Around 1860, Maxwell
+proposed his equations of electromagnetism and it was realized that all electromagnetic phenomena known at
+that time could be explained by Maxwell’s four equations. Soon Maxwell showed that electric and magnetic
+fields could propagate through empty space [vacuum] in the form of electromagnetic waves. He calculated the
+speed of these waves and arrived at a theoretical value of 2.998X 108 m/s. The close agreement of this value
+with the experimental value suggested that light consists of electromagnetic waves. In 1887 Hertz demonstrated
+the generation and detection of such waves. This established the wave theory of light on a firm footing. We
+might say that while eighteenth century belonged to the particle model, the nineteenth century belonged to
+the wave model of light.
+
+Vast amounts of experiments were done during the period 1850— 1900 on heat and related phenomena, an
+altogether different area of physics. Theories and models like kinetic theory and thermodynamics were developed
+which quite successfully explained the various phenomena, except one.
+
+412
+
+2019-20

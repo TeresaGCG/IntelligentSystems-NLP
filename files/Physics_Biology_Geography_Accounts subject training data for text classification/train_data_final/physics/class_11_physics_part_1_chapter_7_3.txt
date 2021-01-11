@@ -1,0 +1,96 @@
+144
+
+PHYSICS
+
+axis of rotation of such a fan has an oscillating
+(sidewise) movement in a horizontal plane about
+the vertical through the point at which the axis
+is pivoted (point 0 in Fig. 7 .5(b)).
+
+While the fan rotates and its axis moves
+sidewise, this point is fixed. Thus, in more
+general cases of rotation, such as the rotation
+of a top or a pedestal fan, one point and not
+one line, of the rigid body is fixed. In this case
+the axis is not fixed, though it always passes
+through the fixed point. In our study, however,
+we mostly deal with the simpler and special case
+of rotation in which one line (i.e. the axis) is ﬁxed.
+
+ 
+
+Fig. 7.6(a) Motion of a rigid body which is pure
+translation.
+
+ 
+
+Fig. 7.6(b) Motion of a rigid body which is a
+combination of translation and
+rotation.
+
+Fig 7.6 (a) and 7.6 (b) illustrate different motions of
+the same body. Note P is an arbitrary point of the
+body; 0 is the centre of mass of the body, which is
+deﬁned in the next section. Sufﬁce to say here that
+the trajectories of O are the translational trajectories
+Trl and Tr2 of the body. The positions 0 and P at
+three different instants of time are shown by 01, 02,
+and 03, and P1, P2 and P3, respectively, in both
+Figs. 7.6 (a) and (b) . As seenfrom Fig. 7.6(a), at any
+instant the velocities of any particles like 0 and P of
+the body are the same in pure translation. Notice, in
+this case the orientation of OP, i. e. the angle OP makes
+with a fixed direction, say the horizontal, remains
+the same, i.e. a1 = a2 = a3. Fig. 7.6 (b) illustrates a
+case of combination of translation and rotation. In
+this case, at any instants the velocities of O and P
+differ. Also, (11, a2 and as may all be different.
+
+2019-20
+
+Thus, for us rotation will be about a fixed axis
+only unless stated otherwise.
+
+The rolling motion of a cylinder down an
+inclined plane is a combination of rotation about
+a fixed axis and translation. Thus, the
+‘something else’ in the case of rolling motion
+which we referred to earlier is rotational motion.
+You will find Fig. 7 .6(a) and (b) instructive from
+this point of view. Both these figures show
+motion of the same body along identical
+translational trajectory. In one case, Fig. 7 .6(a),
+the motion is a pure translation; in the other
+case [Fig. 7.6(b)] it is a combination of
+translation and rotation. (You may try to
+reproduce the two types of motion shown, using
+a rigid object like a heavy book.)
+
+We now recapitulate the most important
+observations of the present section: The motion
+of a rigid body which is not pivoted or ﬁxed in
+some way is either a pure translation or a
+combination of translation and rotation. The
+motion of a rigid body which is pivoted or ﬁxed
+in some way is rotation. The rotation may be
+about an axis that is fixed (e.g. a ceiling fan) or
+moving (e. g. an oscillating table fan [Fig.7 .5(b)]).
+We shall, in the present chapter, consider
+rotational motion about a fixed axis only.
+
+7.2 CENTRE OF MASS
+
+We shall first see what the centre of mass of a
+system of particles is and then discuss its
+significance. For simplicity we shall start with
+a two particle system. We shall take the line
+
+joining the two particles to be the x— axis.
+
+ 
+
+Fig. 7.7
+
+Let the distances of the two particles be x1
+and x2 respectively from some origin 0. Let m1
+and m2 be respectively the masses of the two

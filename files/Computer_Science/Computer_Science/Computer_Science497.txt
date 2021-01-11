@@ -1,0 +1,30 @@
+7.2 The Basics of Caches 481
+10%
+~-----o-- 1 4K
+Miss
+5%
+mte
+16 32 64 128
+Block size
+FIGURE 7.8 Miss rate versus block size. Note that miss rate actually goes up ifthe block size is too
+large relative to the cache size. Each line represents a cache of different size. (This figure is independent of
+associativity, discussed soon.) Unfortunately, SPEC2000 traces would take too long if block size were
+included, so these data are based on SPEC92.
+A more serious problem associated with just increasing the block size is that the
+cost of a miss increases. The miss penalty is determined by the time required to
+fetch the block from the next lower level of the hierarchy and load it into the
+cache. The time to fetch the block has two parts: the latency to the first word and
+the transfer time for the rest of the block. Clea rly, unless we change the memory
+system, the transfer time-and hence the miss penalty-will increase as the block
+size grows. Furthermore, the improvement in the miss rate starts to decrease as
+the blocks become larger. The result is that the increase in the miss penalty over 
+whelms the decrease in the miss rate for large blocks, and cache performance thus
+decreases. Of course, if we design the memory to transfer larger blocks more effi 
+ciently, we can increase the block size and obtain further improvements in cache
+performance. We discuss this topic in the next section.
+Elaboration: The major disadvantage of increasing the block size is that the cache
+miss penalty increases. Although it is hard to do anything about the latency component
+of the miss penalty, we may be able to hide some of the transfer time so that the miss
+penalty is effectively smaller. The simplest method for doing this, called early restart, is
+simply to resume execution as soon as the requested word of the block is returned,
+rather than wait for the entire block. Many processors use this technique for instruction

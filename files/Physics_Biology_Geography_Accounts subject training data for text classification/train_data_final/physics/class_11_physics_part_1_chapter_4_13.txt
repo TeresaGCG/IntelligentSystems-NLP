@@ -1,0 +1,119 @@
+78
+
+PHYSICS
+
+= tan 0 x — +x2
+y ( 0) 2 (vocosﬁ0 )2 (4'40)
+Now, since 9, 60 and v0 are constants, Eq. (4.40)
+is ofthe form y = ax + bx", in which aand b are
+constants. This is the equation of a parabola,
+i.e. the path of the projectile is a parabola
+(Fig. 4.18).
+
+ 
+
+Fig. 4. 1 8 The path of a projectile is a parabola.
+
+Time of maximum height
+
+How much time does the projectile take to reach
+the maximum height ? Let this time be denoted
+by tm. Since at this point, vy= 0, we have from
+
+Eq. (4.39):
+
+vy = vasinOO—g tm=0
+Or, tm = v0 sinOo /g (4.41a)
+The total time Tf during which the projectile is
+in ﬂight can be obtained by putting y = 0 in
+Eq. (4.38). We get :
+
+Tf= 2 (v0 sin 00 )/g (4.4lb)
+
+Tf is known as the time of ﬂight of the projectile.
+We note that Tf = 2 tm , which is expected
+because of the symmetry of the parabolic path.
+
+Maximum height of a projectile
+
+The maximum height hm reached by the
+projectile can be calculated by substituting
+
+t= tm in Eq. (4.38) :
+2
+vosin60] g {Dosinﬂoj
+
+g g
+
+ 
+
+ 
+
+y = hm = (”osm90){ 2
+
+2019-20
+
+(v0s1n00)2
+Or, hm = 2—9 (4.42)
+
+Horizontal range of a projectile
+
+The horizontal distance travelled by a projectile
+from its initial position (x = y = 0) to the position
+where it passes y = 0 during its fall is called the
+horizontal range, R. It is the distance travelled
+during the time of ﬂight Tf . Therefore, the range
+R is
+R = (we cos 60) (1})
+=(vo cos 00) (2 v0 sin 60)/g
+
+2 .
+_ v0 s1n 260
+
+Or, R - (4.43a)
+
+9
+
+Equation (4.43a) shows that for a given
+projection velocity v0, R is maximum when sin
+2190 is maximum, i.e., when 90 = 45°.
+
+The maximum horizontal range is, therefore,
+
+Rm = — (4.43b)
+
+Example 4. 7 Galileo. in his book Two new
+sciences. stated that “for elevations which
+
+exceed or fall short of 45" by equal
+amounts, the ranges are equal". Prove this
+statement.
+
+ 
+
+Answer For a projectile launched with velocity
+V" at an angle 60 , the range is given by
+
+2 .
+vo $111260
+
+9
+Now, for angles, (45° + a) and ( 45°— a), 290 is
+(90° + 205) and ( 90° — 2a) , respectively. The
+values of sin (90° + 2a) and sin (90° — 2a) are
+the same, equal to that of cos 205. Therefore,
+ranges are equal for elevations which exceed or
+fall short of 45° by equal amounts at. 4
+
+R:
+
+ 
+
+P Example 4.8 A hiker stands on the edge
+of a cliff 490 m above the ground and
+throws a stone horizontally with an initial
+
+speed of 15 m s 1. Neglecting air resistance.
+find the time taken by the stone to reach
+the ground, and the speed with which it
+hits the ground. (Take g = 9.8 In 5‘2).

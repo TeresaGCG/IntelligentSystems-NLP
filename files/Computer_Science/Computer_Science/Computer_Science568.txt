@@ -1,0 +1,37 @@
+552 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Pitfall: Extending an address space by adding segments on top ofan unsegmented
+address space.
+During the 1970s, many programs grew so large that not all the code and data
+could be addressed with just a 16-bit address. Computers were then revised to
+offer 32-bit addresses, either through an unsegmented 32-bit address space (also
+called a flat address space) o r by adding 16 bits of segment to the existing 16-bit
+address. From a marketing point of view, adding segments that were program  
+mer-visible and that forced the programmer and compiler to decompose pro 
+grams into segments could solve the addressing problem. Unfo rtunately, there is
+trouble any time a programming language wants an address that is larger than one
+segment, such as indices for large arrays, unrestricted pointers, or reference
+parameters. Moreover, adding segments can turn every address into two words 
+one for the segment number and one for the segment offset-causing problems in
+the use of addresses in registers. Given the size of DRAMs and Moore's law, many
+of today's 32-bit systems are facing similar problems.
+Concluding Remarks
+The difficulty of building a memory system to keep pace with faster processors is
+underscored by the fact that the raw material for main memory, DRAMs, is essen 
+tially the same in the fastest computers as it is in the slowest and cheapest. Figure
+7.36 compares the memory hierarchy of microprocessors aimed at desktop, server,
+and embedded applications. The L1 caches are similar across applications, with
+the primary differences being L2 cache size, die size, processor clock rate, and
+instructions issued per clock.
+It is the principle of locality that gives us a chance to overcome the long latency
+of memory access-and the soundness of this strategy is demonstrated at all levels
+of the memory hierarchy. Although these levels of the hierarchy look quite differ 
+ent in quantitative terms, they follow similar strategies in their operation and
+exploit the same properties of locality.
+Because processor speeds continue to improve faster than either DRAM access
+times or disk access times, memory will increasingly be the factor that limits per 
+formance. Processors increase in performance at a high rate, and DRAMs are now
+doubling their density about every two years. The access time of DRAMs, however,
+is improving at a much slower rate-less than 10% per year. Figure 7.37 plots pro 
+cessor performance aga inst a 7% annual performance improvement in DRAM
+latency. \-Vhile latency improves slowly, recent enhancements in DRAM technol 
+ogy (double data rate DRAMs and related techniques) have led to greater

@@ -1,0 +1,51 @@
+200 Accountancy
+
+Correct effect should have been:
+
+Mohan’s A/c Dr. 10,000
+To Sales A/c 10,000
+The rectification entry will be :
+Mohan’s A/c Dr. 10,000
+10,000
+
+To Suspense A/c
+
+(b) Credit sales to Mohan ? 10,000 were posted to his account as ? 7000. This is an
+error of commission. Mohan’s account has been debited with ? 7,000 instead of
+
+? 10,000 resulting in short debit of ? 3,000.
+The wrong effect has been:
+
+Mohan’s A/c Dr. 7,000
+To Sales A/c 10,000
+Correct effect should have been:
+
+Mohan’s A/c Dr. 10,000
+To Sales A/c 10,000
+
+Hence, rectification entry will be:
+
+Mohan’s A/c Dr. 3,000
+
+To Suspens A/c 3,000
+
+(0) Credit sales to Mohan ? 10,000 were posted to his account as ? 12,000.
+This is an error of commission. The wrong effect has been:
+
+Mohan’s A/c Dr. 12,000
+To Sales A/c 10,000
+
+Correct effect should have been
+
+Mohan’s A/c Dr. 10,000
+To Sales A/c 10,000
+
+The rectification entry will be:
+
+Suspense A/c Dr. 2,000
+To Mohan’s A/c 2,000
+
+[(1] Purchases book overcast by ? 1,000. Errors in casting of subsidiary books
+affect only those accounts where totals of the subsidiary books involved are
+
+2019-2020

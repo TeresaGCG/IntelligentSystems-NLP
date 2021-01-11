@@ -1,0 +1,41 @@
+4 Chapter 1 Computer Abstractions and Technology
+Computers have led to third revolution for civilization, with the information
+:I
+revolution taking its place alongside the agricultural and the industrial revolu 
+tions. The resulting multiplication of humankind's intellectual strength and reach
+naturally has affected our everyday lives profoundly and also changed the ways in
+which the search for new knowledge is carried out. There is now a new vein of sci 
+entific investigation, with computational scientists joining theoretical and experi 
+mental scientists in the exploration of new frontiers in astronomy, biology,
+chemistry, physics, ...
+The computer revolution continues. Each time the cost of computing improves
+by another factor of 10, the opportunities for computers multiply. Applications
+that were economically infeasible suddenly become practical. In the recent past,
+the following applications were "computer science fiction."
+• Automatic teller machines: A computer placed in the wall of banks to dis 
+tribute and collect cash would have been a ridiculous concept in the 1950s,
+when the cheapest computer cost at least $500,000 and was the size of a car.
+• Computers in automobiles: Until microprocessors improved dramatically in
+price and performance in the early 1980s, computer control of cars was ludi 
+crous. Today, computers reduce pollution and improve fuel efficiency via
+engine controls and increase safety through the prevention of dangerous
+skids and through the inflation of air bags to protect occupants in a crash.
+• Laptop computers: \-VllO would have dreamed that advances in computer
+systems would lead to laptop computers, allowing students to bring com  
+puters to coffeehouses and on airplanes?
+• Human genome project: The cost of computer equipment to map and ana 
+lyze human DNA sequences is hundreds of millions of dollars. It's unlikely
+that anyone would have considered this project had the computer costs been
+10 to 100 times higher, as they would have been 10 to 20 years ago.
+• World Wide Web: Not in existence at the time of the first edition of this
+book, the World Wide Web has transformed our society. Among its uses are
+distributing news, sending flowers, buying from online catalogues, taking
+electronic tours to help pick vacation spots, finding others who share your
+esoteric interests, and even more mundane topics like finding the lecture
+notes of the authors of your textbooks.
+Clearly, advances in this technology now affect almost every aspect of our society.
+Hardware advances have allowed programmers to create wonderfully useful soft 
+ware, and explain why computers are omnipresent. Tomorrow's science fiction
+computer applications are the cashless society, automated intelligent highways,
+and genuinely ubiquitous computing: no one carries computers because they are
+available everywhere.

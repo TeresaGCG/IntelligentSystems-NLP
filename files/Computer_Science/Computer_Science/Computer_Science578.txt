@@ -1,0 +1,39 @@
+Computers
+Saving the World's
+in the
+Art Treasures
+Real World
+Problem: Find a way to help conserve art  Since the width of the ceiling and walls varies
+work threatened by environmental factors and from about three feet to almost six feet, there
+aging or damaged by earlier attempts at resto  are significant differences in thermal behavior,
+ration without causing further harm to irre  which in turn affects the surface painting.
+placeable artworks. Computers were used to model the entire
+structure, including the high humidity gener 
+Solution: Use computers and scientific
+ated when a thousand people stand inside the
+instrumentation to analyze the artwork and its
+chapel on a warm day! This led to a computer 
+setting, enabling art conservators and restor 
+controlled climate system that uses sensors
+ers to undertake a more informed and success 
+placed in strategic locations. The goal is to
+ful preservation of an artwork.
+keep the visitors cool while preserving Miche 
+Art conservation and restoration have devel 
+langelo's masterpiece for generations to come.
+oped into high-technology fields that make
+e.x.'tensive use of computing and scientific
+instrumentation. For example, one of the most
+challenging forms of art to restore and main 
+tain are frescoes, which are painted in the wet
+plaster of a wall or ceiling. Moisture and heat
+change the surface and cause deterioration;
+similarly air pollution, smoke from candles,
+and other contaminants directly attack the
+paint as well as add dirt and grime that cover
+the original artwork.
+During the restoration of Michelangelo's
+frescoes in the Sistine Chapel, computers were
+used to survey the ceiling, finding cracks and
+A laser scan of Michelangelo's statue of Da\lld
+precisely mapping the surface and the frescos.

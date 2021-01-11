@@ -1,0 +1,27 @@
+2.4 Representing instructions in the Computer 65
+Translating MIPS Assembly Language into Machine Language
+We can now take an example all the way from what the programmer writes to EXAMPLE
+what the computer executes. If $t 1 has the base of the array Aand $s2 corre 
+sponds to h, the assignment statement
+A[300] ~ h + A[300J ;
+is compiled into
+lw ItO , 1200(1t!1 II Temporary reg ItO gets A[300]
+add $t0 ,$ s2 , $tO II Temporary reg ItO gets h + A[300J
+sw ItO , 1200(1t!1 II Stores h + A[300J back into A[300J
+What is the MIPS machine language code for these three instructions?
+For convenience, let's first represent the machine language instructions using ANSWER
+decimal numbers. From Figure 2.6, we can determine the three machine lan 
+guage instructions:
+• address/
+shamt funa
+1~~~:__1 ;;8~ ~8,---_ -~:;C:~:c.:~-
+---':;-- __ --,"':"'--
+The 1winstruction is identified by 35 (see Figure 2.6) in the first field
+(op). The base register 9 ($t1) is specified in the second field (rs), and the
+destination register 8 ($t O) is specified in the third field (rt). The offset to
+select A[300J (1200 300 x 4) is found in the final field (address).
+=
+The add instruction that follows is specified with 0 in the first field (op)
+and 32 in the last field (funct). The three register operands (18, 8, and 8) are
+found in the second, third, and fourth fields and correspond to $s 2, $to,
+and $tO.

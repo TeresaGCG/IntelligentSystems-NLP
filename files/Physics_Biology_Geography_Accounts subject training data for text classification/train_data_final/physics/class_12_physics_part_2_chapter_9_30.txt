@@ -1,0 +1,73 @@
+Roy Optics and
+
+Optical Instruments
+
+When the final image is formed at inﬁnity, the angular magniﬁcation
+due to the eyepiece [Eq. (9.42)] is
+
+m. = (Dug) [9.44th
+
+Thus, the total magnification [(according to Eq. (9.33)], when the
+image is formed at infinity, is
+
+m=mm = i 2
+o e f0 L (9.45)
+
+Clearly, to achieve a large magnification of a small object (hence the
+name microscope), the objective and eyepiece should have small focal
+lengths. In practice, it is difﬁcult to make the focal length much smaller
+than 1 cm. Also large lenses are required to make L large.
+
+For example, with an objective with fo = 1.0 cm, and an eyepiece with
+focal length fe = 2.0 cm, and a tube length of 20 cm, the magnification is
+
+rummage
+
+= a x g = 250
+1 2
+Various other factors such as illumination of the object, contribute to
+the quality and visibility of the image. In modern microscopes, multi-
+component lenses are used for both the objective and the eyepiece to
+improve image quality by minimising various optical aberrations (defects)
+in lenses.
+
+9.8.2 Telescope
+
+The telescope is used to provide angular magnification of distant objects
+(Fig. 9.29). It also has an objective and an eyepiece. But here, the objective
+has a large focal length and a much larger aperture than the eyepiece.
+Light from a distant object enters the objective and a real image is formed
+in the tube at its second focal point. The eyepiece magniﬁes this image
+producing a final inverted image. The magnifying power m is the ratio of
+the angle [3 subtended at the eye by the ﬁnal image to the angle a which
+the‘object subtends at the lens or the eye. Hence
+
+m:_:_,_:_ (9.46)
+
+In this case, the length of the telescope tube is fo +fe.
+
+Terrestrial telescopes have, in addition, a pair of inverting lenses to
+make the ﬁnal image erect. Refracting telescopes can be used both for
+terrestrial and astronomical observations. For example, consider
+a telescope whose objective has a focal length of 100 cm and the eyepiece
+a focal length of 1 cm. The magnifying power of this telescope is
+m = 100/1 = 100.
+
+2019-20
+
+.3
+
+(a
+
+I
+I
+
+P Ysms
+
+' 7
+
+luuq ‘SaAaBgcl/‘éiJO'siau P ldau gu 'OJlsB/ﬂduq
+
+sadoosap: [condo $981121 S,p[JOM BILL
+
+339

@@ -1,0 +1,27 @@
+Homework Helpers: Basic Math and Pre-Algebra
+124
+4. On her cross-country trip to Wisconsin, Betty drove 980 miles in 14
+hours. Find her speed as a unit rate.
+Lesson 7-2: Proportions
+In the last chapter, we solved linear equations. Remember that a lin-
+earequation is an equation created by setting two linear expressions equal
+to each other. In the last section we talked about a different kind of
+algebraic expression: a ratio. When two ratios are set equal to each other,
+we have an equation that is called a proportion. A proportion is an equal-
+ity between two ratios:
+Proportions can be simplified by multiplying both sides of the equal-
+ity by the product of the denominators and simplifying using the proper-
+ties of multiplication:
+This process is often described as “cross-multiplying” and can be
+visualized as:
+The products ad and cb are called cross-products of the proportion.
+If a proportion involves a variable, you can cross-multiply and then
+solve for the variable as we did in the last chapter.
+Example 1
+Solve the proportion:
+Solution: There are two ways to solve this proportion. The first
+way involves noticing that this proportion also happens to be a
+linear equation. As such, we can solve this equation by using the
+techniques discussed in Chapter 6. Multiply both sides of the
+equation by 16 and reduce the resulting fraction.
+www.ebook3000.com

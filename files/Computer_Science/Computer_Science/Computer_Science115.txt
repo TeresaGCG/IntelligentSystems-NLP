@@ -1,0 +1,31 @@
+2.9 MIPS Addressing for 32·111t Immedlates and Addresses 99
+The assembled instructions and their addresses would look like this:
+ANSWER
+80000 0 0 19 9 4 0
+80004 0 9 22 9 0 32
+80008 35 9 8 0
+80012 5 8 21 2
+80016 8 19 19 1
+80020 2 20000
+80024
+Remember that MIPS instructions have byte addresses, so addresses of se 
+quential words differ by4, the number of bytes in a word. The bne instruction
+on the fourth line adds 2 words or 8 bytes to the address of thefallowing instruc 
+tion (80016), specifying the branch destination relative to that following in 
+struction (8 + 80016) instead of relative to the branch instruction (12 + 80012) or
+using the full destination address (80024). The jump instruction on the last line
+does use the full address (20000 x 4 = 80000), corresponding to the label Loo p.
+Nearly every conditional branch is to a nearby location, but occasionally it Hardware
+branches far away, farther than can be represented in the 16 bits ofthe conditional
+Software
+branch instruction. The assembler comes to the rescue just as it did with large
+Interface
+addresses or constants: it inserts an unconditional jump to the branch target, and
+inverts the condition so that the branch decides whether to skip the jump.
+Branching Far Away
+Given a branch on register $sO being equal to register $s 1, EXAMPLE
+beq $sO , $sl, Ll
+replace it by a pair of instmctions that offers a much greater branching distance.
+These instructions replace the short-address conditional branch: ANSWER
+bne $sO , $sl , L2
+J Ll

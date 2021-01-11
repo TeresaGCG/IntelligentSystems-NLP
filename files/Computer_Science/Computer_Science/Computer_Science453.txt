@@ -1,0 +1,51 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 437
+only try to reduce the fraction of hazards between separate issue packets, the
+appearance of having a large single instruction with multiple operations is rein 
+forced. We will assume the second approach for this example.
+To issue an ALU and a data transfer operation in parallel, the first need for
+additional hardware-beyond the usual hazard detection and stall logic-is extra
+ports in the register file (see Figure 6.45). In 1 clock cycle we may need to read two
+registers for the ALU operation and two more for a store, and also one write port
+for an ALU operation and one write port for a load. Since the ALU is tied up for
+the ALU operation, we also need a separate adder to calculate the effective address
+for data transfers. Without these extra resources, our two-issue pipeline would be
+hindered by structural hazards.
+"-
+0
+""
+,---
+c-
+o M
+" "
+• / r •
+e-
+f-.
+~w
+... .
+/
+M
+_.
+c- Registers
+"
+M
+8ססoo180 Instruction 1=
+" " -
+m"",ory
+•
+~ ...
+" "
+-
+-
+".. " • memory f- f---
+-
+-"'
+..
+~
+M
+"
+•
+-
+..
+FIGURE 6.45 A static two-lssue datapath. The addltlons needed for double ISSue are hlghhghted: another 32 bIts from mstrnctJOn memory,
+tm> more read ports and one more write port on the register file,and another ALU. Assume the bottom ALU handles address calculations for data
+transfers and the top ALU handles everything else.

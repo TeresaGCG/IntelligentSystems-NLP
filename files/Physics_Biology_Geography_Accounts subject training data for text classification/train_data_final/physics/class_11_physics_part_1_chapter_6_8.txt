@@ -1,0 +1,128 @@
+122
+
+PHYSICS
+
+ 
+
+The total mechanical energies E0, Eh, and EH
+of the ball at the indicated heights zero (ground
+level), h and H, are
+
+‘EH = mgH (6.11 a)
+l
+
+Eh =mgh+§mv§ (6.11b)
+
+E0 = (1/2) mvf2 (6.11 c)
+
+The constant force is a special case of a spatially
+dependent force F(x). Hence, the mechanical
+energy is conserved. Thus
+
+EH = E0
+
+1
+or, mgH = E mu?
+
+vf = .12gH
+
+a result that was obtained in section 3.7 for a
+freely falling body.
+Further,
+EH = Eh
+which implies,
+
+v121= 29(H— h) (6.11 d)
+
+and is a familiar result from kinematics.
+
+At the height H, the energy is purely potential.
+It is partially converted to kinetic at height h and
+is fully kinetic at ground level. This illustrates
+the conservation of mechanical energy.
+
+ 
+
+b Example 6.7 Abob of mass mis suspended
+by a light string of length L. It is imparted a
+horizontal velocity no at the lowest point A
+such that it completes a semi-circular
+trajectory in the vertical plane with the string
+becoming slack only on reaching the topmost
+point. C. This is shown in Fig. 6.6. Obtain an
+expression for (i) 00; (ii) the speeds at points
+B and C: (iii) the ratio of the kinetic energies
+(KB/KC) at B and C. Comment on the nature
+of the trajectory of the bob after it reaches
+the point C.
+
+ 
+
+2019-20
+
+Answer (i) There are two external forces on
+the bob : gravity and the tension (T) in the
+string. The latter does no work since the
+displacement of the bob is always normal to the
+string. The potential energy of the bob is thus
+associated with the gravitational force only. The
+total mechanical energy E of the system is
+conserved. We take the potential energy of the
+system to be zero at the lowest point A. Thus,
+at A :
+
+1
+
+E = Emvg (6.12)
+
+2
+
+ml)
+TA — mg = L0 [Newton’s Second Law]
+
+where TA is the tension in the string at A. At the
+highest point C, the string slackens, as the
+tension in the string (TC) becomes zero.
+
+Thus, at C
+
+ 
+
+ 
+
+E=émv§ +2mgL (6.13)
+mvf
+mg: L [Newton’s Second Law] (6.14)
+
+where DC is the speed at C. From Eqs. (6.13) and
+(6.14)
+
+5
+=— L
+2mg
+
+Equating this to the energy at A
+
+5 m 2
+
+— L=—v
+2mg 2 0
+
+01‘, v0 = JBgL
+
+(ii) It is clear from Eq. (6.14)
+1’c = Jg—L
+
+At B, the energy is
+
+E=émv123 +mgL
+
+Equating this to the energy at A and employing
+the result from (i), namely v3 = SgL ,
+1 2 1 2
+
+EmuB +mgL= Emvo
+
+5
+=—m L
+2 g

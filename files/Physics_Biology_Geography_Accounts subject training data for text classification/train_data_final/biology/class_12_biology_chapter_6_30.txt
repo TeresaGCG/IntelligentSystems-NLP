@@ -1,0 +1,82 @@
+MOLECULAR BASIS OF INHERITANCE
+
+EXERCISES
+
+1 Group the following as nitrogenous bases and nucleosides:
+
+2.
+
+3.
+
+10.
+
+11.
+
+12.
+
+13.
+14.
+
+Adenine, Cytidine, Thymine, Guanosine, Uracil and Cytosine.
+
+If a double stranded DNA has 20 per cent of cytosine, calculate the per
+cent of adenine in the DNA.
+
+If the sequence of one strand of DNA is written as follows:
+5 ' -ATGCATG CATGCATG CATG CATGCATGC -3 '
+
+Write down the sequence of complementary strand in 5'—>3' direction.
+
+If the sequence of the coding strand in a transcription unit is written
+as follows:
+
+5 I -ATGCATG CATGCATG CATG CATGCATGC -3 I
+
+Write down the sequence of mRNA.
+
+Which property of DNA double helix led Watson and Crick to hypothesise
+semi-conservative mode of DNA replication? Explain.
+
+Depending upon the chemical nature of the template (DNA or RNA)
+and the nature of nucleic acids synthesised from it (DNA or RNA), list
+the types of nucleic acid polymerases.
+
+How did Hershey and Chase differentiate between DNA and protein in
+their experiment while proving that DNA is the genetic material?
+
+Differentiate between the followings:
+
+(a) Repetitive DNA and Satellite DNA
+
+(b) mRNA and tRNA
+
+(c) Template strand and Coding strand
+
+List two essential roles of ribosome during translation.
+
+In the medium where E. coli was growing, lactose was added, which
+induced the lac operon. Then, why does lac operon shut down some
+time after addition of lactose in the medium?
+
+Explain (in one or two lines) the function of the followings:
+(a) Promoter
+
+(b) tRNA
+
+(c) Exons
+
+Why is the Human Genome project called a mega project?
+What is DNA fingerprinting? Mention its application.
+Brieﬂy describe the following:
+
+(a) Transcription
+(b) Polymorphism
+(c) Translation
+
+(d) Bioinformatics
+
+ 
+
+ 
+
+2019-2020

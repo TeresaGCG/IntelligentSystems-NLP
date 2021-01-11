@@ -1,0 +1,39 @@
+Homework Helpers: Basic Math and Pre-Algebra
+198
+The area of a square is the motivation for calling the exponential
+expressiona2, “a squared.” The area of a square of length a is “asquared,”
+or a2.
+We use abbreviations for units of length. The most common units for
+length are inches, centimeters, and feet. Their abbreviations are “in,”
+“cm,” and “ft,” respectively. These abbreviations for units of length will
+help us abbreviate units of area. A square inch is abbreviated in2, a square
+centimeter is abbreviated cm2, and a square foot is abbreviated ft2.
+Armed with a new ruler (the square unit, as in square inches) we can
+measure the area of other polygons besides a square. We will start with a
+rectangle and get more complicated. The area of a rectangle is the prod-
+uct of its length and its width. For example, a rectangle with length 4
+inches and width 6 inches would enclose an area of 24 in2. A rectangle
+with length 10 feet and width 6 feet would enclose an area of 60 ft2.
+The area of a right triangle can be
+related to the area of a rectangle. You
+can think of a right triangle as one-half
+b of a rectangle, as shown in Figure 10.14.
+Notice that the width and length of
+the rectangle correspond to the two legs
+a
+of the right triangle. The area of the rect-
+ Figure 10.14 angle is then the product of the lengths
+of the two legs of the triangle. Because
+two triangles make up one rectangle, it follows that the area of one tri-
+angle is one-half of the area of the rectangle. That gives us a formula for
+the area of a right triangle.
+a⋅ y
+The area of a right triangle with leg lengths a and b is
+2
+Example 1
+Find the area of the polygons shown in Figure 10.15:
+9
+12 4
+12 7 4
+Figure 10.15
+www.ebook3000.com

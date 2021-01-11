@@ -1,0 +1,43 @@
+6.2 A Plpellned Datapath 397
+Time (in clock cycles) ---------------------_.
+CC l CC2 CC3 CC' CCS CCG CC 1 CC2 CC3
+Program
+execution
+order
+(in instructions)
+Iw$10,20($1)
+sub$11 ,$2, $3
+add $12, $3, $4
+IW$13, 24($1)
+add $14, $5, $6
+FIGURE 6.19 Multlple-eloek·eyele pipeline diagram of five Instructions. This style of pipeline representation shows the complete execu 
+tion of instructions in a single figure. Instructions are listed in instruction execution order from top to bottom, and clock cycles move from left to
+right. Unlike Figure 6.4, here we show the pipeline registers between each stage. Figure 6.20 shows the traditional way to dl1lw this diagram.
+Time (in clockcycles) ----------------------••
+CC l CC2 CC3 CC' CCS CCG CC 1 CC2 CC3
+Program
+execution
+order
+(in instructions)
+....
+InslNC1ial Inslruction Da14
+Iw$10,20($1) E.x.ec.ut.ion Write back
+felen
+~
+InstNC1ial Instruction Data
+sub$11 ,$2, $3 E.xl.lC.Ut.ion Write back
+leten
+-~
+Instruction InslNC1ial Dala
+add $12, $3, $4 Execulial Write bad<
+felch
+~
+...
+InslNC1ial InstNC1ial Da14
+Iw $13, 24($1) "" E.xe.c.ut.ion W_rite b.ack
+fll1ch
+~."
+InstNC1ial Instruction Data
+add $14, $5, $6 Exocutial Write back
+leten
+FIGURE 6.20 Traditional multlple-eloek<yele pipeline diagram of five Instructions In Figure 6.19.

@@ -1,0 +1,67 @@
+Trial Balance and Rectification of Errors 213
+
+Illustration 7
+
+Trial balance of Kailash did not agree. He put the difference to suspense account. The
+following errors were discovered :
+
+(i)
+(ii)
+(iii)
+
+{iv}
+
+(V)
+(vi)
+(vii)
+
+Goods withdrawn by Kailash for personal use ? 500 were not recorded in the books.
+
+Discount allowed to Ramesh ?60 on receiving ? 2,040 from him was not recorded in
+the books.
+
+Discount received from Rohan ? 50 on paying ? 3,250 to him was not posted at all.
+
+? 700 received from Khalil, a debtor, whose account had earlier been written—off as
+bad, were credited to his personal account.
+
+Cash received from Govil, a debtor, ? 5,000 was posted to his account as ? 500.
+Goods returned to Mahesh ? 700 were posted to his account as ? 70.
+
+Bill receivable from Narayan ? 1,000 was dishonoured and wrongly debited to
+allowances account as ? 10,000.
+
+Give journal entries to rectify the above errors and prepare suspense account to ascertain
+the amount of difference in trial balance.
+
+Solution
+
+(i)
+
+Drawings A/c Dr. 500
+
+To Purchases A/c 500
+[Goods withdrawn by proprietor for personal use not recorded, now
+rectified].
+
+(ii)
+
+Discount allowed A/c Dr. 60
+To Ramesh’s A/c 60
+[Discount allowed to Ramesh not recorded, now rectified]
+
+(iii)
+
+Rohan’s A/c Dr. 50
+To Discount received A/c 50
+[Discount received from Rohan not posted , now corrected)
+
+{iv}
+
+Khalil's A/c Dr. 700
+
+To Bad debts recovered A/c 700
+[Bad debts recovered wrongly credited to debtor’s personal account, now
+corrected)
+
+2019-2020

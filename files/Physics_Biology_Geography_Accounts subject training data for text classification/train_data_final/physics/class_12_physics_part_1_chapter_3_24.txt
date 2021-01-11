@@ -1,0 +1,97 @@
+E
+
+ 
+
+Solution The network is not reducible to a simple series and parallel
+combinations of resistors. There is, however, a clear symmetry in the
+problem which we can exploit to obtain the equivalent resistance of
+the network.
+The paths AA’, AD and AB are obviously symmetrically placed in the
+network. Thus, the current in each must be the same, say, I. Further,
+at the corners A’, B and D, the incoming current I must split equally
+into the two outgoing branches. In this manner, the current in all
+the 12 edges of the cube are easily written down in terms of I, using
+Kirchhoﬂ‘s first rule and the symmetry in the problem.
+Next take a closed loop, say, ABCC’EA, and apply Kirchhoffs second
+rule:
+
+—IR — (1/2)IR— IR + 8= 0
+where R is the resistance of each edge and 8 the emf of battery. Thus,
+
+8=§IR
+2
+
+The equivalent resistance Req of the network is
+E 5
+
+Req = — =
+31 6
+For R = 1 Q, Req = (5/6) 9 and for 8 = 10 V, the total current (= 31) in
+the network is
+31= 10 V/(5/6) S2 = 12 A, i.e., I= 4A
+The current ﬂowing in each edge can now be read off from the
+Fig. 3.23.
+
+It should be noted that because of the symmetry of the network, the
+great power of Kirchhoff s rules has not been very apparent in Example 3.6.
+In a general network, there will be no such simplification due
+symmetry, and only by application of Kirchhoff s rules to junctions and
+closed loops (as many as necessary to solve the unknowns in the network)
+can we handle the problem. This will be illustrated in Example 3. 7.
+
+Example 3.7 Determine the current in each branch of the network
+shown in Fig. 3.24.
+
+ 
+
+FIGURE 3.24
+
+2019-20
+
+Current
+lec’rrici’ry
+
+ 
+
+9'8 mama
+
+to
+
+:TUJ
+gm
+QB
+E:
+22’».
+50
+g:
+Job-h
+—o
+-g-x
+["93
+=3
+F.)
+5:93
+ED:
+0
+o.
+E:
+20
+8"!)
+0—5?
+a:
+—0
+5g
+£2.
+‘5‘”:
+<01
+’3.)
+_,
+Ea
+5'8
+_J..
+Lu
+\
+
+L's EI'IJWVXE
+
+117

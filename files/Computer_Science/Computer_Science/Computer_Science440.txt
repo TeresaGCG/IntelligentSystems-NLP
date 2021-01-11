@@ -1,0 +1,38 @@
+424 Chapter 6 Enhancing Performance with Plpellnlng
+a From before b From target c From fall through
+add $s1, $s2, $s3 sub $t4, $t5, $16_ add $sl , $s2, $s3
+if $s2 '" 0 then ... if $s1 '" 0 then
+I I I I
+Delay slot add $sl , $s2, $s3 Delay slot
+if$sl ",0 then -
+I sub $t4, $t5, $t6 ___
+I
+Delay slot
+Becomes Becomes Becomes
+add $sl , $s2, $s3
+if $s2 ",Othen - if$sl ",Othen -
+I I I
+add $sl , $s2, $s3
+add $sl, $s2, Ss3 1 sub $t4, $t5, $t6
+if$sl ",0 then -
+I
+I
+sub $t4, $t5, $t6
+FIGURE 6.40 Scheduling the branch delay slot. The top box each paIr shows the cooe before
+In
+scheduling; the bottom box shows the scheduled code. In (a), the delay slot is scheduled with an indepen 
+dem instruction from before the branch. This is the best choice. Strategies (b) and (c) are used when (a) is
+not possible. In the code sequences for (b) and (c), the use of S51 in the branch condition prevents the add
+instruction (whose destination is Ss 1) from being moved imo the branch delay slot. In (b) the branch 
+delay slot is scheduled from the target of the branch; usually the target instruction will need to be copied
+because it can be reached by another path. Strategy (b) is preferred when the branch is taken with high
+probability, such as a loop branch. Finally, the branch may be scheduled from the not-taken fall-through as
+in (c).To make this optimiwtion legal for (b) or (c), it mllSt be OK to execute the 5ub instruction when the
+branch goes in the wlexpected direction. By "OK" we mean that the work is wasted, but the program will
+still execute correctly. This is the case, for eL1mple, if St4 were an unused temporary register when the
+branch goes in the unexpected direction.
+Pipeline Summary
+Thus far, we have seen three models of execution: single cycle, multicycle, and
+pipelined. Pipelined control strives for 1 clock cycle per instruction, like single
+cycle, but also for a fast clock cycle, like multicycle. Let's revisit the example com 
+parison of single-cycle and multicycle processors.

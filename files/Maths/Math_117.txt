@@ -1,0 +1,21 @@
+Expressions and Equations
+117
+Subtract 5 from both sides
+Simplify
+Next, we want the coefficient in front of the variable to be 1. You
+can transform this equation by multiplying both sides of this
+equation by 3 and then simplifying:
+Multiply both sides by 3
+Simplify x= −24
+Finally, check your answer.
+Is  equal to −3? Yes.
+Example 2
+Solve the equation: 
+Solution: In this case, you will see terms with variables appearing
+on both sides of the equation. You want to collect all of the terms
+with variables on one side of the equation and then solve the
+equation using the same techniques described earlier. In order to
+get all of the variables on one side of the equation, we need to
+subtract  from both sides and simplify:
+Subtract  from both sides
+Simplify

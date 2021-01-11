@@ -1,0 +1,65 @@
+Recording of Transactions — II 1 19
+
+Sales Account
+
+Dr. Cr.
+? ?
+
+Cash
+Cash
+Bank
+
+Purchases Account
+
+Dr. Cr.
+Date Particulars J , F, Amount Date Particulars J , F, Amount
+7 7
+20 1 7
+J an.07 Bank 2,000
+
+Furniture Account
+
+Dr. Cr.
+
+Date Particulars J .F, Amount Date Particulars J .F, Amount
+? 7
+
+20 1 7
+
+Jan. 09 Cash 2,200
+
+Rohit Account
+
+Dr. Cr.
+Date Particulars J . F, Amount Date Particulars J , F. Amount
+7 7
+20 1 7
+Jan. 1 1 Cash 2,000
+
+Ovedraft Interest (Paid) Account
+
+Dr. Cr.
+7 ?
+--I---I-
+Jan. 16 Bank 200
+
+Telephone Expenses Account
+
+Dr. Cr.
+? ?
+2017
+Jan.20 Bank
+
+ 
+ 
+ 
+
+ 
+
+  
+   
+   
+   
+   
+
+2019-2020

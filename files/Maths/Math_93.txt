@@ -1,0 +1,20 @@
+Decimals
+93
+Problems involving multiplying by a power of 10 are the easiest mul-
+tiplication problems to solve. The effect of multiplying a decimal number
+by a power of 10 is that only the decimal point moves.
+First, let’s consider positive powers of 10: numbers such as 10, 100, or
+1,000. In this case, the problem becomes one of moving the decimal point
+to the right by one, two, or three places, depending on the power of 10
+being multiplied. For example:
+If you run out of 0s you can always put some in, as long as it is to the
+right of the decimal point.
+Negative powers of 10, such as 10–1, 10–2, and 10–3, are easy to repre-
+sent as decimal numbers. For example:
+Multiplying a decimal number by a negative power of 10, such as 0.1,
+0.01, or 0.001, involves moving the decimal point to the left by the magni-
+tude of the power of 10. For example:
+Lesson 5-3 Review
+Find the following products:
+1. 5.2 × 4.1 3. 4.58 × 9.2 5. 3.24 × 0.01
+2. 8.6 × 3.7 4. 4.58 × 1,000 6. 8.95 × 0.1

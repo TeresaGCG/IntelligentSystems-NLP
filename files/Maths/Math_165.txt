@@ -1,0 +1,33 @@
+Linear Functions and Graphs
+165
+above the x-axis have a positive y-coordinate and points below the x-
+axis have a negative y-coordinate. The points (2, −3) and (−1, 4) are
+shown in Figure 9.2.
+y-axis
+II I
+(–1, 4) 4
+2
+x-axis
+–2
+(2, –3)
+III IV
+Figure 9.2
+The coordinate axes divide the plane into four parts, called quad-
+rants. Quadrant I consists of those points that have positive values for
+both their x-coordinate and y-coordinate. Quadrant I is located in the
+upper right part of the plane. We continue
+on to Quadrants II, III, and IV in a
+Quadrant Coordinate counter-clockwise progression. Quadrant
+ Signs II consists of those points that have a
+I (+, +) negative value for their x-coordinate and
+a positive value for their y-coordinate.
+II (−, +) Quadrant III consists of those points
+that have negative values for both their
+III (−, −)
+x-coordinate and their y-coordinate. Fi-
+nally, Quadrant IV consists of those
+IV (+, −)
+points that have a positive value for their
+x-coordinate and a negative value for
+their y-coordinate. The signs for the x-coordinates and y-coordinates
+are summarized in the table on this page.

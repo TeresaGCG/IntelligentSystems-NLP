@@ -1,0 +1,35 @@
+230 Chapter 3 Arithmetic: for Computers
+3.9 [ IOJ <§3.2> If A is a 32-bit address, typically an instruction sequence such as
+1ui $tO, A_upper
+ori $tO, $tO . A_lower
+lw $sO , O(HOl
+can be used to load the word at A into a register (in this case, $sO). Consider the
+following alternative, which is more efficient:
+lui $tO, A_upper_adjusted
+lw $sO , A_lower($tO)
+Describe how A_upper is adjusted to allow this simpler code to work. (Hint:
+A_uppe r needs to be adjusted because A_lowe r will be sign-extended.)
+3.10 (10 ) <§3.3> Find the shortest sequence of MIPSinstructions to determine if
+there is a carry out from the addition of two registers, say, registers $t3 and $t4.
+Place a 0 or 1 in register $t 2 if the carry out is 0 or 1, respectively. (Hint: It can be
+done in two instructions.)
+II
+3.11 [15J <§3.3> For More Practice: Writing MIPS Code to Perfonn Arithmetic
+3.12 [IS) <§3.3> Suppose that all of the conditional branch instructions except
+beq and bne were removed from the MIPS instruction set along with s 1t and all
+of its variants (sl ti , sltu , sltui).Show how toperform
+slt $tO, $sO, $sl
+using the modified instruction set in which s 1t is not available. (Hint: It requires
+more than two instructions.)
+3.13 (10 ) <§3.3> Draw the gates for the Sum bit of an adder, given the equation
+on . page 8-28.
+3.14 [5J <§3.4> • For More PrJctice: Writing MIPSCode to Perform Arithmetic
+II
+3.15 [20J <§3.4> For More Practice: Writing MIPS Code to Perform Arithmetic
+3.16 [2 weeks) <§3.4> .. For More Practice: Simulating MIPS Machines
+15
+3.17 [I week) <§3.4> For More Practice: Simulating MIPS Machines
+III
+3.18 [5 J <§3.4> For More Practice: Carry Lookahead Adders
+3.19 [IS) <§3.4> .. For More Practice: Carry Lookahead Adders
+3.20 (10 ) <§3.4> .. For More Practice: Relative Performance of Adders

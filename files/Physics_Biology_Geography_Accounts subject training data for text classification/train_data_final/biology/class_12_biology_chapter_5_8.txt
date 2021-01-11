@@ -1,0 +1,65 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+Homozygous Homozygous
+recessive recessive
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WW4— V —>WW
+Dominant Phenotype
+(Genotype unknown)
+Result All ﬂowers are violet Half of the ﬂowers are violet and
+, half of the ﬂowers are white.
+Interpretatlon Unknown ﬂower
+is homozygous dominant Unknown ﬂower is heterozygous
+
+Figure 5.5 Diagrammatic representation of a test cross
+
+Based on his observations on monohybrid crosses Mendel proposed
+two general rules to consolidate his understanding of inheritance in
+monohybrid crosses. Today these rules are called the Principles or
+Laws of Inheritance: the First Law or Law of Dominance and the
+Second Law or Law of Segregation.
+
+5.2. 1 Law of Dominance
+
+(1) Characters are controlled by discrete units called factors.
+(ii) Factors occur in pairs.
+
+(iii) In a dissimilar pair of factors one member of the pair dominates
+(dominant) the other (recessive).
+
+The law of dominance is used to explain the expression of only one of
+the parental characters in a monohybrid cross in the F1 and the expression
+of both in the F2. It also explains the proportion of 3: 1 obtained at the F2.
+
+5.2.2 Law of Segregation
+
+This law is based on the fact that the alleles do not show any blending
+and that both the characters are recovered as such in the F2 generation
+though one of these is not seen at the F1 stage. Though the parents contain
+two alleles during gamete formation, the factors or alleles of a pair segregate
+from each other such that a gamete receives only one of the two factors.
+Of course, a homozygous parent produces all gametes that are similar
+while a heterozygous one produces two kinds of gametes each having
+one allele with equal proportion.
+
+2019—2020
+
+75

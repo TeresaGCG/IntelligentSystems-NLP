@@ -1,0 +1,53 @@
+i Physics
+
+ 
+
+LIGHT SOURCES AND PHOTOMETRY
+
+It is known that a body above absolute zero temperature emits electromagnetic radiation.
+The wavelength region in which the body emits the radiation depends on its absolute
+temperature. Radiation emitted by a hot body, for example, a tungsten ﬁlament lamp
+having temperature 2850 K are partly invisible and mostly in infrared (or heat) region.
+As the temperature of the body increases radiation emitted by it is in visible region. The
+sun with temperature of about 5500 K emits radiation whose energy versus wavelength
+graph peaks approximately at 550 nm corresponding to green light and is almost in the
+middle of the visible region. The energy versus wavelength distribution graph for a given
+body peaks at some wavelength, which is inversely proportional to the absolute
+temperature of that body.
+
+The measurement of light as perceived by human eye is called photometry. Photometry
+is measurement of a physiological phenomenon, being the stimulus of light as received
+by the human eye, transmitted by the optic nerves and analysed by the brain. The main
+physical quantities in photometry are (i) the luminous intensity of the source,
+(ii) the luminous ﬂux or flow of light from the source, and (iii) illuminance of the surface.
+The 81 unit of luminous intensity (I ) is candela (cd). The candela is the luminous intensity,
+in a given direction, of a source that emits monochromatic radiation of frequency
+540 X 1012 Hz and that has a radiant intensity in that direction of 1 / 683 watt per steradian.
+If a light source emits one candela of luminous intensity into a solid angle of one steradian,
+the total luminous ﬂux emitted into that solid angle is one lumen (lm). A standard
+100 watt incadescent light bulb emits approximately 1700 lumens.
+
+In photometry, the only parameter, which can be measured directly is illuminance. It
+is defined as luminous ﬂux incident per unit area on a surface (lm/m2 or lux). Most light
+meters measure this quantity. The illuminance E, produced by a source of luminous
+intensity I , is given by E = I / r2 , where r is the normal distance of the surface from the
+source. A quantity named luminance (L), is used to characterise the brightness of emitting
+or reﬂecting ﬂat surfaces. Its unit is cd/m2 (sometimes called ‘nit’ in industry). A good
+LCD computer monitor has a brightness of about 250 nits.
+
+Now, for ANOC, iis the exterior angle. Therefore, i= ANOM + ANCM
+
+'= —MN+—MN (9.13)
+OM MC
+Similarly,
+r=ANCM—ZNIM
+. _ w _ w 9 ,4
+1.e., r— MC MI ( - )
+
+Now, by Snell’s law
+n1 sin i= n2 sin r
+or for small angles
+
+324 nli = n2r
+
+2019-20

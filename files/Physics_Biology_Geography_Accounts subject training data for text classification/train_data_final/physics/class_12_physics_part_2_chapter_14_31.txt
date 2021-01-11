@@ -1,0 +1,71 @@
+l Physics
+
+ 
+
+ADDITIONAL EXERCISES
+
+14.8 The number of silicon atoms per n13 is 5 x 1028. This is doped
+simultaneously with 5 x 1022 atoms per n13 of Arsenic and 5 x 1020
+
+per n13 atoms of Indium. Calculate the number of electrons and holes.
+Given that nl. = 1.5 x 1016 m’s. Is the material n-type or p-type?
+
+14.9 In an intrinsic semiconductor the energy gap E9 is 1.2eV. Its hole
+mobility is much smaller than electron mobility and independent of
+temperature. What is the ratio between conductivity at 600K and
+that at 300K? Assume that the temperature dependence of intrinsic
+carrier concentration n1. is given by
+
+E9
+ni=n°eXp _2k T
+B
+
+where 110 is a constant.
+
+ 
+
+14.10 In a p-n junction diode, the current I can be expressed as
+
+I = I0 exp [ZZVT —1]
+
+B
+
+ 
+
+where I0 is called the reverse saturation current, V is the voltage
+across the diode and is positive for forward bias and negative for
+reverse bias, and I is the current through the diode, ICE is the
+Boltzmann constant (8.6X10‘5 eV/K) and T is the absolute
+temperature. If for a given diode IO = 5 X IO’IZA and T = 300 K, then
+
+(a) What will be the forward current at a forward voltage of 0.6 V?
+
+(b) What will be the increase in the current if the voltage across the
+diode is increased to 0.7 V?
+
+(c) What is the dynamic resistance?
+
+(d) What will be the current if reverse bias voltage changes from 1 V
+to 2 V?
+
+14.11 You are given the two circuits as shown in Fig. 14.36. Show that
+circuit (a) acts as OR gate while the circuit (b) acts as AND gate.
+
+A A °
+Y Y
+B
+B
+(a) FIGURE 14.36 (b)
+
+14.12 Write the truth table for a NAND gate connected as given in
+Fig. 14.37.
+
+AHEDH
+
+FIGURE 14.37
+
+Hence identify the exact logic operation carried out by this circuit.
+
+498
+
+2019-20

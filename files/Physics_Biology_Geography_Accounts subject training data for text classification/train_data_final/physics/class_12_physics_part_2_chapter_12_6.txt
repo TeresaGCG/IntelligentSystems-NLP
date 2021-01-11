@@ -1,0 +1,90 @@
+l Physics
+
+ 
+
+T
+
+Stopping
+potential
+(Vol
+
+Metal A
+
+Frequency of incident radiation (v)—>
+
+ 
+
+Fig. 1 1.4 that the stopping potentials are in the
+order V03 > V02 > V01 if the frequencies are in the
+order v3 > v2 > v1 . This implies that greater the
+frequency of incident light, greater is the
+maximum kinetic energy of the photoelectrons.
+Consequently, we need greater retarding
+potential to stop them completely. If we plot a
+graph between the frequency of incident radiation
+and the corresponding stopping potential for
+different metals we get a straight line, as shown
+in Fig. 1 1.5.
+
+  
+ 
+
+FIGURE 11.5 Variation of stopping potential V0 Th6 graph ShOWS that
+with frequency v of incident radiation for a (i) the stopping potential V0 varies linearlywith
+
+392
+
+given photosensitive material. the frequency of incident radiation for a given
+
+photosensitive material.
+
+(ii) there exists a certain minimum cut-off frequency v0 for which the
+stopping potential is zero.
+
+These observations have two implications:
+
+(i) The maximum kinetic energy of the photoelectrons varies linearly
+with the frequency of incident radiation, but is independent of its
+intensity.
+
+(ii) For a frequency v of incident radiation, lower than the cut-off
+
+frequency v0, no photoelectric emission is possible even if the
+
+intensity is large.
+
+This minimum, cut-off frequency v0, is called the threshold frequency.
+It is different for different metals.
+
+Different photosensitive materials respond diiferently to light. Selenium
+is more sensitive than zinc or copper. The same photosensitive substance
+gives different response to light of different wavelengths. For example,
+ultraviolet light gives rise to photoelectric effect in copper while green or
+red light does not.
+
+Note that in all the above experiments, it is found that, if frequency of
+the incident radiation exceeds the threshold frequency, the photoelectric
+emission starts instantaneously without any apparent time lag, even if
+the incident radiation is very dim. It is now known that emission starts in
+a time of the order of 10‘9 s or less.
+
+We now summarise the experimental features and observations
+described in this section.
+
+(i) For a given photosensitive material and frequency of incident radiation
+(above the threshold frequency), the photoelectric current is directly
+proportional to the intensity of incident light (Fig. 1 1.2).
+
+(ii) For a given photosensitive material and frequency of incident radiation,
+saturation current is found to be proportional to the intensity of
+incident radiation whereas the stopping potential is independent of
+its intensity (Fig. 1 1.3).
+
+(iii) For a given photosensitive material, there exists a certain minimum
+cut-off frequency of the incident radiation, called the threshold
+
+frequency, below which no emission of photoelectrons takes place,
+no matter how intense the incident light is. Above the threshold
+frequency, the stopping potential or equivalently the maximum kinetic
+
+2019-20

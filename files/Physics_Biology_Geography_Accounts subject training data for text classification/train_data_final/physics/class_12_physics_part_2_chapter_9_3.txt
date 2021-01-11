@@ -1,0 +1,61 @@
+l Physics
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Focal plane
+(C)
+
+FIGURE 9.3 Focus of a concave and convex mirror.
+
+The distance between the focus F and the pole P of the mirror is called
+the focal length of the mirror, denoted by f. We now show that f = R/ 2,
+where R is the radius of curvature of the mirror. The geometry
+of reﬂection of an incident ray is shown in Fig. 9.4.
+
+Let C be the centre of curvature of the mirror. Consider a
+ray parallel to the principal am’s striking the mirror at M. Then
+CM will be perpendicular to the mirror at M. Let 9 be the angle
+of incidence, and MD be the perpendicular from M on the
+principal axis. Then,
+
+AMCP = 0 and AMFP = 20
+
+ 
+
+ 
+
+ 
+
+ 
+
+Now,
+MD MD
+tan6=C—D and tan 2&2 E (9.1)
+. ‘ For small 0, which is true for paraxial rays, tan6 z 0,
+6 tan 20m 26. Therefore, Eq. (9.1) gives
+MD MD
+5 = 2 0—D
+(b) or, FD = % (9.2)
+
+FIGURE 9'4 969mm“, Of Now, for small 6, the point D is very close to the point P.
+reﬂectlon of an 111c1dent ray on
+
+(a) concave Spherical mirror. Therefore, FD = f and CD = R. Equation (9.2) then gives
+and (b) convex spherical mirror. f: R/2 (9-3)
+
+9.2.3 The mirror equation
+
+If rays emanating from a point actually meet at another point after
+reﬂection and / or refraction, that point is called the image of the first
+
+312 point. The image is real if the rays actually converge to the point; it is
+
+2019-20

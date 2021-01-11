@@ -1,0 +1,79 @@
+396
+
+ 
+
+ 
+
+l Physics
+
+EXAMPLE 11.2
+
+ 
+
+(i) In interaction of radiation with matter, radiation behaves as if it is
+made up of particles called photons.
+
+(ii) Each photon has energy E (= hv) and momentum p (= h v/c), and
+speed c, the speed of light.
+
+(iii) All photons of light of a particular frequency v, or wavelength A, have
+the same energy E (=hv = hc/ﬂ.) and momentum p (= hv/c= h/l),
+whatever the intensity of radiation may be. By increasing the intensity
+of light of given wavelength, there is only an increase in the number of
+photons per second crossing a given area, with each photon having
+the same energy. Thus, photon energy is independent of intensity of
+radiation.
+
+(iv) Photons are electrically neutral and are not deﬂected by electric and
+magnetic ﬁelds.
+
+(v) In a photon-particle collision (such as photon-electron collision), the
+total energy and total momentum are conserved. However, the number
+of photons may not be conserved in a collision. The photon may be
+absorbed or a new photon may be created.
+
+Example 11.1 Monochromatic light of frequency 6.0 ><1014 Hz is
+produced by a laser. The power emitted is 2.0 ><10‘3 W. (a) What is the
+energy of a photon in the light beam? (b) How many photons per second,
+on an average, are emitted by the source?
+
+Solution
+(a) Each photon has an energy
+E = h v = (6.63 ><10‘34 J s) (6.0 x1014 Hz)
+= 3.98 x 10—ng
+(b) If N is the number of photons emitted by the source per second,
+the power P transmitted in the beam equals N times the energy
+per photon E, so that P = N E. Then
+
+_ P _ 2.0x10'3W
+
+N _ _—
+E 3.98x10‘19J
+= 5.0 ><1015 photons per second.
+
+Example 11.2 The work function of caesium is 2.14 eV. Find (a) the
+threshold frequency for caesium, and (b) the wavelength of the incident
+light if the photocurrent is brought to zero by a stopping potential of
+0.60 V.
+
+Solution
+
+(a) For the cut-off or threshold frequency, the energy h vO of the incident
+radiation must be equal to work function ¢0, so that
+
+v0: &_ 2.14eV
+
+h 6.63x10'34Js
+
+_ 2.14 xl.6>< 10ng
+
+6.63 x 10‘34J 5
+Thus, for frequencies less than this threshold frequency, no
+photoelectrons are ejected.
+(b) Photocurrent reduces to zero, when maximum kinetic energy of
+the emitted photoelectrons equals the potential energy e VO by the
+retarding potential V0. Einstein’s Photoelectric equation is
+
+= 5.16 x1014 Hz
+
+2019-20

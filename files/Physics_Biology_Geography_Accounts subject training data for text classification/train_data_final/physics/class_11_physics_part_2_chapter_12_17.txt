@@ -1,0 +1,55 @@
+l 1. In a refrigerator or a heat pump, the system extracts heat 92 from the cold reservoir and
+releases Ql amount of heat to the hot reservoir, with work W done on the system. The
+co—efficient of performance of a refrigerator is given by
+
+2%: Q2
+W 91—92
+
+a
+
+12. The second law of thermodynamics disallows some processes consistent with the First
+Law of Thermodynamics. It states
+
+Kelvin—Planck statement
+
+No process is possible whose sole result is the absorption of heat from a reservoir and
+complete conversion of the heat into work.
+
+Clausius statement
+
+No process is possible whose sole result is the transfer of heat from a colder object to a
+hotter object.
+
+Put simply, the Second Law implies that no heat engine can have efficiency 1] equal to
+l or no refrigerator can have co-efficient of performance on equal to infinity.
+
+13. A process is reversible if it can be reversed such that both the system and the surroundings
+return to their original states, with no other change anywhere else in the universe.
+Spontaneous processes of nature are irreversible. The idealised reversible process is a
+quasi—static process with no dissipative factors such as friction, viscosity, etc.
+
+. Carnot engine is a reversible engine operating between two temperatures Tl (source) and
+T2 (sink). The Carnot cycle consists of two isothermal processes connected by two
+adiabatic processes. The efficiency of a Carnot engine is given by
+
+(Carnot engine)
+
+No engine operating between two temperatures can have efficiency greater than that of
+the Carnot engine.
+
+. If Q > 0, heat is added to the system
+If Q < 0, heat is removed to the system
+If W > 0, Work is done by the system
+If W < 0, Work is done on the system
+
+Quantity
+
+Co—efficienty of volume , [K4]
+expansion
+
+Heat supplied to a system [ML2 ’I‘Z] Qis not a state
+variable
+
+Specific heat capacity [L2 T2 K'll
+
+Thermal Conductivity [ML’I‘S K'l]

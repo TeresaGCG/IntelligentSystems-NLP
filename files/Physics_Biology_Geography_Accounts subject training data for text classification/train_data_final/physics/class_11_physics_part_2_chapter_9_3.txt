@@ -1,0 +1,140 @@
+238
+
+PHYSICS
+
+is known as hydraulic stress and in magnitude
+is equal to the hydraulic pressure (applied force
+per unit area).
+
+The strain produced by a hydraulic pressure
+is called volume strain and is defined as the
+ratio of change in volume (AV) to the original
+volume (V).
+
+A_V
+
+V
+
+Since the strain is a ratio of change in
+dimension to the original dimension, it has no
+units or dimensional formula.
+
+Volume strain = (9.5)
+
+9.4 HOOKE'S LAW
+
+Stress and strain take different forms in the
+situations depicted in the Fig. (9.2). For small
+deformations the stress and strain are
+proportional to each other. This is known as
+Hooke’s law.
+
+Thus,
+stress o< strain
+stress = k x strain (9.6)
+
+where k is the proportionality constant and is
+known as modulus of elasticity.
+
+Hooke’s law is an empirical law and is found
+to be valid for most materials. However, there
+are some materials which do not exhibit this
+linear relationship.
+
+9.5 STRESS-STRAIN CURVE
+
+The relation between the stress and the strain
+for a given material under tensile stress can be
+found experimentally. In a standard test of
+tensile properties, a test cylinder or a wire is
+stretched by an applied force. The fractional
+change in length (the strain) and the applied
+force needed to cause the strain are recorded.
+The applied force is gradually increased in steps
+and the change in length is noted. A graph is
+plotted between the stress (which is equal in
+magnitude to the applied force per unit area)
+and the strain produced. A typical graph for a
+metal is shown in Fig. 9.3. Analogous graphs
+for compression and shear stress may also be
+obtained. The stress-strain curves vary from
+material to material. These curves help us to
+understand how a given material deforms with
+increasing loads. From the graph, we can see
+that in the region between 0 to A, the curve is
+linear. In this region, Hooke’s law is obeyed.
+
+2019-20
+
+The body regains its original dimensions when
+the applied force is removed. In this region, the
+solid behaves as an elastic body.
+
+ 
+      
+    
+  
+  
+
+Fracture
+B I point
+A I
+
+      
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+A[fl/Permanent set
+
+. 30%
+<1% Straln —>
+
+Fig. 9.3 A typical stress—strain curve for a metal.
+
+In the region from A to B, stress and strain
+are not proportional. Nevertheless, the body still
+returns to its original dimension when the load
+is removed. The point B in the curve is known
+as yield point (also known as elastic limit) and
+the corresponding stress is known as yield
+strength (0y) of the material.
+
+If the load is increased further, the stress
+developed exceeds the yield strength and strain
+increases rapidly even for a small change in the
+stress. The portion of the curve between B and
+D shows this. When the load is removed, say at
+some point C between B and D, the body does
+not regain its original dimension. In this case,
+even when the stress is zero, the strain is not
+zero. The material is said to have a permanent
+set. The deformation is said to be plastic
+deformation. The point D on the graph is the
+ultimate tensile strength (on) of the material.
+Beyond this point, additional strain is produced
+even by a reduced applied force and fracture
+occurs at point E. If the ultimate strength and
+fracture points D and E are close, the material
+is said to be brittle. If they are far apart, the
+material is said to be ductile.
+
+As stated earlier, the stress-strain behaviour
+varies from material to material. For example,
+rubber can be pulled to several times its original
+length and still returns to its original shape.
+Fig. 9.4 shows stress-strain curve for the elastic
+tissue of aorta, present in the heart. Note that
+although elastic region is very large, the material

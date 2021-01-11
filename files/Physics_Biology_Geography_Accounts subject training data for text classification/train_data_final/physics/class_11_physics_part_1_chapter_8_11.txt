@@ -1,0 +1,151 @@
+l94
+
+PIIYSICS
+
+spheres. The neutral point N (see Fig. 8.10) is
+defined as the position where the two forces
+cancel each other exactly. If ON = r, we have
+
+GMm_4GMm
+
+r2 (6R—r)2
+(6R — r)2 = 4r2
+6R — r = :2r
+r = 2R or — 6R.
+
+The neutral point r = — 6R does not concern
+us in this example. Thus ON = r = 2R. It is
+sufficient to project the particle with a speed
+which would enable it to reach N. Thereafter,
+the greater gravitational pull of 4M would
+suffice. The mechanical energy at the surface
+of M is
+
+ 
+
+1 2 GMm 4GMm
+Ei— mu
+2 R 5R
+
+At the neutral point N, the speed approaches
+zero. The mechanical energy at N is purely
+potential.
+
+_GMm_4GMm
+2R 4R
+
+From the principle of conservation of
+mechanical energy
+
+ 
+
+EN:
+
+ 
+
+1 2 GM 4GM GM GM
+v _ _ _ _ _
+2 R 5R 2R R
+
+ 
+
+or
+2 2GM 4 l)
+v = ———
+
+ 
+
+R 5 2
+1/2
+”2(3GM] ‘
+5R
+
+A point to note is that the speed of the projectile
+is zero at N, but is nonzero when it strikes the
+heavier sphere 4 M The calculation of this speed
+is left as an exercise to the students.
+
+8.9 EARTH SATELLITES
+
+Earth satellites are objects which revolve around
+the earth. Their motion is very similar to the
+motion of planets around the Sun and hence
+Kepler’s laws of planetary motion are equally
+applicable to them. In particular, their orbits
+around the earth are circular or elliptic. Moon
+is the only natural satellite of the earth with a
+near circular orbit with a time period of
+approximately 27.3 days which is also roughly
+equal to the rotational period of the moon about
+
+2019-20
+
+its own axis. Since, 1957, advances in
+technology have enabled many countries
+including India to launch artificial earth
+satellites for practical use in fields like
+telecommunication, geophysics and
+meteorology.
+
+We will consider a satellite in a circular orbit
+of a distance (RE + h) from the centre of the earth,
+where RE = radius of the earth. If m is the mass
+of the satellite and Vits speed, the centripetal
+force required for this orbit is
+
+mV2
+F(centripetal) = —( R + h) (8.33)
+E
+
+directed towards the centre. This centripetal force
+is provided by the gravitational force, which is
+
+G m M E
+F(gravitation) = m (8.34)
+E
+
+where ME is the mass of the earth.
+Equating R.H.S of Eqs. (8.33) and (8.34) and
+cancelling out m, we get
+G M
+V2 : E
+—(RE +h) (8.35)
+
+Thus V decreases as h increases. From
+equation (8.35),the speed V for h = O is
+
+V2 (h=0) = GM/RE = gRE (8.36)
+where we have used the relation
+
+g =GM/RE2. In every orbit, the satellite
+
+traverses a distance 27t(RE+ h) with speed V. Its
+time period Ttherefore is
+
+272(RE + h) _ 27r(RE + m3”
+
+V \fG—IVIE (8.37)
+
+on substitution of value of V from Eq. (8.35).
+Squaring both sides of Eq. (8.37), we get
+
+T2 = k (RE+ h)3 (where k = 47172/ GME) (8.38)
+
+which is Kepler’s law of periods, as applied to
+motion of satellites around the earth. For a
+satellite very close to the surface of earth h can
+be neglected in comparison to RE in Eq. (8.38).
+Hence, for such satellites, Tis T), where
+
+T0 = 271'JRE /g (8.39)
+
+If we substitute the numerical values
+g : 9.8 m s2 and RE = 6400 km., we get
+
+6.4><106
+T22"—
+° 7‘ 9.8 S
+
+Which is approximately 85 minutes.
+
+T—

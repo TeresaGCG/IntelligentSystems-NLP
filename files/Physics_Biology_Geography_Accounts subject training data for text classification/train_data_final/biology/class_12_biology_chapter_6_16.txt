@@ -1,0 +1,54 @@
+MOLECULAR BASIS OF INHERITANCE
+
+(288, 188, and 5.88), whereas the RNA polymerase III is responsible
+for transcription of tRNA, 5srRNA, and snRNAs (small nuclear
+RNAs). The RNA polymerase II transcribes precursor of mRNA, the
+heterogeneous nuclear RNA (hnRNA).
+
+(ii) The second complexity is that the primary transcripts contain both
+the exons and the introns and are non-functional. Hence, it is
+subjected to a process called splicing where the introns are removed
+and exons are joined in a defined order. hnRNA undergoes
+additional processing called as capping and tailing. In capping an
+unusual nucleotide (methyl guanosine triphosphate) is added to
+the 5'—end of hnRNA. In tailing, adenylate residues (200-300) are
+added at 3'-end in a template independent manner. It is the fully
+processed hnRNA, now called mRNA, that is transported out of the
+nucleus for translation (Figure 6.1 1).
+
+The significance of such complexities is now beginning to be
+understood. The split— gene arrangements represent probably an ancient
+feature of the genome. The presence of introns is reminiscent of antiquity,
+and the process of splicing represents the dominance of RNA-world. In
+recent times, the understanding of RNA and RNA-dependent processes
+in the living system have assumed more importance.
+
+6.6 GENETIC CODE
+
+During replication and transcription a nucleic acid was copied to form
+another nucleic acid. Hence, these processes are easy to conceptualise
+on the basis of complementarity. The process of translation requires
+transfer of genetic information from a polymer of nucleotides to synthesise
+a polymer of amino acids. Neither does any complementarity exist between
+nucleotides and amino acids, nor could any be drawn theoretically. There
+existed ample evidences, though, to support the notion that change in
+nucleic acids (genetic material) were responsible for change in amino acids
+in proteins. This led to the proposition of a genetic code that could direct
+the sequence of amino acids during synthesis of proteins.
+
+If determining the biochemical nature of genetic material and the
+structure of DNA was very exciting, the proposition and deciphering of
+genetic code were most challenging. In a very true sense, it required
+involvement of scientists from several disciplines — physicists, organic
+chemists, biochemists and geneticists. It was George Gamow, a physicist,
+who argued that since there are only 4 bases and if they have to code for
+20 amino acids, the code should constitute a combination of bases. He
+suggested that in order to code for all the 20 amino acids, the code should
+be made up of three nucleotides. This was a very bold proposition, because
+a permutation combination of 43 (4 X 4 X 4) would generate 64 codons;
+generating many more codons than required.
+
+Providing proof that the codon was a triplet, was a more daunting
+task. The chemical method developed by Har Gobind Khorana was
+
+2019-2020

@@ -1,0 +1,41 @@
+8.5 Interfacing I/ O Devices to the Processor, Memory, and Operating System 591
+for at least some devices, employs I/O interrupts to indicate to the processor that
+an I/O device needs attention. When a device wants to notify the processor that it
+has completed some operation or needs attention, it causes the processor to be
+interrupted.
+An I/O interrupt is just like the exceptions we saw in Chapters 5, 6, and 7, with
+two important exceptions:
+I. An I/O interrupt is asynchronous with respect to the instruction execution.
+That is, the interrupt is not associated with any instruction and does not
+prevent the instruction completion. This is very different from either page
+fault exceptions or exceptions such as arithmetic overflow. Our control unit
+need only check for a pending I/O interrupt at the time it starts a new
+instruction.
+2. In addition to the fact that an I/O interrupt has occurred, we would like to
+convey further information such as the identity of the device generating the
+interrupt. Furthermore, the interrupts represent devices that may have dif 
+ferent priorities and whose interrupt requests have different urgencies asso 
+ciated with them.
+To communicate information to the processor, such as the identity of the
+device raising the interrupt, a system can use either vectored interrupts or an
+exception Cause register. When the processor recognizes the interrupt, the device
+can send either the vector address or a status field to place in the Cause register. As
+a result, when the OS gets control, it knows the identity of the device that caused
+the interrupt and can immediately interrogate the device. An interrupt mecha 
+nism eliminates the need for the processor to poll the device and instead allows
+the processor to focus on executing programs.
+Interrupt Priority Levels
+To deal with the different priorities of the I/O devices, most interrupt mechanisms
+have several levels of priority: UNIX operating systems use four to six levels. These
+priorities indicate the order in which the processor should process interrupts.
+Both internally generated exceptions and external I/O interrupts have priorities;
+typically, I/O interrupts have lower priority than internal exceptions. There may
+be multiple I/O interrupt priorities, with high-speed devices associated with the
+higher priorities.
+To support priority levels for interrupts, MIPS provides the primitives that let
+the operating system implement the policy, similar to how MIPS handles TLB
+misses. Figure 8.1 3 shows the key registers, and Section A.7 in . Appendix A
+gives more details.
+The Status register determines who can interrupt the computer. If the interrupt
+enable bit is 0, then none can interrupt. A more refined blocking of interrupts is
+available in the interrupt mask field. There is a bit in the mask corresponding to

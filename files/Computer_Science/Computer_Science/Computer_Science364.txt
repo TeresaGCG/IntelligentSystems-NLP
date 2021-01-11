@@ -1,0 +1,66 @@
+348 Chapter 5 The Processor: Datapath and Control
+would need to be extended to handle the demands of the more complex
+instructions without reusing components, which would be completely
+impractical. For example, a single-cycle datapath, which doesn't reuse com 
+ponents, for the IA-32 would require several data memories and a very
+microprogrammed(;ontrol A large number of ALUs.
+method ofspecifying control
+Using the multicycle datapath and a microprogrammed controller pro 
+that uses microcode rather than
+vides a framework for implementing the IA-32 instruction set. The challeng 
+a finite state representation.
+ing task, however, is creating a high-performance implementation , which
+hardwired control An imple  requires dea ling with the diversity of the requirements arising from different
+mentation offinite state
+instructions. Simply put, a high-performance implementation needs to ensure
+machine control typically using
+that the simple instructions execute quickly, and that the burden of the com  
+programmable logic arrays
+plexities of the instruction set penalize primarily the complex, less frequently
+(PIAs) or collections ofPLAs
+used, instructions.
+and random logic.
+To accomplish this goal, every Intel implementation of the IA-32 architecture
+since the 486 has used a combination of hardwired control to handle simple
+microcode The set of micro  instructions, and microcoded control to handle the more complex instructions. For
+instructions that control a
+those instructions that can be executed in a single pass through the datapath- those
+processor.
+with complexity similar to a MIPSinstmction- the hardwired control generates the
+control information and executes the instmction in one pass through the datapath
+that takes a small number of clock cycles. Those instructions that require multiple
+datapath passes and complex sequencing are handled by the microcoded controller
+that takes a larger number of cycles and multiple passes throUgil the datapath to
+complete the execution of the instmction. The benefit of this approach is that it
+enables the designer to achieve low cycle counts for the simple instmctions without
+having to build the enormously complex datapath that would be required to handle
+the full generality of the most complex instmctions.
+The Structure of the Pentium 4 Implementation
+superscalar An advanced pipe 
+Recent Pentium processors are capable of executing more than one instruction
+lining technique that enables the
+per clock, using an advanced pipelining technique, called superscalar. We
+processor to execute more than
+describe how a superscalar processor works in the next chapter. The important
+one instruction per dock cycle.
+thing to understand here is that executing more than one instruction per clock
+mkroinstruction A represen  requires duplicating the datapath resources. The simplest way to think about this
+tation of control using low-level
+is that the processor has multiple datapaths, although these are tailored to handle
+instructions, each ofwhich
+one class of instmctions: say, loads and stores, ALU operations, or branches. In
+asserts a set of control sign als
+this way, the processor is able to execute a load or store in the same clock cycle that
+that are active on a given dock
+it is also executing a branch and an ALU operation. The Pentium III and 4 allow
+cycle as well as specifies what
+up to three IA-32 instmctions to execute in a clock cycle.
+microinstruction to execute next.
+The Pentium III and Pentium 4 execute simple microinstructions similar to
+RIse 
+micro-operations The
+MIPS instructions, called micro-operations in Intel terminology. These microin 
+like instructions directly exe 
+structions are fully self-contained operations that are initially about 70 bits wide.
+cuted by the hardware in recent
+Pentium implementations. The control of datapath to implement these microinstmctions is completely hard-

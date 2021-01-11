@@ -1,0 +1,53 @@
+412 Chapter 6 Enhancing Performance with Plpellnlng
+Elaboration: Forwarding can also help with hazards when store instructions are
+dependent on other instructions. Since they use just one data value during the MEM
+stage, forwarding is easy. But consider loads immediately followed by stores. We need
+to add more forwarding hardware to make memory-to-memory copies run faster. If we
+were to redraw Figure 6.29 on page 408, replacing the sub and and instructions by 1w
+and an SW, we would see that it is possible to avoid a stall, since the data exists in the
+MEMj WB register of a load instruction in time for its use in the MEM stage of a store
+instruction. We would need to add forwarding into the memory access stage for this
+option. We leave this modification as an exercise.
+In addition, the signed-immediate input to the ALU, needed by loads and stores, is
+missing from the datapath in Figure 6 .32 on page 411. Since central control decides
+between register and immediate, and since the forwarding unit chooses the pipeline
+register for a register input to the ALU, the easiest solution is to add a 2:1 multiplexor
+that chooses between the ForwardB multiplexor output and the signed immediate.
+Figure 6 .33 shows this addition. Note that this solution differs from what we learned in
+Chapter 5, where the multiplexor controlled by line ALUSrcB was expanded to include
+the immediate input.
+IDfEX EXfMEM MEMJVoIB
+- -
+e-
+~
+-
+M
+I- ,
+"
+I' "
+~
+Registers
+AA,rc
+f-
+~ ALU
+I-
+~
+M
+M V
+D.~
+", ," memory M
+"
+- '
+~
+-
+I-
+-
+M
+,
+- "
+-
+'---
+Forwarding
+un~
+FIGURE 6.33 A close-up of the datapath In Figure 6.30 on page 409 shows a 2:1 multi 
+plexor, which has been added to select the signed Immediate as an ALU Input.

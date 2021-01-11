@@ -1,0 +1,34 @@
+56 Chapter 2 Instructions: Language of the Computer
+Hardware In addition to associating variables with registers, the compiler allocates data
+structures like arrays and structures to locations in memory. The compiler can
+Software
+then place the proper starting address into the data transfer instructions.
+Interface
+Since 8-bit bytes are useful in many programs, most architectures address indi 
+vidual bytes. Therefore, the address of a word matches the address of one of the 4
+bytes within the word. Hence, addresses of sequential words differ by 4. For exam 
+ple, Figure 2.3 shows the actual MIPS addresses for Figure 2.2; the byte address of
+the third word is 8.
+In MIPS, words must start at addresses that are multiples of 4. This require 
+alignment restriction ment is called an alignment restriction, and many architectures have it. (Chapter
+A requirement that data be 5 suggests why alignment leads to faster data transfers.)
+aligned in memory on natural
+Computers divide into those that use the address of the leftmost or "big end"
+boundaries
+byte as the word address versus those that use the rightmost or "little end" byte.
+MIPS is in the Big Endian camp. (Appendix A, page A-43, shows the two options
+to number bytes in a word.)
+Byte addressing also affects the array index. To get the proper byte address in
+the code above, the offset to be added to the base register $s3 must be 4 X 8, or 32,
+so that the load address will select A[8] and not A[8/4] . (See the related pitfall
+of page 144 of Section 2.1 7.)
+,
+12 100
+8 10
+4 101
+0 1
+Address Data
+Processor Memory
+FIGURE 2.3 Actual MIPS memory addresses and contents of memory for those words.
+The changed addresses are highlighted to contrast with Figure 2.2.Since MIPS addresses each byte, word
+addresses are multiples of four:there are four bytes in a word.

@@ -1,0 +1,58 @@
+154 Accountancy
+
+10 Received cash from Rahul 1,000
+15 Bought goods for cash 8,000
+22 Bought goods by cheque 10,000
+25 Paid to Shyam by cash 20,000
+30 Drew from Bank for office use 2,000
+31 Rent paid by cheque 1 ,000
+
+(Ans. Cash in hand 7 5,000: cash at bank 7 37,000)
+
+5. Prepare a double column cash book with the help of following information
+for December 20 16:
+
+i
+01 Started business with cash 1,20,000
+03 Cash paid into bank 50,000
+05 Purchased goods from Sushmita 20,000
+06 Sold goods to Dinker and received a cheque 20,000
+10 Paid to Sushmita cash 20,000
+14 Cheque received on December 06, 20 16 deposited into bank
+18 Sold goods to Rani 12,000
+20 Cartage paid in cash 500
+22 Received cash from Rani 12,000
+27 Commission received 5,000
+30 Drew cash for personal use 2,000
+
+(Ans. Cash in hand ? 64,500 : Cash at bank 7 70,000)
+6. Enter the following transactions in double column cash book of M / s Ambica
+
+Traders for July 20 1 7:
+
+7
+01 Commenced business with cash 50,000
+03 Opened bank account with ICICI 30,000
+05 Purchased goods for cash 10,000
+10 Purchased office machine for cash 5,000
+15 Sales goods on credit from Rohan and received chaeque 7,000
+18 Cash sales 8,000
+20 Rohan’s cheque deposited into bank
+22 Paid cartage by cheque 500
+25 Cash withdrawn for personal use 2,000
+30 Paid rent by cheque 1 ,000
+
+(Ans. Cash in hand 7 1 1,000, Cash at bank 7 35,500]
+7. Prepare double column cash book from the following information for
+
+July 20 1 7:
+?
+01 Cash In hand 7,500
+Bank overdraft 3,500
+03 Paid wages 200
+05 Cash sales 7,000
+10 Cash deposited into bank 4,000
+15 Goods purchased and paid by cheque 2,000
+20 Paid rent 500
+
+2019-2020

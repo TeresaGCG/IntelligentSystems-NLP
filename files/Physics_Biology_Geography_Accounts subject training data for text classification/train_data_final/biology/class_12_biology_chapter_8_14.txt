@@ -1,0 +1,55 @@
+HUMAN HEALTH AND DISEASE
+
+cancer and a large number of them die from it annually. The mechanisms
+that underlie development of cancer or oncogenic transformation of cells,
+its treatment and control have been some of the most intense areas of
+research in biology and medicine.
+
+In our body, cell growth and differentiation is highly controlled and
+regulated. In cancer cells, there is breakdown of these regulatory
+mechanisms. Normal cells show a property called contact inhibition by
+virtue of which contact with other cells inhibits their uncontrolled growth.
+Cancer cells appears to have lost this property. As a result of this, cancerous
+cells just continue to divide giving rise to masses of cells called tumors.
+Tumors are of two types: benign and malignant. Benign tumors normally
+remain conﬁned to their original location and do not spread to other parts
+of the body and cause little damage. The malignant tumors, on the
+other hand are a mass of proliferating cells called neoplastic or tumor
+cells. These cells grow very rapidly, invading and damaging the
+surrounding normal tissues. As these cells actively divide and grow they
+also starve the normal cells by competing for vital nutrients. Cells sloughed
+from such tumors reach distant sites through blood, and wherever they
+get lodged in the body, they start a new tumor there. This property called
+metastasis is the most feared property of malignant tumors.
+
+Causes of cancer : Transformation of normal cells into cancerous
+neoplastic cells may be induced by physical, chemical or biological agents.
+These agents are called carcinogens. Ionising radiations like X—rays and
+gamma rays and non-ionizing radiations like UV cause DNA damage
+leading to neoplastic transformation. The chemical carcinogens present
+in tobacco smoke have been identiﬁed as a major cause of lung cancer.
+Cancer causing viruses called oncogenic viruses have genes called viral
+oncogenes. Furthermore, several genes called cellular oncogenes
+(c-onc) or proto oncogenes have been identiﬁed in normal cells which,
+when activated under certain conditions, could lead to oncogenic
+transformation of the cells.
+
+Cancer detection and diagnosis : Early detection of cancers is essential
+as it allows the disease to be treated successfully in many cases. Cancer
+detection is based on biopsy and histopathological studies of the tissue
+and blood and bone marrow tests for increased cell counts in the case of
+leukemias. In biopsy, a piece of the suspected tissue cut into thin sections
+is stained and examined under microscope (histopathological studies) by
+a pathologist. Techniques like radiography (use of X—rays), CT (computed
+tomography) and MRI (magnetic resonance imaging) are very useful to
+detect cancers of the internal organs. Computed tomography uses X—rays
+to generate a three-dimensional image of the internals of an object. MRI
+uses strong magnetic ﬁelds and non-ionising radiations to accurately detect
+pathological and physiological changes in the living tissue.
+
+Antibodies against cancer-specific antigens are also used for
+detection of certain cancers. Techniques of molecular biology can be
+
+2019-2020
+
+157

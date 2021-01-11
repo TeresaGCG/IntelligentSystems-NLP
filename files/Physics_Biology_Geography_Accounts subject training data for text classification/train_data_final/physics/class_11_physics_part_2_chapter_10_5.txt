@@ -1,0 +1,98 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+ 
+
+Answer Here h= 1000m and p = 1.03 x 103kgm'3.
+(a) From Eq. (10.6), absolute pressure
+P = Pa + p gh
+= 1.01 x 105 Pa
++ 1.03 x 103kg m‘3 x 10 m 8'2 x 1000 m
+= 104.01 x 105 Pa
+z 104 atm
+(b) Gauge pressure is P —Pa= p gh = P g
+Pg = 1.03 x 103 kgm‘3x 10 ms2 x 1000 m
+= 103 x 105 Pa
+z 103 atIn
+(C) The pressure outside the submarine is
+P = Pa + p gh and the pressure inside it is Pa.
+Hence, the net pressure acting on the
+window is gauge pressure, P g = pgh. Since
+the area of the window is A = 0.04 m2, the
+force acting on it is
+F=PgA= 103x 105Pa>< 0.04m2=4.12>< 105N
+4
+
+10.2.4 Hydraulic Machines
+
+Let us now consider what happens when we
+change the pressure on a ﬂuid contained in a
+vessel. Consider a horizontal cylinder with a
+piston and three vertical tubes at different
+points [Fig. 10.6 (a)]. The pressure in the
+horizontal cylinder is indicated by the height of
+liquid column in the vertical tubes. It is necessarily
+the same in all. If we push the piston, the ﬂuid level
+
+rises in all the tubes, again reaching the same level
+in each one of them.
+
+ 
+
+Fig 1 0.6 (a) Whenever external pressure is applied
+on any part of a ﬂuid in a vessel, it is
+equally transmitted in all directions.
+
+This indicates that when the pressure on the
+cylinder was increased, it was distributed
+uniformly throughout. We can say whenever
+external pressure is applied on any part of a
+ﬂuid contained in a vessel, it is transmitted
+undiminished and equally in all directions.
+This is another form of the Pascal’s law and it
+has many applications in daily life.
+
+A number of devices, such as hydraulic lift
+and hydraulic brakes, are based on the Pascal’s
+law. In these devices, ﬂuids are used for
+transmitting pressure. In a hydraulic lift, as
+shown in Fig. 10.6 (b), two pistons are separated
+by the space ﬁlled with a liquid. A piston of small
+cross-section A1 is used to exert a force F1 directly
+
+F
+on the liquid. The pressure P = All is
+transmitted throughout the liquid to the larger
+cylinder attached with a larger piston of area A2,
+which results in an upward force of P X A2.
+
+Therefore, the piston is capable of supporting a
+large force (large weight of, say a car, or a truck,
+
+Archemedes' Principle
+
+Fluid appears to provide partial support to the objects placed in it. When a body is wholly or partially
+immersed in a ﬂuid at rest. the ﬂuid exerts pressure on the surface of the body in contact with the
+ﬂuid. The pressure is greater on lower surfaces of the body than on the upper surfaces as pressure in
+a ﬂuid increases with depth. The resultant of all the forces is an upward force called buoyant force.
+Suppose that a cylindrical body is immersed in the ﬂuid. The upward force on the bottom of the body
+is more than the downward force on its top. The ﬂuid exerts a resultant upward force or buoyant force
+on the body equal to (P2— P1] x A (Fig. 10.3]. We have seen in equation 10.4 that [PZ—P1]A = pghA. Now.
+hA ls the volume of the solid and phA is the weight of an equivaliant volume of the ﬂuid. (PQ—P1)A = mg.
+Thus. the upward force exerted is equal to the weight of the displaced ﬂuid.
+
+The result holds true irrespective of the shape of the object and here cylindrical object is considered
+only for convenience. This is Archimedes' principle. For totally immersed objects the volume of the
+ﬂuid displaced by the object is equal to its own volume. If the density of the immersed object is more
+than that of the ﬂuid, the object will sink as the weight of the body is more than the upward thrust. If
+the density of the object is less than that of the ﬂuid. it ﬂoats in the ﬂuid partially submerged. To
+calculate the volume submerged, suppose the total volume of the object is VS and a part Vp of it is
+submerged in the ﬂuid. Then. the upward force which is the weight of the displaced ﬂuid is ngp,
+which must equal the weight of the body: p 9gVS = plngor ps/pl = Vp/Vs The apparent weight of the
+ﬂoating body is zero.
+
+This principle can be summarised as: ‘the loss of weight of a body submerged (partially or fully) in
+a ﬂuid is equal to the weight of the ﬂuid displaced‘.
+
+ 
+
+2019-20

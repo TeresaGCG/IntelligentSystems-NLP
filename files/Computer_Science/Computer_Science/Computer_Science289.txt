@@ -1,0 +1,37 @@
+4.8 Exercises 273
+by the throughput for program 2. Which computer is faster for this workload?
+Which computer is more cost-effective?
+9
+4.7 [ IOJ <§4.2> Suppose you wish to run a program P with 7.5x 10 instructions
+on a 5 GHz machine with a CPl of 0.8.
+a. What is the expected CPU time?
+b. When you run P, it takes 3 seconds of wall clock time to complete. What is
+the percentage of the CPU time P received?
+4.8 [ IOJ <§4.2> Consider two different implementations, PI and P2, of the same
+instruction set. There are five classes of instructions (A, B, C, 0 , and E) in the in 
+struction set.
+P I has a clock rate of 4 GHz. P2 has a clock rate of 6 GHz. The average number of
+cycles for each instruction class fo r PI and P2 is as follows:
+CPI on PI CPI on P2
+A 1 2
+B 2 2
+C 3 2
+D 4 4
+E 3 4
+Assume that peak performance is defined as the fastest rate that a computer can
+execute any instruction sequence. What are the peak perfo rmances of P I and P2
+expressed in instructions per second?
+4.9 [5J <§§4.1-4.2> If the number of instructions executed in a certain program
+is divided equally among the classes of instructions in Exercise 4.8 except for class
+A, which occurs twice as often as each of the others, how much faster is P2 than PI ?
+4.10 [12J <§4.2> Consider two different implementations, 1I and 12, of the same
+instmction set. There are three classes ofinstructions (A, B, and C) in the instruction
+set. 1I has a clock rate of 6 GHz, and 12 has a clock rate of3 GHz. The average number
+of cycles for each instmction class on 1I and 12 is given in the following table:
+ElIII
+CPI on Ml CPI on M2 Cl Usage C2 Usage C3 Usage
+~ --~~;--- --~:~;:;;-- _~~;oo;;;: --~:~::;;--
+1 1---;:;- -
+__
+The table also contains a summary of average proportion of instruction classes gen 
+erated by three different compilers. C I is a compiler produced by the makers of 1I,

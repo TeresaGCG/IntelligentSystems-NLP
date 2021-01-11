@@ -1,0 +1,31 @@
+Algebra and Geometry
+199
+Solution: The first polygon is a square with side length 12. The
+area of the square is 144 unit2. The second polygon is a rectangle
+with length 4 and width 7. The area of the rectangle is 28 unit2.
+The third polygon is a right triangle with legs of length 9 and 4.
+The area of the right triangle is:
+In the previous example I was able to find the area of a right triangle.
+Unfortunately, not every triangle is right. Before I can discuss the area of
+a run-of-the-mill triangle I must define some terms. The base of a tri-
+angle is just one of the sides of the triangle singled out. Any side of a
+triangle can serve as the base. Once you specify the base of a triangle,
+there will be one vertex of the triangle that does not come in contact with
+the base. The distance from that vertex to the base is called the corre-
+sponding height of the triangle. There is no official height of a triangle.
+The height of a triangle depends on the side that serves as the base.
+Now that we know about the base and the corresponding height of a
+triangle, we can find the area of a triangle. The area of a triangle is one-
+half the product of the length of the base and the corresponding height of
+the triangle. If b represents the length of the base and h represents the
+corresponding height of the triangle, the area enclosed by the triangle is
+given by this formula:
+1
+Area = bh
+triangle 2
+Example 2
+Find the areas enclosed by the triangles shown in Figure 10.16.
+4
+5
+10 2
+ Figure 10.16

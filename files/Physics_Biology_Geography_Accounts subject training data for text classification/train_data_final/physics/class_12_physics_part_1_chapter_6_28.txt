@@ -1,0 +1,65 @@
+232
+
+i Physics
+
+6.15
+
+6.16
+
+6.17
+
+ 
+
+experience magnetic force due to the motion of the rod. Explain.
+
+(d) What is the retarding force on the rod when K is closed?
+
+(e) How much power is required (by an external agent) to keep
+the rod moving at the same speed (=12 cm s*1) when K is closed?
+How much power is required when K is open?
+
+(f) How much power is dissipated as heat in the closed circuit?
+What is the source of this power?
+
+(g) What is the induced emf in the moving rod if the magnetic field
+is parallel to the rails instead of being perpendicular?
+
+An air-cored solenoid with length 30 cm, area of cross-section 25 cm2
+
+and number of turns 500, carries a current of 2.5 A. The current is
+
+suddenly switched off in a brief time of 103 s. How much is the average
+back emf induced across the ends of the open switch in the circuit?
+
+Ignore the variation in magnetic field near the ends of the solenoid.
+
+(a) Obtain an expression for the mutual inductance between a long
+straight wire and a square loop of side a as shown in Fig. 6.21.
+
+(b) Now assume that the straight wire carries a current of 50 A and
+the loop is moved to the right with a constant velocity, v = 10 m/s.
+Calculate the induced emf in the loop at the instant when x = 0.2 m.
+Take a = 0.1 m and assume that the loop has a large resistance.
+
+ 
+
+FIGURE 6.21
+
+A line charge A per unit length is lodged uniformly onto the rim of a
+wheel of mass M and radius R. The wheel has light non-conducting
+spokes and is free to rotate without friction about its axis (Fig. 6.22).
+A uniform magnetic field extends over a circular region within the
+rim. It is given by,
+
+B=—B0k (rSa;a<R)
+
+= 0 (otherwise)
+
+What is the angular velocity of the wheel after the field is suddenly
+switched off?
+
+ 
+
+FIGURE 6.22
+
+2019-20

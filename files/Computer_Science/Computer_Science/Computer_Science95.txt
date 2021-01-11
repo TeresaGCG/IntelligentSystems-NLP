@@ -1,0 +1,41 @@
+2.7 Supporting Procedures in Computer Hardware 79
+Supporting Procedures in Computer
+Hardware
+A procedure or function is one tool C or Java programmers use to structure pro  procedure A stored subroutine
+grams, both to make them easier to understand and to allow code to be reused. that performs a specific task
+based on the parameters with
+Procedures allow the programmer to concentrate on just one portion of the task
+which it is provided.
+at a time, with parameters acting as a barrier between the procedure and the rest
+of the program and data, allowing it to be passed values and return results. We
+describe the equivalent in Java at the end of this section, but Java needs everything
+from a computer that C needs.
+You can think of a procedure like a spy who leaves with a secret plan, acquires
+resources, performs the task, covers his tracks, and then renlfns to the point of
+origin with the desired result. Nothing else should be perturbed once the mission
+is complete. Moreover, a spy operates on only a "need to know" basis, so the spy
+can't make assumptions about his employer.
+Similarly, in the execution of a procedure, the program must follow these six
+steps:
+I. Place parameters in a place where the procedure can access them.
+2. Transfer control to the procedure.
+3. Acquire the storage resources needed for the procedure.
+4. Perform the desired task.
+5. Place the result value in a place where the calling program can access it.
+6. Return control to the point of origin, since a procedure can be called from
+several points in a program.
+As mentioned above, registers are the fastest place to hold data in a computer,
+so we want to use them as much as possible. MIPS software follows the following
+convention in allocating its 32 registers for procedure calling:
+• $aO-$a3 : four argument registers in which to pass parameters
+• $vO-$vI : two value registers in which to return values
+• $ra : one return address register to return to the point of origin
+jump-and-link
+instruction An instruction
+In addition to allocating these registers, MIPS assembly language includes an
+that jumps to an address and
+instruction just for the procedures: it jumps to an address and simultaneously
+simultaneously saves the address
+saves the address of the following instruction in register $ r a. The jump-and-Iink
+ofthe following instruction in a
+instruction (j a 1) is simply written register ($ ra in MIPS).

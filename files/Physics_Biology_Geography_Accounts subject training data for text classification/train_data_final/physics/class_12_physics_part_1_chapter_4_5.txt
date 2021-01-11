@@ -1,0 +1,60 @@
+Moving Charges and
+Magnetism
+
+ 
+
+ 
+
+FIGURE 4.3
+
+Solution From Eq. (4.4), we find that there is an upward force F, of
+magnitude 118,. For mid-air suspension, this must be balanced by
+the force due to gravity:
+
+                   
+
+m g = I 18 ,,..
+B = M P ‘ ' j S
+I l i
+B! _ H
+0.2 x 9.8 :4 5 a
+= — = 0.65 T «r n r
+2 X 1.5 g ‘i g 3)
+Note that it would have been sufficient to specify m/l, the mass per E g g 3
+unit length of the wire. The earth’s magnetic field is approximately 5|: 5 g ~g
+4 X 10’5 T and we have ignored it. H i; o. a
+E 3 r:
+'3 o 0
+Example 4.2 If the magnetic field is parallel to the positive y-axis g a :5:
+and the charged particle is moving along the positive x—axis (Fig. 4.4), ":2. g o
+which way would the Lorentz force be for (a) an electron (negative 3' g. E
+charge), (b) a proton (positive charge). 2— ; a:
+z T 5’
+E m
+9? a
+y 8+
+’9' 5' ‘3
+, 3. 2
+“2 8‘
+x x x Ix) x x x x x x a (76':
+x x x/ x x x x x x ":3 —-
+>< x/x 1%: x x x x x x 5: 9‘
+Xl/X X X X X X X X X 93.;
+I»? x x x x x x x x x 030
+’ x x x x x x x x x x >.
+x x x x x x x x x x X a
+x x x x x x x x x x x Q
+v—> :—
+3
+FIGURE 4.4 {’1
+Solution The velocity v of particle is along the x—axis, while B, the g
+magnetic field is along the y-axis, so v X B is along the z-axis (screw g
+rule or right-hand thumb rule). So, (a) for electron it will be along —z ‘3
+axis. (b) for a positive charge (proton) the force is along +z axis. is:
+4.3 MOTION IN A MAGNETIC FIELD
+We will now consider, in greater detail, the motion of a charge moving in
+a magnetic ﬁeld. We have learnt in Mechanics (see ClassXI book, Chapter
+6) that a force on a particle does work if the force has a component along
+(or opposed to) the direction of motion of the particle. In the case of motion 137
+
+2019-20

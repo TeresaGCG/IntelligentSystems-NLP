@@ -1,0 +1,88 @@
+Electromagnetic
+Induction
+
+Example 6.7
+
+A wheel with 10 metallic spokes each 0.5 m long is rotated with a
+speed of 120 rev/min in a plane normal to the horizontal component
+of earth’s magnetic field HE at a place. If HE = 0.4 G at the place, what
+is the induced emf between the axle and the rim of the wheel? Note
+that 1 G = 10‘4T.
+
+Solution
+Induced emf = (1/2) (9B R2
+
+= (1/2) x 41: x 0.4 x 10—4 x (0.5)2
+= 6.28 x 10—5v
+
+The number of spokes is immaterial because the emf‘s across the
+spokes are in parallel.
+
+6.7 ENERGY CONSIDERATION: A QUANTITATIVE STUDY
+
+In Section 6.5, we discussed qualitatively that Lenz’s law is consistent with
+the law of conservation of energy. Now we shall explore this aspect further
+with a concrete example.
+
+Let rbe the resistance of movable arm P9 of the rectangular conductor
+shown in Fig. 6.10. We assume that the remaining arms QR, RS and SP
+have negligible resistances compared to r. Thus, the overall resistance of
+the rectangular loop is r and this does not change as P9 is moved. The
+
+current I in the loop is,
+8
+
+I:—
+r
+
+= Blv
+
+ 
+
+(6.7)
+r
+
+On account of the presence of the magnetic ﬁeld, there will be a force
+on the arm PQ. This force I (1 x B), is directed outwards in the direction
+opposite to the velocity of the rod. The magnitude of this force is,
+
+32121)
+
+F = I lB = r
+where we have used Eq. (6.7). Note that this force arises due to drift velocity
+of charges (responsible for current) along the rod and the consequent
+Lorentz force acting on them.
+
+Alternatively, the arm P9 is being pushed with a constant speed 0,
+the power required to do this is,
+
+P=Fv
+
+_ B212U2
+
+ 
+
+ 
+
+(6.8)
+r
+
+The agent that does this work is mechanical. Where does this
+mechanical energy go? The answer is: it is dissipated as Joule heat, and
+
+is given by
+3—11))2 r _ 3212132
+
+PJ 2 [Zr 2 (
+r
+which is identical to Eq. (6.8).
+
+ 
+
+r
+
+2019-20
+
+[9 mama
+
+215

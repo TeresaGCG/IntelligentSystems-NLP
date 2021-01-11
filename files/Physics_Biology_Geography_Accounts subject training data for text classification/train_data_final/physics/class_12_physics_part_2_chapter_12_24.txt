@@ -1,0 +1,88 @@
+410
+
+l Physics
+
+11.26
+
+11.27
+
+11.28
+
+11.29
+
+11.30
+
+11.31
+
+11.32
+
+ 
+
+ 
+
+humans can perceive (~10’10 W m’2). Take the area of the pupil
+to be about 0.4 cm2, and the average frequency of white light to
+be about 6 X 1014 Hz.
+
+Ultraviolet light of wavelength 2271 A from a 100 W mercury source
+irradiates a photo-cell made of molybdenum metal. If the stopping
+potential is —1.3 V, estimate the work function of the metal. How
+would the photo-cell respond to a high intensity (~105 W m’z) red
+light of wavelength 6328 A produced by a He-Ne laser?
+
+Monochromatic radiation of wavelength 640.2 nm (1nm = 10’9 m)
+from a neon lamp irradiates photosensitive material made of caesium
+on tungsten. The stopping voltage is measured to be 0.54 V. The
+source is replaced by an iron source and its 427.2 nm line irradiates
+the same photo-cell. Predict the new stopping voltage.
+
+A mercury lamp is a convenient source for studying frequency
+dependence of photoelectric emission, since it gives a number of
+spectral lines ranging from the UV to the red end of the visible
+spectrum. In our experiment with rubidium photo-cell, the following
+
+lines from a mercury source were used:
+
+A, = 3650 A, AZ: 4047 A, A3: 4358 A, 7.4: 5461 A, As: 6907 A,
+The stopping voltages, respectively, were measured to be:
+V01 = 1.28 V, V02 = 0.95 V, V03 = 0.74 V, V04 = 0.16 V, V05 = 0 V
+
+Determine the value of Planck’s constant 11, the threshold frequency
+and work function for the material.
+
+[Note: You will notice that to get h from the data, you will need to
+know 6 (which you can take to be 1.6 X 10’19 C). Experiments of this
+kind on Na, Li, K, etc, were performed by Millikan, who, using his
+own value of e (from the oil-drop experiment) confirmed Einstein’s
+photoelectric equation and at the same time gave an independent
+estimate of the value of h.]
+
+The work function for the following metals is given:
+
+Na: 2.75 eV; K: 2.30 eV; Mo: 4.17 eV; Ni: 5.15 eV. Which of these
+metals will not give photoelectric emission for a radiation of
+wavelength 3300 A from a He-Cd laser placed 1 m away from the
+photocell? What happens if the laser is brought nearer and placed
+50 cm away?
+
+Light of intensity 10’5 W m’2 falls on a sodium photo-cell of surface
+area 2 cm2. Assuming that the top 5 layers of sodium absorb the
+incident energy, estimate time required for photoelectric emission
+in the wave-picture of radiation, The work function for the metal is
+given to be about 2 eV. What is the implication of your answer?
+
+Crystal diffraction experiments can be performed using X-rays, or
+electrons accelerated through appropriate voltage. Which probe has
+greater energy? (For quantitative comparison, take the wavelength
+of the probe equal to 1 A, which is of the order of inter-atomic spacing
+
+in the lattice) (me=9.11 X 10’31 kg).
+(a) Obtain the de Broglie wavelength of a neutron of kinetic energy
+150 eV. As you have seen in Exercise 1 1.31, an electron beam of
+
+this energy is suitable for crystal diffraction experiments. Would
+a neutron beam of the same energy be equally suitable? Explain.
+
+(mm = 1.675 x 10*27 kg)
+
+2019-20

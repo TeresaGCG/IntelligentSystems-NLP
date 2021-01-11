@@ -1,0 +1,39 @@
+488 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+larger block sizes to be used while still maintaining alow miss penalty, similar to
+that for a smaller block.
+The processor is typically connected to memory over a bus. The clock rate of
+the bus is usually much slower than the processor, by as much as a fa ctor of 10.
+The speed of this bus affects the miss penalty.
+To understand the impact of different organizations of memory, let's define a
+set of hypothetical memory access times. Assume
+• 1 memory bus clock cycle to send the address
+• 15 memory bus clock cycles for each DRAM access initiated
+• 1 memory bus clock cycle to send a word of data
+If we have a cache block of four words and a one-word-wide bank of DRAMs,
+the miss penalty would be 1+ 4 X 15 + 4 X 1= 65 memory bus clock cycles. Thus,
+the number of bytes transferred per bus clock cycle for a single miss would be
+4 x 4 = 0.25
+65
+Figure 7.11 shows three options for designing the memory system. The first
+option follows what we have been assuming: memory is one word wide, and all
+accesses are made sequentially. The second option increases the bandwidth to
+memory by widening the memory and the buses between the processor and mem 
+ory; this allows parallel access to all the words of the block. The third option
+increases the bandwidth by widening the memory but not the interconnection
+bus. Thus, we still pay a cost to transmit each word, but we can avoid paying the
+cost of the access latency more than once. Let's look at how much these other two
+options improve the 65-cycle miss penalty that we would see for the first option
+(Figure 7. 11 a).
+Increasing the width of the memory and the bus will increase the memory
+bandwidth proportionally, decreasing both the access time and transfer time por 
+tions of the miss penalty. With a main memory width of two words, the miss pen 
+alty drops from 65 memory bus clock cycles to 1+ 2 X 15 + 2 X 1= 33 memory
+bus clock cycles. With a four-word-wide memory, the miss penalty is just 17
+memory bus clock cycles. The bandwidth for a single miss is then 0.48 (almost
+twice as high) bytes per bus clock cycle for a memory that is two words wide, and
+0.94 bytes per bus clock cycle when the memory is four words wide (almost four
+times higher). The major costs of this enhancement are the wider bus and the
+potential increase in cache access time due to the multiplexor and control logic
+between the processor and cache.
+Instead of making the entire path between the memory and cache wider, the
+memory chips can be organized in banks to read or write multiple words in one

@@ -1,0 +1,39 @@
+460 Chapter 6 Enhancing Performance with Plpellnlng
+6.40 (20) <§6.6> Consider the pipelined datapath in Figure 6.54 on page 461. Can
+an attempt to flush and an attempt to stall occur simultaneously? If so, do they result
+in conflicting actions and/or cooperating actions? If there are any cooperating
+actions, how do they work together?!fthere are any conflicting actions, which should
+take priority? Is there a simple change you can make to the datapath to ensure the
+necessary priority? You may want to consider the following code sequence to help
+you answer this question:
+beq II , 12 , TARGET # assume t ha t t he branch is t aken
+1w 13 , 40( 14 )
+add 12 , 13 , $4
+sw 12 , 40( 14 )
+TARGET: or II , II , $2
+6.41 (15) <§§ 6.4,6.7> The Verilog for implementing forwarding in Figure 6.7.2 on
+page 6.7-4-6.7-5 did not consider forwarding of a result as the value to be stored by
+a SW instruction. Add this to the Verilog code.
+6.42 [5] <§§6.5, 6.7> The Verilog for implementing stalls in Figure 6.7.3 on page
+6.7-6-6.7-7 did not consider fonvarding of a result to use in an address calculation.
+Make this simple addition to the Verilog code.
+6.43 [IS) <§§6.6, 6.7> The Verilog code for implementing branch hazard detection
+and stalls in Figure 6.7.3 on page 6.7-6-6.7-7 does not detect the possibility of data
+hazards for the two source registers of a BEQinstruction. Extend the Verilog in Figure
+6.7.3 on page 6.7-6-6.7-7 to handle all data hazards for branch opera nds. Write both
+the fonvarding and stall logic needed for completing branches during !D.
+6.44 (10 ) <§§6.6, 6.7> Rewrite theVerilog code in 6.7.3 on page 6.7-6-6.7-7 to
+implement a delayed branch strategy.
+6.45 [20) <§§6.6, 6.7> Rewrite the verilogcode in Figure 6.7.3 on page 6.7-6-6.7-7
+to implement a branch target buffer. Assume the buffer is implemented with a mod 
+ule with the following definition:
+module Predict PC (cur r en t PC , ne xt PC, miss , update , des ti na ti on) ;
+i npu t cu rrentPC,
+upda t e , II t rue if prev i ous predicti on was un ava i lable or i ncorrec t
+des t in at ion ; I used wit h update t o correc t a pred i ct ion
+out pu t next PC , II ret urn s t he ne xt PC if predicti on i s accurat e
+mlSS ; II t rue means no pred i ct ion i n bu f fe r
+endmodule ;
+Make sure you accomodate all three possibilities: a correct prediction, a miss in the
+buffer (that is, miss = true), and an incorrect prediction. In the last two cases, you
+must also update the prediction.

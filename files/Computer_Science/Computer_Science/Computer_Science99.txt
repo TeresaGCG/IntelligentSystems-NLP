@@ -1,0 +1,35 @@
+2.7 Supporting Procedures in Computer Hardware 83
+Nested Procedures
+Procedures that do not call others are called leaf procedures. Life would be
+simple if all procedures were leaf procedures, but they aren't. Just as a spy
+might employ other spies as part of a mission, who in turn might use even
+more spies, so do procedures invoke other procedures. Moreover, recursive
+procedures even invoke "clones" of themselves. Just as we need to be careful
+when using registers in procedures, more care must also be taken when invok 
+ing nonleaf procedures.
+For example, suppose that the main program calls procedure A with an
+argument of 3, by placing the value 3 into register $a0 and then using j alA.
+Then suppose that procedure A calls procedure B via j alB with an argument
+of 7, also placed in $aO. Since A hasn't finished its task yet , there is a conflict
+over the use of register $aO. Similarly, there is a conflict over the return
+address in register $ ra, since it now has the return address for B. Unless we
+take steps to prevent the problem, this conflict will eliminate procedure A's
+ability to return to its caller.
+One solution is to push all the other registers that must be preserved onto the
+stack, just as we did with the saved registers. The caller pushes any argument regis 
+ters ($aO-$a3) or temporary registers ($ t O-$ t 9) that are needed after the call.
+The callee pushes the return address register $ra and any saved registers ($sO 
+$s 7) used by the callee. The stack pointer $sp is adjusted to account for the num 
+ber of registers placed on the stack. Upon the return, the registers are restored
+from memory and the stack pointer is readjusted.
+Compiling a Recursive C Procedure, Showing Nested Procedure
+Unking
+Let's tackle a recursive procedure that calculates factorial:
+EXAMPLE
+in t f ac t (in t n)
+I
+<
+i f (n 1) re t ur n (1) ;
+else ret urn (n * f ac t (n - l)) ;
+J
+\Vhat is the MIPS assembly code?

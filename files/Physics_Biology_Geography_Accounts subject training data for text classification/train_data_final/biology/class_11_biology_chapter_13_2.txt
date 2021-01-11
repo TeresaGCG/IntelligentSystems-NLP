@@ -1,0 +1,61 @@
+208
+
+BIOLOGY
+
+It was not until about 1854 that Julius von Sachs provided evidence
+for production of glucose when plants grow. Glucose is usually stored as
+starch. His later studies showed that the green substance in plants
+(chlorophyll as we know it now) is located in special bodies (later called
+chloroplasts) within plant cells. He found that the green parts in plants is
+where glucose is made, and that the glucose is usually stored as starch.
+
+Now consider the interesting experiments done by T.W Engelmann
+(1843 — 1909). Using a prism he split light into its spectral components
+and then illuminated a green alga, Cladophora, placed in a suspension
+of aerobic bacteria. The bacteria were used to detect the sites of 02
+evolution. He observed that the bacteria accumulated mainly in the region
+of blue and red light of the split spectrum. A first action spectrum of
+photosynthesis was thus described. It resembles roughly the absorption
+spectra of chlorophyll aand b (discussed in section 13.4).
+
+By the middle of the nineteenth century the key features of plant
+photosynthesis were known, namely, that plants could use light energy
+to make carbohydrates from CO2 and water. The empirical equation
+representing the total process of photosynthesis for oxygen evolving
+organisms was then understood as:
+
+Light
+
+co2 + H20 [CHZO]+ 02
+
+where [CHZO] represented a carbohydrate (e.g., glucose, a six-carbon
+sugar).
+
+A milestone contribution to the understanding of photosynthesis was
+that made by a microbiologist, Cornelius van Niel (1897-1985), who,
+based on his studies of purple and green bacteria, demonstrated that
+photosynthesis is essentially a light-dependent reaction in which
+hydrogen from a suitable oxidisable compound reduces carbon dioxide
+to carbohydrates. This can be expressed by:
+
+Light
+
+2H2A+CO2 2A+CH2O+ H20
+
+In green plants H20 is the hydrogen donor and is oxidised to 02. Some
+organisms do not release 02 during photosynthesis. When H28, instead
+is the hydrogen donor for purple and green sulphur bacteria, the
+‘oxidation’ product is sulphur or sulphate depending on the organism
+and not 02. Hence, he inferred that the O2 evolved by the green plant
+comes from H20, not from carbon dioxide. This was later proved by using
+radioisotopic techniques. The correct equation, that would represent the
+overall process of photosynthesis is therefore:
+
+Light
+
+esco2 + 12H2O C6H1206 +6H20+ 602
+
+where C6 H12 06 represents glucose. The 02 released is from water; this
+was proved using radio isotope techniques. Note that this is not a single
+
+2019-2020

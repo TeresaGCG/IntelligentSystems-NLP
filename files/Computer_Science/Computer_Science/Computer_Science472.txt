@@ -1,0 +1,43 @@
+456 Chapter 6 Enhancing Performance with Plpellnlng
+page 205 and Figure A.I D.l on page A-50 as references. For other fields it will be eas 
+ier to look at the values of the control signals, using Figures 6.26 through 6.28 on
+pages 403 and 405 as references. You may need to carefully examine Figures 6.14.5
+through 6.14.9 to understand how collections of control values are presented (i.e.,
+the leftmost bit in one cycle will become the uppermost bit in another cycle). For
+example, the EX control value for the subtract instruction, 1100, computed during
+the ID stage of cycle 3 in Figure 6.14.6, becomes three separate values specifying
+RegDst ( I), ALUOp (10), and ALUSrc (0) in cycle 4.
+6.14 (40) <§6.3> The following piece of code is executed using the pipeline shown
+in Figure 6.30 on page 409:
+lw 15 . 40(12 )
+add 16 . 13 . 12
+or 17 . 12. 11
+and 18 . 14. 13
+su b 19 . 12 . 11
+At cycle 5, right before the instructions are executed, the processor state is as follows:
+a. The PC has the value 1OOten' the address of the sub_ ins t r uct ion.
+b. Every register has the initial value IOten plus the register number (e.g., register
+$8 has the initial value 18 ).
+ten
+c. Every memory word accessed as data has the initial value WOOten plus the byte
+address of the word (e.g., Memory(8 has the initial value 1008 ).
+J ten
+Determine the value of every field in the four pipeline registers in cycle 5.
+II
+6.15 (20) <§6.3> For More Practice: Labeling Pipeline Diagrams with Control
+II
+6.16 (20) <§6.4> For Mo re Practice: Illustrating Diagrams with Fo rwarding
+6.17 (5 <§§6.4, 6.5> Consider executing the following code on the pipelined data 
+J
+path of Figure 6.36 on page 41 6:
+add 12 . 13 . 11
+su b 14. 13 . 15
+add 15 . 13 . 17
+add 17 . 16 . 11
+add 18 . 12 . 16
+At the end of the fifth cycle of execution, which registers are being read and which
+register will be written?
+6.18 (5 <§§6.4, 6.5> With regard to the program in Exercise 6.1 7, explain what the
+J
+forwarding unit is doing during the fifth cycle of execution. If any comparisons are
+being made, mention them.

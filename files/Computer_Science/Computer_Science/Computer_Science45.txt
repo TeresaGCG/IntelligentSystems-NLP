@@ -1,0 +1,60 @@
+1.4 Real Stuff: Manufacturing Pentium 4 Chips 29
+Let's start at the beginning. The manufacture of a chip begins with silicon, a
+silicon A natural element
+substance found in sand. Because silicon does not conduct electricity well, it is which is a semiconductor.
+called a semiconductor. With a special chemical process, it is possible to add
+semiconductor A substance
+materials to silicon that allow tiny areas to transform into one of three devices:
+that does not conduct electricity
+well.
+• Excellent conductors of electricity (using either microscopic copper or alu 
+minum wire)
+• Excellent insulators from electricity (like plastic sheathing or glass)
+• Areas that can conduct or insulate under special conditions (as a switch)
+Transistors fall in the last category. A VLSI circuit, then, is just billions of combi 
+nations of conductors, insulators, and switches manufactured in a single, small
+package.
+The manufacturing process for integrated circuits is critical to the cost of the
+chips and hence important to computer designers. Figure 1.14 shows that process.
+The process starts with a silicon crystal ingot, which looks like a giant sausage. silicon crystal ingot A rod
+Today, ingots are 8-12 inches in diameter and about 12-24 inches long. An ingot composed ofa silicon crystal
+that is between 6 and 12 inches
+is finely sliced into wafers no more than 0. 1 inch thick. These wafers then go
+in diameter and about 12 to 24
+through a series of processing steps, during which patterns of chemicals are placed
+inches long.
+wafer A slice from a silicon
+ingot no more than 0. 1inch
+Blank
+thick, used to create chips.
+Silicon ingot wafers
+C_ _) -_. I I
+51,,,, 20 to 40
+• •
+processing steps
+./
+I
+Tested dies Tested Patterned wafers
+DD wafer
+I. ,
+D ~ D l8I
+.-~
+Bond die to .,~_ DDDDD ~,~_ Wafer
+Dicer
+D D I8l D D
+package tester
+D ODD
+DD
+I
+Packaged dies Tested packaged dies
+1i:iI1i:iI1i:iI __
+P,rt Ship to
+IQIIQIIQI .
+tester customers
+FIGURE 1.14 The chip manufacturing process. After being sliced from the silicon ingot, blank
+wafers are put through 20 to 40 steps to create patterned wafers (see Figure 1.15 on page 31). These pat 
+terned wafers are then tested with a wafer tester and a map of the good parts is m.1de. Then, the wafers are
+diced into dies (see Figure 1.9 on page 21). ln this figure, one wafer produced 20 dies, of which 17 passed
+testing.(X means the die is b.1d.) The yield ofgood dies in this case was 17/20, or 85%. These good dies are
+then bonded into packages and tested one more time before shipping the packaged parts to customers.One
+bad packaged part was found in this final test.

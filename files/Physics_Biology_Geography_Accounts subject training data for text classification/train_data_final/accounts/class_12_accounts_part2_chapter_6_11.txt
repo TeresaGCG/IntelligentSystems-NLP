@@ -1,0 +1,58 @@
+246 Accountancy : Company Accounts and Analysis of Financial Statements
+
+6. 6. 2 Indirect Method
+
+Indirect method of ascertaining cash ﬂow from operating activities begins with
+the amount of net proﬁt/ loss. This is so because statement of proﬁt and loss
+incorporates the effects of all operating activities of an enterprise. However,
+Statement of Proﬁt and Loss is prepared on accrual basis (and not on cash
+basis). Moreover, it also includes certain non-operating items such as interest
+paid, profit/ loss on sale of fixed assets, etc.) and non-cash items (such as
+depreciation, goodwill to be written-off, etc.. Therefore, it becomes necessary to
+adjust the amount of net proﬁt/ loss as shown by Statement of Proﬁt and Loss
+for arriving at cash ﬂows from operating activities. Let us look at the example :
+
+Statement of Proﬁt and Loss Account
+for the ear ended March 31, 2017
+
+i) Revenue from Operations 1,00,000
+ii) Other Income 2,000
+iii) Total Revenues (i+ii)
+iv) Expenses
+
+Cost of Materials Consumed
+
+Purchases of stock-in-trade
+
+Employees Beneﬁts Expenses
+
+Finance Costs
+
+Depreciation
+
+Other Expenses
+
+ 
+
+Proﬁt before Tax [iii-iv)
+
+Note: Other income includes proﬁt on sale of land.
+
+The above Statement of Proﬁt and Loss shows the amount of net proﬁt of Rs
+30,000. This has to be adjusted for arriving cash ﬂows from operating activities.
+Let us take various items one by one.
+
+1. Depreciation is a non-cash item and hence, Rs 5,000 charged as
+depreciation does not result in any cash ﬂow. Therefore, this amount
+must be added back to the net proﬁt.
+
+2. Finance costs of Rs 5,000 is a cash outﬂow on account of ﬁnancing
+activity. Therefore, this amount must also be added back to net proﬁt
+while calculating cash ﬂows from operating activities. This amount of
+ﬁnance cost will be shown as an outflow under the head of ﬁnancing
+activities.
+
+3. Other income includes proﬁt on sale of land: It is cash inﬂow from
+investing activity. Hence, this amount must be deducted from the
+amount of net profit while calculating cash ﬂows from operating
+activities.

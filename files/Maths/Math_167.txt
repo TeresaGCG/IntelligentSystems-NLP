@@ -1,0 +1,31 @@
+Linear Functions and Graphs
+167
+x ƒ(x) = 2x + 3  Ordered Pairs
+−3 −3 (−3,−3)
+−2 −1 (−2,−1)
+−1 1 (−1, 1)
+0 3 (0, 3)
+1 5 (1, 5)
+2 7 (2, 7)
+3 9 (3, 9)
+Once you have determined some of the ordered pairs that represent
+the function, I recommend graphing them. A carefully drawn picture or a
+graph can give lots of insight into the nature of the function. The graph of
+these ordered pairs is shown in Figure 9.4.
+y
+10
+8
+6
+4
+2
+x
+–5 5
+–2
+–4
+–6
+Figure 9.4
+Now that we have a picture of this function we can make some
+observations. First of all, notice that all of the points appear to lie on the
+same line. This function was called a “linear function” and now that makes
+sense. I mentioned earlier that linear functions have graphs that look like
+lines. Now you can see that for yourself.

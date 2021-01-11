@@ -1,0 +1,68 @@
+Nuclei
+
+different mass unit is used for expressing atomic masses. This unit is the
+atomic mass unit (u), deﬁned as 1 / 12th of the mass of the carbon (12C)
+atom. According to this definition
+
+mass of one 12C atom
+12
+
+1u=
+
+_ 1.992647 x10-26 kg
+_ 12
+
+= 1.660539 ><10‘27 kg (13.1)
+
+The atomic masses of various elements expressed in atomic mass
+unit (u) are close to being integral multiples of the mass of a hydrogen
+atom. There are, however, many striking exceptions to this rule. For
+example, the atomic mass of chlorine atom is 35.46 u.
+
+Accurate measurement of atomic masses is carried out with a mass
+spectrometer, The measurement of atomic masses reveals the existence
+of different types of atoms of the same element, which exhibit the same
+chemical properties, but differ in mass. Such atomic species of the same
+element differing in mass are called isotopes. (In Greek, isotope means
+the same place, i.e. they occur in the same place in the periodic table of
+elements.) It was found that practically every element consists of a mixture
+of several isotopes. The relative abundance of different isotopes differs
+from element to element. Chlorine, for example, has two isotopes having
+masses 34.98 u and 36.98 u, which are nearly integral multiples of the
+mass of a hydrogen atom. The relative abundances of these isotopes are
+75.4 and 24.6 per cent, respectively. Thus, the average mass of a chlorine
+atom is obtained by the weighted average of the masses of the two
+isotopes, which works out to be
+
+= 75.4><34.98+ 24.6>< 36.98
+100
+
+ 
+
+= 35.47 u
+which agrees with the atomic mass of chlorine.
+
+Even the lightest element, hydrogen has three isotopes having masses
+1.0078 u, 2.0141 u, and 3.0160 u. The nucleus of the lightest atom of
+hydrogen, which has a relative abundance of 99.985%, is called the
+proton. The mass of a proton is
+
+m = 1.0072711 = 1.67262 x 10—27 k (13.2)
+p g
+
+This is equal to the mass of the hydrogen atom (= 1 .00783u), minus
+the mass of a single electron (me= 0.00055 u). The other two isotopes of
+hydrogen are called deuterium and tritium. Tritium nuclei, being
+unstable, do not occur naturally and are produced artificially in
+laboratories.
+
+The positive charge in the nucleus is that of the protons. A proton
+carries one unit of fundamental charge and is stable. It was earlier thought
+that the nucleus may contain electrons, but this was ruled out later using
+arguments based on quantum theory. All the electrons of an atom are
+outside the nucleus. We know that the number of these electrons outside
+the nucleus of the atom is Z, the atomic number. The total charge of the
+
+2019-20
+
+439

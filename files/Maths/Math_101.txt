@@ -1,0 +1,21 @@
+Decimals
+101
+Comparing two fractions is a little bit more tricky. If the denomina-
+tors of the two fractions are equal, then the problem involves comparing
+the numerators.
+Example 4
+Compare:  and 
+Solution: Because both denominators are the same, we need only
+compare the numerators.
+Because 3 < 8, 
+When the denominators are different, you can take two approaches.
+The first approach involves finding the lowest common denominator and
+then comparing numerators. The second approach involves converting
+each fraction to a decimal number and comparing the results.
+Example 5
+Compare:  and 
+Solution: In this case, the lowest common denominator is 12.
+Transform both fractions so that their denominators are 12 and
+then compare their numerators:
+Because 8 < 9, 
+So:

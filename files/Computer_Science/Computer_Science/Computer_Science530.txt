@@ -1,0 +1,43 @@
+514 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+portion. The number of bits in the page-offset field determines the page size. The
+number of pages addressable with the virtual address need not match the number
+of pages addressable with the physical address. Having a larger number of virtual
+pages than physical pages is the basis for the illusion of an essentially unbounded
+amount of virtual memory.
+Many design choices in virtual memory systems are motivated by the high cost
+of a miss, which in virtual memory is traditionally called a page fault. A page fault
+will take millions of clock cycles to process. (The table on page 469 shows that
+main memory is about 100,000 times faster than disk.) This enormous miss pen 
+alty, dominated by the time to get the first word for typical page sizes, leads to sev 
+eral key decisions in designing virtual memory systems:
+• Pages should be large enough to try to amortize the high access time. Sizes
+from 4 KB to 16 KB are typical today. New desktop and server systems are
+being developed to support 32 KB and 64 KB pages, but new embedded sys 
+tems are going in the other direction, to 1 KB pages.
+• Organizations that reduce the page fault rate are attractive. The primary tech 
+nique used here is to allow fully associative placement of pages in memory.
+• Page faults can be handled in software because the overhead will be small
+compared to the disk access time. In addition, software can afford to use
+clever algorithms for choosing how to place pages because even small reduc 
+tions in the miss rate will pay for the cost of such algorithms.
+• Write-through will not work for virtual memory, since writes take too long.
+Instead, virtual memory systems use write-back.
+The next few subsections address these factors in virtual memory design.
+Elaboration: Although we normally think of virtual addresses as much larger than
+physical addresses, the opposite can occur when the processor address size is small rel 
+ative to the state of the memory technology. No single program can benefit, but a collec 
+tion of programs running at the same time can benefit from not having to be swapped to
+memory or by running on parallel processors. Given that Moore's law applies to DRAM,
+32-bit processors are already problematic for servers and soon for desktops.
+segmentation A variable-size
+Elaboration: The discussion of virtual memory in this book focuses on paging, which
+address mapping scheme in
+uses fixed-size blocks. There is also a variable-size block scheme called segmentation.
+which an address consists oft",'O
+In segmentation, an address consists of two parts: a segment number and a segment
+parts: a segment number, which
+offset. The segment register is mapped to a physical address, and the offset is added
+is mapped to a physical address,
+to find the actual physical address. Because the segment can vary in size, a bounds
+and a segment offset.
+check is also needed to make sure that the offset is within the segment. The major use

@@ -1,0 +1,69 @@
+446
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+(iii) The nuclear force between neutron-neutron, proton-neutron and
+proton-proton is approximately the same. The nuclear force does not
+depend on the electric charge.
+
+Unlike Coulomb’s law or the Newton’s law of gravitation there is no
+simple mathematical form of the nuclear force.
+
+13.6 RADIOACTIVITY
+
+A. H. Becquerel discovered radioactivity in 1896 purely by accident. While
+studying the ﬂuorescence and phosphorescence of compounds irradiated
+with visible light, Becquerel observed an interesting phenomenon. After
+illuminating some pieces of uranium-potassium sulphate with visible
+light, he wrapped them in black paper and separated the package from a
+photographic plate by a piece of silver. When, after several hours of
+exposure, the photographic plate was developed, it showed blackening
+due to something that must have been emitted by the compound and
+was able to penetrate both black paper and the silver.
+
+Experiments performed subsequently showed that radioactivity was
+a nuclear phenomenon in which an unstable nucleus undergoes a decay.
+This is referred to as radioactive decay. Three types of radioactive decay
+occur in nature :
+
+(i) OL-decay in which a helium nucleus :He is emitted;
+
+(ii) B-decay in which electrons or positrons (particles with the same mass
+as electrons, but with a charge exactly opposite to that of electron)
+are emitted;
+
+(iii) y—decay in which high energy (hundreds of keV or more) photons are
+emitted.
+
+Each of these decay will be considered in subsequent sub-sections.
+
+13.6. 1 Law of radioactive decay
+
+In any radioactive sample, which undergoes on, B or Y—decay, it is found
+that the number of nuclei undergoing the decay per unit time is
+proportional to the total number of nuclei in the sample. If N is the
+
+number of nuclei in the sample and AN undergo decay in time At then
+
+MKN
+At
+
+or, AN/At=7LN, (13.10)
+where 7L is called the radioactive decay constant or disintegration constant.
+
+The change in the number of nuclei in the sample* is dN = — AN in
+time At. Thus the rate of change of N is (in the limit At a 0)
+
+dt
+
+* AN is the number of nuclei that decay, and hence is always positive. dN is the
+change in N, which may have either sign. Here it is negative, because out of
+original N nuclei, AN have decayed, leaving (N—AN) nuclei.
+
+2019-20

@@ -1,0 +1,52 @@
+2
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+it has certain special features which distinguish it from the other forms of
+organisation. These are as follows:
+
+Body Corporate: A company is formed according to the provisions of
+Law enforced from time to time. Generally, in India, the companies are
+formed and registered under Companies Law except in the case of Banking
+and Insurance companies for which a separate Law is provided for.
+Separate Legal Entity: A company has a separate legal entity which is
+distinct and separate from its members. It can hold and deal with any
+type of property. It can enter into contracts and even open a bank account
+in its own name.
+
+Limited Liability: The liability of the members of the company is limited
+to the extent of unpaid amount of the shares held by them. In the case of
+the companies limited by guarantee, the liability of its members is limited
+to the extent of the guarantee given by them in the event of the company
+being wound up.
+
+Perpetual Succession: The company being an artiﬁcial person created by
+law continues to exist irrespective of the changes in its membership. A
+company can be terminated only through law. The death or insanity or
+insolvency of any member of the company in no way affects the existence of
+the company. Members may come and go but the company continues.
+Common Seal: The company being an artiﬁcial person, cannot sign its name
+by itself. Therefore, every company is required to have its own seal which
+acts as ofﬁcial signatures of the company. Any document which does not
+carry the common seal of the company is not binding on the company.
+Transferability of Shares: The shares of a public limited company are
+freely transferable. The permission of the company or the consent of any
+member of the company is not necessary for the transfer of shares. But
+the Articles of the company can prescribe the manner in which the transfer
+of shares will be made.
+
+May Sue or be Sued: A company being a legal person can enter into
+contracts and can enforce the contractual rights against others. It can
+sue and be sued in its name if there is a breach of contract by the company.
+
+1.2 Kinds of Companies
+
+Companies can be classiﬁed either on the basis of the liability of its members or
+on the basis of the number of members. On the basis of liability of its members
+the companies can be classiﬁed into the following three categories:
+
+(1)
+
+Companies Limited by Shares: In this case, the liability of its members is
+limited to the extent of the nominal value of shares held by them. If a
+member has paid the full amount of the shares, there is no liability on

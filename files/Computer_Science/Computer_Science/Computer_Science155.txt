@@ -1,0 +1,43 @@
+2.16 Real Stuff: 1A·32 Instructions 139
+Register
+Mode Description restrictions MIPS equivalent
+Register indirect Address is in a register. not ESP or EBP lw $sO,O($s1)
+Based mode with 8- or 32·bit Address is contents of base register plus not ESP or EBP lw SsO,100($sl)/f,.:;t6 -bit
+displacement displacement. If di spl acement
+,,'
+Base plus scaled index The address is Base: any GPR HO.$s2.4
+Base + (2Sc01e x Index) Index: not ESP 'dd HO.HO.Sst
+where Scale has the value 0, 1, 2, or 3. $sO,O( aO)
+,",'
+Base plus scaled index with The address is Base: any GPR HO.$s2,4
+8- or 32·bit displacement Base + (2ScOie x Index) + displacement Index: not ESP 'dd HO.HO.Sst
+where Scale has the value 0, 1, 2, or 3. $sO, 100( aO) If,.:; t6 -bit
+"
+Ifdisplacement
+FtGURE 2.42 IA·32 32-blt addressing modes with register restrictions and the equivalent MIPS code. The Base plus Scaled Index
+addressing mooe, not found in MIPS or the PowerPC, is included to avoid the multiplies by four (scale factor of 2) to turn an index in a register into a
+byte address (see Figures 2.34 and 2.36). A scale factor of I is wed for 16-bit data, and a scale factor of 3 for 64-bit data. Scale factor of 0 means the
+address is not scaled. If the displacement is longer than 16 bits in the second or fourth modes, then the MIPS equivalent mooe would need tm> more
+instructions: a 1u1 to load the upper 16 bits ofthe displacement and an add to sum the upper address with the base register Ss 1. (Intel gives two dif 
+ferent names to what is called Based addressing mode---Based and Indexed- but they are essentially identical and we combine them here.)
+most programs, and so it made sense to be able to set a default large size. This
+default data size is set by a bit in the code segment register. To override the default
+data size, an 8-bit prefix is attached to the instruction to tell the machine to use the
+other large size for this instruction.
+The prefix solution was borrowed from the 8086, which allows multiple prefixes
+to modify instruction behavior. The three original prefixes override the default seg 
+ment register, lock the bus to support a semaphore (see Chapter 9), or repeat the
+following instruction until the register ECX counts down to O. This last prefix was
+intended to be paired with a byte move instruction to move a variable number of
+bytes. The 80386 also added a prefix to override the default address size.
+The IA-32 integer operations can be divided into four major classes:
+1. Data movement instructions, including move, push, and pop
+2. Arithmetic and logic instructions, including test, integer, and decimal
+arithmetic operations
+3. Control flow, including conditional branches, unconditional jumps, calls,
+and returns
+4. String instructions, including string move and string compare
+The first two categories are unremarkable, except that the arithmetic and
+logic instruction operations allow the destination to be either a register or a
+memory location. Figure 2.43 shows some typical IA-32 instructions and their
+fun ctions.

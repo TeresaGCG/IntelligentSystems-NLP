@@ -1,0 +1,111 @@
+90
+
+PHYSICS
+
+5.2 ARISTOTLE’S FALLACY
+
+The question posed above appears to be simple.
+However, it took ages to answer it. Indeed, the
+correct answer to this question given by Galileo
+in the seventeenth century was the foundation
+of Newtonian mechanics, which signalled the
+birth of modern science.
+
+The Greek thinker, Aristotle (384 B.C— 322
+B.C.), held the view that if a body is moving,
+something external is required to keep it moving.
+According to this view, for example, an arrow
+shot from a bow keeps ﬂying since the air behind
+the arrow keeps pushing it. The view was part of
+an elaborate framework of ideas developed by
+Aristotle on the motion of bodies in the universe.
+Most of the Aristotelian ideas on motion are now
+known to be wrong and need not concern us.
+For our purpose here, the Aristotelian law of
+motion may be phrased thus: An external force
+is required to keep a body in motion.
+
+Aristotelian law of motion is ﬂawed, as we shall
+see. However, it is a natural view that anyone
+would hold from common experience. Even a
+small child playing with a simple (non-electric)
+toy-car on a ﬂoor knows intuitively that it needs
+to constantly drag the string attached to the toy-
+car with some force to keep it going. If it releases
+the string, it comes to rest. This experience is
+common to most terrestrial motion. External
+forces seem to be needed to keep bodies in
+motion. Left to themselves, all bodies eventually
+come to rest.
+
+What is the ﬂaw in Aristotle’s argument? The
+answer is: a moving toy car comes to rest because
+the external force of friction on the car by the ﬂoor
+opposes its motion. To counter this force, the child
+has to apply an external force on the car in the
+direction of motion. When the car is in uniform
+motion, there is no net external force acting on it:
+the force by the child cancels the force ( friction)
+by the ﬂoor. The corollary is: if there were no friction,
+the child would not be required to apply any force
+to keep the toy car in uniform motion.
+
+The opposing forces such as friction (solids)
+and viscous forces (for ﬂuids) are always present
+in the natural world. This explains why forces
+by external agencies are necessary to overcome
+the frictional forces to keep bodies in uniform
+motion. Now we understand where Aristotle
+went wrong. He coded this practical experience
+in the form of a basic argument. To get at the
+
+2019-20
+
+true law of nature for forces and motion, one has
+to imagine a world in which uniform motion is
+possible with no frictional forces opposing. This
+is what Galileo did.
+
+5.3 THE LAW OF INERTIA
+
+Galileo studied motion of objects on an inclined
+plane. Objects (i) moving down an inclined plane
+accelerate, while those (ii) moving up retard.
+(iii) Motion on a horizontal plane is an
+intermediate situation. Galileo concluded that
+an object moving on a frictionless horizontal
+plane must neither have acceleration nor
+retardation, i.e. it should move with constant
+velocity (Fig. 5.1(a)).
+
+!__+.-.
+
+ 
+
+(i) (ii) (111}
+Fig. 5.1(a)
+
+Another experiment by Galileo leading to the
+same conclusion involves a double inclined plane.
+A ball released from rest on one of the planes rolls
+down and climbs up the other. If the planes are
+smooth, the ﬁnal height of the ball is nearly the
+same as the initial height (a little less but never
+greater). In the ideal situation, when friction is
+absent, the final height of the ball is the same
+as its initial height.
+
+If the slope of the second plane is decreased
+and the experiment repeated, the ball will still
+reach the same height, but in doing so, it will
+travel a longer distance. In the limiting case, when
+the slope of the second plane is zero (i.e. is a
+horizontal) the ball travels an infinite distance.
+In other words, its motion never ceases. This is,
+of course, an idealised situation (Fig. 5.1 (b)).
+
+ 
+
+Fig. 5.1(b) The law of inertia was inferred by Galileo
+from observations of motion of a ball on a
+double inclined plane.

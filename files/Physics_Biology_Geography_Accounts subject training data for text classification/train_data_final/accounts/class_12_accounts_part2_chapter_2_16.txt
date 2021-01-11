@@ -1,0 +1,59 @@
+88 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Solution:
+
+Books of Blue Prints Limited
+Journal
+
+Building A/c . 1.50.000
+Plant & Machinery A/c . 1,40,000
+Furniture A/c . 10,000
+Goodwill A/c 1 . 35,000
+To Liabilities (Sundry) 20,000
+
+To XYZ C0. 3,15,000
+
+(Purchase of assets and taking over of liabilities
+of XYZ Co.)
+
+XYZ Co. . 3.15.000
+To 12% Debentures A/c 3,00,000
+To Securities Premium Reserve A/c 15,000
+(Issue of 3,000 debentures at a premium of 5%)
+
+ 
+
+Note: 1. Since the purchase consideration is more than net assets taken over, the
+difference has been debited to goodwill account.
+
+2. No. of debentures issued = Purchase Consideration
+Issue Price of a Debenture
+
+RS3 15 000 = 3.000
+105
+
+ 
+
+Illustration 1 2
+
+A Limited took over the assets of Rs. 3,00,000 and liabilities of Rs. 10,000 from
+B & Co. Ltd., for an agreed purchase consideration of Rs. 2,70,000 to be satisﬁed
+by issue of 1 5% debentures of Rs. 100 at 20% premium. Show the journal
+entries in the journal of A Limited.
+
+Solution:
+
+Books of A Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amowit Amow1t
+(RS) {Rs}
+
+ 
+
+Sundry Assets A/c . 300,000
+To Sundry Liabilities A/c 10,000
+To B & Co. Ltd. 2,70,000
+To Capital Reserve 20,000
+(Purchased assets and took over liabilities from B Ltd.)

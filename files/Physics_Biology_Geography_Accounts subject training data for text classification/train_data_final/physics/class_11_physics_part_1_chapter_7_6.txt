@@ -1,0 +1,86 @@
+SYSTEMS OF PARTICLES AND ROTATIONAL MOTION l47
+
+ 
+
+With the x—and y—axes chosen as shown in Fig. concurrence of the medians, i.e. on the centroid
+7.9, the coordinates of points 0, A and B forming G of the triangle. 4
+the equilateral triangle are respectively (0,0),
+
+(0.5,0), (025,025 ﬂ), Let the masses 100 g, > Example 7.3 Find the centre of mass ofa
+150g and 200g be located at 0’ A and B be unifomi L-shaped lamina (a thin ﬂat plate)
+respectively. Then with dimensions as shown. The mass of
+
+the lamina is 3 kg.
+mlx1 + m2x2 + m3x3
+
+ 
+
+ 
+
+ 
+
+X m1 + m2 + m3 Answer Choosing the X and Yaxes as shown
+
+in Fig. 7.1 1 we have the coordinates of the
+
+100(0) + 150(0.5) + 200(0-25) gm vertices of the L-shaped lamina as given in the
+
+Z (100 + 150 + 200) g figure. We can think of the
+
+L—shape to consist of 3 squares each of length
+
+75 + 50 125 5 1m. The mass of each square is 1kg, since the
+
+= 450 m = 4—50m = Em lamina is uniform. The centres of mass C1, C2
+
+and C3 of the squares are, by symmetry, their
+
+100(0) + 150(0) + 200(0.25\/§) gm geometric centres and have coordinates (1 / 2, 1 / 2),
+
+Y = 450 g (3/2,1/2), (1/2,3/2) respectively. We take the
+
+masses of the squares to be concentrated at
+
+50 J3 J§ 1 these points. The centre of mass of the whole
+
+2 —m = —m = —m L shape (X, Y) is the centre of mass of these
+450 9 3‘5
+
+mass points.
+The centre of mass C is shown in the figure.
+
+Note that it is not the geometric centre of the
+triangle OAB. Why? 4
+
+P Example 7.2 Find the centre of mass ofa
+triangular lamina.
+
+Answer The lamina (ALMN) may be subdivided
+into narrow strips each parallel to the base (MN)
+as shown in Fig. 7.10
+
+ 
+
+Fig. 7.11
+
+ 
+
+Hence
+
+ 
+
+X: [1(1/2)+1(3/2)+1(1/2)]kgm 5
+
+ 
+
+Fig. 7.10 (1+1+1)kg ‘Em
+By symmetry each strip has its centre of [1(1/2)+ 1(1/2)+ ”3/2” kgm 5
+mass at its midpoint. If we join the midpoint of Y = 1 1 1 k = 6 m
+all the strips we get the median LP. The centre ( + + ) g
+of mass of the triangle as awhole therefore, has The centre of mass of the L—shape lies on
+
+to lie on the median LP. Similarly, we can argue the line OD. We could have guessed this without
+that it lies on the median Mg and NR. This calculations. Can you tell why? Suppose, the
+means the centre of mass lies on the point of three squares that make up the L shaped lamina
+
+2019-20

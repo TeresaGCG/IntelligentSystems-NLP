@@ -1,0 +1,74 @@
+MOLECULAR BASIS OF INHERITANCE
+
+because of the requirement of the origin of 5’
+replication that a piece of DNA if needed to be
+propagated during recombinant DNA procedures,
+requires a vector. The vectors provide the origin of
+replication.
+
+Further, not every detail of replication is
+understood well. In eukaryotes, the replication of
+DNA takes place at S—phase of the cell-cycle. The
+replication of DNA and cell division cycle should be
+highly coordinated. A failure in cell division after Continuous
+DNA replication results into polyploidy(a synthesis
+chromosomal anomaly). You will learn the detailed
+nature of origin and the processes occurring at this
+site, in higher classes.
+
+    
+
+The process of copying genetic information from one
+strand of the DNA into RNA is termed as
+transcription. Here also, the principle of
+complementarity governs the process of transcription, except the adenosine
+complements now forms base pair with uracil instead of thymine. However,
+unlike in the process of replication, which once set in, the total DNA of an
+organism gets duplicated, in transcription only a segment of DNA and
+only one of the strands is copied into RNA. This necessitates defining the
+boundaries that would demarcate the region and the strand of DNA that
+would be transcribed.
+
+Why both the strands are not copied during transcription has the
+simple answer. First, if both strands act as a template, they would code
+for RNA molecule with different sequences (Remember complementarity
+does not mean identical), and in turn, if they code for proteins, the sequence
+of amino acids in the proteins would be different. Hence, one segment of
+the DNA would be coding for two different proteins, and this would
+complicate the genetic information transfer machinery. Second, the two
+RNA molecules if produced simultaneously would be complementary to
+each other, hence would form a double stranded RNA. This would prevent
+RNA from being translated into protein and the exercise of transcription
+would become a futile one.
+
+6.5. 1 Transcription Unit
+
+A transcription unit in DNA is deﬁned primarily by the three regions in
+the DNA:
+
+(i) A Promoter
+(ii) The Structural gene
+(iii) ATerminator
+
+2019—2020
+
+Newly synthesised \
+6.5 TRANSCRIPTION , strands
+
+ 
+
+   
+  
+    
+
+Template DNA
+(parental strands)
+
+Discontinuous
+synthesis
+
+3/
+
+Figure 6.8 Replicating Fork
+
+107

@@ -1,0 +1,37 @@
+446 Chapter 6 Enhancing Performance with Plpellnlng
+Hardware Given that compilers can also schedule code around data dependences, you might
+ask, Why would a superscalar processor use dynamic scheduling? There are three
+Software
+major reasons. First, not all stalls are predictable. In particular, cache misses (see
+Interface
+Chapter 7) cause unpredictable stalls. Dynamic scheduling allows the processor to
+hide some of those stalls by continuing to execute instructions while waiting for
+the stall to end.
+Second, if the processor speculates on branch outcomes using dynamic branch
+prediction, it cannot know the exact order of instructions at compile time, since it
+depends on the predicted and actual behavior of branches. Incorporating
+dynam ic speculation to exploit more lLP without incorporating dynamic sched 
+uling would significantly restrict the benefits of such speculation.
+Third, as the pipeline latency and issue width change from one implementation to
+another, the best way to compile a code sequence also changes. For example, how
+to schedule a sequence of dependent instructions is affected by both issue width
+and latency. The pipeline structure affects both the number of times a loop must
+be unrolled to avoid stalls as well as the process of compiler-based register renam 
+ing. Dynamic scheduling allows the hardware to hide most of these details. Thus,
+users and software distributors do not need to worry about having multiple ver 
+sions of a program for different implementations of the same instruction set. Sim 
+ilarly, old legacy code will get much of the benefit of a new implementation
+without the need for recompilation.
+BIG
+Both pipelining and multiple-issue execution increase peak instruction
+The
+throughput and attempt to exploit ILP. Data and control dependences in
+Picture
+programs, however, offer an upper limit on sustained performance
+because the processor must sometimes wait for a dependence to be
+resolved. Software-centric approaches to exploiting ILP rely on the ability
+of the compiler to find and reduce the effects of such dependences, while
+hardware-centric approaches rely on extensions to the pipeline and issue
+mechanisms. Speculation, performed by the compiler or the hardware,
+can increase the amount of ILP that can be exploited, although care must
+be taken since speculating incorrectly is likely to reduce performance.

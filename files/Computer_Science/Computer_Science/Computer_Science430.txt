@@ -1,0 +1,32 @@
+414 Chapter 6 Enhancing Performance with Plpellnlng
+Time (in clock cycles) -------------------------_.
+cc, cc, cc s cc , cc, cca cc,
+CC1 CC 2
+Program
+execution
+order
+(in instructions)
+IW $2, 20($1)
+and $4, $2, $5
+or $8, $2, $6
+add $9, $4, $2
+sit $1, $6, $7
+FIGURE 6.34 A plpellned sequence of Instructions. Since the dependence between the load and the following instruction (a nd) goes back·
+wards in time, this hazard cannol be solved by forwarding. Hence, this combination must result in a stall bythe hazard detection unit.
+the pipeline by changing the EX, MEM , and \VBcontrol fields of the ID/ EX pipe 
+line register to O. These benign control values are percolated forward at each clock
+cycle with the proper effect: no registers or memories are written if the control
+o.
+values are all
+Figure 6.35 shows what really happens in the hardware: the pipeline execution
+slot associated with the a nd instruction is turned into a nop and all instructions
+beginning with the a nd instruction are delayed one cycle. The hazard forces the
+and and or instructions to repeat in clock cycle 4 what they did in clock cycle 3:
+and reads registers and decodes, and or is refetched from instruction memory.
+Such repeated work is what a stall looks like, but its effect is to stretch the time of
+the and and or instructions and delay the fetch of the add instruction. Like an air
+bubble in a water pipe, a stall bubble delays everything behind it and proceeds
+down the instruction pipe one stage each cycle until it exits at the end.
+Figure 6.36 highlights the pipeline connections for both the hazard detection
+unit and the forwarding unit. As before, the forwarding unit controls the ALU
+multiplexors to replace the value from a general-purpose register with the value

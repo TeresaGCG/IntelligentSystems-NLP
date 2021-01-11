@@ -1,0 +1,42 @@
+3.11 Exercises 229
+Gresham's Law ("Bad
+Historical Perspective and Further
+money drives out Good") for
+Reading computers would say, "The
+Fast drives alit the Slow even
+This section surveys the history of the floating point going back to von Neumann, ifthe Fast is wrong."
+including the surprisingly controversial IEEE standards effort, plus the rationale
+W. Kahan, 1992
+for the 80-bit stack architecture for floating point in the lA-32. See . Section
+3.10.
+Never give in, never give in,
+never, never, never-m
+Exercises
+nothing, great or small, large
+or petty-never give in.
+Winston Churchill, address at
+Harrow School, 1941 ,Abroad,
+3.1 [3] <§3.2> Convert 4096 into a 32-bit two's complement binary number.
+ten 1869
+3.2 [3] <§3.2> Convert -2047 into a 32-bit two's complement binary number.
+ten
+3.3 [5] <§3.2> Convert -2,OOO,000ten into a 32-bit two's complement binary
+number.
+3.4 [5] <§3.2> What decimal number does this two's complement binary num 
+ber represent: 1111 1111 1111 1111 1111 1111 0000 0110 ?
+two
+3.5 [5] <§3.2> What decimal number does this two's complement binary num 
+ber represent: 1111 1111 1111 1111 1111 1111 1110 11l1 ?
+t wo
+3.6 [5] <§3.2> What decimal number does this two's complement binary num 
+ber represent: 0111 1111 1111 1111 1111 1111 1110 11l1 ?
+two
+3.7 [10] <§3.2> Find the shortest sequence ofMI PS instructions to determine the
+absolute value of a two's complement integer. Convert this instruction (accepted
+by the MIPS assembler):
+abs $t2,$t3
+This instruction means that register H2 has a copy of register $t3 if register $t3
+is positive, and the two's complement of register $t3 if $t3 is negative. (Hint: It
+can be done with three instructions.)
+II
+3.8 [10] <§3.2> For More Practice: Number Representations

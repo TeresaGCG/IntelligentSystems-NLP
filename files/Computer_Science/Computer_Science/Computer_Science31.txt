@@ -1,0 +1,42 @@
+1.3 Under the Covers 15
+The final advantage is that programming languages allow programs to be inde 
+pendent of the computer on which they were developed, since compilers and
+assemblers can translate high-level language programs to the binary instructions
+of any machine. These three advantages are so strong that today little program 
+ming is done in assembly language.
+Under the Covers
+Now that we have looked below your program to uncover the underlying software,
+let's open the covers of the computer to learn about the underlying hardware. The
+underlying hardware in any computer performs the same basic functions: input 
+ting data, outputting data, processing data, and storing data. How these functions
+are performed is the primary topic of this book, and subsequent chapters deal
+with different parts of these four tasks. When we come to an important point in
+this book, a point so important that we hope you will remember it forever, we
+emphasize it by identifying it as a "Big Picture" item. We have about a dozen Big
+Pictures in this book, with the first being the five components of a computer that
+perform the tasks of inputting, outputting, processing, and storing data.
+BIG
+The five classic components of a computer are input, output, memory,
+The
+datapath, and control, with the last two sometimes combined and called
+Picture
+the processor. Figure 1.5 shows the standard organization of a computer.
+This organization is independent of hardware technology: You can place
+every piece of every computer, past and present, into one of these five cat 
+egories. To help you keep all this in perspective, the five components of a
+computer are shown on the front page of the following chapters, with the
+portion of interest to that chapter highlighted.
+Figure 1.6 shows a typical desktop computer with keyboard, mouse, screen, input device A mechanism
+through which the computer is
+and a box containing even more hardware. What is not visible in the photograph
+fed information, such as the
+is a network that connects the computer to other computers. This photograph
+keyboard or mouse.
+reveals two of the key components of computers: input devices, such as the key 
+board and m ouse, and o utput devices, such as the screen. As the names suggest, output device A mechanism
+that conveys the result ofa com 
+input feeds the computer, and output is the result of computation sent to the user.
+putation to a user or another
+Some devices, such as networks and disks, provide both input and output to the
+computer.
+computer.

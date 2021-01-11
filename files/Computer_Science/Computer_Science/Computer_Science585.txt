@@ -1,0 +1,45 @@
+8.2 Disk Storage and Dependability 56.
+focused on response time and diversity of I/O devices, while server systems are
+more focused on throughput and expandability of I/O devices.
+Disk Storage and Dependability
+As mentioned in Chapter I, magnetic disks rely on a rotating platter coated with a
+magnetic surface and use a moveable read/write head to access the disk. Disk stor 
+age is nonvolatile-the data remains even when power is removed. A magnetic nonvolatile Storage device
+disk consists of a collection of platters (1-4), each of which has two recordable where data retains its value even
+when power is removed.
+disk surfaces. The stack of platters is rotated at 5400 to 15,000 RPM and has a
+diameter from an inch to just over 3.5 inches. Each disk surface is divided into
+concentric circles, called tracks. There are typically 10,000 to 50,000 tracks per track One ofthousands ofcon 
+surface. Each track is in turn divided into sectors that contain the information; centric circles that makes up the
+surface ofa magnetic disk.
+each track may have 100 to 500 sectors. Sectors are typically 512 bytes in size,
+although there is an initiative to increase the sector size to 4096 bytes. The
+sector One of the segments
+sequence recorded on the magnetic media is a sector number, a gap, the informa  that make up a track on a mag 
+III netic disk; a sector is the small 
+tion for that sector including error correction code (see Appendix B, page B 
+est amount ofinformation that
+64), a gap, the sector number of the next sector, and so on. Originally, all tracks
+is read or written on a disk.
+had the same number of sectors and hence the same number of bits, but with the
+introduction of zone bit recording (ZBR) in the early 1990s, disk drives changed
+to a varying number of sectors (and hence bits) per track, instead keeping the
+spacing between bits constant. ZBR increases the number of bits on the outer
+tracks and thus increases the drive capacity.
+As we saw in Chapter I, to read and write information the read/write heads
+must be moved so that they are over the correct location. The disk heads for each
+surface are connected together and move in conjunction, so that every head is
+over the same track of every surface. The term cylinder is used to refer to all the
+tracks under the heads at a given point on all surfaces.
+To access data, the operating system must direct the disk through a three-stage
+process. The first step is to position the head over the proper track. This operation
+is called a seek, and the time to move the head to the desired track is called the seek The process ofpositioning
+seek time. a read/write head over the
+proper track on a disk.
+Disk manufacturers report minimum seek time, maximum seek time, and
+average seek time in their manuals. The first two are easy to measure, but the aver 
+age is open to wide interpretation because it depends on the seek distance. The
+industry has decided to calculate average seek time as the sum of the time for all
+possible seeks divided by the number of possible seeks. Average seek times are
+usually advertised as 3 ms to 14 ms, but, depending on the application and sched 
+uling of disk requests, the actual average seek time may be only 25% to 33% of the

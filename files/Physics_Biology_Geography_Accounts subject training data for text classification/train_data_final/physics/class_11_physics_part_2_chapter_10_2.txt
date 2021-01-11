@@ -1,0 +1,116 @@
+252
+
+PHYSICS
+
+ 
+
+Example 1 0. 1 The two thigh bones
+(femurs). each of cross-sectional arealO cm2
+
+support the upper part ofa human body of
+mass 40 kg. Estimate the average pressure
+sustained by the femurs.
+
+ 
+
+Answer Total cross-sectional area of the
+femurs is A = 2 x 10 em2 = 20 x 10'4 m2. The
+force acting on them is F = 40 kg wt = 400 N
+(taking 9 = 10 m S'2). This force is acting
+vertically down and hence, normally on the
+femurs. Thus, the average pressure is
+
+Pau=%=2><105Nm_2 4
+
+10.2. 1 Pascal's Law
+
+The French scientist Blaise Pascal observed that
+the pressure in a ﬂuid at rest is the same at all
+points if they are at the same height. This fact
+may be demonstrated in a simple way.
+
+ 
+
+Fig. 10.2 Proof of Pascal’s law. ABC—DEF is an
+element of the interior of a ﬂuid at rest.
+This element is in the form of a right—
+angled prism The element is small so that
+the effect of gravity can be ignored, but it
+has been enlarged for the sake of clarity.
+
+Fig. 10.2 shows an element in the interior of
+a ﬂuid at rest. This element ABC-DEF is in the
+form of a right-angled prism. In principle, this
+prismatic element is very small so that every
+part of it can be considered at the same depth
+from the liquid surface and therefore, the effect
+of the gravity is the same at all these points.
+But for clarity we have enlarged this element.
+The forces on this element are those exerted by
+the rest of the ﬂuid and they must be normal to
+the surfaces of the element as discussed above.
+Thus, the ﬂuid exerts pressures Pa, Pb and PC on
+
+2019-20
+
+this element of area corresponding to the normal
+forces Fa, Fb and Fe as shown in Fig. 10.2 on the
+faces BEFC, ADFC and ADEB denoted by Aa, Ab
+and AC respectively. Then
+Fb sine = F0, Fb cosB = Fa (by equilibrium)
+Ab sine = AC, Ab cost) = A3 (by geometry)
+Thus,
+
+F b _ F c _ Fa .
+Ab AC Aa ’
+
+Hence, pressure exerted is same in all
+directions in a ﬂuid at rest. It again reminds us
+that like other types of stress, pressure is not a
+vector quantity. No direction can be assigned
+to it. The force against any area within (or
+bounding) a ﬂuid at rest and under pressure is
+normal to the area, regardless of the orientation
+of the area.
+
+Now consider a ﬂuid element in the form of a
+horizontal bar of uniform cross-section. The bar
+is in equilibrium. The horizontal forces exerted
+at its two ends must be balanced or the
+pressure at the two ends should be equal. This
+proves that for a liquid in equilibrium the
+pressure is same at all points in a horizontal
+plane. Suppose the pressure were not equal in
+different parts of the ﬂuid, then there would be
+a ﬂow as the ﬂuid will have some net force
+acting on it. Hence in the absence of ﬂow the
+pressure in the ﬂuid must be same everywhere
+in a horizontal plane.
+
+ 
+
+Pb = Pa = Pa (10.4)
+
+10.2.2 Variation of Pressure with Depth
+
+Consider a ﬂuid at rest in a container. In
+Fig. 10.3 point 1 is at height h above a point 2.
+The pressures at points 1 and 2 are P1 and P2
+respectively. Consider a cylindrical element of
+ﬂuid having area of base A and height h. As the
+ﬂuid is at rest the resultant horizontal forces
+should be zero and the resultant vertical forces
+should balance the weight of the element. The
+forces acting in the vertical direction are due to
+the ﬂuid pressure at the top (PIA) acting
+downward, at the bottom (P2A) acting upward.
+If mg is weight of the ﬂuid in the cylinder we
+have
+
+(P2—P1) A = mg (10.5)
+
+Now, if p is the mass density of the ﬂuid, we
+have the mass of ﬂuid to be m = pV= phA so
+that
+
+P2 —P1= pgh (10.6)

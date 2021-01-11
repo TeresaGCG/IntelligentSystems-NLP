@@ -1,0 +1,40 @@
+Algebra and Geometry
+201
+andr represents the radius of the circle,
+the diameter and the radius satisfy this
+Radius
+equation:
+d = 2r
+In other words, the diameter of a Diameter
+circle is twice the size of the radius.
+Center
+The length of the boundary of a
+circle is called the circumference of the
+circle. The circumference of a circle is
+similar to the perimeter of a polygon,
+in that it measures the length of the
+boundary.
+Figure 10.17
+It was observed thousands of years
+ago that the ratio of the circumference of a circle to its diameter is al-
+ways the same numerical value. This really is magical. It doesn’t matter
+whether the circle is really big, or really small—the ratio of the circum-
+ference of any circle to its diameter is always the same number. This
+ratio is called pi and is represented by the Greek letter π. Given any
+circle:
+π= circumference
+diameter
+Pi is an irrational number, and its value has been calculated to more
+than one trillion decimal places. Pi appears throughout mathematics.
+Ancient Greek mathematicians were able to calculate π very accurately
+(though not to more than a trillion decimal places). This is impressive,
+given the technological resources available at the time. The value of π is
+roughly 3.141592653589.
+Some people approximate π by the ratio  2  2 .
+7
+This rational approximation, however, is just that: an approximation. Pi
+is not a rational number. Because π is a constant, we can use it to relate
+the circumference of a circle to its diameter, and hence its radius. If we
+let C represent the circumference of a circle, d represent the diameter,
+and r represent the radius, we have:
+C = πd = 2πr

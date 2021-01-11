@@ -1,0 +1,93 @@
+MOTION IN A PLANE
+
+73
+
+4.7. 1 Position Vector and Displacement
+
+The position vector 1' of a particle P located in a
+plane with reference to the origin of an x—y
+reference frame (Fig. 4.12) is given by
+
+r = x i + y}
+where xand y are components of 1' along x—, and
+
+y- axes or simply they are the coordinates of
+the object.
+
+ 
+
+«Axe- x
+
+(bl
+Fig. 4. 1 2 (a) Position vector 1'. (b) Displacement Ar and
+average velocity v of a particle.
+
+ 
+
+(a) (b)
+
+Fig. 4. 1 3 As the time intervalAt approaches zero, the average velocity approaches the velocity v. The direction
+of IV is parallel to the line tangent to the path.
+
+Suppose a particle moves along the curve shown
+by the thick line and is at P at time tand P’ at
+time t’ [Fig 4.12(b)]. Then, the displacement is :
+
+Ar = r’ — r (4.25)
+and is directed from P to P’ .
+
+We can write Eq. (4.25) in a component form:
+Ar = (x’i+y’i)—(xi+yi)
+= iAx + iAy
+where Ax = x’ — x, Ay = y’ — y (4.26)
+Velocity
+
+The average velocity (V) of an object is the ratio
+
+of the displacement and the corresponding time
+interval :
+
+ 
+
+V — — — i = 3 (4.27)
+At At At At
+Or, V 2 Ex i+ 5y j
+_ Ar
+Since V = E , the direction of the average velocity
+
+is the same as that of Ar (Fig. 4. 12). The velocity
+(instantaneous velocity) is given by the limiting
+value of the average velocity as the time interval
+approaches zero :
+
+, Ar dr
+
+v = lim — = —
+
+At—>0 At dt
+
+The meaning of the limiting process can be easily
+understood with the help of Fig 4.13(a) to (d). In
+these figures, the thick line represents the path
+of an object, which is at P at time t. P1. P2 and
+P3 represent the positions of the object after
+times At1,At2, and Ats. Arl, Arz, and Ar3 are the
+
+displacements of the object in times Atl, M2, and
+
+(4.28)
+
+/
+{4
+y 060°C
+
+0“}
+
+ 
+
+O x
+(d)
+
+ 
+
+2019-20

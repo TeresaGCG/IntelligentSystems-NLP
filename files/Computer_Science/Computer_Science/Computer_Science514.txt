@@ -1,0 +1,21 @@
+498 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Direct mapped Set associative Fully associative
+Block # 0 1 2 34 5 67 Set # 2 3
+Data Data Data
+1 1 1
+T, g T,g T, g
+2 2 2
+Search Search Search 1
+FIGURE 7.13 The location of a memory block whose address Is 12 In a cache with 8 blocks varies for dlrect-mapped, set 
+associative, and fully associative placement. In direct-mapped placement, there is only one cache block where memory block 12 can be
+found, and that block is given by (12 mooulo 8) = 4. In a lm>-wayset-associative cache, there would be four sets, and memory block 12 must be in set
+(12 mod 4) = 0; the memory block could be in either element ofthe set. In a fully associative placement, the memory block for block address 12 can
+appear in any oflhe eight cache blocks.
+cache entry holds one block and each set has one element. A fully associative
+cache with entries is simply an /1l-way set-associative cache; it has one set with
+111
+blocks, and an entry can reside in any block within that set.
+111
+The advantage of increasing the degree of associativity is that it usually
+decreases the miss rate, as the next example shows. The main disadvantage, which
+we discuss in more detail shortly, is an increase in the hit time.

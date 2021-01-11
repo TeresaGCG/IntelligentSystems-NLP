@@ -1,0 +1,58 @@
+272
+
+BIOIJOGY
+
+Residual Volume (RV): Volume of air remaining in the lungs even after a
+forcible expiration. This averages 1 100 mL to 1200 mL.
+
+By adding up a few respiratory volumes described above, one can
+derive various pulmonary capacities, which can be used in clinical
+diagnosis.
+
+Inspiratory Capacity (IC): Total volume of air a person can inspire
+after a normal expiration. This includes tidal volume and inspiratory
+reserve volume ( TV +IRV).
+
+Expiratory Capacity (EC): Total volume of air a person can expire after
+a normal inspiration. This includes tidal volume and expiratory reserve
+volume (TV +ERV) .
+
+Functional Residual Capacity (FRC): Volume of air that will remain in
+the lungs after a normal expiration. This includes ERV+RV.
+
+Vital Capacity (V C): The maximum volume of air a person can breathe in
+after a forced expiration. This includes ERV, TV and IRV or the maximum
+volume of air a person can breathe out after a forced inspiration.
+
+Total Lung Capacity (TLC): Total volume of air accommodated in the
+lungs at the end of a forced inspiration. This includes RV, ERV, TV and
+IRV or vital capacity + residual volume.
+
+17.3 EXCHANGE OF GASES
+
+Alveoli are the primary sites of exchange of gases. Exchange of gases also
+occur between blood and tissues. 02 and CO2 are exchanged in these
+sites by simple diffusion mainly based on pressure / concentration
+gradient. Solubility of the gases as well as the thickness of the membranes
+involved in diffusion are also some important factors that can affect the
+rate of diffusion.
+
+Pressure contributed by an individual gas in a mixture of gases is
+called partial pressure and is represented as p02 for oxygen and pCO2 for
+carbon dioxide. Partial pressures of these two gases in the atmospheric
+air and the two sites of diffusion are given in Table 1 7.1 and in
+Figure 1 7.3. The data given in the table clearly indicates a concentration
+gradient for oxygen from alveoli to blood and blood to tissues. Similarly,
+
+TABLE 17. 1 Partial Pressures (in mm Hg) of Oxygen and Carbon dioxide at Different
+
+Parts Involved in Diffusion in Comparison to those in Atmosphere
+
+Respiratory Atmospheric Alveoli Blood Blood Tissues
+Gas Air (Deoxygenated) (Oxygenated)
+O2 1 59 l 04 4O 95 40
+CO 0.3 40 45 4O 45
+
+2
+
+2019-2020

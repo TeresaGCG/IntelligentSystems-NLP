@@ -1,0 +1,55 @@
+2 1 4 Accountancy
+
+(V)
+SuspenseA/c Dr. 4,500
+To Govil’s A/c 4,500
+[Cash received from Govil ? 5,000 wrongly posted to his account as
+? 500)
+(vi)
+Mahesh's A/c Dr. 630
+To Suspense A/c 630
+
+[Goods returned to Mahesh ? 700 wrongly posted to his account as
+? 70, now corrected]
+
+(vii)
+
+Narayan’s A/c Dr. 1,000
+Suspense A/c Dr. 9,000
+To Allowances A/c 10,000
+
+[Bill receivables from Narayan ? 1,000 wrongly debited to allowances
+account as ? 10,000].
+
+Suspense Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+Govil 4,500 Mahesh 630
+Allowances 9,000 Difference as per 12,870
+trial balance
+
+    
+
+13,500 13,500
+
+Test Your Understanding - IV
+
+Tick the Correct Answer
+
+(1] Agreement of trial balance is affected by:
+
+(a) One sided errors only.
+(b) Two sided errors only.
+(c) Both (a) and (b).
+
+[(1) None of the above.
+
+[2) Which of the following is not an error of principle:
+
+(a) Purchase of furniture debited to purchases account.
+(b) Repairs on the overhauling of second hand machinery purchased debited to
+repairs account.
+
+2019-2020

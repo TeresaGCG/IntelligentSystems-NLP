@@ -1,0 +1,47 @@
+Accounting for Share Capital 2 7
+
+Second Alternative
+
+Particulars
+
+Bank A/c Dr. 20,00,000
+
+To Equity Share Application A/c 20,00,000
+(Money received on applications for 4,00,000
+shares @ Rs. 5 per share)
+
+Equity Share Application A/c . 20,00,000
+To Equity Share Capital A/c 500,000
+To Equity Share Allotment A/c 7.50.000
+To Bank A/c 7,50,000
+
+(Transfer of application money on Shares
+
+allotted to share capital, excess application
+
+amount credited to allotment account and
+
+money refunded on rejected applications)
+
+Equity Share Allotment A/c Dr. 750,000
+
+To Equity Share Capital A/c 7,50,000
+(Amount due on the allotment of Rs. 1,00,000
+shares @ Rs 7.50 per share)
+
+ 
+
+ 
+
+Note :The entries regarding the two calls would be the same as given in preceding method.
+
+Third Alternative
+
+Date Particulars L.F. Debit Credit
+Amowit Amowit
+(Rs)
+
+January 0 1 Bank A/c Dr. 20, 00, 000
+To Equity Share Application A/c 20,00,000
+[Money received on applications for 4, 00, 000
+shares @ Rs 5 p—er share)

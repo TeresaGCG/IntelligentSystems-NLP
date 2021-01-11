@@ -1,0 +1,134 @@
+148
+
+PHYSICS
+
+of Fig. 7.1 1 had different masses. How will you
+
+then determine the centre of mass of the lamina?
+4
+
+7.3 MOTION OF CENTRE OF MASS
+
+Equipped with the definition of the centre of
+mass, we are now in a position to discuss its
+physical importance for a system of n particles.
+We may rewrite Eq.(7.4d) as
+
+MR: Zmiri =m1r1 +m2r2 +...+mnrn (7.7)
+
+Differentiating the two sides of the equation
+with respect to time we get
+
+ 
+
+dR dr1 dr2 drn
+M—=m1—+m2—+...+mn
+
+dt dt dt dt
+or
+MV=mlv1+m2v2+m+mnvn (7.8)
+
+where v1 (= dr1 / dt) is the velocity of the first
+
+particle v2 (=dr2/dt) is the velocity of the
+
+second particle etc. and V = dR/dt is the
+velocity of the centre of mass. Note that we
+assumed the masses m1, m2, etc. do not
+change in time. We have therefore, treated them
+as constants in differentiating the equations
+
+with respect to time.
+Differentiating Eq.(7.8) with respect to time,
+we obtain
+
+ 
+
+ 
+
+dV dv1 dv2 dv,L
+M—=m1—+m2 +...+m,l
+
+dt dt dt dt
+or
+MAzmla1 +m2a2 +...+mnan (7.9)
+
+where 1':11(=dv1 /dt) is the acceleration of the
+
+first particle, 32 (= dv2 / dt) is the acceleration
+
+of the second particle etc. and A (2 dV / dt) is
+
+the acceleration of the centre of mass of the
+system of particles.
+Now, from Newton’s second law, the force
+
+acting on the first particle is given by F1 = mla1 .
+The force acting on the second particle is given
+by F2 = m2a2 and so on. Eq. (7.9) may be written
+as
+
+MA=F1+F2+...+Fn (7.10)
+
+2019-20
+
+Thus, the total mass of a system of particles
+times the acceleration of its centre of mass is
+the vector sum of all the forces acting on the
+system of particles.
+
+Note when we talk of the force F1 on the first
+
+particle, it is not a single force, but the vector
+sum of all the forces on the ﬁrst particle; likewise
+for the second particle etc. Among these forces
+on each particle there will be external forces
+exerted by bodies outside the system and also
+internal forces exerted by the particles on one
+another. We know from Newton’s third law that
+these internal forces occur in equal and opposite
+pairs and in the sum of forces of Eq. (7.10),
+their contribution is zero. Only the external
+forces contribute to the equation. We can then
+rewrite Eq. (7 . 10) as
+
+IWA=FM (7.11)
+
+where Fext represents the sum of all external
+
+forces acting on the particles of the system.
+
+Eq. (7.1 1) states that the centre of mass
+of a system of particles moves as if all the
+mass of the system was concentrated at the
+centre of mass and all the external forces
+were applied at that point.
+
+Notice, to determine the motion of the centre
+of mass no knowledge of internal forces of the
+system of particles is required; for this purpose
+we need to know only the external forces.
+
+To obtain Eq. (7. 1 1) we did not need to
+specify the nature of the system of particles.
+The system may be a collection of particles in
+which there may be all kinds of internal
+motions, or it may be a rigid body which has
+either pure translational motion or a
+combination of translational and rotational
+motion. Whatever is the system and the motion
+of its individual particles, the centre of mass
+moves according to Eq. (7 . 1 1).
+
+Instead of treating extended bodies as single
+particles as we have done in earlier chapters,
+we can now treat them as systems of particles.
+We can obtain the translational component of
+their motion, i.e. the motion of the centre of mass
+of the system, by taking the mass of the whole
+system to be concentrated at the centre of mass
+and all the external forces on the system to be
+acting at the centre of mass.
+
+This is the procedure that we followed earlier
+in analysing forces on bodies and solving

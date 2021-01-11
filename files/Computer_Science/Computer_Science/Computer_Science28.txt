@@ -1,0 +1,27 @@
+12 Chapter 1 Computer Abstractions and Technology
+FIGURE 1.3 A simplified view of hardware and software as hierarchical layers, shown as
+concentric circles with hardware In the center and applications software outermost. In
+complex applications there are often multiple layers of application software as weU. For example, a database
+system may run on top of the systems software hosting an application, which in turn nms on top of the
+database.
+can execute. Given the sophistication of modern programming languages and the
+simple instructions executed by the hardware, the translation from a high-level
+language program to hardwa re instructions is complex. We will give a brief over 
+view of the process and return to the subject in Chapter 2.
+From a High-Level Language to the Language of Hardware
+To actually speak to an electronic machine, you need to send electrical signals. The
+easiest signals fo r machines to understand are on and off, and so the machine
+alphabet is just two letters. Just as the 26 letters of the English alphabet do not
+limit how much ca n be written, the two letters of the computer alphabet do not
+limit what computers can do. The two symbols for these two letters are the num 
+bers 0 and 1, and we commonly think of the machine language as numbers in base
+binary digit Also called a bit. 2, or binary nllmbers. We refer to each "letter" as a binary digit or bit. Computers
+One of the two numbers in base are slaves to our commands, which are called instructions. Instructions, which are
+2 (0 or 1) that are the compo 
+just collections of bits that the computer understands, can be thought of as num 
+nents of information.
+bers. For example, the bits
+1000110010100000
+tell one computer to add two numbers. Chapter 3 explains why we use numbers
+for instructions and data; we don't want to steal that chapter's thunder, but using
+numbers for both instructions and data is a foundation of computing.

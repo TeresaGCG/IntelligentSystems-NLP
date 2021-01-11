@@ -1,0 +1,125 @@
+OSCILLATIONS
+
+355
+
+ 
+
+of the function sin 0 . From this table it can be
+seen that for 0 as large as 20 degrees, sin 0 is
+nearly the same as 9 expressed in radians.
+
+Table 14.1 sin 6 as a function of angle 9
+0 (radians)
+0
+
+0.087
+0.174
+0.262
+0.349
+
+     
+   
+   
+   
+
+Equation (14.27) is mathematically, identical
+to Eq. (14. 1 1) except that the variable is angular
+displacement. Hence we have proved that for
+small 6, the motion of the bob is simple harmonic.
+From Eqs. (14.27) and (14.1 1),
+
+L
+w=£
+
+I
+
+I I
+T =2 —
+7" mgL (14.28)
+
+Now since the string of the simple pendulum
+is massless, the moment of inertia I is simply
+mL2. Eq. (14.28) then gives the well-known
+formula for time period of a simple pendulum.
+
+L
+T = HF (14.29)
+9
+Example 14.9 What is the length of a
+simple pendulum. which ticks seconds ?
+
+Answer From Eq. (14.29), the time period of a
+simple pendulum is given by,
+
+T=27I\/Z
+9
+
+From this relation one gets,
+
+_ﬂ2
+["4722
+
+The time period of a simple pendulum, which
+ticks seconds, is 2 s. Therefore, for g = 9.8 m S‘2
+and T = 2 s, Lis
+
+and
+
+ 
+
+= 9.8(m s‘2) >< 4(s2)
+
+4:22
+21m ‘
+
+14.9 DAMPED SIMPLE HARMONIC MOTION
+
+We know that the motion of a simple pendulum,
+swinging in air, dies out eventually. Why does it
+happen ? This is because the air drag and the
+friction at the support oppose the motion of the
+pendulum and dissipate its energy gradually.
+The pendulum is said to execute damped
+oscillations. In dampled oscillations, the energy
+of the system is dissipated continuously; but,
+for small damping, the oscillations remain
+approximately periodic. The dissipating forces
+are generally the frictional forces. To understand
+the effect of such external forces on the motion
+of an oscillator, let us consider a system as
+shown in Fig. 14.19. Here a block of mass m
+connected to an elastic spring of spring constant
+k oscillates vertically. If the block is pushed down
+a little and released, its angular frequency of
+
+k
+
+oscillation is (0: a , as seen in Eq. (14.20).
+
+However, in practice, the surrounding medium
+(air) will exert a damping force on the motion of
+the block and the mechanical energy of the
+block-spring system will decrease. The energy
+loss will appear as heat of the surrounding
+medium (and the block also) [Fig. 14.19].
+
+x
+
+   
+   
+ 
+
+Rigid support
+Spring
+
+BI9'Ck
+..-.-.:.- .32: ' Surrounding
+‘ -, medium
+
+._ x'
+
+Fig. 1 4. 1 9 The viscous surrounding medium exerts
+a damping force on an oscillating spring,
+eventually bringing it to rest.
+
+2019-20

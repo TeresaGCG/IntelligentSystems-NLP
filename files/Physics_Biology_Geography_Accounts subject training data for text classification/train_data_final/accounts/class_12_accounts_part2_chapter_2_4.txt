@@ -1,0 +1,49 @@
+76 Accountancy : Company Accounts and Analysis of Financial Statements
+
+2.4.1 Issue of Debentures for Cash
+
+Debentures are said to be issued at par when their issue price is equal to the
+face value. The journal entries recorded for such issue are as under:
+
+(a) If whole amount is received in one instalment:
+(i) On receipt of the application money
+Bank A/c Dr.
+To Debenture Application & Allotment A/c
+(ii) On Allotment of debentures
+Debenture Application & Allotment A/c Dr.
+To Debentures A/c
+(b) If debenture amount is received in two instalments:
+(i) On receipt of application money
+Bank A/c Dr.
+To Debenture Application A/c
+(ii) For adjustment of applications money on allotment
+Debenture Application A/c Dr.
+To Debentures A/c
+(iii) For allotment money due
+Debenture AlloiInent A/c Dr.
+To Debentures A/c
+(iv) On receipt of allotment money
+Bank A/c Dr.
+To Debenture Allotment A/c
+
+(c) If debenture money is received in more than two instalments
+
+Additional entries:
+(i) On making the ﬁrst call
+Debenture First Call A/c Dr.
+
+To Debentures A/c
+(ii) On the receipt of the first call
+Bank A/c Dr.
+To Debenture First Call A/c
+Note: Similar entries may be made for the second call and ﬁnal call. However. normally
+the whole amount is collected on application or in two instalments, i.e.. on
+application and allotment.
+
+Illustration 1
+
+ABC Lmited issued Rs 10,000, 12% debentures of Rs 100 each payable Rs 30
+on application and remaining amount on allotment. The public applied for 9,000
+debentures which were fully allotted, and all the relevant allotment money was
+duly received. Give journal entries in the books of ABC Ltd., and exhibit the
+relevent information in the balance sheet.

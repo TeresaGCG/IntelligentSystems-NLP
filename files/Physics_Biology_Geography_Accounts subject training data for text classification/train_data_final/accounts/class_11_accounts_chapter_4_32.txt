@@ -1,0 +1,58 @@
+Recording of Transactions — II 131
+
+Raman Traders Account
+
+Dr. Cr.
+Date Particulars J. F. Amount Date Particulars J. F. Amount
+? ?
+Sales 4, 850
+Sales 85 , 000
+
+Nutan Enterprises Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+20 1 7
+Apr.0 1 Sales 2 1,000
+
+Sales Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+2017
+Apr. 30 Sundries as 1,10,850
+per sales book
+
+  
+ 
+
+ 
+
+  
+   
+
+4.5 Sales Return (Journal) Book
+
+This journal is used to record return of goods by customers to them on credit.
+On receipt of goods from the customer, a credit note is prepared, like the debit
+note referred to earlier. The difference between the credit not and the debit
+note is that the former is prepared by the seller and the latter is prepared by
+the buyer. Like the debit note, the credit note is also prepared in duplicate
+and contains detail relating to the name of the customer, details of the
+merchandise received back and the amount. Each credit note is serially
+numbered and dated. The source document for recording entries in the sales
+return book is generally the credit note. The format of the sales return book is
+shown in figure 4.9
+
+Sales Return (Journal) Book
+
+Date Credit Name of the customer L.F. Amount
+No. (Account to be credited) ?
+
+Fig. 4.9 : Format of sales return (journal) book
+
+ 
+
+2019-2020

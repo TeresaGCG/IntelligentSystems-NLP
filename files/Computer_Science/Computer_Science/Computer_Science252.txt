@@ -1,0 +1,43 @@
+Computers
+Reconstructing the
+in the
+Ancient World
+Real World
+Problem: Analyzing and understanding
+archeological sites is challenging. Can we find
+ways to use computers to help researchers to
+explore archeological sites and artifacts dis 
+covered at those sites?
+Solution: Archeology is undergoing a revolu 
+tion with the use of digital tools for mapping
+out ancient sites, reconstructing damaged arti 
+facts, and recreating ancient sites in three
+dimensions. Among the important new tech 
+niques being used to analyze and recreate sites
+are the following:
+D
+The use of geographical information sys 
+tems (GIS) to help accurately measure
+A digital photograph taken from a \llrtual reality
+sites. GIS uses global positioning systems
+model of the new temple at Chavin de Huantar.
+(GPS) to accurately pinpoint locations,
+D
+Digital photography to obtain accurate
+allowing fast and precise measurements
+images of sites as well as individual
+of a site.
+objects.
+D
+Laser range finding to obtain accurate
+D
+Virtual reality and three-dimensional vi 
+measurements of the two- and three 
+sualization systems can use digital pho 
+dimensional structure of objects. Laser
+tographic data and accurate geospatial
+range-finding is even being used with
+information to create realistic versions of
+low-flying aircraft to obtain height
+archeological sites, allowing archeolo-
+measurements.

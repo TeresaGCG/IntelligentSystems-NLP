@@ -1,0 +1,41 @@
+220 Chapter 3 Arithmetic: for Computers
+Floating-point perfo rmance of the IA-32 family has traditionally lagged faf
+behind other com puters. Whether it is simply a lack of attention by Intel engineers
+o r a flaw with its architecture is hard to know. We can say that many new architec 
+tures have been announced since 1980, and none have followed in Intel's foot 
+steps. In addition, Intel created a more traditional floating-point architecture as
+part of SSE2.
+The Intel Streaming SIMD Extension 2 (SSE2) Floating 
+Point Architecture
+Chapter 2 notes that in 200 1 Intel added 144 instructions to its architecture,
+including double precision floating-point registers and operations. It includes
+eight registers that can be used fo r floating-point operands, giving the compiler a
+different target for floating-point operations than the unique stack architecture.
+Compilers can choose to use the eight SSE2 registers as floating-point registers
+like those found in other computers. AMD expanded the number to 16 as part of
+AMD64, which Intel relabled EM64T for its use.
+In addition to holding a single precision o r double precision number in a regis 
+ter, Intel allows multiple floating-point operands to be packed into a single 128 
+bit SSE2 register: four single precision o r two double precision. If the operands
+can be arranged in memory as 128-bit aligned data, then 128-bit data transfers
+can load and sto re multiple operands per instruction. This packed floating-point
+format is supported by arithmetic operations that can operate simultaneously on
+four singles o r two doubles. This new architecture can mo re than double perfor 
+mance over the stack architecture.
+Thus mathematics may be
+defined as the subject in
+Fallacies and Pitfalls
+which we never know what
+we are talking abollt, nor
+whether what we are saying
+Arithmetic fallacies and pitfalls generally stem from the difference between the
+is truc.
+limited precision of computer arithmetic and the unlimited precision of natural
+Bertrand Russell, Recent
+arithmetic.
+Words the Principles of
+011
++ + + +
+Mathematics, 1901 Fallacy: Floating-point addition is associative; that is, x (y z) = (x y) z.
+Given the great range of numbers that can be represented in floating point, prob 
+lems occur when adding two large numbers of opposite signs plus a small number.

@@ -1,0 +1,66 @@
+8.1
+
+Electromagnetic
+Woves
+
+ 
+
+names; y-rays. X—rays, ultraviolet rays, visible rays. infrared rays,
+microwaves and radio waves in order of increasing wavelength from 10‘2 A
+or 10'12m to 106m.
+
+They interact with matter via their electric and magnetic fields which set
+in oscillation charges present in all matter. The detailed interaction and
+so the mechanism of absorption, scattering. etc.. depend on the wavelength
+of the electromagnetic wave, and the nature of the atoms and molecules
+in the medium.
+
+POINTS TO PONDER
+
+1. The basic difference between various types of electromagnetic waves
+lies in their wavelengths or frequencies since all of them travel through
+vacuum with the same speed. Consequently, the waves differ
+considerably in their mode of interaction with matter.
+
+2. Accelerated charged particles radiate electromagnetic waves. The
+wavelength of the electromagnetic wave is often correlated with the
+characteristic size of the system that radiates. Thus. gamma radiation.
+having wavelength of 10'14 m to 10'15 m, typically originate from an
+atomic nucleus. X—rays are emitted from heavy atoms. Radio waves
+are produced by accelerating electrons in a circuit. A transmitting
+antenna can most efficiently radiate waves having a wavelength of
+about the same size as the antenna. Visible radiation emitted by atoms
+is, however, much longer in wavelength than atomic size.
+
+3. The oscillating fields of an electromagnetic wave can accelerate charges
+and can produce oscillating currents. Therefore, an apparatus designed
+to detect electromagnetic waves is based on this fact. Hertz original
+‘receiver’ worked in exactly this way. The same basic principle is utilised
+in practically all modern receiving devices. High frequency
+electromagnetic waves are detected by other means based on the
+physical effects they produce on interacting with matter.
+
+4. Infrared waves, with frequencies lower than those of visible light.
+Vibrate not only the electrons. but entire atoms or molecules of a
+substance. This vibration increases the internal energy and
+consequently, the temperature of the substance. This is why infrared
+waves are often called heat waves.
+
+5. The centre of sensitivity of our eyes coincides with the centre of the
+wavelength distribution of the sun. It is because humans have evolved
+with visions most sensitive to the strongest wavelengths from
+the sun.
+
+Figure 8.6 shows a capacitor made of two circular plates each of
+radius 12 cm, and separated by 5.0 cm. The capacitor is being
+charged by an external source (not shown in the figure). The
+charging current is constant and equal to 0.15A.
+
+EXERCISES
+
+(a) Calculate the capacitance and the rate of change of potential
+difference between the plates.
+
+2019-20
+
+285

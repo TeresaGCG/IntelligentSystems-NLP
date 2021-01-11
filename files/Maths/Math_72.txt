@@ -1,0 +1,26 @@
+Homework Helpers: Basic Math and Pre-Algebra
+72
+Notice that every factor of 5 in the denominator cancels with a 5 in
+the numerator. The resulting exponent is just what you’d get if you sub-
+tracted the exponent in the denominator from the exponent in the nu-
+merator. That gives us our quotient rule for exponents: When you divide
+two numbers with the same base you subtract the exponent in the de-
+nominator from the exponent in the numerator. This can be stated math-
+ematically as:
+am
+= am−n
+an
+Example 2
+Find the following quotients. Leave your answers as exponential
+expressions:
+a.
+b.
+c.
+Solution:
+a.
+b.
+c.
+We’ve multiplied and divided exponential expressions. Now it’s time
+to explore what happens when the base of an exponential expression is
+itself an exponential expression.
+www.ebook3000.com

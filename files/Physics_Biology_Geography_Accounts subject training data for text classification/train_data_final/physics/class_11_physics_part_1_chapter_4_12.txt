@@ -1,0 +1,109 @@
+MOTION IN A PLANE
+
+This relative velocity vector as shown in
+Fig. 4.16 makes an angle 0 with the vertical. It is
+given by
+
+vb 12
+tan6=—=—=0.343
+Dr 35
+On 0219°
+
+Therefore, the woman should hold her
+umbrella at an angle of about 19° with the
+vertical towards the west.
+
+Note carefully the difference between this
+Example and the Example 4. 1. In Example 4. 1,
+the boy experiences the resultant (vector
+sum) of two velocities while in this example,
+the woman experiences the velocity of rain
+relative to the bicycle (the vector difference
+of the two velocities). 4
+
+4. 10 PROJECTILE MOTION
+
+As an application of the ideas developed in the
+previous sections, we consider the motion of a
+projectile. An object that is in ﬂight after being
+thrown or projected is called a projectile. Such
+a projectile might be a football, a cricket ball, a
+baseball or any other object. The motion of a
+projectile may be thought of as the result of two
+separate, simultaneously occurring components
+of motions. One component is along a horizontal
+direction without any acceleration and the other
+along the vertical direction with constant
+acceleration due to the force of gravity. It was
+Galileo who first stated this independency of the
+horizontal and the vertical components of
+projectile motion in his Dialogue on the great
+world systems (1632).
+
+In our discussion, we shall assume that the
+air resistance has negligible effect on the motion
+of the projectile. Suppose that the projectile is
+launched with velocity v0 that makes an angle
+00 with the x—aXis as shown in Fig. 4.17.
+
+After the object has been projected, the
+acceleration acting on it is that due to gravity
+which is directed vertically downward:
+
+a = -gJ'
+Or, ax = O, ay = — g (4.36)
+The components of initial velocity v0 are :
+1)”: v0 cos 00
+Day: vO sin 00 (4.37)
+
+  
+
+O :evo cos 60%- x
+
+Fig 4. 1 7 Motion of an object prcy’ected with velocity
+v0 at angle 00.
+
+If we take the initial position to be the origin of
+the reference frame as shown in Fig. 4.17, we
+have :
+
+X0: 0, y0 = 0
+Then, Eq.(4.34b) becomes :
+
+x= voxt= (vo cos 60) t
+and y = (v, Sin 0,) t—(1/2)th (4.38)
+
+The components of velocity at time t can be
+obtained using Eq.(4.33b) :
+
+v=v =vcos0
+OX 0 0
+
+vy = v0 sin 00 — g t (4.39)
+Equation (4.38) gives the x—, and y-coordinates
+of the position of a projectile at time tin terms of
+two parameters — initial speed v0 and projection
+angle 00. Notice that the choice of mutually
+perpendicular x—, and y-directions for the
+analysis of the projectile motion has resulted in
+a simplification. One of the components of
+velocity, i.e. x—component remains constant
+throughout the motion and only the
+y- component changes, like an object in free fall
+in vertical direction. This is shown graphically
+at few instants in Fig. 4. 18. Note that at the point
+of maximum height, vy= O and therefore,
+
+v
+6=tan‘1—y=0
+
+vx
+
+Equation ofpath ofa projectile
+
+What is the shape of the path followed by the
+projectile? This can be seen by eliminating the
+time between the expressions for x and y as
+given in Eq. (4.38). We obtain:
+
+2019-20

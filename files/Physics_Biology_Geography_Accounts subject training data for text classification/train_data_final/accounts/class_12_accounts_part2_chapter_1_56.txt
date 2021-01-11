@@ -1,0 +1,56 @@
+Accounting for Share Capital 5 7
+
+Share ﬁrst and Final Call A/c
+Share Capital A/c
+
+(Money due on call on 10,000 shares
+@ Rs. 4 per share)
+
+Bank A/c
+To Share ﬁrst and Final Call A/ c
+(Call money received on 9,700 shares)
+
+Share Capital A/c
+Securities Premium Reserve A/c
+To Share Allotment A/c
+To Share ﬁrst and Final Call A/c
+
+To Share Forfeiture A/c
+(Forfeiture of 300 shares)
+
+Bank A/c
+Shares Forfeiture A/c
+
+To Share Capital A/c
+(Reissue of 150 forfeited shares)
+
+Shares Forfeiture A/c
+To Capital Reserve
+
+(Proﬁt on reissue of 150
+forfeited shares transferred)
+
+ 
+
+Share Forfeiture Account
+
+Share Capital
+
+Capital Reserve
+Balance c/d
+
+ 
+
+Working Notes :
+1. Amount received on allotment has been calculated as follows:
+
+(Rs. )
+Total money due on 10,000 shares @ Rs. 4 per share 40,000
+Less: Application Money Received on 2,000 shares adjusted (6.000)
+against allotment money
+Net amount due on allotment 34,000
+Less: Amount due from an applicant for 120 shares who
+was allotted only 100 shares
+(340)
+
+Amount received on allotment 33,660

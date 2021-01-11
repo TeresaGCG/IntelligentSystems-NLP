@@ -1,0 +1,48 @@
+208 Chapter 3 Arithmetic: for Computers
+op(31:26):
+28-26 0(000) l{OOl) 2{O10} 3(011) 4(100) 5(101) 6(110) 7(111)
+31-29
+0(000) Rfmt 81 tz/ger J j ~ 1 b" boe blez bgtz
+1(001) ilddi ilddiu slti sIti u andi on XOrl 1ui
+2(010) HE Fl Pt
+3(011)
+1b lh 1w1 1w lbo lho lwr
+4(100)
+;b ;h ;w1 ;w swr
+5(101)
+6(110} lwcO 1wcl
+7(111) swcO swcl
+= =
+op(31:26) 010001 (Flpt), (rt(16:16) = 0 => c = f, rt(16:16) = 1 => c t), rs(25:21):
+23- 21 0(000) l{OOl) 2{O10} 3(011) 4(100) 5(101) 6(110) 7(111)
+25-24
+D{OO) mf cl del mtcl etel
+l{D!) bcl. c
+f - f -
+2(10) single doubl e
+3(11)
+= =
+op(31:26) 010001 (FIPt), (f above: 10000 => f = s, 10001 => f d), funet(5:0):
+2-0 0(000) l{OOl) 2{O10} 3(011) 4(100) 5(101) 6(110) 7(111)
+;-3
+O{OOO) add .f sub .f ml.ll .f di v.f bs .f mov .f neg .f
+d
+l{DOl)
+2{O10)
+3{Ol1)
+4(100) cvt.s ·f cvt. d. f cvt.w·f
+5(101)
+f .f
+6(110) c. c. eq.f c.ueq·f c.olt.f c.lJlt ·f c.ole ·f c.lJle .f
+C. IHI .!
+7(111) c. s L f c.ngle·f c.seq·f c.ngl·f c.l t. f c. nge.f c.l e.f c. ngt.f
+FIGURE 3.20 MIPS floating-point Instruction enc:odlng. This notation gives the value of a field by row and by column. For example, in the
+top portion of the figure 1w is fOWld in row number 4 (lOOtwo for bits 31- 29 of the instruction) and column nwnber 3 (Oil,,,,, for bits 28--26 of the
+instruction), so the corresponding value of the op field (bits 31- 26) is 1000ll . Underscore means the field is used elsewhere. For example, FlPt in
+two
+row 2 and column I (op = 010001,,,,,) is defined in the bottom part of the figure. Hence sub. f in row 0 and column I of the bottom section means
+that the funct field (bits 5-0) of the instruction) is OO<XXlI"", and the op field (bits 31- 26) is OIOOOltwo' Note that the 5-bit rs field, specified in the
+middle portion ofthe figure, determines whether the operation is single precision (f = s so rs = 10000) or double precision (f = d so rs = I<XXlI). Sim 
+ilarly, bit 16 of the instruction determines if the bel . c instruction tests for true (bit 16 = I =>bel. t) orfalst' (bit 16 = 0 =>bel. f ). Instructions
+til
+in color are described in Chapters 2 or 3, with Appendix A covering aU instructions.

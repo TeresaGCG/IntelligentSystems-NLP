@@ -1,0 +1,36 @@
+540 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+shrinks significantly. The potential disadvantages of associativity, as we men 
+tioned earlier, are increased cost and slower access time.
+Question 2: How Is a Block Found?
+The choice of how we locate a block depends on the block placement scheme,
+since that dictates the number of possible locations. We can summarize the
+schemes as follows:
+Associativity location method Comparisons required
+Direct mapped index 1
+Set associative index the set, 5eilR:h among elements degree of associativity
+Full 5eilR:h all cache entries size of the cache
+separate lookup table 0
+The choice among direct-mapped, set-associative, or fully associative mapping
+in any memory hierarchy will depend on the cost of a miss versus the cost of
+implementing associativity, both in time and in extra hardware. Including the L2
+cache on the chip enables much higher associativity, because the hit times are not
+as critical and the designer does not have to rely on standard SRAM chips as the
+building blocks. Fully associative caches are prohibitive except for small sizes,
+where the cost of the comparators is not overwhelming and where the absolute
+miss rate improvements are greatest.
+In virtual memory systems, a separate mapping table (the page table) is kept to
+index the memory. In addition to the storage required for the table, using an index
+table requires an extra memory access. The choice of full associativity for page
+placement and the extra table is motivated by four facts:
+I. Full associativity is beneficial, since misses are very expensive.
+2. Full associativity allows software to use sophisticated replacement schemes
+that are designed to reduce the miss rate.
+3. The full map can be easily indexed with no extra hardware and no search 
+ing required.
+4. The large page size means the page table size overhead is relatively small.
+(The use of a separate lookup table, like a page table for virnlal memory, is
+not practical for a cache because the table would be much larger than a page
+table and could not be accessed quickly.)
+Therefore, virtual memory systems almost always use fully associative placement.
+Set-associative placement is often used for caches and TLBs, where the access
+combines indexing and the search of a small set. A few systems have used direct-

@@ -1,0 +1,127 @@
+WORK. ENERGY AND POWER
+
+125
+
+ 
+
+= 1.25 x 104 J
+We obtain
+
+xm = 2.00 m
+
+We note that we have idealised the situation.
+The spring is considered to be massless. The
+surface has been considered to possess
+negligible friction. 4
+
+We conclude this section by making a few
+remarks on conservative forces.
+
+(i) Information on time is absent from the above
+discussions. In the example considered
+above, we can calculate the compression, but
+not the time over which the compression
+occurs. A solution of Newton’s Second Law
+for this system is required for temporal
+information.
+
+(ii) Not all forces are conservative. Friction, for
+example, is a non-conservative force. The
+principle of conservation of energy will have
+to be modified in this case. This is illustrated
+in Example 6.9.
+
+(iii) The zero of the potential energy is arbitrary.
+It is set according to convenience. For the
+spring force we took V(x) = O, at x = O, i.e. the
+unstretched spring had zero potential
+energy. For the constant gravitational force
+mg, we took V= O on the earth’s surface. In
+a later chapter we shall see that for the force
+due to the universal law of gravitation, the
+zero is best defined at an infinite distance
+from the gravitational source. However, once
+the zero of the potential energy is fixed in a
+given discussion, it must be consistently
+adhered to throughout the discussion. You
+cannot change horses in midstream !
+
+ 
+
+> Example 6.9 Consider Example 6.8 taking
+the coefﬁcient of friction. u. to be 0.5 and
+calculate the maximum compression of the
+spring.
+
+ 
+
+Answer In presence of friction, both the spring
+force and the frictional force act so as to oppose
+the compression of the spring as shown in
+Fig. 6.9.
+
+We invoke the work-energy theorem, rather
+than the conservation of mechanical energy.
+The change in kinetic energy is
+
+ 
+
+l equilibrium
+my position
+
+Fig. 6.9 The forces acting on the car.
+
+AK =Kf—K.=0—lmu2
+. 2
+
+The work done by the net force is
+
+W=—%kx,2n—/ngxm
+
+Equating we have
+
+émv2=ékxi+ymgxm
+
+Now umg = 0.5 x 103x 10 = 5 x 103N (taking
+9 =10.0 mS’Z). After rearranging the above
+equation we obtain the following quadratic
+equation in the unknown xm.
+
+kxfn+2ymgxm—mv2=0
+
+—u m g + [u2m2g2 + m k v2]1/2
+m k
+
+where we take the positive square root since
+xm is positive. Putting in numerical values we
+
+obtain
+
+X
+
+x = 1.35m
+
+which, as expected, is less than the result in
+Example 6.8.
+
+If the two forces on the body consist of a
+conservative force FC and a non-conservative
+force FnC , the conservation of mechanical energy
+formula will have to be modified. By the WE
+theorem
+
+(FC+ Fm) Ax = AK
+
+But FC Ax = — AV
+Hence, A(K + V) = FmAx
+AE = FmAx
+
+where E is the total mechanical energl. Over
+the path this assumes the form
+
+Ef— E, = Wnc
+
+where WnC is the total work done by the
+non-conservative forces over the path. Note that
+
+2019-20

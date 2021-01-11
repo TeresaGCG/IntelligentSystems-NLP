@@ -1,0 +1,42 @@
+7.1 Introduction 469
+you brought out the book on ea rly English computers to find out about
+EDSAC, you also noticed that there was another book shelved next to it
+about early mechanical computers, so you also brought back that book too
+and, later on, found something useful in that book. Books on the same topic
+are shelved together in the library to increase spatial locality. We'll see how
+spatial locality is used in memory hierarchies a little later in this chapter.
+Just as accesses to books on the desk naturally exhibit locality, locality in pro 
+grams arises from simple and natural program structures. For example, most pro 
+grams contain loops, so instructions and data are likely to be accessed repeatedly,
+showing high amounts of temporal locality. Since instructions are normally
+accessed sequentially, programs show high spatial locality. Accesses to data also
+exhibit a natural spatial locality. For example, accesses to elements of an array or a
+record will naturally have high degrees of spatial locality.
+We take advantage of the principle of locality by implementing the memory of
+a computer as a memory hierarchy. A memory hierarchy consists of multiple lev  memory hierarchy A struc 
+els of memory with different speeds and sizes. The faster memories are more ture that uses multiple levels of
+memories; as the distance from
+expensive per bit than the slower memories and thus smaller.
+the CPU increases, the size of
+Today, there are three primary technologies used in building memory hierar 
+the memories and the access
+chies. Main memory is implemented from DRAM (dynamic random access
+time both increase.
+memory), while levels closer to the processor (caches) use SRAM (static random
+access memory). DRAM is less costly per bit than SRAM, although it is substan 
+tially slower. The price difference arises because DRAM uses significantly less
+area per bit of memory, and DRAMs thus have larger capacity for the same
+amount of silicon; the speed difference arises from several factors described in
+Section B.8 of Appendix B. The third technology, used to implement the largest
+and slowest level in the hierarchy, is magnetic disk. The access time and price
+per bit vary widely among these technologies, as the table below shows, using
+typical values for 2004:
+Memory technology typical access time $ per GB In 2004
+SRAM 0.5--5 ns $4000-.$10,000
+DRAM 50-70 ns $100-$200
+Magnetic disk 5,OOO,CX>O-20,()(X),OOO ns $0.5Q-.$2
+Because of these differences in cost and access time, it is advantageous to build
+memory as a hierarchy of levels. Figure 7.1shows the faster memory is close to the
+processor and the slower, less expensive memory is below it. The goal is to present
+the user with as much memory as is available in the cheapest technology, while
+providing access at the speed offered by the fastest memory.

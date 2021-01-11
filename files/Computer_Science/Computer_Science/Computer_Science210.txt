@@ -1,0 +1,41 @@
+194
+Chapter 3 Arithmetic: for Computers
+Single precision Double precision Object represented
+Exponent Fraction Exponent Fraction
+0 0 0 0 0
+0 nonzero 0 nonzero ± denonnalized number
+1- 254 anything 1-2046 anything ± t1oating.point number
+255 0 2047 0 ± infinity
+255 nonzero 2047 nonzero NaN (Not a Number)
+FIGURE 3.15 IEEE 754 encoding of floatlng·polnt numbers. A separate SIgn bIt determmes the
+sign. Denormalized numbers are described in the elaboration on page 217.
+Placing the exponent before the significand also simplifies sorting of floating 
+point numbers using integer comparison instructions, since numbers with bigger
+exponents look larger than numbers with smaller exponents, as long as both
+exponents have the same sign.
+Negative exponents pose a challenge to simplified sorting. If we use two's com  
+plement or any other notation in which negative exponents have a I in the most
+significant bit of the exponent field, a negative exponent wiII look like a big num 
+r l
+ber. For example, 1.0'mJ X would be represented as
+31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1
+(Remember that the leading I is implicit in the significand.) The value 1.0,wo X 2+
+would look like the smaller binary number
+31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+The desirable notation must therefore represent the most negative exponent as
+00 ... OO'mJ and the most positive as II ... 11"'0;0' This convention is called biased
+flotation, with the bias being the number subtracted from the normal, unsigned
+representation to determine the real value.
+IEEE 754 uses a bias of 127 for single precision, so - I is represented by the bit
++ +
+pattern of the value-I 127,en'or I26,en = 0111 11 1O ' and I is represented by
+two
++
+I 127, or I28,en = 1000 OOOO,wo' Biased exponent means that the value repre 
+sented by a floating-point number is really
++
+(_ I)s X (i Fraction) X 2(Exponent - Bias)
+The exponent bias fo r double precision is 1023.

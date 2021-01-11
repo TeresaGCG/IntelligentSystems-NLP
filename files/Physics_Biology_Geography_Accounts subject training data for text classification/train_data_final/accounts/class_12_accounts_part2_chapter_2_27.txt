@@ -1,0 +1,64 @@
+Issue and Redemption of Debentures 99
+
+(c) 80, 9% debentures of Rs 1 ,000 each are issued at 5% premium.
+
+((1) Another 400, 8% debentures of Rs 100 each are issued as collateral
+security against a loan of Rs 40,000.
+
+Solution:
+
+Books of X Ltd.
+Journal
+
+Date Particulars ' '
+Amount Amowtt
+
+Bank A/c 1,14,000
+To Debenture Application and AllotmentD A/c
+
+(Debenture application money received) 1.14.000
+
+Debenture Application and Allotment A/c Dr. 1,14,000
+Loss on Issue of Debentures A/c Dr. 6,000
+To 8% Debentures A/c 1.20.000
+(Debentures application money transferred to
+Debentures A/c)
+
+ 
+
+Books of X Ltd.
+Balance Sheet as at
+
+I. Equity and Liabilities
+1. Non-current Liabilities
+Long-term borrowings
+
+II. Assets
+1. Non-current assets
+Other non-current assets 4,800
+2. Current assets
+Cash and cash equivalents 1.14.000
+Other current assets
+
+1.20.000
+
+ 
+
+Notes to Accounts
+
+Long— term borrowings
+120, 8% debentures of Rs 1,000 each 1.20.000
+Other non-current assets
+
+Discount on issue of debentures 4,800
+Cash and cash equivalents
+
+Cash at bank 1 14 000
+Other current assets
+
+Discount on issue of debentures
+
+ 
+
+Note: Discount on Issue of Debentures is written-off in 5 years, presuming that
+debentures are redeemable after 5 years.

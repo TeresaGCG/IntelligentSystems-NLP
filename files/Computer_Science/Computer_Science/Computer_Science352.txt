@@ -1,0 +1,46 @@
+336 Chapter 5 The Processor: Datapath and Control
+signals to 00; this forces the two registers that were read from the register file to be
+used as inputs to the ALU. Setting ALUOp to 10 causes the ALU control unit to
+use the function field to set the ALU control signals. In state 7, RegWrite is
+asserted to cause the register file to write, RegDst is asserted to cause the rd field to
+be used as the register number of the destination, and MemtoReg is deasserted to
+select ALUOut as the source of the value to write into the register file.
+For branches, only a single additional state is necessary because they complete
+execution during the third step of instruction execution. During this state, the
+control signals that cause the ALU to compare the contents of registers A and B
+must be set, and the signals that cause the PC to be written conditionally with the
+address in the ALUOut register are also set. To perform the comparison requires
+that we assert ALUSrcA and set ALUSrcB to 00, and set the ALUOp value to 01
+(forcing a subtract). (We use only the Zero output of the ALU, not the result of the
+subtraction.) To control the writing of the PC, we assert PCWriteCond and set
+PCSource = 01, which will cause the value in the ALUOut register (containing the
+branch address calculated in state 1, Figure 5.32 on page 333) to be written into
+the PC if the Zero bit out of the ALU is asserted. Figure 5.35 shows this single
+state.
+The last instruction class is jump; like branch, it requires only a single state
+(shown in Figure 5.36) to complete its execution. In this state, the signal PCWrite
+is asserted to cause the PC to be written. By setting PCSource to 10, the value sup 
+plied for writing will be the lower 26 bits of the Instruction register with OO'wo
+added as the low-order bits concatenated with the upper 4 bits of the Pc.
+We can now put these pieces of the finite state machine together to form a spec 
+ification for the control unit, as shown in Figure 5.38. In each state, the signals
+that are asserted are shown. The next state depends on the opcode bits of the
+instruction, so we label the arcs with a comparison for the corresponding instruc 
+tion opcodes.
+A finite state machine ca n be implemented with a temporary register that holds
+the current state and a block of combinational logic that determines both the datap 
+ath signals to be asserted as well as the next state. Figure 5.37 shows how such an
+II
+implementation might look. Appendix C describes in detail how the finite state
+II
+machine is implemented using this strucnlre. In Section C.3, the combinational
+control logic for the finite state machine of Figure 5.38 is implemented both with a
+ROM (read-only memory) and a PLA (programmable logic array). (Also see .
+Appendix B for a description of these logic elements.) In the next section of this
+chapter, we consider another way to represent control. Both of these tedliliques are
+simply different representations of the same control information.
+Pipelining, which is the subject of Chapter 6, is almost always used to accelerate
+the execution of instructions. For simple instructions, pipelining is capable of
+achieving the higher clock rate of a multicycle design and a single-cycle CPI of a
+single-clock design. In most pipelined processors, however, some instructions
+take longer than a single cycle and require multicycle control. Floating point-

@@ -1,0 +1,49 @@
+Trial Balance and Rectification of Errors 193
+
+Mohan’s A/c Dr. 10,000
+To Sales A/c 10,000
+
+(b) Credit sales to Mohan ? 10,000 were recorded as ? 1,000 in the sales book.
+This is an error of commission. The effect of wrong recording is shown below:
+
+Mohan’s A/c Dr. 1,000
+
+To Sales A/c 1,000
+
+Correct effect should have been:
+
+Mohan’s A/c Dr. 10,000
+
+To Sales A/c 10,000
+
+Now that Mohan’s account has to be given an additional debit of ? 9,000
+and sales account has to be credited with additional amount of ? 9,000,
+rectification entry will be:
+
+Mohan’s A/c Dr. 9,000
+
+To Sales A/c 9,000
+
+(c) Credit sales to Mohan ? 10,000 were recorded as ? 12,000. This is an error of
+commission. The effect of wrong entry made has been:
+
+Mohan’s A/c Dr. 12,000
+
+To Sales A/c 12,000
+
+Correct effect should have been:
+
+Mohan’s A/c Dr. 10,000
+
+To Sales A/c 10,000
+
+You can see that there is an excess debit of ? 2,000 in Mohan's account and
+excess credit of ? 2,000 in sales account.
+
+The, rectification entry will be recorded as follows:
+
+Sales A/c Dr. 2,000
+
+To Mohan‘s A/c 2,000
+
+2019-2020

@@ -1,0 +1,49 @@
+l l 0 Accountancy
+
+main cash book itself. In such instances, the petty cash book is not maintained
+independently.)
+
+The petty cash book generally has a number of columns for the amount on
+the payment side (credit) besides the ﬁrst other amount column. Each of the
+amount columns is allotted for items of specific payments, which are most
+common. The last amount column is designated as ‘Miscellaneous’ followed by
+a ‘Remarks’ column. In the miscellaneous column those payments are recorded
+for which a separate column does not exist. In the ‘Remarks’ the nature of
+payment is recorded. At the end of the period, all amount columns are totaled.
+The total amount column 1 shows the total amount spent and to be reimbursed.
+On the receipt (debit) side, there is only one amount column. Columns for the
+date, voucher number and particulars are common for both receipts and
+
+payments.
+
+Box 1
+Advantages of Maintaining Petty Cash Book
+
+Saving of Time and efforts of chief cashier: The chief cashier is not required to
+deal with petty disbursements. He can concentrate on cash transactions involving
+large amount of cash. It saves time and labour and helps chief cashier to discharge
+his duties more effectively
+
+Effective control over cash disbursements: Cash control becomes easy because of
+division of work. The head cashier can control big payments directly and petty
+payments by keeping a proper check on the petty cashier. This way the chances
+
+of making frauds and embezzlements become very difficult.
+
+Convenient recording: Recording of petty disbursements in the main cash book
+makes it bulky and unmanageable. Further, the materiality principle requires
+that insignificant details need not be given in the main cashbook. This way the
+cash book reveals only material and useful information.
+
+Recording of such small payments becomes easy as the totals of different types
+of expenses are posted to ledger. It also saves time and effort of posting individual
+items in the ledger. In nutshell it can be stated that preparation of petty cash
+book is a cost reduction control measure.
+
+ 
+
+For example, Mr. Mohit, the petty cahier of M/s Samaira Traders received
+Rupees 2,000 on May 01, 2017 from the Head Cashier. For the month, details
+of petty expenses are listed here under:
+
+2019-2020

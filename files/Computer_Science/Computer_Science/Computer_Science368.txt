@@ -1,0 +1,35 @@
+352 Chapter 5 The Processor: Datapath and Control
+larger computers. Likewise, number of decimal instructions were added to pro 
+:I
+vide decimal arithmetic on bytes. Such instructions are rarely used today because
+using binary arithmetic on 32 bits and converting back and forth to decimal rep 
+resentation is considerably faster. Like the protection mechanisms, the decimal
+instructions must be implemented in newer processors even if only rarely used.
+Concluding Remarks
+As we have seen in this dlapter, both the datapath and control for a processor can be
+designed starting with the instruction set ardlitecture and an understanding of the
+basic characteristics of the technology. In Section 5.3, we saw how the datapath for a
+MIPS processor could be constructed based on the architecture and the decision to
+build a single-cycle implementation. Of course, the underlying technology also
+affects many design decisions by dictating what components can be used in the
+datapath, as well as whether a single-cycle implementation even makes sense. Along
+the same lines, in the fi rst portion of Section 5.5, we saw how the decision to break
+the clock cycle into a series of steps led to the revised multicycle datapath. In both
+cases, the top-level organization-a single-cycle or multicycle machine-together
+with the instruction set, prescribed many characteristics of the datapath design.
+BIG
+Control may be designed using one of several initial representations. The
+The
+choice of sequence control, and how logic is represented, can then be deter 
+Picture mined independently; the control can then be implemented with one of
+several methods using a structured logic technique. Figure 5.41 shows the
+variety of methods for specifYing the control and moving from the specifi 
+cation to an implementation using some form of structured logic.
+Similarly, the control is largely defined by the instruction set architecture, the
+o rganization, and the datapath design. In the single-cycle organization, these
+three aspects essentially define how the control signals must be set. In the multicy 
+de design, the exact decomposition of the instruction execution into cycles, which
+is based on the instruction set architecture, together with the datapath, defines the
+requirements on the control.
+Control is one of the most challenging aspects of computer design. A major
+reason is that designing the control requires an understanding of how all the com -

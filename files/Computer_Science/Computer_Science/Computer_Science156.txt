@@ -1,0 +1,37 @@
+140 Chapter 2 Instructions: Language of the Computer
+Instruction Function
+JE name if equ~1(candi ti on code) lE I P- na me) :
+El P- 128 < na me ( El P+128
+JMP name El P- name
+CALL name 5P- SP- 4: M[ SP]- El P+5: El P- name:
+MOVW EBX.[EDI+45] EBX-M [EDI+45]
+PUSHESI 5P- SP 4 : M[SP]- E5 1
+POP EDI ED I-M [ SP] : SP- SP+4
+ADD EAX.#6765 EAX- EAX+6765
+TEST [ OX ./f42 Set condition code (flags) with EDX and 42
+MOVSL M[ EDI]- M[ ES IJ:
+ED I- EDI+4: ESI- E5I+4
+FIGURE 2.43 Some typical 1A·32 Instructions and their functions. A list of frequent operations
+appears in Figure 2.44. The CALL s.wes the EIP oflhe next instruction on the stack. (EIP is the Intel PC.)
+Conditional branches on the IA-32 are based on condition codes or j1ags.
+Condition codes are set as:1 side effect of an operation; most are used to com  
+pare the value of a result to O. Branches then test the condition codes. The
+argument for condition codes is that they occur as part of normal operations
+and are faster to test than it is to compare registers, as MIPS does for beq and
+bne. The argument against condition codes is that the com pare to 0 extends
+the time of the operation, since it uses extra hardwa re after the operation, and
+that often the programmer must use compare instructions to test a value that is
+not the result of an operation. Moreover, PC-relative branch addresses must be
+specified in the number of bytes, since unlike MIPS, 80386 instructions are not
+all 4 bytes in length.
+String instructions are part of the 8080 ancestry of the IA-32 and are not com 
+monly executed in most programs. They are often slower than equivalent softwa re
+routines (see the fallacy on page 143).
+Figure 2.44 lists some of the integer IA-32 instructions. Many of the instruc 
+tions are available in both byte and word formats.
+IA-32 Instruction Encoding
+Saving the worst for last, the encoding of instructions in the 80836 is complex,
+with many different instruction formats. Instructions for the 80386 may vary
+from 1 byte, when there are no operands, up to 17 bytes.
+Figure 2.45 shows the instmction format for several of the example instmctions
+in Figure 2.43. The opcade byte usually contains a bit saying whether the operand is

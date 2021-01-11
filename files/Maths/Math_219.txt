@@ -1,0 +1,21 @@
+Applications
+219
+Example 1
+Five more than an integer is the same as twice the integer. Find
+the integer.
+Solution: Let x represent the integer. From the problem description
+we can write down an equation and solve it:
+So, the integer is 5.
+Example 2
+Two more than twice an integer is 8. Find the integer.
+Solution: Let x represent the integer. From the problem description
+we can write down an equation and solve it:
+The integer is 3.
+Example 3
+Suppose you take an integer, subtract 8, multiply by 7, add 10,
+and divide by 5. If the result is 9, what was the original integer?
+Solution: Let x represent the original integer. From the problem
+description we can write down an equation and solve it. When
+you write down the equation you will need to keep in mind the
+order of operations use parentheses where necessary:
+Multiply both sides of the equation by 5

@@ -1,0 +1,55 @@
+84 Accountancy : Company Accounts and Analysis of Financial Statements
+
+2.6 Issue of Debentures for Consideration other than Cash
+
+Sometimes a company purchase assets from vendors and instead of making
+payment in cash issues debentures for consideration thereof. Such issue of
+debentures is called debentures issued for consideration other than cash. In
+that case also, the debentures may be issued at par, at a premium or at a discount
+then entries made in such a situation are similar to those of the shares issued
+for consideration other than cash, which are as follows :
+
+1. On purchase of assets
+
+Sundry Assets A/c Dr.
+To Vendor's
+2. On issue of debentures
+(a) At par
+Vendors Dr.
+
+To Debentures A/c
+(b) At premium
+
+Vendors Dr.
+To Debentures A/c
+To Securities Premium Reserve A/c
+
+(c) At a discount
+
+Vendors Dr.
+Discount on Issue of Debenture A/c Dr.
+To Debentures A/c
+
+Illustration 6
+
+Aashirward Company Limited purchased assets of the book value of Rs 2,00,000
+from another company and agreed to make the payment of purchase
+consideration by issuing 2,000, 10% debentures of Rs 100 each.
+
+Record the necessary journal entries.
+
+Solution:
+
+Books of Aashirwad Company Limited
+Journal
+
+Sundry Assets A/c 2,00, 000
+To Vendors 2,00,000
+
+(Assets purchased from vendors)
+
+Vendors . 2,00,000
+
+To 10% Debentures A/c 2,00,000
+(Allotment of debentures to vendors as
+purchase consideration)

@@ -1,0 +1,117 @@
+PHYSICS
+
+Now mxr=meP=mx(OC+CP)
+But meC=0asmis along 00
+Hence wxr=waP
+
+The vector (u x CP is perpendicular to a), i.e.
+to the z-axis and also to CF, the radius of the
+circle described by the particle at P. It is
+therefore, along the tangent to the circle at P.
+Also, the magnitude of a) x CP is a) (CP) since
+a) and CP are perpendicular to each other. We
+shall denote CP by ri and not by r, as we did
+earlier.
+
+Thus, a) x r is a vector of magnitude (ori
+
+and is along the tangent to the circle described
+by the particle at P. The linear velocity vector v
+at P has the same magnitude and direction.
+Thus,
+
+v = a) x r (7.20)
+
+In fact, the relation, Eq. (7 .20), holds good
+even for rotation of a rigid body with one point
+fixed, such as the rotation of the top [Fig. 7 .6(a)].
+In this case r represents the position vector of
+the particle with respect to the fixed point taken
+as the origin.
+
+We note that for rotation about a ﬁxed
+axis, the direction of the vector a) does not
+change with time. Its magnitude may,
+however, change from instant to instant. For
+the more general rotation, both the
+magnitude and the direction of mmay change
+from instant to instant.
+
+7.6. 1 Angular acceleration
+
+You may have noticed that we are developing
+the study of rotational motion along the lines
+of the study of translational motion with which
+we are already familiar. Analogous to the kinetic
+variables of linear displacement (s) and velocity
+(v) in translational motion, we have angular
+displacement (0) and angular velocity (0)) in
+rotational motion. It is then natural to define
+in rotational motion the concept of angular
+acceleration in analogy with linear acceleration
+defined as the time rate of change of velocity in
+translational motion. We define angular
+acceleration a as the time rate of change of
+angular velocity; Thus,
+
+_dm
+
+“—5
+
+(7.21)
+
+2019-20
+
+If the axis of rotation is fixed, the direction
+of a) and hence, that of a is fixed. In this case
+the vector equation reduces to a scalar equation
+
+_da)
+
+a_ _
+dt (7.22)
+
+7.7 TORQUE AND AN GUIAR MOMENTUM
+
+In this section, we shall acquaint ourselves with
+two physical quantities (torque and angular
+momentum) which are deﬁned as vector products
+of two vectors. These as we shall see, are
+especially important in the discussion of motion
+of systems of particles, particularly rigid bodies.
+
+7.7.1 Moment of force (Torque)
+
+We have learnt that the motion of a rigid body,
+in general, is a combination of rotation and
+translation. If the body is fixed at a point or along
+a line, it has only rotational motion. We know
+that force is needed to change the translational
+state of a body, i.e. to produce linear
+acceleration. We may then ask, what is the
+analogue of force in the case of rotational
+motion? To look into the question in a concrete
+situation let us take the example of opening or
+closing of a door. A door is a rigid body which
+can rotate about a fixed vertical axis passing
+through the hinges. What makes the door
+rotate? It is clear that unless a force is applied
+the door does not rotate. But any force does not
+do the job. A force applied to the hinge line
+cannot produce any rotation at all, whereas a
+force of given magnitude applied at right angles
+to the door at its outer edge is most effective in
+producing rotation. It is not the force alone, but
+how and where the force is applied is important
+in rotational motion.
+
+The rotational analogue of force in linear
+motion is moment of force. It is also referred to
+as torque or couple. (We shall use the words
+moment of force and torque interchangeably.)
+We shall first define the moment of force for the
+special case of a single particle. Later on we
+shall extend the concept to systems of particles
+including rigid bodies. We shall also relate it to
+a change in the state of rotational motion, i.e. is
+angular acceleration of a rigid body.

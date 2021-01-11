@@ -1,0 +1,80 @@
+86
+
+i Physics
+
+ 
+
+ 
+
+7. A cavity inside a conductor is shielded from outside electrical inﬂuences.
+
+2.1
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+It is worth noting that electrostatic shielding does not work the other
+way round; that is, if you put charges inside the cavity, the exterior of
+the conductor is not shielded from the fields by the inside charges.
+
+EXERCISES
+
+Two charges 5 X 10‘8 C and —3 X 10’8 C are located 16 cm apart. At
+what point(s) on the line joining the two charges is the electric
+potential zero? Take the potential at infinity to be zero.
+
+A regular hexagon of side 10 cm has a charge 5 “C at each of its
+vertices. Calculate the potential at the centre of the hexagon.
+
+Two charges 2 (LC and —2 ”C are placed at points A and B 6 cm
+apart.
+
+(a) Identify an equipotential surface of the system.
+
+(b) What is the direction of the electric field at every point on this
+surface?
+
+A spherical conductor of radius 12 cm has a charge of 1.6 X 10’7C
+distributed uniformly on its surface. What is the electric field
+
+(a) inside the sphere
+(b) just outside the sphere
+(c) at a point 18 cm from the centre of the sphere?
+
+A parallel plate capacitor with air between the plates has a
+capacitance of 8 pF (lpF = 10‘12 F). What will be the capacitance if
+the distance between the plates is reduced by half, and the space
+between them is filled with a substance of dielectric constant 6?
+
+Three capacitors each of capacitance 9 pF are connected in series.
+(a) What is the total capacitance of the combination?
+
+(b) What is the potential difference across each capacitor if the
+combination is connected to a 120 V supply?
+
+Three capacitors of capacitances 2 pF, 3 pF and 4 pF are connected
+in parallel.
+
+(a) What is the total capacitance of the combination?
+
+(b) Determine the charge on each capacitor if the combination is
+connected to a 100 V supply.
+
+In a parallel plate capacitor with air between the plates, each plate
+has an area of 6 X 10’3 m2 and the distance between the plates is 3 mm.
+Calculate the capacitance of the capacitor. If this capacitor is
+connected to a 100 V supply, what is the charge on each plate of the
+capacitor?
+
+2019-20

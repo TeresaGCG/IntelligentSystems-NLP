@@ -1,0 +1,125 @@
+344
+
+PHYSICS
+
+ 
+
+the value of the function remains the same. The
+function f (t) is then periodic and its period, T,
+is given by
+
+27:
+= — ( 1 4 . 3b)
+60
+Thus, the function f (t) is periodic with period T,
+f (t) =f(t+T )
+
+The same result is obviously correct if we
+consider a sine function, f (t) = A sin wt. Further,
+a linear combination of sine and cosine functions
+like,
+
+f(t) = Asin wt+Bcos cot (14.3c)
+is also a periodic function with the same period
+T. Taking,
+
+A=Dcos q) and B=Dsin¢
+Eq. (14.3c) can be written as,
+
+f(t) = D sin (cot + (p) , (14.3d)
+Here D and q) are constant given by
+
+B
+D=./A2 +32 and ¢= tan—1(2)
+
+The great importance of periodic sine and
+cosine functions is due to a remarkable result
+proved by the French mathematician, Jean
+Baptiste Joseph Fourier (1768—1830): Any
+periodic function can be expressed as a
+superposition of sine and cosine functions
+of different time periods with suitable
+coefficients.
+
+Example 14.2 Which of the following
+functions of time represent (a) periodic and
+(b) non—periodic motion? Give the period for
+each case of periodic motion (a) is any
+positive constant].
+
+(i) sin wt + cos wt
+
+(ii) sin cot + cos 2 wt + sin 4 wt
+(iii) e“”‘
+
+(iv) log (wt)
+
+ 
+
+Answer
+
+(i) sin (0t + cos (at is a periodic function, it can
+
+also be written as x/E sin (wt + 75/4).
+
+Now 2 sin (cot + 7c/4)= 6 sin (cot + 7t/4+27t)
+
+2019-20
+
+= 2 sin [w(t + 27c/w) + 7c/4]
+
+The periodic time of the function is 27c/ 60.
+
+(ii) This is an example of a periodic motion. It
+can be noted that each term represents a
+periodic function with a different angular
+frequency. Since period is the least interval
+of time after which a function repeats its
+value, sin cot has a period To: 27c/a); cos 2 cat
+has a period Tc/a) =T0/ 2; and sin 4 cat has a
+period 27c/4a) = TO/ 4. The period of the first
+term is a multiple of the periods of the last
+two terms. Therefore, the smallest interval
+of time after which the sum of the three
+terms repeats is To, and thus, the sum is a
+periodic function with a period 27c/a).
+
+(iii) The function e'm‘ is not periodic, it
+decreases monotonically with increasing
+time and tends to zero as t—> co and thus,
+never repeats its value.
+
+(iv) The function log(a)t) increases
+monotonically with time t. It, therefore,
+never repeats its value and is a non-
+pen‘odic function. It may be noted that as
+t—> 00, log(a)t) diverges to 00. It, therefore,
+cannot represent any kind of physical
+displacement. 4
+
+14.3 SIMPLE HARMONIC MOTION
+
+Consider a particle oscillating back and forth
+about the origin of an x-axis between the limits
++A and —A as shown in Fig. 14.3. This oscillatory
+motion is said to be simple harmonic if the
+
+-A +A
+<—>
+
+Fig. 1 4.3 A particle vibrating back and forth about
+the origin of x—axis, between the limits +A
+and —A.
+
+displacement x of the particle from the origin
+varies with time as :
+
+x (t) = A cos (a) t+ ¢) (14.4)
+where A, a) and q) are constants.
+
+Thus, simple harmonic motion (SHM) is not
+any periodic motion but one in which
+displacement is a sinusoidal function of time.
+Fig. 14.4 shows the positions of a particle
+executing SHM at discrete value of time, each
+interval of time being T/ 4, where Tis the period

@@ -1,0 +1,33 @@
+550 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+header and trailer overhead. A downside of trace caches is that they potentially store
+the same instructions multiple times in the cache: conditional branches making differ 
+ent choices result in the same instructions being part of separate traces, which each
+appear in the cache.
+To account for both the larger size of the micro--operations and the redundancy inher 
+ent in a trace cache, Intel claims that the miss rate of the 96 KB trace cache of the P4,
+which holds 12K micro-operations, is about that of an 8 KB cache, which holds about
+2K-3K IA-32 instructions.
+Fallacies and Pitfalls
+As one of the most naturally quantitative aspects of computer architecnlfe, the
+memory hierarchy would seem to be less vulnerable to fallacies and pitfalls. Not
+only have there been many fallacies propagated and pitfalls encountered, but
+some have led to major negative outcomes. We start with a pitfall that often traps
+students in exercises and exams.
+Pitfall: Forgetting to account fo r byte addressing or the cache block size in siml/ 
+lating a cache.
+When simulating a cache (by hand or by computer), we need to make sure we
+account for the effect of byte addressing and multiword blocks in determining
+which cache block a given address maps into. For example, if we have a 32-byte
+direct-mapped cache with a block size of 4 bytes, the byte address 36 maps into
+block I of the cache, since byte address 36 is block address 9 and (9 modulo 8) = I.
+On the other hand, if address 36 is a word address, then it maps into block (36
+mod 8) = 4. Make sure the problem clearly states the base of the address.
+In like fashion, we must account for the block size. Suppose we have a cache
+with 256 bytes and a block size of 32 bytes. \Vhich block does the byte address
+300 fall into? If we break the address 300 into fields, we ca n see the answer:
+31 30 29 11 10 9 8 7 6 5 4 3 2 1 0
+0 0 0 0 0 0 1 I 0 0 1 0 1 1 0 o I
+Cache Block
+block offset
+number
+Block address

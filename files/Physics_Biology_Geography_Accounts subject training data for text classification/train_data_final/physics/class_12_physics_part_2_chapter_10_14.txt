@@ -1,0 +1,51 @@
+Wove Optics
+d = 0.005 mm ([3 z 5 mm) d = 0.025 mm [[3 ’~" 1 mm)
+
+50 A 10—
+; l
+l 0 — 0_
+
+—50 _l | | —10 _l f |
+
+—50 0 50 —10 o 10
+—> x (mm) —> x (mm)
+
+FIGURE 10.13 Computer generated fringe pattern produced by two point source S1 and S2 on the
+screen GG’ (Fig. 10.12]: [a] and (b) correspond to d. = 0.005 mm and 0.025 mm. respectively [both
+figures correspond to D = 5 cm and A = 5 X 10 5 cm.) (Adopted from OPTICS by A. Ghatak. Tata
+McGraw Hill Publishing Co. Ltd.. New Delhi. 2000.)
+
+In the double-slit experiment shown in Fig. 10.12(b), we have taken
+the source hole S on the perpendicular bisector of the two slits, which is
+shown as the line SO. What happens if the source S is slightly away
+from the perpendicular bisector. Consider that the source is moved to 5.
+some new point S’ and suppose that Q is the mid-point of S1 and S2. If " ~ .
+the angle S’QS is (1), then the central bright fringe occurs at an angle —¢, ‘ ~ . - ¢
+
+ 
+
+on the other side. Thus, if the source S is on the perpendicular bisector, g, f ‘5 ~ .
+then the central fringe occurs at 0, also on the perpendicular bisector. If 5'2 ‘ ~ ~
+S is shifted by an angle q) to point S’, then the central fringe appears at a
+point O’at an angle —¢, which means that it is shifted by the same angle
+on the other side of the bisector. This also means that the source S’, the
+mid-point Q and the point 0’ of the central fringe are in a straight line.
+
+We end this section by quoting from the Nobel lecture of Dennis Gabor*
+
+The wave nature of light was demonstrated convincingly for the
+ﬁrst time in 1801 by Thomas Young by a wonderfully simple
+experiment. He let a ray of sunlight into a dark room, placed a
+dark screen in front of it, pierced with two small pinholes, and
+beyond this, at some distance, a white screen. He then saw two
+darkish lines at both sides of a bright line, which gave him
+sufficient encouragement to repeat the experiment, this time with
+spirit flame as light source, with a little salt in it to produce the
+bright yellow sodium light. This time he saw a number of dark
+lines, regularly spaced; the first clear proof that light added to
+light can produce darkness. This phenomenon is called
+
+* Dennis Gabor received the 1971 Nobel Prize in Physics for discovering the
+principles of holography. 365
+
+2019-20

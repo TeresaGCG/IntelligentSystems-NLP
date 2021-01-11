@@ -1,0 +1,23 @@
+364 Chapter 5 The Processor: Datapath and Control
+implementation do you think the architect had in mind when designing the in 
+struction set architecture?
+5.65 [Discussion] <§§5.7, 5.1 2> Wilkes invented microprogramming in large
+part to simplify construction of control. Since 1980, there has been an explosion of
+computer-aided design software whose goal is also to simplify construction of con 
+trol. This has made control design much easier. Can you find evidence, based ei 
+ther on the tools or on real designs, that supports or refutes this hypothesis?
+5.66 [Discussion] <§5.1 2> The MIPS instructions and the MIPS microinstruc 
+tions have many similarities. What would make it difficult for a compiler to pro 
+duce MIPS microcode rather than macrocode? What changes to the
+microarchitecture would make the microcode more useful for this application.
+Answers to §5.1 , page 289: 3.
+§5.2, page 292: false.
+Check Yourself
+§5.3, page 299: A.
+§5.4, page 318: Yes, MemtoReg and RegDst are inverses of one another. Yes, simply
+use the other signal and flip the o rder of the inputs to the multiplexor!
+§5.5, page 340: 1. False. 2. Maybe: If the signal PCSource(O] is always set to zero
+when it is a don't ca re (which is most states), then it is identical to PCWriteCond.
+§5.6, page 346: No, since the value of 11 , which was formerly unused, is now used!
+§5.7, page 5.7- 13: 4 tables with 55 entries (don't forget the primary dispatch!)
+§5.8, page 5.8-7: 1. 0, 1, 1, X, 0. 2. No, since state is not assigned on every path.

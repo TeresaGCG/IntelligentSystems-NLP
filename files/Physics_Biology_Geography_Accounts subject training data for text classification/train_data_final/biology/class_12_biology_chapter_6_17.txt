@@ -1,0 +1,54 @@
+BIOLOGY
+
+instrumental in synthesising RNA molecules with deﬁned combinations
+of bases (homopolymers and copolymers). Marshall Nirenberg’s cell-free
+system for protein synthesis ﬁnally helped the code to be deciphered.
+Severo Ochoa enzyme (polynucleotide phosphorylase) was also helpful
+in polymerising RNA with deﬁned sequences in a template independent
+manner (enzymatic synthesis of RNA). Finally a checker-board for genetic
+code was prepared which is given in Table 6.1.
+
+Table 6. 1: The Codons for the Various Amino Acids
+
+First Third
+position position
+Second position
+
+C
+
+UCU Ser UGU Cys
+UCC Ser UGC Cys
+UCA Ser UGA Stop
+UCG Ser UGG Trp
+
+    
+
+0290!: Q>OC OI>OCI OI>OC<—
+
+The salient features of genetic code are as follows:
+
+(i) The codon is triplet. 6 1 codons code for amino acids and 3 codons do
+not code for any amino acids, hence they function as stop codons.
+
+(ii) Some amino acids are coded by more than one codon, hence
+the code is degenerate.
+
+(iii) The codon is read in mRNA in a contiguous fashion. There are
+no punctuations.
+
+(iv) The code is nearly universal: for example, from bacteria to human
+UUU would code for Phenylalanine (phe). Some exceptions to this
+rule have been found in mitochondrial codons, and in some
+protozoans.
+
+(v) AUG has dual functions. It codes for Methionine (met) , and it
+also act as initiator codon.
+
+(Vi) UAA, UAG, UGA are stop terminator codons.
+
+If following is the sequence of nucleotides in mRNA, predict the
+sequence of amino acid coded by it (take help of the checkerboard):
+
+-AUG UUU UUC UUC UUU UUU UUC-
+
+2019—2020

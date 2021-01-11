@@ -1,0 +1,108 @@
+262
+
+PHYSICS
+
+Aerofoil or lift on aircraft wing: Figure 10.13
+(c) shows an aerofoil, which is a solid piece
+shaped to provide an upward dynamic lift when
+it moves horizontally through air. The cross-
+section of the wings of an aeroplane looks
+somewhat like the aerofoil shown in Fig. 10.13 (c)
+with streamlines around it. When the aerofoil
+moves against the wind, the orientation of the
+wing relative to ﬂow direction causes the
+streamlines to crowd together above the wing
+more than those below it. The ﬂow speed on top
+is higher than that below it. There is an upward
+force resulting in a dynamic lift of the wings and
+this balances the weight of the plane. The
+following example illustrates this.
+
+Example 1 0.8 A fully loaded Boeing
+aircraft has a mass of 3.3 x 105 kg. Its total
+wing area is 500 n12. It is in level ﬂight with
+a speed of 960 km/h. (a) Estimate the
+pressure difference between the lower and
+
+upper surfaces of the wings (b) Estimate
+the fractional increase in the speed of the
+air on the upper surface of the wing relative
+to the lower surface. [The density of air is p
+= 1.2 kg m’“]
+
+ 
+
+Answer (a) The weight of the Boeing aircraft is
+balanced by the upward force due to the
+pressure difference
+
+APXA=3.3 x 105ng 9.8
+Ap= (3.3x 105 kg>< 9.8mS'2) / 500 m2
+
+= 6.5 X 103 Nm‘2
+
+(b) We ignore the small height difference
+between the top and bottom sides in Eq. (10. 12).
+The pressure difference between them is
+then
+
+AP=§<U§ —v12)
+
+where U2 is the speed of air over the upper
+surface and U1 is the speed under the bottom
+surface.
+
+2019-20
+
+Taking the average speed
+Dav = (v2+ v1)/2 = 960 km/h = 267 m s1,
+
+we have
+
+ 
+
+AP
+1) — v v 2 ~
+( 2 l)/ av pviv—v 0.08
+The speed above the wing needs to be only 8
+% higher than that below. 4
+
+10.5 VISCOSITY
+
+Most of the ﬂuids are not ideal ones and offer some
+resistance to motion. This resistance to ﬂuid motion
+is like an intemal friction analogous to ﬁ'iction when
+a solid moves on a surface. It is called viscosity.
+This force exists when there is relative motion
+between layers of the liquid. Suppose we consider
+a ﬂuid like oil enclosed between two glass plates
+as shown in Fig. 1 O. 14 (a). The bottom plate is ﬁxed
+while the top plate is moved with a constant
+velocity v relative to the fixed plate. If oil is
+replaced by honey, a greater force is required to
+move the plate with the same velocity. Hence
+we say that honey is more viscous than oil. The
+ﬂuid in contact with a surface has the same
+velocity as that of the surfaces. Hence, the layer
+of the liquid in contact with top surface moves
+with a velocity v and the layer of the liquid in
+contact with the fixed surface is stationary. The
+velocities of layers increase uniformly from
+bottom (zero velocity) to the top layer (velocity
+v). For any layer of liquid, its upper layer pulls
+it forward while lower layer pulls it backward.
+This results in force between the layers. This
+type of ﬂow is known as laminar. The layers of
+liquid slide over one another as the pages of a
+book do when it is placed ﬂat on a table and a
+horizontal force is applied to the top cover. When
+a ﬂuid is ﬂowing in a pipe or a tube, then velocity
+of the liquid layer along the axis of the tube is
+maximum and decreases gradually as we move
+towards the walls where it becomes zero, Fig.
+10.14 (b). The velocity on a cylindrical surface
+in a tube is constant.
+
+On account of this motion, a portion of liquid,
+which at some instant has the shape ABCD, take
+the shape of AEFD after short interval of time

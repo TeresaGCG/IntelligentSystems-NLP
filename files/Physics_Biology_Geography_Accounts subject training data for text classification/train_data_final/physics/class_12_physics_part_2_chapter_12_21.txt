@@ -1,0 +1,70 @@
+Duol Nature of Radiation
+and Mo’n‘er
+
+ 
+
+4. Observations on photoelectric effect imply that in the event of matter—
+light interaction, absorption of energy takes place in discrete units of hv.
+
+This is not quite the same as saying that light consists of particles,
+each of energy hv.
+
+5. Observations on the stopping potential (its independence of intensity
+and dependence on frequency) are the crucial discriminator between
+the wave~picture and photon-picture of photoelectric effect.
+
+h
+6. The wavelength of a matter wave given by xi = — has physical
+
+P
+
+significance; its phase velocity 1),, has no physical significance. However,
+the group velocity of the matter wave is physically meaningful and
+equals the velocity of the particle.
+
+EXERCISES
+
+11.1 Find the
+(a) maximum frequency, and
+
+(b) minimum wavelength of X-rays produced by 30 kV electrons.
+
+11.2 The work function of caesium metal is 2.14 eV. When light of
+
+frequency 6 X1014Hz is incident on the metal surface, photoemission
+of electrons occurs. What is the
+
+(a) maximum kinetic energy of the emitted electrons,
+(b) Stopping potential, and
+(c) maximum speed of the emitted photoelectrons?
+
+11.3 The photoelectric cut-off voltage in a certain experiment is 1.5 V.
+What is the maximum kinetic energr of photoelectrons emitted?
+
+11.4 Monochromatic light of wavelength 632.8 nm is produced by a
+helium-neon laser. The power emitted is 9.42 mW.
+
+(a) Find the energy and momentum of each photon in the light beam,
+
+(b) How many photons per second, on the average, arrive at a target
+irradiated by this beam? (Assume the beam to have uniform
+cross-section which is less than the target area), and
+
+(c) How fast does a hydrogen atom have to travel in order to have
+the same momentum as that of the photon?
+
+11.5 The energy ﬂux of sunlight reaching the surface of the earth is
+1.388 X 103 W/mz. How many photons (nearly) per square metre are
+incident on the Earth per second? Assume that the photons in the
+sunlight have an average wavelength of 550 nm.
+
+11.6 In an experiment on photoelectric effect, the slope of the cut-off
+voltage versus frequency of incident light is found to be 4.12 X 10’15 V 5.
+Calculate the value of Planck’s constant.
+
+11.7 A 100W sodium lamp radiates energy uniformly in all directions.
+The lamp is located at the centre of a large sphere that absorbs all
+the sodium light which is incident on it. The wavelength of the
+sodium light is 589 nm. (a) What is the energy per photon associated 407
+
+2019-20

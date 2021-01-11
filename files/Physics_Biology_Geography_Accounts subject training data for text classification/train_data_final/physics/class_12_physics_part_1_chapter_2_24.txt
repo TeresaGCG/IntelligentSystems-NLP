@@ -1,0 +1,85 @@
+Electrostatic Potential
+
+and Capacitance
+
+Outer region 11 (region below the plate 2),
+
+0' 0'
+
+E = — —— = O
+2.90 2.90 (2'40)
+
+In the inner region between the plates 1 and 2, the electric ﬁelds due
+to the two charged plates add up, giving
+
+EZL+LZEZ Q
+280 280 80 80A
+
+ 
+
+(2.41)
+
+The direction of electric field is from the positive to the negative plate.
+
+Thus, the electric ﬁeld is localised between the two plates and is
+uniform throughout. For plates with ﬁnite area, this will not be true near
+the outer boundaries of the plates. The ﬁeld lines bend outward at the
+edges — an effect called ‘fringing of the ﬁeld’. By the same token, owill
+not be strictly uniform on the entire plate. [E and o are related by Eq.
+(2.35).] However, for d2 << A, these effects can be ignored in the regions
+sufficiently far from the edges, and the field there is given by Eq. (2.4 1).
+Now for uniform electric field, potential difference is simply the electric
+ﬁeld times the distance between the plates, that is,
+
+ 
+
+1 Qd
+V = E d = ——
+80 A (2.42)
+The capacitance C of the parallel plate capacitor is then
+_ Q _ _ 80A
+— V — d (2.43)
+
+which, as expected, depends only on the geometry of the system. For
+typical values like A = 1 m2, d = 1 m, we get
+
+—12 2 —1 —2 2
+c = 885x“) C_3N m “m = 8.85x10-9F (2.44)
+10 In
+(You can check that if 1F= IC V1 = 10 (NC—1m)‘1 = 1 C2 N‘lm‘l.)
+This shows that 1F is too big a unit in practice, as remarked earlier.
+Another way of seeing the ‘bigness’ of IF is to calculate the area of the
+
+plates needed to have C = 1F for a separation of, say 1 cm:
+g : 1F >< 10‘2m
+
+80 8.85 x 10'12C2N'1m'2
+which is a plate about 30 km in length and breadth!
+
+ 
+
+A = = 109m2 (245)
+
+2. 13 EFFECT OF DIELECTRIC ON CAPACITANCE
+
+With the understanding of the behaviour of dielectrics in an external
+ﬁeld developed in Section 2.1 0, let us see how the capacitance of a parallel
+plate capacitor is modiﬁed when a dielectric is present. As before, we
+have two large plates, each of area A, separated by a distance d. The
+charge on the plates is iQ, corresponding to the charge density i6 (with
+6 = Q/A). When there is vacuum between the plates,
+
+2019-20
+
+'U
+: .-~ :
+
+/aou Bipcdco/L’AB [/BBulonala/npa' nsyiaugcul '0J3!LU//ZCID,L|
+
+[211mm BABP annoeiawl (
+
+uonoe u; Sionoedeo 'aouenoedeo Surname 9.101323
+
+ 
+
+75

@@ -1,0 +1,52 @@
+Issue and Redemption of Debentures 97
+
+2. Issue of Rs 1,00,000. 9% debentures of Rs 100 each at premium of
+5% but redeemable at par.
+
+3. Issue of Rs 1.00.000, 9% debentures of Rs 100 each at discount of
+5% repayable at par.
+
+4. Issue of Rs 1.00.000, 9% debentures of Rs 100 each at par but
+repayable at a premium of 5%.
+
+5. Issue of Rs 1.00.000, 9% debentures of Rs 100 each at discount of
+5% but redeemable at premium of 5%.
+
+6. Issue of Rs 1.00.000, 9% debentures of Rs 100 each at premium of
+5% and redeemable at premium of 5%.
+
+Solution:
+Journal
+
+Bank A/c . 1.00.000
+To 9% Debenture Application & Allotment A/c 1.00.000
+(Debentures Application money received)
+
+Debenture Application & Allotment A/c . 1.00.000
+
+To 9% Debentures A/c 1.00.000
+(Application money transferred to
+Debentures Account)
+
+Bank A/c Dr. 1.05.000
+To 9% Debenture Application 8: Allotment A/c 1.05.000
+(Debentures application money received)
+
+Debenture Application & Allotment A/c . 1.05.000
+To 9% Debentures A/c 1.00.000
+To Securities Premium Reserve A/C 5,000
+
+(Debentures application money transferred to
+Debentures & Securities Premium account)
+
+Bank A/c Dr.
+To 9% Debenture Application 8: Allotment A/c
+(Debentures application money received)
+
+9% Debenture Application 8: Allotment A/c Dr.
+Discount on Issue of Debentures A/c Dr.
+
+To 9% Debentures A/c 1.00.000
+
+(Debentures application money transferred
+to Debentures account)

@@ -1,0 +1,114 @@
+236
+
+PIIYSICS
+
+ 
+
+elastic behaviour and mechanical properties of
+solids which would answer many such
+questions.
+
+9.2 ELASTIC BEHAVIOUR OF SOLIDS
+
+We know that in a solid, each atom or molecule
+is surrounded by neighbouring atoms or
+molecules. These are bonded together by
+interatomic or intermolecular forces and stay
+in a stable equilibrium position. When a solid is
+deformed, the atoms or molecules are displaced
+from their equilibrium positions causing a
+change in the interatomic (or intermolecular)
+distances. When the deforming force is removed,
+the interatomic forces tend to drive them back
+to their original positions. Thus the body regains
+its original shape and size. The restoring
+mechanism can be visualised by taking a model
+of spring-ball system shown in the Fig. 9.1. Here
+the balls represent atoms and springs represent
+interatomic forces.
+
+\))))))))))))))))))))
+
+V
+V
+V
+s
+v
+.‘-’
+
+Iv(
+
+))I
+
+ 
+
+Fig. 9. 1 Spring-ball model for the illustration of elastic
+behaviour of solids.
+
+If you try to displace any ball from its
+equilibrium position, the spring system tries to
+restore the ball back to its original position. Thus
+elastic behaviour of solids can be explained in
+terms of microscopic nature of the solid. Robert
+Hooke, an English physicist (1635 - 1703 AD)
+performed experiments on springs and found
+that the elongation (change in the length)
+produced in a body is proportional to the applied
+force or load. In 167 6, he presented his law of
+
+2019-20
+
+elasticity, now called Hooke’s law. We shall
+study about it in Section 9.4. This law, like
+Boyle’s law, is one of the earliest quantitative
+relationships in science. It is very important to
+know the behaviour of the materials under
+various kinds of load from the context of
+engineering design.
+
+9.3 STRESS AND STRAIN
+
+When forces are applied on a body in such a
+manner that the body is still in static equilibrium,
+it is deformed to a small or large extent depending
+upon the nature of the material of the body and
+the magnitude of the deforming force. The
+deformation may not be noticeable visually in
+many materials but it is there. When a body is
+subjected to a deforming force, a restoring force
+is developed in the body. This restoring force is
+equal in magnitude but opposite in direction to
+the applied force. The restoring force per unit area
+is known as stress. IfFis the force applied normal
+to the cross—section and A is the area of cross
+section of the body,
+Magnitude of the stress = F/A (9.1)
+The SI unit of stress is N m‘2 or pascal (Pa)
+and its dimensional formula is [ ML‘I’I“2 ].
+There are three ways in which a solid may
+change its dimensions when an external force
+acts on it. These are shown in Fig. 9.2. In
+Fig.9.2(a), a cylinder is stretched by two equal
+forces applied normal to its cross-sectional area.
+The restoring force per unit area in this case
+is called tensile stress. If the cylinder is
+compressed under the action of applied forces,
+the restoring force per unit area is known as
+compressive stress. Tensile or compressive
+stress can also be termed as longitudinal stress.
+In both the cases, there is a change in the
+length of the cylinder. The change in the length
+AL to the original length L of the body (cylinder
+in this case) is known as longitudinal strain.
+
+AL
+Longitudinal strain = T (9.2)
+
+However, if two equal and opposite deforming
+forces are applied parallel to the cross-sectional
+area of the cylinder, as shown in Fig. 9.2(b),
+there is relative displacement between the
+opposite faces of the cylinder. The restoring force
+per unit area developed due to the applied
+tangential force is known as tangential or
+shearing stress.

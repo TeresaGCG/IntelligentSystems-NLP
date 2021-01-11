@@ -1,0 +1,60 @@
+1 4 Accountancy : Company Accounts andAnalysis of Financial Statements
+
+Solution
+
+Books of Eastern Company Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+ATTIOUHI Amount
+(Rs.) (Rs.)
+
+Bank A/c Dr. 1,60,000
+
+To Share Application A/c 1,60,000
+(Application money on 40,000 shares @
+Rs.4 per share received)
+
+Share Application A/c Dr. 1,60,000
+To Share Capital A/c 1,60,000
+(Application money transferred to share capital)
+
+Share AlloUnent A/c . 120,000
+
+To Share Capital A/c 1,20,000
+(Money due on allotment of 40,000 shares @
+Rs. 3 per share)
+
+Bank A/c Dr. 1.20.000
+
+To Share allotment A/c 1,20,000
+(Money received on 40,000 shares @ Rs. 3 per
+share on allotment)
+
+Share First and Final Call A/c Dr. 120,000
+
+To Share Capital A/c 1,20,000
+(Money due on 40,000 shares @ Rs. 3 per share
+on First and ﬁnal call)
+
+Bank A/c . 120,000
+To Share First and Final Call A/c 1,20,000
+(First and ﬁnal call money received)
+
+Do it Yourself
+
+On April 0 1. 20 1 5, a limited company was incorporated with an authorised capital of
+Rs. 40,000 divided into shares of Rs. 10 each. It offered to the public for subscription
+of 3,000 shares payable as follows:
+
+On Application Rs. 3 per share
+On Allotment Rs. 2 per share
+On First Call (One month after allotment) Rs. 2.50 per share
+On Second and Final Call Rs. 2.50 per share
+
+The shares were fully subscribed for by the public and application money duly
+received on April 15, 2015. The directors made the allotment on May 1, 20 15.
+
+How will you record the share capital transactions in the books of a company if
+the amounts due has been duly received, and the company maintains the combined
+account for application and allotment.

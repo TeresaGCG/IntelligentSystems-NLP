@@ -1,0 +1,94 @@
+132
+
+PHYSICS
+
+={ v1f2 + U”2 + 2v1fv2f cos (191 + 37°) } (6.32)
+
+Since the collision is elastic and m1 = m2 it follows
+from conservation of kinetic energy that
+
+v11.2 = 1)le + 1)sz (6-33)
+
+Comparing Eqs. (6.32) and (6.33), we get
+cos ((91 + 37°) = O
+
+or 01 + 37° = 90°
+
+Thus, 91 =53°
+
+This proves the following result : when two equal
+masses undergo a glancing elastic collision with
+one of them at rest, after the collision, they will
+move at right angles to each other. 4
+
+The matter simplifies greatly if we consider
+spherical masses with smooth surfaces, and
+assume that collision takes place only when the
+bodies touch each other. This is what happens
+in the games of marbles, carrom and billiards.
+
+In our everyday world, collisions take place only
+when two bodies touch each other. But consider
+a comet coming from far distances to the sun, or
+alpha particle coming towards a nucleus and
+going away in some direction. Here we have to
+deal with forces involving action at a distance.
+Such an event is called scattering. The velocities
+and directions in which the two particles go away
+depend on their initial velocities as well as the
+type of interaction between them, their masses,
+shapes and sizes.
+
+SUM'MARY
+
+i. The work-energy theorem states that the change in kinetic energy of a body is the work
+
+done by the net force on the body.
+K1" K. = W
+
+net
+
+2. A force is conservative if (i) work done by it on an object is path independent and
+depends only on the end points {xi. )3}. or (ii) the work done by the force is zero for an
+arbitrary closed path taken by the object such that it returns to its initial position.
+
+3. For a conservative force in one dimension, we may deﬁne a potential energy function V[x]
+
+ 
+
+such that
+dV
+F(x) 2 — (x)
+dx
+X,"
+or W-VJ.=JF(x)dx
+
+Xi
+
+4. The principle of conservation of mechanical energy states that the total mechanical
+energy of a body remains constant if the only forces that act on the body are conservative.
+5. The gravitational potential energy of a particle of mass m at a height x about the earth’s
+
+surface is
+
+le} =mgx
+
+where the variation of g with height is ignored.
+6. The elastic potential energy of a spring of force constant k and extension xis
+
+1 .
+V(X)=§kx2
+
+7. The scalar or dot product of two vectors A and B is written as AB and is a scalar
+quantity given by : AB = AB cos 0. where 6 is the angle between A and B. It can be
+positive. negative or zero depending upon the value of 6. The scalar product of two
+vectors can be interpreted as the product of magnitude of one vector and component
+of the other vector along the ﬁrst vector. For unit vectors :
+
+i-izj-jzli-lizl and i
+
+.jzj.ﬁ:ﬁ.i=o
+
+Scalar products obey the commutative and the distributive laws.
+
+2019-20

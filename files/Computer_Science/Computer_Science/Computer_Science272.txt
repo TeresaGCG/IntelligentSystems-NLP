@@ -1,0 +1,40 @@
+256 Chapter 4 Assessing and Understanding Performance
+Hardware
+Hardware vendor Dell
+Model number Precision WorkStation 360 (3.2 GHz Pentium 4 Extreme Edition)
+CPU Intel Pentium 4 (BOO MHz system bus)
+CPU MHz 3200
+FPU Integrated
+CPU{s) enabled 1
+CPU{s) orderable 1
+No
+Parallel
++
+Primary cache 12K{I) micro-<lps 8KB{D) on chip
+Se<:ondary cache 512KB(I+D) on chip
+L3 cache 2048KB{I+D) on chip
+Other cache NfA
+Memory 4 x 512MB ECC DDR400 SDRAM CL3
+Disk subsystem 1x 80GB AlA/lOO 7200 RPM
+Other hardware
+Software
+Operating system Windows XP Professional SPl
+Compiler Intel C++ Compiler 7.1 (20030402Zj
+Microsoft Visual Studio.NET (7.0.9466)
+MicroQuili SmartHeap Library 6.01
+File system type NTFS
+System state Default
+FIGURE 4.3 System description of a desktop system using the fastest Pentium 4 avail 
+able In 2003. In addition to this formatted mandatory description, there are 23 lines of notes describing
+special flag settings used for portability (4), optimization (2), truling (12), base timing (2), a special library
+(2), and BIOS setting (I).
+hence less important, parts of an application. Some of the most important effects
+from the input set are in the memory system. Larger input sets tend to stress the
+memory system to a greater extent, and the use of realistically sized workloads in
+servers both for commercial and scientific applications is critical if a benchmark is
+intended to predict what real applications may see.
+Comparing and Summarizing Performance
+Once we have selected programs to use as benchmarks and agreed on whether we
+are measuring response time or throughput, you might think that performance
+comparison would be straightforward. However, we must still decide how to sum 
+marize the performance of a group of benchmarks. Although summarizing a set of

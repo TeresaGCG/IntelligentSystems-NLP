@@ -1,0 +1,21 @@
+6.1 An Overview of Pipelining 370
+6.2 A Pipelined Oatapath 384
+6.3 Pipelined Conbol 399
+6A Data Hazards and Forw.-ding 402
+6.5 Data Hazards and Stalls 41 3
+6.6 Branch Hazards 41 6
+•
+6.7 Using a H_dw_e Description la'Iguage to Describe and Model a
+Pipeline 426
+6.8 Exceptions 427
+6.9 AdvaK:ed Pipelining: Extracting More Perfonna1Ce 432
+6.10 Real Stuff: The Pentium 4 Pipeline 448
+6.11 Fallacies and Pitfalls 45 1
+6.12 Concluding Remarks 452
+•
+6.13 Historical Perspective and Further Reading 454
+6.14 Exercises 454
+The Five Classic Components of a Computer
+Interlace
+Evatuating
+"".,,,"''''''

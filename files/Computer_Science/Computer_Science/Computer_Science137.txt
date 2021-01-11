@@ -1,0 +1,31 @@
+2.13 A C Sort Example to Put It All Together 121
+Today essentially all programming for desktop and server applications is done in Hardware
+high-level languages, as is most programming for embedded applications. This
+Software
+development means that since most instructions executed are the output of a
+Interface
+compiler, an instruction set architecture is essentially a compiler target. With
+Moore's law comes the temptation of adding sophisticated operations in an
+instruction set. The challenge is that they may not exactly match what the com 
+piler needs to produce or be so general that they aren't fast. For example, consider
+special loop instructions found in some computers. Suppose that instead of decre 
+menting by one, the compiler wanted to increment by four, or instead of branch 
+ing on not equal zero, the compiler wanted to branch if the index was less than or
+equal to the limit. The loop instruction may be a mismatch. \Vhen faced with such
+objections, the instruction set designer might then generalize the operation, add 
+ing another opera nd to specify the increment and perhaps an option on which
+branch condition to use. Then the danger is that a common case, say, increment 
+ing by one, will be slower than a sequence of simple operations.
+How Compilers Work:
+An Introduction
+The purpose of this section is to give a brief overview of the compiler function,
+which will help the reader understand both how the compiler translates a high 
+level language program into machine instructions. Keep in mind that the subject
+of compiler construction is usually taught in a one- or two-semester course; our
+introduction will necessarily only touch on the basics. The rest of this section is on
+the CD.
+A C Sort Example to Put It All Together
+One danger of showing assembly language code in snippets is that you will have
+no idea what a full assembly language program looks like. In this section, we
+derive the MIPS code from two procedures written in C: one to swap array ele 
+ments and one to sort them.

@@ -1,0 +1,90 @@
+Electric Charges
+
+and Fields
+2 EA = (SA/80
+or, E = 6/280
+Vectorically,
+0' -
+E = —n
+280 (1.33)
+
+where 11 is a unit vector normal to the plane and going away from it.
+
+E is directed away from the plate if a is positive and toward the plate
+if a is negative. Note that the above application of the Gauss’ law has
+brought out an additional fact: E is independent of x also.
+
+For a ﬁnite large planar sheet, Eq. (1.33) is approximately true in the
+middle regions of the planar sheet, away from the ends.
+
+1. 15.3 Field due to a uniformly charged thin spherical shell
+
+Let a be the uniform surface charge density of a thin spherical shell of
+radius R (Fig. 1.3 1). The situation has obvious spherical symmetry. The
+field at any point P, outside or inside, can depend only on r (the radial
+distance from the centre of the shell to the point) and must be radial (i.e.,
+along the radius vector).
+
+(i) Field outside the shell: Consider a point P outside the
+
+shell with radius vector r. To calculate E at P, we take the Surface charge,/ ------- /\
+Gaussian surface to be a sphere of radius r and with centre densityc ’
+
+O, passing through P. All points on this sphere are equivalent
+relative to the given charged configuration. (That is what we
+mean by spherical symmetry.) The electric ﬁeld at each point
+of the Gaussian surface, therefore, has the same magnitude
+E and is along the radius vector at each point. Thus, E and
+AS at every point are parallel and the ﬂux through each
+element is E AS. Summing over all AS, the ﬂux through the
+Gaussian surface is E X 4 at r2. The charge enclosed is
+
+ 
+
+Gaussian surface
+
+  
+
+o X 4 at R2. By Gauss’s law Surface charge Gg‘l‘fffzigen
+density 6
+0'
+EX47tr2=—47‘R2 \
+80
+0R2 _ q
+
+ 
+
+ 
+
+Or, E: 2 _ 2
+80 r 47:80r
+
+where q = 4 7rR2 ois the total charge on the spherical shell.
+
+ 
+
+Vectorially,
+q -
+E = r
+47:80 r2 (1 -34)
+
+The electric ﬁeld is directed outward if q > O and inward if
+q < O. This, however, is exactly the field produced by a charge
+q placed at the centre 0. Thus for points outside the shell, the field due
+to a uniformly charged shell is as if the entire charge of the shell is
+concentrated at its centre.
+
+(ii) Field inside the shell: In Fig. 1.31(b), the point P is inside the
+shell. The Gaussian surface is again a sphere through P centred at 0.
+
+2019-20
+
+ 
+
+(b)
+
+FIGURE 1.31 Gaussian
+surfaces for a point with
+[a] r> R. (b) r< R.
+
+39

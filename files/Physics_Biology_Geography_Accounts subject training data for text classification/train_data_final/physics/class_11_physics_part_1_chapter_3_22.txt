@@ -1,0 +1,70 @@
+MOTION IN A STRAIGHT LINE
+
+APPENDIX 3.1 : ELEMENTS OF CALCULUS
+
+Differential Calculus
+
+Using the concept of ‘differential coefficient’ or ‘derivative’, we can easily define velocity and
+acceleration. Though you will learn in detail in mathematics about derivatives, we shall introduce
+this concept in brief in this Appendix so as to facilitate its use in describing physical quantities
+involved in motion.
+
+Suppose we have a quantity y whose value depends upon a single van'able x, and is expressed
+by an equation defining y as some specific function of x. This is represented as:
+
+y=fm (D
+
+This relationship can be visualised by drawing a graph of function y = f (x) regarding y and x as
+Cartesian coordinates, as shown in Fig. 3.30 (a).
+
+A :f A
+y y (X) y
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) (b)
+Fig. 3.30
+
+Consider the point P on the curve y = f (x) whose coordinates are (x, y) and another point Q
+where coordinates are (x + Ax, y + Ay). The slope of the line joining P and Q is given by:
+
+_Ay_(y+Ay)—y
+tan _E——AX (2)
+
+Suppose now that the point Q moves along the curve towards P. In this process, Ay and Ax
+
+decrease and approach zero; though their ratio ﬂ will not necessarily vanish. What happens
+
+Ax
+to the line PQ as Ay—> O, Axe 0. You can see that this line becomes a tangent to the curve at
+
+point P as shown in Fig. 3.30(b). This means that tan 6 approaches the slope of the tangent at
+P, denoted by m:
+Ay (y + Ay) — y
+
+m=ggm=m— (3)
+
+The limit of the ratio Ay/Ax as Ax approaches zero is called the derivative of y with respect to x
+and is written as dy/dx. It represents the slope of the tangent line to the curve y = f (x) at the
+point (x, y).
+
+Since y = f (x) and y + Ay = f (x + Ax), we can write the definition of the derivative as:
+
+dy_df(x)_ . ﬂ_ . f[x+AX]—f(x]
+E‘ dx ‘AgriloAx‘Alirilo[ Ax ]
+
+ 
+
+Given below are some elementary formulae for derivatives of functions. In these u (x) and v (x)
+represent arbitrary functions of x, and a and b denote constant quantities that are independent
+of x. Derivatives of some common functions are also listed .
+
+2019-20
+
+61

@@ -1,0 +1,90 @@
+4.19
+
+4.20
+
+4.21
+
+4.22
+
+4.23
+
+4.24
+
+ 
+
+ 
+
+Moving Charges and
+
+Magnetism
+
+ 
+
+along a straight path with constant speed. What can you say
+about the initial velocity of the particle?
+
+(b) A charged particle enters an environment of a strong and
+non-uniform magnetic field varying from point to point both in
+magnitude and direction, and comes out of it following a
+complicated trajectory. Would its final speed equal the initial
+speed if it suffered no collisions with the environment?
+
+(c) An electron travelling west to east enters a chamber having a
+uniform electrostatic field in north to south direction. Specify
+the direction in which a uniform magnetic field should be set
+up to prevent the electron from deﬂecting from its straight line
+path.
+
+An electron emitted by a heated cathode and accelerated through a
+potential difference of 2.0 kV, enters a region with uniform magnetic
+field of 0.15 T. Determine the trajectory of the electron if the field
+(a) is transverse to its initial velocity, (b) makes an angle of 309 with
+the initial velocity.
+
+A magnetic field set up using Helmholtz coils (described in Exercise
+4.16) is uniform in a small region and has a magnitude of 0.75 T. In
+the same region, a uniform electrostatic field is maintained in a
+direction normal to the common axis of the coils. A narrow beam of
+(single species) charged particles all accelerated through 15 kV
+enters this region in a direction perpendicular to both the axis of
+the coils and the electrostatic field. If the beam remains undeﬂected
+when the electrostatic field is 9.0 X 10’5 V m'l, make a simple guess
+as to what the beam contains. Why is the answer not unique?
+
+A straight horizontal conducting rod of length 0.45 m and mass
+60 g is suspended by two vertical wires at its ends. A current of 5.0 A
+is set up in the rod through the wires.
+
+(a) What magnetic field should be set up normal to the conductor
+in order that the tension in the wires is zero?
+
+(b) What will be the total tension in the wires if the direction of
+current is reversed keeping the magnetic field same as before?
+(Ignore the mass of the wires.) g = 9.8 m s’z.
+
+The wires which connect the battery of an automobile to its starting
+motor carry a current of 300 A (for a short time). What is the force
+per unit length between the wires if they are 70 cm long and 1.5 cm
+apart? Is the force attractive or repulsive?
+
+A uniform magnetic field of 1.5 T exists in a cylindrical region of
+radius 10.0 cm, its direction parallel to the axis along east to west. A
+wire carrying current of 7.0 A in the north to south direction passes
+through this region. What is the magnitude and direction of the
+force on the wire if,
+
+(a) the wire intersects the axis,
+
+(b) the wire is turned from N-S to northeast-northwest direction,
+(c) the wire in the N-S direction is lowered from the axis by a distance
+of 6.0 cm?
+
+A uniform magnetic field of 3000 G is established along the positive
+z—direction. A rectangular loop of sides 10 cm and 5 cm carries a
+current of 12 A. What is the torque on the loop in the different cases
+shown in Fig. 4.28? What is the force on each case? Which case
+corresponds to stable equilibrium?
+
+2019-20
+
+171

@@ -1,0 +1,14 @@
+Monomials and Polynomials
+209
+When you have a combination of multiplication and division in one
+expression, simplify the numerator and denominator separately and then
+do the division.
+Example 3
+Simplify the following expressions. Write your answer in terms of
+positive exponents.
+a.
+b.
+c.
+Solution:
+a.
+b.

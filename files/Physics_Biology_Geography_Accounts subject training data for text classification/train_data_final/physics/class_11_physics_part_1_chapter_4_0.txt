@@ -1,0 +1,80 @@
+Em
+
+| I OEGCHO-‘l
+
+CHAPTER FOUR
+
+MOTION IN A PLANE
+
+4. 1 Introduction
+
+4.2 Scalars and vectors
+
+4.3 Multiplication of vectors by
+real numbers
+
+4.4 Addition and subtraction of
+vectors — graphical method
+
+4.5 Resolution of vectors
+
+4.6 Vector addition — analytical
+method
+
+4.7 Motion in a plane
+
+4.8 Motion in a plane with
+constant acceleration
+
+4.9 Relative velocity in two
+
+dimensions
+4.10 Projectile motion
+4.1 1 Uniform circular motion
+
+Summary
+
+Points to ponder
+Exercises
+Additional exercises
+
+ 
+
+4. 1 INTRODUCTION
+
+In the last chapter we developed the concepts of position,
+displacement, velocity and acceleration that are needed to
+describe the motion of an object along a straight line. We
+found that the directional aspect of these quantities can be
+taken care of by + and — signs, as in one dimension only two
+directions are possible. But in order to describe motion of an
+object in two dimensions (a plane) or three dimensions
+(space), we need to use vectors to describe the above-
+mentioned physical quantities. Therefore, it is first necessary
+to learn the language of vectors. What is a vector? How to
+add, subtract and multiply vectors ? What is the result of
+multiplying a vector by a real number ? We shall learn this
+to enable us to use vectors for defining velocity and
+acceleration in a plane. We then discuss motion of an object
+in a plane. As a simple case of motion in a plane, we shall
+discuss motion with constant acceleration and treat in detail
+the projectile motion. Circular motion is a familiar class of
+motion that has a special significance in daily-life situations.
+We shall discuss uniform circular motion in some detail.
+The equations developed in this chapter for motion in a
+plane can be easily extended to the case of three dimensions.
+
+4.2 SCALARS AND VECTORS
+
+In physics, we can classify quantities as scalars or
+vectors. Basically, the difference is that a direction is
+associated with a vector but not with a scalar. A scalar
+quantity is a quantity with magnitude only. It is specified
+completely by a single number, along with the proper
+unit. Examples are : the distance between two points,
+mass of an object, the temperature of a body and the
+time at which a certain event happened. The rules for
+combining scalars are the rules of ordinary algebra.
+Scalars can be added, subtracted, multiplied and divided
+
+2019-20

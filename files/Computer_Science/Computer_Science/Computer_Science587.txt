@@ -1,0 +1,40 @@
+8.2 Disk Storage and Dependability 571
++
+Average disk access time is equal to Average seek time Average rotational
+ANSWER
++ +
+delay Transfer time Controller overhead. Using the advertised average
+seek time, the answer is
+6.0 ms + 0.5 rotation + ~ + 0.2 ms 6.0 + 3.0 + 0.01 + 0.2 9.2 ms
+10,000 RPM 50 MB/sec
+If the measured average seek time is 25% of the advertised average time, the
+answer
+IS
++ + +
+1.5 ms 3.0 ms 0.01 ms 0.2 ms = 4.7 ms
+Notice that when we consider measured average seek time, as opposed to
+advertised average seek time, the rotational latency can be the largest compo 
+nent of the access time.
+Disk densities have continued to increase for more than 50 years. The impact
+of this compounded improvement in density and the reduction in physical size of
+a disk drive has been amazing, as Figure 8.3 shows. The aims of different disk
+designers have led to a wide variety of drives being available at any particular time.
+Figure 8.4 shows the characteristics of three magnetic disks. In 2004, these disks
+from a single manufacturer cost between $0.50 and $5 per gigabyte, depending on
+size, interface, and performance. The smaller drive has advantages in power and
+volume per byte.
+Elaboration: Most disk controllers include caches. Such caches allow for fast
+access to data that was recently read between transfers requested by the CPU. They
+use write through and do not update on a write miss. They often also include prefetch
+algorithms to try to anticipate demand. Of course, such capabilities complicate the
+measurement of disk performance and increase the importance of workload choice.
+Dependability, Reliability, and Availability
+Users crave dependable storage, but how do you define it? In the computer indus 
+try, it is harder than looking it up in the dictionary. After considerable debate, the
+following is considered the standard definition (Laprie 1985):
+Computer system dependability is the quality ofdelivered service such that reli 
+ance mn justifiably be placed on this service. The service delivered by a system
+is its observed actllal behavior as perceived by other system(s) interacting with
+this system's users. Each module also has an ideal specified behavior, where a
+service specification is an agreed description ofthe expected behavior. A system
+faillire occurs when the actual behavior deviates from the specified behavior.

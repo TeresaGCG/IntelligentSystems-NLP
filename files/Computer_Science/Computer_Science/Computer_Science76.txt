@@ -1,0 +1,39 @@
+60 Chapter 2 Instructions: Language of the Computer
+The MIPS offset plus base register addressing is an excellent match to structures as
+well as arrays, since the register can point to the beginning of the structure and the off 
+set can select the desired element. We'll see such an example in Section 2.13.
+The register in the data transfer instructions was originally invented to hold an
+index of an array with the offset used for the starting address of an array. Thus, the
+base register is also called the index register. loday's memories are much larger
+and the software model of data allocation is more sophisticated, so the base
+address of the array is normally passed in a register since it won't fit in the offset,
+as we shall see.
+Section 2.4 explains that since MIPS supports negative constants, there is no need
+for subtract immediate in MIPS.
+Representing Instructions in the
+Computer
+We are now ready to explain the difference between the way humans instruct
+computers and the way computers see instructions, First, let's quickly review how
+a computer represents numbers,
+Humans are taught to think in base 10, but numbers may be represented in any
+base, For example, 123 base 10 = 1111011base2.
+Numbers are kept in computer hardware as a series of high and low electronic
+signals, and so they are considered base 2 numbers. (Just as base 10 numbers are
+called decimal numbers, base 2 numbers are called binary numbers.) A single digit
+of a binary number is thus the "atom" of computing, since all information is com 
+binary digit Also called binary posed of binary digits or bits. This fundamental building block can be one of two
+bit. One ofthe two numbers in
+values, which can be thought of as several alternatives: high or low, on or off, true
+base 2, 0 or 1, that are the com 
+or false, or I or O.
+ponents ofinformation.
+Instructions are also kept in the computer as a series of high and low electronic
+signals and may be represented as numbers. In fact, each piece of an instruction
+can be considered as an individual number, and placing these numbers side by
+side forms the instruction.
+Since registers are part of almost all instructions, there must be a convention to
+map register names into numbers. In MIPS assembly language, registers $50 to
+$57 map onto registers 16 to 23, and registers $tO to $t7 map onto registers 8 to
+IS. Hence, $50 mea ns register 16, $s 1 mea ns register 17, $s 2 mea ns register
+18, ... , $tO means register 8, $t1 means register 9, and so on. We'll describe the
+convention for the rest of the 32 registers in the following sections.

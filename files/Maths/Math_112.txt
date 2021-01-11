@@ -1,0 +1,28 @@
+Homework Helpers: Basic Math and Pre-Algebra
+112
+Transformation Original Transformation New Equation
+Equation
+Interchange the 4=x Interchange x= 4 
+sides of the
+equation
+Simplify one or 2x−x= 10 − 6 Simplify x= 4 
+both sides
+Add the same x− 5 = 3 Add 5 to both x− 5 + 5 = 3 + 5
+number to each sides and x= 8
+side and simplify simplify
+Subtract the x+ 7 = 20  Subtract 7 from x+ 7  − 7 = 20 − 7
+same number both sides and x= 13
+from each side simplify
+and simplify
+Example 1
+Solve the equation: x− 5 = 12
+Solution: In order to isolate the variable, we need to get rid of the
+5. To do this, just add 5 to both sides and simplify:
+x− 5 = 12
+Add 5 to both sides x− 5 + 5 = 12 + 5 
+Simplify x = 17 
+The last step is to check our work.
+Substitute x = 17 into our original equation and simplify.
+Is 17 − 5  equal to 12?
+Yes. We can be confident that our answer is correct.
+www.ebook3000.com

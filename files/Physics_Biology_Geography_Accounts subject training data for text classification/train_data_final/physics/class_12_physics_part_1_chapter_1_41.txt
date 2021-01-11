@@ -1,0 +1,81 @@
+42
+
+i Physics
+
+ 
+
+ 
+
+ 
+
+SUMMARY
+
+Electric and magnetic forces determine the properties of atoms,
+molecules and bulk matter.
+
+From simple experiments on frictional electricity, one can infer that
+there are two types of charges in nature; and that like charges repel
+and unlike charges attract. By convention, the charge on a glass rod
+rubbed with silk is positive; that on a plastic rod rubbed with fur is
+then negative.
+
+Conductors allow movement of electric charge through them, insulators
+do not. In metals, the mobile charges are electrons; in electrolytes
+both positive and negative ions are mobile.
+
+Electric charge has three basic properties; quantisation, additivity
+and conservation.
+
+Quantisation of electric charge means that total charge (q) of a body
+is always an integral multiple of a basic quantum of charge (e) i.e.,
+q = n e, where n = 0, 11, i2, 13, Proton and electron have charges
++e, —e, respectively. For macroscopic charges for which n is a very large
+number, quantisation of charge can be ignored.
+
+Additivity of electric charges means that the total charge of a system
+is the algebraic sum (i.e., the sum taking into account proper signs)
+of all individual charges in the system.
+
+Conservation of electric charges means that the total charge of an
+isolated system remains unchanged with time. This means that when
+bodies are charged through friction, there is a transfer of electric charge
+from one body to another, but no creation or destruction of charge.
+
+Coulomb’s Law: The mutual electrostatic force between two point
+charges q1 and q2 is proportional to the product q1q2 and inversely
+proportional to the square of the distance r21 separating them.
+Mathematically,
+
+k (qiq2) i.
+
+F21 = force on q2 due to (11 = r2 21
+21
+
+ 
+
+where £21 is a unit vector in the direction from q1 to q2 and k = 41w
+0
+
+is the constant of proportionality.
+
+In SI units, the unit of charge is coulomb. The experimental value of
+the constant 80 is
+
+so = 8.854 x 10~12 c2 N~1 m”2
+The approximate value of k is
+k=9>< 109Nm2C”2
+The ratio of electric force and gravitational force between a proton
+
+and an electron is
+2
+
+k—e E 2.4 x 1039
+
+G memp
+
+Superposition Principle: The principle is based on the property that the
+forces with which two charges attract or repel each other are not
+affected by the presence of a third (or more] additional charge[s]. For
+an assembly of charges q1, q2, q3, the force on any charge, say ql, is
+
+2019-20

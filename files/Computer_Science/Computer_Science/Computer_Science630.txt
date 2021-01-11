@@ -1,0 +1,38 @@
+614 Chapter 8
+MOCK DISK
+14
+12
+10 (2)
+-
+•
+8
+.s
+•
+••
+>- 6
+4
+2
+0+ - - - - , - - - - , - - - - , - - - - , - - -
+o
+50 100 150 200
+Distance (sectors)
+FIGURE 8.17 Example output of Skippy for a hypothetical disk.
+8.8 [ IOJ <§8.3> Consider two RAID disk systems that are meant to store 10 ter 
+abytes of data (not counting any redundancy). System A uses RAID 1 technology,
+and System B uses RAID 5 technology with four disks in a "protection group."
+How m any mo re terabytes of storage are needed in System A than in System
+3.
+81
+b. Suppose an application writes one block of data to the disk. If reading or
+writing a block takes 30 how much time will the write take on System A
+inS,
+in the worst case? How about on System B in the worst case?
+c. Is System A mo re reliable that System B? Why o r why not?
+8.9 (15 <§8.3> What can happen to a RAID 5 system if the power fails between
+J
+the write update to the data block and the write update to the check block so that
+only one of the two is successfully written? What could be done to prevent this
+from happening?
+8
+8.10 [5J <§8.3> The speed of light is approximately 3 X 10 meters per second,
+and electrical signals travel at about 50% of this speed in a conductor. When the

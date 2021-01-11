@@ -1,0 +1,71 @@
+136 Accountancy
+
+Solution
+
+Books of Veneet Stores
+Sales (Journal) Book
+
+Date nvoice Name of the Customer J.F. Amount
+No. (Account to be debited) ?
+
+Rohit Stores
+Mera Stores
+
+Mega Stationers
+Abha Traders
+Bharti Stores
+
+ 
+
+Sales Return (Journal) Book
+Name We 01‘5““
+ote No. (Account to be credited) ?
+
+Rohit Stores
+
+Mega Stationers
+Abha Traders
+
+ 
+
+(ii) Ledger Posting
+
+Rohit Stores Account
+
+Dr. Cr.
+? ?
+
+2017 2017
+
+----I SSeSeee-e I-
+
+  
+   
+
+      
+  
+  
+
+Mera Stores Account
+
+Dr. Cr.
+? ?
+2017
+Dec. 05 Sales 515
+
+Mega Stationers Account
+Dr. Cr.
+--I----”
+? €
+2017 2017
+----I I-
+
+   
+
+ 
+
+.F.
+
+   
+
+2019-2020

@@ -1,0 +1,68 @@
+382
+
+i Physics
+
+ 
+
+ 
+
+is the same measured along any ray. This principle leads to the well
+known laws of reﬂection and refraction.
+
+3. The principle of superposition of waves applies whenever two or more
+sources of light illuminate the same point. When we consider the
+intensity of light due to these sources at the given point, there is an
+interference term in addition to the sum of the individual intensities.
+But this term is important only if it has a non—zero average, which
+occurs only if the sources have the same frequency and a stable
+phase difference.
+
+4. Young’s double slit of separation 01 gives equally spaced fringes of
+angular separation l/d. The source, mid—point of the slits, and central
+bright fringe lie in a straight line. An extended source will destroy
+the fringes if it subtends angle more than 1/ d at the slits.
+
+5. A single slit of width a gives a diffraction pattern with gzcentral
+maximum. The intensity falls to zero at angles of ia’i?’ etc.,
+
+with successively weaker secondary maxima in between. Diffraction
+limits the angular resolution of a telescope to II/ D where D is the
+diameter. Two stars closer than this give strongly overlapping images.
+Similarly, a microscope objective subtending angle Zﬁ at the focus,
+in a medium of refractive index n, will just separate two objects spaced
+at a distance 1/ (2n sin [3), which is the resolution limit of a
+microscope. Diffraction determines the limitations of the concept of
+light rays. A beam of width (1 travels a distance a2 /1, called the Fresnel
+distance, before it starts to spread out due to diffraction.
+
+6. Natural light, e. g., from the sun is unpolarised. This means the electric
+vector takes all possible directions in the transverse plane, rapidly
+and randomly, during a measurement. A polaroid transmits only one
+component [parallel to a special axis). The resulting light is called
+linearly polarised or plane polarised. When this kind of light is viewed
+through a second polaroid whose axis turns through 27:, two maxima
+and minima of intensity are seen. Polarised light can also be produced
+by reﬂection at a special angle [called the Brewster angle) and by
+scattering through 7t / 2 in the earth’s atmosphere.
+
+POINTS TO PONDER
+
+Waves from a point source spread out in all directions, while light was
+seen to travel along narrow rays. It required the insight and experiment
+of Huygens, Young and Fresnel to understand how a wave theory could
+explain all aspects of the behaviour of light.
+
+The crucial new feature of waves is interference of amplitudes from different
+
+sources which can be both constructive and destructive, as shown in
+Young’s experiment.
+
+Diffraction phenomena define the limits of ray optics. The limit of the
+ability of microscopes and telescopes to distinguish very close objects is
+set by the wavelength of light.
+
+Most interference and diffraction effects exist even for longitudinal waves
+like sound in air. But polarisation phenomena are special to transverse
+waves like light waves.
+
+2019-20

@@ -1,0 +1,68 @@
+Wove Optics
+
+ 
+
+where 0 is the angle between pass axes of P1 and P2. Since P1 and P3
+are crossed the angle between the pass axes of P2 and P3 will be
+(15/ 2—9). Hence the intensity of light emerging from P3 will be
+
+I = Iocos26 cos2 [3 — t9)
+
+= IO cos20 sings =(IO/ 4) sin220
+
+Therefore, the transmitted intensity will be maximum when 9 = 15/ 4.
+
+10.7. 1 Polarisation by scattering
+
+The light from a clear blue portion of the sky shows a rise and fall of
+intensity when viewed through a polaroid which is rotated. This is nothing
+but sunlight, which has changed its direction (having been scattered) on
+encountering the molecules of the earth’s atmosphere. As Fig. 10.23(a)
+shows, the incident sunlight is unpolarised. The dots stand for polarisation
+perpendicular to the plane of the figure. The double arrows show
+polarisation in the plane of the ﬁgure. (There is no phase relation between
+these two in unpolarised light). Under the inﬂuence of the electric ﬁeld of
+the incident wave the electrons in the molecules acquire components of
+motion in both these directions. We have drawn an observer looking at
+90° to the direction of the sun. Clearly, charges accelerating parallel to
+the double arrows do not radiate energy towards this observer since their
+acceleration has no transverse component. The radiation scattered by
+the molecule is therefore represented by dots. It is polarised
+perpendicular to the plane of the ﬁgure. This explains the polarisation of
+scattered light from the sky.
+
+Incident sunlight
+(Unpolarised)
+Incident Reﬂected
+
+yll/
+7.
+//|\\
+
+     
+
+Scattered Light
+(Polarised)
+
+Refracted
+
+MEDIUM §
+To Observer
+(a) (b)
+
+FIGURE 10.23 (a) Polarisation of the blue scattered light from the sky.
+The incident sunlight is unpolarised (dots and arrows). A typical
+molecule is shown. It scatters light by 900 polarised normal to
+the plane of the paper (dots only). (b) Polarisation of light
+reﬂected from a transparent medium at the Brewster angle
+(reﬂected ray perpendicular to refracted ray).
+
+The scattering of light by molecules was intensively investigated by
+CV. Raman and his collaborators in Kolkata in the 1920s. Raman was
+awarded the Nobel Prize for Physics in 1930 for this work.
+
+2019-20
+
+8'01 EI’IJWVXﬂ
+
+379

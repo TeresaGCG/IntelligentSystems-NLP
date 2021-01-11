@@ -1,0 +1,31 @@
+236
+
+EXAMPLE 7. 1
+
+ 
+
+ 
+
+Example 7.1 A light bulb is rated at 100W for a 220 V supply. Find
+(a) the resistance of the bulb: (b) the peak voltage of the source: and
+(c) the rms current through the bulb.
+
+Solution
+
+(a) We are given P = 100 W and V = 220 V. The resistance of the
+bulb is
+
+220v2
+V—=(— ) 24849
+P 100w
+
+(b) The peak voltage of the source is
+um = JEV = 311v
+(c) Since. P = I V
+
+P _ 100w
+
+1=__
+V 220V
+
+2 0.454A

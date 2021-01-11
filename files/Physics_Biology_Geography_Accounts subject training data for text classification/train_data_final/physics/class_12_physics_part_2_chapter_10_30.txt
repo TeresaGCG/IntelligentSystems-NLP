@@ -1,0 +1,64 @@
+Wave Optics
+
+ 
+
+= Sim” =tani 10 36
+cosiB B ( ' )
+
+ 
+
+This is known as Brewster’s law.
+
+Example 10.9 Unpolarised light is incident on a plane glass surface.
+What should be the angle of incidence so that the reﬂected and
+refracted rays are perpendicular to each other?
+
+Solution For i + r to be equal to n/Z, we should have tan £3 = u = 1.5.
+This gives iB = 57°. This is the Brewster’s angle for air to glass
+interface.
+
+For simplicity, we have discussed scattering of light by 90°, and
+reﬂection at the Brewster angle. In this special situation, one of the two
+perpendicular components of the electric field is zero. At other angles,
+both components are present but one is stronger than the other. There is
+no stable phase relationship between the two perpendicular components
+since these are derived from two perpendicular components of an
+unpolarised beam. When such light is viewed through a rotating analyser,
+one sees a maximum and a minimum of intensity but not complete
+darkness. This kind of light is called partially polarised.
+
+Let us try to understand the situation. When an unpolarised beam of
+light is incident at the Brewster’s angle on an interface of two media, only
+part of light with electric field vector perpendicular to the plane of
+incidence will be reﬂected. Now by using a good polariser, if we completely
+remove all the light with its electric vector perpendicular to the plane of
+incidence and let this light be incident on the surface of the prism at
+Brewster’s angle, you will then observe no reﬂection and there will be
+total transmission of light.
+
+We began this chapter by pointing out that there are some phenomena
+which can be explained only by the wave theory. In order to develop a
+proper understanding, we first described how some phenomena like
+reﬂection and refraction, which were studied on this basis of Ray Optics
+in Chapter 9, can also be understood on the basis of Wave Optics. Then
+we described Young’s double slit experiment which was a turning point
+in the study of optics. Finally, we described some associated points such
+as diffraction, resolution, polarisation, and validity of ray optics. In the
+next chapter, you will see how new experiments led to new theories at
+the turn of the century around 1900 AD.
+
+SUMMARY
+
+1. Huygens’ principle tells us that each point on a wavefront is a source
+of secondary waves, which add up to give the wavefront at a later time.
+
+2. Huygens’ construction tells us that the new wavefront is the forward
+envelope of the secondary waves. When the speed of light is
+independent of direction, the secondary waves are spherical. The rays
+are then perpendicular to both the wavefronts and the time of travel
+
+2019-20
+
+6‘01 EI’IJWVXQ
+
+381

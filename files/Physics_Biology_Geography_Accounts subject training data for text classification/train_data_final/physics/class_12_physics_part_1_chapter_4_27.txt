@@ -1,0 +1,85 @@
+Moving Chorges and
+
+Magnetism
+
+ 
+
+equilibrium is a stable one. Any small rotation of the coil produces a
+torque which brings it back to its original position. When they are
+antiparallel, the equilibrium is unstable as any rotation produces a torque
+which increases with the amount of rotation. The presence of this torque
+is also the reason why a small magnet or any magnetic dipole aligns
+itself with the external magnetic ﬁeld.
+
+If the loop has N closely wound turns, the expression for torque, Eq.
+(4.29), still holds, with
+
+m = NIA (4.30)
+
+Example 4.11 A 100 turn closely wound circular coil of radius 10 cm
+carries a current of 3.2 A. (a) What is the field at the centre of the
+coil? (b) What is the magnetic moment of this coil?
+
+The coil is placed in a vertical plane and is free to rotate about a
+horizontal axis which coincides with its diameter. A uniform magnetic
+field of 2T in the horizontal direction exists such that initially the
+axis of the coil is in the direction of the field. The coil rotates through
+an angle of 90° under the influence of the magnetic field.
+(c) What are the magnitudes of the torques on the coil in the initial
+and final position? (d) What is the angular speed acquired by the
+coil when it has rotated by 90°? The moment of inertia of the coil is
+0.1 kg m2.
+
+Solution
+
+(a) From Eq. (4.16)
+
+HONI
+
+2R
+
+Here, N= 100; I= 3.2 A, and R = 0.1 m. Hence,
+
+_ 41cx10'7 ><1o2 x3,2 _ 4x10'5 x10
+_ 2x10'1 ' 2x10'1
+= 2 x lO‘ST
+The direction is given by the right-hand thumb rule.
+(b) The magnetic moment is given by Eq. (4.30),
+m=NIA=NIn :2: 100 x3.2 x3.14x 10-2: ioAm2
+
+The direction is once again given by the right-hand thumb rule.
+(c) ’C = |m >< Bl [from Eq. (4.29))
+
+B:
+
+ 
+
+B
+
+ 
+
+(using 7: x 3.2 = 10)
+
+=mBsin6?
+
+Initially, 9 = 0. Thus, initial torque Tl. = 0. Finally, 9 = 15/2 (or 909).
+Thus, final torque T = m B = 10 x 2 = 20 N m.
+
+ 
+
+f
+(d) From Newton’s second law,
+a dw =mB sin6l
+dt
+
+where y is the moment of inertia of the coil. From chain rule,
+d_w _ d_w ﬂ _ (LCD 0,
+dt _ d0 dt d6
+Using this,
+y coda) : mB sinOdO
+
+2019-20
+
+II'V TIME!
+
+159

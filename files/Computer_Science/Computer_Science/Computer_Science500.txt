@@ -1,0 +1,48 @@
+484 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+memory can complete writes is less than the rate at which the processor is gener 
+ating writes, no amount of buffering can help because writes are being generated
+faster than the memory system can accept them.
+The rate at which writes are generated may also be less than the rate at which
+the memory can accept them, and yet stalls may still occur. This can happen when
+the writes occur in bursts. To reduce the occurrence of such stalls, processors usu 
+ally increase the depth of the write buffer beyond a single entry.
+write-back A scheme that han  The alternative to a write-through scheme is a scheme called write-back. In a
+dles writes by updating values
+write-back scheme, when a write occurs, the new value is written only to the block
+only to the block in the cache,
+in the cache. The modified block is written to the lower level of the hierarchy
+then writing the modified block
+when it is replaced. Write-back schemes can improve performance, especially
+to the lower level ofthe hierar 
+when processors can generate writes as fast or faster than the writes can be han 
+chy when the block is replaced.
+dled by main memory; a write-back scheme is, however, more complex to imple 
+ment than write-through.
+In the rest of this section, we describe caches from real processors, and we
+examine how they handle both reads and writes. In Section 7.5, we will describe
+the handling of writes in more detail.
+Elaboration: Writes introduce several complications into caches that are not present
+for reads. Here we discuss two of them: the policy on write misses and efficient imple 
+mentation of writes in write-back caches.
+Consider a miss in a write-through cache. The strategy followed in most write 
+through cache designs, called fetch<!n-miss, fetch<m-write, or sometimes aliocate<Jn 
+miss, allocates a cache block to the address that missed and fetches the rest of the
+block into the cache before writing the data and continuing execution. Alternatively, we
+could either allocate the block in the cache but not fetch the data (called no-fetch<!n 
+write), or even not allocate the block (called no-aliocate<Jn-write). Another name for
+these strategies that do not place the written data into the cache is write-around, since
+the data is written around the cache to get to memory. The motivation for these
+schemes is the observation that sometimes programs write entire blocks of data
+before reading them. In such cases, the fetch associated with the initial write miss may
+be unnecessary. There are a number of subtle issues involved in implementing these
+schemes in multiword blocks, including complicating the handling of write hits by requir 
+ing mechanisms similar to those used for write-back caches.
+Actually implementing stores efficiently in a cache that uses a write-back strategy is
+more complex than in a write-through cache. In a write-back cache, we must write the
+block back to memory if the data in the cache is dirty and we have a cache miss. If we
+simply overwrote the block on a store instruction before we knew whether the store had
+hit in the cache (as we could for a write-through cache), we would destroy the contents
+of the block, which is not backed up in memory. A write-through cache can write the
+data into the cache and read the tag; if the tag mismatches, then a miss occurs.
+Because the cache is write-through, the overwriting of the block in the cache is not cat 
+astrophic since memory has the correct value.

@@ -1,0 +1,84 @@
+MECHANICAL PROPERTIES OF SOLIDS 237
+—
+
+Robert Hooke
+(1635 - 1703 A.D.)
+
+Robert Hooke was born on July 18. 1635 in Freshwater. Isle of Wight. He was
+one of the most brilliant and versatile seventeenth century English scientists.
+He attended Oxford University but never graduated. Yet he was an extremely
+talented inventor. instrument—maker and building designer. He assisted Robert
+Boyle in the construction of Boylean air pump. In 1662. he was appointed as
+Curator of Experiments to the newly founded Royal Society. In 1665. he became
+Professor of Geometry in Gresham College where he carried out his astronomi—
+cal observations. He built a Gregorian reﬂecting telescope: discovered the fifth
+star in the trapezium and an asterism in the constellation Orion: suggested that
+Jupiter rotates on its axis; plotted detailed sketches of Mars which were later
+used in the 19111 century to determine the planet’s rate of rotation: stated the
+inverse square law to describe planetary motion, which Newton modified later
+etc. He was elected Fellow of Royal Society and also served as the Society's
+Secretary from 1667 to 1682. In his series of observations presented in Micrographia. he suggested
+wave theory of light and first used the word ‘cell‘ in a biological context as a result of his studies of cork.
+
+Robert Hooke is best known to physicists for his discovery of law of elasticity: Ut tensio, sic vis [This
+is a Latin expression and it means as the distortion. so the force). This law laid the basis for studies of
+
+stress and strain and for understanding the elastic materials.
+
+As a result of applied tangential force, there
+is a relative displacement Ax between opposite
+faces of the cylinder as shown in the Fig. 9.2(b).
+The strain so produced is known as shearing
+strain and it is defined as the ratio of relative
+displacement of the faces Ax to the length of
+the cylinder L.
+
+Ax
+
+Shearing strain = T = tan 0 (9.3)
+
+where 0 is the angular displacement of the
+cylinder from the vertical (original position of
+the cylinder). Usually 0 is very small, tan 0
+is nearly equal to angle 0, (if 0 = 10°, for
+example, there is only 1% difference between 6
+and tan 9).
+
+k—h—>l
+
+(a) (b)
+
+ 
+
+ 
+
+It can also be visualised, when a book is
+pressed with the hand and pushed horizontally,
+as shown in Fig. 9.2 (c).
+
+Thus, shearing strain = tan (9 z 0 (9.4)
+
+In Fig. 9.2 (d), a solid sphere placed in the
+ﬂuid under high pressure is compressed
+uniformly on all sides. The force applied by the
+ﬂuid acts in perpendicular direction at each
+point of the surface and the body is said to be
+under hydraulic compression. This leads to
+decrease in its volume without any change of
+its geometrical shape.
+
+The body develops internal restoring forces
+that are equal and opposite to the forces applied
+by the ﬂuid (the body restores its original shape
+and size when taken out from the ﬂuid). The
+internal restoring force per unit area in this case
+
+K
+
+{C} (d)
+
+Fig. 9.2 (aJA cylindrical body under tensile stress elongates by AL (b) Shearing stress on a cylinder deforming it by
+an angle 9 (c) A body subjected to shearing stress (d) A solid body under a stress normal to the surface at
+every point (hydraulic stress). The volumetric strain is AV/ V, but there is no change in shape.
+
+2019-20

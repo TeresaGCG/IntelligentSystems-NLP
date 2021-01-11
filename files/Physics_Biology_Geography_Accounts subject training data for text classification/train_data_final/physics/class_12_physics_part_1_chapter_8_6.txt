@@ -1,0 +1,97 @@
+succeeded in producing and observing electromagnetic
+waves of much shorter wavelength (25 mm to 5 mm).
+His experiment, like that of Hertz’s, was conﬁned to the
+laboratory.
+
+At around the same time, Guglielmo Marconi in Italy
+followed Hertz’s work and succeeded in transmitting
+electromagnetic waves over distances of many kilometres.
+Marconi’s experiment marks the beginning of the ﬁeld of
+communication using electromagnetic waves.
+
+8.3.2 Nature of electromagnetic waves
+
+It can be shown from Maxwell’s equations that electric
+and magnetic ﬁelds in an electromagnetic wave are
+perpendicular to each other, and to the direction of
+propagation. It appears reasonable, say from our
+discussion of the displacement current. Consider
+Fig. 8.2. The electric ﬁeld inside the plates of the capacitor
+is directed perpendicular to the plates. The magnetic
+ﬁeld this gives rise to via the displacement current is
+along the perimeter of a circle parallel to the capacitor
+plates. So B and E are perpendicular in this case. This
+is a general feature.
+
+In Fig. 8.4, we show a typical example of a plane
+electromagnetic wave propagating along the z direction
+(the ﬁelds are shown as a function of the z coordinate,
+at a given time t). The electric ﬁeld Ex is along the x—axis,
+and varies sinusoidally with 2, at a given time. The
+magnetic ﬁeld By is along the y-axis, and again varies
+sinusoidally with z. The electric and magnetic ﬁelds Ex
+and By are perpendicular to each other, and to the
+direction 2 of propagation. We can write Ex and By as
+follows:
+
+Ex: EO sin (kz—wt) [8.7(a)]
+By: B0 sin (kz—cot) [87le
+Here k is related to the wave length )1 of the wave by the
+usual equation
+
+27:
+
+k = 7 (8.8)
+
+and a) is the angular frequency.
+k is the magnitude of the wave
+vector (or propagation vector) k
+and its direction describes the
+
+Electromagnetic
+Woves
+
+ 
+
+Heinrich Rudolf Hertz:
+(1857 - 1894) German
+physicist who was the
+first to broadcast and
+receive; radio waves. He
+produced \ electro-
+magnetic waves, sent
+them through space, and
+measured their wave-
+length and speed. He
+showed that the nature
+of their vibration,
+reﬂection and refraction
+was the same as that of
+light and heat waves,
+establishing their
+identity for the ﬁrst time.
+He also pioneered
+research on discharge of
+electricity through gases,
+and discovered the
+photoelectric effect.
+
+(176811.981) ZLHEIH .rI’IOGle HOIHNICEIH
+
+ 
+
+ 
+
+direction of propagation of the
+wave. The speed of propagation
+of the wave is (co/k). Using
+Eqs. [8.7(a) and (b)] for Ex and By
+and Maxwell’s equations, one 275
+ﬁnds that
+
+FIGURE 8.4 A linearly polarised electromagnetic wave.
+propagating in the z—direction with the oscillating electric field E
+along the X—direction and the oscillating magnetic field B along
+the y-direction.
+
+2019-20

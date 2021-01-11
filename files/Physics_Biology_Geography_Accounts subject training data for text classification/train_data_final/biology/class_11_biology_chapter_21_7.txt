@@ -1,0 +1,63 @@
+322 BIOLOGY
+
+2 1.5 REFLEX ACTION AND REFLEX ARC
+
+You must have experienced a sudden withdrawal of a body part which
+comes in contact with objects that are extremely hot, cold pointed or
+animals that are scary or poisonous. The entire process of response to a
+peripheral nervous stimulation, that occurs involuntarily, i.e., without
+conscious effort or thought and requires the involvment of a part of the
+central nervous system is called a reﬂex action. The reﬂex pathway
+comprises at least one afferent neuron (receptor) and one efferent (effector
+or excitor) neuron appropriately arranged in a series (Figure 2 1.5). The
+afferent neuron receives signal from a sensory organ and transmits the
+impulse via a dorsal nerve root into the CNS (at the level of spinal cord).
+The efferent nueuron then carries signals from CNS to the effector. The
+stimulus and response thus forms a reﬂex arc as shown below in the
+knee jerk reﬂex. You should carefully study Figure 2 1.5 to understand
+the mechanism of a knee jerk reﬂex.
+
+Dorsal root White
+
+Afferent pathway ganglion matter
+
+      
+  
+  
+ 
+ 
+  
+ 
+
+Muscle spindle
+(receptor)
+
+Gray
+matter
+
+    
+
+Interneuron
+
+  
+
+Motor endplate
+[effector]
+
+Efferent pathway Motor
+
+neuron
+Response
+
+V
+
+Figure 21.5 Diagrammatic presentation of reﬂex action (showing knee jerk reﬂex]
+
+21.6 SENSORY RECEPTION AND PROCESSING
+
+Have you ever thought how do you feel the climatic changes in the
+environment? How do you see an object and its colour? How do you
+hear a sound? The sensory organs detect all types of changes in the
+environment and send appropriate signals to the CNS, where all the inputs
+are processed and analysed. Signals are then sent to different parts/
+centres of the brain. This is how you can sense changes in the environment.

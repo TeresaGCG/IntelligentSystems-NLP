@@ -1,0 +1,74 @@
+140 PIIYSICS
+
+ 
+
+APPENDIX 6. 1 : POWER CONSUMPTION IN WALKING
+
+The table below lists the approximate power expended by an adult human of mass 60 kg.
+
+Table 6.4 Approximate power consumption
+
+Mechanical work must not be confused with the everyday usage
+Sleeping 75 of the term work. A woman standing with a very heavy load on
+Slow Walking 200 her head may get very tired. But no mechanical work is involved.
+Bicycling 500 That is not to say that mechanical work cannot be estimated in
+
+Heart beat 12 ordinary human activity.
+
+ 
+
+Consider a person walking with constant speed we. The mechanical work he does may be estimated simply
+
+with the help of the work—energy theorem. Assume :
+
+(a) The major work done in walking is due to the acceleration and deceleration of the legs with each stride
+[See Fig. 6.20).
+
+[b] Neglect air resistance.
+
+[c] Neglect the small work done in lifting the legs against gravity.
+
+[d] Neglect the swinging of hands etc. as is common in walking.
+
+As we can see in Fig. 6.20, in each stride the leg is brought from rest to a speed, approximately equal to the
+speed of walking, and then brought to rest again.
+
+ 
+
+4—1 stride -—>
+
+Fig. 6.20 An illustration of a single stride in walking. While the ﬁrst leg is maximally off the round, the second leg
+is on the ground and vice-versa
+
+The work done by one leg in each stride is ml [)3 by the work—energy theorem. Here ml is the mass of the leg.
+
+Note ml vg/Z energy is expended by one set of leg muscles to bring the foot from rest to speed v0 while an
+
+additional ml v3 /2 is expended by a complementary set of leg muscles to bring the foot to rest from speed v0.
+Hence work done by both legs in one stride is (study Fig. 6.20 carefully)
+WS=2ml mg [6.34)
+
+Assuming mass of the leg ml: 10 kg and slow running with a speed of 10 km in a hour which translates to
+approximately 3 m s‘l, we obtain
+
+WS 2 180 J / stride
+
+If we take a stride to be 2 m long, the person covers 1.5 strides per second at his speed of 3 m s‘l. Thus the
+power expended
+
+ 
+
+ 
+
+P=180 J x1.5 snide
+stride second
+= 270 W
+
+We must bear in mind that this is a lower estimate since several avenues of power loss [e.g. swinging of hands,
+air resistance etc.) have been ignored. The interesting point is that we did not worry about the forces involved.
+The forces, mainly friction and those exerted on the leg by the muscles of the rest of the body, are hard to
+estimate. Static friction does no work and we bypassed the impossible task of estimating the work done by the
+muscles by taking recourse to the work—energy theorem. We can also see the advantage of a wheel. The wheel
+permits smooth locomotion without the continual starting and stopping in mammalian locomotion.
+
+2019-20

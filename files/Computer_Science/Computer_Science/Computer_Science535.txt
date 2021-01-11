@@ -1,0 +1,41 @@
+7.4 Virtual Memory 519
+process, and these tables controlling memory are in memory; the details of this
+seeming contradiction will be explained shortly.
+For example, suppose the page references (in order) were 10, 12,9,7, II , 10,
+and then we referenced page 8, which was not present in memory. The LRU page
+is 12; in LRU replacement, we would replace page 12 in main memory with page
+8. If the next reference also generated a page fault, we would replace page 9, since
+it would then be the LRU among the pages present in memory.
+Implementing a completely accurate LRU scheme is too expensive, since it Hardware
+requires updating a data stmcture on every memory reference. Instead, most
+Software
+operating systems approximate LRU by keeping track of which pages have and
+Interface
+which pages have not been recently used. To help the operating system estimate
+the LRU pages, some computers provide a use bit or reference bit, which is set
+whenever a page is accessed. The operating system periodically clears the refer  reference bit Also called use
+bit. Afield that is set whenever a
+ence bits and later records them so it can determine which pages were touched
+page is accessed and that is used
+during a particular time period. With this usage information, the operating sys 
+to implement LRU or other
+tem can select a page that is among the least recently referenced (detected by hav 
+replacement schemes.
+ing its reference bit off). If this bit is not provided by the hardware, the operating
+system must find another way to estimate which pages have been accessed.
+Elaboration: With a 32-bit virtual address, 4 KB pages, and 4 bytes per page table
+entry, we can compute the total page table size:
+Number of page table entries = ~ = 220
+2"
+b~~S
+Size of page table = 220 page table entries x 22 = 4 MB
+page ta e entry
+That is, we would need to use 4 MB of memory for each program in execution at any
+time. On a computer with tens to hundreds of active programs and a fixed-size page
+table, most or all of the memory would be tied up in page tables!
+A range of techniques is used to reduce the amount of storage required for the page
+table. The five techniques below aim at reducing the total maximum storage required as
+well as minimizing the main memory dedicated to page tables:
+1. The simplest technique is to keep a limit register that restricts the size of the page
+table for a given precess. If the virtual page number becomes larger than the con 
+tents of the limit register, entries must be added to the page table. This technique

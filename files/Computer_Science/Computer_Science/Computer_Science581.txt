@@ -1,0 +1,19 @@
+8.1 Introduction 566
+8.2 Disk Storage and Dependability 569
+III 8.3 Networks 580
+8A Buses and OUte, Connections between Processors, Memory, and I/O
+Devices 58 1
+8.5 Interfacing I/ O Devices to the Processor, Memory, and Operating
+System 588
+8.6 I/ O Performance Measures: Examples from Disk and File Systems 597
+I/O
+8.7 Desigrling an System 600
+8.8 Real Stuff: A Digital Camera 603
+8.9 Fallacies and Pitfalls 606
+8.10 Concluding Remarks 609
+III 8.11 Historical Perspective and Further Reading 611
+8.12 Exercises 611
+The Five Classic Components of a Computer
+Interlace
+Evaluating
+p.""'""",,,

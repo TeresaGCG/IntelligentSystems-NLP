@@ -1,0 +1,35 @@
+338 Chapter 5 The Processor: Datapath and Control
+Combinational
+control logic Datapath control outputs
+Outputs
+Inputs
+,
+,
+A
+Next state
+State register
+Inputs from instruction
+register opcode field 1
+FIGURE 5.37 Finite state machine controllers are typically Implemented using a block of
+combinational logic: and a register to hold the current state. The outputs of the combinational
+logic are the next-state nwnber and the control signals to be asserted for the current state. The inputs to the
+oombinMionailogic are the current state and any inputs used to determine the next stale. In this case,the inputs
+are the instruction register opcooe bits. Notice that in the finite state machine used in this chapter, the outputs
+depend only on the current state, not on the inputs. The 8.1boration above explains this in more detail.
+instructions are one universal example. There are many examples the IA-32
+III
+architecture that require the use of multicycle control.
+Elaboration: The style of finite state machine in Figure 5.37 is called a Moore
+machine, after Edward Moore. Its identifying characteristic is that the output depends
+only on the current state. For a Moore machine, the box labeled combinational control
+logic can be split into two pieces. One piece has the control output and only the state
+input, while the other has only the next-state output.
+An alternative style of machine is a Mealy machine, named after George Mealy. The
+Mealy machine allows both the input and the current state to be used to determine the
+output. Moore machines have potential implementation advantages in speed and size
+of the control unit. The speed advantages arise because the control outputs, which are
+needed early in the clock cycle, do not depend on the inputs, but only on the current
+III
+state. In Appendix C, when the implementation of this finite state machine is taken
+down to logic gates, the size advantage can be clearly seen.The potential disadvantage
+of a Moore machine is that it may require additional states. For example, in situations

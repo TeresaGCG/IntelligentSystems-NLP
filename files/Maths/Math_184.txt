@@ -1,0 +1,28 @@
+Homework Helpers: Basic Math and Pre-Algebra
+184
+Example 1
+Find the perimeter of the triangle
+shown in Figure 10.6. 6
+3
+Solution: The perimeter of the triangle
+is 5 + 3 + 6 = 14.
+5
+ Figure 10.6
+Example 2
+Find the perimeter of the rectangle
+shown in Figure 10.7.
+5
+Solution: Opposite sides of a rectangle
+have the same length, so the perimeter
+10
+of the rectangle is 10 + 10 + 5 + 5 = 30. Figure 10.7
+It’s time to show you how algebra can be used to solve problems in
+geometry.
+Example 3
+The length of a rectangle is 7 inches long and the perimeter of the
+rectangle is 20 inches. Find the width of the rectangle.
+Solution: Let x represent the width of the rectangle that we are
+trying to find. Because the perimeter is 20 inches, we know that
+7 + 7 + x + x = 20. We can then solve for x:
+So, the width of the rectangle is 3 inches long.
+www.ebook3000.com

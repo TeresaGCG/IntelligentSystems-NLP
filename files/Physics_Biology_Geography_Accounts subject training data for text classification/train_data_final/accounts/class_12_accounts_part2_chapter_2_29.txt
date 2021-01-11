@@ -1,0 +1,58 @@
+Issue and Redemption of Debentures 1 01
+
+Note: Discount on Issue of Debentures is written-off in 5 years, presuming that
+debentures are redeemable after 5 years.
+
+Books of X Ltd.
+Journal
+
+Bank A/c Dr.
+To Debenture Application and Allotment A/c
+
+(Debenture application money received)
+
+Debenture Application and Allotment A/c Dr.
+To 9% Debentures A/c
+To Securities Premium Reserve A/c
+(Debentures application money transferred to
+Debentures Ale and securities premium reserve A/c)
+
+X Ltd.
+Balance Sheet as at
+
+ 
+
+I. Equity and Liabilities
+
+1. Shareholder‘s funds
+Reserves and surplus
+
+2. Non-current Liabilities
+Long-term borrowings
+
+II. Assets
+1. Current assets
+Cash and cash equivalents
+
+ 
+
+Notes to Accounts
+
+{Rs}
+
+ 
+
+Reserves and surplus -
+Securities premium reserve 4,000
+2. Long-term borrowings
+80. 9% debentures of Rs 1,000 each
+Books of X Ltd.
+((1) Journal
+
+ 
+
+Debenture Suspense A/c Dr. 40,000
+
+To 8% Debentures A/c 40,000
+(Issue of 400. 8% debentures of Rs 100 each as
+collateral security against a loan of Rs 40,000)

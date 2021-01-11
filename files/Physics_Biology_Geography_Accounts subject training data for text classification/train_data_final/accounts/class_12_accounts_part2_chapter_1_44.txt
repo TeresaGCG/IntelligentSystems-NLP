@@ -1,0 +1,63 @@
+Accounting for Share Capital 4 5
+
+Bank A/c . 1.61.280
+Calls-in-Arrears A/c . 6.720
+To Equity Share AlloUnent A/c 1.68.000
+
+(Money received consequent upon allotment)
+
+Equity Share Call A/c . 1.20.000
+To Equity Share Capital A/c 1.20.000
+
+(First call money due on 40.000
+shares @ Rs. 3 per share)
+
+Bank A/c . 1.09.200
+Calls-in-Arrears A/c . 10.800
+
+To Equity Share Call A/c 1.20.000
+(Money received on ﬁrst call)
+
+Equity Share Capital A/c
+Securities Premium Reserve A/c
+To Share Forfeiture A/c
+To Call-in-Arrears A/c
+(Entry for forfeiture of 3.600 shares)
+
+ 
+
+Working Notes :
+I. Amount received on allotment Rs.
+(a) Amount due on allotInent 2.00.000
+40.000 shares X Rs. 5 per share
+(b) Amount actually due on allotment 2.00.000
+Amount due on allotInent
+Less Excess Application amount applied for allotment 32.000
+Amount actually due 1.68.000
+
+(C)
+
+(d)
+
+Allotment amount due from Chitnis
+
+Allotment money due on Chitnis’s share
+
+1,600 shares X Rs. 5 per share 8.000
+Less excess application money paid
+
+Due to pro-rata distribution —
+
+(1.920 shares — 1.600 shares) 320 X 4 1.280
+Allotment amount due from Chitnis 6.720
+
+According to the ratio of pro-rata distribution (40.000 shares : 48.000 shares).
+for 1,600 shares to be allotted. Chitnis must have applied for 1,920 shares
+(1,600 shares X 6/5).
+
+Allotment money received
+
+(Amount actually due on Allotment) 1.68.000
+Less Amount unpaid by Chitnis 16.7201
+
+Amount received 1 .6 1.280

@@ -1,0 +1,79 @@
+MECHANICAL PROPERTIES OF FLUIDS 2 71
+—
+
+10.
+
+11.
+
+Bernoulli’s principle states that as we move along a streamline, the sum of the
+pressure (P), the kinetic energy per unit volume (p v2 / 2) and the potential energy per
+unit volume (pgy) remains a constant.
+
+P+ pu2/2 + pgy = constant
+
+The equation is basically the conservation of energy applied to non viscuss ﬂuid
+motion in steady state. There is no ﬂuid which have zero viscosity, so the above
+statement is true only approximately. The viscosity is like friction and converts the
+kinetic energy to heat energy.
+
+Though shear strain in a ﬂuid does not require shear stress, when a shear stress is
+applied to a ﬂuid, the motion is generated which causes a shear strain growing
+with time. The ratio of the shear stress to the time rate of shearing strain is known
+as coefﬁcient of viscosity, 1}
+
+where symbols have their usual meaning and are defined in the text.
+
+Stokes’ law states that the viscous drag force F on a sphere of radius a moving with
+velocity v through a ﬂuid of viscosity is, F = — 6mav.
+
+Surface tension is a force per unit length [or surface energy per unit area) acting in
+the plane of interface between the liquid and the bounding surface. It is the extra
+energy that the molecules at the interface have as compared to the interior.
+
+POINTS TO PONDER
+
+1.
+
+Pressure is a scalar quantity. The definition of the pressure as “force per unit area" may
+give one false impression that pressure is a vector. The “force" in the numerator of the
+definition is the component of the force normal to the area upon which it is impressed.
+
+While describing ﬂuids as a concept. shift from particle and rigid body mechanics is
+required. We are concerned with properties that vary from point to point in the ﬂuid.
+One should not think of pressure of a ﬂuid as being exerted only on a solid like the
+
+walls of a container or a piece of solid matter immersed in the ﬂuid. Pressure exists at
+all points in a ﬂuid. An element of a ﬂuid {such as the one shown in Fig. 10.2] is in
+equilibrium because the pressures exerted on the various faces are equal.
+
+The expression for pressure
+
+P= Pu+ p gh
+
+holds true if ﬂuid is incompressible. Practically speaking it holds for liquids. which
+are largely incompressible and hence is a constant with height.
+
+The gauge pressure is the difference of the actual pressure and the atmospheric pressure.
+P— P = P
+
+Many pressure—measuring devices measure the gauge pressure. These include the tyre
+pressure gauge and the blood pressure gauge (sphygmomanometer).
+
+A streamline is a map of ﬂuid ﬂow. In a steady ﬂow two streamlines do not intersect as
+it means that the ﬂuid particle will have two possible velocities at the point.
+Bernoulli’s principle does not hold in presence of viscous drag on the ﬂuid. The work
+done by this dissipative viscous force must be taken into account in this case. and P2
+[Fig 10.9] will be lower than the value given by Eq. (10.12).
+
+As the temperature rises the atoms of the liquid become more mobile and the coefficient
+of viscosity. 1] falls. In a gas the temperature rise increases the random motion of
+atoms and nincreases.
+
+Surface tension arises due to excess potential energy of the molecules on the surface
+in comparison to their potential energy in the interior. Such a surface energy is present
+at the interface separating two substances at least one of which is a ﬂuid. It is not the
+property of a single ﬂuid alone.
+
+ 
+
+2019-20

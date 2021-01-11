@@ -1,0 +1,85 @@
+10
+
+Kingdom
+
+Phylum or Division
+
+T
+
+Class
+
+T
+
+Order
+
+T
+
+Family
+
+T
+
+Genus
+
+T
+
+Species
+
+Figure 1.1 Taxonomic
+categories
+s h o W i n g
+hierarchial
+arrangement
+in ascending
+order
+
+BioquY
+
+1.3.4 Order
+
+You have seen earlier that categories like species, genus and
+families are based on a number of similar characters. Generally,
+order and other higher taxonomic categories are identiﬁed based
+on the aggregates of characters. Order being a higher category,
+is the assemblage of families which exhibit a few similar
+characters. The similar characters are less in number as
+compared to different genera included in a family. Plant families
+like Convolvulaceae, Solanaceae are included in the order
+Polymoniales mainly based on the ﬂoral characters. The animal
+order, Carnivora, includes families like Felidae and Canidae.
+
+1.3.5 Class
+
+This category includes related orders. For example, order Primata
+comprising monkey, gorilla and gibbon is placed in class
+Mammalia along with order Carnivora that includes animals like
+tiger, cat and dog. Class Mammalia has other orders also.
+
+1 .3.6 Phylum
+
+Classes comprising animals like ﬁshes, amphibians, reptiles, birds
+along with mammals constitute the next higher category called
+Phylum. All these, based on the common features like presence
+of notochord and dorsal hollow neural system, are included in
+phylum Chordata. In case of plants, classes with a few similar
+characters are assigned to a higher category called Division.
+
+1 .3.7 Kingdom
+
+All animals belonging to various phyla are assigned to the
+highest category called Kingdom Animalia in the classification
+system of animals. The Kingdom Plantae, on the other hand, is
+distinct, and comprises all plants from various divisions.
+Henceforth, we will refer to these two groups as animal and
+plant kingdoms.
+
+The taxonomic categories from species to kingdom have been
+shown in ascending order starting with species in Figure 1.1.
+These are broad categories. However, taxonomists have also
+developed sub-categories in this hierarchy to facilitate more
+sound and scientific placement of various taxa.
+
+Look at the hierarchy in Figure 1 . 1. Can you recall the basis
+of arrangement? Say, for example, as we go higher from species
+to kingdom, the number of common characteristics goes on
+
+201 9-2020

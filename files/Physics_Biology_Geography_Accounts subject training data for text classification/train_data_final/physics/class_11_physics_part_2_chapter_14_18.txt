@@ -1,0 +1,88 @@
+OSCILLATIONS
+
+359
+
+ 
+
+swings is a good example of resonance. You
+might have realised that the skill in swinging to
+greater heights lies in the synchronisation of
+the rhythm of pushing against the ground with
+the natural frequency of the swing.
+
+To illustrate this point further, let us
+consider a set of five simple pendulums of
+assorted lengths suspended from a common rope
+as shown in Fig. 14.22. The pendulums 1 and 4
+have the same lengths and the others have
+different lengths. Now, let us set pendulum 1
+into motion. The energy from this pendulum gets
+transferred to other pendulums through the
+connecting rope and they start oscillating. The
+driving force is provided through the connecting
+rope. The frequency of this force is the frequency
+with which pendulum 1 oscillates. If we observe
+the response of pendulums 2, 3 and 5, they first
+start oscillating with their natural frequencies
+of oscillations and different amplitudes, but this
+
+ 
+
+5
+Fig. 14.22 Five simple pendulums of different
+lengths suspended from a common
+support.
+
+motion is gradually damped and not sustained.
+Their frequencies of oscillation gradually
+change, and ultimately, they oscillate with the
+frequency of pendulum 1, i.e., the frequency of
+the driving force but with different amplitudes.
+They oscillate with small amplitudes. The
+response of pendulum 4 is in contrast to this
+set of pendulums. It oscillates with the same
+frequency as that of pendulum 1 and its
+amplitude gradually picks up and becomes very
+large. A resonance-like response is seen.
+This happens because in this the condition for
+resonance is satisfied, i.e. the natural frequency
+of the system coincides with that of the
+driving force.
+
+We have so far considered oscillating systems
+which have just one natural frequency. In
+general, a system may have several natural
+frequencies. You will see examples of such
+systems (vibrating strings, air columns, etc.) in
+the next chapter. Any mechanical structure, like
+a building, a bridge, or an aircraft may have
+several possible natural frequencies. An
+external periodic force or disturbance will set
+the system in forced oscillation. If, accidentally,
+the forced frequency cod happens to be close to
+one of the natural frequencies of the system,
+the amplitude of oscillation will shoot up
+(resonance), resulting in possible damage. This
+is why, soldiers go out of step while crossing a
+bridge. For the same reason, an earthquake will
+not cause uniform damage to all buildings in
+an affected area, even if they are built with the
+same strength and material. The natural
+frequencies of a building depend on its height,
+other size parameters, and the nature of
+building material. The one with its natural
+frequency close to the frequency of seismic wave
+is likely to be damaged more.
+
+SUMMARY
+
+1. The motion that repeats itself is called periodic motion.
+
+2. The period Tis the time required for one complete oscillation, or cycle. It is related to
+
+the frequency v by,
+
+T21
+V
+
+2019-20

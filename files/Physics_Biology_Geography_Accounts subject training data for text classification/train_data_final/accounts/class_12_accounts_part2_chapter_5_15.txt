@@ -1,0 +1,24 @@
+Accounting Ratios 203
+
+(long-term debts + current liabilities) to total assets, i.e., total of non-current
+and current assets (or shareholders', funds + long-term debts + current liabilities),
+and is expressed as
+
+5. 7.3 Proprietary Ratio
+
+Proprietary ratio expresses relationship of proprietor's (shareholders) funds to
+net assets and is calculated as follows :
+
+Proprietary Ratio = Shareholders', Funds/ Capital employed (or net assets)
+Based on data of Illustration 7, it shall be worked out as follows:
+
+Rs. 15,00,000/Rs. 20,00,000 = 0.75: 1
+
+Signiﬁcance: Higher proportion of shareholders funds in ﬁnancing the assets is
+a positive feature as it provides security to creditors. This ratio can also be
+computed in relation to total assets instead of net assets (capital employed). It
+may be noted that the total of debt to capital employed ratio and proprietory
+ratio is equal to 1. Take these ratios worked out on the basis of data of Illustration
+7, the debt to Capital Employed ratio is 0.25 : 1 and the Proprietory Ratio
+0.75 : 1 the total is 0.25 + 0.7 5 = 1. In terms of percentage it can be stated that
+the 25%

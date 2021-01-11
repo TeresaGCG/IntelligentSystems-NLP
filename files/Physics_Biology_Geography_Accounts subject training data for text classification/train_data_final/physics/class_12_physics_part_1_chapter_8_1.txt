@@ -1,0 +1,120 @@
+5
+[\
+oo
+v—l
+H'
+3
+S
+A
+5
+§
+3
+O
+(D
+(:1
+i
+
+ 
+
+270
+
+ 
+
+James Clerk Maxwell
+(1831 - 1879) Born in
+Edinburgh, Scotland,
+was among the greatest
+physicists of the
+nineteenth century. He
+derived the thermal
+velocity distribution of
+molecules in a gas and
+was among the first to
+
+obtain reliable
+estimates of molecular
+parameters from
+
+measurable quantities
+like viscosity, etc.
+Maxwell’s greatest
+acheivement was the
+uniﬁcation of the? laWS of
+electricity and
+magnetism (discovered
+by Coulomb, Oersted,
+Ampere and Faraday)
+into a consistent set of
+equations now called
+Maxwell’s equations.
+From these he arrived at
+the most important
+conclusion that light is
+an electromagnetic
+wave. Interestingly,
+Maxwell did not agree
+with the idea (strongly
+suggested by the
+Faraday’s laws of
+electrolysis) that
+electricity was
+particulate in nature.
+
+ 
+
+ 
+
+the speed of light( 3 X 108 m/s), obtained from optical
+measurements. This led to the remarkable conclusion
+that light is an electromagnetic wave. Maxwell’s work
+thus unified the domain of electricity, magnetism and
+light. Hertz, in 1885, experimentally demonstrated the
+existence of electromagnetic waves. Its technological use
+by Marconi and others led in due course to the
+revolution in communication that we are witnessing
+today.
+
+In this chapter, we first discuss the need for
+displacement current and its consequences. Then we
+present a descriptive account of electromagnetic waves.
+The broad spectrum of electromagnetic waves,
+stretching from y rays (wavelength ~10‘12 m) to long
+radio waves (wavelength ~ 106 m) is described. How the
+electromagnetic waves are sent and received for
+communication is discussed in Chapter 1 5.
+
+8.2 DISPLACEMENT CURRENT
+
+We have seen in Chapter 4 that an electrical current
+produces a magnetic ﬁeld around it. Maxwell showed
+that for logical consistency, a changing electric ﬁeld must
+also produce a magnetic ﬁeld. This effect is of great
+importance because it explains the existence of radio
+waves, gamma rays and visible light, as well as all other
+forms of electromagnetic waves.
+
+To see how a changing electric ﬁeld gives rise to
+a magnetic field, let us consider the process of
+charging of a capacitor and apply Ampere’s circuital
+law given by (Chapter 4)
+
+§B~dl = #0 i (t) (8.1)
+
+to ﬁnd magnetic ﬁeld at a point outside the capacitor.
+Figure 8. 1 (a) shows a parallel plate capacitor C which
+is a part of circuit through which a time-dependent
+current i (t) ﬂows . Let us ﬁnd the magnetic field at a
+point such as P, in a region outside the parallel plate
+capacitor. For this, we consider a plane circular loop of
+radius rwhose plane is perpendicular to the direction
+of the current-carrying Wire, and which is centred
+symmetrically with respect to the wire [Fig. 8.1(a)]. From
+symmetry, the magnetic ﬁeld is directed along the
+circumference of the circular loop and is the same in
+magnitude at all points on the loop so that if B is the
+magnitude of the ﬁeld, the left side of Eq. (8.1) is B (27: r).
+So we have
+
+B (2117) = ,uoi (t) (8 .2)
+
+2019-20

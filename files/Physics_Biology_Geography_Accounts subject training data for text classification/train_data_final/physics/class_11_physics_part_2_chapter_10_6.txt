@@ -1,0 +1,115 @@
+256
+
+PIIYSICS
+
+ 
+
+F1112
+
+ 
+
+placed on the platform) F2 = PA2 = . By
+
+1
+changing the force at Al, the platform can be
+moved up or down. Thus, the applied force has
+
+A
+been increased by a factor of 7‘2 and this factor
+1
+
+is the mechanical advantage of the device. The
+example below clarifies it.
+
+ 
+
+Fig 1 0.6 (b) Schematic diagram illustrating the principle
+behind the hydraulic lift, a device used to
+lift heavy loads.
+
+Example 10.5 Two syringes of different
+cross-sections (without needles) ﬁlled with
+water are connected with a tightly ﬁtted
+rubber tube filled with water. Diameters of
+the smaller piston and larger piston are 1.0
+cm and 3.0 cm respectively. (a) Find the
+force exerted on the larger piston when a
+force of 10 N is applied to the smaller piston.
+(b) If the smaller piston is pushed in through
+6.0 cm, how much does the larger piston
+move out?
+
+ 
+
+Answer (a) Since pressure is transmitted
+undiminished throughout the ﬂuid,
+
+32 0‘2 2
+ngamzmxm
+7r(1/2><10‘2m)
+
+=90N
+
+Archimedes (28 7-2 1 2 B. C.)
+
+ 
+
+(b) Water is considered to be perfectly
+incompressible. Volume covered by the
+movement of smaller piston inwards is equal to
+volume moved outwards due to the larger piston.
+
+L1A1 : L2A2
+A 75(1/2x10‘2m)2
+
+L2 =—1L1=—2><6><10‘2m
+A2 7t(3/2x10'2m
+
+: 0.67 x 10'2m = 0.67 cm
+Note, atmospheric pressure is common to both
+pistons and has been ignored. 4
+
+Example 1 0.6 In a car lift compressed air
+exerts a force F1 on a small piston having
+a radius of 5.0 cm. This pressure is
+transmitted to a second piston of radius
+
+15 cm (Fig 10.7). If the mass of the car to
+be lifted is 1350 kg, calculate Fl. What is
+the pressure necessary to accomplish this
+
+task? (g = 9.8 mS'Z).
+
+ 
+
+Answer Since pressure is transmitted
+undiminished throughout the ﬂuid,
+
+X —2 2
+F1 = ﬁg = W (1350kg x9.8ms‘2)
+= 1470N
+z 1.5x 103N
+
+The air pressure that will produce this
+force is
+
+This is almost double the atmospheric
+pressure. 4
+Hydraulic brakes in automobiles also work on
+the same principle. When we apply a little force
+on the pedal with our foot the master piston
+
+Archimedes was a Greek philosopher. mathematician, scientist and engineer. He
+invented the catapult and devised a system of pulleys and levers to handle heavy
+loads. The king of his native city Syracuse. Hiero II. asked him to determine if his gold
+
+crown was alloyed with some cheaper metal, such as silver without damaging the crown.
+. The partial loss of we1ght he experienced while lying 1n his bathtub suggested a solution
+to him. According to legend he ran naked through the streets of Syracuse exclaiming “.Eureka
+eureka!‘. which means "I have found it. I have found it!"
+
+ 
+
+ 
+
+2019-20

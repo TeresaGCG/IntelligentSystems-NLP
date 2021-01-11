@@ -1,0 +1,41 @@
+276 Chapter 4 Assessing and Understanding Performance
+II
+4.29 [4 hours) <§4.3> In More Depth: MIPS, MOPS, and Other FLOPS
+4.30 [51<§4.3> . In More Depth: MFLOPS as a Performance Metric
+4.31 [15) <§4.3> .. In More Depth: MFLOPS as a Perfo rmance metric
+II
+4.32 [4 hours) <§4.3> In More Depth: MFLOPS as:1 Perfo rmance Metric
+4.33 [51<§4.3> .. In More Depth: Embedded Benchmarks
+II
+4.34 [20 ) <§§4.2, 4.3> In More Depth: Using Hardware- Independent Metrics
+to Try to Pred ict Performance
+4.35 (10 ) <§§4.2, 4.3> .. For More Practice: Analyzing a Processor with Float 
+ing-Point Implemented in Hardwa re or Softwa re
+4.36 (10 ) <§§4.2, 4.3> • For More Practice: Analyzing a Processor with Float 
+ing point implemented in Hardwa re o r Software
+III
+4.37 [51<§§4.2, 4.3> For More Practice: Analyzing a Processor with Floating
+Point Implemented in Hardware o r Software
+II
+4.38 (10 ) <§§4.2, 4.3> For More Practice: Analyzing Enhancem ents to a
+Processor
+II
+4.39 (5 ) <§§4.2, 4.3> For More Practice: Analyzing Enhancements to a
+Processor
+II
+4.40 (10 ) <§§4.2, 4.3> For More Practice: Analyzing Enhancem ents to a
+Processor
+4.41 (5 ) <§§4.2, 4.3> .. For More Practice: Analyzing Enhancements to a
+Processor
+4.42 (5 ) <§§4.2, 4.3> .. For More Practice: Analyzing Enhancements to a
+Processor
+4.43 (10 ) <§§4.2, 4.3> .. For More Practice: Analyzing Enhancem ents to a
+Processor
+4.44 (10 ) <§§4.2, 4.3> .. For More Practice: Analyzing Enhancem ents to a
+Processor
+4.45 (5] <§4.3> Assume that multiply instmctions take 12 cycles and account for
+15% of the instructions in a typical program, and the other 85% of the instructions
+require an average of 4 cycles fo r each instmction. What percentage of time does
+the CPU spend doing multiplication?
+4.46 (5] <§4.3> Your hardware engineering team has indicated that it would be
+possible to reduce the number of cycles required for multiplication to 8 in Exercise

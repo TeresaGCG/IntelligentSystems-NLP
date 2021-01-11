@@ -1,0 +1,19 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Inequalities and Graphs
+Solving equations involves working with equalities. We have some
+guidelines for how to transform equations so that the solution can be
+determined easily. These transformations are possible because equality is
+an equivalence relation. Remember that an equivalence relation is a rela-
+tion that has the reflexive, symmetric, and transitive properties. It’s time
+to introduce you to two new relations: less than and greater than. We call
+these two relations inequalities.
+Lesson 8-1: Inequalities
+An inequality is an algebraic statement that compares two algebraic
+expressions that are not necessarily equal. I mentioned four basic in-
+equalities in Chapter 1 and I’ll summarize them here:
+Symbol Meaning Example
+< Is less than 5 < 8
+≤ Is less than or equal to 5 ≤ 8, 5 ≤ 5
+> Is greater than 8 > 5
+≥ Is greater than or equal to 8 ≥ 5, 5 ≥ 5
+143

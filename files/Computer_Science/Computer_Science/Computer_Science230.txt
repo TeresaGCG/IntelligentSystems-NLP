@@ -1,0 +1,57 @@
+214 Chapter 3 Arithmetic: for Computers
+exactly in double precision floating point. The best we ca n do is get the floating 
+point representation close to the actual number. Thus, IEEE 754 offers several
+guard The first oft\\'o extra
+bits kept on the right during modes of rounding to let the programmer pick the desired approximation.
+intermediate calculations of Rounding sounds simple enough, but to round accurately requires the hard 
+floating-point numbers; used to
+ware to include extra bits in the calculation. In the preceding examples, we were
+improve rounding accuracy.
+vague on the number of bits that an intermediate representation can occupy, but
+round Method to make the clearly if every intermediate result had to be truncated to the exact number of dig 
+intermediate floating-point its, there would be no opportunity to round. IEEE 754, therefore, always keeps 2
+result fit the floating-point for 
+extra bits on the right during intermediate additions, called guard and round,
+mat; the goal is typically to find
+respectively. Let's do a decimal exam ple to illustrate the value of these extra digits.
+the nearest number that can be
+represented in the format.
+Rounding with Guard Digits
+2
+Add 2.56 x 10° to 2.34 x 10 assuming that we have three significant
+ten ten ,
+EXAMPLE
+decimal digits. Round to the nearest decimal number with three significant
+decimal digits, first with gua rd and round digits, and then without them .
+First we must shift the smaller number to the right to align the exponents, so
+ANSWER 2
+2.56 X 10° becomes 0.0256 X 10 Since we have guard and round digits,
+ten ten •
+we are able to represent the two least significant digits when we align expo 
+nents. The guard digit holds 5 and the round digit holds 6. The sum is
+2.3400
+ten
++ O.0256
+ten
+2.3656
+ten
+2
+Thus the sum is 2.3656 X 10 Since we have two digits to round, we want
+ten •
+values 0 to 49 to round down and 51 to 99 to round up, with 50 being the tie 
+breaker. Rounding the sum up with three significant digits yields 2.37 X
+ten
+2
+10
+•
+Doing this without guard and round digits drops two digits from the calcu 
+lation. The new sum is then
+2.34
+ten
++ O.02
+ten
+2.36
+ten
+2
+The answer is 2.36 X 10 off by 1 in the last digit from the sum above.
+ten ,

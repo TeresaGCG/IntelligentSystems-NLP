@@ -1,0 +1,42 @@
+Homework Helpers: Basic Math and Pre-Algebra
+28
+Our tree is getting longer:
+420
+420= 2 × 210
+= 2 × 2 × 105
+2 210
+= 2 × 2 × 3 × 35.
+Now we need to factor 35:
+2 105
+5 × 7 = 35 and both 5 and 7 are
+primes so we are done:
+3 35
+420= 2 × 210
+= 2 × 2 × 105
+5 7
+= 2 × 2 × 3 × 35
+= 2 × 2 × 3 × 5 × 7. Figure 1.1
+The factor tree can be visualized as a tree with branches as shown
+in Figure 1.1.
+You will be surprised at how useful factoring will be.
+If two numbers have no common factor other than 1, they are said to
+be relatively prime. For example, 15 and 8 are relatively prime, because
+the factors of 15 are 3, 5, and 15, and the factors of 8 are 2, 4, and 8.
+Notice that both 15 and 8 are composite numbers, yet they are relatively
+prime. The numbers 7 and 21 are not relatively prime, because 7 is a
+factor of both 7 and 21. So even though 7 is a prime number, it is not
+relatively prime to 21.
+If two numbers are relatively prime, then their greatest common fac-
+tor is 1. If two numbers are not relatively prime, then their greatest com-
+mon factor is the largest number that evenly divides both numbers. The
+easiest way to find the greatest common factor is to factor each number
+into their prime factors. Then match up, prime by prime, the prime num-
+bers that appear in both factorizations. If any prime numbers repeat, you
+must take that into consideration.  For example, the greatest common fac-
+tor of 12 and 15 is 3, because 12 = 2 × 2 × 3 and 15 = 3 × 5; 3 is the largest
+number that evenly divides 12 and 15. The greatest common factor of 20
+and 36 is 4: 20 = 2 × 2 × 5 and 36 = 2 × 2 × 3 × 3. Both 20 and 36 have a
+repeating factor of 2, which is why their greatest common factor is 4.
+Now that you understand the idea of the greatest common factor of
+two numbers, it is time to talk about the least common multiple of two
+www.ebook3000.com

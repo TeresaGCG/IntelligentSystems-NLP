@@ -1,0 +1,46 @@
+574 Chapter 8
+Operator Software Hardware System Year data collected
+25.
+42% 18. Data center (Tandem) 1985
+15. 55. 14% Data center (Tandem) 1989
+18. 44% 39% Data center (DEC VAX) 1985
+20.
+5O'J6 30% Data center (DEC VAX) 1993
+5O'J6 14% 19% U.S. public telephone network 1998
+54% " 30% U.S. public telephone network 2000
+60% 25. 15. Internet services 2002
+FIGURE 8.5 Summary of studies of reasons for failures. Although it is difficult to coUeet data
+to determine jf operators are the cawe of errors, since operators often record the reasons for failures, these
+studies did capture that data. There were often other categories, such as environmental reasons for oulage&,
+bUlthey were generally small. The top two rows come from a classic paper by lim Gray [19901, which is still
+widely quoted almost 20 years after the data was collected. The next two rows are from a paper by Murphy
+and Gent who studied causes of outages in VAX systems over time ("Measuring system and software reli·
+ability using an automated data collection process," Quality and Reliability Engineering International 11:5,
+September-Dctober 1995,341- 53). The fifth and sixth rows are studies of FCC failure data about the u .s.
+public switched telephone network by Kuhn ("Sources offailure in the public switched telephone net\\oUrk,~
+IEEE Computer 30:4, April 1997,31- 36) and by Patty Enriquez.The most recent study ofthree Internet ser·
+vices is from Oppenheimer, Ganapath, and Patterson [20031.
+To increase MTTF, you can improve the quality of the components or design
+systems to continue operation in the presence of components that have fa iled.
+Hence, failure needs to be defined with respect to a context. A failure in a compo 
+nent may not lead to a failure of the system. To make this distinction clear, the
+term fault is used to mea n failure of a component. Here are three ways to improve
+MTTF,
+I. Fault avoidance: preventing fault occurrence by construction
+2. Fault tolerance: using redundancy to allow the service to comply with the
+service specification despite faults occurring, which applies primarily to
+hardware faults
+3. Fault forecasting: predicting the presence and creation of faults, which
+applies to hardwa re and software faults
+Shrinking MTTR can help availability as much as increasing MITE For exa mple,
+tools fo r fault detection, diagnosis, and repair can help reduce the time to repair
+faults by people, software, and hardware.
+RAID
+redundant arrays of inexpen 
+sive disks (RAID) An
+Leveraging redundancy to improve the availability of disk storage is captured in
+organization of disks that uses
+the phrase Redundant Arrays of Inexpensive Disks, abbreviated RAID. At the
+an array ofsmall and inexpen 
+sive disks so as to increase both time the term was coined, the alternative was large, expensive disks, such as the
+performance and reliability. larger ones in Figure 8.3. The argument was that by replacing a few large disks

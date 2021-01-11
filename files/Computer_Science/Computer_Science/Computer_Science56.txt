@@ -1,0 +1,40 @@
+40 Chapter 1 Computer Abstractions and Technology
+1.43 (1 Printer
+J
+1.44 (11 Silicon
+1.45 (11 Spreadsheet
+1.46 (15) <§ 1.3> In magnetic disk, the disks containing the data are constantly
+:1
+rotating. On average it should take halfa revolution for the desired data on the disk
+to spin under the read/write head. Assuming that the disk is rotating at 7200 revo 
+lutions per minute (RPM), what is the average time for the data to rotate under the
+disk head? What is the average time ifthe disk is spinning at 10,000 revolutions per
+minute?
+1.47 [51 <§ 1.3> A DVD drive, however, works in the Constant Linear Velocity
+(eLV) mode. The read head must interact with the concentric circles at a constant
+rate, whether it is accessing data from the inner or outermost portions of the disc.
+This is affected by varying the rotation speed of the disc, from 1600 RPM at the
+center, to 570 RPM at the outside. Assuming that the DVD drive reads 1.35 MB of
+user data per second, how many bytes can the center circle store? How many bytes
+can the outside circle store?
+1.48 [5 J <§ 1.3> If a computer issues 30 network requests per second and each re 
+quest is on average 64 KB, wiII a 100 Mbit Ethernet link be sufficient?
+1.49 [5J <§ 1.3>What kinds of networks do you use on a regular basis? What
+kinds of media do they use? How much bandwidth do they provide?
+1.50 [15) <§ 1.3> End-to-end delay is an important performance metric for net 
+works. It is the time between the point when the source starts to send data and the
+point when the data is completely delivered to the destination. Consider two hosts
+A and B, connected by a single link of rate R bps. Suppose the two hosts are sepa 
+rated by meters, and suppose the propagation speed along the link is m/sec.
+111 5
+Host A is sending a file of size L bits to host B.
+a. Obtain an expression for the end-to-end delay in terms of R, L, and s.
+111,
+b. Suppose there is a router between A and B, and the data from A must be for 
+warded to B by the router. If the forwarding process takes t sec, then what is
+the end-to-end delay?
+c. Suppose the router is configured to provide QoS (Quality of Service) control
+for different kinds of data. If the data is a multimedia stream, such as video
+conference data, it wiII forward it at a shorter delay of t/2 sec. For other
+kinds of data, the delay is t sec. If host A is sending a multimedia stream of
+size 2L, what is the end-to-end delay?

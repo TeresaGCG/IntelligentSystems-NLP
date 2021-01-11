@@ -1,0 +1,56 @@
+MOLECULAR BASIS OF INHERITANCE
+
+disorders that affect human beings. Besides providing clues to
+understanding human biology, learning about non-human organisms
+DNA sequences can lead to an understanding of their natural capabilities
+that can be applied toward solving challenges in health care, agriculture,
+energy production, environmental remediation. Many non-human model
+organisms, such as bacteria, yeast, Caenorhabditis elegans (a free living
+non-pathogenic nematode), Drosophila (the fruit ﬂy), plants (rice and
+Arabidopsis), etc., have also been sequenced.
+
+Methodologies : The methods involved two major approaches. One
+approach focused on identifying all the genes that are expressed as
+RNA (referred to as Expressed Sequence Tags (ESTs). The other took
+the blind approach of simply sequencing the whole set of genome that
+contained all the coding and non-coding sequence, and later assigning
+different regions in the sequence with functions (a term referred to as
+Sequence Annotation). For sequencing, the total DNA from a cell is
+isolated and converted into random fragments of relatively smaller sizes
+(recall DNA is a very long polymer, and there are technical limitations in
+sequencing very long pieces of DNA) and cloned in suitable host using
+specialised vectors. The cloning resulted into ampliﬁcation of each piece
+of DNA fragment so that it subsequently could be sequenced with ease.
+The commonly used hosts were bacteria and yeast, and the vectors were
+called as BAC (bacterial artiﬁcial chromosomes), and YAC (yeast artiﬁcial
+chromosomes) .
+
+The fragments were sequenced using automated DNA sequencers that
+worked on the principle of a method developed by Frederick Sanger.
+(Remember, Sanger is also credited for developing method for
+determination of amino acid
+sequences in proteins). These
+sequences were then arranged based
+on some overlapping regions
+present in them. This required
+generation of overlapping fragments
+for sequencing. Alignment of these
+sequences was humanly not
+possible. Therefore, specialised
+computer based programs were
+developed (Figure 6.1 5). These
+sequences were subsequently
+annotated and were assigned to each
+chromosome. The sequence of
+chromosome 1 was completed only
+in May 2006 (this was the last of the
+
+ 
+
+ 
+
+24 human chromosomes — 22 Figure 6.15A representative diagram of human
+
+autosomes and X and Y — to be genome project
+
+2019-2020

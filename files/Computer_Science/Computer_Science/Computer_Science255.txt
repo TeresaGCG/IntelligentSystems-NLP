@@ -1,0 +1,13 @@
+4.1 Introduction 240
+4.2 CPU Performance and Its Factors 246
+4.3 Evaluating Performance 254
+4.4 Real Stuff: Two SPEC Benchm.-ks and the Performance of Recent Intel
+Processors 259
+4.5 Fallacies and Pitfalls 266
+4.6
+Concluding Remarks 270
+• 4.7 Historical Perspective and Further Reading 272
+4.8
+Exercises 272
+The Five Classic Components of a Computer
+Interlace

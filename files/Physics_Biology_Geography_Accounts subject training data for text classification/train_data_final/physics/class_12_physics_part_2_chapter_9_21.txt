@@ -1,0 +1,60 @@
+l Physics
+
+ 
+
+Such a system of combination of lenses is commonly used in designing
+lenses for cameras, microscopes, telescopes and other optical instruments.
+
+Example 9.9 Find the position of the image formed by the lens
+combination given in the Fig. 9.22.
+
+f: +10. ~10 +30 cm
+
+0;
+
+‘—30 cm —’
+
+“3m" érorl—l
+FIGURE 9.22
+
+Solution Image formed by the first lens
+
+i_i L
+U1 u'1 .fl
+i_;_i
+u, —30 10
+
+or v1 = 15 cm
+
+The image formed by the first lens serves as the object for the second.
+This is at a distance of (15 — 5) cm = 10 cm to the right of the second
+lens. Though the image is real, it serves as a virtual object for the
+
+second lens, which means that the rays appear to come from it for
+the second lens.
+
+or v2 = oo
+The virtual image is formed at an infinite distance to the left of the
+second lens. This acts as an object for the third lens.
+
+L_i_ i
+q) 1)3 U3 — f3
+“,3 L_l+ i
+a or v3_oo 30
+E or v3 = 30 cm
+[I]
+
+The final image is formed 30 cm to the right of the third lens.
+
+9.6 REFRACTION THROUGH A PRISM
+
+Figure 9.23 shows the passage of light through a triangular prism ABC.
+The angles of incidence and refraction at the first face AB are i and r1,
+while the angle of incidence (from glass to air) at the second face AC is r2
+and the angle of refraction or emergence e. The angle between the
+
+emergent ray RS and the direction of the incident ray P9 is called the
+
+330 angle of deviation, 5.
+
+2019-20

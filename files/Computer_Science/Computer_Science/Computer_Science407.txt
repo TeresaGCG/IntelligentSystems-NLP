@@ -1,0 +1,54 @@
+6.2 A Plpellned Datapath 391
+,
+•
+•
+-,
+- _.
+,," ::J....-
+---
+- ... - - '-
+-
+- _.,-----.
+- •
+• -
+- •
+-
+:r-l.-~
+,"
+, •
+• -
+-
+Lj-----''';.-I.::::.~
+.,"'"
+;'" ;'" ~
+-
+"'"
+_-.
+,
+/ ~ 1'~
+v
+• -
+..
+•
+_.
+," ~ ,.. :;:.., -
+• ---- ir- ;..- -,f- •• -
+- -
+AW"l.tf---'
+r- :-:.. -.f- • :::' -- ••
+•
+-
+•
+,
+," •
+• -
+-
+"-
+••
+" ~
+'-./
+~ ~ ~
+FtGURE 6.14 MEM and WB: the fourth and fifth pipe stages of a load Instruction, highlighting the portions of the
+datapath In Figure 6.11 used In this pipe stage. Data memory is read using the address in the EXfMEM pipeline registers, and the
+data is placed in the MEM/WB pipeline register. Next, data is read from the MEM/WB pipeline register and written into the register file in
+the middle ofthe datapath.

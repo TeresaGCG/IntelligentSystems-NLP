@@ -1,0 +1,139 @@
+6
+L0
+c»
+v—t
+|
+c»
+[x
+‘2
+E
+m
+E
+E
+II.)
+F
+o:
+m
+E
+
+ 
+
+394
+
+l Physics
+
+ 
+
+Albert Einstein (1879 -
+1955) Einstein, one of the
+greatest physicists of all
+time, was born in Ulm,
+Germany. In 1905, he
+published three path-
+breaking papers. In the
+first paper, he introduced
+the notion of light quanta
+(now called photons) and
+used it to explain the
+features of photoelectric
+effect. In the second paper,
+he developed a theory of
+Brownian motion,
+confirmed experimentally a
+few years later and provided
+a convincing evidence of
+the atomic picture of matter.
+The third paper gave birth
+to the special theory of
+relativity. In 1916, he
+published the general
+theory of relativity. Some of
+Einstein’s most significant
+later contributions are: the
+notion of stimulated
+emission introduced in an
+alternative derivation of
+Planck’s blackbody
+radiation law, static model
+of the universe which
+started modern cosmology,
+quantum statistics of a gas
+of massive bosons, and a
+critical analysis of the
+foundations of quantum
+mechanics. In 1921, he was
+awarded the Nobel Prize in
+physics for his contribution
+to theoretical physics and
+the photoelectric effect.
+
+ 
+
+ 
+
+ 
+
+has energy hv, where h is Planck’s constant and v the
+frequency of light. In photoelectric effect, an electron
+absorbs a quantum of energy (hv) of radiation. If this
+quantum of energy absorbed exceeds the minimum
+energy needed for the electron to escape from the metal
+surface (work function $0), the electron is emitted with
+maximum kinetic energy
+
+Kmax=hv—¢O (11.2)
+
+More tightly bound electrons will emerge with kinetic
+energies less than the maximum value. Note that the
+intensity of light of a given frequency is determined by
+the number of photons incident per second. Increasing
+the intensitywill increase the number of emitted electrons
+per second. However, the maximum kinetic energy of the
+emitted photoelectrons is determined by the energy of each
+photon.
+
+Equation (1 1.2) is known as Einstein’s photoelectric
+equation. We now see how this equation accounts in a
+simple and elegant manner all the observations on
+photoelectric effect given at the end of sub-section 1 1.4.3.
+0 According to Eq. (1 1.2), Kmax depends linearly on v,
+
+and is independent of intensity of radiation, in
+
+agreement with observation. This has happened
+because in Einstein’s picture, photoelectric effect arises
+from the absorption of a single quantum of radiation
+by a single electron. The intensity of radiation (that is
+proportional to the number of energy quanta per unit
+area per unit time) is irrelevant to this basic process.
+
+0 Since Kmax must be non-negative, Eq. (1 1.2 ) implies
+that photoelectric emission is possible only if
+
+h v > ()0
+
+or v > v0 , where
+
+_ h
+
+‘ h
+Equation (11.3) shows that the greater the work
+function ()0, the higher the minimum or threshold
+frequency v0 needed to emit photoelectrons. Thus,
+there exists a threshold frequency v0 (= 9150/ h) for the
+metal surface, below which no photoelectric emission
+is possible, no matter how intense the incident
+radiation may be or how long it falls on the surface.
+
+0 In this picture, intensity of radiation as noted above,
+is proportional to the number of energy quanta per
+unit area per unit time. The greater the number of
+energy quanta available, the greater is the number of
+electrons absorbing the energy quanta and greater,
+therefore, is the number of electrons coming out of
+the metal (for v > v0). This explains why, for v > v0,
+photoelectric current is proportional to intensity.
+
+vO (11.3)
+
+2019-20

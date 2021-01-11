@@ -1,0 +1,66 @@
+MINERAL NUTRITION 203
+
+.
+o
+."'
+
+Infection
+thread
+containing
+
+bacteria
+
+       
+
+Mature nodule
+
+Bacteria Inner cortex and
+
+pericycle cells
+under division
+
+ 
+
+Figure 12.4 Development of root nodules in soyabean : (a) Rhizobium bacteria
+contact a susceptible root hair, divide near it, (b) Successful infection
+of the root hair causes it to curl, (c) Infected thread carries the bacteria
+to the inner cortex. The bacteria get modified into rod-shaped
+bacteroids and cause inner cortical and pericycle cells to divide.
+Division and growth of cortical and pericycle cells lead to nodule
+formation, (d) A mature nodule is complete with vascular tissues
+continuous with those of the root
+
+The reaction is as follows:
+
+N2 +8e +8H++16ATP—>2Nﬁ +H ﬁBADP+E£&
+
+The enzyme nitrogenase is highly sensitive to the molecular oxygen; it
+requires anaerobic conditions. The nodules have adaptations that ensure
+that the enzyme is protected from oxygen. To protect these enzymes, the
+nodule contains an oxygen scavenger called leg-haemoglobin. It is interesting
+to note that these microbes live as aerobes under ﬁ‘ee-living conditions (Where
+nitrogenase is not operational), but during nitrogen-ﬁxing events, they become
+anaerobic (thus protecting the nitrogenase enzyme). You must have noticed
+in the above reaction that the ammonia synthesis by nitrogenease requires a
+
+Substrate Product
+[nitrogen gas (N2)]
+
+[ammonia (NH3)]
+
+Reduction
+Reduction Release
+7 ’ i? ’ of products
+
+Enzyme - - +2 H
+(nitrogenase) f Binding +2 H +2 H Free nitrogenase
+0 substrate can bind another
+
+molecule of N2
+
+ 
+
+ 
+
+Figure 12.5 Steps of conversion of atmospheric nitrogen to ammonia by nitrogenase
+enzyme complex found in nitrogen-fixing bacteria

@@ -1,0 +1,63 @@
+1 46 Accountancy : Company Accounts and Analysis of Financial Statements
+
+vii) Shares reserved for issue under options and contracts /
+commitments for the sale of shares / disinvestment, including terms
+and amount.
+
+viii) For a period of 5 years immediately proceeding the date at which
+
+balance sheet in prepared for:
+
+(a) Shares reserved under contracts / commitments.
+
+(b) Number and class of shares bought back.
+
+(c) Number and class of shares allotted for consideration other
+than cash and bonus shares.
+
+ix) Terms of any securities convertible into equity/ preference shares
+issued along with earliest date of conversion in descending order,
+starting from the farthest such date.
+
+X) Calls unpaid (aggregate).
+xi) Forfeited shares (amout originally paid up).
+
+Reserve and Surplus
+Reserves and Surplus are required to be classiﬁed as:
+i) Capital Reserve
+
+ii) Capital Redemption Reserve
+
+iii) Securities Premium Reserve
+
+iv) Debenture Redemption Reserve
+
+v) Revaluation Reserve
+
+vi) Share Options Outstanding Account
+
+vii) Other Reserves (Specifying nature and purpose)
+
+viii) Surplus: Balance in statement of proﬁt and loss; disclosing allocations
+and Appropriation such as dividend, bonus shares, transfer to / from
+reserve, etc.
+
+Signiﬁcant additions / modiﬁcations regarding disclosure of reserve and surplus
+are as follows:
+
+a) A reserve speciﬁcally represented by earmarked investments shall be
+termed as “Fund”.
+
+b) ‘Debit' balance of statement of proﬁt and loss shall be shown as a negative
+ﬁgure under ‘Surplus' head.
+
+c) The balance of “Reserve and Surplus" after adjusting negative balance of
+Surplus, if any, shall be shown under “Reserve and Surplus” read even
+if the resulting ﬁgure is ‘negative'.
+
+d) Share options outstanding account has been recognised as a separate
+item under ‘Reserve and Surplus'. ICAI's Guidance Note on Accounting
+for Employee share based payments requires a credit balance in the ‘Stock
+option outstanding Account’ to be disclosed in balance sheet under
+separate heading' between share capital and reserves and surplus as a
+part of shareholders fund.

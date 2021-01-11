@@ -1,0 +1,36 @@
+3.2 Signed and Unsigned Numbers 165
+Unlike the numbers discussed above, memory addresses naturally start at 0 and Hardware
+continue to the largest address. Put another way, negative addresses make no
+Software
+sense. Thus, programs want to deal sometimes with numbers that can be positive
+Interface
+or negative and sometimes with numbers that can be only positive. Some pro 
+gramming languages reflect this distinction. C, for example, names the former
+integers (declared as i nt in the program) and the latter l/nsigned integers
+(un signed i nt). Some C style guides even recommend declaring the former as
+si gned i nt to keep the distinction clear.
+Comparison instructions must deal with this dichotomy. Sometimes a bit pat 
+tern with a 1 in the most significant bit represents a negative number and, of
+course, is less than any positive number, which must have a 0 in the most signifi 
+cant bit. With unsigned integers, on the other hand, a 1 in the most significant bit
+o.
+represents a number that is larger than any that begins with a (We'll take advan 
+tage of this dual meaning of the most significant bit to reduce the cost of the array
+bounds checking in a few pages.)
+MIPS offers two versions of the set on less than comparison to handle these
+alternatives. Set on less than (s 1t) and set on less than immediate (sl t i ) work
+with signed integers. Unsigned integers are compared using set on less than
+unsigned (s 1t u) and set on less than immediate unsigned (s 1t i u).
+Signed versus Unsigned Comparison
+Suppose register $sO has the binary number
+EXAMPLE
+1111 1111 1111 1111 1111 1111 1111 11l1
+(}
+tW
+and that register $s 1 has the binary number
+0000 0000 0000 0000 0000 0000 0000 0001
+(}
+tW
+What are the values of registers $tO and $t1 after these two instructions?
+slt $tO, $sO , $sl It signed comparison
+sltu $tl, $sO , $sl It unsigned comparison

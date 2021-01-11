@@ -1,0 +1,39 @@
+398 Chapter 6 Enhancing Performance with Plpellnlng
+Single-clock-cycle pipeline diagrams show the state of the entire datapath dur 
+ing a single clock cycle, and usually all five instructions in the pipeline are identi 
+fied by labels above their respective pipeline stages. We use this type of figure to
+show the details of what is happening within the pipeline during each clock cycle;
+typically, the drawings appear in groups to show pipeline operation over a
+sequence of clock cycles. A single-clock-cycle diagram represents a vertical slice
+through a set of multiple-clock-cycle diagram, showing the usage of the datapath
+by each of the instructions in the pipeline at the designated clock cycle. For exam 
+ple, Figure 6.21shows the single-clock-cycle diagram corresponding to clock cycle
+5 of Figures 6.1 9 and 6.20. Obviously, the single-clock-cycle diagrams have more
+detail and take significantly more space to show the same number of clock cycles.
+The For More Practice section included on the CD includes the corresponding
+single-clack-cycle diagrams for these two instructions as well as exercises asking
+you to create such diagrams for another code sequence.
+add $14. $5, $6 Iw $13, 24 ($1) add $12. $3, $4, $11 sub$11 ,$2,$3 1w$10, 20($1)
+Instruction fetch Instruction docode Execution Memory Write back
+'~
+'-iV
+"•
+"IL.r._o._~----,
+,"
+•
+ 
+.d -
+"LU "LU _
+••
+•
+"
+•
+- o
+-
+_.
++- - -"'-1
+sv>
+32
+FIGURE 6.21 The slngle-elock-eycle diagram corresponding to clock cycle 5 of the pipeline In Figures 6.19 and 6.20. As you
+can a single-clock-cycle figure is a vertical slice through a multiple-clock-cycle diagram.
+Sff,

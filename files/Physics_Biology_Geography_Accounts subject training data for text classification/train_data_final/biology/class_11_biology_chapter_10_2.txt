@@ -1,0 +1,75 @@
+164
+
+You have studied
+mitosis in onion root
+tip cells. It has 16
+chromosomes in
+each cell. Can you
+tell how many
+chromosomes will
+the cell have at G1
+phase, after S phase,
+and after M phase?
+Also, what will be the
+DNA content of the
+cells at G1, after S
+and at G2, if the
+content after M
+phase is 2C?
+
+BiowGY
+
+Some cells in the adult animals do not appear to exhibit division (e.g.,
+heart cells) and many other cells divide only occasionally, as needed to
+replace cells that have been lost because of injury or cell death. These
+cells that do not divide further exit G1 phase to enter an inactive stage
+called quiescent stage (Go) of the cell cycle. Cells in this stage remain
+metabolically active but no longer proliferate unless called on to do so
+depending on the requirement of the organism.
+
+In animals, mitotic cell division is only seen in the diploid somatic
+cells. However, there are few exceptions to this where haploid cells divide
+by mitosis, for example, male honey bees. Against this, the plants can
+show mitotic divisions in both haploid and diploid cells. From your
+recollection of examples of alternation of generations in plants (Chapter 3)
+identify plant species and stages at which mitosis is seen in haploid cells.
+
+10.2 M PHASE
+
+This is the most dramatic period of the cell cycle, involving a major
+reorganisation of virtually all components of the cell. Since the number of
+chromosomes in the parent and progeny cells is the same, it is also called as
+equational division. Though for convenience mitosis has been divided
+into four stages of nuclear division (karyokinesis), it is very essential to
+understand that cell division is a progressive process and very clear-cut
+lines cannot be drawn between various stages. Karyokinesis involves
+following four stages:
+
+0 Prophase
+o Metaphase
+o Anaphase
+o Telophase
+
+1 0.2.1 Prophase
+
+Prophase which is the first stage of karyokinesis of mitosis follows the
+S and G2 phases of interphase. In the S and G2 phases the new DNA
+molecules formed are not distinct but intertwined. Prophase is marked
+by the initiation of condensation of chromosomal material. The
+chromosomal material becomes untangled during the process of
+chromatin condensation (Figure 10.2 a). The centrosome, which had
+undergone duplication during S phase of interphase, now begins to move
+towards opposite poles of the cell. The completion of prophase can thus
+be marked by the following characteristic events:
+
+0 Chromosomal material condenses to form compact mitotic
+chromosomes. Chromosomes are seen to be composed of two
+chromatids attached together at the centromere.
+
+O Centrosome which had undergone duplication during interphase,
+begins to move towards opposite poles of the cell. Each centrosome
+radiates out microtubules called asters. The two asters together
+
+with spindle fibres forms mitotic apparatus.
+
+2019-2020

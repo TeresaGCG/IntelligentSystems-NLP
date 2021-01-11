@@ -1,0 +1,29 @@
+Numbers
+17
+Lesson 1-2 Review
+Find the following sums:
+1. 62 + 33
+2. 84 + 18
+3. 136 + 158
+4. 716 + 237
+Lesson 1-3: Subtraction
+The symbol for subtraction is –. The number to be subtracted from is
+called the minuend, and the number to be subtracted is called the subtra-
+hend. The result of the subtraction is called the difference. The symbol
+for what the difference is equal to is the equal sign, =.
+Subtraction is the reverse of addition. If 5 + 3 = 8 then 8 − 3 = 5 and
+8 − 5 = 3. You can always check your answers by adding the difference
+and the subtrahend together; their sum should be the minuend.
+Even though subtraction is the reverse of addition, there are some
+differences between the two operations. With subtraction, the order does
+matter; subtraction is not commutative. We also cannot group things ar-
+bitrarily; subtraction is not associative. We will talk more about the or-
+der in which we calculate in Lesson 1-8.
+Sometimes subtraction is written horizontally: 8 − 5 = 3. Other times
+subtraction is written vertically:
+The vertical representation is particularly useful when you are sub-
+tracting two numbers with two or more digits. When you subtract one
+two-digit number from another you can write the two numbers in a col-
+umn format with the ones, tens, hundreds, etc. aligned. Subtract each
+column of digits; if the top digit is smaller than the bottom digit you need
+to borrow from the column to the left.

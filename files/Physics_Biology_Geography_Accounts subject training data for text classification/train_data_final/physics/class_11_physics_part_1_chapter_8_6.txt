@@ -1,0 +1,113 @@
+G RAVITATI ON
+
+189
+
+(2) The force of attraction due to a hollow
+spherical shell of uniform density, on a
+point mass situated inside it is zero.
+Qualitatively, we can again understand this
+result. Various regions of the spherical shell
+attract the point mass inside it in various
+directions. These forces cancel each other
+completely.
+
+8.4 THE GRAVITATIONAL CONSTANT
+
+The value of the gravitational constant G
+entering the Universal law of gravitation can be
+determined experimentally and this was first
+done by English scientist Henry Cavendish in
+1798. The apparatus used by him is
+schematically shown in figure.8.6
+
+ 
+
+Fig. 8.6 Schematic drawing of Cavendish’s
+experiment. SI and 82 are large spheres
+which are kept on either side (shown shades)
+of the masses at A and B. When the big
+spheres are taken to the other side of the
+masses (shown by dotted circles), the bar
+AB rotates a little since the torque reverses
+direction. The angle of rotation can be
+measured experimentally.
+
+The bar AB has two small lead spheres
+attached at its ends. The bar is suspended from
+a rigid support by a fine wire. Two large lead
+spheres are brought close to the small ones but
+on opposite sides as shown. The big spheres
+attract the nearby small ones by equal and
+opposite force as shown. There is no net force
+on the bar but only a torque which is clearly
+equal to F times the length of the bar,where F is
+the force of attraction between a big sphere and
+
+its neighbouring small sphere. Due to this
+torque, the suspended wire gets twisted till such
+time as the restoring torque of the wire equals
+the gravitational torque . If 9 is the angle of twist
+of the suspended wire, the restoring torque is
+proportional to 9, equal to 10. Where 1' is the
+restoring couple per unit angle of twist. 1 can be
+measured independently e.g. by applying a
+known torque and measuring the angle of twist.
+The gravitational force between the spherical
+balls is the same as if their masses are
+concentrated at their centres. Thus if d is the
+separation between the centres of the big and
+its neighbouring small ball, M and In their
+masses, the gravitational force between the big
+sphere and its neighouring small ball is.
+
+Mm
+d2 (8'6)
+
+If L is the length of the bar AB , then the
+torque arising out of F is F multiplied by L. At
+equilibrium, this is equal to the restoring torque
+and hence
+
+Mm
+
+2
+
+F=G
+
+ 
+
+ 
+
+G L=r 6 (8.7)
+
+Observation of 9 thus enables one to
+
+calculate G from this equation.
+
+Since Cavendish’s experiment, the
+measurement of G has been refined and the
+currently accepted value is
+
+G = 6.67><10‘11 N mZ/kg2 (8.8)
+
+8.5 ACCELERATION DUE TO GRAVITY OF
+THE EARTH
+
+The earth can be imagined to be a sphere made
+of a large number of concentric spherical shells
+with the smallest one at the centre and the
+largest one at its surface. A point outside the
+earth is obviously outside all the shells. Thus,
+all the shells exert a gravitational force at the
+point outside just as if their masses are
+concentrated at their common centre according
+to the result stated in section 8.3. The total mass
+of all the shells combined is just the mass of the
+earth. Hence, at a point outside the earth, the
+gravitational force is just as if its entire mass of
+the earth is concentrated at its centre.
+
+For a point inside the earth, the situation
+is different. This is illustrated in Fig. 8.7 .
+
+2019-20

@@ -1,0 +1,30 @@
+2.3 Operands of the Computer Hardware 57
+The instruction complementary to load is traditionally called store; it copies
+data from a register to memory. The format of a store is similar to that of a load:
+the name of the operation, followed by the register to be stored, then offset to
+select the array element, and finally the base register. Once again, the MIPS
+address is specified in part by a constant and in part by the contents of a register.
+The actual MIPS name is standing for store word.
+5W,
+Compiling Using Load and Store
+Assume variable h is associated with register $5 2 and the base address of the EXAMPLE
+array A is in $53. What is the MIPS assembly code for the C assignment state 
+ment below?
+A[12] h + A[8] ;
+~
+Although there is a single operation in the C statement, now two of the oper 
+ANSWER
+ands are in memory, so we need even more MIPS instructions. The first two
+instructions are the same as the prior example, except this time we use the
+proper offset for byte addressing in the load word instruction to select A[8],
+and the add instruction places the sum in $tO:
+lw HO ,32 ($53l # Temporary reg $tO gets A[8]
+add HO , $s2 , HO # Temporary reg $tO gets h + A[8]
+The final instruction stores the sum into A[ 12], using 48 as the offset and
+register $ 53 as the base register.
+sw 1t0 . 48(1s31 # Stores h + A[8] back into A[12]
+Constant or Immediate Operands
+Many times a program will use a constant in an operation- for exa mple, incre 
+menting an index to point to the next element of an array. In fact, more than half
+of the MIPS arithmetic instructions have a constant as an operand when running
+the SPEC2000 benchmarks.

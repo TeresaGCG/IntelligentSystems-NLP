@@ -1,0 +1,126 @@
+SYSTEMS OI’ PARTICLES AND ROTA'I‘IONAL MOTION
+
+We shall now define another product of two
+vectors. This product is a vector. Two important
+quantities in the study of rotational motion,
+namely, moment of a force and angular
+momentum, are defined as vector products.
+
+Deﬁnition of Vector Product
+
+A vector product of two vectors a and b is a
+vector c such that
+
+(i) magnitude of c = c = ab sin 0 where a and b
+are magnitudes of a and b and 6 is the
+angle between the two vectors.
+
+(ii) c is perpendicular to the plane containing
+a and b.
+
+(iii) if we take a right handed screw with its head
+lying in the plane of a and b and the screw
+perpendicular to this plane, and if we turn
+the head in the direction from a to b, then
+the tip of the screw advances in the direction
+of c. This right handed screw rule is
+illustrated in Fig. 7 . 15a.
+
+Alternately, if one curls up the fingers of
+right hand around a line perpendicular to the
+plane of the vectors a and b and if the fingers
+are curled up in the direction from a to b, then
+the stretched thumb points in the direction of
+c, as shown in Fig. 7.15b.
+
+Tc=axb
+I
+I
+
+‘r
+:5
+‘J
+‘1
+v
+:5
+v
+
+   
+
+(a) (b)
+
+Fig. 7.15 (a) Rule of the right handed screw for
+defining the direction of the vector
+product of two vectors.
+
+(b) Rule of the right hand for deﬁning the
+direction of the vector product.
+
+A simpler version of the right hand rule is
+the following : Open up your right hand palm
+and curl the fingers pointing from a to b. Your
+stretched thumb points in the direction of c.
+
+It should be remembered that there are two
+angles between any two vectors a and b . In
+Fig. 7 .15 (a) or (b) they correspond to 6 (as
+shown) and (3600— 6). While applying either of
+the above rules, the rotation should be taken
+through the smaller angle (<1800) between a
+and b. It is 0 here.
+
+Because of the cross (x) used to denote the
+vector product, it is also referred to as cross product.
+
+0 Note that scalar product of two vectors is
+
+commutative as said earlier, a.b = b.a
+
+The vector product, however, is not
+commutative, i.e. aXb #2 bXa
+
+The magnitude of both aXb and bXa is the
+same (ab sing): also, both of them are
+perpendicular to the plane of a and b. But the
+rotation of the right-handed screw in case of
+aXb is from a to b, whereas in case of bXa it
+is from b to a. This means the two vectors are
+in opposite directions. We have
+
+a x b = —b x a
+
+0 Another interesting property of a vector
+
+product is its behaviour under reﬂection.
+Under reﬂection (i.e. on taking the plane
+mirror image) we have
+
+x —> —x,y —> —y and z —> —z. As a result all
+the components of a vector change sign and
+
+thus a —> —a, b —> —b . What happens to
+aXb under reﬂection?
+aXb—>(—a)><(—b)=a><b
+Thus, aXb does not change sign under
+reﬂection.
+0 Both scalar and vector products are
+
+distributive with respect to vector addition.
+Thus,
+
+a.(b + c) = a.b + a.c
+
+ax(b+c)=a><b+a><c
+
+0 We may write c = aXb in the component
+form. For this we first need to obtain some
+elementary cross products:
+
+(i) mm = 0 (0 is a null vector, i.e. a vector
+with zero magnitude)
+
+This follows since magnitude of aXa is
+
+a2 sin0°=0-
+
+2019-20

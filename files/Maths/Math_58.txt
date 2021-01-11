@@ -1,0 +1,20 @@
+Homework Helpers: Basic Math and Pre-Algebra
+58
+A complex fraction is a fraction where the numerator, denominator,
+or both are themselves fractions. A complex fraction can be converted to
+a simple fraction by multiplying the numerator by the reciprocal of the
+denominator:
+In other words, when you divide one fraction by another fraction you
+invert the denominator and multiply. This is usually shortened to just
+“invert and multiply,” but you have to remember that it is the denomina-
+tor that gets inverted!
+Example 1
+Simplify the complex fraction:
+Solution:
+Invert the denominator and multiply:
+You could also write your answer as a mixed number:
+Example 2
+Simplify the complex fraction:
+Solution:
+Invert the denominator and multiply:
+www.ebook3000.com

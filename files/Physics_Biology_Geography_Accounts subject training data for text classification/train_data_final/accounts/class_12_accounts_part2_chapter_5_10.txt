@@ -1,0 +1,53 @@
+1 98 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Illustration 6
+
+The current ratio is 2 : 1. State giving reasons which of the following transactions
+would improve, reduce and not change the current ratio:
+
+(a) Payment of current liability;
+
+(b) Purchased goods on credit;
+
+(c) Sale of a Computer (Book value: Rs. 4,000) for Rs. 3,000 only;
+
+((1) Sale of merchandise (goods) costing Rs. 10,000 for Rs. 1 1 ,000;
+
+(e) Payment of dividend.
+
+Solution:
+
+The given current ratio is 2 : 1. Let us assume that current assets are Rs. 50,000
+and current liabilities are Rs. 25,000; Thus, the current ratio is 2 : 1. Now we
+will analyse the effect of given transactions on current ratio.
+
+(a) Assume that Rs. 10,000 of creditors is paid by cheque. This will reduce
+the current assets to Rs. 40,000 and current liabilities to Rs. 15,000.
+The new ratio will be 2.67 : 1 (Rs. 40,000/Rs.15,000). Hence, it has
+improved.
+
+(b) Assume that goods of Rs. 10,000 are purchased on credit. This will
+increase the current assets to Rs. 60,000 and current liabilities to
+Rs. 35,000. The new ratio will be 1.7: 1 (Rs. 60,000/Rs. 35,000). Hence,
+it has reduced.
+
+(c) Due to sale of a computer (a fixed asset) the current assets will
+increase to Rs. 53,000 without any change in the current liabilities.
+The new ratio will be 2.12 : 1 (Rs. 53,000/Rs. 25,000). Hence, it has
+improved.
+
+((1) This transaction will decrease the inventories by Rs. 10,000 and
+increase the cash by Rs. 1 1,000 thereby increasing the current
+assets by Rs. 1,000 without any change in the current liabilities.
+The new ratio will be 2.04 : 1 (Rs. 51 ,000/Rs. 25,000). Hence, it has
+improved.
+
+(e) Assume that ?5,000 is given by way of dividend. It will reduce the
+current assets to ?45,000 and short-term provisions (current liabilities)
+by ?5,000. The new ratio will be 2:25: 1 (?45,000/?20,000). Hence, it
+has improved.
+
+5.7 Solvency Ratios
+
+The persons who have advanced money to the business on long-term basis
+are interested in safety of their periodic payment of interest as well as the

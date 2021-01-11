@@ -1,0 +1,43 @@
+4.8 Exercises 275
+4.15 [IS) <§§4.2, 4.3> One user has told you that the three programs in Exercise
+4.14 constitute the bulk of his workload, but he does not run them equally. The
+user wants to determine how the three computers compare when the workload
+consists of different mixes of these three programs. (You know you can use the
+arithmetic mean to find the relative performance.)
+Suppose the total number of floating-point operations (FLOPs) executed in the
+workload is equally divided among the three programs. That is, program 1 runs 8
+times for every time program 3 runs, and program 2 runs twice for every time
+program 3 runs. Find which computer is fastest forthis workload and by what fa c 
+tor. How does this compare with the total execution time with equal numbers of
+program executions?
+4.16 [15J <§§4.2, 4.3> An alternative weighting to that of Exercise 4.1 5 is to assume
+that equal amounts of time will be spent running each program on one of the com 
+puters. Which computer is fastest using the data given for Exercise 4.14 and assum 
+ing a weighting that generates equal execution time for each of the benchmark
+programs on computer A? Which computer is fastest ifwe assume a weighting that
+generates equal execution time on computer B? Computer C? Explain the results.
+4.17 [5 J <§§4.2-4.3> If the clock rates of computers M 1 and M2 in Exercise 4.1
+are 4 GHz and 6 GHz, respectively, find the clock cycles per instruction (CPI) for
+program 1 on both computers using the data in Exercises 4.1 and 4.2.
+4.18 [5J <§§4.2-4.3> Assuming the CPI for program 2 on each computer in
+Exercise 4.1 is the same as the CPI for program 1 found in Exercise 4.1 7, find the
+instruction count for program 2 running on each computer using the execution
+times from Exercise 4.1.
+4.19 [5J <§4.3> !II In More Depth: Amdahl's Law
+II
+4.20 (10 ) <§4.3> In More Depth: Amdahl's Law
+II
+4.21 (10 ) <§4.3> In More Depth: Amdahl's Law
+II
+4.22 [5J <§4.3> In More Depth: Amdahl's Law
+4.23 [5J <§4.3> {II In More Depth: Amdahl's Law
+II
+4.24 [20) <§4.3> In More Depth: Amdahl's Law
+4.25 [5J <§4.3> !II In More Depth: Choosing the Right Mean
+II
+4.26 [IS) <§4.3> In More Depth: Choosing the Right Mean
+!II
+4.27 [3 hours) <§4.3> In More Depth: Synthetic Benchmarks: Attempts to
+Replicate "Typical" Behavior
+4.28 [3 hours) <§4.3> • In More Depth: Synthetic Benchmarks: Attempts to
+Replicate "Typical" Behavior

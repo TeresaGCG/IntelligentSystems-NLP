@@ -1,0 +1,45 @@
+G-2 Glossary
+asserted signal A signal that is (logically) bit error rate The fraction in bits of a
+true, or 1. message or collection of messages that is
+asynchronous bus A bus that uses a hand  incorrect.
+shaking protocol for coordinating usage block The minimum unit of information
+rather than a clock; can accommodate a that can be either present or not present in
+wide variety of devices of differing speeds. the two-level hierarchy.
+atomic swap operation An operation in blocking assignment In Verilog, an assign 
+which the processor can both read a loca  ment that completes before the execution of
+tion and write it in the same bus operation, the neA1: statement.
+preventing any other processor or I/O branch delay slot The slot directly after a
+device from reading or writing memory un  delayed branch instruction, which in the
+til it completes. MIPSarchitecture is filled by an instruction
+backpatching A method for translating that does not affect the branch.
+from assembly language to machine in  branch not taken A branch where the
+structions in which the assembler builds a branch condition is false and the program
+(possiblyincomplete) binaryrepresentation counter (PC) becomes the address of the in 
+of every instruction in one pass over a pro  struction that sequentially follows the
+gram and then returns to fill in previously branch.
+undefined labels. branch prediction A method of resolvinga
+backplane bus A bus that is designed to al  branch hazard that assumes a given out 
+low processors, memory, and I/O devices to come for the branch and proceeds from that
+coexist on a single bus. assumption rather than waiting to ascertain
+barrier synchronization A synchroniza  the actual outcome.
+tion scheme in which processors wait at the branch prediction buffer Also called
+barrier and do not proceed until every pro  branch history table. A small memory that
+cessor has reached it. is indexed by the lower portion of the ad 
+basic block A sequence of instructions dress of the branch instruction and that
+without branches (except possibly at the contains one or more bits indicating wheth 
+end) and without branch targets or er the branch was recently taken or not.
+branch labels (except possibly at the branch taken A branch where the branch
+beginning). condition is satisfied and the program
+behavioral specification Describes how a counter (PC)becomes thebranch target.A11
+digital system operates functionally. unconditional branches are taken branches.
+biased notation A notation that represents branch target address The address speci 
+the most negative value byOO ooolWOand fied in a branch, which becomes the new
+the most positive value by II Illwo, with program counter (PC) if the branch is tak 
+o
+typically having the value 10 OOt....u' en. ln the MIPSarchitecture the branch tar 
+thereby biasing the number such that the get is given by the sum of the offset field of
+number plus the bias has a nonnegative the instruction and the address of the in 
+representation. struction following the branch.
+binary digit Also called a bit. One of the branch target buffer A structure that cach 
+two numbers in base 2 (0 or I) that are the es the destination PC or destination instruc 
+components of information. tion for a branch. It is usually organized as a

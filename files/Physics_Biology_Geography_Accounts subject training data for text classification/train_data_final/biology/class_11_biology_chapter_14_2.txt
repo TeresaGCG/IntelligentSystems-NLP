@@ -1,0 +1,58 @@
+228
+
+ 
+
+BIOLOGY
+
+distance that gases must diffuse even in large, bulky plants is not great.
+Each living cell in a plant is located quite close to the surface of the plant.
+This is true for leaves’, you may ask, ‘but what about thick, woody stems
+and roots?’ In stems, the ‘living’ cells are organised in thin layers inside
+and beneath the bark. They also have openings called lenticels. The cells
+in the interior are dead and provide only mechanical support. Thus, most
+cells of a plant have at least a part of their surface in contact with air. This
+is also facilitated by the loose packing of parenchyma cells in leaves, stems
+and roots, which provide an interconnected network of air spaces.
+
+The complete combustion of glucose, which produces CO2 and H20
+as end products, yields energy most of which is given out as heat.
+
+  
+
+ 
+
+Gngg +. 1632: _—:‘>i meg lilaﬂér+JEnef
+
+‘
+
+If this energy is to be useful to the cell, it should be able to utilise it to
+synthesise other molecules that the cell requires. The strategy that the
+plant cell uses is to catabolise the glucose molecule in such a way that
+not all the liberated energy goes out as heat. The key is to oxidise glucose
+not in one step but in several small steps enabling some steps to be just
+large enough such that the energy released can be coupled to ATP
+synthesis. How this is done is, essentially, the story of respiration.
+
+During the process of respiration, oxygen is utilised, and carbon
+dioxide, water and energy are released as products. The combustion
+reaction requires oxygen. But some cells live where oxygen may or may
+not be available. Can you think of such situations (and organisms) where
+02 is not available? There are sufﬁcient reasons to believe that the ﬁrst
+cells on this planet lived in an atmosphere that lacked oxygen. Even
+among present-day living organisms, we know of several that are adapted
+to anaerobic conditions. Some of these organisms are facultative
+anaerobes, while in others the requirement for anaerobic condition is
+obligate. In any case, all living organisms retain the enzymatic machinery
+to partially oxidise glucose without the help of oxygen. This breakdown
+of glucose to pyruvic acid is called glycolysis.
+
+14.2 GLYCOLYSIS
+
+The term glycolysis has originated from the Greek words, glycos for sugar,
+and lysis for splitting. The scheme of glycolysis was given by Gustav
+Embden, Otto Meyerhof, and J. Parnas, and is often referred to as the
+EMP pathway. In anaerobic organisms, it is the only process in respiration.
+Glycolysis occurs in the cytoplasm of the cell and is present in all living
+organisms. In this process, glucose undergoes partial oxidation to form
+two molecules of pyruvic acid. In plants, this glucose is derived from
+sucrose, which is the end product of photosynthesis, or from storage

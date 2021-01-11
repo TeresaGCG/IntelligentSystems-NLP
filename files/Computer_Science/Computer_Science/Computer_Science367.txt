@@ -1,0 +1,41 @@
+5.10 Fallacies and Pitfalls 351
+changed until the next model of the architecnlfe. The instructions in a program,
+on the other hand, can utilize improvements in its algorithms at any time during
+the life of the machine. Along the same lines, the microcode sequence is probably
+not optimal for all possible combill3tions of opera nds.
+One example of such an instruction in the lA-32 implementations is the move
+string instruction (MOVS) used with a repeat prefix that we discussed in Chapter 2.
+This instruction is often slower than a loop that moves words at a time, as we saw
+earlier in the Fallacies and Pitfalls (see page 350).
+Another example involves the LOOP instruction, which decrements a register
+and branches to the specified label if the decremented register is not equal to zero.
+This instruction is designed to be used as the branch at the bottom of loops that
+have a fixed number of iterations (e.g., many fo r loops). Such an instruction, in
+addition to packing in some extra work, has benefits in minimizing the potential
+losses from the branch in pipelined machines (as we will see when we discuss
+branches in the next chapter).
+Unfortunately, on all recent IntellA-32 implementations, the LOOP instruction
+is always slower than the macrocode sequence consisting of simpler individual
+instructions (assuming that the small code size difference is not a factor). Thus,
+optimizing compilers focusing on speed never generate the LOOP instruction.
+This, in turn, makes it hard to motivate making LOOP fast in future implementa 
+tions, since it is so rarely used!
+Fallacy: If there is space in the contralstore, new instructions arefree ofcost.
+One of the benefit s of a microprogrammed approach is that control store
+implemented in ROM is not very expensive, and as transistor budgets grew,
+extra ROM was practically free. The all3logy here is that of building a house
+and discovering, nea r completion, that you have enough land and materials
+left to add a room. This room wouldn't be free, however, since there would be
+the costs of labor and maintenance for the life of the home. The temptation to
+add "free" instructions can occur only when the instruction set is not fi xed, as
+is likely to be the case in the first model of a computer. Because upwa rd com  
+patibility of binary programs is a highly desirable feature, all future models of
+this machine will be forced to include these so-called free instructions, even if
+space is later at a premium.
+During the design of the 80286, many instructions were added to the instruc 
+tion set. The availability of more silicon resource and the use of micropro 
+grammed implementation made such additions seem painless. Possibly the largest
+addition was a sophisticated protection mechanism, which is largely unused
+today, but still must be implemented in newer implementations. This addition
+was motivated by a perceived need for such a mechanism and the desire to
+enhance microprocessor architectures to provide functionality equal to that of

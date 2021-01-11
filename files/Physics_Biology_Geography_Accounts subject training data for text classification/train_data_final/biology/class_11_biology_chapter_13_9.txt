@@ -1,0 +1,52 @@
+PHOTOSYNTHESIS IN HIGHER PLANTS
+
+ 
+
+channel of the CFO of the ATP synthase. The ATP synthase enzyme consists
+of two parts: one called the CFO is embedded in the thylakoid membrane
+and forms a transmembrane channel that carries out facilitated diffusion
+of protons across the membrane. The other portion is called CF1 and
+protrudes on the outer surface of the thylakoid membrane on the side
+that faces the stroma. The break down of the gradient provides enough
+energy to cause a conformational change in the CF1 particle of the ATP
+synthase, which makes the enzyme synthesise several molecules of energy-
+packed ATP.
+
+Chemiosmosis requires a membrane, a proton pump, a proton
+gradient and ATP synthase. Energy is used to pump protons across a
+membrane, to create a gradient or a high concentration of protons within
+the thylakoid lumen. ATP synthase has a channel that allows diffusion of
+protons back across the membrane; this releases enough energy to activate
+ATP synthase enzyme that catalyses the formation of ATP.
+
+Along with the NADPH produced by the movement of electrons, the
+ATP will be used immediately in the biosynthetic reaction taking place in
+the stroma, responsible for ﬁxing 002, and synthesis of sugars.
+
+13.7 WHERE ARE THE ATP AND NADPH USED?
+
+We learnt that the products of light reaction are ATP, NADPH and 02. Of
+these 02 diffuses out of the chloroplast while ATP and NADPH are used to
+drive the processes leading to the synthesis of food, more accurately, sugars.
+This is the biosynthetic phase of photosynthesis. This process does not
+directly depend on the presence of light but is dependent on the products
+of the light reaction, i.e., ATP and NADPH, besides CO2 and H20. You may
+wonder how this could be veriﬁed; it is simple: immediately after light
+becomes unavailable, the biosynthetic process continues for some time,
+and then stops. If then, light is made available, the synthesis starts again.
+
+Can we, hence, say that calling the biosynthetic phase as the dark
+reaction is a misnomer? Discuss this amongst yourselves.
+
+Let us now see how the ATP and NADPH are used in the biosynthetic
+phase. We saw earlier that CO2 is combined with H20 to produce (CH20)n
+or sugars. It was of interest to scientists to ﬁnd out how this reaction
+proceeded, or rather what was the ﬁrst product formed when CO2 is taken
+into a reaction or ﬁxed. Just after world war 11, among the several efforts
+to put radioisotopes to beneﬁcial use, the work of Melvin Calvin is
+exemplary. The use of radioactive 14C by him in algal photosynthesis
+studies led to the discovery that the ﬁrst CO2 ﬁxation product was a
+3-carbon organic acid. He also contributed to working out the complete
+biosynthetic pathway; hence it was called Calvin cycle after him. The
+ﬁrst product identiﬁed was 3-phosphoglyceric acid or in short PGA.
+How many carbon atoms does it have?

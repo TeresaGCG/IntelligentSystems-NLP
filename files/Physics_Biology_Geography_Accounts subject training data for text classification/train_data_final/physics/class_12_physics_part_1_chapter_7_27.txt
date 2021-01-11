@@ -1,0 +1,69 @@
+6.11
+
+6.12
+
+6.13
+
+6.14
+
+Electromagnetic
+Induction
+
+ 
+
+having a span of 25 m, if the Earth’s magnetic field at the location
+has a magnitude of 5 X 10'4T and the dip angle is 30°.
+
+ADDITIONAL EXERCISES
+
+Suppose the loop in Exercise 64 is stationary but the current
+feeding the electromagnet that produces the magnetic field is
+gradually reduced so that the field decreases from its initial value
+of 0.3 T at the rate of 0.02 T S'l. If the cut is joined and the loop
+has a resistance of 1.6 S), how much power is dissipated by the
+loop as heat? What is the source of this power?
+
+A square loop of side 12 cm with its sides parallel to X and Y axes is
+moved with a velocity of 8 cm S'1 in the positive x—direction in an
+environment containing a magnetic field in the positive z-direction.
+The field is neither uniform in space nor constant in time. It has a
+gradient of 10 '3 T cm‘1 along the negative x—direction (that is it increases
+by 10'3 T cm'1 as one moves in the negative x—direction), and it is
+decreasing in time at the rate of 10‘3T s‘l. Determine the direction and
+magnitude of the induced current in the loop if its resistance is 4.50 m9.
+
+It is desired to measure the magnitude of ﬁeld between the poles of a
+powerful loud speaker magnet. A small ﬂat search coil of area 2 cm2
+with 25 closely wound turns, is positioned normal to the field
+direction, and then quickly snatched out of the field region.
+Equivalently, one can give it a quick 90° turn to bring its plane
+parallel to the field direction). The total charge ﬂown in the coil
+(measured by a ballistic galvanometer connected to coil) is
+7.5 mC. The combined resistance of the coil and the galvanometer is
+0.50 9. Estimate the field strength of magnet.
+
+Figure 6.20 shows a metal rod PQ resting on the smooth rails AB
+and positioned between the poles of a permanent magnet. The rails,
+the rod, and the magnetic field are in three mutual perpendicular
+directions. A galvanometer G connects the rails through a switch K.
+Length of the rod = 15 cm, B = 0.50 T, resistance of the closed loop
+containing the rod = 9.0 m9. Assume the ﬁeld to be uniform.
+(a) Suppose K is open and the rod is moved with a speed of 12 cm s—1
+in the direction shown. Give the polarity and magnitude of the
+induced emf.
+
+ 
+
+ 
+
+FIGURE 6.20
+
+(b) Is there an excess charge built up at the ends of the rods when
+K is open? What if K is closed?
+
+(c) With K open and the rod moving uniformly, there is no net
+force on the electrons in the rod PQ even though they do
+
+2019-20
+
+231

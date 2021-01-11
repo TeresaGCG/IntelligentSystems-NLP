@@ -1,0 +1,39 @@
+224 Chapter 3 Arithmetic: for Computers
+Things begin to calm down, despite Intel neglecting to explain why a typical
+customer would access floating-point numbers randomly.
+• December 12, 1994: IBM Research Division disputes Intel's calculation of the
+rate of errors (you can access this article by visiting www.mkp.comlbooks_
+catalog/cod/lillks.htm). IBM claims that common spreadsheet programs,
+recalculating for 15 minutes a day, could produce Pentium-related errors as
+often as once every 24 days. IBM assumes 5000 divides per second, for 15
+minutes, yielding 4.2 million divides per day, and does not assume random
+distribution of numbers, instead calculating the chances as one in 100 mil 
+lion. As a result, IBM immediately stops shipment of all IBM personal com 
+puters based on the Pentium. Things heat up again for Intel.
+• December 21, 1994: Intel releases the following, signed by Intel's president,
+chief executive officer, chief operating officer, and chairman of the board:
+"We at Intel wish to sincerely apologize for our handling of the recently pub 
+licized Pentium processor flaw. The Intel Inside symbol means that your
+computer has a microprocessor second to none in quality and performance.
+Thousands of Intel employees work very hard to ensure that this is true. But
+no microprocessor is ever perfect. \Vhat Intel continues to believe is techni 
+cally an extremely minor problem has taken on a life of its own. Although
+Intel firmly stands behind the quality of the current version of the Pentium
+processor, we recognize that many users have concerns. \Ve want to resolve
+these concerns. Intel will exchange the current version of the Pentium pro 
+cessor for an updated version, in which this floating-point divide flaw is cor 
+rected, for any owner who requests it, free of charge anytime during the life
+of their computer." Analysts estimate that this recall cost Intel $500 million,
+and Intel employees did not get a Christmas bonus that year.
+This story brings up a few points for everyone to ponder. How much cheaper
+would it have been to fix the bug in July 1994? What was the cost to repair the
+damage to Intel's reputation? And what is the corporate responsibility in
+disclosing bugs in a product so widely used and relied upon as a microprocessor?
+In April 1997 another floating-point bug was revealed in the Pentium Pro and
+Pentium II microprocessors. When the floating-point-to-integer store instruc 
+tions (fi st, fi stp) encounter a negative floating-point number that is too large
+to fit in a 16- or 32-bit word after being converted to integer, they set the wrong bit
+in the FPO status word (precision exception instead of invalid operation excep 
+tion). To Intel's credit, this time they publicly acknowledged the bug and offered a
+software patch to get around it-quite a different reaction from what they did in
+1994.

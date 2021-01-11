@@ -1,0 +1,132 @@
+96
+
+PHYSICS
+
+ 
+
+The retarding force, by the second law of
+
+motion, is
+= 0.04 kg X 6750 m s'2 = 270 N
+
+The actual resistive force, and therefore,
+retardation of the bullet may not be uniform. The
+answer therefore, only indicates the average
+resistive force. 4
+
+F Example 5.3 The motion of a particle of
+
+1
+
+mass m is described by y = H! -‘v- 7 g}! , . Find
+
+ 
+
+the force acting on the particle.
+
+Answer We know
+1
+
+=ut+— t2
+y 29
+Now,
+dy
+
+v=—=u+ t
+dt 9
+
+l t‘ lei-ﬂ-
+
+acce era ion, (it
+
+Then the force is given by Eq. (5.5)
+F = ma = mg
+Thus the given equation describes the motion
+of a particle under acceleration due to gravity
+and y is the position coordinate in the direction
+
+of g. 4
+
+Impulse
+
+We sometimes encounter examples where a large
+force acts for a very short duration producing a
+finite change in momentum of the body. For
+example, when a ball hits a wall and bounces
+back, the force on the ball by the wall acts for a
+very short time when the two are in contact, yet
+the force is large enough to reverse the momentum
+of the ball. Often, in these situations, the force
+and the time duration are difficult to ascertain
+separately. However, the product of force and time,
+which is the change in momentum of the body
+remains a measurable quantity. This product is
+called impulse:
+
+Impulse = Force X time duration
+= Change in momentum (5.7)
+
+A large force acting for a short time to produce a
+finite change in momentum is called an impulsive
+force. In the history of science, impulsive forces
+were put in a conceptually different category from
+
+2019-20
+
+ordinary forces. Newtonian mechanics has no
+such distinction. Impulsive force is like any other
+force — except that it is large and acts for a short
+time.
+
+> Example 5.4 A batsman hits back a ball
+straight in the direction of the bowler without
+changing its initial speed of 12 m S’l.
+
+If the mass of the ball is O. 15 kg, determine
+the impulse imparted to the ball. (Assume
+linear motion of the ball)
+
+ 
+
+Answer Change in momentum
+= 0.15 X 12—(—0.15X12)
+
+= 3.6Ns,
+
+Impulse = 3.6 N s,
+in the direction from the batsman to the bowler.
+
+This is an example where the force on the ball
+by the batsman and the time of contact of the
+ball and the bat are difficult to know, but the
+impulse is readily calculated. 4
+
+5.6 NEWTON’S THIRD LAW OF MOTION
+
+The second law relates the external force on a
+body to its acceleration. What is the origin of the
+external force on the body ? What agency
+provides the external force ? The simple answer
+in Newtonian mechanics is that the external
+force on a body always arises due to some other
+body. Consider a pair of bodies A and B. B gives
+rise to an external force on A. A natural question
+is: Does A in turn give rise to an external force
+on B ? In some examples, the answer seems
+clear. If you press a coiled spring, the spring is
+compressed by the force of your hand. The
+compressed spring in turn exerts a force on your
+hand and you can feel it. But what if the bodies
+are not in contact ? The earth pulls a stone
+downwards due to gravity. Does the stone exert
+a force on the earth ? The answer is not obvious
+since we hardly see the effect of the stone on the
+earth. The answer according to Newton is: Yes,
+the stone does exert an equal and opposite force
+on the earth. We do not notice it since the earth
+is very massive and the effect of a small force on
+its motion is negligible.
+
+Thus, according to Newtonian mechanics,
+force never occurs singly in nature. Force is the
+mutual interaction between two bodies. Forces

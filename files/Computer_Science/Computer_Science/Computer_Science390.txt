@@ -1,0 +1,42 @@
+374 Chapter 6 Enhancing Performance with Plpellnlng
+We can the pipelining speedup discussion above into a formula. If the
+nlfll
+stages are perfectly balanced, then the time between instructions on the pipelined
+processor-assuming ideal conditions-is equal to
+· b . . Time between instructionsuoupipeliuw
+Tlme etween 11lstructlonSpjpdin~d =
+Number of pipe stages
+Under ideal conditions and with a large number of instructions, the speedup from
+pipelining is approximately equal to the number of pipe stages; a five-stage pipe 
+line is nearly five times faster.
+The formula suggests that a five-stage pipeline should offer nearly a fivefold
+improvement over the 800 ps nonpipelined time, or a 160 ps clock cycle. The
+example shows, however, that the stages may be imperfectly balanced. In addition,
+pipelining involves some overhead, the source of which will be more clear shortly.
+Thus, the time per instruction in the pipelined processor will exceed the mini 
+mum possible, and speedup will be less than the number of pipeline stages.
+Moreover, even our claim of fourfold improvement for our example is not
+reflected in the total execution time for the three instructions: it's 1400 ps versus
+2400 ps. Of course, this is because the number of instructions is not large. What
+would happen if we increased the number of instructions? We could extend the
+previous figures to 1,000,003 instructions. We would add 1,000,000 instructions
+in the pipelined example; each instruction adds 200 ps to the total execution time.
++
+The total execution time would be 1,000,000 X 200 ps 1400 ps, or 200,00 1,400
+ps. In the nonpipelined example, we would add 1,0000,000 instructions, each tak 
++
+ing 800 ps, so total execution time would be 1,000,000 X 800 ps 2400 ps, or
+800,002,400 ps. Under these ideal conditions, the ratio of total execution times for
+real programs on nonpipelined to pipelined processors is close to the ratio of
+times between instructions:
+800,002,400 ps '" 4.00 '" 800 ps
+200,00 1,400 ps 200 ps
+Pipelining improves performance by increasing instruction throughput, as
+opposed to decreasing the execution time of an individual instruction, but instruc 
+tion throughput is the important metric because real programs execute billions of
+instructions.
+Designing Instruction Sets for Pipelining
+Even with this simple explanation of pipelining, we can get insight into the design
+of the MIPS instruction set, which was designed for pipelined execution.
+First, all MIPS instructions are the same length. This restriction makes it much
+easier to fetch instructions in the first pipeline stage and to decode them in the

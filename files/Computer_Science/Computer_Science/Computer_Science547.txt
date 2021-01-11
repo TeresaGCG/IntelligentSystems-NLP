@@ -1,0 +1,38 @@
+7.4 Virtual Memory 531
+Handling TLB Misses and Page Faults
+Although the tra tlslation of virtual to physical addresses with a TLB is straightfor 
+ward when we get a TLB hit, handling TLB misses and page faults are more com 
+plex. A TLB miss occurs when no entry in the TLB matches a virtual address. A
+TLB miss can indicate one of two possibilities:
+I. The page is present in memory, and we need only create the missing TLB entry.
+2. The page is not present in memory, and we need to transfer control to the
+operating system to deal with a page fault.
+How do we know which of these two circumstances has occurred? \Vhen we pro 
+cess the TLB miss, we will look for a page table entry to bring into the TLB. If the
+matching page table entry has a valid bit that is turned off, then the corresponding
+page is not in memory and we have a page fault, rather than just a TLB miss. If the
+valid bit is on, we can simply retrieve the desired entry.
+A TLB miss can be handled in softwa re or hardwa re because it will require only
+a short sequence of operations to copy a valid page table entry from memory into
+the TLB. MIPS traditioll3lly handles a TLB miss in software. It brings in the page
+table entry from memory and then reexecutes the instruction that caused the TLB
+miss. Upon reexecuting it will get a TLB hit. If the page table entry indicates the
+page is not in memory, this time it will get a page fault exception.
+Handling a TLB miss or a page fault requires using the exception mechanism to
+interrupt the active process, transferring control to the operating system, and later
+resuming execution of the interrupted process. A page fault will be recognized
+sometime during the clock cycle used to access memory. To restart the instruction
+after the page fault is handled, the program counter of the instruction that caused
+the page fault must be saved. Just as in Chapters 5 and 6, the exception program
+counter (EPC) is used to hold this value.
+In addition, a TLB miss or page fault exception must be asserted by the end of
+the same clock cycle that the memory access occurs, so that the next clock cycle
+will begin exception processing rather than continue normal instruction execu 
+tion. If the page fault was not recognized in this clock cycle, a load instruction
+could overwrite a register, and this could be disastrous when we try to restart the
+instruction. For example, consider the instruction 1w $1 , 0 ( $1 ): the computer
+must be able to prevent the write pipeline stage from occurring; otherwise, it
+could not properly restart the instruction, since the contents of $1 would have
+been destroyed. A similar complication arises on stores. \Ve must prevent the
+write into memory from actually completing when there is a page fault; this is
+usually done by deasserting the write control line to the memory.

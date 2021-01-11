@@ -1,0 +1,40 @@
+6.6 Branch Hazards 425
+Comparing Performance of Several Control Schemes
+Compare performance for single-cycle, multicycle, and pipelined control
+EXAMPLE
+using the SPECint2000 instruction mix (see examples on pages 315 and 330)
+and assuming the same cycle times per unit as the example on page 315. For
+pipelined execution, assume that half of the load instructions are immedi 
+ately followed by an instruction that uses the result, that the branch delay on
+misprediction is 1 clock cycle, and that one-quarter of the branches are
+mispredicted. Assume that jumps always pay 1 full clock cycle of delay, so
+their average time is 2 clock cycles. Ignore any other hazards.
+From the example on page 315 (Performance of Single-Cycle Machines), we
+ANSWER
+get the following functional unit times:
+• 200 ps for memory access
+• 100 ps for ALU operation
+• 50 ps for register file read or write
+For the single-cycle datapath, this leads to a clock cycle of
+200+50+ 100+200+50 = 600ps
+The example on page 330 (CPI in a Multicycle CPU) has the following in 
+struction frequencies:
+•
+25% loads
+•
+10% stores
+•
+11 % branches
+•
+2% jumps
+•
+52% ALU instructions
+Furthermore, the example on page 330 showed that the CPI for the multiple
+design was 4.1 2. The clock cycle for the multicycle datapath and the pipelined
+design must be the same as the longest functional unit: 200 ps.
+For the pipelined design, loads take 1 clock cycle when there is no load-use
+dependence and 2 when there is. Hence, the average clock cycles per load in 
+struction is 1.5. Stores take 1clock cycle, as do the ALU instructions. Branches
+take 1when predicted correctly and 2 when not, so the average clock cycles per
+branch instruction is 1.25. The jump CPI is 2. Hence the average CPI is
+1.5 X 25% + 1 X 10%+ 1 x52 % + 1.25 X 11 '/0 +2x2% = 1.1 7

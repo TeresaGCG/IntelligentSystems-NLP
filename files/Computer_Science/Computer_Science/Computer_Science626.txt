@@ -1,0 +1,37 @@
+610 Chapter 8
+performance, measured both in latency and in throughput. These goals lead to
+widely varying schemes for interfacing I/O devices. In the low-end and midrange
+systems, buffered DMA is likely to be the dominant transfer mechanism. In the
+high-end systems, latency and bandwidth may both be important, and cost may
+be secondary. Multiple paths to I/O devices with limited buffering often charac 
+terize high-end I/O systems. Typically, being able to access the data on an I/O
+device at any time (high availability) becomes more important as systems grow. As
+a result, redundancy and error correction mechanisms become more and more
+prevalent as we enlarge the system.
+Storage and networking demands are growing at unprecedented rates, in part
+because of increasing demands for all information to be at your fingertips. One
+estimate is that the amount of information created in 2002 was 5 exabytes 
+equivalent to 500,000 copies of the text in the U.S. Library of Congress-and that
+the total amount of information in the world doubled in the last three years
+(Lyman and Varian 2003J.
+Future directions of I/O include expanding the reach of wired and wireless net 
+works, with nearly every device potentially having an IP address, and the continu 
+ing transformation from parallel buses to serial networks and switches. However,
+consolidation in the disk industry may lead to a slowdown in improvement in disk
+capacity to earlier rates, which have doubled every year between 2000 and 2004.
+Understanding The performance of an I/O system, whether measured by bandwidth or latency,
+depends on all the elements in the path between the device and memory, includ 
+Program
+ing the operating system that generates the I/O commands. The bandwidth of the
+Performance
+buses, the memory, and the device determine the maximum transfer rate from or
+to the device. Similarly, the latency depends on the device latency, together with
+any latency imposed by the memory system or buses. The effective bandwidth and
+response latency also depend on other I/O requests that may cause contention for
+some resource in the path. Finally, the operating system is a bottleneck. In some
+cases, the OS takes a long time to deliver an I/O request from a user program to an
+I/O device, leading to high latency. In other cases, the operating system effectively
+limits the I/O bandwidth because of limitations in the number of concurrent I/O
+operations it can support.
+Keep in mind that while performance can help sell an I/O system, users over 
+whelmingly demand dependability and capacity from their I/O systems.

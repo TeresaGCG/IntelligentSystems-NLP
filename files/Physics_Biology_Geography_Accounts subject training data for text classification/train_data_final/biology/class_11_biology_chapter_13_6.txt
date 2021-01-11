@@ -1,0 +1,82 @@
+212
+
+Photosystem II Photosystem I
+
+      
+ 
+
+, - acceptor
+
+   
+  
+ 
+
+  
+
+Electron
+transport
+
+    
+
+H20 —> 2e-+ 2H+ + [0]
+
+Figure 13.5 Z scheme of light reaction
+
+0‘3pr11
+NADP+
+
+ 
+
+BIOLOGY
+
+system consisting of cytochromes (Figure
+13.5). This movement of electrons is downhill,
+in terms of an oxidation-reduction or redox
+potential scale. The electrons are not used up
+as they pass through the electron transport
+chain, but are passed on to the pigments of
+photosystem PS I. Simultaneously, electrons
+in the reaction centre of PS I are also excited
+when they receive red light of wavelength 700
+nm and are transferred to another accepter
+molecule that has a greater redox potential.
+These electrons then are moved downhill
+again, this time to a molecule of energy-rich
+NADP’“. The addition of these electrons reduces
+NADP+ to NADPH + H“. This whole scheme of
+transfer of electrons, starting from the PS 11,
+uphill to the acceptor, down the electron
+transport chain to PS I, excitation of electrons,
+
+transfer to another acceptor, and ﬁnally down hill to NADP+ reducing it to
+NADPH + H+ is called the Z scheme, due to its characterstic shape (Figure
+13.5). This shape is formed when all the carriers are placed in a sequence
+
+on a redox potential scale.
+
+13.6. 1 Splitting of Water
+
+You would then ask, How does PS II supply electrons continuously? The
+electrons that were moved from photosystem 11 must be replaced. This is
+achieved by electrons available due to splitting of water. The splitting of
+water is associated with the PS 11; water is split into 2H“, [0] and electrons.
+This creates oxygen, one of the net products of photosynthesis. The
+electrons needed to replace those removed from photosystem I are provided
+
+by photosystem II.
+
+ 
+
+ 
+ 
+
+We need to emphasise here that the water splitting complex is associated
+with the PS 11, which itself is physically located on the inner side of the
+membrane of the thylakoid. Then, where are the protons and 02 formed
+likely to be released — in the lumen? or on the outer side of the membrane?
+
+13.6.2 Cyclic and Non-cyclic Photo-phosphorylation
+
+Living organisms have the capability of extracting energy from oxidisable
+substances and store this in the form ofbond energy. Special substances like
+ATP, carry this energy in their chemical bonds. The process through which

@@ -1,0 +1,26 @@
+Trial Balance and Rectification of Errors 203
+
+If a transaction is recorded in cash book, then the error in posting relates to the
+other affected account, not to cash account/bank account
+
+If a transaction is recorded through journal proper, then the phrase ‘transaction
+was not posted’ indicates error in both the accounts involved, unless stated
+otherwise.
+
+Error in casting of subsidiary books will affect only that account where total of
+the particular book is posted leaving the individual personal accounts unaffected.
+
+Test Your Understanding - III
+
+Show the effect through Journal entries:
+
+Credit sales to Mohan ? 10,000 were posted to his account as ? 12,000
+This is an error of ..................................
+
+The wrong effect has been:
+
+1.
+
+ 
+
+2019-2020

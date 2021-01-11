@@ -1,0 +1,69 @@
+Wave Optics
+
+N 1.22].
+_2sin,8
+
+If the medium between the object and the objective lens is not air but
+a medium of refractive index n, Eq. (10.29) gets modiﬁed to
+
+1.22/1
+
+d . :—
+mm 2nsinﬂ (10.30)
+
+The product n sinB is called the numerical aperture and is sometimes
+marked on the objective.
+
+The resolving power of the microscope is given by the reciprocal of
+the minimum separation of two points seen as distinct. It can be seen
+from Eq. (10.30) that the resolving power can be increased by choosing a
+medium of higher refractive index. Usually an oil having a refractive index
+close to that of the objective glass is used. Such an arrangement is called
+an ‘oil immersion objective’. Notice that it is not possible to make sinB
+larger than unity. Thus, we see that the resolving power of a microscope
+is basically determined by the wavelength of the light used.
+
+There is a likelihood of confusion between resolution and
+magnification, and similarly between the role of a telescope and a
+microscope to deal with these parameters. A telescope produces images
+of far objects nearer to our eye. Therefore objects which are not resolved
+at far distance, can be resolved by looking at them through a telescope.
+A microscope, on the other hand, magnifies objects (which are near to
+us) and produces their larger image. We may be looking at two stars or
+two satellites of a far-away planet, or we may be looking at different
+regions of a living cell. In this context, it is good to remember that a
+telescope resolves whereas a microscope magnifies.
+
+10.6.4 The validity of ray optics
+
+An aperture (i.e., slit or hole) of size a illuminated by a parallel beam
+sends diffracted light into an angle of approximately z A/ a. This is the
+angular size of the bright central maximum. In travelling a distance 2,
+the diffracted beam therefore acquires a width 21/ a due to diffraction. It
+is interesting to ask at what value of z the spreading due to diffraction
+becomes comparable to the size a of the aperture. We thus approximately
+equate z?» / a with a. This gives the distance beyond which divergence of
+the beam of width abecomes significant. Therefore,
+
+ 
+
+(10.29)
+
+a2
+
+3:7 (10.31)
+
+We deﬁne a quantity zF called the Fresnel distance by the following
+equation
+
+zF : a2 / x1
+
+Equation (10.3 1) shows that for distances much smaller than zF, the
+spreading due to diffraction is smaller compared to the size of the beam.
+
+It becomes comparable when the distance is approximately zF. For
+distances much greater than 2 , the spreading due to diffraction
+
+2019-20
+
+375

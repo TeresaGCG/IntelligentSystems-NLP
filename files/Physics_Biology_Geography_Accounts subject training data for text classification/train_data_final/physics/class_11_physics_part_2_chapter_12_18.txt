@@ -1,0 +1,26 @@
+THERMODYNAMICS
+—
+
+POINTS TO PONDER
+
+1. Temperature of a body is related to its average internal energi, not to the kinetic energy
+of motion of its centre of mass. A bullet ﬁred from a gun is not at a higher temperature
+because of its high speed.
+
+Equilibrium in thermodynamics refers to the situation when macroscopic variables
+describing the thermodynamic state of a system do not depend on time. Equilibrium of
+a system in mechanics means the net external force and torque on the system are zero.
+
+In a state of thermodynamic equilibrium, the microscopic constituents of a system are
+not in equilibrium (in the sense of mechanics).
+
+Heat capacity, in general, depends on the process the system goes through when heat is
+supplied.
+
+In isothermal quasi-static processes, heat is absorbed or given out by the system even
+though at every stage the gas has the same temperature as that of the surrounding
+reservoir. This is possible because of the inﬁnitesimal difference in temperature between
+
+the system and the reservoir.
+
+EXERCISES

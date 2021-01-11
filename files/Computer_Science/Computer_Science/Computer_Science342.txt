@@ -1,0 +1,43 @@
+326 Chapter 5 The Processor: Datapath and Control
+Operation: Send the PC to the memory as the address, perform:l read, and write
+the instruction into the Instruction register (IR), where it will be stored. Also,
+increment the PC by 4. We use the symbol "<=" from Verilog; it indicates that all
+right-hand sides are evaluated and then all assignments are made, which is effec 
+tively how the hardware executes during the clock cycle.
+To implement this step, we will need to assert the control signals MemRead and
+IRWrite, and set lorD to 0 to select the PC as the source of the address. We also
+increment the PC by 4, which requires setting the ALUSrcA signal to 0 (sending the
+PC to the ALU), the ALUSrcB signal to 01 (sending 4 to the ALU), and ALUOp to 00
+(to make the ALU add). Finally, we will also want to store the incremented instruc 
+tion address back into the PC, which requires setting PC source to ()() and setting
+PCWrite. The increment of the PC and the instruction memory access can occur in
+parallel. The new value of the PC is not visible until the next clock cycle. (The incre 
+mented PC will also be stored into ALUOut, but this action is benign.)
+2. Instruction decode and register fetch step
+In the previous step and in this one, we do not yet know what the instruction is, so
+we can perform only actions that are either applicable to all instructions (such as
+fetching the instruction in step 1) or are not harmful, in case the instruction isn't
+what we think it might be. Thus, in this step we can read the two registers indi 
+cated by the rs and rt instruction fields, since it isn't harmful to read them even if
+it isn't necessary. The values read from the register file may be needed in later
+stages, so we read them from the register file and store the values into the tempo 
+rary registers A and B.
+We will also compute the branch target address with the ALU, which also is not
+harmful because we can ignore the value if the instruction out not to be a
+nlfllS
+branch. The potential branch target is saved in ALUOut.
+Perfo rming these "optimistic" actions early has the benefit of decreasing the
+number of clock cycles needed to execute an instruction. We can do these optimis 
+tic actions early because of the regularity of the instruction formats. For
+instance, if the instruction has two register inputs, they are always in the rs and rt
+fields, and if the instruction is a branch, the offset is always the low-order 16 bits:
+A Reg[IR[ZS , ZlJJ ,
+<~
+B Reg[IR[ZO , 16JJ ,
+<~
+<= «
+ALUOut PC + (s ign -ext end (IR[15 - 0]) 2) ;
+Operation: Access the register file to read registers rs and rt and store the results
+into the registers A and B. Since A and B are overwritten on every cycle, the regis 
+ter file can be read on every cycle with the values stored into A and B. This step
+also computes the branch target address and stores the address in ALUOut, where

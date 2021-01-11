@@ -1,0 +1,54 @@
+6.2 A Plpellned Datapath 395
+~ '"", ':'"-~ M~
+b
+~
+• I",
+,
+hilt ,......,
+ri,f- ~
+I'-,
+~ - -
+~
+" ._ , -
+"
+• -
+,• ~ . - I: -,-_-., -
+-
+--
+~ --, -
+~.
+- - ,
+ALU ALU _
+'0 ".
+/ -
+"
+~" " ••
+0
+•• o •
+• -
+C- "-'
+~. "-- -
+~..
+"
+f-
+~
+~
+FIGURE 6.17 The corrected p1pellned datapath to properly handle the load Instruction. The write re81ster number now comes from
+the MEM/WB pipeline register along with the data.The register number is passed from the ID pipe stage until it reaches the MEM/WB pipeline regis 
+ter, adding 5 more bits to the last three pipeline registers. This new path is shown in color.
+the WB stage. Another way to think about the passing of the register number is
+that, in order to share the pipelined datapath, we needed to preserve the instruc 
+tion read during the IF stage, so each pipeline register contains a portion of the
+instruction needed for that stage and later stages.
+Figure 6. 17 shows the correct version of the datapath, passing the write register
+number first to the ID/EX register, then to the EX/MEM register, and finally to the
+MEM/WB register. The register number is used during the WB stage to specify the
+register to be written. Figure 6. 18 is a single drawing of the corrected datapath,
+highlighting the hardware used in all five stages of the load word instruction in
+Figures 6. 12 through 6. 14. See Section 6.6 for an explanation of how to make the
+branch instruction work as expected.
+Graphically Representing Pipelines
+Pipelining ca n be difficult to understand, since many instructions are simulta 
+neously executing in a single datapath in every clock cycle. To aid understanding,
+there are two basic styles of pipeline figures: multiple-clock-cycle pipeline dia 
+grams, such as Figure 6.10 on page 387, and single-clock-cycle pipeline diagrams,

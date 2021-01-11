@@ -1,0 +1,110 @@
+WORK. ENERGY AND POWER
+
+ 
+
+A dot B) is defined as
+A-B =ABcos 0 (6.1a)
+
+where 0 is the angle between the two vectors as
+shown in Fig. 6.1(a). Since A, B and cos 0 are
+scalars, the dot product of A and B is a scalar
+quantity. Each vector, A and B, has a direction
+but their scalar product does not have a
+direction.
+
+From Eq. (6. la), we have
+
+A-B =A (B cos 0)
+= B (A cos 0)
+
+Geometrically, B cos 0 is the projection of B onto
+A in Fig.6. 1 (b) and A cos 6 is the projection of A
+onto B in Fig. 6.1 (c). So, AB is the product of
+the magnitude of A and the component of B along
+A. Alternatively, it is the product of the
+magnitude of B and the component of A along B.
+
+Equation (6. la) shows that the scalar product
+follows the commutative law :
+
+A-B = B-A
+
+Scalar product obeys the distributive
+law:
+
+A- (B + C) = A-B +A-C
+Further, A- (7L B) = 7L (A-B)
+where 7L is a real number.
+
+The proofs of the above equations are left to
+you as an exercise.
+
+o
+
+HO) HO)
+
+Given two vectors
+
+A
+
+(a)
+
+I
+—>: 30050
+
+    
+
+1 15
+A = Axi + ij + All}
+B 2 Bi + By} + 321}
+their scalar product is
+AB = (Axi + ij + Azli)-(Bxi + By} + 3211)
+= AXBX + AyBy + AZBZ (6.1b)
+
+From the definition of scalar product and
+(Eq. 6. lb) we have :
+
+(1) A.A = AXAX + AyAy + AZAZ
+2 2 2 2
+Or, A = AX + Ag + AZ (6. 1c)
+
+since A-A= IA | |A| cos 0 =A2.
+(ii) AB = 0, if A and B are perpendicular.
+
+P Example 6.1 Find the angle between force
+F = (3 i + 4 j - 5 1;] unit and displacement
+
+d = [5i+4j+3f{) unit. Also find the
+projection ofF on d.
+AnswerF-d = dex + Fydy + dez
+
+=3(5)+4(4)+(—5)(3)
+16 unit
+
+ 
+
+Hence F-d = Fd cos6? = 16 unit
+
+NowF-F = F2 =Fx2 +Fy2 +Fz2
+
+9+ l6+25
+=50unit
+
+anddod =d2= d§+d§+d§
+
+=25+l6+9
+=50unit
+
+ 
+
+ 
+
+A
+
+.<—
+(b) (C)
+
+Fig. 6. 1 [a] The scalar product of two vectors A and B is a scalar : A- B = A B cos 0. [b] B cos 0 is the projection
+of B onto A. (c) A cos 0 is the projection of A onto B.
+
+2019-20

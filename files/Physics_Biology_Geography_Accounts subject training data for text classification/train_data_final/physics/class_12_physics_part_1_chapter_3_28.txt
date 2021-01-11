@@ -1,0 +1,79 @@
+Current
+Electricity
+
+standard known resistance S. The jockey is connected to some point D
+on the wire, a distance 1 cm from the end A. The jockey can be moved
+along the wire. The portion AD of the wire has a resistance Rcml, where
+Rcm is the resistance of the wire per unit centimetre. The portion DC of
+the wire similarly has a resistance Rem (100-1).
+
+The four arms AB, BC, DA and CD [with resistances R, S, RCm land
+Rcm(100-l)] obviously form a Wheatstone bridge with AC as the battery
+arm and BD the galvanometer arm. If the jockey is moved along the wire,
+then there will be one position where the galvanometer will show no
+current. Let the distance of the jockey from the end A at the balance
+point be l= 11- The four resistances of the bridge at the balance point then
+are R, S, RCm l1 and Rcm(lOO—ll). The balance condition, Eq. [3.83(a)]
+
+gives
+R R l1 11
+
+CT".
+
+S=Rcm (100—1,)=100—l1 (3-85)
+Thus, once we have found out ll, the unknown resistance R is known
+in terms of the standard known resistance S by
+
+11
+
+R=S —
+100—11 (3'86)
+
+By choosing various values of S, we would get various values of ll,
+and calculate R each time. An error in measurement of 11 would naturally
+result in an error in R. It can be shown that the percentage error in R can
+be minimised by adjusting the balance point near the middle of the
+bridge, i.e., when 11 is close to 50 cm. (This requires a suitable choice
+of S.)
+
+ 
+
+Example 3.9 In a meter bridge (Fig. 3.27), the null point is found at a
+distance of 33.7 cm from A. If now a resistance of 1252 is connected in
+parallel with S, the null point occurs at 51.9 cm. Determine the values
+of R and S.
+
+Solution From the ﬁrst balance point, we get
+
+R _ 33.7
+5 ‘@
+After S is connected in parallel with a resistance of 12S) , the resistance
+across the gap changes from S to Seq, where
+_ 125
+W _ s + 12
+and hence the new balance condition now gives
+
+51.9 _3_ R(S+12)
+48.l_S ' 125 (388)
+
+eq
+
+Substituting the value of R/ S from Eq. (3.87), we get
+
+51.9 _ S+12 33.7
+
+m_ 12 'E
+which gives S = 13.59. Using the value of R/S above, we get
+R = 6.86 9.
+
+(3.87)
+
+ 
+
+ 
+
+6 ' 8 Gl’IdWVXﬂ
+
+121
+
+2019-20

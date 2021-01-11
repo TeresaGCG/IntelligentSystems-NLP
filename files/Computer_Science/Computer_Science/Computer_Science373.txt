@@ -1,0 +1,38 @@
+5.13 Exercises 357
+can be eliminated and replaced by another existing control signal, or its inverse.
+Note that such redundancy is there because we have a very small set of instruc 
+tions at this point, and it will disappear (or be harder to find) when we implement
+a larger number of instructions.
+5.32 15) <§5.5> We wish to add the instruction 1ui (load upper immediate) de 
+scribed in Chapter 3 to the multicycle datapath described in this chapter. Use the
+same strucnlfe of the multicycle datapath of Figure 5.28 on page 323 and show the
+necessary modifications to the finite state machine of Figure 5.38 on page 339. You
+may find it helpful to examine the execution steps shown on pages 325 through 329
+and consider the steps that will need to be performed to execute the new instruc 
+tion. How many cycles are required to implement this instruction?
+5.33 (15) <§5.5> You are asked to modify the implementation of lui in Exercise
+5.32 in order to cut the execution time by 1cycle. Add any necessary datapaths and
+control signals to the multicycle datapath of Figure 5.28 on page 323. You can pho 
+tocopy existing figures to make it easier to show your modifications. You have to
+maintain the assumption that you don't know what the instruction is before the
+end of state 1 (end of second cycle). Please explicitly state how many cycles it takes
+to execute the new instruction on your modified datapath and finite state machine.
+5.34 (20) <§5.5> This question is similar to Exercise 5.32 except that we wish to
+implement a new instruction 1d i (load immediate) that loads a 32-bit immediate
+value from the memory location following the instruction address.
+5.35 (15) <§5.5> Consider a change to the multiple-cycle implementation that
+alters the register file so that it has only one read port. Describe (via a diagram) any
+additional changes that will need to be made to the datapath in order to support
+this modification. Modify the finite state machine to indicate how the instructions
+will work, given your new datapath.
+5.36 (15) <§5.5> Two important parameters control the performance of a pro 
+cessor: cycle time and cycles per instruction. There is an enduring trade-off be 
+tween these two parameters in the design process of microprocessors. While some
+designers prefer to increase the processor frequency at the expense of large CPI,
+other designers follow a different school of thought in which reducing the CPI
+comes at the expense oflower processor frequency.
+Consider the following machines, and compare their performance using the SPEC
+CPUint 2000 data from Figure 3.26 on page 228.
+M1: The multicycle datapath of Chapter 5 with a 1 GHz clock.
+M2: A machine like the multicycle datapath of Chapter 5, except that register
+updates are done in the same clock cycle as a memory read or ALU operation.

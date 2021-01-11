@@ -1,0 +1,25 @@
+Homework Helpers: Basic Math and Pre-Algebra
+24
+Example 1
+Divide: 348 ÷ 5
+Solution: Write the problem as 
+Divide the divisor (in this case, 5) into the left digit (or digits) of
+the dividend (in this case, 348). To do this, choose the smallest
+part of the dividend that the divisor will divide in to. Because 5 is
+greater than 3 we need to use the first two digits of our dividend:
+34. Look for the largest multiple of 5 that is less than 34. Because
+5 × 6= 30 and 5 × 7= 35, the largest multiple of 5 that is less than
+34 is 30. Place a 6 (the other factor involved in the product that
+gives 30) above the 4 (the last digit of the dividend under
+consideration), put 30 underneath the 34 and subtract 30 from 34,
+and bring down the 8 from the original 348:
+Now do the same thing with the next two digits. Look for the
+largest multiple of 5 that is less than 48. Because 5 × 9= 45, that’s
+what we need. Write a 9 next to the 6 and 45 underneath the 48,
+and subtract:
+Because 3 is less than 5 and there are no more digits to the right
+to incorporate, we are done. The number 3 in this example is
+called the remainder. The remainder is the number “left over”
+when we are finished doing the long division. So 348 ÷ 5 is equal
+to 69 remainder 3.
+www.ebook3000.com

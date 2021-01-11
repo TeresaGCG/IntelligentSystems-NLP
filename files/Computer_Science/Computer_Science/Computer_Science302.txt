@@ -1,0 +1,43 @@
+286 Chapter 5 The Processor: Datapath and Control
+Even across different instruction classes there are some similarities. For exam 
+ple, all instruction classes, except jump, use the arithmetic-logical unit (ALU)
+after reading the registers. The memory-reference instructions use the ALU for an
+address calculation, the arithmetic-logical instructions for the operation execu 
+tion, and branches for comparison. As we can see, the simplicity and regularity of
+the instruction set simplifies the implementation by making the execution of
+many of the instruction classes similar.
+After using the ALU, the actions required to complete various instruction
+classes differ. A memory-reference instruction will need to access the memory
+either to write data for a store or read data for a load. An arithmetic-logical
+instruction must write the data from the ALU back into a register. Lastly, for a
+branch instruction, we may need to change the next instruction address based on
+the comparison; otherwise the PC should be incremented by 4 to get the address
+of the next instruction.
+Figure 5.1 shows the high-level view of a MIPS implementation, focusing on
+the various functional units and their interconnection. Although this figure shows
+most of the flow of data through the processor, it omits two important aspects of
+instruction execution.
+First, in several places, Figure 5. 1 shows data going to a particular unit as
+coming from two different sources. For example, the value written into the PC
+can come from one of two adders, and the data written into the register file can
+come from either the ALU or the data memory. In practice, these data lines can 
+not simply be wired together; we must add an element that chooses from among
+the multiple sources and steers one of those sources to its destination. This selec 
+tion is commonly done with a device called a multiplexor, although this device
+might better be called a data selector. The multiplexor, which is described in
+detail in .. Appendix B, selects from among several inputs based on the setting
+of its control lines. The control lines are set based primarily on information
+taken from the instruction being executed.
+Second, several of the units must be controlled depending on the type of
+insrtruction. For example, the data memory must read on a load and write on a
+store. The register file must be written on a load and an arithmetic-logical instruc 
+tion. And, of course, the ALU must perform one of several operations, as we saw
+(II
+in Chapter 3. Appendix Bdescribes the detailed logic design of the ALU.) Like
+the muxes, these operations are directed by control lines that are set on the basis
+of various fields in the instruction.
+Figure 5.2 shows the datapath of Figure 5. 1 with the three required multiplex 
+ors added, as well as control lines for the major functional units. A control unit
+that has the instruction as an input is used to determine how to set the control
+lines for the functional units and two of the multiplexors. The third multiplexor,
+which determines whether PC + 4 or the branch destination address is written

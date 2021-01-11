@@ -1,0 +1,38 @@
+2.17 Fallacies and Pitfalls 143
+_ .
+w =1 mod = 0 mod =1 mod =2 mod =3
+16b 32b 16b 32b 16b 32b 16b 32b
+0 AL AX EAX 0 addr-BX+SI _EAX
+,.~ ~me ~me ~~ ,.~
+.,
+1 eL ex EOX 1 addr-BX+DI _ECX addras addras addras addras
+2 OL ox EOX 2 addr-BP+SI _EDX mod-O moo-O modo() mod-O ,eg
+3 BL BX EBX 3 addr-BP+SI _EBX +dispB + dispB + disp16 +disp32 field
+4 AH SP ESP 4 addr-SI "'(sib) SI-t<lispB (sib)+dispB SI+dispB (sib)-t<lisp32 •
+5 eH BP EBP 5 addr-DI _disp32 DI+dispB EBP-t<lispB DI+disp16 EBP+disp32 •
+6 OH 51 E5I 6 addr-disp16 _ESI BP-t<lispB ESI-t<lisp8 BP+disp16 ESI-t<lisp32 •
+7 BH 01 EOI 7 addr-BX _EDI BX+dispB EDI-t<lispB BX-t<lisp16 EDI+disp32 •
+FIGURE 2.46 The encoding of the first address specifier of the 1A·32, "mod, reg, r/ m."The first four columns show the encoding of
+the 3-bit reg field, which depends on the w bit from the opcooe and whether the machine is in 16-bit mode (8086) or 32-bit mooe (80386). The
+remaining columns explain the mod and rIm fields. The meaning of the 3-bit rIm field depends on the value in the 2-bit moo field and the address
+size. Basically, the registers used in the address calculation are listed in the sixth and sevemh columns, under moo = 0, with mod = I adding an 8-bit
+displacement and mod = 2 adding a 16-bit or 32-bit displacement, depending on the address mooe. The exceptions are rIm = 6 when mod = I or
+mod = 2 in 16-bit mooe selects BP plus the displacement; rIm = 5 when mod = 1or moo = 2 in 32-bit mooe selects EBP plus displacement; and rIm =
+4 in 32-bit mode when moo 0#- 3, where (sib) means use the scaled index mooe shown in Figure 2.42. When moo = 3, the rIm field indicates a register,
+using the same encoding as the reg field combined with the w bit.
+larger market mea ns Intel ca n afford more resources to help overcome the added
+complexity. What the IA-32 lacks in style is made up in quantity, making it beauti 
+ful from the right perspective.
+The saving grace is that the most frequently used IA-32 architectural components
+are not too difficult to implement, as Intel has demonstrated by rapidly improving
+performance of integer programs since 1978. To get that performance, compilers
+must avoid the portions of the architecnlre that are hard to implement fast.
+Fallacies and Pitfalls
+Fallacy: More powerful instructions mean higher performance.
+Part of the power of the Intel IA-32 is the prefixes that can modify the execu 
+tion of the following instruction. One prefix can repeat the following instruc 
+tion until a counter counts down to O. Thus, to move data in memory, it
+would seem that the natural instruction sequence is to use move with the
+repeat prefix to perform 32-bit memory-to-memory moves.
+An alternative method, which uses the standard instructions found in all com 
+puters, is to load the data into the registers and then store the registers back to

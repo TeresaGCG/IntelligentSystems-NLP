@@ -1,0 +1,154 @@
+l Physics
+
+ 
+
+Thus we obtain
+
+sin i 01
+
+sinr : 02 (10.3)
+
+ 
+
+From the above equation, we get the important result that if r < i (i.e.,
+if the ray bends toward the normal), the speed of the light wave in the
+second medium (02) will be less then the speed of the light wave in the
+first medium (vl). This prediction is opposite to the prediction from the
+corpuscular model of light and as later experiments showed, the prediction
+of the wave theory is correct. Now, if 0 represents the speed of light in
+vacuum, then,
+
+”1 2 _ (10.4)
+
+and
+
+n2 = E (10.5)
+
+are known as the refractive indices of medium 1 and medium 2,
+respectively. In terms of the refractive indices, Eq. (10.3) can be
+written as
+
+n1 sin i= n2 sin r (10.6)
+This is the Snell’s law of refraction. Further, if 11 and 12 denote the
+wavelengths of light in medium 1 and medium 2, respectively and if the
+distance BC is equal to it 1 then the distance AE will be equal to 7L2 (because
+
+if the crest from B has reached C in time ”F, then the crest from A should
+have also reached E in time T); thus,
+
+i _ E _ a
+
+12 AE v2
+or
+
+i = ”—2
+
+11 1.2 (10.7)
+
+The above equation implies that when a wave gets refracted into a
+denser medium (01 > 02) the wavelength and the speed of propagation
+decrease but the frequency v (= v/7») remains the same.
+
+4—)
+8
+‘6:
+o)
+)—
+2
+o.
+o.
+o
+Q
+“o
+c
+m
+a)
+U
+c
+m
+c
+o
+U)
+o
+5.1
+d
+o
+'5
+U
+m
+8:
+cu
+L.‘
+d
+.9
+4—)
+U
+g
+E
+'o
+:35
+U
+c
+o
+5—:
+g
+)—
+o2
+._.
+.E
+Q—
+o
+s:
+o
+g:
+m
+h
+4—)
+U)
+c
+o
+E
+a)
+Q
+
+\
+1)
+CL
+C).
+‘:
+\
+E
+O
+’~€
+"a
+re
+.4
+L.”
+E
+3
+§
+§
+9.
+a
+H
+.2
+
+10.3.2 Refraction at a rarer medium
+
+We now consider refraction of a plane wave at a rarer medium, i.e.,
+02 > 01- Proceeding in an exactly similar manner we can construct a
+refracted wavefront as shown in Fig. 10.5. The angle of refraction
+will now be greater than angle of incidence; however, we will still have
+n1 sin i= n2 sin r. We define an angle iC by the following equation
+
+ 
+
+sin ic = & (10.8)
+
+n1
+Thus, if i = iC then sin r = 1 and r = 90°. Obviously, for i> is, there can
+not be any refracted wave. The angle iC is known as the critical angle and
+
+356 for all angles of incidence greater than the critical angle, we will not have
+
+2019-20

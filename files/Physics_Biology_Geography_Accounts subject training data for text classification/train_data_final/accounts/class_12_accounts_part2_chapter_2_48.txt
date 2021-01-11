@@ -1,0 +1,54 @@
+1 20 Accountancy : Company Accounts and Analysis of Financial Statements
+
+12% Debentures A/c Dr.
+To Bank A/c
+To Proﬁt on Redemption of Debentures A/c
+(Purchase of 200 debentures @ Rs. 98.50 plus
+expenses amounting to Rs. 100.)
+
+Proﬁt on Redemption of Debentures A/c
+To Capital Reserve
+(Proﬁt on Redemption transferred to Capital
+
+Reserve.)
+
+1 2% Debentures A/c
+To Bank A/c
+(Redemption of Rs. 50 debentures)
+
+Debenture Redemption Reserve A/c
+
+To General Reserve
+(Balance is DRR transferred to General
+Reserve on Redemption of Debentures)
+
+ 
+
+Illustration 24
+
+On April 0 1, 20 13, a company made an issue of 1,000, 6% debentures of
+Rs 1,000 each at Rs 960 per debenture. The terms of issue provided for the
+redemption of 200 debentures every year starting from 31 March 20 15 either by
+purchase or by draw of lot at par at the company’s option. Rs 10,000 was written-
+off as the debenture discount account in years ending on March 3 1, 20 14—1 5. On
+31.03.2015, the company purchased for cancellation debentures of the face
+value of Rs 80,000 at Rs 950 per debenture and of the face value of Rs 1 ,20,000
+at Rs 900 per debenture.
+
+J ournalise the above transaction and show the profit on redemption would
+be treated.
+
+Solution:
+
+_I
+
+2013 Bank A/c 9.60.000
+To 6% Debentures Application & Allotment A/c 9.60.000
+
+(Debentures application money received)
+
+Apr. 01 6% Debentures Application & Allotment A/c Dr. 9.60.000
+Discount on Issue of Debentures A/c . 40,000
+To 6% Debentures A/c 10.00.000
+(Debentures application money transferred
+to Debentures A/c)

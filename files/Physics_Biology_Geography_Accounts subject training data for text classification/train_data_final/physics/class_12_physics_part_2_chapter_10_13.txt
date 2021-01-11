@@ -1,0 +1,70 @@
+l Physics
+
+ 
+
+364
+
+ 
+
+ 
+
+where 8182 = d and OP = x. Thus
+
+2xd
+82P+slp
+
+If x, d<<D then negligible error will be introduced if
+S2P + SIP (in the denominator) is replaced by 2D. For
+example, for d = 0.1 cm, D = 100 cm, OP = 1 cm (which
+correspond to typical values for an interference
+
+sZP—slp = (10.16)
+
+5 experiment using light waves), we have
+a s21) + SlP = [(100)2 + (105)21” + [(100)2 + (095)21”
+T z 200.01 cm
+c0 T1h7o7rgas 1829 EYo‘ll'nﬁ Thus if we replace S2P + SIP by 2 D, the error involved is
+1‘ I . ._ ). . ng ls about 0.005%. In this approximation, Eq. (10.16)
+[\ phys1c1st, phys1c1an and b
+:1 Egyptologist. Young worked ecomes
+(5 on a wide variety of xd
+Z scientiﬁc problems, ranging S2P — SIP ~ 3 (10-17)
+f th t t f th
+E :31; US: 1:1: 21:21:15; 63:; Hence we will have constructive interference resulting in
+vision to the decipherment . . ﬂ = E 1 1 Th .
+U) of the Rosetta stone. He a bright region when D nM q. ( 0. 5)]. at is,
+g revived the wave theory of n/ID
+0 light and recognised that X: X“ = T; 11 = 0, i 1, i 2, (10.18)
+: interference phenomena
+F provide proof of the wave On the other hand, we will have destructiive
+Properties of light. interference resulting in a dark region when % = (n+ 5 ) 2.
+that is
+1 AD
+xzxn:(n+§) 7, n=0,i1,i—2 (10.19)
+
+Thus dark and bright bands appear on the screen, as shown in
+Fig. 1 0. 1 3. Such bands are called fringes. Equations (1 0. 1 8) and (10. 1 9)
+show that dark and bright fringes are equally spaced and the distance
+between two consecutive bright and dark fringes is given by
+
+AD
+
+[3 = xn+1 —xn or [3 — 7 (10-20)
+
+which is the expression for the fringe width. Obviously, the central point
+O (in Fig. 10. 12) will be bright because 810 = 820 and it will correspond
+to n = 0 [Eq. (10.18)]. If we consider the line perpendicular to the plane
+of the paper and passing through 0 [i.e., along the y—axis] then all points
+on this line will be equidistant from S1 and S2 and we will have a bright
+central fringe which is a straight line as shown in Fig. 10.13. In order
+to determine the shape of the interference pattern on the screen we note
+that a particular fringe would correspond to the locus of points with a
+constant value of SZP — SIP. Whenever this constant is an integral
+multiple of 7», the fringe will be bright and whenever it is an odd integral
+multiple of h/ 2 it will be a dark fringe. Now, the locus of the point P
+lying in the x—y plane such that 82P — SIP (= A) is a constant, is a
+hyperbola. Thus the fringe pattern will strictly be a hyperbola; however,
+if the distance D is very large compared to the fringe width, the fringes
+will be very nearly straight lines as shown in Fig. 10.13.
+
+2019-20

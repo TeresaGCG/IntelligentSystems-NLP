@@ -1,0 +1,62 @@
+482
+
+ 
+
+ 
+
+l Physics
+
+EXAMPLE 14.4
+
+ 
+
+bias, the current first increases very slowly, almost negligibly, till the
+voltage across the diode crosses a certain value. After the characteristic
+voltage, the diode current increases significantly (exponentially), even for
+a very small increase in the diode bias voltage. This voltage is called the
+threshold voltage or cut-in voltage (~O.2V for germanium diode and
+~0.7 V for silicon diode).
+
+For the diode in reverse bias, the current is very small (~uA) and almost
+remains constant with change in bias. It is called reverse saturation
+current. However, for special cases, at very high reverse bias (break down
+voltage), the current suddenly increases. This special action of the diode
+is discussed later in Section 14.8. The general purpose diode are not
+used beyond the reverse saturation current region.
+
+The above discussion shows that the p-n junction diode primerly
+allows the ﬂow of current only in one direction (forward bias). The forward
+bias resistance is low as compared to the reverse bias resistance. This
+property is used for rectification of ac voltages as discussed in the next
+section. For diodes, we define a quantity called dynamic resistance as
+the ratio of small change in voltage AV to a small change in current AI:
+
+_AV
+
+r__
+d AI
+
+(14.6)
+
+Example 14.4 The V-I characteristic of a silicon diode is shown in
+the Fig. 14.17. Calculate the resistance of the diode at (a) ID = 15 mA
+
+and (b) VD = —10 V.
+
+ 
+
+FIGURE 14.17
+
+Solution Considering the diode characteristics as a straight line
+between I = 10 mA to I = 20 mA passing through the origin, we can
+calculate the resistance using Ohm’s law.
+(a) From the curve, at I = 20 mA, V= 0.8 V; I = 10 mA, V= 0.7 V
+
+rfb = AV/AI= 0.1V/1O mA = 10 9
+(b) From the curve at V = —10 V, I = —1 (LA,
+
+Therefore,
+
+rrb= 10 V/lpA= 1.0 x 107 9
+
+2019-20

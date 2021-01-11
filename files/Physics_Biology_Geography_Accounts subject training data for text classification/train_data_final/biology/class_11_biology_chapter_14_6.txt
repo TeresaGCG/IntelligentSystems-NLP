@@ -1,0 +1,69 @@
+232
+
+Pyruvate
+(3C)
+
+CoA \ NAD+
+NADH+IF
+CO
+
+Acetyl coenzyme A2
+
+(10
+Oxaloacetic acid
+
+(4C) Citric acid
+
+NADH+IF (6C) \_,co,
++ \ NAD+
+NAD
+NADH+I-F
+
+ot-ketoglutaric acid
+
+BIOLOGY
+
+and then succinyl—CoA In the remaining steps
+of citric acid cycle, succinyl-CoA is oxidised
+to OAA allowing the cycle to continue. During
+the conversion of succinyl-CoA to succinic
+acid a molecule of GTP is synthesised. This is
+a substrate level phosphorylation. In a
+coupled reaction GTP is converted to GDP with
+the simultaneous synthesis of ATP from ADP.
+Also there are three points in the cycle where
+NAD+ is reduced to NADH + H“ and one point
+
+Malic acid (50) where FAD’“ is reduced to FADHZ. The
+(4C3 CITRIC ACID CYCLE Algco2 continued oxidation of acetyl CoA via the TCA
+FADHZ .j‘ . I NAD+ cycle requires the continued replenishment of
+FAD+ ‘ ‘ ~ Succinic acid ‘ ' GDP NADH’H oxaloacetic acid, the ﬁrst member of the cycle.
+(4c) ‘ - In addition it also requires regeneration of
+
+Figure 14.3 The Citric acid cycle
+
+NAD+ and FAD+ from NADH and FADH2
+respectively. The summary equation for this
+phase of respiration may be written as follows:
+
+ 
+
+We have till now seen that glucose has been broken down to release
+CO2 and eight molecules of NADH + H’“; two of FADH2 have been
+synthesised besides just two molecules of ATP in TCA cycle. You may be
+wondering why we have been discussing respiration at all — neither 02
+has come into the picture nor the promised large number of ATP has yet
+been synthesised. Also what is the role of the NADH + H’“ and FADH2 that
+is synthesised? Let us now understand the role of O2 in respiration and
+how ATP is synthesised.
+
+14.4.2 Electron Transport System (ETS) and Oxidative
+Phosphorylation
+
+The following steps in the respiratory process are to release and utilise
+the energy stored in NADH+H+ and FADHZ This is accomplished when
+they are oxidised through the electron transport system and the electrons
+are passed on to 02 resulting in the formation of H20. The metabolic
+pathway through which the electron passes from one carrier to another,
+is called the electron transport system (ETS) (Figure 14.4) and it is
+present in the inner mitochondrial membrane. Electrons from NADH

@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+206
+to the exact same powers. The only possible variation in the monomials is
+in their coefficients. For example, you can add the monomials 2x2y3 and
+5x2y3 together to get 7x2y3, but if you try to add the monomials 2x2y3 and
+5x2y2 together you will get 2x2y3+5x2y2. There is no further simplification
+that you can do with the expression 2x2y3+5x2y2 because the powers of y
+are different in the two monomials: The power of y in the first mono-
+mial is 3 and the power of y in the second monomial is 2. You cannot
+break apart a monomial. The variables in a monomial have to stick
+together.
+Example 1
+Combine the following monomials, if possible:
+a. 5xy+ 4xy
+b. 3x2−x2
+c. 12xyz+ 16xyz
+d. 12xy2− 5xy
+Solution:
+a. 5xy+ 4xy=9xy
+b. 3x2−x2= 2x2
+c. 12xyz+ 16xyz= 28xyz
+d. 12xy2 − 5xy = 12xy2 − 5xy; no simplification is possible, the
+powers of y are different in the two monomials
+Lesson 11-1 Review
+Combine the following monomials:
+1. 4x− 6x
+2. 13xy2+ 2xy
+3. 3xz+ 5xz
+4. 6xy− 9xy
+www.ebook3000.com

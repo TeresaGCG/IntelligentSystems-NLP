@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+166
+Lesson 9-3 Review
+1. Graph points with coordinates (−2, 4) and (2, −4).
+2. Read off the coordinates of the points P and Q shown in Figure 9.3.
+y
+4
+P
+2
+x
+5
+Q
+–2
+Figure 9.3
+Lesson 9-4: Slope and Intercepts
+The best way to understand a function is to generate a few ordered
+pairs and plot them. Whenever you are trying to examine a function, it is
+best to create the ordered pairs in a systematic way. I recommend evalu-
+ating the function for a combination of evenly spaced negative and posi-
+tive values for x. Evaluating the function when x = 0 is also helpful. I
+have evaluated the function ƒ(x) = 2x + 3 for seven values of x, and have
+written the corresponding function values and ordered pairs in the table
+on page 167.
+Notice that all of the values of x are evenly spaced and center around
+x = 0. Recall that x is called the independent variable. By “independent”
+we mean that we have control over what values we use (within reason, of
+course). The function ƒ(x), or the variable y, is called the dependent
+variable. By “dependent” we mean that the value of the function depends
+on the value of x.
+www.ebook3000.com

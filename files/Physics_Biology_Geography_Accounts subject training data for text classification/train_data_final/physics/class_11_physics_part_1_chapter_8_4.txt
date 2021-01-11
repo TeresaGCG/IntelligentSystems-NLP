@@ -1,0 +1,110 @@
+G RAVITATI ON
+
+187
+
+This clearly shows that the force due to
+earth’s gravity decreases with distance. If one
+assumes that the gravitational force due to the
+earth decreases in proportion to the inverse
+square of the distance from the centre of the
+
+earth, we will have am ocRr‘n2 ; g on R132 and we get
+
+—=— z 3600 (8.4)
+
+in agreement with a value of g : 9.8 m s2 and
+the value of aIn from Eq. (8.3). These observations
+led Newton to propose the following Universal Law
+of Gravitation :
+
+Every body in the universe attracts every other
+body with a force which is directly proportional
+to the product of their masses and inversely
+proportional to the square of the distance
+between them.
+
+The quotation is essentially from Newton’s
+famous treatise called ‘Mathematical Principles
+of Natural Philosophy’ (Principia for short).
+
+Stated Mathematically, Newton’s gravitation
+law reads : The force F on a point mass m2 due
+to another point mass m1 has the magnitude
+
+m1 m2
+
+|F|=G r—2 (8.5)
+
+Equation (8.5) can be expressed in vector form as
+
+F: G ml—Zm2(—f-)=—G nil—2"“;-
+
+T 1‘
+
+m1 m2 ‘
+— r
+M3
+
+where G is the universal gravitational constant,
+
+} is the unit vector from m1 to m2 and r = r2 — 1'1
+as shown in Fig. 8.3.
+2
+
+ 
+
+Fig. 8.3 Gravitational force on m1 due to m2 is along
+r where the vector 1' is (r2— 1-1).
+
+The gravitational force is attractive, i.e., the
+force F is along — r. The force on point mass m1
+due to m2 is of course — F by Newton’s third law.
+Thus, the gravitational force F12 on the body 1
+due to 2 and F21 on the body 2 due to l are related
+as F12 = — F21.
+
+Before we can apply Eq. (8.5) to objects under
+consideration, we have to be careful since the
+law refers to point masses whereas we deal with
+extended objects which have finite size. Ifwe have
+a collection of point masses, the force on any
+one of them is the vector sum of the gravitational
+forces exerted by the other point masses as
+shown in Fig 8.4.
+
+ 
+
+Fig. 8.4 Gravitational force on point mass m1 is the
+vector sum of the gravitational forces exerted
+
+by m2, m3 and m4.
+
+The total force on m1 is
+
+Gm2 m1 A Gm3 m1 A Gm4 m1 A
+=—2 1'21 +—2 1'31 +—2 1'41
+
+r2 1 r3 1 r4 1
+
+F1
+
+Example 8.2 Three equal masses of 171 kg
+each are fixed at the vertices of an
+equilateral triangle ABC.
+
+(a) What is the force acting on a mass 2m
+
+placed at the centroid G of the triangle?
+(b) What is the force if the mass at the
+vertex A is doubled ?
+
+Take AG = BG = CG = l m (see Fig. 8.5)
+
+ 
+
+Answer (a) The angle between GC and the
+positive x—axis is 30° and so is the angle between
+GB and the negative x—axis. The individual forces
+in vector notation are
+
+2019-20

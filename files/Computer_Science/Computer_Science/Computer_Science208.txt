@@ -1,0 +1,46 @@
+192 Chapter 3 Arithmetic: for Computers
+22 121120 119118117 116 115 114113112 111 110 191817161514131211I0
+31 30 129 128 127 126 125 124 123
+,
+exponent fraction
+1 bit 8 bits 23 bits
+In general, floating-point numbers are generally of the fo rm
+F involves the value in the fraction field and E involves the value in the exponent
+field; the exact relationship to these fields will be spelled out soon. (We will shortly
+see that MIPS does something slightly more sophisticated.)
+These chosen sizes of exponent and fraction give MIPS computer arithmetic an
+38
+extraordinary range. Fractions almost as small as 2.0 X and numbers
+ten 10-
+almost as large as 2.0 X 1038 can be represented in a computer. Alas, extraordi 
+ten
+nary differs from infinite, so it is still possible for numbers to be too large. Thus,
+overflow interrupts can occur in floating-point arithmetic as well as in integer
+overflow (floating-point) A arithmetic. Notice that overflow here means that the exponent is too large to be
+situation in which a positive represented in the exponent field.
+exponent becomes too large to
+Floating point offers a new kind of exceptional event as well. Just as program 
+fit in the exponent field.
+mers will want to know when they have calculated a number that is too large to be
+represented, they will want to know if the nonzero fraction they are calculating
+has become so small that it cannot be represented; either event could result in a
+program giving incorrect answers. To distinguish it from overflow, people call this
+underflow (floating-point) A event underflow. This situation occurs when the negative exponent is too large to
+situation in which a negative fit in the exponent field.
+exponent becomes too large to
+One way to reduce chances of underflow or overflow is to offer another format
+fit in the exponent field.
+that has a larger exponent. In C this number is called double, and operations on
+double precision A floating  doubles are called double precision floating-point arithmetic; single precision
+point value represented in two floating point is the name of the earlier format.
+32-bit words.
+The representation of a double precision floating-point number takes two
+single precision A floating  MIPS words, as shown below, where s is still the sign of the number, exponent is
+point value represented in a the value of the II -bit exponent field, and fraction is the 52-bit number in the
+single 32-bit word. fraction.
+31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+,
+exponent fraction
+1 bit 11 bits 20 bits
+rraction(continued)
+32 bits

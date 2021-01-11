@@ -1,0 +1,45 @@
+534 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+the page table using the page number of the virtual address and the page table regis 
+ter, which indicates the starting address ofthe active process page table. To make this
+indexing fast, MIPS hardware places everything you need in the special Context
+register: the upper 12 bits have the address of the base of the page table and the next
+18 bits have the virtual address of the missing page. Each page table entry is one
+word, so the last 2 bits are O. Thus, the first two instructions copy the Context regis 
+ter into the kernel temporary register $kl and then load the page table entry from
+that address into $kl. Recall that $kO and $kl are reserved for the operating system
+to use without saving; a major reason for this convention is to make the TLB miss
+handler fast. Below is the MIPS code for a typical TLB miss handler:
+TLBmiss :
+mfcO $kl , Context # copy address of PTE into temp $kl
+lw lkl . Dllkl) # put PTE into temp $kl
+mtcO $kl , EntryLo # put PTE into special register EntryLo
+tlbwr # put EntryLo into TLB entry at Random
+eret # return from TLB miss exception
+As shown above, MIPS has a special set of system instructions to update the
+TLB. The instruction tl bwr copies from control register EntryLo into the TLB
+entry selected by the control register Random. Random implements random
+replacement, so it is basically a free-running counter. A TLB miss takes about a
+dozen clock cycles.
+Note that the TLB miss handler does not check to see if the page table entry is
+valid. Because the exception for TLB entry missing is much more frequent than a
+page fault, the operating system loads the TLB from the page table without exam 
+ining the entry and restarts the instruction. If the entry is invalid, another and dif 
+ferent exception occurs, and the operating system recognizes the page fault. This
+method makes the frequent case of a TLB miss fast, at a slight performance pen 
+alty for the infrequent case of a page fault.
+Once the process that generated the page fault has been interrupted, it transfers
+control to 8000 0180 a different address than TLB miss handler. This is the
+,
+hex
+general address for exception; TLB miss has a special entry point to lower the pen 
+alty for a TLB miss. The operating system uses the exception Cause register to
+diagnose the cause of the exception. Because the exception is a page fault, the
+operating system knows that extensive processing will be required. Thus, unlike a
+TLB miss, it saves the entire state of the active process. This state includes all the
+general-purpose and floating-point registers, the page table address register, the
+EPC, and the exception Cause register. Since exception handlers do not usually
+use the floating-point registers, the general entry point does not save them, leav 
+ing that to the few handlers that need them.
+Figure 7.28 sketches the MIPS code of an exception handler. Note that we save
+and restore the state in MIPS code, taking care when we enable and disable excep 
+tions, but we invoke C code to handle the particular exception.

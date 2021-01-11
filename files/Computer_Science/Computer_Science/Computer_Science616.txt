@@ -1,0 +1,34 @@
+600 Chapter 8
+The new CPU times and the resulting elapsed times are computed in the fol 
+lowing table:
+I/O I/O
+After II years CPU time time Elapsed time % time
+0 90 seconds 10 seconds 100 seconds 10%
+1 jUl ~ 60 seconds 10 seconds 70 seconds 14%
+1.5
+2 ..6.ll " 40 seconds 10 seconds 50 seconds 20%
+1.5
+3 ~ " 27 seconds 10 seconds 37 seconds 27%
+4 ~ " 18 seconds 10 seconds 28 seconds 36%
+5 ..11i " 12 seconds 10 seconds 22 seconds 45%
+1.5
+The improvement in CPU performance over five years is
+90 = 7.5
+12
+However, the improvement in elapsed time is only
+100 = 4.5
+22
+and the I/O time has increased from 10% to 45% of the elapsed time.
+Check
+Are the following true or false? Unlike processor benchmarks, I/O benchmarks
+Yourself
+I. concentrate on throughput rather than latency
+2. can require that the data set scale in size or number of users to achieve per 
+formance milestones
+3. come from organizations rather than from individuals
+Designing an I/O System
+There are two primary types of specifications that designers encounter in I/O sys 
+tems: latency constraints and bandwidth constraints. In both cases, knowledge of
+the traffic pattern affects the design and analysis.
+Latency constraints involve ensuring that the latency to complete an I/O opera 
+tion is bounded by a certain amount. In the simple case, the system may be

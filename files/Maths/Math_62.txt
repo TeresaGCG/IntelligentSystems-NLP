@@ -1,0 +1,15 @@
+Homework Helpers: Basic Math and Pre-Algebra
+62
+Solution: The common denominator is 35. The fraction   already
+has a denominator equal to 35, so we only need to change the
+denominator of the second fraction in the expression:
+Now we are ready to subtract:
+Example 2
+Evaluate:
+Solution: Find the common denominator: 22 = 2 × 11 and 10 = 2 × 5
+so the common denominator is 2 × 5 × 11, or 110. Both of the
+fractions need to be changed:
+Now we are ready to subtract and reduce:
+Example 3
+Evaluate:
+www.ebook3000.com

@@ -1,0 +1,54 @@
+Wove Optics
+
+the light waves coming out from two independent SOdium LamP
+
+sources of light will not have any fixed phase “9‘51
+
+changes in times of the order of 10‘10 seconds. Thus ‘
+
+relationship and would be incoherent, when this
+happens, as discussed in the previous section, the
+
+ 
+
+intensities on the screen will add up. M g S2
+
+The British physicist Thomas Young used an SOdium LamP
+ingenious technique to “lock” the phases of the waves Screen
+emanating from S1 and S2. He made two pinholes 81 FIGURE 10_ 11 If two sodium
+and 82 (very close to each other) on an opaque screen lamps illuminate two pinholes
+[Fig 10.12(a)]. These were illuminated by another 51 and 32- the intensities will add
+pinholes that was in turn, lit by a bright source. Light up and no interference fringes will
+waves spread out from S and fall on both S1 and 82. be observed on the screen.
+
+81 and 82 then behave like two coherent sources
+
+because light waves coming out from S1 and S2 are derived from the
+same original source and any abrupt phase change in S will manifest in
+exactly similar phase changes in the light coming out from S1 and S2.
+Thus, the two sources S1 and S2 will be locked in phase; i.e., they will be
+coherent like the two vibrating needle in our water wave example
+[Fig 10.8(a)].
+
+ 
+
+   
+
+(a) (b)
+
+FIGURE 10.12 Young’s arrangement to produce interference pattern.
+
+Thus spherical waves emanating from S1 and 82 will produce
+interference fringes on the screen GG’, as shown in Fig. 10. 12(b). The
+positions of maximum and minimum intensities can be calculated by
+using the analysis given in Section 10.4 where we had shown that for an
+arbitrary point P on the line GG’ [Fig. lO.12(b)] to correspond to a
+maximum, we must have
+
+S2P—SIP=nA; n=O, 1,2... (10.15)
+Now,
+dlg ( 0112
+2 2 _ 2 _ _ 2 __ _
+(52p) _ (51p) _ |:D +£x+ 2 ] |:D + x 2 _ 2xd 363
+
+2019-20

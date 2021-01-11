@@ -1,0 +1,21 @@
+Homework Helpers: Basic Math and Pre-Algebra
+210
+c.
+Lesson 11-2 Review
+Simplify the following expressions. Your answer should only contain posi-
+tive exponents.
+1. 4.
+2. 5.
+3. 6.
+Lesson 11-3: Adding and Subtracting Polynomials
+A polynomial is the sum of two or more monomials. The sign of the
+constant k involved in each of the monomials determines whether the
+monomial is to be added to, or subtracted from, the other monomials in
+the chain. The monomials that make up a polynomial are usually written
+in descending order based on the degree of the monomial. In other words,
+you start writing a polynomial by writing the monomial with the highest
+degree first, then the second highest degree, and so on. This is consid-
+ered the standard form of a polynomial. When a polynomial is written
+in standard form, the coefficient of the first term is called the leading
+coefficient.
+www.ebook3000.com

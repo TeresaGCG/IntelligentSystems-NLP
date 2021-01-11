@@ -1,0 +1,79 @@
+88
+
+i Physics
+
+2.17
+
+2.18
+
+2.19
+
+2.20
+
+2.21
+
+2.22
+
+ 
+
+(b) Show that the tangential component of electrostatic field is
+continuous from one side of a charged surface to another.
+[Hintz For (a), use Gauss’s law. For, (b) use the fact that work
+done by electrostatic field on a closed loop is zero.]
+
+A long charged cylinder of linear charged density 1 is surrounded
+by a hollow co-axial conducting cylinder. What is the electric ﬁeld in
+the space between the two cylinders?
+
+In a hydrogen atom, the electron and proton are bound at a distance
+of about 0.53 A:
+
+(a) Estimate the potential energy of the system in eV, taking the
+zero of the potential energy at infinite separation of the electron
+from proton.
+
+(b) What is the minimum work required to free the electron, given
+that its kinetic energr in the orbit is half the magnitude of
+potential energy obtained in (a)?
+
+(c) What are the answers to (a) and (b) above if the zero of potential
+energy is taken at 1.06 A separation?
+
+If one of the two electrons of a H2 molecule is removed, we get a
+hydrogen molecular ion H;. In the ground state of an H;, the two
+protons are separated by roughly 1.5 A, and the electron is roughly
+1 A from each proton. Determine the potential energy of the system.
+Specify your choice of the zero of potential energy.
+
+Two charged conducting spheres of radii a and b are connected to
+each other by a wire. What is the ratio of electric fields at the surfaces
+of the two spheres? Use the result obtained to explain why charge
+density on the sharp and pointed ends of a conductor is higher
+than on its ﬂatter portions.
+
+Two charges —q and +q are located at points (0, 0, —a) and (O, O, a),
+respectively.
+
+(a) What is the electrostatic potential at the points (0, 0, z) and
+(x, y, 0) ?
+
+(b) Obtain the dependence of potential on the distance r of a point
+from the origin when r/a >> 1.
+
+(c) How much work is done in moving a small test charge from the
+point (5,0,0) to (—7,0,0) along the x—axis? Does the answer
+change if the path of the test charge between the same points
+is not along the x—axis?
+
+Figure 2.32 shows a charge array known as an electric quadrupole.
+For a point on the axis of the quadrupole, obtain the dependence
+of potential on r for r/ a >> 1, and contrast your results with that
+due to an electric dipole, and an electric monopole (i.e., a single
+charge).
+
+o—u—c -------------------------- 0P
+q _q —q q
+4— r —_>
+FIGURE 2.32
+
+2019-20

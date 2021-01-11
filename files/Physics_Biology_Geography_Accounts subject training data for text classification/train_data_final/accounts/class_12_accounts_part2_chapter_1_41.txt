@@ -1,0 +1,47 @@
+4 2 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Share Capital A/c
+
+To Share First Call A/c
+
+To Share Forfeiture A/c
+(Forfeiture of 900 Aman Shares)
+
+Share Second and Final Call A/c Dr. 5.70.000
+To Share Capital A/c 5.70.000
+(Second and Final Call money due on 28,500 shares)
+
+Bank A/c . 5.70.000
+To Share Second and Final Call A/c 5.70.000
+
+(Due money received)
+
+Bank A/c
+Share Forfeiture A/c .
+
+To Share Capital A/c 1.00.000
+(Reissue of 1,000 forfeited shares)
+
+Share Forfeiture A/c Dr.
+To Capital Reserve
+
+(Proﬁt on 1.000 reissued shares transferred to
+capital reverve)
+
+ 
+
+Working Notes:
+
+(I) Excess amount received on Rohan's application
+Rohan has been alloted = 600 Shares
+
+He must have applied for 700 Shares
+
+Rs.
+Amount received from Rohan = 700 X Rs. 40 28.000
+Amount Adjusted on Application = 600 X Rs. 40 (24.000)
+Amount Adjusted on Allotment 4.000
+Money due on Allotment = 600 X Rs. 30 18.000
+Money Adjusted (4.000)
+
+Balance due on AlloUnent 14.000

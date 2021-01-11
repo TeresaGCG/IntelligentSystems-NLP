@@ -1,0 +1,28 @@
+Operations With Fractions
+59
+Lesson 3-3 Review
+Simplify the following complex fractions. Put your answer in reduced
+form.
+1. 2. 3.
+Lesson 3-4: Adding Fractions
+If the two fractions that you are adding have the same denominator,
+then adding the fractions is fairly straightforward: All you do is add the
+numerators and keep the denominator the same. Of course, once you
+have added the fractions you may need to reduce the result.
+For example, we can find the sum  :
+It’s when the denominators are different that things get a bit tricky.
+The only time you are allowed to add two fractions is when their denomi-
+nators are the same. If the two fractions have different denominators you
+have to turn them into fractions that have the same denominator. The
+only tool you have at your disposal is to multiply by 1, but remember that
+1 has many disguises.
+Suppose you want to add the fractions   and  . Clearly these two
+fractions have different denominators, so you can’t just start adding nu-
+merators together. You must first change these fractions so that they
+have the same denominator, and the best denominator to use is the least
+common multiple. The least common multiple of 3 and 2 is 6. We will
+then convert each fraction into a form that has 6 as the denominator
+without changing the value of the fraction. This can be thought of as the
+reverse of canceling. Instead of reducing a fraction you are introducing
+common factors to both the numerator and the denominator so that the
+denominators in the two fractions being added will be the same.

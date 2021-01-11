@@ -1,0 +1,89 @@
+i Physics
+
+(ii) is subject to torque like a magnetic needle. This led Ampere to suggest
+that all magnetism is due to circulating currents. This seems to be partly
+true and no magnetic monopoles have been seen so far. However,
+elementary particles such as an electron or a proton also carry an intrinsic
+magnetic moment, not accounted by circulating currents.
+
+4. 10.3 The magnetic dipole moment of a revolving electron
+
+In Chapter 12 we shall read about the Bohr model of the hydrogen atom.
+You may perhaps have heard of this model which was proposed by the
+Danish physicist Niels Bohr in l 9 1 l and was a stepping stone
+
+to a new kind of mechanics, namely, quantum mechanics.
+
+In the Bohr model, the electron (a negatively charged particle)
+
+revolves around a positively charged nucleus much as a
+
+planet revolves around the sun. The force in the former case
+
+is electrostatic (Coulomb force) while it is gravitational for
+
+® the planet-Sun case. We show this Bohr picture of the electron
+
+m in Fig. 4.23.
+
++26 The electron of charge (—e) (e = + 1.6 x 10‘19 C) performs
+uniform circular motion around a stationary heavy nucleus
+of charge +Ze. This constitutes a current I, where,
+1 _ 3
+FIGURE 4.23 In the Bohr model ‘ T (432)
+
+of hydrogen—like atoms. the
+negatively charged electron is
+revolving with uniform speed
+
+and T is the time period of revolution. Let r be the orbital
+radius of the electron, and v the orbital speed. Then,
+
+around a centrally placed T _ 2nr
+positively charged (+Z e) _ v (4'33)
+nucleus. The uniform circular
+
+motion of the electron
+constitutes a current. The
+
+Substituting in Eq. (4.32), we have I = ev/2atr.
+There will be a magnetic moment, usually denoted by [.11.
+
+direction of the magnetic associated with this circulating current. From Eq. (4.28) its
+moment is into the plane of the magnitude is, #1 = 17112 = evr/ 2.
+
+paper and is indicated
+
+162
+
+The direction of this magnetic moment is into the plane
+
+separately by ®. of the paper in Fig. 4.23. [This follows from the right-hand
+
+rule discussed earlier and the fact that the negatively charged
+electron is moving anticlockwise, leading to a clockwise current.]
+Multiplying and dividing the right-hand side of the above expression by
+the electron mass me, we have,
+
+— i(m Dr)
+#1 2m 2
+
+6
+
+—el
+
+— 2me [4.34(a)]
+
+Here, lis the magnitude of the angular momentum of the electron
+about the central nucleus (“orbital” angular momentum). Vectorially,
+
+ 
+
+"z=— e l [4.34(bll
+
+2me
+
+The negative sign indicates that the angular momentum of the electron
+is opposite in direction to the magnetic moment. Instead of electron with
+
+2019-20

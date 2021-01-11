@@ -1,0 +1,23 @@
+4.4 Real Stuff: Two SPEC Benchmarks and the Performance of Recent Intel Processors 265
+1.6
+• Pentium M @ 1.610.6 GHz
+• Pentium 4-M @ 2.411.2 GHz
+1.4 D
+Pentium III-M@ 1.210.8GHz
+1.2
+0.4
+0.2
+o.o-P-
+SPECINT2000 SPECFP2000 SPECINT2000 SPECFP2000 SPECINT2000 SPECFP2000
+Always on/maximum clock Laptop mode/adaptive Minimum power/minimum
+dod<
+clock
+Benchmark and power mode
+FtGURE 4.8 Relative performance of three Intel processors on SPECINT2000 and
+SPECFP2000 In three different modes. Each processor operates 3ttwo different dock rates, listed in
+the legend.
+Which of the following one-processor Pentium III configurations is likely to pro  Check
+duce the best performance on SPECweb99 based on the data in Figure 4.7? Yourself
+a. 1.26 GHz processor, I disk, I network connections
+b. I GHz processor, 6 disks, 3 network connections
+c. 1.1 GHz processor, 2 disks, 2 network connections

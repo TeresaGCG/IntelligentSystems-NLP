@@ -1,0 +1,18 @@
+Operations With Fractions
+53
+Example 1
+Convert the improper fraction   to a mixed number.
+Solution:
+Do the division:
+So:
+Example 2
+Convert the improper fraction   to a mixed number.
+Solution:
+Do the division:
+So:
+Mixed numbers may be more aesthetically pleasing to some people,
+but as far as functionality goes, nothing beats an improper fraction. So it
+is beneficial to discuss the process of converting a mixed number to an
+improper fraction. Recall that a mixed number has a whole part and a
+fractional part. To convert a mixed number to an improper fraction
+you will need to find the numerator and denominator of this improper

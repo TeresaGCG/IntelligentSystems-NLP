@@ -1,0 +1,49 @@
+l Physics
+
+TABLE 1 1 . 1 WORK FUNCTIONS OF SOME METALS
+
+ 
+
+(i) Thermionic emission: By suitably heating, sufficient thermal energy
+can be imparted to the free electrons to enable them to come out of the
+metal.
+
+(ii) Field emission: By applying a very strong electric ﬁeld (of the order of
+108 V m‘l) to a metal, electrons can be pulled out of the metal, as in a
+spark plug.
+
+(iii) Photoelectric emission: When light of suitable frequency illuminates
+a metal surface, electrons are emitted from the metal surface. These
+photo(light)-generated electrons are called photoelectrons.
+
+1 1.3 PHOTOELECTRIC EFFECT
+
+1 1.3.1 Hertz's observations
+
+The phenomenon of photoelectric emission was discovered in 1887 by
+Heinrich Hertz (1 857 - 1 894), during his electromagnetic wave experiments.
+In his experimental investigation on the production of electromagnetic
+waves by means of a spark discharge, Hertz observed that high voltage
+sparks across the detector loop were enhanced when the emitter plate
+was illuminated by ultraviolet light from an arc lamp.
+
+Light shining on the metal surface somehow facilitated the escape of
+free, charged particles which we now know as electrons. When light falls
+on a metal surface, some electrons near the surface absorb enough energy
+from the incident radiation to overcome the attraction of the positive ions
+in the material of the surface. After gaining sufficient energy from the
+incident light, the electrons escape from the surface of the metal into the
+surrounding space.
+
+1 1.3.2 Hallwachs’ and Lenard's observations
+
+Wilhelm Hallwachs and Philipp Lenard investigated the phenomenon of
+photoelectric emission in detail during 1886- 1902.
+
+Lenard (1862- 1947) observed that when ultraviolet radiations were
+allowed to fall on the emitter plate of an evacuated glass tube enclosing
+two electrodes (metal plates), current ﬂows in the circuit (Fig. 1 1.1). As
+
+388 soon as the ultraviolet radiations were stopped, the current ﬂow also
+
+2019-20

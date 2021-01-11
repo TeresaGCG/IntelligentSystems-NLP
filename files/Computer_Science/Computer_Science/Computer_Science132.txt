@@ -1,0 +1,42 @@
+116 Chapter 2 Instructions: Language of the Computer
+How Compilers Optimize
+Because the compiler will significantly affect the performance of a computer, under 
+standing compiler technology today is critical to understanding performance. The
+purpose of this section is to give a brief overview of optimizations a compiler uses to
+achieve performance. The following section introduces the internal anatomy of a
+compiler. To start, Figure 2.31 shows the structure of recent compilers, and we
+describe the optimizations in the order of the passes of that strucnlre.
+High-Level Optimizations
+High-level optimizations are transformations that are done at something close to
+the source level.
+The most common high-level transformation is probably procedure inlillillg,
+whidl replaces a call to a function by the body of the function, substituting the
+caller's arguments for the procedure's parameters. Other high-level optimizations
+Dependencies Function
+Language dependent; Transform language to
+Front end per
+machine Independent common Intermediate form
+language
+Intermediate
+representation
+Somewhat language dependent; For example, loop
+High-level
+largely machine Independent transformations and
+optimizations
+procedure Inllnlng
+(also called
+procedure Integration)
+Small language dependencies; Including global and local
+Global
+machine dependencies slight optimizations + register
+optimizer
+(e.g., register countsltypes) allocation
+Highly machine dependent; Detailed Instruction selection
+Gode generator
+language Independent and machine-dependent
+optimizations; may Include
+or be followed by assembler
+FIGURE 2.31 11Ie structure of a modern optimizing compiler consists of a numbers of
+passes or phases. Logically each pass can be thought of as nmning to completion before the
+next occurs. In practice, some passes may handle a procedure at a time, essentially interleaving
+with another pass.

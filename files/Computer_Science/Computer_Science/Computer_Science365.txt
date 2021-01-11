@@ -1,0 +1,47 @@
+5.9 Real Stuff: The Organization of Recent Pentium Implementations 349
+wired. This last level of control expa nds up to three microinstructions into about
+120 control lines for the integer datapaths and 275 to over 400 control lines for the
+floating-point datapath-the latter number for the new SSE2 instructions
+included in the Pentium 4. This last step of expa nding the microinstructions into
+control lines is very similar to the control generation for the single-cycle datapath
+or for the ALU control.
+How is the translation between IA-32 instructions and microinstructions per 
+formed? In earlier Pentium implementations (i.e., the Pentium Pro, Pentium II,
+and Pentium III), the instruction decode unit would look at up to three IA-32
+instructions at a time and use a set of PLAs to generate up to six microinstructions
+per cycle. With the significantly higher clock rate introduced in the Pentium 4,
+this solution was no longer adequate and an entirely new method of generating
+microinstructions was needed.
+The solution adopted in the Pentium 4 is to include a trace cache of microin  trace cache An instruction
+structions, which is accessed by the IA-32 program counter. A trace cache is a cache that holds a sequence of
+instructions with a given start 
+sophisticated form of instruction cache, which we explain in detail in Chapter 7.
+ing address.; in recent Pentium
+For now, think of it as a buffer that holds the microinstructions that implement a
+implementations the trace cache
+given IA-32 instruction. When the trace cache is accessed with the address of the
+holds microoperations rather
+next IA-32 instruction to be executed, one of several events occurs:
+than IA-32 instructions.
+• The tra nslation of the IA-32 instruction is in the trace cache. In this case, up
+to three microinstructions are produced from the trace cache. These three
+microinstructions represent from one to three IA-32 instructions. The IA-32
+PC is advanced one to three instructions depending on how many fit in the
+three microinstruction sequence.
+• The translation of the IA-32 instmction is in the trace cache, but it requires
+more than four microinstmctions to implement. For SUdl complex IA-32
+instmctions, there is a microcode ROM; the control unit transfers control to the
+microprogram residing in the ROM. Microinstmctions are produced from the
+microprogram until the more complex IA-32 instmction has been completed.
+The microcode ROM provides a total of more than gooO microinstructions,
+with a number of sequences being shared among IA-32 instmctions. Control
+then transfers back to fetdling instmctions from the trace cadle.
+• The translation of the designated IA-32 instruction is not in the trace cache.
+In this case, an IA-32 instruction decoder is used to decode the IA-32
+instruction. If the number of microinstructions is four or less, the decoded
+microinstructions are placed in the trace cache, where they may be found on
+the next execution of this instmction. Otherwise, the microcode ROM is
+used to complete the sequence.
+From one to three microinstructions are sent from the trace cache to the Pen 
+tium 4 microinstruction pipeline, which we describe in detail at the end of Chap 
+ter 6. The use of simple low-level hardwired control and simple datapaths for

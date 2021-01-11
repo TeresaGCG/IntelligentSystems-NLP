@@ -1,0 +1,31 @@
+Decimals
+85
+point is implied most of the time and is not written. Any decimal repre-
+sentation can be made longer by stringing 0s after the last digit to the right
+of the decimal point. Although 7, 7.00, and 7.000 have the same math-
+ematicalvalue, they have a different scientific interpretation. The number
+of decimal places indicates the level of accuracy of a measurement.
+One of the most challenging aspects of writing this chapter is that
+there is a problem with our terminology. I have been using the words
+fraction and rational number interchangeably, because using the word
+fraction instead of rational number has filtered into common usage. Tech-
+nically, a rational number is a ratio of two integers (such as  ), and a
+fraction is a ratio of two numbers that do not have to be integers (such as
+). We call the part of a decimal number that is less than 1 the decimal
+fraction because it can be interpreted as a ratio of two numbers, but it is
+written using the decimal system. You must be careful to read which kind
+of fraction you are working with: a decimal fraction (such as 0.5), or a
+fraction (such as  , which is what we have been using to mean a rational
+number).
+Converting from a decimal fraction to a rational number (or a tradi-
+tional fraction) involves converting each digit in the decimal representa-
+tion into its corresponding fraction and then adding all of the fractions
+together. Remember that fractions should be written in reduced form.
+Example 1
+Convert 0.5 to a fraction in reduced form.
+Solution: and
+Example 2
+Convert 0.35 to a fraction in reduced form.
+Solution: Write each digit as a fraction and add the fractions
+together. After you have added the fractions, be sure to check for
+common factors to cancel:

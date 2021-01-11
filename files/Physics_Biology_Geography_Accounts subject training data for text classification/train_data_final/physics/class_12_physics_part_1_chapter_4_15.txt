@@ -1,0 +1,70 @@
+Moving Charges and
+Magnetism
+
+ 
+
+Solution
+
+(a) d1 and r for each element of the straight segments are parallel.
+Therefore, dl x r = 0. Straight segments do not contribute to
+IBI.
+
+(b) For all segments of the semicircular arc, dl x r are all parallel to
+each other (into the plane of the paper). All such contributions
+add up in magnitude. Hence direction of B for a semicircular arc
+is given by the right-hand rule and magnitude is half that of a
+circular loop. Thus B is 1.9 X lO‘4T normal to the plane of the
+paper going into it.
+
+(c) Same magnitude of B but opposite in direction to that in (b).
+
+Example 4.7 Consider a tightly wound 100 turn coil of radius 10 cm,
+carrying a current of l A. What is the magnitude of the magnetic
+ﬁeld at the centre of the coil?
+
+Solution Since the coil is tightly wound, we may take each circular
+element to have the same radius R = 10 cm = 0.1 m. The number of
+turns N = 100. The magnitude of the magnetic field is,
+
+_,uONI_4n><lO'7><lO2><1
+
+B —1
+2R 2X10
+
+ 
+
+= 21: x 10‘4 = 6.28 X 10'4 T
+
+4.7 AMPERE’S CIRCUITAL LAW
+
+There is an alternative and appealing way in which the Biot—Savart law
+may be expressed. Ampere’s circuital law considers an open surface with
+a boundary (Fig. 4.14). The surface has current passing through
+
+it. We consider the boundary to be made up of a number of small
+line elements. Consider one such element of length 011. We take
+the value of the tangential component of the magnetic field, Bt, at
+this element and multiply it by the length of that element dl [Note: I I
+B tdl=B~d I]. All such products are added together. We consider
+the limit as the lengths of elements get smaller and their number
+
+gets larger. The sum then tends to an integral. Ampere’s law Boundary Surface
+states that this integral is equal to #0 times the total current
+
+FIGURE 4. 14
+passing through the surface, i.e.,
+
+§B-dl = #01 [4. l7(a)]
+
+where I is the total current through the surface. The integral is taken
+over the closed loop coinciding with the boundary C of the surface. The
+relation above involves a sign-convention, given by the right-hand rule.
+Let the ﬁngers of the right-hand be curled in the sense the boundary is
+traversed in the loop integral §B~dL Then the direction of the thumb
+gives the sense in which the current I is regarded as positive.
+For several applications, a much simplified version of Eq. [4. l7(a)]
+proves sufficient. We shall assume that, in such cases, it is possible to
+choose the loop (called an amperian loop) such that at each point of the
+loop, either 147
+
+2019-20

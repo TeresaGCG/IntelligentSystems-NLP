@@ -1,0 +1,43 @@
+604 Chapter 8
+\Vhen powered on, the microprocessor first runs diagnostics on all compo 
+nents and writes any error messages to the liquid crystal display (LCD) on the
+back of the camera. This camera uses a 1.8-inch low-temperature polysilicon TFT
+color LCD. When photographers take picnlfes, they first hold the shutter halfway
+so that the microprocessor can take a light reading. The microprocessor then
+keeps the shutter open to get the necessary light, which is captured by a charged 
+couple device (CeO) as red,green, and blue pixels.
+ceo
+For the camera in Figure 8.14, the is a 1/2-inch, 1360 X 1024 pixel, pro 
+gressive-scan chip. The pixels are scanned out row by row and then passed
+through routines for white balance, color, and aliasing correction, and then stored
+in a 4 MBframe buffer. The next step is to compress the image into a standard for 
+mat, such as IPEG, and store it in the removable Flash memory. The photographer
+picks the compression, in this camera called either fine or normal, with a com 
+pression ratio of 10 to 20 times. A fine-quality compressed image takes less than
+0.5 MB, and a normal-quality compressed image takes about 0.25 MB. The micro 
+processor then updates the LCD display to show that there is room for one less
+picture.
+Although the previous paragraph covers the basics of a digital camera, there are
+many more features that are included: showing the recorded images on the color
+LCD display; sleep mode to save battery life; monitoring battery energy; buffering
+to allow recording a rapid sequence of uncompressed images; and, in this camera,
+video recording using MPEG format and audio recording using WAY format.
+This camera allows the photographer to use a Microdrive disk instead of Com 
+pactFlash memory. Figure 8.1 5 compares CompactFlash and the IBM Microdrive.
+Sandlsk Type I Sandlsk Type II Hitachi 4 GB
+CompactFlash CompactFlash Mlcrodrlve
+Characteristics SDCFB·128·768 SDCFB·I0000768 DSCM·I0340
+Fonnatted data capacity (MB) 128 1000 4000
+Bytes per sector 512 512 512
+Data transfer rate (MB/sec) 4 (burst) 4 (burst) 4- 7
+Link speed to buffer (MB/sec) 6 6 33
+Power standbyloperating (W) 0.15/0.66 0 .15/0.66 0.07/0.83
+Size: height x width x depth (inches) 1.43 x 1.68 x 0.13 1.43 x 1.68 x 0.13 1.43 x 1.68 x 0.16
+Weight in grams (454 grams/pound) 11.4 13.5 16
+Write cycles before sector wear-out 300.000 300.000 not applicable
+Mean time between failures (hours) > 1.000.000 > 1.000.000 (see caption)
+Best price (2004) $40 $200 $480
+FIGURE 8.15 Characteristics of three storage alternatives for digital cameras. Hitachi
+matches the Type II form factor in the Microdrive, while the CompactFlash card uses that space to include
+many more Flash chips. Hitachi does not quote MTTF for the 1.0·inch drives, bU1 the service life is five
+years or 8800 powered-on hours, whichever is first. They rotate at 3600 RPM and have 12 ms seek times.

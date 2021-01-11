@@ -1,0 +1,42 @@
+4.8 Exercises 277
+4.45, but this will require a 20% increase in the cycle time. Nothing else will be af 
+fected by the change. Should they proceed with the modification?
+4.47 (10) <§4.4> Look at the current list of SPEC programs in Figure 4.5 on page
+260. Does it include applications that match the ways you typically use your com  
+puter? What classes of programs are irrelevant or missing? Why do you think they
+were or were not included in SPEC? What would have to be done to include/ex 
+clude such programs in the next SPEC release?
+4.48 (5 <§4.4> !fbenchmark suites are designed to provide a real-world metric
+J
+for a specific computing task, explain why benchmarks suites need to be updated.
+4.49 (5 <§§4.2, 4.3, 4.4> In More Depth: The Difficulty with Kemel Benchmarks
+J
+II
+4.50 ( IS <§§4.2, 4.3, 4.4> In More Depth: The Difficulty with Kernel
+J
+Benchmarks
+4.51 (10) <§§4.1-4.S> Consider the following hypothetical news release:
+"The company will unveil the industry'sfirst 5 GHz version ofthe chip, which
+offers a 25% performance boost over the company'sformer speed champ, which
+rims at 4 GHz. The new chip can be plugged into system boards for the older
+original chip (which ran at 1 GHz) to provide a 70% performance boost."
+Comment on the definition (or definitions) of performance that you believe the
+company used. Do you think the news release is misleading?
+4.52 (indefinite <§§4.1-4.S> Collect a set of articles that you believe contain in 
+J
+correct analyses of performance or use misleading performance metrics to try to
+persuade readers. For example, an article in the New York Times (April 20, 1994, p.
+01 ) described a video game player "that will surpass the computing power ofeven
+the most powerful personal computers" and presented the following chart to sup 
+port the argument that "video ga me computers may be the supercomputers of to 
+morrow":
+Approximate number of
+Computer Instructions per second Price
+1975 IBM mainframe 10,000,000 $10,000,000
+1976 Cray-1 160,000,000 $20,000,000
+1979 Digital VAX 1,000,000 $200,000
+1981 IBM PC 250,000 $3,000
+1984 Sun 2 1,000,000 $10,000
+1994 Pentium~hipPC 66,000,000 $3,000
+1995 Sony PCX video game 500,000,000 $500
+1995 Microunity seHop 1,000,000,000 $500

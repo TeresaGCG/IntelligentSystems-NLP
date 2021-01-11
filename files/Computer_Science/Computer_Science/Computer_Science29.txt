@@ -1,0 +1,43 @@
+1.2 Below Your Program 13
+The first programmers communicated to computers in binary numbers, but
+this was so tedious that they quickly invented new notations that were closer to
+the way humans think. At first these notations were translated to bill3ry by hand,
+but this process was still tiresome. Using the machine to help program the
+machine, the pioneers invented programs to translate from symbolic notation to
+binary. The first of these programs was named an assembler. This program trans  assembler A program that
+lates a symbolic version of an instruction into the binary version. For example, the translates a symbolic version of
+instructions into the binary ver 
+programmer would write
+sion.
+add A, S
+and the assembler would translate this notation into
+1000110010100000
+This instruction tells the computer to add the two numbers A and B. The name
+coined for this symbolic langll3ge, still used today, is assembly language. assembly language A sym 
+Although a tremendous improvement, assembly language is still far from the bolic representation of machine
+instructions.
+notation a scientist might like to use to simulate fluid flow or that an accountant
+might use to balance the books. Assembly language requires the programmer to
+write one line for every instruction that the machine will follow, forcing the pro 
+grammer to think like the machine.
+The recognition that a program could be written to translate a more powerful
+language into computer instructions was one of the great breakthroughs in the
+early days of computing. Programmers today owe their productivity-and their
+sanity-to the creation of high-level programming languages and compilers that
+high-level programming
+translate programs in such languages into instructions. language A portable language
+A compiler enables a programmer to write this high-level language expression: such as C, Fortran, or Java com 
+posed of words and algebraic
+A + B notation that can be translated
+by a compiler into assembly
+The compiler would compile it into this assembly language statement:
+language.
+add A, S
+The assembler would translate this statement into the binary instruction that tells
+the computer to add the two numbers Aand S:
+1000110010100000
+Figure 1.4 shows the relationships among these programs and languages.
+High-level programming langll3ges offer several important benefits. First, they
+allow the programmer to think in a more natural language, using English words
+and algebraic notation, resulting in programs that look much more like text than
+like tables of cryptic symbols (see Figure 1.4). Moreover, they allow languages to

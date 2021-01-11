@@ -1,0 +1,73 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+10.24
+
+10.25
+
+10.26
+
+10.27
+
+10.28
+
+10.29
+
+10.30
+
+During blood transfusion the needle is inserted in a vein where the gauge pressure
+is 2000 Pa. At what height must the blood container be placed so that blood may
+just enter the vein ? [Use the density of whole blood from Table 10.1].
+
+In deriving Bernoulli’s equation, we equated the work done on the ﬂuid in the tube
+to its change in the potential and kinetic energy. [a] What is the largest average
+velocity of blood ﬂow in an artery of diameter 2 x 10'3 m if the ﬂow must remain
+laminar ? [b] Do the dissipative forces become more important as the ﬂuid velocity
+increases ? Discuss qualitatively.
+
+(a) What is the largest average velocity of blood ﬂow in an artery of radius 2X 10'3m
+if the ﬂow must remain lanimar? (b) What is the corresponding ﬂow rate ? (Take
+viscosity of blood to be 2.084 x 10'3 Pa s).
+
+A plane is in level ﬂight at constant speed and each of its two wings has an area of
+25 m2. If the speed of the air is 180 km/ h over the lower wing and 234 km/ h over
+thee, upper wing surface, determine the plane’s mass. [Take air density to be 1 kg
+m" ).
+
+In Millikan’s oil dro experiment, what is the terminal speed of an uncharged drop
+of radius 2.0 x 10' m and density 1.2 x 103 kg m'3. Take the viscosity of air at the
+temperature of the experiment to be 1.8 x 10'5 Pa s. How much is the viscous force
+on the drop at that speed ? Neglect buoyancy of the drop due to air.
+
+Mercury has an angle of contact equal to 140° with soda lime glass. A narrow tube
+of radius 1.00 mm made of this glass is dipped in a trough containing mercury. By
+what amount does the mercury dip down in the tube relative to the liquid surface
+outside ? Surface tension of mercury at the temperature of the experiment is 0.465
+N m'l. Density of mercury = 13.6 x 103 kg m'3.
+
+Two narrow bores of diameters 3.0 mm and 6.0 mm are joined together to form
+a U-tube open at both ends. If the U—tube contains water, what is the difference in
+its levels in the two limbs of the tube ? Surface tension of water at the temperature
+of the experiment is 7.3 X 10'2 N m'l. Take the angle of contact to be zero and
+density ofwater to be 1.0 x 103 kg m"3 [g = 9.8 m s'2] .
+
+Calculator/ Computer — Based Problem
+
+10.31
+
+(a) It is known that density p of air decreases with height y as
+P = pOe-y/yo
+
+where p0 = 1.25 kg rrr3 is the density at sea level, and yo is a constant. This density
+
+variation is called the law of atmospheres. Obtain this law assuming that the
+
+temperature of atmosphere remains a constant [isothermal conditions). Also assume
+
+that the value of 9 remains constant.
+
+(b) A large He balloon of volume 1425 m3 is used to lift a payload of 400 kg. Assume
+
+that the balloon maintains constant radius as it rises. How high does it rise ?
+[Take yo = 8000 m and pHe = 0.18 kg m’3].
+
+2019-20

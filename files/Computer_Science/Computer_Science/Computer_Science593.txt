@@ -1,0 +1,36 @@
+8.2 Disk Storage and Dependability 577
+Unlike RAID 1, many disks must be read to determine the missing data. The
+assumption behind this technique is that taking longer to recover from failure but
+spending less on redundant storage is a good trade-off.
+Block-Interleaved Parity (RAID 4)
+RAID 4 uses the same ratio of data disks and check disks as RAID 3, but they
+access data differently. The parity is stored as blocks and associated with a set of
+data blocks.
+In RAID 3, every access went to all disks. However, some applications prefer
+smaller accesses, allowing independent accesses to occur in parallel. That is the
+purpose of the RAID levels 4 to 6. Since error detection information in each sector
+is checked on reads to see if data are correct, such "small reads" to each disk can
+occur independently as long as the minimum access is one sector. In the RAID
+context, a small access goes to just one disk in a protection group while a large
+access goes to all the disks in a protection group.
+Writes are another matter. It would seem that each small write would demand
+that all other disks be accessed to read the rest of the information needed to
+recalculate the new parity, as in Figure 8.7. A "small write" would require reading
+the old data and old parity, adding the new information,and then writing the new
+parity to the parity disk and the new data to the data disk.
+New Data 1. Read 2.Read 3. Read New Data 1. Read 2.Read
+DOJ:
++ XOR
+EJ 8
+EJ~8 [§]
+om
+DO] AJJ AJJ
+4.Write 5.Write 3.Write 4.Write
+FIGURE 8.7 Small write update on RAID 3 versus RAID 4. This optimization for smaU writes reduces the number ofdisk accesses as well as
+the number ofdisks occupied. This figure assumes we have four blocks ofdata and one block of p.1rity. The straightforward RAIO 3 parity calculation
+in the left of the figure reads blocks 01, 02, and 03 before adding block DO' to calculate the new parity P'. (In case you were wondering, the new data
+00 comes directly from the CPU, so disks are not involved in reading iL) The RAIO 4 shortcut on the right reads the old value DO and comp.1fes it to
+the new value 00 to see which bits wiU change. You then read to old p.1rity P and then change the corresponding bits to form P'. The logical function
+exclusive OR does exactly what we want. This example replaces three disk reads (01,02, 03) and two disk writes (00', P') involving all the disks for
+tm> disk reads (DO, P) and two disk writes (DO', P'), which in'·olve just two disks. Increasing the size of the parity group increases the &wings of the
+shortcut. RAIO 5 uses the &'\Ille shortcut.

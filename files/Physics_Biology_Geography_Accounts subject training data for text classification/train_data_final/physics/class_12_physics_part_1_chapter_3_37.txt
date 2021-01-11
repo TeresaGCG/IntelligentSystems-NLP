@@ -1,0 +1,47 @@
+130
+
+ 
+
+3.21
+
+3.22
+
+ 
+
+(b)
+FIGURE 3.31
+
+Determine the current drawn from a 12V supply with internal
+resistance 0.59 by the infinite network shown in Fig. 3.32. Each
+resistor has 19 resistance.
+
+19. 1!). 10 19 19
+----O—/\/\/\/\ ’\/\/V‘ W ’\/\/\/‘ ’VV\/‘ 0
+
+ 
+
+ 
+
+19 10 10 10 IS)
+
+FIGURE 3.32
+
+Figure 333 shows a potentiometer with a cell of 2.0 V and internal
+resistance 0.40 S) maintaining a potential drop across the resistor
+wire AB. A standard cell which maintains a constant emf of 1.02 V
+(for very moderate currents upto a few mA) gives a balance point at
+67.3 cm length of the wire. To ensure very low currents drawn from
+the standard cell, a very high resistance of 600 k9 is put in series
+with it, which is shorted close to the balance point. The standard
+cell is then replaced by a cell of unknown emf 8 and the balance
+point found similarly, turns out to be at 82.3 cm length of the wire.
+
+2V 0.4 o
+
+600 kg
+FIGURE 3.33
+
+(a) What is the value 8?
+(b) What purpose does the high resistance of 600 kg have?
+
+2019-20

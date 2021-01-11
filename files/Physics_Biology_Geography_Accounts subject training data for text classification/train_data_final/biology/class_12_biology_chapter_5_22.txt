@@ -1,0 +1,46 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+in the chromosome. DNA is the carrier of genetic information. It is hence
+transmitted from one generation to the other without any change or
+alteration. However, changes or alteration do take place occasionally. Such
+an alteration or change in the genetic material is referred to as mutation.
+A number of disorders in human beings have been found to be associated
+with the inheritance of changed or altered genes or chromosomes.
+
+5.8.2 Mendelian Disorders
+
+Broadly, genetic disorders may be grouped into two categories — Mendelian
+disorders and Chromosomal disorders. Mendelian disorders are mainly
+determined by alteration or mutation in the single gene. These disorders
+are transmitted to the offspring on the same lines as we have studied in
+the principle of inheritance. The pattern of inheritance of such Mendelian
+disorders can be traced in a family by the pedigree analysis. Most common
+and prevalent Mendelian disorders are Haemophilia, Cystic ﬁbrosis, Sickle-
+cell anaemia, Colour blindness, Phenylketonuria, Thalassemia, etc. It is
+important to mention here that such Mendelian disorders may be
+dominant or recessive. By pedigree analysis one can easily understand
+whether the trait in question is dominant or recessive. Similarly, the trait
+may also be linked to the sex chromosome as in case of haemophilia. It is
+evident that this X—linked recessive trait shows transmission from carrier
+female to male progeny. A representative pedigree is shown in Figure 5. 14
+for dominant and recessive traits. Discuss with your teacher and design
+pedigrees for characters linked to both autosomes and sex chromosome.
+
+(b)
+
+ 
+
+ 
+
+Figure 5.14 Representative pedigree analysis of (a) Autosomal dominant trait (for example:
+Myotonic dystrophy) (b) Autosomal recessive trait (for example: Sickle-cell anaemia)
+
+Colour Blidness : It is a sex-linked recessive disorder due to defect in
+either red or green cone of eye resulting in failure to discriminate between
+red and green colour. This defect is due to mutation in certain genes
+present in the X chromosome. It occurs in about 8 per cent of males and
+only about 0.4 per cent of females. This is because the genes that lead to
+red-green colour blindness are on the X chromosome. Males have only
+one X chromosome and females have two. The son of a woman who carries
+
+2019-2020

@@ -1,0 +1,63 @@
+i PhySICS
+Integrating from 0 = O to 0 = n/2,
+mf n/2
+9 Imdm =mB Isin6d6
+o o
+H
+'1 (02
+‘1' 5—f=—chost9|3/2=mB
+g 2
+E sz 1/2 2X20 1/2 ’1
+a (of [ g j [ 104 j 205.
+
+Example 4.12
+
+(a) A current-carrying circular loop lies on a smooth horizontal plane.
+Can a uniform magnetic field be set up in such a manner that
+the loop turns around itself (i.e., turns about the vertical axis).
+
+(b) A current-carrying circular loop is located in a uniform external
+magnetic field. If the loop is free to turn, what is its orientation
+of stable equilibrium? Show that in this orientation, the ﬂux of
+the total field (external field + field produced by the loop) is
+maximum.
+
+(c) A loop of irregular shape carrying current is located in an external
+magnetic field. If the wire is ﬂexible, why does it change to a
+circular shape?
+
+Solution
+
+(a) No, because that would require 1: to be in the vertical direction.
+But 1: = I A x B, and since A of the horizontal loop is in the vertical
+direction, T would be in the plane of the loop for any B.
+
+(b) Orientation of stable equilibrium is one where the area vector A
+of the loop is in the direction of external magnetic field. In this
+
+a orientation, the magnetic field produced by the loop is in the same
+
+1; direction as external field, both normal to the plane of the loop,
+
+3 thus giving rise to maximum ﬂux of the total field.
+
+9* (c) It assumes circular shape with its plane normal to the field to
+
+E maximise ﬂux, since for a given perimeter, a circle encloses greater
+
+[:1 area than any other shape.
+4. 10.2 Circular current loop as a magnetic dipole
+In this section, we shall consider the elementary magnetic element: the
+current loop. We shall show that the magnetic ﬁeld (at large distances)
+due to current in a circular current loop is very similar in behaviour to
+the electric field of an electric dipole. In Section 4.6, we have evaluated
+the magnetic field on the axis of a circular loop, of a radius R, carrying a
+steady current I. The magnitude of this ﬁeld is [(Eq. (4.15)],
+
+#01 R2
+2 (x2 + R2 )3/ 2
+and its direction is along the axis and given by the right-hand thumb
+rule (Fig. 4.12). Here, xis the distance along the axis from the centre of
+160 the loop. For x >> R, we may drop the R2 term in the denominator. Thus,
+
+2019-20

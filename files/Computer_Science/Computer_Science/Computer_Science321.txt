@@ -1,0 +1,67 @@
+5.4 A Simple Implementation Sche me 305
+PCSrc
+~
+0
+M
+,
+Add
+"
+4 - / ) Add ALU 1
+resuR ~
+Shllt
+RegWrite
+lell 2
+I
+Instruction [25:21]
+Read
+Read MemWrite
+PC register 1
+address Read
+- I
+Instruction [20:16] data 1
+Read
+ALUSrc MemtoReg
+Zoro
+L O' register 2
+Instruction
+ALU
+[31:0] ALU Rood
+M, Wr~e Read 0 resuR Address data 1
+Instruction Instruction [15:11] " register data 2 M, M,
+memory y " "
+r-- "-.,
+Wr~e '"
+data Registers
+Data
+RegDst
+Wr~e
+memory
+data
+/ '\
+"
+/
+Instruction [15:0] 16 32 ,.
+Sign
+ALU
+eltend
+control MemlRead
+"
+/
+/
+T
+Instruction [5:0]
+ALUOp
+FIGURE 5.15 The datapath of Figure 5.12 with all necessary multiplexors and all control lines Ide ntified. The control lines are
+shown in color. The ALU control block has also been added. The PC does not require a write control, since it is WTitten once at the end of every clock
+cycle; the branch control logic determines whether it is written with the incremented PC or the branch target address.
+Now that we have looked at the function of each of the control signals, we can
+look at how to set them. The control unit can set all but one of the control signals
+based solely on the opcode field of the instruction. The PCSrc control line is the
+exception. That control line should be set if the instruction is branch on equal (a
+decision that the control unit can make) and the Zero output of the ALU, which is
+used for equality comparison, is true. To generate the PCSrc signal, we will need
+to AND together a signal from the control unit, which we call Branch, with the
+Zero signal out of the ALU.
+These nine control signals (seven from Figure 5. ]6 and two for ALUOp) can now
+be set on the basis of six input signals to the control unit, which are the opcade bits.
+Figure 5. ]7 shows the datapath with the control unit and the control signals.

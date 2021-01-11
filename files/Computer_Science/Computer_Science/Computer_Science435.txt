@@ -1,0 +1,38 @@
+6.6 Branch Hazards 419
+I. During 10, we must decode the instruction, decide whether a bypass to the
+equality unit is needed, and complete the equality comparison so that if the
+instruction is a branch, we can set the PC to the branch target address. For 
+warding for the operands of branches was formerly handled by the ALU
+forwarding logic, but the introduction of the equality test unit in ID wiII
+require new forwarding logic. Note that the bypassed source operands of a
+branch can come from either the ALU/MEM or MEM/WB pipeline latches.
+2. Because the values in a branch comparison are needed during 10 but may
+be produced later in time, it is possible that a data hazard can occur and a
+stall will be needed. For example, if an ALU instruction immediately pre 
+ceding a branch produces one of the operands for the comparison in the
+branch, a stall will be required, since the EX stage for the ALU instruction
+will occur after the ID cycle of the branch.
+Despite these difficulties, moving the branch execution to the 10 stage is an
+improvement since it reduces the penalty of a branch to only one instruction if the
+branch is taken, namely, the one currently being fetched. The exercises explore the
+details of implementing the forwarding path and detecting the hazard.
+To flush instructions in the IF stage, we add a control line, called IEFlush, that
+zeros the instruction field of the IFIID pipeline register. Clearing the register
+transforms the fetched instruction into a nop, an instruction that has no action
+and changes no state.
+Pipelined Branch
+Show what happens when the branch is taken in this instruction sequence,
+EXAMPLE
+assuming the pipeline is optimized for branches that are not taken and that
+we moved the branch execution to the 10 stage:
+36 sub $la , $4, $8
+40 beq $1 , $3 , 7 # PC - relative branch t o 40 + 4
++ 7 *4 = 72
+44 and $12 , $2 , $5
+48 or $13 , $2 , $6
+52 add $1 4, $4, $2
+56 slt $15 , $6 , $7
+72 l w 14. 50(171
+Figure 6.38 shows what happens when a branch is taken. Unlike Figure 6.37,
+ANSWER
+there is only one pipeline bubble on a taken branch.

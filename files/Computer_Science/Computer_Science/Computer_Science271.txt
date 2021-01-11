@@ -1,0 +1,42 @@
+4.3 Evaluating Performance 255
+Unfortunately, the code produced for one of the benchmarks was wrong, a fact
+that was discovered when a competitor read through the binary to understand
+how Intel had sped up one of the programs in the benchmark suite so dramati 
+cally. In January 1996, Intel admitted the error and restated the performance.
+Small programs or programs that spend almost all their execution time in a very
+small code fragment are especially vulnerable to such efforts.
+So why doesn't everyone run real programs to measure performance? One rea 
+son is that small benchmarks are attractive when beginning a design, since they
+are small enough to compile and simulate easily, sometimes by hand. They are
+especially tempting when designers are working on a novel computer because
+compilers may not be available until much later in the design. Although the use of
+such small benchmarks early in the design process may be justified, there is no
+valid rationale for using them to evaluate working computer systems.
+As mentioned earlier, different classes and applications of computers will require
+different types of benchmarks. For desktop computers, the most common bench 
+marks are either measures of CPU performance or benchmarks focusing on a spe 
+cific task, such as DVD playback or graphics performance for games. In Section 4.4,
+we will examine the SPEC CPU benchmarks, which focus on CPU performance and
+measure response time to complete a benchmark. For servers, the decision of which
+benchmark to use depends heavily on the nature of the intended application. For
+scientific servers, CPU-oriented benchmarks with scientific applications are typi 
+cally used, and response time to complete a benchmark is the metric. For other
+server environments, benchmarks of Web serving, file serving, and databases are
+commonly used. These server benchmarks usually emphasize throughput, albeit
+with possible requirements on response time to individual events, such as a database
+query or Web page request. Section 4.4 examines the SPECweb99 benchmark
+designed to test Web server performance. In embedded computing, good bench 
+marks are much more rare. Often customers use their specific embedded applica 
+tion or a segment of it for benchmarking purposes. The one major benchmark suite
+developed for embedded computers is EEMBC, and we discuss those benchmarks
+in the In More Depth section on the CD.
+Once we have selected a set of suitable benchmarks and obtained performance
+measurements, we can write a performance report. The guiding principle in
+reporting performance measurements should be reproducibility-we should list
+everything another experimenter would need to duplicate the results. This list
+must include the version of the operating system, compilers, and the input,as well
+as the computer configuration. As an example, the system description section of a
+SPEC CPU2000 benchmark report is in Figure 4.3.
+One important element of reproducibility is the choice of input. Different
+inputs ca n generate quite different behavior. For example, an input can trigger
+certain execution paths that may be typical, or it may exercise rarely used, and

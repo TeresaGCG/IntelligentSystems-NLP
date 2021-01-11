@@ -1,0 +1,26 @@
+(
+Start
+1. Add the biased exponents of the two
+numbers, subtracting the bias from the sum
+to get the new biased exponent
+2. Multiply the significands
+3. Normalize the product if necessary, shifting
+it right and incrementing the exponent
+Ye,
+Overllow or
+underllow?
+No Exception
+4. Round the significand to the appropriate
+number of bits
+No
+Still normalized?
+Ye,
+5. Set the sign of the product to positive if the
+signs of the original operands are the same;
+if they differ make the sign negative
+( )
+Done
+FIGURE 3.18 floating-poInt multiplication. The normal path to executesteps 3 and 4 once, but
+IS If
+rounding causes the sum to be unnormalized,we must repeat step 3.
+(page 205)

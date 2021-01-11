@@ -1,0 +1,42 @@
+402 Chapter 6 Enhancing Performance with Plpellnlng
+2. Instruction decode/register file read: As in the previous stage, the same thing
+happens at every clock cycle, so there are no optional control lines to set.
+3. Execution/address calculation: The signals to be set are RegDst, ALUOp,
+and ALUSrc (see Figures 6.23 and 6.24). The signals select the Result regis 
+ter, the ALU operation, and either Read data 2 or a sign-extended immedi 
+ate for the ALU.
+4. Memory access: The control lines set in this stage are Branch, MemRead,
+and MemWrite. These signals are set by the branch equal, load, and store
+instructions, respectively. Recall that PCSrc in Figure 6.24 selects the next
+sequential address unless control asserts Branch and the ALU result was
+zero.
+5. Write back: The two control lines are MemtoReg, which decides between
+sending the ALU result or the memory value to the register file, and Reg 
+Write, which writes the chosen value.
+Since pipelining the datapath leaves the meaning of the control lines
+unchanged, we can use the same control values as before. Figure 6.25 has the same
+values as in Chapter 5, but now the nine control lines are grouped by pipeline
+stage.
+Implementing control means setting the nine control lines to these values in
+each stage for each instruction. The simplest way to do this is to extend the pipe 
+line registers to include control information.
+Since the control lines start with the EX stage, we can create the control infor 
+mation during instruction decode. Figure 6.26 shows that these control signals are
+then used in the appropriate pipeline stage as the instruction moves down the
+pipeline, just as the destination register number for loads moves down the pipe 
+line in Figure 6.1 7 on page 395. Figure 6.27 shows the full datapath with the
+extended pipeline registers and with the control lines connected to the proper
+stage.
+What do you mean, why's it
+got to be built? It's a bypass.
+Data Hazards and Forwarding
+You've got to bl/ild bypasses.
+Douglas Adams, Hitchhikers
+Guide to the Galaxy, 1979
+The examples in the previous section show the power of pipelined execution and
+how the hardware performs the task. It's now time to take off the rose-colored
+glasses and look at what happens with real programs. The instructions in Figures
+6. 19 through 6.2 1 were independent; none of them used the results calculated by
+any of the others. Yet in Section 6. 1we saw that data hazards are obstacles to pipe 
+lined execution.
+Let's look at a sequence with many dependences, shown in color:

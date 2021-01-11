@@ -1,0 +1,39 @@
+5.5 A Multleyele Implementation 319
+ticycle datapath. If we compare Figure 5.25 to the datapath for the single-cycle ver 
+sion in Figure 5. 11 on page 300, we can see the following differences:
+• A single memory unit is used for both instructions and data.
+• There is a single ALU, rather than an ALU and two adders.
+• One or more registers are added after every major functional unit to hold
+the output of that unit until the value is used in a subsequent clock cycle.
+At the end of a clock cycle, all data that is used in subsequent clock cycles must
+be stored in a state element. Data used by 5lIbsequent instructions in a later clock
+cycle is stored into one of the progra mmer-visible state elements: the register file,
+the PC, or the memory. In contrast, data used by the same instruction in a later
+cycle must be stored into one of these additional registers.
+Thus, the position of the additional registers is determined by the two fa ctors:
+what combinational units will fit in one clock cycle and what data are needed in
+later cycles implementing the instruction. In this multicycle design, we assume
+that the clock cycle can accommodate at most one of the following operations: a
+memory access, a register file access (two reads or one write), or an ALU opera 
+tion. Hence, any data produced by one of these three functional units (the mem 
+ory, the register file, or the ALU) must be saved, into a temporary register for use
+on a later cycle. If it were not saved then the possibility of a timing race could
+occur, leading to the use of an incorrect value.
+The following temporary registers are added to meet these requirements:
+• The Instruction register (IR) and the Memory data register (MDR) are
+added to save the output of the memory for an instruction read and a data
+read, respectively. Two separate registers are used, since, as will be clear
+shortly, both values are needed during the same clock cycle.
+• The A and B registers are used to hold the register operand values read from
+the register file.
+• The ALUOut register holds the output of the ALU.
+All the registers except the IR hold data only between a pair of adjacent clock
+cycles and will thus not need a write control signal. The IR needs to hold the
+instruction until the end of execution of that instruction, and thus will require a
+write control signal. This distinction will become more clear when we show the
+individual clock cycles for each instruction.
+Because several functional units are shared for different purposes, we need
+both to add multiplexors and to expand existing multiplexors. For example, since
+one memory is used for both instructions and data, we need a multiplexor to
+select between the two sources for a memory address, namely, the PC (for instruc 
+tion access) and ALUOut (for data access).

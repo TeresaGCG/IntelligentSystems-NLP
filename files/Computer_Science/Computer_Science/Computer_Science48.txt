@@ -1,0 +1,14 @@
+32 Chapter 1 Computer Abstractions and Technology
+FIGURE 1.16 An Intel Pentium 4 (3.06 GHz) mounted on top of Its heat sink, which Is
+designed to remove the 82 watts generated within the die.
+Power can be reduced by lowering the voltage, which typically occurs with a new gen 
+eration of technology; in 20 years, voltages have gone from 5V to 1.5V, significantly
+reducing power. The capacitive load per transistor is a function of both the number of
+transistors connected to an output (called the fanout) and the technology, which deter 
+mines the capacitance of both wires and transistors.
+Although dynamic power is the primary source of power dissipation in CMOS, static
+power dissipation occurs because of leakage current that flows even when a transistor
+is off. In 2004, leakage is probably responsible for 20-30% of the power consumption.
+Thus, increasing the number of transistors increases power dissipation, even if the
+transistors are always off. A variety of design techniques and technology innovations
+have been deployed to control leakage.

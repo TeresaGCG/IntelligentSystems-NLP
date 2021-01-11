@@ -1,0 +1,56 @@
+7.5 A Common Framework for Memory Hierarchies 543
+BIG
+While caches, TLBs, and virtual memory may initially look very different,
+The
+they rely on the same two principles of locality and can be understood by
+Picture
+looking at how they deal with four questions:
+Question 1: Where can a block be placed?
+Answer: One place (direct mapped), a few places (set associative),
+or any place (fully associative).
+Question 2: How is a block found?
+Answer: There are four methods: indexing (as in a direct-mapped
+cache), limited search (as in a set-associative cache), full
+search (as in a fully associative cache), and a separate
+lookup table (as in a page table).
+Question 3: What block is replaced on a miss?
+Answer: Typically, either the least recently used or a random block.
+Question 4: How are writes handled?
+three Cs model Acache model
+Answer: Each level in the hierarchy can use either write-through
+in which all cache misses are
+or write-back.
+classified into one of three cate 
+gories:compulsory misses,
+capacity misses, and conflict
+misses.
+The Three Cs: An Intuitive Model for Understanding the
+Behavior of Memory Hierarchies
+compulsory miss Also called
+cold start miss. Acache miss
+In this section, we look at a model that provides insight into the sources of misses
+caused by the first access to a
+in a memory hierarchy and how the misses will be affected by changes in the hier 
+block that has never been in the
+archy. We will explain the ideas in terms of caches, although the ideas ca rryover
+cache.
+directly to any other level in the hierarchy. In this model, all misses are classified
+into one of three categories (the three Cs): capacity miss Acache miss
+that occursbecause the cache,
+• Compulsory misses: These are cache misses caused by the first access to a
+even with full associativity, can 
+block that has never been in the cache. These are also called cold-start misses. not contain all the block needed
+to satisfy the request.
+• Capacity misses: These are cache misses caused when the cache cannot con 
+tain all the blocks needed during execution of a program. Capacity misses
+conflict miss Also called colli 
+occur when blocks are replaced and then later retrieved. sion miss. Acache miss that
+occurs in a set-associative or
+• Conmct misses: These are cache misses that occur in set-associative or
+direct-mapped cache when mul·
+direct-mapped caches when multiple blocks compete for the sa me set. Con 
+tiple blocks compete for the
+fl ict misses are those misses in a direct-m apped o r set-associative cache that same set and that are eliminated
+are eliminated in a fully associative cache of the same size. These cache in a fully associative cache of the
+same size.
+misses are also called collision misses.

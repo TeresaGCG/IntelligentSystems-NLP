@@ -1,0 +1,83 @@
+i Physics
+
+ 
+
+(c) Suppose that the same system of charges is now placed in an
+external electric field E = A (1/r2); A = 9 X 105 C m'2. What would
+the electrostatic energy of the configuration be?
+
+Solution
+
+(a) U: 1 ‘1qu = 9x109 XM= —0.7 J.
+47:80 r 0.18
+(b) W= UZ—U1 =O—U=O—(—O.7) =O.7J.
+(c) The mutual interaction energy of the two charges remains
+unchanged. In addition, there is the energy of interaction of the
+two charges with the external electric ﬁeld. We ﬁnd,
+
+7 ”C —2P~C
+V V : A A
+ql (r1) + ‘12 (r2) 0.09m + 0.09m
+
+and the net electrostatic energy is
+
+q.v(r.)+q.v(r.)+ «m. =A ”C +A ‘2” _o.7J
+4n€0r12 0.09m 0.09m
+
+=70—20—O.7=49.3J
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.8.3 Potential energy of a dipole in an external ﬁeld
+
+Consider a dipole with charges q1 = +q and q2 = —q placed in a uniform
+electric field E, as shown in Fig. 2.16.
+
+As seen in the last chapter, in a uniform electric ﬁeld,
+the dipole experiences no net force; but experiences a
+_, torque 1: given by
+
+’ 1: = pXE (2.30)
+which will tend to rotate it (unless p is parallel or
+antiparallel to E). Suppose an external torque text is
+V x applied in such a manner that it just neutralises this
+torque and rotates it in the plane of paper from angle 00
+to angle 01 at an infinitesimal angular speed and without
+. . angular acceleration. The amount of work done by the
+‘ external torque will be given by
+
+—>
+
+ 
+
+ 
+
+ 
+
+P 91
+
+91 _
+FIGURE 2.16 Potential energy of a W = 90 Text(9)d6 = .lso pE Sll’19d9
+
+dipole in a uniform external field.
+
+= pE(cos490 —cos6?1) (2.31)
+
+This work is stored as the potential energy of the system. We can then
+associate potential energy U(6) with an inclination 6 of the dipole. Similar
+to other potential energies, there is a freedom in choosing the angle where
+the potential energy U is taken to be zero. A natural choice is to take
+00 = at / 2. (An explanation for it is provided towards the end of discussion.)
+We can then write,
+
+66 U(6) = pE (cos; — cosej = pE cos6 = —p.E (2.32)
+
+2019-20

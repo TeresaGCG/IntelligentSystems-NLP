@@ -1,0 +1,79 @@
+82
+
+PHYSICS
+
+10.
+
+11.
+
+12.
+
+13.
+
+SUMIWARY
+
+Scalar quantities are quantities with magnitudes only. Examples are distance, speed,
+mass and temperature.
+Vector quantities are quantities with magnitude and direction both. Examples are
+displacement, velocity and acceleration. They obey special rules of vector algebra.
+A vector A multiplied by a real number 7L is also a vector, whose magnitude is 7L times
+the magnitude of the vector A and whose direction is the same or opposite depending
+upon whether 7L is positive or negative.
+Two vectors A and B may be added graphically using head—tatail method or parallelogram
+method.
+Vector addition is commutative :
+
+A + B = B + A
+It also obeys the associative law :
+
+[A+B)+C=A+[B+C]
+A null or zero vector is a vector with zero magnitude. Since the magnitude is zero, we
+don’t have to specify its direction. It has the properties :
+
+A+0=A
+7L0=0
+0A=0
+
+The subtraction of vector B from A is defined as the sum of A and —B :
+A — B = A+ [—B}
+A vector A can be resolved into component along two given vectors a and b lying in the
+same plane :
+A=la+ub
+where 7L and u are real numbers.
+A unit vector associated with a vector A has magnitude 1 and is along the vector A:
+
+- A
+n = ——
+IA!
+The unit vectors 3, 3, f; are vectors of unit magnitude and point in the direction of
+
+the x—, y—, and z—axes, respectively in a right—handed coordinate system.
+A vector A can be expressed as
+
+A = Axi + ij
+where Ax, Ay are its components along x—, and y —axes. If vector A makes an angle 6
+
+Ay
+
+2 2 _
+with the x—axis, then Ax = A cos 0, Ay=A sin 6 and A 2 IA! 2 \le + Ay , tang A—
+
+x
+
+Vectors can be conveniently added using analytical method. If sum of two vectors A
+and B, that lie in x—y plane, is R, then :
+
+R: in+Ryj, where, Rx =Ax+Bx, and Ry =Ay + By
+
+The position vector of an object in x—y plane is given by r = xi + y} and the
+displacement from position 1' to position 1" is given by
+Ar = r’— r
+
+=(xC—x)i+(y5—y)3
+
+= Ax ; + ij
+If an object undergoes a displacement Ar in time At, its average velocity is given by
+Ar
+v = E. The velocity of an object at time t is the limiting value of the average velocity
+
+2019-20

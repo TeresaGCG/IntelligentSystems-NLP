@@ -1,0 +1,46 @@
+Financial Statements of a Company 1 5 1
+
+Trade receivables
+
+Trade receivables realised beyond twelve months from reporting date / operating
+cycle starting from the date of their recognition are classiﬁed as “Other non-
+current assets” under the head non-current assets with Note to Accounts. For
+example, sale of goods or services rendered in normal course of business. Others
+are classiﬁed as current assets and shown on the face of the balance sheet.
+
+Cash and cash equivalent
+
+It is always current however, amounts which qualify as cash and cash equivalents
+as per IAS-3 is shown here. The supremacy is accorded to AS over Schedule III,
+cash and cash equivalents are to the disclosed in accordance to IAS-3.
+
+Illustration 3
+Show the following items in the balance sheet of Sunfill Ltd. as at March 31,
+20 1 7 :
+
+Particulars Amount (Rs.)
+
+General Reserve (since 3 1 March 2012) 5.00.000
+
+Statement of proﬁt & loss (debit balance) for 20 16—17 (3.00.000)
+Solution:
+
+Books of Sunfill Ltd.
+Balance Sheet as at March 31, 2017
+
+No. 2017 Rs. 2016 Rs.
+
+I. Equity and Liabilities
+1. Shareholders’ Funds
+Reserve and surplus 1 2.00.000 5.00.000
+
+Notes to Accounts
+
+ 
+
+1. Reserve and surplus
+General Reserve (1 April. 20 16) 5.00.000
+
+Less: Statement of proﬁt and loss (3.00.000)
+
+(Dr. balance)

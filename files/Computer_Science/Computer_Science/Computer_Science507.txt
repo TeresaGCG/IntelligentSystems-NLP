@@ -1,0 +1,39 @@
+7.2 The Basics of Caches 491
+300 MHz. The two key advantages of SDRAMs are the use of a clock that eliminates
+the need to synchronize and the elimination of the need to supply successive
+addresses in the burst. The DDR part of the name means data transfers on both the
+leading and falling edge of the clock, thereby getting twice as much bandwidth as you
+might expect based on the clock rate and the data width. To deliver such high band 
+width, the internal DRAM is organized as interleaved memory banks.
+The advantage of these optimizations is that they use the circuitry already largely on
+the DRAMs, adding little cost to the system while achieving a significant improvement
+in bandwidth. The internal architecture of DRAMs and how these optimizations are
+II
+implemented are described in Section 8.8 of Appendix 8.
+Summary
+We began the previous section by examining the simplest of caches: a direct-mapped
+cadle with a one-word block. In such a cadle, both hits and misses are simple, since a
+word can go in exactly one location and there is a separate tag for every word. To keep
+the cache and memory consistent, a write-through scheme can be used, so that every
+write into the cache also causes memory to be updated. The alternative to write 
+through is a write-back scheme that copies a block back to memory when it is
+replaced; we'll discuss this scheme further in upcoming sections.
+To take advantage of spatial locality, a cache must have a block size larger than
+one word. The use of a larger block decreases the miss rate and improves the effi 
+ciency of the cache by reducing the amount of tag storage relative to the amount
+of data storage in the cache. Although a larger block size decreases the miss rate, it
+can also increase the miss penalty. If the miss penalty increased linearly with the
+block size, larger blocks could easily lead to lower perform ance. To avoid this, the
+bandwidth of main memory is increased to transfer cache blocks more efficiently.
+The two common methods fo r doing this are making the memory wider and
+interleaving. In both cases, we reduce the time to fetch the block by minimizing
+the number of times we must start a new memo ry access to fetch a block, and,
+with a wider bus, we can also decrease the time needed to send the block from the
+memo ry to the cache.
+The speed of the memo ry system affects the designer's decision on the size of the Check
+cache block. \Vhich of the following cache designer guidelines are generally valid?
+Yourself
+1. The shorter the memory latency, the smaller the cache block.
+2. The shorter the memory latency, the larger the cache block.
+3. The higher the memory bandwidth, the smaller the cache block.
+4. The higher the memory bandwidth, the larger the cache block.

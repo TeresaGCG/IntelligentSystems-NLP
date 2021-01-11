@@ -1,0 +1,42 @@
+2.20 Exercises 153
+II
+2.41 <§2.1 0> For More Practice: Linking MIPS Code
+2.42 [20J <§2.11 >Find a large program written in C (for example, gee, which can
+be obtained from http://gcc.gllu.org) and compile the program twice, once with op 
+timizations (use - 03) and once without. Compare the compilation time and run
+time of the program. Are the results what you expect?
+III
+2.43 (20) <§2.1 2> For Mo re Practice: Enhancing M IPS Addressing Modes
+II
+2.44 (10) <§2.1 2> For More Practice: Enhancing MIPS Addressing Modes
+II
+2.45 (10) <§2.1 2> In More Depth: The IBM/Motorola versus MIPS in C
+2.46 [15) <§§2.6, 2.1 3> The MI PS translation of the C (or Java) segment
+while (save[iJ k)
++= 1 ;
+1
+on page 129 (Section 2.6, "Compiling a \-Vhile Loop in C") uses both a conditional
+branch and an unconditional jump each time through the loop. Only poor com  
+pilers would produce code with this loop overhead. Assuming that this code is in
+Java (not C), rewrite the assembly code so that it uses at most one branch or jump
+each time through the loop. Additionally, add code to perfo rm the Java checking
+for index out of bounds and ensure that this code uses at most one branch or
+jump each time through the loop. How many instructions are executed before and
+after the optimization if the number of iterations of the loop is I0 and the value of
+i is never out of bounds?
+2.47 (30) <§§2.6, 2.1 3> Consider the following fragment of Java code:
+f or (i =O; i<=lOO ; i =i +1)
+a[iJ = b[iJ + c ;
+Assume that a and b are arrays of words and the base address of a is in $aO and
+the base address of b is in $a l. Register $tO is associated with variable i and reg 
+ister $s 0 with the value of c. You may also assume that any address constants you
+need are available to be loaded from mem ory. Write the code fo r MIPS. How
+many instructions are executed during the running of this code if there are no
+array out-of-bounds exceptions thrown? How many memory data references will
+be made during execution?
+2.48 [5J <§2.1 3> Write the M IPS code fo r the Java method compa r eTo (found
+in Figure 2.35 on page 124).
+2.49 [15) <§2.1 7> When designing memory systems, it becomes useful to know
+the frequency of memory reads versus writes as well as the frequency of accesses for
+instructions versus data. Using the average instruction mix information for M IPS
+for the program SPEC2000int in Figure 2.48 (on page 141 ), find the following:

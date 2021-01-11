@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+202
+The results of calculations of the circumference of a circle are usu-
+ally written as multiples of π, but I’ll also give numerical approximations
+for the answers. Numerical approximations are usually more meaningful.
+Example 1
+Find the diameter and the circumference of a circle with radius
+7 inches.
+Solution: The diameter of a circle is twice the radius; the diameter
+of our circle is 14 inches. The circumference of a circle is 2π r; the
+circumference of our circle is 14 π inches.
+This is roughly 43.98 inches.
+The area of a circle is also related to its radius. The area of a circle
+can be calculated using this formula:
+Area = π r2
+The results of calculations of the area of a circle are usually written
+as multiples of π, but I’ll also give numerical approximations for the an-
+swers. Numerical approximations are usually more meaningful.
+Example 2
+Find the area of a circle with radius 4 centimeters.
+Solution: Use the equation for the area of a circle:
+Area = π (4)2 = 16π cm2
+This is roughly 50.27 cm2.
+Example 3
+Find the area of a circle with a diameter of 10 feet.
+Solution: In order to use our equation for area, we must know the
+radius of the circle. We were given the diameter of the circle, so
+we must use that information to find the radius. Then we can use
+our equation for the area of a circle:
+www.ebook3000.com

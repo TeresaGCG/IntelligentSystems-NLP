@@ -1,0 +1,49 @@
+Moving Charges and
+Magnetism
+
+Example 4.3 What is the radius of the path of an electron (mass
+9 X 10‘31 kg and charge 1.6 X 10‘19 C) moving at a speed of3 X107 m/s in
+a magnetic field of 6 X 10;4 T perpendicular to it? What is its
+frequency? Calculate its energy in keV. ( 1 eV = 1.6 X 10!19 J).
+
+Solution Using Eq. (4.5) we find
+r = mv/ (qB) =9x1oz31kgx3x 107 ms’1 /(1.6X 1049c X6X 10‘4T)
+=26X 10C2m=26cm
+v = v / (2 m) = 2x106 s’1 = 2x106 Hz =2 MHz.
+= (1/2 )mv2 = (1/2) 9 x 104”1 kg x 9 x 1014 111%2 = 40.5 x10z17 J
+z 4X10’16J = 2.5 keV.
+
+HELICAL MOTION OF CHARGED PARTICLES AND AURORA BOREALIS
+
+In polar regions like Alaska and Northern Canada, a splendid display of colours is seen
+in the sky. The appearance of dancing green pink lights is fascinating, and equally
+puzzling. An explanation of this natural phenomenon is now found in physics, in terms
+of what we have studied here.
+
+Consider a charged particle of mass m and charge q, entering a region of magnetic
+ﬁeld B with an initial velocity v. Let this velocity have a component VP parallel to the
+magnetic ﬁeld and a component v11 normal to it. There is no force on a charged particle in
+the direction of the ﬁeld. Hence the particle continues to travel with the velocity VP parallel
+to the field. The normal component vn of the particle results in a Lorentz force (vn X B)
+which 1s perpendicular to both v11 and B. As seen in Section 4.3.1 the particle thus has a
+tendency to perform a circular motion in a plane perpendicular to the magnetic ﬁeld.
+When this is coupled With the velocity parallel to the ﬁeld, the resulting trajectory will be
+a helix along the magnetic field line, as shown in Figure (a) here. Even if the ﬁeld line
+bends, the helically moving particle is trapped and guided to move around the ﬁeld line.
+Since the Lorentz force is normal to the velocity of each point, the ﬁeld does no work on
+the particle and the magnitude of velocity remains the same.
+
+8'? 31mg
+
+ 
+
+During a solar ﬂare, a large number of electrons and protons are ejected from the sun.
+Some of them get trapped in the earth’s magnetic ﬁeld and move in helical paths along the
+ﬁeld lines. The ﬁeld lines come closer to each other near the magnetic poles; see ﬁgure (b).
+Hence the density of charges increases near the poles. These particles collide with atoms
+and molecules of the atmosphere. Excited oxygen atoms emit green light and excited
+nitrogen atoms emits pink light. This phenomenon is called Aurora Borealis in physics.
+
+139
+
+2019-20

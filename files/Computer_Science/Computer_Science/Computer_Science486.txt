@@ -1,0 +1,31 @@
+470 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Current
+Speed CPU Size Cost (Sibil) Technology
+Fastest Smallest Highest SRAM
+DRAM
+Slowest Biggest Lowest Magnetic Disk
+FIGURE 7.1 The basic structure of a memory hierarchy. By implementing the memory system
+as a hierarchy, the user has the iUusion of a memory that is as large as the largest level of the hierarchy, but
+can be accessed as jf it were aU buill from the fastest memory.
+The memory system is organized as a hierarchy: a level closer to the processor
+is generally a subset of any level further away, and all the data is stored at the low 
+est level. By analogy, the books on your desk form a subset of the library you are
+working in, which is in turn a subset of all the libraries on campus. Furthermore,
+as we move away from the processor, the levels take progressively longer to access,
+just as we might encounter in a hierarchy of campus libraries.
+A memory hierarchy can consist of multiple levels, but data is copied between
+only two adjacent levels at a time, so we can focus our attention on just two levels.
+The upper level- the one closer to the processor-is smaller and faster (since it
+uses more expensive technology) than the lower level. Figure 7.2 shows that the
+minimum unit of information that can be either present or not present in the
+blo(;k The minimum unit of two-level hierarchy is called a block or a line; in our library analogy, a block of
+information that can be either information is one book.
+present or not present in the
+If the data requested by the processor appea rs in some block in the upper level,
+t\Vo-level hierarchy.
+this is called a hit (analogous to your finding the information in one of the books
+on your desk). If the data is not found in the upper level, the request is called a
+miss. The lower level in the hierarchy is then accessed to retrieve the block con 
+hit rate The fraction ofmem  taining the requested data. (Continuing our analogy, you go from your desk to the
+ory accesses found in a cache. shelves to find the desired book.) The hit rate, or hit ratio, is the fraction of mem 
+ory accesses found in the upper level; it is often used as a measure of the perfor-

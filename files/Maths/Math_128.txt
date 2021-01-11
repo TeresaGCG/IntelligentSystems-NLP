@@ -1,0 +1,28 @@
+Homework Helpers: Basic Math and Pre-Algebra
+128
+x = 30.94
+So, one gold bar weighs 30.94 pounds.
+Lesson 7-2 Review
+Solve the following problems:
+1.
+2.
+3.
+4. An online bookstore is offering electronic books at a rate of 10
+pages for $0.75. A printed version of a book that is 160 pages sells
+for $9.95. If you plan to read the entire book, which would be
+cheaper: buying the electronic version or the printed version of the
+book?
+Lesson 7-3: Proportions and Percents
+A proportion is an equation involving the ratios of two quantities. A
+ratio consists of a numerator and a denominator. In general, the denomi-
+nator of a ratio can be any non-zero number. Percents are special ratios
+that always have a denominator equal to 100. We consider 100% to be
+equivalent to a whole: 100% = 1. We can use a proportion to convert a
+ratio into a percent.
+A typical percent problem involves a proportion such as  a  =   c  . The
+b 100
+variable a represents the part, b represents the whole, and c represents
+the percent. A percent problem can require you to solve for the part, the
+whole, or the percent. The key will always be to set up a proportion. To
+solve the proportion, cross-multiply and solve for the unknown piece.
+www.ebook3000.com

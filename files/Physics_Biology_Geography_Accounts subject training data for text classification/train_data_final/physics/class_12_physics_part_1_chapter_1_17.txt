@@ -1,0 +1,95 @@
+FIGURE 1. 1 1 Electric
+
+ 
+
+ 
+
+i Physics
+
+(a)
+
+(b)
+
+EXAMPLE 1 .7
+
+field (a) due to a
+
+charge Q. (b) due to a
+charge 7Q.
+
+18
+
+Similarly the total force on charge —q at C is F3 = .5 F 11 , where 11 is
+the unit vector along the direction bisecting the ABCA.
+
+It is interesting to see that the sum of the forces on the three charges
+is zero, i.e.,
+
+F1 + F2 + F3 = 0
+
+The result is not at all surprising. It follows straight from the fact
+
+that Coulomb’s law is consistent with Newton’s third law. The proof
+is left to you as an exercise.
+
+1 .8 ELECTRIC FIELD
+
+Let us consider a point charge Q placed in vacuum, at the origin 0. If we
+place another point charge q at a point P, where OP = r, then the charge Q
+will exert a force on q as per Coulomb’s law. We may ask the question: If
+charge q is removed, then what is left in the surrounding? Is there
+nothing? If there is nothing at the point P, then how does a force act
+when we place the charge q at P. In order to answer such questions, the
+early scientists introduced the concept of ﬁeld. According to this, we say
+that the charge Q produces an electric ﬁeld everywhere in the surrounding.
+When another charge q is brought at some point P, the ﬁeld there acts on
+it and produces a force. The electric ﬁeld produced by the charge Q at a
+point r is given as
+
+1 Q 1 Q
+
+E r = —i‘= —i'
+( ) 47:80 r2 47580 r2 (1'6)
+
+ 
+
+ 
+
+where i- : r/ r, is a unit vector from the origin to the point r. Thus, Eq.(1.6)
+
+specifies the value of the electric field for each value of the position
+
+vector 1'. The word “field” signiﬁes how some distributed quantity (which
+could be a scalar or a vector) varies with position. The effect of the charge
+has been incorporated in the existence of the electric ﬁeld. We obtain the
+force F exerted by a charge Q on a charge q, as
+
+F = 1 9—3 i-
+
+471280 r
+
+Note that the charge q also exerts an equal and opposite force on the
+charge Q. The electrostatic force between the charges Q and q can be
+looked upon as an interaction between charge q and the electric field of
+
+Q and vice versa. If we denote the position of charge q by the vector 1', it
+
+experiences a force F equal to the charge q multiplied by the electric
+
+ﬁeld E at the location of q. Thus,
+F(r) = q EM (1 .8)
+Equation (1.8) defines the 81 unit of electric ﬁeld as N / 0*.
+Some important remarks may be made here:
+
+(i) From Eq. (1.8), we can infer that if q is unity, the electric ﬁeld due to
+a charge Q is numerically equal to the force exerted by it. Thus, the
+electric ﬁeld due to a charge Q at a point in space may be defined
+as the force that a unit positive charge would experience if placed
+
+ 
+
+(1.7)
+
+* An alternate unit V/ m will be introduced in the next chapter.
+
+2019-20

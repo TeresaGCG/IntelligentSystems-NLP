@@ -1,0 +1,42 @@
+7.
+Chapter 2 Instructions: Language of the Computer
+The first bit pattern above represents 9, and 9 X 16 = 144, the value of the sec 
+ond bit pattern.
+Another useful operation that isolates fields is AND. (We capitalize the word to
+avoid confusion between the operation and the English conjunction.) AND is a
+bit-by-bit operation that leaves a 1 in the result only if both bits of the operands
+are 1. For example, if register $t 2 still contains
+0000 0000 0000 0000 0000 1101 0000 OOOOtwo
+and register $t 1 contains
+0000 0000 0000 0000 00111100 0000 OOOOtwo
+then, after executing the MIPS instruction
+and $tO, Hi, $t2 # reg $tO - reg $t1 & reg $t2
+the value of register $tO would be
+0000 0000 0000 0000 0000 1100 0000 OOOOtwo
+As you can see, AND can apply a bit pattern to a set of bits to force as where there
+is a a in the bit pattern. Such a bit pattern in conjunction with AND is tradition 
+ally called a mask, since the mask "conceals" some bits.
+To place a value into one of these seas of as, there is the dual to AND, called OR.
+It is a bit-by-bit operation that places a 1 in the result if either operand bit is a 1.
+To elaborate, if the registers $tl and $t 2 are unchanged from the preceding
+example, the result of the MIPS instruction
+#
+or $tO,$tl,$t2 reg $tO reg $tl I reg $t2
+=
+is this value in register $t 0:
+0000 0000 0000 0000 001111010000 OOOOtwo
+NOT A logical bit-by-bit oper  The final logical operation is a contrarian. NOT takes one opera nd and places a
+ation with one operand that 1 in the result if one operand bit is a 0, and vice versa. In keeping with the two 
+inverts the bits; that is, it
+opera nd format, the designers of MIPS decided to include the instruction NOR
+replaces every 1with a 0, and
+(NOT OR) instead of NOT. If one operand is zero, then it is equivalent to NOT.
+every 0 with a 1.
+For example, A NOR a = NOT (A OR 0) = NOT (A).
+NOR A logical bit-by-bit oper  If the register $tl is unchanged from the preceding example and register $t3
+ation with two operands that
+has the value 0, the result of the MI PS instruction
+calculates the NOT ofthe OR of
+#
+the two operands. nor $tO,$tl,$t3 reg $tO ( reg $t1 I reg $t3)
+= -

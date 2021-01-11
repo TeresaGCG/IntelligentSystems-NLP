@@ -1,0 +1,40 @@
+462 Chapter 6 Enhancing Performance with Plpellnlng
+6.46 (I month ) <§§5.4, 6.3-6.8> If you have access to a simulation system such
+as Verilog or ViewLogic, first design the single-cycle datapath and control from
+Chapter 5. Then evolve this design into a pipelined organization, as we did in this
+chapter. Be sure to run MIPS progra ms at each step to ensure that your refined
+design continues to operate correctly.
+6.47 (10) <§6.9> The following code has been unrolled once but not yet sched 
+uled. Assume the loop index is a multiple of two (i.e., $10 is a multiple of eight):
+Loop : 1w 12 . 0(110)
+sub 14 . 12 . $3
+sw 14 . 0(110)
+1w 15 . 4 (110)
+sub 16 . 15 . $3
+sw 16 . 4 (110)
+addi 110 . 110 . 8
+bne 110 . $30 . Loop
+Schedule this code for fast execution on the standard MIPS pipeline (assume that
+it supports addi instruction). Assume initially $10 is 0 and $30 is 400 and that
+branches are resolved in the MEM stage. How does the scheduled code compare
+against the original unscheduled code?
+6.48 (20) <§6.9> This exercise is similar to Exercise 6.47, except this time the
+code should be unrolled twice (creating three copies of the code). However, it is
+not known that the loop index is a multiple of three, and thus you will need to
+invent a means of ensuring that the code still executes properly. (Hint: Consider
+adding some code to the beginning or end of the loop that takes care of the cases
+not handled by the loop.)
+6.49 (20) <§6.9> Using the code in Exercise 6.47, unroll the code four times and
+schedule it for the static multiple-issue version of the MIPS processor described on
+pages 436-439. You may assume that the loop executes fora multiple offour times.
+6.50 (10) <§§6. 1-6.9> As technology leads to smaller feature sizes, the wires
+become relatively slower (as compared to the logic). As logic becomes faster with
+the shrinking feature size and clock rates increase, wire delays consume more clock
+cycles. That is why the Pentium 4 has several pipeline stages dedicated to transfer 
+ring data along wires from one part of the pipeline to another. What are the draw 
+backs to having to add pipe stages fo r wire delays?
+6.51 (30) <§6.1O> New processors are introduced more quickly than new ver 
+sions of textbooks. To keep your textbook current, investigate some of the latest
+developments in this area and write a one-page elaboration to insert at the end of
+Section 6.10. Use the World-Wide Web to explore the characteristics of the lastest
+processors from Intel or AMD as a starting point.

@@ -1,0 +1,35 @@
+Homework Helpers: Basic Math and Pre-Algebra
+146
+Well, 0 > −1. Notice that we started with 0 < 1, and when we multiplied
+both sides of the inequality 0 < 1 by −1 we end up with the inequality 0 > −1.
+This leads us to an important rule about multiplying an inequality by a
+negative number: When you multiply an inequality by a negative num-
+ber you must flip the inequality symbol. We can write this mathemati-
+cally as:
+If a < b and c < 0  then a⋅ c>b⋅  c
+This flipping rule also holds when you divide both sides of an inequal-
+ity by a negative number. Keep in mind that the focus is on the sign of the
+number by which you are multiplying both sides of the inequality.
+Lesson 8-3: Solving Inequalities in 1 Step
+Solving an inequality is very similar to solving an equality. The goal is
+still to isolate the variable on one side of the inequality. The transforma-
+tion rules for inequalities are similar to those for equality. One of the
+main differences in the procedure occurs when you multiply or divide
+both sides of an inequality. You must be sure to flip the inequality when
+you multiply (or divide) both sides by a negative number.
+The other difference between solving equalities and solving inequali-
+ties is that with equalities, if you have an equation such as 3 = x  you are
+allowed to interchange the sides and write x = 3. The reason you can do
+this is because equality has the symmetric property. Inequalities do not
+Transformation Original Equation Transformation New Equation
+Simplify one or x> 6 + 9 Simplify x> 15
+both sides
+Add the same x− 5 > 9 Add 5 to both x− 5 + 5 > 9 + 5
+number to each sides and simplify x > 14
+side and simplify
+Subtract the same x+ 7 > 12 Subtract 7 from x+ 7 − 7 > 12 − 7
+number from each both sides and x > 5
+side and simplify simplify
+Turn the inequality 3< x Turn the entire x > 3
+around inequality around
+www.ebook3000.com

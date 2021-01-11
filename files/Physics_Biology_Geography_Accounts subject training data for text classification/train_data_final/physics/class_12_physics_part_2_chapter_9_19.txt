@@ -1,0 +1,71 @@
+l Physics
+
+ 
+
+length bends the incident light more, while converging it
+in case of a convex lens and diverging it in case of a
+concave lens. The power P of a lens is defined as the
+tangent of the angle by which it converges or diverges a
+beam of light falling at unit distant from the optical centre
+(Fig. 9.20).
+
+h _ 1 1
+tan6=?;lfh=1, tan62? or 5:? for small
+
+ 
+
+value of 6. Thus,
+
+FIGURE 9.20 Power of a lens.
+
+P= — (9.25)
+
+The SI unit for power of a lens is dioptre (D): ID = lm‘l. The power of
+a lens of focal length of 1 metre is one dioptre. Power of a lens is positive
+for a converging lens and negative for a diverging lens. Thus, when an
+optician prescribes a corrective lens of power + 2.5 D, the required lens is
+a convex lens of focal length + 40 cm. A lens of power of — 4.0 D means a
+concave lens of focal length — 25 cm.
+
+Example 9.8 (i) If f = 0.5 m for a glass lens, What is the power of the
+lens? (ii) The radii of curvature of the faces of a double convex lens
+are 10 cm and 15 cm. Its focal length is 12 cm. What is the refractive
+index of glass? (iii) A convex lens has 20 cm focal length in air. What
+is focal length in water? (Refractive index of air-water = 1.33, refractive
+index for air-glass = 1.5.)
+
+Solution
+(i) Power = +2 dioptre.
+(ii) Here, we havef= +12 cm, R1 = +10 cm, R2 = —15 cm.
+Refractive index of air is taken as unity.
+We use the lens formula of Eq. (9.22). The sign convention has to
+be applied for f, R1 and R2.
+Substituting the values, we have
+
+i=(n_1) (i_;)
+
+12 10 —15
+This gives n = 1.5.
+
+(iii) For a glass lens in air, n2 = 15, n1 = 1, f = +20 cm. Hence, the lens
+formula gives
+
+L415 i_i
+20 R1 R2
+
+00
+05 For the same glass lens in water, n2 = 1.5, III = 1.33. Therefore,
+a .
+'4 1.33 l l
+—=(1.5—1.33)[———] ,
+
+E f R1 R2 (9 26)
+It] Combining these two equations, we ﬁnd f = + 78.2 cm.
+
+9.5.4 Combination of thin lenses in contact
+
+Consider two lenses A and B of focal length f1 and f2 placed in contact
+
+328 with each other. Let the object be placed at a point 0 beyond the focus of
+
+2019-20

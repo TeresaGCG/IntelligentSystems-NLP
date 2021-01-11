@@ -1,0 +1,19 @@
+Homework Helpers: Basic Math and Pre-Algebra
+78
+Dealing with raising quotients to a power isn’t any different. For
+example:
+When you raise a quotient to a power, raise the numerator and the
+denominator to that power. It doesn’t matter how complicated the nu-
+merator and denominator are. Use the appropriate rules to keep simpli-
+fying until there’s nothing more you can do. If you take it one step at a
+time, you should be fine. In general, this rule is written:
+Example 2
+Evaluate the following:
+a.
+b.
+c.
+Solution:
+a.
+b.
+c.
+www.ebook3000.com

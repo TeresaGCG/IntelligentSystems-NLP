@@ -1,0 +1,50 @@
+94 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Do it Yourself
+
+1. Raghuveer Limited issued Rs 10,00,000, 8% debentures as follows to:
+
+Rs
+Sundry Subscribers for Cash at 90% 5.50.000
+Vendor of Machinery for Rs 2.00.000 2.00.000
+in satisfaction of his claim
+Bankers as Collateral Security for a bank loan 2.50.000
+worth Rs 20,00,000 for which principal security is Business Premises
+worth Rs 22,50,000.
+The issue {1) and (2) are redeemable at the end of 10 years at par. State
+how the debenture will be dealt with while preparing the balance sheet of
+a company.
+
+2. Hassan Limited took a loan of Rs 30,00,000 from a bank against primary security
+worth Rs 40,00,000 and issued 4,000, 6% debentures of Rs 100 each as a collateral
+security. The company again after one year took a loan of Rs 50,00,000 from
+bank against Plant as primary security and deposited 6.000, 6% debentures of
+Rs 100 each as collateral security. Record necessary journal entries and prepare
+balance sheet of the company.
+
+. Meghnath Limited took a loan of Rs 1 ,20.000 from a bank and deposited 1.400. 8%
+debentures of Rs 100 each as collateral security along with primary security worth
+Rs 2 lakh. Company again took a loan of Rs 80,000 after two months from a bank
+and deposited 1,000, 8% debentures of Rs 100 each as collateral security. Record
+necessary journal entries and prepare balance sheet of the company.
+
+ 
+
+2.8 Terms of Issue of Debentures
+
+When a company issues debentures, it usually mentions the terms on which
+they will be redeemed on their maturity. Redemption of debentures means
+discharge of liability on account of debentures by repayment made to the
+debenture holders. Debentures can be redeemed either at par or at a premium.
+
+Depending upon the terms and conditions of issue and redemption of
+debentures, the following six situations are commonly found in practice.
+
+(i) Issued at par and redeemable at par
+(ii) Issued at discount and redeemable at par
+(iii) Issued at a premium and redeemable at par
+(iv) Issued at par and redeemable at a premium
+(v) Issued at a discount and redeemable at a premium
+(vi) Issued at a premium and redeemable at a premium
+
+In all the above six cases, the following journal entries will be passed:

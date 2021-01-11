@@ -1,0 +1,54 @@
+140 Accountancy
+
+3. Rectiﬁcation entries: To rectify errors in recording transactions in the books
+of original entry and their posting to ledger accounts this journal is used.
+
+4. Transfer entries: Drawing account is transferred to capital account at the
+end of the accounting year. Expenses accounts and revenue accounts
+which are not balanced at the time of balancing are opened to record speciﬁc
+transactions. Accounts relating to operation of business such as Sales,
+Purchases, Opening Stock, Income, Gains and Expenses, etc., and drawing
+are closed at the end of the year and their Total / balances are transferred
+to Trading and Proﬁt and Loss account by recording the journal entries.
+These are also called closing entries.
+
+5. Other entries: In addition to the above mentioned entries in the points
+number 1 to 4, recording of the following transaction is done in the
+journal proper :
+
+(1) At the time of a dishonour of a cheque the entry for cancellation for
+discount received or discount allowed earlier.
+(ii) Purchase / sale of items on credit other than goods.
+(iii) Goods withdrawn by the owner for personal use.
+(iv) Goods distributed as samples for sales promotion.
+(v) Endorsement and dishonour of bills of exchange.
+(vi) Transaction in respect of consignment and joint venture, etc.
+(vii) Loss of goods by ﬁre/theft/ spoilage.
+
+Test Your Understanding - I
+
+Select the Correct Answer
+(a) When a firm maintains a cash book, it need not maintain ;
+(i) Journal Proper
+(ii) Purchases (journal) book
+(iii) Sales (journal) book
+(iv) Bank and cash account in the ledger
+
+(b) Double column cash book records:
+
+(i) All transactions
+
+(ii) Cash and bank transactions
+(iii) Only cash transactions
+(iv) Only credit transactions
+
+(c) Goods purchased on cash are recorded in the :
+
+(i) Purchases (journal) book
+(ii) Sales (journal) book
+(iii) Cash book
+(iv) Purchases return (journal) book
+
+ 
+
+2019-2020

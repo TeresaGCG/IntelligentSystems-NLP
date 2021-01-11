@@ -1,0 +1,34 @@
+2.8 Communicating with People 93
+A similar address calculation puts the address of x[ i ] in $t3, and then the
+character in H2 is stored at that address.
+add $t3 , $sO , $aO # address of x[iJ 1n $t 3
+sb 1<2 . 0(1<3) Ilx[i] ~ y[i]
+Next we exit the loop if the character was 0; that is, if it is the last character of
+the string:
+beq H2 , $zero , L2It if y[iJ 0 , go t oL2
+If not, we increment i and loop back:
+addi $sO , $sO , l # i i + 1
+It
+Ll go t o L1
+J
+If we don't loop back, it was the last character of the string; we restore $sO
+and the stack pointer, and then return.
+L2 : 1w $sO , O($sp) # y[iJ 0 : end of s t ring ;
+==
+# res t or e old $sO
+addi $sp , $sp ,4 # pop 1 word of f s ta ck
+I ra It re t ur n
+Jr
+String copies usually use pointers instead of arrays in C to avoid the opera 
+tions on i in the code above. See Section 2.1 5 for an explanation of arrays
+versus pointers.
+Since the procedure s trcpy above is a leaf procedure, the compiler could allo 
+cate i to a temporary register and avoid saving and restoring $sO. Hence, instead of
+thinking of the $t registers as being just for temporaries, we can think of them as
+registers that the callee should use whenever convenient. \Vhen a compiler finds a
+leaf procedure, it exhausts all temporary registers before using registers it must save.
+Characters and Strings in Java
+Un icode is a universal encoding of the alphabets of most human languages. Figure
+2.22 is a list of Unicode alphabets; there are about as many alphabets in Unicode as
+there are useful symbols in ASCII. To be more inclusive, lava uses Unicode for
+characters. By default, it uses 16 bits to represent a character.

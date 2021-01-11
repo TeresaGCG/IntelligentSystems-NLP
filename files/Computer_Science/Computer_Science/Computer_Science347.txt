@@ -1,0 +1,54 @@
+5.5 A Multleyele Implementation 331
+•
+Loads: 5
+•
+Stores: 4
+•
+ALU instructions: 4
+•
+Branches: 3
+•
+Jumps: 3
+The CPI is given by the following:
+L
+Instruction count,. x CPI;
+CPU clock cycles ,
+CPI =
+Instruction count Instruction count
+lnstruction count;
+I
+.,---,---,--.,------' x CPI;
+Instruction count
+The ratio
+Instruction count;
+Instruction count
+is simply the instruction frequency for the instruction class i. We can there 
+fore substitute to obtain
+CPI = 0.25x5+0.lOx 4 +0.52x 4 +0. ll x3+0.02x3 = 4.1 2
+This CPI is better than the worst-case CPI of 5.0 when all the instructions
+take the same number of clock cycles. Of course, overheads in both designs
+may reduce or increase this difference. The muiticycle design is probably also
+more cost-effective, since it uses fewer separate components in the datapath.
+finite state machine Asequen 
+tia1logic function consistingofa
+The first method we use to specify the muiticycle control is a finite state set ofinputs and outputs, a next 
+state fi.mction that maps the cur 
+machine. A finite state machine consists of a set of states and directions on how to
+rent state and the inputs to a new
+change states. The directions are defined by a next-state function, which maps the
+state, and an output function
+current state and the inputs to a new state. \-Vhen we use a finite state machine for
+that maps the current state and
+control, each state also specifies a set of outputs that are asserted when the
+possibly the inputs to a set of
+machine is in that state. The implementation of a finite state machine usually
+asserted outputs.
+assumes that all outputs that are not explicitly asserted are deasserted. Similarly,
+next-state function A combi 
+the correct operation of the datapath depends on the fa ct that a signal that is not
+national fi.mction that, given the
+explicitly asserted is deasserted, rather than acting as a don't care. For example,
+inputs and the current state,
+the RegWrite signal should be asserted only when a register file entry is to be writ 
+determines the next state ofa
+ten; when it is not explicitly asserted, it must be deasserted. finite state machine.

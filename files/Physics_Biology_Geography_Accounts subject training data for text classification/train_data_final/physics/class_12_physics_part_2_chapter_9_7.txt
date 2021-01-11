@@ -1,0 +1,49 @@
+l PhySICS
+(ii) The object distance u = —5 cm. Then from Eq. (9.7),
+l l l
+_+_=—
+v —5 —7 .5
+or v=ﬁ=l5 cm
+00 (7.5 — 5)
+O; This image is formed at 15 cm behind the mirror. It is a virtual image.
+A
+a. v 15
+M if‘ ti = — — =— —=3
+5 agn 1ca on m u (_5)
+H The image is magnified, virtual and erect.
+Example 9.4 Suppose while sitting in a parked car, you notice a
+jogger approaching towards you in the side view mirror of R = 2 m. If
+the jogger is running at a speed of 5 m s‘l, how fast the image of the
+jogger appear to move when the jogger is (a) 39 m, (b) 29 m, (c) 19 m,
+and (d) 9 m away.
+Solution
+From the mirror equation, Eq. (9.7), we get
+U: f u
+u — f
+For convex mirror, since R = 2 m, f = l m. Then
+f _ 39 v_(—39)xl_§m
+oru" 1‘" —39—1 40
+Since the jogger moves at a constant speed of 5 m s‘l, after 1 s the
+position of the image I) (for u = —39 + 5 = —34) is (34/35 )m.
+The shift in the position of image in 1 s is
+39_34 _ 1365—1360 _ 5 _ 1 m
+40 35 ' 1400 _ 1400 ' 280
+Therefore, the average speed of the image when the jogger is between
+39 m and 34 m from the mirror, is (l / 280) m s"1
+Similarly, it can be seen that for u = —29 m, —19 m and —9 m, the
+speed with which the image appears to move is
+lims‘1 ims'1 and ims'1 t' 1
+150 , 60 10 , respec 1ve y.
+<1: Although the jogger has been moving with a constant speed, the speed
+05 of his/her image appears to increase substantially as he/ she moves
+E closer to the mirror. This phenomenon can be noticed by any person
+9' sitting in a stationary car or a bus. In case of moving vehicles, a
+5 similar phenomenon could be observed if the vehicle in the rear is
+a moving closer with a constant speed.
+9.3 REFRACTION
+When a beam of light encounters another transparent medium, a part of
+light gets reﬂected back into the ﬁrst medium while the rest enters the
+other. A ray of light represents a beam. The direction of propagation of an
+3 1 6 obliquely incident (O°< i< 90°) ray of light that enters the other medium,
+
+2019-20

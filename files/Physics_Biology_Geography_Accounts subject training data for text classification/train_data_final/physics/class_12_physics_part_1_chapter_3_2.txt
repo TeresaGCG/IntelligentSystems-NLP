@@ -1,0 +1,68 @@
+Current
+Electricity
+
+number of electrons travelling in any direction will be equal to the number
+of electrons travelling in the opposite direction. 80, there will be no net
+electric current.
+
+Let us now see what happens to such a
+piece of conductor if an electric ﬁeld is applied.
+To focus our thoughts, imagine the conductor
+in the shape of a cylinder of radius R (Fig. 3.1).
+Suppose we now take two thin circular discs FIGURE 3. 1 Charges + Q and —Q put at the ends
+Of a diel€CtriC 0f the same radius and put of a metallic cylinder. The electrons will drift
+
+ 
+
+pOSitive Charge +Q diStﬁbUted 0Ver one disc because of the electric field created to
+and similarly —Q at the other disc. We attach neutralise the charges. The current thus
+the two discs on the tWO ﬂat surfaces of the will stop after a while unless the charges +Q
+cylinder. An electric field will be created and and ”Q are COHtiHUOUSlY repleniShEd-
+
+is directed from the positive towards the
+negative charge. The electrons will be accelerated due to this field towards
++Q. They will thus move to neutralise the charges. The electrons, as long
+as they are moving, will constitute an electric current. Hence in the
+situation considered, there will be a current for a very short while and no
+current thereafter.
+We can also imagine a mechanism where the ends of the cylinder are
+supplied with fresh charges to make up for any charges neutralised by
+electrons moving inside the conductor. In that case, there will be a steady
+electric ﬁeld in the body of the conductor. This will result in a continuous
+current rather than a current for a short period of time. Mechanisms, 1/
+which maintain a steady electric field are cells or batteries that we shall /
+study later in this chapter. In the next sections, we shall study the steady A
+current that results from a steady electric field in conductors.
+
+3.4 OHM’s LAW
+
+A basic law regarding ﬂow of currents was discovered by G.S. Ohm in
+1828, long before the physical mechanism responsible for ﬂow of currents
+was discovered. Imagine a conductor through which a current I is ﬂowing
+and let Vbe the potential difference between the ends of the conductor.
+Then Ohm’s law states that
+
+Vo<I
+
+or, V=RI (3.3)
+
+where the constant of proportionality R is called the resistance of the
+conductor. The SI units of resistance is ohm, and is denoted by the symbol 2;:
+£2. The resistance R not only depends on the material of the conductor
+but also on the dimensions of the conductor. The dependence of R on the
+dimensions of the conductor can easily be determined as follows. FIGURE 3.2
+Consider a conductor satisfying Eq. (3.3) to be in the form of a slab of Illustrating the
+length land cross sectional areaA [Fig. 3.2(a)]. Imagine placing two such FClatiOH R = Pt/A for
+identical slabs side by side [Fig. 3.2(b)], so that the length of the a rectangular Slab
+combination is 21. The current ﬂowing through the combination is the Of length I an? area
+same as that ﬂowing through either of the slabs. If V is the potential Of cross—semon A'
+difference across the ends of the first slab, then Vis also the potential
+difference across the ends of the second slab since the second slab is
+
+ 
+
+(C)
+
+95
+
+2019-20

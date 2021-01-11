@@ -1,0 +1,70 @@
+310 Chapter 5 The Processor: Datapath and Control
+~
+~
+0
+M
+,
+Add
+"
+~
+ALU
+4 ~ / )Add 1
+result
+"-
+Shift ~
+left 2
+RegDst
+'---/
+Branch
+MemRead
+Instruction [31-26J MemtoReg
+Control
+ALUO
+MemWrite
+ALUSrc
+\...- RegWrite
+Instruction [25-21]
+Read
+Read r---
+PC register 1
+address Read
+Instruction [20-161 data 1 ~
+Read
+L r, Zero
+register 2
+Instruction >
+[31-0J ALU ALU Read
+M~ ~ Write Read 0 result Address data 1
+Instruction Instruction [15-11] register data 2 M: f- M,
+y "
+memory
+V
+Write 0
+~
+~
+d,~ Registers Data
+Write
+memory
+/ "- data
+"-
+/
+Instruction [15--0] 16 32
+-
+Sign
+ALU
+extend
+control
+"-
+I'
+"
+/
+Instruction [5--0]
+FIGURE 5.20 11Ie datapath In operation for a load Instruction. The oontrol lmes, datap.1th WiltS, and connectlons th.1t are actlve are hIgh 
+Iighted.A store instruction mmld operate verysimilarly.The Jll.1in difference would be that the memory controlm>uld indicate a WTite rather than a read,
+the second register value read m>uld be U'ied for the data to store,and the operation ofwriting the data memoryvalue to the register file m>uld nOi occur.
+instruction, but the ALU output is used to determine whether the PC is written with
++
+PC 4 or the brJ nch target address. Figure 5.21 shows the four steps in execution:
+1. An instruction is fetched from the instruction memory, and the PC is incre 
+mented.
+2. Two registers, $t 1 and $t Z, are read from the register file.

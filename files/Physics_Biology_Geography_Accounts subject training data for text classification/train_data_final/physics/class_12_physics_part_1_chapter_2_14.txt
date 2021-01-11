@@ -1,0 +1,81 @@
+Electrostatic Potential
+
+and Capacitance
+
+(We continue to take potential at inﬁnity to be zero.) Thus, work done in
+bringing a charge q from inﬁnity to the point P in the external ﬁeld is qV.
+This work is stored in the form of potential energy of q. If the point P has
+position vector r relative to some origin, we can write:
+
+Potential energy of q at r in an external ﬁeld
+
+= qV(r) (2.27)
+
+where V(r) is the external potential at the point r.
+
+Thus, if an electron with charge q = e = 1.6X 10‘19 C is accelerated by
+a potential difference of AV = 1 volt, it would gain energy of qAV = 1.6 X
+lO‘ng. This unit of energy is defined as l electron volt or leV, i.e.,
+1 eV=1.6 X 10‘19J. The units based on eV are most commonly used in
+atomic, nuclear and particle physics, (1 keV= 103eV = 1.6 X 10‘16J , 1 MeV
+= lOGeV = 1.6 x 10—13;], 1 GeV = lOQeV = 1.6 x 104% and 1 TeV= 1012eV
+= 1.6 X 10‘7J). [This has already been deﬁned on Page 1 17, XI Physics
+Part I, Table 6.1.]
+
+2.8.2 Potential energy of a system of two charges in an
+external field
+
+Next, we ask: what is the potential energy of a system of two charges q1
+and q2 located at rland r2, respectively, in an external ﬁeld? First, we
+calculate the work done in bringing the charge q1 from infinity to r1.
+Work done in this step is q1 V(r1), using Eq. (2.27). Next, we consider the
+work done in bringing q2 to r2. In this step, work is done not only against
+the external ﬁeld E but also against the field due to ‘11-
+
+Work done on q2 against the external ﬁeld
+
+= (12 Vtrzl
+
+Work done on q2 against the ﬁeld due to q1
+
+: c11q2
+41t$0r12
+where r12is the distance between q1 and q2. We have made use of Eqs.
+(2.27) and (2.22). By the superposition principle for fields, we add up
+the work done on q2 against the two ﬁelds (E and that due to ql):
+Work done in bringing q2 to r2
+
+c11q2
+4n£or12
+
+ 
+
+ 
+
+: q2V(r2) + (2.28)
+
+Thus,
+Potential energy of the system
+= the total work done in assembling the conﬁguration
+
+c11q2
+47:.90r12
+
+ 
+
+: q1V(r1)+ q2V(r2)+ (2.29)
+
+Example 2.5
+
+(a) Determine the electrostatic potential energy of a system consisting
+of two charges 7 “C and —2 uC (and with no external field) placed
+at {—9 cm, 0, O) and (9 cm, 0, 0) respectively.
+
+(b) How much work is required to separate the two charges infinitely
+away from each other?
+
+2019-20
+
+9 'z GI’IJWVXH
+
+65

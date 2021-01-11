@@ -1,0 +1,55 @@
+Students can make a simple electroscope as
++ + * follows [Fig. l .2(b)]: Take a thin aluminium curtain
+rod with ball ends fitted for hanging the curtain. Cut
+out a piece of length about 20 cm with the ball at
+one end and ﬂatten the cut end. Take a large bottle
+that can hold this rod and a cork which will fit in the
+opening of the bottle. Make a hole in the cork
+sufficient to hold the curtain rod snugly. Slide the
+rod through the hole in the cork with the cut end on
+the lower side and ball end projecting above the cork.
+Fold a small, thin aluminium foil (about 6 cm in
+length) in the middle and attach it to the ﬂattened
+end of the rod by cellulose tape. This forms the leaves
+of your electroscope. Fit the cork in the bottle with
+about 5 cm of the ball end projecting above the cork.
+A paper scale may be put inside the bottle in advance
+to measure the separation of leaves. The separation
+is a rough measure of the amount of charge on the
+electroscope.
+To understand how the electroscope works, use
+the White paper strips we used for seeing the
+(b) attraction of charged bodies. Fold the strips into half
+FIGURE 1.2 Electroscopes: (a) The gold leaf ,SO th,at you make a mark Of fold. Open the Strlp and
+electroscope. (b) Schematics of a simple iron it lightly With the mountain fold up, as shown
+electroscope. in Fig. 1.3. Hold the strip by pinching it at the fold.
+You would notice that the two halves move apart.
+This shows that the strip has acquired charge on ironing. When you fold
+it into half, both the halves have the same charge. Hence they repel each
+other. The same effect is seen in the leaf electroscope. On charging the
+curtain rod by touching the ball end with an electrified body, charge is
+|:| transferred to the curtain rod and the attached aluminium foil. Both the
+(a) halves of the foil get similar charge and therefore repel each other. The
+divergence in the leaves depends on the amount of charge on them. Let
+us first try to understand why material bodies acquire charge.
+You know that all matter is made up of atoms and / or molecules.
+Although normally the materials are electrically neutral, they do contain
+charges; but their charges are exactly balanced. Forces that hold the
+(b) molecules together, forces that hold atoms together in a solid, the adhesive
+force of glue, forces associated with surface tension, all are basically
+electrical in nature, arising from the forces between charged particles.
+Thus the electric force is all pervasive and it encompasses almost each
+and every field associated with our life. It is therefore essential that we
+(C) learn more about such a force.
+To electrify a neutral body, we need to add or remove one kind of
+FIGURE 1.3 Paper strip charge. When we say that a body is charged, we always refer to this
+E‘Xpﬁ'rimem- excess charge or deficit of charge. In solids, some of the electrons, being
+less tightly bound in the atom, are the charges which are transferred
+from one body to the other. A body can thus be charged positively by
+4 losing some of its electrons. Similarly, a body can be charged negatively
+
+ 
+
+ 
+
+2019-20

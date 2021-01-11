@@ -1,0 +1,43 @@
+5.1 Introduction 287
+~
+~
+4
+-
+I-
+/
+/
+Data ~
+Register #
+PC Address Instruction Registers ALU Address
+Register #
+/ Data
+Instruction
+memory
+memory
+Register #
+Data
+FtGURE 5.1 An abstract view of the Implementation of the MIPS subset showing the major
+functional units and the major connections between them. All instructions start by using the pro 
+gram counter to supply the instruction address to the instruction memory. After the instruction is fetched, the
+register operands used by an instruction are specified by fields of that instruction. Once the register operands
+have been fetched, they can be operated on to compute a memory address (for a load or store), to compute an
+arithmetic result (for an integer arithmetic-logical instruction), or a compare (for a branch). If the instruction
+is an arithmetic-logical instruction, the result from the ALU must be WTitten to a register. If the operation is a
+load or store, the ALU result is used as an address to either store a value from the registers or load a value from
+memory into the registers. The result from the ALU or memory is written b.1ck into the register file. Branches
+require the use of theALU output to determine the next instruction address, which comes from either the ALU
+(where the PC and branch offset are slUumed) or from an adder that increments the current PC by 4. The thick
+lines interconnecting the functional units represent buses, which consist of multiple signals. The arrows are
+used to guide the reader in knowing how information flows. Since signal lines may cross, we explicitly show
+when crossing lines are connected by the presence of a dot where the lines cross.
+into the PC, is set based on the zero output of the ALU, which is used to perform
+the comparison of a beq instruction. The regularity and simplicity of the MIPS
+instruction set means that a simple decoding process can be used to determine
+how to set the control lines.
+In the remainder of the chapter, we refine this view to fill in the details, which
+requires that we add further functional units, increase the number of connections
+between units, and, of course, add a control unit to control what actions are taken
+for different instruction classes. Sections 5.3 and 5.4 describe a simple implemen 
+tation that uses a single long clock cycle for every instruction and follows the gen 
+eral form of Figures 5. 1 and 5.2. In this first design, every instruction begins
+execution on one clock edge and completes execution on the next clock edge.

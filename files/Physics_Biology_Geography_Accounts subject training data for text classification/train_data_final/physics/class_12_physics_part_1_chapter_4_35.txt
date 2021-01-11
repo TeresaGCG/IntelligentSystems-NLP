@@ -1,0 +1,86 @@
+10.
+
+Moving Chorges and
+
+Magnetism
+
+ 
+
+To obtain the total field at P, we must integrate this vector expression
+over the entire length of the conductor.
+
+The magnitude of the magnetic field due to a circular coil of radius R
+carrying a current I at an axial distance x from the centre is
+
+__ #0 1R2
+_ 2(x2 + R2)3/2
+
+At the centre this reduces to
+
+B=#_ol
+2R
+
+Ampere’s Circuital Law: Let an open surface S be bounded by a loop
+C. Then the Ampere’s law states that § B,dl = #01 Where I refers to
+c
+
+the current passing through S. The sign of I is determined from the
+right—hand rule. We have discussed a simplified form of this law. If B
+is directed along the tangent to every point on the perimeter L of a
+closed curve and is constant in magnitude along perimeter then,
+
+BL = #0 Ie
+
+where Ie is the net current enclosed by the closed circuit.
+
+The magnitude of the magnetic field at a distance R from a long,
+straight wire carrying a current I is given by:
+
+B: #01
+271R
+
+ 
+
+The field lines are circles concentric with the wire.
+
+The magnitude of the field B inside a long solenoid carrying a current
+I is
+
+B = ,uonI
+
+where n is the number of turns per unit length. For a toroid one
+obtains,
+
+B= ”OM
+21w
+
+ 
+
+where N is the total number of turns and r is the average radius.
+Parallel currents attract and anti—parallel currents repel.
+
+A planar loop carrying a current I, having N closely wound turns, and
+an area A possesses a magnetic moment m where,
+
+m = N I A
+and the direction of m is given by the right-hand thumb rule : curl
+the palm of your right hand along the loop with the fingers pointing
+
+in the direction of the current. The thumb sticking out gives the
+direction of m (and A]
+
+When this loop is placed in a uniform magnetic field B, the force F on
+it is: F = 0
+
+And the torque on it is,
+
+4: = m X B
+
+In a moving coil galvanometer, this torque is balanced by a counter—
+torque due to a spring, yielding
+
+kq) = NI AB
+
+2019-20
+
+167

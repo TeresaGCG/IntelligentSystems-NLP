@@ -1,0 +1,30 @@
+2.2 Operations of the Computer Hardware 51
+Compiling a Complex C Assignment into MIPS
+A somewhat complex statement contains the five variables f, g, h, i, and j: EXAMPLE
+f = (g + h) - (i + j) ;
+\Vhat might a C compiler produce?
+The compiler must break this statement into several assembly instructions ANSWER
+since only one operation is performed per MIPS instruction. The first MIPS
+instruction calculates the sum of 9 and h. We must place the result some 
+where, so the compiler creates a temporary variable, called to:
+add tO , g , h # temporary variable to con tain s 9 + h
+Although the next operation is subtract, we need to calculate the sum of i
+and j before we can subtract. Thus, the second instruction places the sum i
+and j in another temporary variable created by the compiler, called ti:
+add tl , i , j It temporary variable tl con tain s i + j
+Finally, the subtract instruction subtracts the second sum from the first and
+places the difference in the variable f, completing the compiled code:
+sub f , tO ,ti/t f gets to - tl, which is (g + h) - (i + j)
+Figure 2. 1 summarizes the portions of MIPS assembly language described in
+this section. These instructions are symbolic representations of what the MIPS
+processor acnlally understands. In the next few sections, we will evolve this sym 
+bolic representation into the real language of MIPS, with each step making the
+symbolic representation more concrete.
+MIPS assembly language
+Category Instruction Example Meaning Comments
+add a.b.c a - b + c
+Arithmetic odd Always three operands
+subtract sub a.b.c a - b c Always three operands
+FIGURE 2.1 MIPS architecture revealed In Section 2.2. The real computer operands will be
+unveiled in the next section. Highlighted portions in such summaries show MIPS assembly language struc 
+tures imroduced in this section; for this first figure, aU is new.

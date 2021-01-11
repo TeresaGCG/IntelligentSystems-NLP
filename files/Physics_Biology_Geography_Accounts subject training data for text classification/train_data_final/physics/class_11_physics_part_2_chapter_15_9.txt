@@ -1,0 +1,142 @@
+376
+
+PHYSICS
+
+ 
+
+are much more difficult to compress than gases
+and so have much higher values of bulk modulus.
+Now, see Eq. (15.19). Solids and liquids have
+higher mass densities { p ) than gases. But the
+
+corresponding increase in both the modulus (B)
+of solids and liquids is much higher. This is the
+reason why the sound waves travel faster in
+solids and liquids.
+
+We can estimate the speed of sound in a gas
+in the ideal gas approximation. For an ideal gas,
+the pressure P, volume Vand temperature T are
+related by (see Chapter 1 1).
+
+PV= NkBT (15.21)
+
+where N is the number of molecules in volume
+V, k3 is the Boltzmann constant and T the
+temperature of the gas (in Kelvin). Therefore, for
+an isothermal change it follows from Eq.(15.2 1)
+that
+
+ 
+
+VAP + PAV = 0
+AP
+or _ =
+AV/ V P
+Hence, substituting in Eq. (15.16), we have
+B = P
+
+Therefore, from Eq. (15.19) the speed of a
+longitudinal wave in an ideal gas is given by,
+
+v = E (15.22)
+p
+This relation was ﬁrst given by Newton and
+
+is known as Newton’s formula.
+
+Example 1 5.4 Estimate the speed of
+sound in air at standard temperature and
+
+pressure. The mass of 1 mole of air is
+29.0 X10‘3k.
+
+ 
+
+Answer We know that 1 mole of any gas
+
+occupies 22.4 litres at STP. Therefore, density
+
+of air at STP is:
+
+p0 = (mass of one mole of air)/ (volume of one
+mole of air at STP)
+
+_ 29.0x10‘3 kg
+22.4x10‘3 m3
+
+= 1.29 kg m—3
+
+According to Newton’s formula for the speed
+of sound in a medium, we get for the speed of
+sound in air at STP,
+
+1.01x105Nm'2
+1.29 kgm“3
+
+1/2
+] =280mS'1 (15.23)
+4
+
+2019-20
+
+The result shown in Eq.(15.23) is about 15%
+smaller as compared to the experimental value
+of 331 m S'1 as given in Table 15.1. Where
+did we go wrong ? If we examine the basic
+assumption made by Newton that the pressure
+variations in a medium during propagation of
+sound are isothermal, we find that this is not
+correct. It was pointed out by Laplace that the
+pressure variations in the propagation of sound
+waves are so fast that there is little time for the
+heat ﬂow to maintain constant temperature.
+These variations, therefore, are adiabatic and
+not isothermal. For adiabatic processes the ideal
+gas satisfies the relation (see Section 12.8),
+
+PV” = constant
+
+i.e. A(PV7) = O
+
+or PyVV‘1 AV+ VYAP= o
+
+where y is the ratio of two specific heats,
+Cp/Cv.
+
+Thus, for an ideal gas the adiabatic bulk
+modulus is given by,
+
+B = _ AP
+“‘1 AV/V
+= IYp
+
+The speed of sound is, therefore, from Eq.
+(15.19), givenby,
+
+v = (ﬂ (1524)
+p
+
+This modiﬁcation of Newton’s formula is referred
+to as the Laplace correction. For air
+7: 7/5. Now using Eq. (15.24) to estimate the speed
+of sound in air at STP, we get a value 331.3 In 8—1,
+which agrees with the measured speed.
+
+ 
+
+15.5 THE PRINCIPLE 0F SUPERPOSITION
+OFWAVES
+
+What happens when two wave pulses travelling
+in opposite directions cross each other
+(Fig. 15.9)? It turns out that wave pulses
+continue to retain their identities after they have
+crossed. However, during the time they overlap,
+the wave pattern is different from either of the
+pulses. Figure 15.9 shows the situation when
+two pulses of equal and opposite shapes move
+towards each other. When the pulses overlap,
+the resultant displacement is the algebraic sum
+of the displacement due to each pulse. This is
+known as the principle of superposition of waves.

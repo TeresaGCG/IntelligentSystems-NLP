@@ -1,0 +1,52 @@
+108 Accountancy
+
+When the bank column is maintained in the cash book, the bank account also
+is not opened in the ledger. The bank column serves the purpose of the bank
+account. Entries marked C (being contra entries as explained earlier) are ignored
+While posting from the cash book to the ledger. These entries represent debit or
+credit of cash account against the bank account or vice-versa. We Will now see
+how the transactions recorded in double column cash book are posted to the
+individual accounts.
+
+Purchases Account
+Receipts Payments
+
+7 ?
+
+ 
+
+201 7
+Sept.04 Bank 12,000
+Sept. 17 Cash 17,400
+
+Sales Account
+Receipts Payments
+
+7 7
+
+Cash 6,000
+Bank 4,500
+
+Machinery Account
+Receipts Payments
+
+7 7
+
+2017
+Sept. 13 Bank 5500
+
+Stationery Account
+Receipts Payments
+
+7 ?
+
+ 
+
+ 
+
+ 
+
+2017
+Sept.20 Bank 1.100
+
+2019-2020

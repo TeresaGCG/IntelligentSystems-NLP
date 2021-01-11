@@ -1,0 +1,80 @@
+i Physics
+
+one of the two bars is a magnet, pick up one, (say, A) and lower one of
+its ends; first on one of the ends of the other (say, B), and then on the
+middle of B. If you notice that in the middle of B, A experiences no
+force, then B is magnetised. If you do not notice any change from the
+
+end to the middle of B, then A is magnetised.
+
+EXAMPLE 5.3
+
+5.2.4 The electrostatic analog
+
+Comparison of Eqs. (5.2), (5.3) and (5.6) with the corresponding equations
+for electric dipole (Chapter 1), suggests that magnetic ﬁeld at large
+distances due to a bar magnet of magnetic moment m can be obtained
+from the equation for electric ﬁeld due to an electric dipole of dipole moment
+p, by making the following replacements:
+
+1 g&
+’4n80 4n
+
+ 
+
+E—>B,p—»m
+
+In particular, we can write down the equatorial ﬁeld (BE) of a bar magnet
+at a distance r, for r >> 1, where lis the size of the magnet:
+
+_ ”om
+
+BE : ‘1an (5.7)
+
+Likewise, the axial ﬁeld (B A) of a bar magnet for r >> lis:
+
+ 
+
+_:u0 2m
+
+BA — 47 73‘ ‘58)
+
+Equation (5.8) is just Eq. (5.2) in the vector form. Table 5. 1 summarises
+the analogy between electric and magnetic dipoles.
+
+TABLE 5. 1 THE DIPOLE ANALOGY
+
+ 
+
+ 
+
+1 /80 [.10
+Dipole moment p 111
+Equatorial Field for a short dipole -p/41t$0r3 — #0 m / 41: r3
+Axial Field for a short dipole 2p / 4ne0r3 ,uo 2m / 41: r3
+External Field: torque p x E m x B
+External Field: Energr -p-E -m-B
+
+Example 5.4 What is the magnitude of the equatorial and axial fields
+due to a bar magnet of length 5.0 cm at a distance of 50 cm from its
+mid-point? The magnetic moment of the bar magnet is 0.40 A m2, the
+same as in Example 5.2.
+
+Solution From Eq. (5.7)
+
+ 
+
+ 
+
+ﬁ'
+
+'2 B _ ,uom _ 10-7 x0.4 _ 10-7 x0.4 _7
+
+,4 E_ 47“.?) (05)3 0.125 =3.2X10 T
+g #027"
+
+From Eq. (5.8), BA = 3 =6.4><10‘7T
+
+180 41”
+
+2019-20

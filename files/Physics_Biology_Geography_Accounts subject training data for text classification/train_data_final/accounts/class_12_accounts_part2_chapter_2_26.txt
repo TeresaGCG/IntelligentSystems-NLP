@@ -1,0 +1,55 @@
+98 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Bank A/c Dr. 1.00.000
+To 9% Debenture Application 81 Allotment A/c 1.00.000
+(Debentures Application money received)
+
+Debenture Application & Allotment A/c . 1.00.000
+
+Loss on Issue of Debentures A/c Dr. 5.000
+To 9% Debentures A/c 1.00.000
+To Premium on Redemption of Debentures A/c 5,000
+
+(Debentures Application money transferred
+to Debentures account)
+
+Bank A/c Dr.
+To 9% Debenture Application & Allotment A/c
+(Debentures Application money received)
+
+Debenture Application & Allotment A/c
+
+Loss on Issue of Debentures A/c Dr.
+To 9% Debentures A/c 1.00.000
+To Premium on Redemption of Debentures A/c 5.000
+
+(Debentures application money transferred
+to debentures and Premium on debenture account)
+
+Bank A/c Dr. 1.05.000
+To 9% Debenture Application & Allotment A/c 1.05.000
+(Debentures Application money received)
+
+Debenture Application & Allotment A/c . 1.05.000
+
+Loss on Issue of Debentures A/c Dr. 5.000
+To 9% Debenture A/c 1.00.000
+To Premium on Redemption of Debentures A/c 5,000
+To Securities Premium Reserve A/c 5.000
+
+(Debenture application money transferred
+to debentures account)
+
+ 
+
+Illustration 1 6
+
+You are required to pass the journal entries relating to the issue of the debentures
+in the books of X Ltd., and show how they would appear in its balance sheet
+under the following cases:
+
+(a) 120, 8% debentures of Rs 1,000 each are issued at 5% discount and
+repayable at par.
+
+(b) 150, 7% debentures of Rs 1,000 each are issued at 5% discount and
+repayable at premium of 10%.

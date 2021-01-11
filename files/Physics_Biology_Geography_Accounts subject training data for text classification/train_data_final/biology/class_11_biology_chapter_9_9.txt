@@ -1,0 +1,44 @@
+BIOMOLECULES 151
+
+9.8 NATURE OF BOND LINKING MONOMERS IN A POLYMER
+
+In a polypeptide or a protein, amino acids are linked by a peptide
+bond which is formed when the carboxyl (-COOH) group of one amino
+acid reacts with the amino (-NHZ) group of the next amino acid with
+the elimination of a water moiety (the process is called dehydration).
+In a polysaccharide the individual monosaccharides are linked by a
+glycosidic bond. This bond is also formed by dehydration. This bond
+is formed between two carbon atoms of two adjacent monosaccharides.
+In a nucleic acid a phosphate moiety links the 3’-carbon of one sugar
+of one nucleotide to the 5’-carbon of the sugar of the succeeding
+nucleotide. The bond between the phosphate and hydroxyl group of
+sugar is an ester bond. As there is one such ester bond on either side,
+it is called phosphodiester bond (Figure 9.5).
+
+Nucleic acids exhibit a wide variety of secondary structures. For
+example, one of the secondary structures exhibited by DNA is the
+famous Watson-Crick model. This model says that DNA exists as a
+double helix. The two strands of polynucleotides are antiparallel i.e.,
+run in the opposite direction. The backbone is formed by the sugar-
+phosphate-sugar chain. The nitrogen bases are projected more or less
+perpendicular to this backbone but face inside. A and G of one strand
+compulsorily base pairs with T and C, respectively, on the other strand.
+
+5' 3'
+
+   
+  
+
+{II |_. Thir‘mine: ﬂ:
+
+ 
+
+{j [T
+
+   
+
+Guanine ---------- Cymsine (:11
+
+5' 3' u
+
+Figure 9.5 Diagram indicating secondary structure of DNA

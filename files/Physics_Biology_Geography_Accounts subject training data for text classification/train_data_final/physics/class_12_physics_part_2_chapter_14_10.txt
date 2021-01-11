@@ -1,0 +1,127 @@
+:17
+CO
+2
+[L
+w
+03
+m
+E
+D
+o
+E
+a)
+B
+O
+8
+9
+a)
+5:
+
+ 
+
+448
+
+l Physics
+
+ 
+
+ 
+
+ 
+
+1 becquerel is simply equal to l disintegration or decay per second.
+There is also another unit named “curie” that is widely used and is related
+to the 81 unit as:
+
+ 
+
+Marie Sklodowska Curie
+[1867-1934) Born in
+Poland. She is recognised
+both as a physicist and as
+a chemist. The discovery of
+radioactivity by Henri
+Becquerel in 1896 inspired
+Marie and her husband
+Pierre Curie in their
+researches and analyses
+which led to the isolation of
+radium and polonium
+elements. She was the first
+person to be awarded two
+Nobel Prizes- for Physics in
+1903 and for Chemistry
+in 191 1.
+
+1 curie = 1 Ci = 3.7 X 1010 decays per second
+
+= 3.7 x 1010 Bq
+Different radionuclides differ greatly in their rate of
+decay. A common way to characterize this feature is
+through the notion of half-life. Half-life of a radionuclide
+(denoted by 71/2) is the time it takes for a sample that has
+initially, say NO radionuclei to reduce to NO/ 2. Putting
+N= N0/2 and t= T1/2in Eq. (13.14), we get
+
+ 
+
+_ ln2 _ 0.693
+TU2 — 7 — ,1 (13.17)
+Clearly if N0 reduces to half its value in time T1/2’ R0
+
+Will also reduce to half its value in the same time according
+to Eq. (13.16).
+
+Another related measure is the average or mean life
+T. This again can be obtained from Eq. (1 3.14). The
+number of nuclei which decay in the time interval tto t+
+At is R(t)At (= woe—“An. Each of them has lived for time
+t. Thus the total life of all these nuclei would be thNoe‘7“t
+At. It is clear that some nuclei may live for a short time
+while others may live longer. Therefore to obtain the mean
+life, we have to sum (or integrate) this expression over all
+times from O to co , and divide by the total number N0 of
+nuclei at t= 0. Thus,
+
+AND I te-Mdt
+O
+
+T = —— = 1]- te‘ltdt
+NO 0
+
+One can show by performing this integral that
+T = l /A
+We summarise these results with the following:
+
+_ ln2
+
+T1/2—7 =Tln2
+
+(13.18)
+
+Radioactive elements (e. g., tritium, plutonium) which are short-lived
+i.e., have half-lives much less than the age of the universe (~ 15 billion
+years) have obviously decayed long ago and are not found in nature.
+They can, however, be produced artiﬁcially in nuclear reactions.
+
+ 
+
+‘1
+CO
+H
+E
+III
+
+Solution
+
+T1/2 = 4.5 x 109y
+= 4.5 X 109 y X 3.16 X 107 s/y
+= 1.42 x 1017s
+
+Example 13.4 The half-life of 238U undergoing a—decay is 4.5 X 109
+
+92
+
+years. What is the activity of lg sample of 235U?
+
+2019-20

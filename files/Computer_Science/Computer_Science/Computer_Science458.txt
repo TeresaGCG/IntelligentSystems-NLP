@@ -1,0 +1,52 @@
+442 Chapter 6 Enhancing Performance with Plpellnlng
+I I I• •
+Maximum Instr. Maximum Max. clock Transistors
+Processor Issues / clock Functional units ops. per clock rate (millions)
+ltanium 6 4 integer/ media 9 0.8 GHz 25 130 379 701
+2 memory
+3 branch
+2FP
+ltanium 2 6 6 integer/ media 11 1.5 Ghz 221 130 810 1427
+4 memory
+3 branch
+2FP
+FIGURE 6.48 A summary of the characteristics of the Itanlum and ttanlum 2, Intel's first two Implementations of the IA·64
+architecture. In addition to higher dock rates and more functional units, the Itanium 2 includes an on-chip level 3 cache, versus an off-chip level 3
+cache in the ltanium.
+Elaboration: Speculation support in the IA-64 architecture consists of separate sup.
+port for control speculation, which deals with deferring exceptions for speculated
+instructions, and memory reference speculation, which supports speculation of load
+instructions. Deferred exception handling is supported by adding speculative load
+poison A result generated instructions, which, when an exception occurs, tag the result as poison. When a poi 
+when a speculative load yields
+soned result is used by an instruction, the result is also poison. The software can then
+an exception, or an instruction
+check for a poisoned result when it knows that the execution is no longer speculative.
+uses a poisoned operand.
+In lA-54, we can also speculate on memory references by moving loads earlier than
+stores on which they may depend. This is done with an advanced load instruction. An
+advall(:ed load In IA-64, a
+advanced load executes normally, but uses a special table to track the address that the
+speculative load instruction
+processor loaded from. All subsequent stores check that table and generate a flag in
+with support to check for aliases
+the entry if the store address matches the load address. A subsequent instruction
+that could invalidate the load.
+must be used to check the status of the entry after the load is no longer speculative. If
+a store to the same address has intervened, the check instruction specifies a fix-up
+routine that reexecutes the load and any other dependent instructions before continu 
+ing execution; if no such store has occurred, the table entry is simply cleared, indicat 
+ing that the load is no longer speculative.
+Dynamic Multiple-Issue Processors
+superscalar An advanced pipe  Dynamic multiple-issue processors are also known as superscalar processors, or
+lining technique that enables the
+simply superscalars. In the simplest superscalar processors, instructions issue in 
+processor to execute more than
+order, and the processor decides whether zero, one, or more instructions can issue
+one instruction per clock cycle.
+in a given clock cycle. Obviously, achieving good performance on such a processor
+still requires the compiler to try to schedule instructions to move dependences
+apart and thereby improve the instruction issue rate. Even with such compiler
+scheduling, there is an important difference between this simple superscalar and a
+VLIW processor: the code, whether scheduled or not, is guaranteed by the hard 
+ware to execute correctly. Furthermore, compiled code will always run correctly

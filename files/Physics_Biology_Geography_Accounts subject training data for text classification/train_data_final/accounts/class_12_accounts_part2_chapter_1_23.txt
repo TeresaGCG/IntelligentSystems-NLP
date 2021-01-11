@@ -1,0 +1,47 @@
+2 4 Accountancy : Company Accounts and Analysis of Financial Statements
+
+1 Bank A/c Dr.
+To Share Application A/c
+(Application money received on 25,000 shares
+@ Rs. _ per Share)
+
+2 Share Application A/c Dr.
+To Share Capital A/c
+To Share Allotment A/c
+
+(Transfer of application money to share
+capital and the excess application money
+on 5,000 shares credited to share allotment
+account)
+
+3 Share Allotment A/c Dr.
+To Share Capital A/c
+(Amount due on allotment of 25,000 share
+@ Rs. _ per share)
+
+4 Bank A/c Dr.
+To Share Allotment A/c
+(Allotment money received after adjusting
+the amount already received as excess
+application money)
+
+Third Alternative :When the application for some shares are rejected outrightly;
+and pro-rata allotment is made to the remaining applicants, the money on rejected
+applications is refunded and the excess application money received from
+applicants to whom pro—rata allotment has been made is adjusted towards the
+amount due on the allotment of shares allotted.
+
+For example, a company invited applications for 10,000 shares and received
+applications for 15,000 shares. The directors decided to reject the applications
+for 2,500 shares outright and to make a pro-rata allotment of 10,000 shares to
+the applicants for the remaining 12,500 shares so that four shares are allotted
+for every five shares applied. In this case, the money on applications for 2,500
+shares rejected would be refunded fully and that on the remaining 2,500 shares
+(12,500 shares — 10,000 shares) would be adjusted against the allotment amount
+due on 10,000 shares allotted and credited to share allotment account, the
+journal entries on application and allotment recorded as follows:
+
+1 Bank A/c Dr.
+To Share Application A/c
+(Money received on application for 15,000
+shares @ Rs. _ per share)

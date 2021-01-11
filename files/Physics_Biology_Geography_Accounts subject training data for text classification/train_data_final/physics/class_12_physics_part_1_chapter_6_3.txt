@@ -1,0 +1,72 @@
+Electromagnetic
+Induction
+
+a plane of area A placed in a uniform magnetic field B (Fig. 6.4) can
+be written as
+
+(DB =B-A=BAcos6 (6.1)
+
+where 0 is angle between B and A. The notion of the area as a vector
+has been discussed earlier in Chapter 1. Equation (6.1) can be
+extended to curved surfaces and nonuniform fields.
+
+If the magnetic field has different magnitudes and directions at
+various parts of a surface as shown in Fig. 6.5, then the magnetic
+ﬂux through the surface is given by
+
+qu =Bl.dA1+BQ.dA2+---=ZBi.dAi (6.2)
+all
+
+where ‘all’ stands for summation over all the area elements dAi
+
+FIGURE 6.4 A plane of
+surface area A placed in a
+
+comprising the surface and Bi is the magnetic ﬁeld at the area element uniform] magnetic ﬁeld B.
+
+dAi. The SI unit of magnetic ﬂux is weber (Wb) or tesla meter
+squared (T m2). Magnetic ﬂux is a scalar quantity.
+
+6.4 FARADAY’S LAW OF INDUCTION
+
+From the experimental observations, Faraday arrived at a
+conclusion that an emf is induced in a coil when magnetic ﬂux
+through the coil changes with time. Experimental observations
+discussed in Section 6.2 can be explained using this concept.
+The motion of a magnet towards or away from coil C1 in
+Experiment 6.1 and moving a current-carrying coil C2 towards
+or away from coil C1 in Experiment 6.2, change the magnetic
+ﬂux associated with coil CI. The change in magnetic ﬂux induces
+emf in coil Cl. It was this induced emf which caused electric
+
+ 
+
+current to ﬂow in coil C1 and through the galvanometer. A FIGURE 6.5 Magnetic field B.
+plausible explanation for the observations of Experiment 6.3 is at the 1"“ area €1€ment~ dA,
+as follows: When the tapping key K is pressed, the current in “Presents area VCCtor 0f the
+
+coil C2 (and the resulting magnetic field) rises from zero to a
+maximum value in a short time. Consequently, the magnetic
+
+ﬂux through the neighbouring coil C1 also increases. It is the change in
+magnetic ﬂux through coil C1 that produces an induced emf in coil C1.
+When the key is held pressed, current in coil C2 is constant. Therefore,
+there is no change in the magnetic ﬂux through coil C1 and the current in
+coil C1 drops to zero. When the key is released, the current in C2 and the
+resulting magnetic field decreases from the maximum value to zero in a
+short time. This results in a decrease in magnetic ﬂux through coil C1
+and hence again induces an electric current in coil 01*. The common
+point in all these observations is that the time rate of change of magnetic
+ﬂux through a circuit induces emf in it. Faraday stated experimental
+observations in the form of a law called Faraday ’3 law of electromagnetic
+induction. The law is stated below.
+
+* Note that sensitive electrical instruments in the vicinity of an electromagnet
+can be damaged due to the induced emfs [and the resulting currents] when the
+electromagnet is turned on or off.
+
+2019-20
+
+1"“ area element.
+
+207

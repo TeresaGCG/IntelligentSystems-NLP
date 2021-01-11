@@ -1,0 +1,38 @@
+6.1 An Overview of Plpellnlng 383
+Pipeline Overview Summary
+Pipelining is a technique that exploits parallelism among the instructions in a
+sequential instruction stream. It has the substantial advantage that, unlike some
+speedup techniques (see . Chapter 9), it is fundamentally invisible to the pro 
+grammer.
+In the next sections of this chapter, we cover the concept of pipelining using the
+MIPS instruction subset 1 add, sub, and, or, sl t, and beq (same as Chap 
+W, SW,
+ter 5) and a simplified version of its pipeline. We then look at the problems that
+pipelining introduces and the performance attainable under typical situations.
+If you wish to focus more on the software and the performance implications of
+pipelining, you now have sufficient background to skip to Section 6.9. Section 6.9
+introduces advanced pipelining concepts, such as superscalar and dynamic sched 
+uling, and Section 6. 10 examines the pipeline of the Pentium 4 microprocessor.
+Alternatively, if you are interested in understanding how pipelining is imple 
+mented and the challenges of dealing with hazards, you can proceed to examine
+the design of a pipelined datapath, explained in Section 6.2, and the basic control,
+explained in Section 6.3. You can then use this understanding to explore the
+implementation of forwarding in Section 6.4, and the implementation of stalls in
+Section 6.5. You can then read Section 6.6 to learn more about solutions to branch
+hazards, and then see how exceptions are handled in Section 6.8.
+BIG
+Pipelining increases the number of simultaneously executing instructions
+The
+and the rate at which instructions are started and completed. Pipelining
+Picture
+does not reduce the time it takes to complete an individual instruction,
+also called the latency. For example, the five-stage pipeline still takes 5
+clock cycles for the instruction to complete. In the terms used in Chapter
+4, pipelining improves instruction throughput rather than individual latency (pipeline) The num 
+instruction execution time or latency. ber ofstages in a pipeline or the
+number ofstages between two
+Instruction sets can either simplify or make life harder for pipeline
+instructions during execution.
+designers, who must already cope with structural, control, and data haz 
+ards. Branch prediction, forwarding, and stalls help make a computer fast
+while still getting the right answers.

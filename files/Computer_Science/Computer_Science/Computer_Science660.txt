@@ -1,0 +1,47 @@
+1-4
+Index
+Compaq Computers, CD8.11:6 Colltrol unit load-use, 377
+Comments, 50 adding, 299 stalls, 413-416
+Commit unit, 443 combinational, C4--8 Data parallelism, CD9.11:48
+Common subexpression designing main, 303-312 Datapath,20
+elimination, 117 exceptions, 340- 346 building a, 292-300
+Compilers fallacies and pitfalls, 350--352 elements, 292
+C,107 finite state machines, 330, 331-340, fallacies and pitfalls, 350--352
+functions of, 11-12 C8-20 jumps, 313-314
+historical development of, interrupts, 340--341 logic design conventions, 289-292
+CD2.19:7-8 jumps,313-314 multicycle implementation, 318-340
+how they work, CD2.12:1-9 microprogramming, 330, operation of, 306-312
+Java, 114-115 CD5.7:4-10 pipelined,384-399
+optimization, 116-121 multicycle implementation, 318-340 single-cycle implementation,
+structure of, 116 single-cycle implementation, 300-318
+translating high-level language into 300-318 Data rate, 598
+instructions that hardware can Coonen, Jerome T., CD3.10:7 Data segment, A13, 20
+execute,12-15,A5--6 Copy back, 521 Data selector, 286
+Compulsory misses, 543 Copy propagation, 118 Data transfer instructions, 54-55
+Computers Corbato, John, CD7.9:7, II Data types, Verilog, B21-22
+applications, 5- 7 Correlating predictors, 423 Dawson, Todd, 157
+components of, 15-16 Cosmic Cube, CD9.11 :52 Dead code elimination, 118
+historical development of, C++,CD2.19:7 Dead store elimination, 118
+CD1.7:1- 1O CPU. See Central processor unit Deasserted signal, 290, B4
+organization of, 16 Cray, Seymour, CD1.7:5, CD3.1O:4, Deassert signal, 290
+what it looks like inside, 18-22 CD6.13:2 Debugging information, A13
+Computer technology, advances in, 4 Cray Research, Inc., CDI.7:5, DEC (Digital Equipment Corp.),
+Conditional branches, 72-73 CD3.1O:4-5, CD6.13:5 CDI.7:5, CD4.7:2, CD7.9:9,
+Condition codes, 140 Critical word first, 482 CD8.11:11
+Conflict misses, 543 Crossbar network, CD9.6:30 Decimal numbers, 60,161
+Constant folding, 118 CTSS (Compatible Time-Sharing Sys- converting binary numbers to, 164
+Constant propagation, 118 tem), CD7.9:7- 11 converting binary to decimal floating
+Constants, 57, 58 Culler, David, 157 point, 196
+loading 32-bit, 96 Culler Scientific, CD6.13:4 dividing, 183
+Constellations, CD9.5:26 Cutler, David, CD7.9:9 multiplying, 176--177
+Context switch, 530 Cydrome Co., CD6.13:4, 5 scientific notation, 189
+Control,20 Cylinder, use of term, 569 Decision-making instructions, 72-74
+hardwired, 348, CD5.12:2 Decoders, B8-9
+pipelined,399-402 D Decoding, 333
+Control Data Corp. (CDC), CDI.7:5, Dedicated register, CD2.19:2
+CD6.13:2 Dahl, Ole-Johan, CD2.19:7 Defects, 30
+Control hazards. See Branch hazards Databases, history of, CD8.11:4-5 Delayed branch, 297, 382, 418-419, A41
+Controller time, 570 Data General, CD8.11:6 Dell Computer Corp.
+Control signals Data hazards SPEC CPU benchmarks, 254-255,
+list of, 306, 324 defined,376--379 259-266
+write, 290, 294 forwarding, 402--412 SPECweb99 benchmark, 262-266

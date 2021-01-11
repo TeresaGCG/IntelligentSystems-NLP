@@ -1,0 +1,89 @@
+254
+
+PHYSICS
+
+ 
+
+In the experiment it is found that the mercury
+column in the barometer has a height of about
+76 cm at sea level equivalent to one atmosphere
+(1 atm). This can also be obtained using the
+value of p in Eq. (10.8). A common way of stating
+pressure is in terms of cm or m of mercury
+(Hg). A pressure equivalent of 1 mm is called a
+torr (after Torricelli).
+
+1 torr = 133 Pa.
+
+The mm of Hg and torr are used in medicine
+and physiology. In meteorology, a common unit
+is the bar and millibar.
+
+1 bar = 105 Pa
+
+An open tube manometer is a useful
+instrument for measuring pressure differences.
+It consists of a U-tube containing a suitable
+liquid i.e., a low density liquid (such as oil) for
+measuring small pressure differences and a
+high density liquid (such as mercury) for large
+pressure differences. One end of the tube is open
+to the atmosphere and the other end is
+connected to the system whose pressure we want
+to measure [see Fig. 10.5 (b)]. The pressure Pat
+A is equal to pressure at point B. What we
+normally measure is the gauge pressure, which
+is P—Pa, given by Eq. (10.8) and is proportional
+to manometer height h.
+
+ 
+
+Fig 1 0.5 (a) The mercury barometer.
+
+2019-20
+
+(b) The open tube manometer
+Fig 1 0.5 Two pressure measuring devices.
+
+Pressure is same at the same level on both
+sides of the U-tube containing a ﬂuid. For
+liquids, the density varies very little over wide
+ranges in pressure and temperature and we can
+treat it safely as a constant for our present
+purposes. Gases on the other hand, exhibits
+large variations of densities with changes in
+pressure and temperature. Unlike gases, liquids
+are, therefore, largely treated as incompressible.
+
+Example 10.3 The density of the
+atmosphere at sea level is 1.29 kg/m“.
+
+Assume that it does not change with
+altitude. Then how high would the
+atmosphere extend?
+
+ 
+
+AnswerWe use Eq. (10.7)
+pgh = 1.29kgm“3>< 9.8ms2x h m= 1.01>< 105Pa
+
+.-.h= 7989mz8km
+
+In reality the density of air decreases with
+height. So does the value of g. The atmospheric
+cover extends with decreasing pressure over
+100 km. We should also note that the sea level
+atmospheric pressure is not always 760 mm of
+Hg. A drop in the Hg level by 10 mm or more is a
+sign of an approaching storm. 4
+
+Example 1 0.4 At a depth of 1000 m in an
+ocean (a) what is the absolute pressure?
+(b) What is the gauge pressure? (c) Find
+the force acting on the window of area
+
+20 cm x 20 cm of a submarine at this depth.
+the interior of which is maintained at sea—
+level atmospheric pressure. (The density of
+sea water is 1.03 x 10” kg m'3.
+g = 10 m s‘z.)

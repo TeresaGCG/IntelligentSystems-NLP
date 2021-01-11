@@ -1,0 +1,104 @@
+OSCILLATIONS
+
+351
+
+It follows from Eqs. (14.15) and (14.17) that
+the total energy, E, of the system is,
+
+E =U+K
+
+= % kA2 cos2(wt + ¢) + % kA2 sin2(a)t + ¢)
+
+= g k A2 [cos2(a)t + ¢) + sin2(a)t + m]
+
+Using the familiar trigonometric identity, the
+value of the expression in the brackets is unity.
+Thus,
+
+= l k A2 (14.18)
+2
+The total mechanical energy of a harmonic
+oscillator is thus independent of time as expected
+for motion under any conservative force. The
+time and displacement dependence of the
+potential and kinetic energies of a linear simple
+harmonic oscillator are shown in
+Fig. 14.16.
+E=k(t) + U(t)
+
+    
+
+a
+8
+L11
+Kt(t)
+0 T/2 T
+(a)
+
+ 
+
+Fig. 1 4. 1 6 Kinetic energy, potential energy and total
+energy as a function of time [shown in (a)]
+and displacement [shown in (b)] of a particle
+in SHM. The kinetic energy and potential
+energy both repeat after a period T/ 2. The
+total energy remains constant at all t or x.
+
+Observe that both kinetic energy and
+potential energy in SHM are seen to be always
+positive in Fig. 14.16. Kinetic energy can, of
+course, be never negative, since it is
+proportional to the square of speed. Potential
+energy is positive by choice of the undermined
+constant in potential energy. Both kinetic
+energy and potential energy peak twice during
+each period of SHM. For x = 0, the energy is
+kinetic; at the extremes x = iA, it is all potential
+energy. In the course of motion between these
+limits, kinetic energy increases at the expense
+of potential energy or vice-versa.
+
+Example 14.7 Ablock whose mass is 1 kg
+is fastened to a spring. The spring has a
+spring constant of 50 N m‘l. The block is
+pulled to a distance x = 10 cm from its
+equilibrium position at x = 0 on a frictionless
+
+surface from rest at t = 0. Calculate the
+kinetic. potential and total energies of the
+block when it is 5 cm away from the mean
+position.
+
+ 
+
+Answer The block executes SHM, its angular
+frequency, as given by Eq. (14.14b), is
+
+’k
+a): _
+m
+
+1
+
+50 N m—
+1kg
+
+= 7.07 rad s-1
+
+Its displacement at any time t is then given by,
+x(t) = 0.1 cos (7.07t)
+
+Therefore, when the particle is 5 cm away from
+
+the mean position, we have
+
+0.05 = 0.1 cos (7.07t)
+
+Or cos (7 .07 t) = 0.5 and hence
+
+‘5
+
+sin (7.07t) =— =O.866
+2
+
+2019-20

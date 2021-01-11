@@ -1,0 +1,33 @@
+38 Chapter 1 Computer Abstractions and Technology
+1.5 [2J Component of the computer where all running progrJITIS and associated
+data reside.
+1.6 [2J Component of the processor that performs arithmetic operations.
+1.7 [2J Component of the processor that tells the datapath, memory, and I/O de 
+vices what to do according to the instructions of the program.
+1.8 [2J Computer designed for use by an individual, usually incorporating a
+graphics display, keyboard, and mouse.
+1.9 [2J Computer inside another device used for running one predetermined ap 
+plication or collection ofsoftware.
+1.10 [2J Computer used for running larger programs for multiple users often si 
+multaneously and typically accessed only by a network.
+1.11 [2J Computer network that connects a group of computers by a common
+transmission cable or wireless link within a small geographic area (for example,
+within the same floor of a building).
+1.12 [2J Computer networks that connect computers spanning great distances,
+the backbone of the Internet.
+1.13 [2J High-performance machine, costing more than $1 million.
+1.14 [2J Integrated circuit commonly used to construct main memory.
+1.15 [2J Microscopic flaw in a wafer.
+1.16 [2J Nickname for a die or integrated circuit.
+1.17 [2J On/off switch controlled by electricity.
+1.18 [2J Optical storage medium with a storage capacity of more than 4.7 GB. It
+was initially marketed for entertainment and later for computer users.
+1.19 [2J Percentage of good dies from the total number of dies on the wafer.
+1.20 [2J Program that converts a symbolic version of an instruction into the bi 
+nary versIon.
+1.21 [2J Program that manages the resources ofa computer for the benefit ofthe
+programs that run on that machine.
+1.22 [2J Program that translates from a higher-level notation to assembly lan 
+guage.
+1.23 [2JTechnology in which single chip that contains hundreds of thousands to
+millions of transistors.

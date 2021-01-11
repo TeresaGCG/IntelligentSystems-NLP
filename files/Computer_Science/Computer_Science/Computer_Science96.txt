@@ -1,0 +1,55 @@
+80 Chapter 2 Instructions: Language of the Computer
+j al Pr ocedureAdd r ess
+The link portion of the name means that an address or link is formed that points to
+the calling site to allow the procedure to return to the proper address. This "link,"
+return address A link to the stored in register $r a, is called the return address. The renlfll address is needed
+calling site that allows a proce 
+because the same procedure could be called from several parts of the program.
+dure to return to the proper
+Implicit in the stored-program idea is the need to have a register to hold the
+address; in MIPS it is stored in
+address of the current instruction being executed. For historical reasons, this reg 
+register $ra .
+ister is almost always called the program counter, abbreviated PC in the MIPS
+program counter (PC) The architecture, although a more sensible name would have been instrtlction address
+register containing the address register. The j a1 instruction saves PC + 4 in register $r a to link to the following
+ofthe instruction in the pro 
+instruction to set up the procedure return.
+gram being executed
+To support such situations, computers like MIPSuse a jump register instruction
+(j r), meaning an unconditional jump to the address specified in a register:
+J r $r a
+The jump register instruction jumps to the address stored in register $ra-which
+caller The program that insti  is just what we want. Thus, the calling program, or caller, puts the parameter val 
+gates a procedure and provides ues in $aO-$ a3 and uses j al Xto jump to procedure X(sometimes named the
+the necessary parameter values.
+callee). The callee then performs the calculations, places the results in $vO-$vl,
+callee A procedure that executes and renlfns control to the caller using j r $ra.
+a series of stored instructions
+based on parameters provided by Using More Registers
+the caller and then returns con 
+trol to the caller. Suppose a compiler needs more registers for a procedure than the four argument
+and two return value registers. Since we must cover our tracks after our mission is
+complete, any registers needed by the caller must be restored to the values that
+they contained before the procedure was invoked. This situation is an example in
+which we need to spill registers to memory, as mentioned in the Hardware Soft  
+ware Interface section on page 58.
+stack A data structure for spill  The ideal data structure for spilling registers is a stack- a last-in-first -out
+ing registers organized as a Jast 
+queue. A stack needs a pointer to the most recently allocated address in the stack
+in-first-out queue.
+to show where the next procedure should place the registers to be spilled or where
+stack pointer Avaluedenoting old register values are found. The stack pointer is adjusted by one word for each
+the most recently allocated
+register that is saved or restored. Stacks are so popular that they have their own
+address in a stack that shows
+buzzwords for transferring data to and from the stack: placing data onto the stack
+where registers should be spilled
+is called a push, and removing data from the stack is called a pop.
+or where old register values can
+MIPS software allocates another register just for the stack: the stack pointer
+be found.
+($s p), used to save the registers needed by the callee. By historical precedent,
+stacks "grow" from higher addresses to lower addresses. This convention means
+that you push values onto the stack by subtracting from the stack pointer. Adding
+to the stack pointer shrinks the stack, thereby popping values off the stack.

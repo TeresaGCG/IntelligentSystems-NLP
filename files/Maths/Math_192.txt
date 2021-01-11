@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+192
+Example 4
+The length of the hypotenuse of a 30° – 60° – 90° triangle is 10
+centimeters. Find the length of the two legs.
+Solution: The length of the hypotenuse is twice the length of the
+shorter leg, so the length of the shorter leg is 5 centimeters. Using
+the formula derived earlier, the length of the longer leg is:
+Lesson 10-5 Review
+Solve the following problems:
+1. The length of one leg of an isosceles right triangle is 10 decimeters.
+Find the length of the hypotenuse.
+2. The length of the hypotenuse of an isosceles right triangle is 16
+inches. Find the length of the two legs of the triangle.
+3. The hypotenuse of a 30° – 60° – 90° triangle is 24 centimeters. Find
+the length of the two legs.
+4. The shorter leg of a 30° – 60° – 90° triangle is 30 inches. Find the
+lengths of the hypotenuse and the longer leg.
+Lesson 10-6: The Distance Formula
+If you needed to measure the distance between two points on a number
+line, all you have to do is subtract the smaller value from the larger value.
+For example, the distance between the points
+x= 5 and x= 2 is 5 − 2 = 3.
+The distance between the points
+x= 7 and x= −3 is 7 – (−3) = 7 + 3 = 10.
+The distance between the points
+x= −6 and x= −15 is −6− (−15) = −6+ 15 = 9.
+Notice that the distance between two points is always a positive number.
+We can use the method of calculating the distance between two points
+on a number line to calculate the distance between two points on any
+www.ebook3000.com

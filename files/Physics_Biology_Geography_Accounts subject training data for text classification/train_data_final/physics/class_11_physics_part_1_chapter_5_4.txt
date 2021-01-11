@@ -1,0 +1,127 @@
+LAWS OF MOTION
+
+93
+
+ 
+
+The property of inertia contained in the First
+law is evident in many situations. Suppose we
+are standing in a stationary bus and the driver
+starts the bus suddenly. We get thrown
+backward with a jerk. Why ? Our feet are in touch
+with the ﬂoor. If there were no friction, we would
+remain where we were, while the ﬂoor of the bus
+would simply slip forward under our feet and the
+back of the bus would hit us. However,
+fortunately, there is some friction between the
+feet and the ﬂoor. If the start is not too sudden,
+i.e. if the acceleration is moderate, the frictional
+force would be enough to accelerate our feet
+along with the bus. But our body is not strictly
+a rigid body. It is deformable, i.e. it allows some
+relative displacement between different parts.
+What this means is that while our feet go with
+the bus, the rest of the body remains where it is
+due to inertia. Relative to the bus, therefore, we
+are thrown backward. As soon as that happens,
+however, the muscular forces on the rest of the
+body (by the feet) come into play to move the body
+along with the bus. A similar thing happens
+when the bus suddenly stops. Our feet stop due
+to the friction which does not allow relative
+motion between the feet and the ﬂoor of the bus.
+But the rest of the body continues to move
+forward due to inertia. We are thrown forward.
+The restoring muscular forces again come into
+play and bring the body to rest.
+
+ 
+
+’ Example 5.1 An astronaut accidentally
+gets separated out of his small spaceship
+accelerating in inter stellar space at a
+constant rate of 100 m 5’2. What is the
+acceleration of the astronaut the instant after
+
+he is outside the spaceship ? (Assume that
+there are no nearby stars to exert
+gravitational force on him.)
+
+ 
+
+Answer Since there are no nearby stars to exert
+gravitational force on him and the small
+spaceship exerts negligible gravitational
+attraction on him, the net force acting on the
+astronaut, once he is out of the spaceship, is
+zero. By the first law of motion the acceleration
+of the astronaut is zero. 4
+
+5.5 NEWTON’S SECOND LAW OF MOTION
+
+The first law refers to the simple case when the
+net external force on a body is zero. The second
+law of motion refers to the general situation when
+there is a net external force acting on the body.
+
+It relates the net external force to the
+acceleration of the body.
+
+Momentum
+Momentum of a body is deﬁned to be the product
+of its mass m and velocity v, and is denoted
+by p:
+
+p = mv (5.1)
+
+Momentum is clearly a vector quantity. The
+following common experiences indicate the
+importance of this quantity for considering the
+effect of force on motion.
+
+0 Suppose a light-weight vehicle (say a small
+car) and a heavy weight vehicle (say a loaded
+truck) are parked on a horizontal road. We all
+know that a much greater force is needed to
+push the truck than the car to bring them to
+the same speed in same time. Similarly, a
+greater opposing force is needed to stop a
+heavy body than a light body in the same time,
+if they are moving with the same speed.
+
+0 If two stones, one light and the other heavy,
+
+are dropped from the top of a building, a
+person on the gound will find it easier to catch
+the light stone than the heavy stone. The
+mass of a body is thus an important
+parameter that determines the effect of force
+on its motion.
+
+' Speed is another important parameter to
+consider. A bullet ﬁred by a gun can easily
+pierce human tissue before it stops, resulting
+in casualty. The same bullet fired with
+moderate speed will not cause much damage.
+Thus for a given mass, the greater the speed,
+the greater is the opposing force needed to stop
+the body in a certain time. Taken together,
+the product of mass and velocity, that is
+momentum, is evidently a relevant variable
+of motion. The greater the change in the
+momentum in a given time, the greater is the
+force that needs to be applied.
+
+' A seasoned cricketer catches a cricket ball
+coming in with great speed far more easily
+than a novice, who can hurt his hands in the
+act. One reason is that the cricketer allows a
+longer time for his hands to stop the ball. As
+you may have noticed, he draws in the hands
+backward in the act of catching the ball (Fig.
+5.3). The novice, on the other hand, keeps
+his hands fixed and tries to catch the ball
+almost instantly. He needs to provide a much
+greater force to stop the ball instantly, and
+
+2019-20

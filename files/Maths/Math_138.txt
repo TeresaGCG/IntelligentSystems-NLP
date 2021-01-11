@@ -1,0 +1,22 @@
+Homework Helpers: Basic Math and Pre-Algebra
+138
+Example 2
+A computer store has a 75% mark-up. If it pays $120 for an all-in-
+one printer, find the selling price of the printer.
+Solution: Use the equation for the percent mark-up to determine
+the mark-up:
+Let m represent the mark-up:
+Now that we know the mark-up, we can find the selling price, or
+the price to the consumer:
+The selling price is $210.
+When an item goes on sale, the selling price is reduced. The amount
+of the price decrease is called the discount, or mark-down. The equation
+that models this situation is:
+Price = price − discount
+sale regular
+Thepercent discount is the ratio of the discount to the regular price.
+It can be calculated using the equation:
+discount
+Percent discount =
+regular price
+www.ebook3000.com

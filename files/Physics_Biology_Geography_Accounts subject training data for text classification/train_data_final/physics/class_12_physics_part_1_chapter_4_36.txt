@@ -1,0 +1,70 @@
+I Physics
+
+ 
+
+where q) is the equilibrium deﬂection and k the torsion constant of
+the spring.
+
+1 1. An electron moving around the central nucleus has a magnetic moment
+,ul given by:
+
+_e
+
+— 1
+2m
+
+#1
+
+where lis the magnitude of the angular momentum of the circulating
+electron about the central nucleus. The smallest value of ,ul is called
+the Bohr magneton [.tB and it is [.tB = 9.27><10‘24 J /T
+
+12. A moving coil galvanometer can be converted into a ammeter by
+introducing a shunt resistance rs, of small value in parallel. It can be
+converted into a voltmeter by introducing a resistance of a large value
+in series.
+
+   
+
+Physical Quantity Symbol Nature Dimensions Units Remarks
+
+[MLT'2A’2] 47: x 10'7 T m A’1
+[M T'2A'1]
+[LZA]
+[M L2T‘2] Appears in MCG
+
+   
+
+POINTS TO PONDER
+
+1. Electrostatic ﬁeld lines originate at a positive charge and terminate at a
+negative charge or fade at infinity. Magnetic field lines always form
+closed loops.
+
+2. The discussion in this Chapter holds only for steady currents which do
+not vary with time.
+
+When currents vary with time Newton’s third law is valid only if momentum
+carried by the electromagnetic ﬁeld is taken into account.
+
+3. Recall the expression for the Lorentz force.
+
+F=q(v><B+E)
+
+This velocity dependent force has occupied the attention of some of the
+greatest scientiﬁc thinkers. If one switches to a frame with instantaneous
+velocity v. the magnetic part of the force vanishes. The motion of the
+charged particle is then explained by arguing that there exists an
+appropriate electric field in the new frame. We shall not discuss the
+details of this mechanism. However, we stress that the resolution of this
+paradox implies that electricity and magnetism are linked phenomena
+(electromagnetism) and that the Lorentz force expression does not imply
+a universal preferred frame of reference in nature.
+
+4. Ampere’s Circuital law is not independent of the Biot-Savart law. It
+can be derived from the Biot-Savart law. Its relationship to the
+Biot-Savart law is similar to the relationship between Gauss’s law and
+
+1 68 Coulomb’s law.
+
+2019-20

@@ -1,0 +1,64 @@
+36
+
+EXAMPLE 1. 1 1
+
+EXAMPLE 1.12
+
+ 
+
+¢R+ ¢L = ERa2 _ ELa2 = a2 (ER_ EL = aaZ [(2a)1/2 _ (ll/2]
+
+oca5/2 («/5 - 1)
+
+= 800 (MW2 («5—1)
+= 1.05 N m2 C‘1
+
+(b) We can use Gauss’s law to find the total charge q inside the cube.
+We have 4) = q/eO or q = $80. Therefore,
+
+q = 1.05 x 8.854 x 10—12 c = 9.27 x 10‘12 c.
+
+Example 1.12 An electric field is uniform, and in the positive x
+direction for positive x, and uniform with the same magnitude but in
+the negative x direction for negative x. It is given that E = 200 i N/ C
+for x > O and E = —200 i N/C for x < O. A right circular cylinder of
+length 20 cm and radius 5 cm has its centre at the origin and its axis
+along the x-aXis so that one face is at x = +10 cm and the other is at
+x = —10 cm (Fig. 1.28). (a) What is the net outward ﬂux through each
+ﬂat face? (b) What is the ﬂux through the side of the cylinder?
+(c) What is the net outward ﬂux through the cylinder? (d) What is the
+net charge inside the cylinder?
+
+Solution
+(a) We can see from the figure that on the left face E and AS are
+parallel. Therefore, the outward ﬂux is
+
+¢L= E-AS = — 200 MS
+
+= + 200 AS, since ioAS = — AS
+
+= + 200 x 1: (0.05)2 = + 1.57 N m2 0*1
+
+On the right face, E and AS are parallel and therefore
+¢R= E-AS = + 1.57 N m2 c—l.
+
+(b) For any point on the side of the cylinder E is perpendicular to
+AS and hence E-AS = 0. Therefore, the ﬂux out of the side of the
+cylinder is zero.
+
+(0) Net outward ﬂux through the cylinder
+¢= 1.57 + 1.57 + o = 3.14 N m2 c—1
+
+ 
+
+x=-10 cm 20 cm x=10 cm
+
+FIGURE 1 .28
+
+(d) The net charge within the cylinder can be found by using Gauss’s
+law which gives
+= 30¢
+= 3.14 x 8.854 x 10—12 C
+= 2.78 x 10—11 c
+
+2019-20

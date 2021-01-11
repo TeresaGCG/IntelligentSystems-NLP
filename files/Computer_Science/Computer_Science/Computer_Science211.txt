@@ -1,0 +1,38 @@
+3.6 Floating Point 195
+Thus IEEE 754 notation ca n be processed by integer compares to accelerate
+sorting of floating-point numbers. Let's show the representation.
+Floating-Point Representation
+Show the IEEE 754 binary representation of the number -0.75 in single
+ten
+EXAMPLE
+and double precision.
+The number -0.75 is also
+ten
+ANSWER
+2
+-3/4 or -3/2
+ten ten
+It is also represented by the binary fraction
+- lltwo/22ten or -0. 11 two
+In scientific notation, the value is
+0
+-0.1 Itwo X 2
+and in normalized scientific notation, it is
+r'
+X
+- 1.11\\oU
+The general representation for a single precision number is
++
+(_I)s X ( I Fraction) X iExponent - 127)
+r',
+When we subtract the bias 127 from the exponent of - 1.l X the result
+two
+"
+i
++ 126
+(-I)' X ( I .1000 0000 0000 0000 0000 000t\» X - 127)
+The single precision binary representation of -0.75 is then
+ten
+31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 bit 8 bits 23 bits

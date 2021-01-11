@@ -1,0 +1,37 @@
+130 Chapter 2 Instructions: Language of the Computer
+Bubble Sort relative Quicksort relative Speedup Quicksort
+Language Execution method Optimization performance performance vs. Bubble Sort
+C compiler none 1.00 1.00 2468
+compiler 01 2.37 1.50 1562
+compiler 02 2.38 1.50 1555
+compiler 03 2.41 1.91 1955
+-
+Java interpreter 0 .12 0.05 1050
+Just In Time compiler 2.13 0.29 338
+FIGURE 2.38 Performance of two sort algorithms In C and Java using Interpretation and optimizing compliers relative to
+unoptlmlzed C version. The last column shows the advantage in performance of Quicksort over Bubble Sort for each language and execution
+option.These programs were run on the same system as Figure 2.37.The jVM is Sun version 1.3.1, and the lIT is Sun Hotspot version 1.3.1.
+Implementing an Object-Griented
+Language
+This section is for readers interested in seeing how an objected-oriented language
+obje(;t-oriented language A
+like Java executes on a M IPS architecture. It shows the Java bytecodes used for
+programminglanguage that is
+interpretation and the M IPS code for the Java version of some of the C segments
+oriented around objects rather
+than actions, or data versus in prior sections, including Bubble Sort. The rest of this section is on the CD.
+logic.
+Arrays versus Pointers
+A challenging topic for any new programmer is understanding pointers. Compar 
+ing assembly code that uses arrays and array indices to the assembly code that uses
+pointers offers insights about pointers. This section shows C and MIPS assembly
+versions of two procedures to clear a sequence of words in memory: one using
+array indices and one using pointers. Figure 2.39 shows the two C procedures.
+The purpose of this section is to show how pointers map into MIPS instructions,
+and not to endorse a dated programming style. We'll see the impact of modern com 
+piler optimization on these two procedures at the end of the section.
+Array Version of Clear
+Let's start with the array version, c1 earl, focusing on the body of the loop and
+ignoring the procedure linkage code. We assume that the two parameters a rray and
+to.
+size are found in the registers $a0 and $aI, and that i is allocated to register $

@@ -1,0 +1,109 @@
+WORK. ENERGY AND POWER 123
+v = ,[3 L 2
+B 9 W=+kxm @JQ
+
+(iii) The ratio of the kinetic energies at B and C
+is :
+
+lmvz
+g: 2 B 3
+
+ 
+
+KC 1 2 1
+—mv
+2 C
+
+At point C, the string becomes slack and the
+
+velocity of the bob is horizontal and to the left. If
+
+the connecting string is cut at this instant, the
+bob will execute a projectile motion with
+horizontal projection akin to a rock kicked
+horizontally from the edge of a cliff. Otherwise
+the bob will continue on its circular path and
+complete the revolution. 4
+
+6.9 THE POTENTIAL ENERGY OF A SPRING
+
+The spring force is an example of a variable force
+which is conservative. Fig. 6.7 shows a block
+attached to a spring and resting on a smooth
+horizontal surface. The other end of the spring
+is attached to a rigid wall. The spring is light
+and may be treated as massless. In an ideal
+spring, the spring force F5 is proportional to
+x where x is the displacement of the block from
+the equilibrium position. The displacement could
+be either positive [Fig. 6.7(b)] or negative
+[Fig. 6.7(c)]. This force law for the spring is called
+Hooke’s law and is mathematically stated as
+
+a=—m
+
+The constant k is called the spring constant. Its
+unit is N m’l. The spring is said to be stiff if k is
+large and soft if k is small.
+
+Suppose that we pull the block outwards as in
+Fig. 6.7 (b). Ifthe extension is xm, the work done by
+the spring force is
+
+ 
+
+lmzjﬁdx =—jde
+0 0
+_k%
+_2 (am
+
+This expression may also be obtained by
+considering the area of the triangle as in
+Fig. 6.7(d). Note that the work done by the
+external pulling force F is positive since it
+overcomes the spring force.
+
+ 
+
+x = 0|
+I‘— F5 1s negative
+I x is positive
+
+   
+   
+
+®
+
+:— X—H
+F—'| F5 is positive
+3 I x is negative
+
+   
+
+  
+
+©
+
+@
+
+ 
+
+Fig. 6.7 Illustration of the spring force with a block
+attached to the free end of the spring.
+(a) The spring force FS is zero when the
+displacement x from the equilibrium position
+is zero. (b) For the stretched spring x > 0
+and FS < 0 (c) For the compressed spring
+x < 0 and FS > 0.(d) The plot of FS versus x.
+The area of the shaded triangle represents
+the work done by the spring force. Due to the
+opposing signs of FS and x, this work done is
+
+negative, Ws : —er2n / 2.
+
+The same is true when the spring is
+compressed with a displacement xC (< O). The
+
+spring force does work WS = _ kxg /2 while the
+
+2019-20

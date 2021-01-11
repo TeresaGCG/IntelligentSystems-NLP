@@ -1,0 +1,31 @@
+2.9 MIPS Addressing for 32·111t Immedlates and Addresses 101
+1. Immediate addressing
+~[
+Immediate
+2. Register addressing
+~
+Registers
+-----·I
+R.~g~;_,
+._., _
+3. Base addressing
+I °P I rs I rt I Address I Memory
+Register
+'------~I
+4. PC-relative addressing
+op l rn l rt l Address
+Memory
+Ie;>
+PC Worn
+5. Pseudcx:lirect addressing
+Address
+I Memory
+]
+6>----t~wo"'~
+PC
+- - -I •
+FIGURE 2.24 illustration of the live MIPS addressing modes. The operands are shaded in
+color. The operand of mode 3 is in memory, whereas the operand for mode 2 is a register. Note that versions
+of lo.1d and store access bytes, halfwords, or words. For mode I, the operand is 16 bits of the instruction
+itself. Modes 4 and 5 address instructions in memory, with mode 4 adding a 16-bit address shifted left 2 bits
+to the PC and mode 5 concatenating a 26-bit address shifted left 2 bits with the 4 upper bits ofthe Pc.

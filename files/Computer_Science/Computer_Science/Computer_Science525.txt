@@ -1,0 +1,39 @@
+7.3 Measuring and Improving Cache Performance 509
+Elaboration: Multilevel caches create several complications. First, there are now
+several different types of misses and corresponding miss rates. In the example on
+page 499, we saw the primary cache miss rate and the global miss rate- the fraction global m iss rate The fraction
+of references that missed in all cache levels. There is also a miss rate for the second  ofreferences that miss in all lev 
+ary cache, which is the ratio of all misses in the secondary cache divided by the num  e1s ofa multilevel cache.
+ber of accesses. This miss rate is called the local miss rate of the secondary cache.
+Because the primary cache filters accesses, especially those with good spatial and local m iss rate The fraction of
+temporal locality, the local miss rate of the secondary cache is much higher than the references to one level ofa cache
+that miss; used in multilevel
+global miss rate. For the example on page 499, we can compute the local miss rate of
+hierarchies.
+the secondary cache as: 0.5%/2% = 25%! Luckily, the global miss rate dictates how
+often we must access the main memory.
+Additional complications arise because the caches may have different block sizes to
+match the larger or smaller total size. Likewise, the associativity of the cache may
+change. On-chip caches are often built with associativity of four or higher, while off-chip
+caches rarely have associativity of greater than two. On chip Ll caches tend to have
+lower associativity than one chip L2 caches since fast hit time is more important for Ll
+caches. These changes in block size and associativity introduce complications in the
+modeling of the caches, which typically mean that all levels need to be simulated
+together to understand the behavior.
+Elaboration: With out-of-order processors, performance is more complex, since they
+execute instructions during the miss penalty. Instead of instruction miss rate and data
+miss rates, we use misses per instruction, and this formula:
+Memory stall cycles _
+Misse.s X (Total miss latency - Overlapped miss latency)
+Instruction Instruction
+There is no general way to calculate overlapped miss latency, so evaluations of
+memory hierarchies for out-of-order processors inevitably require simulation of the pro 
+cessor and memory hierarchy. Only by seeing the execution of the processor during
+each miss can we see if the processor stalls waiting for data or simply finds other work
+to do. A guideline is that the processor often hides the miss penalty for an Ll cache
+miss that hits in the L2 cache, but it rarely hides a miss to the L2 cache.
+Elaboration: The performance challenge for algorithms is that the memory hierarchy
+varies bet.....een different implementations of the same architecture in cache size, asso 
+ciativity, block size, and number of caches. To copy with such variability, some recent
+numerical libraries parameterize their algorithms and then search the parameter space
+at runtime to find the best combination for a particular computer.

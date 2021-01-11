@@ -1,0 +1,71 @@
+2 2 Accountancy : Company Accounts and Analysis of Financial Statements
+
+ 
+
+Share First Call A/c Dr. 60,000
+To Share Capital A/c 60,000
+
+(First call money due on 30,000 shares
+@ Rs.2 per share)
+
+Bank A/c Dr. 59,800
+
+Call in Arrears A/c Dr. 800
+To Share First Call A/c 60,000
+To Calls in Advance A/c 600
+
+(Calls in arrears for 400 shares @Rs.2 per share
+and calls in advance on 300 shares
+@Rs.2 per share)
+
+;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Do it Your self
+
+1. A company issued 20,000 equity shares of Rs. 10 each payable Rs.3 on
+application, Rs.3 on allotment, Rs.2 on ﬁrst call and Rs.2 on second and the
+ﬁnal call. The allotment money was payable on or before May 01, 2015; ﬁrst
+call money on or before August Ist, 2015; and the second and ﬁnal call on or
+before October Ist, 20 15; ‘X’, whom 1,000 shares were allotted, did not pay the
+allotment and call money; ‘Y‘, an allottee of 600 shares, did not pay the two
+calls; and ‘Z', whom 400 shares were allotted, did not pay the ﬁnal call. Pass
+journal entries and prepare the balance sheet of the company.
+
+. Alfa Company Ltd. issued 10,000 shares of Rs. 10 each for cash payable Rs.3
+on application, Rs.2 on allotment and the balance in two equal instalments.
+The allotment money was payable on or before March 3 1, 20 15; the ﬁrst call
+money on or before 30 June, 2015; and the ﬁnal call money on or before
+August, 31. 2015. Mr. ‘A’, to whom 600 shares were allotted, paid the entire
+remaining face value of shares allotted to him on allotment. Record journal
+entries in company‘s books and also exhibit the share capital in the balance
+sheet on the date.
+
+ 
+
+1 . 6.3 Over Subscription
+
+There are instances when applications for more shares of a company are received
+than the number offered to the public for subscription. This usually happens in
+respect of shares issue of well-managed and ﬁnancially strong companies and
+is said to be a case of ‘Over Subscription'.
+
+In such a condition, three alternatives are available to the directors to deal
+with the situation: (1) they can accept some applications in full and totally reject
+the others; (2) they can make a pro-rata allotment to all; and (3) they can adopt
+a combination of the above two alternatives which happens to be the most
+common course adopted in practice.
+
+The problem of over subscription is resolved with the allotment of shares.
+Therefore, from the accounting point of view, it is better to place the situation of

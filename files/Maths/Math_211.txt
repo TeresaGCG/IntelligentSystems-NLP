@@ -1,0 +1,25 @@
+Monomials and Polynomials
+211
+Thedegree of a polynomial is simply the largest of the degrees of the
+monomials that make up the polynomial.
+Some polynomials have special names. A polynomial made up of two
+monomials is called a binomial. A polynomial made up of three monomi-
+als is called a trinomial. The following table gives examples of some of
+the more common polynomials that you will encounter in algebra.
+Polynomial Leading Degree Common Type of
+Coefficient Name Polynomial
+4 4 0 Constant Monomial
+2x 2 1 Linear Monomial
+3x− 9 3 1 Linear Binomial
+x2 1 2 Quadratic Monomial
+x2+x 1 2 Quadratic Binomial
+x2+ 3x− 9 1 2 Quadratic Trinomial
+−2x3 −2 3 Cubic Monomial
+−5x3+ 3x+ 1 −5 3 Cubic Trinomial
+To add or subtract polynomials, you will need to apply the rules for
+adding or subtracting monomials. Remember that you can only combine
+monomials that involve the same variables raised to the same powers. So,
+when you try to add or subtract polynomials, you have to look for mono-
+mials that match up and combine them. When you are subtracting one
+polynomial from another polynomial, you must distribute the negative
+sign throughout the polynomial that is being subtracted.

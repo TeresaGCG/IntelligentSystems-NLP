@@ -1,0 +1,68 @@
+IIO87CHIO
+
+CHAPTER TEN
+
+MECHANICAL PROPERTIES OF FLUIDS
+
+Introduction
+Pressure
+
+Streamline ﬂow
+Bernoulli’s principle
+Viscosity
+
+Surface tension
+
+Summary
+
+Points to ponder
+Exercises
+Additional exercises
+Appendix
+
+ 
+
+10. 1 INTRODUCTION
+
+In this chapter, we shall study some common physical
+properties of liquids and gases. Liquids and gases can ﬂow
+and are therefore, called ﬂuids. It is this property that
+distinguishes liquids and gases from solids in a basic way.
+
+Fluids are everywhere around us. Earth has an envelop of
+air and two-thirds of its surface is covered with water. Water
+is not only necessary for our existence; every mammalian
+body constitute mostly of water. All the processes occurring
+in living beings including plants are mediated by ﬂuids. Thus
+understanding the behaviour and properties of ﬂuids is
+important.
+
+How are ﬂuids different from solids? What is common in
+liquids and gases? Unlike a solid, a ﬂuid has no definite
+shape of its own. Solids and liquids have a fixed volume,
+whereas a gas fills the entire volume of its container. We
+have learnt in the previous chapter that the volume of solids
+can be changed by stress. The volume of solid, liquid or gas
+depends on the stress or pressure acting on it. When we
+talk about fixed volume of solid or liquid, we mean its volume
+under atmospheric pressure. The difference between gases
+and solids or liquids is that for solids or liquids the change
+in volume due to change of external pressure is rather small.
+In other words solids and liquids have much lower
+compressibility as compared to gases.
+
+Shear stress can change the shape of a solid keeping its
+volume fixed. The key property of ﬂuids is that they offer
+very little resistance to shear stress; their shape changes by
+application of very small shear stress. The shearing stress
+of ﬂuids is about million times smaller than that of solids.
+
+10.2 PRESSURE
+
+A sharp needle when pressed against our skin pierces it. Our
+skin, however, remains intact when a blunt object with a
+wider contact area (say the back of a spoon) is pressed against
+it with the same force. If an elephant were to step on a man’s
+chest, his ribs would crack. A circus performer across whose
+
+2019-20

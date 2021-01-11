@@ -1,0 +1,34 @@
+15. Chapter 2 Instructions: Language of the Computer
+a. The percentage of all memory accesses (both data and instruction) that are
+for data.
+b. The percentage of all memo ry accesses (both data and instruction) that are
+for reads. Assume that two-thirds of data transfers are loads.
+2.50 (10) <§2.1 7> Perform the same calculations as fo r Exercise 2.49, but replace
+the program SPEC2000int with SPEC2000fp.
+2.51 (IS) <§2.1 7> Suppose we have made the following measurements of average
+CPI for instmctions:
+Instruction Average CPI
+Arithmetic 1.0 clock cycles
+Data transfer 1.4 clock cycles
+Conditional branch 1.7 clock cycles
+Jump 1.2 clock cycles
+Compute the effective CPI for MIPS. Average the instruction frequencies for
+SPEC2000int and SPEC2000fp in Figure 2.48 on page 146 to obtain the instruc 
+tion mix.
+II
+2.52 (20 ) <§2.1 8> In More Depth: Instruction Set Styles
+2.53 (20 ) <§2.1 8> " In More Depth: Instruction Set Styles
+II
+2.54 (10) <§2.1 8> In More Depth: The Single Instruction Computer
+II
+2.55 (20 ) <§2.1 8> In More Depth: The Single Instruction Computer
+2.56 (5] <§2.1 9>The stored-program concept, introduced in the late I940s, brought
+about a significant change in how computers were designed and operated. \-¥hat is a
+possible example of a nonstored-program machine, and what are the problems with
+such a machine? Howcan these problems be overcome bya stored-program machine?
+III
+2.57 (5] <§2.1 9> In More Depth: The IBM/Motorola versus MIPS in C
+II
+2.58 (IS) <§2.1 9> In More Depth: The IBM/Motorola versus MIPS in C
+II
+2.59 (IS) <§2.1 9> In More Depth: Logical Instructions

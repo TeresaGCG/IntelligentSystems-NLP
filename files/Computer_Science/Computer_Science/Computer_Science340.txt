@@ -1,0 +1,43 @@
+324 Chapter 5 The Processor: Datapath and Control
+Actions of the l·blt control signals
+Signal name Effect when deasserted Effect when asserted
+RegDst The register file destination number for the Write The register file destination number for the Write register comes from the
+register comes from the It field. rd field.
+Regwrite None. The general.purpose register seleded by the Write register number is
+written with the value of the Write data input.
+ALUSrcA The first ALU operand is the PC. The first ALU operand comes from the A register.
+MemRead None. Content of memory at the location specified by the Address input is put
+on Memory data output.
+MemWrite None. Memory contents at the location specified by the Address input is
+replaced by value on Write data input.
+MemtoReg The value fed to the register file Write data input The value fed to the register file Write data input comes from the MDR.
+comes from ALUOut.
+lorD The PC is used to supply the address to the ALUOut is used to supply the address to the memory unit.
+memory unit.
+IRWrite None. The output of the memory is written into the IR.
+PCWrite None. The PC is written; the source is controlled by PCSource.
+PCWriteCond None. The PC is written if the Zero output from the ALU is also active.
+Actions of the 2·blt control signals
+Signal name Value (binary) Effect
+ALUOp 00 The ALU perfonns an add operation.
+01 The ALU perfonns a subtract operation.
+10 The funct field of the instruction determines the ALU operation.
+ALUSrcB 00 The second input to the ALU comes from the B register.
+01 The second input to the ALU is the constant 4.
+10 The second input to the ALU is the sign.extended, lower 16 bits of the IR.
+11 The second input to the ALU is the sign.extended, lower 16 bits of the IR shifted left
+2 bits.
+PCSource 00 Output of the ALU (PC + 4) is sent to the PC for writing.
+01 The contents of ALUOut (the branch target address) are sent to the PC for writing.
+10 The jump target address (IR[25:0) shifted left 2 bits and concatenated with
++
+PC 4[31:28]) is sent to the PC for writing.
+FIGURE 5.29 The action caused by the setting of each control signal In Figure 5.28 on page 323. The top table describes the I-bit
+control signals, while thebottom table describes the l-bit signals. Only thosecontrol lines that affect multiplexors h.we an action when theyaredeasserted.
+This information is similar to that in Figure 5.16 on page 306 for the single-cycle datap.1th, but adds several new control lines (IRWrite, PCWrite,
+PCWriteCond,ALUSrcB, and PCSource) and removes control linesthat are no longer used or have been repbced (PCSrc, Branch, and Jump).
+ALU, a designer can use a shared bus and then ensure that only one of the sources is
+driving the bus at any point. Although this saves signal lines, the same number of con 
+trol lines will be needed to control what goes on the bus. The major drawback to using
+such bus structures is a potential performance penalty, since a bus is unlikely to be as
+fast as a point-to-point connection.

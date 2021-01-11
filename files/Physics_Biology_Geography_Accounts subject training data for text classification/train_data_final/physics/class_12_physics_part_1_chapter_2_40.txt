@@ -1,0 +1,66 @@
+Electrostatic Potential
+and Capacitance
+
+ 
+
+(e) We know that electric field is discontinuous across the surface
+of a charged conductor. Is electric potential also discontinuous
+there?
+
+(f) What meaning would you give to the capacitance of a single
+conductor?
+
+(g) Guess a possible reason why water has a much greater
+dielectric constant (= 80) than say, mica (= 6).
+
+2.32 A cylindrical capacitor has two co-axial cylinders of length 15 cm
+and radii 1.5 cm and 1.4 cm. The outer cylinder is earthed and the
+inner cylinder is given a charge of 3.5 “C. Determine the capacitance
+of the system and the potential of the inner cylinder. Neglect end
+effects (i.e., bending of field lines at the ends).
+
+2.33 A parallel plate capacitor is to be designed with a voltage rating
+1 kV, using a material of dielectric constant 3 and dielectric strength
+about 107 Vm’l. (Dielectric strength is the maximum electric field a
+material can tolerate without breakdown, i.e., without starting to
+conduct electricity through partial ionisation.) For safety, we should
+like the field never to exceed, say 10% of the dielectric strength.
+What minimum area of the plates is required to have a capacitance
+of 50 pF?
+
+2.34 Describe schematically the equipotential surfaces corresponding to
+(a) a constant electric field in the z-direction,
+
+(b) a field that uniformly increases in magnitude but remains in a
+constant (say, 2) direction,
+
+(c) a single positive charge at the origin, and
+
+(d) a uniform grid consisting of long equally spaced parallel charged
+wires in a plane.
+
+2.35 A small sphere of radius r1 and charge q1 is enclosed by a spherical
+shell of radius r2 and charge qZ. Show that if q1 is positive, charge
+will necessarily ﬂow from the sphere to the shell (when the two are
+connected by a wire) no matter what the charge q2 on the shell is.
+
+2.36 Answer the following:
+
+(a) The top of the atmosphere is at about 400 kV with respect to
+the surface of the earth, corresponding to an electric field that
+decreases with altitude. Near the surface of the earth, the field
+is about 100 Vm’l. Why then do we not get an electric shock as
+we step out of our house into the open? (Assume the house to
+be a steel cage so there is no field inside!)
+
+(b) A man fixes outside his house one evening a two metre high
+insulating slab carrying on its top a large aluminium sheet of
+area 1m2. Will he get an electric shock if he touches the metal
+sheet next morning?
+
+(0) The discharging current in the atmosphere due to the small
+conductivity of air is known to be 1800 A on an average over
+
+91
+
+2019-20

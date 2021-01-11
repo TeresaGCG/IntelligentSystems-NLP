@@ -1,0 +1,44 @@
+548 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Characteristic Intel Pentium P4 AMDOpteron
+Ll cache organization Split instruction and data caches Split instruction and data caches
+Ll cache size 8 KB for data, 96 KB trace cache for 64 KB each for instructions/ data
+RiSe instructions (12K RISC operations)
+Ll cache associativity 4.way set associative 2·way set associative
+Ll replacement Approximated LRU replacement LRU replacement
+Ll block size 64 bytes 64 bytes
+Ll write policy Write.through Write-back
+L2 cache organization Unified (instruction and data) Unified (instruction and data)
+L2 cache size 512 KB 1024 KB (1 MB)
+L2 cache associativity Sway set associative 16.way set associative
+L2 replacement Approximated LRU replacement Approximated LRU replacement
+L2 block size 128 bytes 64 bytes
+L2 write policy Write.tlack Write-back
+FIGURE 7.35 First-level and second-level caches In the Intel Pentium P4 and AMD
+Opteron. The primary caches in the P4 are physically indexed and tagged; for a discussion of the alterna 
+tives,see the Elaboration on page 527.
+requested word fi rst on a miss, as described in the Elaboration on page 490. Both
+allow the processor to continue to execute instructions that access the data cache
+nonblocking (;ache A cache during a cache miss. This technique, called a nonblocking cache, is commonly
+that allows the processor to used as designers attempt to hide the cache miss latency by using out-of-order pro 
+make references to the cache
+cessors. They implement two flavors of nonblocking. Hit under miss allows addi 
+while the cache is handling an
+tional cache hits during a miss, while miss IInder miss allows multiple outstanding
+earlier miss.
+cache misses. The aim of the first of these two is hiding some miss latency with
+other work, while the aim of the second is overlapping the latency of two different
+misses.
+Overlapping a large fraction of miss times for multiple outstanding misses
+requires a high-bandwidth memory system capable of handling multiple misses in
+parallel. In desktop systems, the memory may only be able to take limited advan 
+tage of this capability, but large servers and multiprocessors often have memory
+systems capable of handling more than one outstanding miss in parallel.
+Both microprocessors prefetch instructions and have a built-in hardware
+prefetdl mechanism for data accesses. They look at a pattern of data misses and use
+this information to try to predict the next address to start fetching the data before
+the miss occurs. SUdl techniques generally work best when accessing arrays in loops.
+A significant challenge facing cadle designers is to support processors like the P4
+and Opteron that can execute more than one memory instruction per dock cyde.
+Multiple requests can be supported in the fi rst-level cache by two different tech 
+niques. The cadle can be multiported, allowing more than one simultaneous access
+to the same cache block. Multiported caches, however, are often too expensive, since

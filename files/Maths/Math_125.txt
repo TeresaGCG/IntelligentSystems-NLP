@@ -1,0 +1,20 @@
+Ratios, Proportions, and Percents
+125
+The other way to solve this proportion is to cross-multiply, and
+then solve for the variable.
+It may look as if the techniques used in Chapter 6 give the answer
+more quickly, but there are advantages to the cross-multiplication tech-
+nique, especially when our proportion is not a linear equation, as we will
+see in the next example.
+Example 2
+Solve the proportion:
+Solution: This proportion is not a linear equation, because the
+variable is in the denominator. The power that the variable is
+raised is therefore −1 (because it is in the denominator; remember
+your rules for exponents: To move things from the denominator
+into the numerator you must change the sign of the exponent).
+Because this is not a linear equation, we will want to cross-multiply.
+Once we do that, we will have a linear equation that we can solve
+for x.
+Cross-multiply 21 = 10x
+Interchange the two sides 10x= 21

@@ -1,0 +1,47 @@
+7.4 Virtual Memory 533
+Of course, this last step will take millions of processor clock cycles (so will the sec 
+ond if the replaced page is dirty); accordingly, the operating system will usually
+select another process to execute in the processor until the disk access completes.
+Because the operating system has saved the state of the process, it can freely give
+control of the processor to another process.
+\-¥hen the read of the page from disk is complete, the operating system can
+restore the state of the process that originally caused the page fault and execute the
+instruction that returns from the exception. This instruction will reset the proces 
+sor from kernel to user mode, as well as restore the program counter. The user
+process then reexecutes the instruction that faulted, accesses the requested page
+successfully, and continues execution.
+Page fault exceptions for data accesses are difficult to implement properly in a
+processor because of a combination of three characteristics:
+I. They occur in the middle of instructions, unlike instruction page faults.
+2. The instruction cannot be completed before handling the exception.
+3. After handling the exception, the instruction must be restarted as if nothing
+had occurred.
+Making instructions restartable, so that the exception can be handled and the restartable instruction An
+instruction that can resume exe 
+instruction later continued, is relatively easy in an architecture like the MIPS.
+cution after an exception is
+Because each instruction writes only one data item and this write occurs at the
+resolved without the exception's
+end of the instruction cycle, we can simply prevent the instruction from complet 
+affecting the result ofthe
+ing (by not writing) and restart the instruction at the beginning.
+instruction.
+For processors with much more complex instructions that may touch many
+memory locations and write many data items, making instructions restartable is
+much harder. Processing one instruction may generate a number of page faults
+in the middle of the instruction. For exa mple, some processors have block move
+instructions that touch thousa nds of data words. In such processors, instruc 
+tions often cannot be restarted from the beginning, as we do for MIPS instruc 
+tions. Instead, the instruction must be interrupted and later continued
+midstream in its execution. Resuming an instruction in the middle of its execu 
+tion usually requires saving some special state, processing the exception, and
+restoring that special state. Making this work properly requires ca reful and
+detailed coordination between the exception-handling code in the operating
+system and the hardware.
+Let's look in more detail at MIPS. When a TLB miss occurs, the MIPS hardware
+saves the page number of the reference in a special register called Bild VAdd rand
+generates an exception.
+The exception invokes the operating system, which handles the miss in software.
+handler Name ofa software
+Control is transferred to address 8000 Ooo~ex' the location of the TLB miss han  routine invoked to "handle" an
+dIer. To find the physical address for the missing page, the TLB miss routine indexes exception or interrupt.

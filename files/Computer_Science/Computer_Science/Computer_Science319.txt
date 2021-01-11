@@ -1,0 +1,45 @@
+S.4 A Simple Implementation Scheme 303
+8
+on these two input fields. Since the full truth table is very large (2 = 256 entries)
+and we don't care about the value of the ALU control for many of these input
+combinations, we show only the truth table entries for which the ALU control
+must have a specific value. Throughout this chapter, we will use this practice of
+showing only the truth table entries that must be asserted and not showing those
+that are all zero or don't care. (This practice has a disadvantage, which we discuss
+in Section C2 of Appendix C)
+Because in many instances we do not care about the values of some of the
+inputs and to keep the tables compact, we also include don't-care terms. A don't  don't-care term An element of
+care term in this truth table (represented by an X in an input column) indicates a logical function in which the
+output does not depend on the
+that the output does not depend on the value of the input corresponding to that
+values ofall the inputs. Don't 
+column. For example, when the ALUOp bits are 00, as in the first line of the table
+care terms may be specified in
+in Figure 5. 13, we always set the ALU control to 010, independent of the function
+different ways.
+code. In this case, then, the function code inputs will be don't cares in this line of
+the truth table. Later, we will see examples of another type of don't-care term. If
+you are unfamiliar with the concept of don't-care terms, see Appendix B for more
+infonnation.
+Once the truth table has been constructed, it can be optimized and then turned
+into gates. This process is completely mechanical. Thus, rather than show the final
+steps here, we describe the process and the result in Section C2 of Appendix C
+Designing the Main Control Unit
+Now that we have described how to design an ALU that uses the function code
+and a 2-bit signal as its control inputs, we can return to looking at the rest of the
+control. To start this process, let's identify the fields of an instruction and the con 
+trollines that are needed for the datapath we constructed in Figure 5. 11 on page
+300. To understand how to connect the fields of an instruction to the datapath, it
+is useful to review the formats of the three instruction classes: the R-type, branch,
+and load/store instructions. Figure 5. 14 shows these formats.
+There are several major observations about this instruction format that we will
+rely on:
+• The op field , also called the opcade, is always contained in bits 3 1:26. We opcode The field that denotes
+will refer to this field as Op[5:0]. the operation and format ofan
+instruction.
+• The two registers to be read are always specified by the rs and fields, at
+rt
+positions 25:2 1 and 20: 16. This is true for the R-type instructions, branch
+equal, and for store.
+• The base register for load and store instructions is always in bit positions
+25:21 (rs).

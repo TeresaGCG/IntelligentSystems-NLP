@@ -1,0 +1,23 @@
+Homework Helpers: Basic Math and Pre-Algebra
+226
+Solution: The area of a right triangle is one-half the product of
+the lengths of the two legs. We know that the hypotenuse is 6
+centimeters, so the length of the shorter side is 3 centimeters,
+and the length of the longer leg is   centimeters.
+This is roughly 7.79 cm2.
+Example 3
+Scott charges $2.10 per square foot to tile a room. How much will
+I have to pay Scott to tile my 12-foot-by-10-foot rectangular dining
+room?
+Solution: The area of the rectangular dining room is 12 × 10, or
+120 ft2. Let x represent the amount that Scott will charge to tile
+the dining room. Scott charges 2.10 per ft2, so we can set up a
+proportion:
+We can cross-multiply and solve for x:
+Scott will charge $252 to tile the dining room.
+Example 4
+Dan needs to replace the siding on the front of his house. In
+order to calculate how much siding he needs, he drew the
+schematic diagram shown in Figure 12.1. Based on this diagram,
+how much siding will Dan need?
+www.ebook3000.com

@@ -1,0 +1,147 @@
+PHYSICS
+
+ 
+
+ 
+
+Fig. 15.10 The resultant of two hamonic waves of
+equal amplitude and wavelength
+according to the principle of superposition.
+The amplitude of the resultant wave
+depends on the phase difference (1), which
+is zero for (a) and 71: for (b)
+
+waves are completely, out of phase and the
+resultant wave has zero displacement
+everywhere at all times
+
+y (x, t) = 0 (15.34)
+Eq. (15.33) refers to the so-called constructive
+interference of the two waves
+where the amplitudes add up in
+the resultant wave. Eq. (15.34)
+
+intereference where the
+amplitudes subtract out in the
+resultant wave. Fig. 15.10
+shows these two cases of
+interference of waves arising
+from the principle of
+superposition.
+
+15.6 REFLECTION OF
+WAVES
+
+So far we considered waves
+propagating in an unbounded
+medium. What happens if a
+pulse or a wave meets a
+
+: "
+is the case of destructive “mm
+
+   
+
+   
+
+reﬂected. The phenomenon of echo is an example
+of reﬂection by a rigid boundary. If the boundary
+is not completely rigid or is an interface between
+two different elastic media, the situation is some
+what complicated. A part of the incident wave is
+reﬂected and a part is transmitted into the
+second medium. If a wave is incident obliquely
+on the boundary between two different media
+the transmitted wave is called the refracted
+wave. The incident and refracted waves obey
+Snell’s law of refraction, and the incident and
+reflected waves obey the usual laws of
+reﬂection.
+
+Fig. 15.1 1 shows a pulse travelling along a
+stretched string and being reﬂected by the
+boundary. Assuming there is no absorption of
+energy by the boundary, the reﬂected wave has
+the same shape as the incident pulse but it
+suffers a phase change of 7c or 1800 on reﬂection.
+This is because the boundary is rigid and the
+disturbance must have zero displacement at all
+times at the boundary. By the principle of
+superposition, this is possible only if the reﬂected
+and incident waves differ by a phase of 7:, so that
+the resultant displacement is zero. This
+reasoning is based on boundary condition on a
+rigid wall. We can arrive at the same conclusion
+dynamically also. As the pulse arrives at the wall,
+it exerts a force on the wall. By Newton’s Third
+Law, the wall exerts an equal and opposite force
+on the string generating a reﬂected pulse that
+differs by a phase of 7c.
+
+..‘\\\“ ..
+
+—>
+
+O
+.l\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+n\\\\\\\‘
+
+u'
+v
+v
+v
+I
+v
+v
+v
+v
+I
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+!
+v
+v
+v
+v
+f
+5
+g
+M“\\\‘
+
+.“‘.
+,- W. —> a
+l
+I
+I.
+\
+
+:.“ I. .h. a
+
+l O
+A‘““““““““““““““““‘“““““V‘ .K“‘\“- a
+I
+I
+Q
+:
+7II.'lI.I'll'l'l'lIIII'I'I'I'll'lllllllll'l'l" ‘rllllll- §
+
+I O
+‘ > O \
+"4.11! “ h
+
+boundary? If the boundary is
+
+rigid, the pulse or wave gets Fig. 15,1
+
+2019-20
+
+1 Reﬂection of a pulse meeting a rigid boundary.

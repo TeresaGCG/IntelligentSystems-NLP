@@ -1,0 +1,49 @@
+594
+Chapter 8
+(hundreds to thousands of bytes). Thus, computer designers invented a mecha 
+nism for offioading the processor and having the device controller transfer data
+directly to or from the memory without involving the processor. This mechanism
+direct memory access (DMA) is called direct memory access (OMA). The interrupt mechanism is still used by
+A mechanism that provides a
+the device to communicate with the processor, but only on completion of the I/O
+device controller the ability to
+transfer or when an error occurs.
+transfer data directly to or from
+DMA is implemented with a specialized controller that transfers data between
+the memory without involving
+an I/O device and memory independent of the processor. The DMA controller
+the processor.
+becomes the bus master and directs the reads or writes between itself and mem 
+bus master A unit on the bus
+ory. There are three steps in a DMA transfer:
+that can initiate bus requests.
+I. The processor sets up the DMA by supplying the identity of the device, the
+operation to perform on the device, the memory address that is the source
+or destill3tion of the data to be transferred, and the number of bytes to
+transfer.
+2. The DMA starts the operation on the device and arbitrates for the bus.
+When the data is available (from the device or memory), it transfers the
+data. The DMA device supplies the memory address for the read or the
+write. If the request requires more than one transfer on the bus, the DMA
+unit generates the next memory address and initiates the next transfer.
+Using this mechanism, a DMA unit can complete an entire transfer, which
+may be thousands of bytes in length, without bothering the processor.
+Many DMA controllers contain some memory to allow them to deal flexi 
+bly with delays either in transfer or those incurred while waiting to become
+bus master.
+3. Once the DMA transfer is complete, the controller interrupts the processor,
+which can then determine by interrogating the DMA device or examining
+memory whether the entire operation completed successfully.
+There may be multiple DMA devices in a computer system. For example, in a
+system with a single processor-memory bus and multiple I/O buses, each I/O bus
+controller will often contain a DMA processor that handles any transfers between
+a device on the I/O bus and the memory.
+Unlike either polling or interrupt-driven I/O, DMA can be used to interface a
+hard disk without consuming all the processor cycles for a single I/O. Of course, if
+the processor is also contending for memory, it will be delayed when the memory
+is busy doing a DMA transfer. By using caches, the processor can avoid having to
+access memory most of the time, thereby leaving most of the memory bandwidth
+free for use by I/O devices.
+Elaboration: To further reduce the need to interrupt the processor and occupy it in
+handling an I/O request that may involve doing several actual operations. the I/O con 
+troller can be made more intelligent. Intelligent controllers are often called I/O proces-

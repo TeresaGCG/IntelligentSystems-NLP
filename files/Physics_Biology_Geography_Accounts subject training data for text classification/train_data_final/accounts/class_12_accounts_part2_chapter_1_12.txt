@@ -1,0 +1,48 @@
+Accounting for Share Capital 1 3
+
+Share Application A/c
+To Bank A/c
+(Application money on 1,000 shares returned]
+
+Share Alloﬁnent A/c . 4.80.000
+
+To Share Capital A/c 4.80.000
+(Money due on allotment of 12,000
+shares @ Rs. 40 per share)
+Bank A/c Dr. 4.80.000
+
+To Share Allotment A/c 4.80.000
+(Money received on 12.000 shares @ Rs. 40 per
+share on allotment)
+
+Share First Call A/c . 2.40.000
+To Share Capital A/c 2.40.000
+
+(Money due on 12,000 shares @ Rs. 20 per
+share on ﬁrst Call)
+
+Bank A/c Dr. 2.38.000
+To Share First Call A/c 2.38.000
+(First Call money received except for 100 shares)
+
+Share Second and Final Call A/c . 1.20.000
+To Share Capital A/c 1.20.000
+(Money due on 12,000 shares @ Rs. 10 per
+share on Second and ﬁnal Call )
+Bank A/c .
+To Share Second and Final Call A/c 1.19.000
+
+(Second and ﬁnal call money received
+except for 100 shares)
+
+ 
+
+Illustration 2
+
+Eastern Company Limited issued 40,000 shares of Rs. 10 each to the public for
+the subscription out of its share capital, payable as Rs. 4 on application,
+Rs. 3 on allotment and the balance on Ist and ﬁnal call. Applications were received
+for 40,000 shares. The company made the allotment to the applicants in full. All
+the amounts due on allotment and first and final call were duly received.
+
+Give the journal entries in the books of the company.

@@ -1,0 +1,69 @@
+4O
+
+ 
+
+ 
+
+i Physics
+
+EXAMPLE 1.13
+
+ 
+
+The ﬂux through the Gaussian surface, calculated as before, is
+
+E X 4 TE r2. However, in this case, the Gaussian surface encloses no
+
+charge. Gauss’s law then gives
+
+E x 4 a: r2 = 0
+
+i.e., E=O (r<R) (1.35)
+that is, the ﬁeld due to a uniformly charged thin shell is zero at all points
+inside the shell*. This important result is a direct consequence of Gauss’s
+law which follows from Coulomb’s law. The experimental veriﬁcation of
+this result confirms the l / r2 dependence in Coulomb’s law.
+
+Example 1.13 An early model for an atom considered it to have a
+positively charged point nucleus of charge Ze, surrounded by a
+uniform density of negative charge up to a radius R. The atom as a
+whole is neutral. For this model, what is the electric field at a distance
+r from the nucleus?
+
+ 
+
+FIGURE 1 .32
+
+Solution The charge distribution for this model of the atom is as
+shown in Fig. 1.32. The total negative charge in the uniform spherical
+charge distribution of radius R must be —Z e, since the atom (nucleus
+of charge Z 6 + negative charge) is neutral. This immediately gives us
+the negative charge density p, since we must have
+
+ 
+
+ 
+
+3
+41tR p=O-Ze
+__ 3Ze
+or ’0 41cR3
+
+To find the electric field E(r) at a point P which is a distance r away
+from the nucleus, we use Gauss’s law. Because of the spherical
+symmetry of the charge distribution, the magnitude of the electric
+field E(r) depends only on the radial distance, no matter what the
+direction of r. Its direction is along (or opposite to) the radius vector 1'
+from the origin to the point P. The obvious Gaussian surface is a
+spherical surface centred at the nucleus. We consider two situations,
+namely, r < R and r > R.
+
+(i) r < R : The electric ﬂux g1) enclosed by the spherical surface is
+
+4) = E (r) X 4 n r2
+where E (r) is the magnitude of the electric field at r. This is because
+
+* Compare this with a uniform mass shell discussed in Section 8.5 of Class XI
+Textbook of Physics.
+
+2019-20

@@ -1,0 +1,44 @@
+3.6 Floating Point 213
+of these registers. The odd-numbered floating-point registers were used only to load
+and store the right half of 64-bit floating-point numbers. MIPS-32 added 1•d and s. d to
+the instruction set. MIP&32 also added "paired single" versions of all floating-point
+instructions, where a single instruction results in two parallel floating-point operations
+on two 32-bit operands inside 64-bit registers. For example, add. ps Fa, F2, F4 is equiv 
+alenttoadd.s FO,F2,F4 followedbyadd.s Fl,F3,F5 .
+Another reason for separate integers and floating-point registers is that microproces 
+sors in the 1980s didn't have enough transistors to put the floating-point unit on the
+same chip as the integer unit. Hence the floating-point unit, including the floating-point
+registers, were optionally available as a second chip. Such optional accelerator chips
+are called coprocessors, and explain the acronym for floating-point loads in MIPS:
+1weI
+means load word to coprocessor 1, the floating-point unit. (Coprocessor 0 deals
+with virtual memory, described in Chapter 7.) Since the early 1990s, microprocessors
+have integrated floating point (and just about everything else) on chip, and hence the
+term "coprocessor" joins "accumulator" and "core memory" as quaint terms that date
+the speaker.
+Elaboration: Although there are many ways to throw hardware at floating-point multi 
+ply to make it go fast, floating-point division is considerably more challenging to make
+fast and accurate. Slow divides in early computers led to removal of divides from many
+algorithms, but parallel computers have inspired rediscovery of divide-intensive algo 
+rithms that work better on these computers. Hence, we may need faster divides.
+One technique to leverage a fast multiplier is Newton's iteration, where division is
+1!x,
+recast as finding the zero of a function to find the reciprocal which is then multi 
+plied by the other operand. Iteration techniques cannot be rounded properly without cal 
+culating many extra bits. A Tl chip solves this problem by calculating an extra-precise
+reciprocal.
+Elaboration: Java embraces IEEE 754 by name in its definition of Java floating-point
+data types and operations. Thus, the code in the first example could have well been
+generated for a class method that converted Fahrenheit to Celsius.
+The second example uses multiple dimensional arrays, which are not explicitly sup 
+ported in Java. Java allows arrays of arrays, but each array may have its own length,
+unlike multiple dimensional arrays in C. Like the examples in Chapter 2, a Java version
+of this second example would require a good deal of checking code for array bounds,
+including a new length calculation at the end of row. It would also need to check that
+the object reference is not null.
+Accurate Arithmetic
+Unlike integers, which can represent exactly every number between the smallest
+and largest number, floating-point numbers are normally approximations for a
+number they can't really represent. The reason is that an infinite variety of real
+53
+numbers exists between, say, 0 and I, but no more than 2 can be represented

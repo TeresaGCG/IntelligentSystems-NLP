@@ -1,0 +1,44 @@
+7.6 Real Stuff: The Pentium P4 and the AMD Opteron Memory Hierarchies 547
+The Memory Hierarchies of the P4 and Opteron
+Figure 7.34 summarizes the address sizes and TLBs of the two processors.
+Note that the AMD Opteron has four TLBs while the P4 has two and that the
+virtual and physical addresses do not have to match the word size. AMD imple 
+ments only 48 of the potential 64 bits of its virtual space and 40 of the potential 64
+bits of its physical address space. Intel increases the physical address space to 36 
+bits, although no single program can address more than 32 bits.
+Figure 7.35 shows their caches. Note that both the L1 data cache and the L2
+caches are larger in the Opteron and that P4 uses a larger block size for its L2
+cache than its L1 data cache.
+Although the Opteron runs the same IA-32 programs as the Pentium P4, its
+biggest difference is that it has added a 64-bit addressing mode. Just as the 80386
+added a flat 32-bit address space and 32-bit registers to the prior 16-bit 80286
+architecture, Opteron adds a new mode with flat 64-bit address space and 64-bit
+registers to the IA-32 architecture, called AMD64. It increases the program
+counter to 64 bits, extends eight 32-bit registers to 64 bits, adds eight new 64-bit
+registers, and doubles the number of SSE2 registers. In 2004 Intel announced that
+future IA-32 processors will include their 64-bit address extension.
+Techniques to Reduce Miss Penalties
+Both the Pentium 4 and the AMD Opteron have additional optimizations that
+allow them to reduce the miss penalty. The first of these is the return of the
+Characteristic Intel Pentium P4 AMD Opteron
+Virtual address 32 bits 48 bits
+Physical address 36 bits 40 bits
+Page size 4 KB, 2/4 MB 4 KB, 2/4 MB
+TLB organization 1 TLB for instructions and 1 TLB for 2 TLBs for instructions and 2 TLBs for data
+do",
+Both L1 TLBs fully associative, LRU
+Both are four·way set associative replacement
+Both use pseudo.t.RU replacement Both L2 TLBs are four.way set associativity,
+round-robin LRU
+Both have 128 entries
+Both L1 TLBs have 40 entries
+TLB misses handled in hardware
+Both L2 TLBs have 512 entries
+TLB misses handled in hardware
+FtGURE 7.34 Address translation and TLB hardware for the Intel Pentium P4 and AMD
+Opteron. The word size sets the maximum size of the virtual address, but a processor need not use all bits.
+The physical address size is independem of m>rd size. The P4 has one TLB for instructions and a separate
+identical TLB for data, while the Opteron has both an L1 TLB and an L2 TLB for instructions and identical
+LI and L2 TLBs for data. Both processors provide support for large pages, which are used for things like the
+operating system or mapping a frame buffer.The large-page scheme avoids using a large mUlIber of entries
+to map a single object that is always present.

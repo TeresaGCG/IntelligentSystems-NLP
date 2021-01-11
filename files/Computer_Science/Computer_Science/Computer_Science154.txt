@@ -1,0 +1,39 @@
+138
+Chapter 2 Instructions: Language of the Computer
+Source/ destination operand type Second source operand
+Register Register
+Register Immediate
+Register Memory
+Memory Register
+Memory Immediate
+FIGURE 2.41 Instruction types for the arithmetic, logical, and data transfer Instructions.
+The IA-J2 allows the combinations shown.The only restriction is the absence ofa memory-memory mode.
+Immediates may be 8, 16, or 32 bits in length; a register is anyone of the 14 major registers in Figure 2.40
+(not EIP or EFLAGS).
+prefixing an E to their name to indicate the 32-bit version. We'll refer to them
+generically as GPRs (general-purpose registers). The 80386 contains only eight
+GPRs. This means MIPS programs can use four times as many.
+The arithmetic, logical, and data transfer instructions are two-operand instruc 
+tions that allow the combinations shown in Figure 2.41. There are two important
+differences here. The IA-32 arithmetic and logical instructions must have one
+operand act as both a source and a destination; MIPS allows separate registers for
+source and destination. This restriction puts more pressure on the limited regis 
+ters, since one source register must be modified. The second important difference
+is that one of the operands can be in memory. Thus virtually any instruction may
+have one operand in memory, unlike MIPS and PowerPC.
+The seven data memory-addressing modes, described in detail below, offer two
+sizes of addresses within the instruction. These so-called displacements ca n be 8
+bits or 32 bits.
+Although a memory operand can use any addressing mode, there are restric 
+tions on which registers can be used in a mode. Figure 2.42 shows the IA-32
+addressing modes and which GPRs cannot be used with that mode, plus how you
+would get the same effect using MIPS instructions.
+IA·32 Integer Operations
+The 8086 provides support for both 8-bit (byte) and 16-bit (word) data types. The
+80386 adds 32-bit addresses and data (dol/ble words) in the IA-32. The data type
+distinctions apply to register operations as well as memory accesses. Almost every
+operation works on both 8-bit data and on one longer data size. That size is deter 
+mined by the mode and is either 16 bits or 32 bits.
+Clea rly some programs want to operate on data of all three sizes, so the 80386
+architects provide a convenient way to specify each version without expanding
+code size significantly. They decided that either 16-bit or 32-bit data dominates

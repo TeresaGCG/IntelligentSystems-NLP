@@ -1,0 +1,44 @@
+4.2 CPU Performance and Its Factors 247
+needed for a program and the length of each cycle. Many techniques that decrease
+the number of clock cycles also increase the clock cycle time.
+Improving Performance
+Our favorite program runs in 10 seconds on computer A, which has a 4 GHz EXAMPLE
+clock. We are trying to help a computer designer build a computer, B, that
+will run this program in 6 seconds. The designer has determined that a sub 
+stantial increase in the clock rate is possible, but this increase will affect the
+rest of the CPU design, causing computer B to require 1.2 times as many
+clock cycles as computer A for this program. \-¥hat clock rate should we tell
+the designer to target?
+Let's first find the number of clock cycles required for the program on A: ANSWER
+CPU clock cycles
+A
+CPU time =
+A Clock rate
+A
+CPU clock cycles
+A
+10 seconds =
+4 X 109 cycles
+second
+,
+109 cycles
+CPU clock cycles = 10 seconds X4 X 40 X 10 cycles
+A
+second
+CPU time for B can be found using this equation:
+1.2 X CPU clock cycles
+A
+Clock rate
+B
+,
+1.2 X 40 X 10 cycles
+6 seconds
+Clock rate
+B
+, ,
+1.2 X40 X 10 9'cles = 8 X 10 cycles = 8 GHz
+Clock rate =
+B
+6 seconds second
+computer B must therefore have twice the clock rate of A to run the program
+in 6 seconds.

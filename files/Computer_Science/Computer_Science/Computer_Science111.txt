@@ -1,0 +1,30 @@
+95
+2.9 MIPS Addressing for 32·111t Immedlates and Addresses
+Which of the following statements about characters and strings in C and lava are Check
+true? Yourself
+1. A string in C takes about half the memory as the same string in lava.
+2. Strings are just an informal name for single-dimension arrays of characters
+in C and lava.
+3. Strings in C and lava use null (0) to mark the end of a string.
+4. Operations on strings, like length, are faster in C than in lava.
+MIPS Addressing for 32·Bit 1mmediates
+and Addresses
+Although keeping all MIPS instructions 32 bits long simplifies the hardware, there
+are times where it would be convenient to have a 32-bit constant or 32-bit address.
+This section starts with the general solution for large constants, and then shows
+the optimizations for instruction addresses used in branches and jumps.
+32·Bit Immediate Operands
+Although constants are frequently short and fit into the 16-bit field , sometimes
+they are bigger. The MIPS instruction set includes the instruction load IIpper
+immediate (1 ui) specifically to set the upper 16 bits of a constant in a register,
+allowing a subsequent instruction to specify the lower 16 bits of the constant. Fig 
+ure 2.23 shows the operation of 1ui .
+The machine language version of lui StO. 255 1/ StO is regi ster 8:
+001 111 00000 01000 0000 0000 1111 1111
+1 1 1 1
+ao
+Contents of register after executing 1Lli StO. 255:'----"--------C--M-i-;;-;C-W--"-"-W"";;;;;CO----
+00000000 111 1 1111 00_°_°_°_°_°_° _°_00_°_°_°_°_° _
+1 1
+FIGURE 2.23 The effect of the 1ui Instruction. The instruction 1ui transfers the 16-bit immediate con 
+stant tield value into the leftmost 16 bits ofthe register,titling the lower 16bits with Os.

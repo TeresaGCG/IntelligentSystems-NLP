@@ -1,0 +1,116 @@
+76 PHYSICS
+' = :9
+=vot+lat2 Given x(t) 84 m,t .
+2 5.0t+1.5t2=84=>t=6s
+1 2 Att=6s, y=l.0(6)2=36.0m
+Or, r=r0+vot+§at (4.34a) d
+r
+
+It can be easily verified that the derivative of
+
+d
+Eq. (4.34a), i.e. d—lf gives Eq.(4.33a) and it also
+
+satisfies the condition that at t=0, r = r0.
+Equation (4.34a) can be written in component
+form as
+
+l
+x = x0 + voxt + Eaxt2
+
+l
+y 2 yo + voyt + ant2
+
+(4.34b)
+One immediate interpretation of Eq.(4.34b) is that
+the motions in x- and ydirections can be treated
+independently of each other. That is, motion in
+a plane (two-dimensions) can be treated as two
+separate simultaneous one-dimensional
+motions with constant acceleration along two
+perpendicular directions. This is an important
+result and is useful in analysing motion of objects
+in two dimensions. A similar result holds for three
+dimensions. The choice of perpendicular
+directions is convenient in many physical
+situations, as we shall see in section 4.10 for
+projectile motion.
+
+’ Example 4.5 A particle starts from origin
+at t = O with a velocity 5.0 i m/s and moves
+in x—y plane under action of a force which
+produces a constant acceleration of
+
+(3.0i+2.0j) m/sz. (a) What is the
+y-coordinate of the particle at the instant
+
+its x—coordinate is 84 m ‘? (b) What is the
+speed of the particle at this time ?
+
+ 
+
+Answer From Eq. (4.34a) for ro= O, the position
+of the particle is given by
+
+1
+r (t) = vot+§at2
+
+= 5.0it+(1/2)(3.0i+2.oj) t2
+= (5.0t+ 1.5t2)i+ 1.0th
+
+Therefore, x (t) = 5.0t + 1.5t2
+
+y(t)=+1.0t2
+
+2019-20
+
+Now, the velocity v = E = (5.0 + 3.0 t)i + 2.0t 3
+
+At t= 6 s. v = 23.0i+12.oj
+speed = |v| = V232 + 122 5 26 m sT1_ {
+
+4.9 REIATIVE VELOCITY IN TWO
+DIMENSIONS
+
+The concept of relative velocity, introduced in
+section 3.7 for motion along a straight line, can
+be easily extended to include motion in a plane
+or in three dimensions. Suppose that two objects
+A and B are moving with velocities vA and vB
+(each with respect to some common frame of
+reference, say ground.). Then, velocity of object
+A relative to that of B is :
+
+VAB= vA—vB (4.35a)
+
+and similarly, the velocity of object B relative to
+that ofA is :
+
+vBA = VB_ VA
+Therefore, vAB = — vBA (4.35b)
+and, MB] = vaA‘ (4.35c)
+
+ 
+
+b Example 4.6 Rain is falling vertically with
+a speed of 35 m 5‘1. A woman rides a bicycle
+with a speed of 12 m 5'1 in east to west
+direction. What is the direction in which
+she should hold her umbrella ‘?
+
+ 
+
+ 
+
+Answer In Fig. 4.16 vr represents the velocity
+of rain and vb , the velocity of the bicycle, the
+woman is riding. Both these velocities are with
+respect to the ground. Since the woman is riding
+a bicycle, the velocity of rain as experienced by
+
+ 
+
+Fig. 4.16
+
+her is the velocity of rain relative to the velocity
+of the bicycle she is riding. That is vrb = vr— vb

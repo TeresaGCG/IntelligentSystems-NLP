@@ -1,0 +1,26 @@
+Homework Helpers: Basic Math and Pre-Algebra
+80
+Notice that  . We can generalize this observation as fol-
+lows: If a is a positive number, then  . Remember that this rule
+only holds if a is a positive number.
+Simplifying a square root involves factoring the radicand and pulling
+out the “perfect squares.” Perfect squares are numbers whose square
+roots are integers. For example, because 32= 9 we write  . Because
+the square root of 9 is 3 (a whole number), we say that 9 is a perfect
+square. It’s easy to list the perfect squares by squaring the natural num-
+bers. The first 10 perfect squares are 1, 4, 9, 16, 25, 36, 49, 64, 81, and 100.
+To simplify a radical you need factor the radicand, look for perfect squares
+and make use of the rule that if a is positive, then  .
+Square roots have some very useful properties that are helpful in sim-
+plifying square roots. If a and b are positive numbers, then  .
+We can use this relationship to simplify square roots by pulling out the
+perfect squares: 
+Example 1
+Simplify:
+Solution: Because 81 is a perfect square (you can see it in the list:
+92 = 81) we can write:
+Example 2
+Simplify:
+Solution: Examine whether or not 50 has any perfect squares as
+factors. Because  50 = 25 ⋅ 2 we can write:
+www.ebook3000.com

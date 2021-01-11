@@ -1,0 +1,50 @@
+BIOLOGY
+
+The genes in a cell are expressed to perform a particular function or a
+set of functions. For example, if an enzyme called beta-galactosidase is
+synthesised by E. coli, it is used to catalyse the hydrolysis of a
+disaccharide, lactose into galactose and glucose; the bacteria use them
+as a source of energy. Hence, if the bacteria do not have lactose around
+them to be utilised for energy source, they would no longer require the
+synthesis of the enzyme beta-galactosidase. Therefore, in simple terms,
+it is the metabolic, physiological or environmental conditions that regulate
+the expression of genes. The development and differentiation of embryo
+into adult organisms are also a result of the coordinated regulation of
+expression of several sets of genes.
+
+In prokaryotes, control of the rate of transcriptional initiation is the
+predominant site for control of gene expression. In a transcription unit,
+the activity of RNA polymerase at a given promoter is in turn regulated
+by interaction with accessory proteins, which affect its ability to recognise
+start sites. These regulatory proteins can act both positively (activators)
+and negatively (repressors). The accessibility of promoter regions of
+prokaryotic DNA is in many cases regulated by the interaction of proteins
+with sequences termed operators. The operator region is adjacent to the
+promoter elements in most operons and in most cases the sequences of
+the operator bind a repressor protein. Each operon has its specific
+operator and speciﬁc repressor. For example, lac operator is present
+only in the lac operon and it interacts speciﬁcally with lac repressor only.
+
+6.8.1 The Lac operon
+
+The elucidation of the lac operon was also a result of a close association
+between a geneticist, Francois Jacob and a biochemist, J acque Monod. They
+were the first to elucidate a transcriptionally regulated system. In lac operon
+(here lac refers to lactose), a polycistronic structural gene is regulated by a
+common promoter and regulatory genes. Such arrangement is very common
+in bacteria and is referred to as operon. To name few such examples, lac
+operon, trp operon, ara operon, his operon, val operon, etc.
+
+The lac operon consists of one regulatory gene (the igene — here the
+term i does not refer to inducer, rather it is derived from the word inhibitor)
+and three structural genes (2, y, and a). The igene codes for the repressor
+of the lac operon. The z gene codes for beta-galactosidase (Ii-gal), which
+is primarily responsible for the hydrolysis of the disaccharide, lactose
+into its monomeric units, galactose and glucose. The y gene codes for
+permease, which increases permeability of the cell to ﬁ-galactosides. The
+a gene encodes a transacetylase. Hence, all the three gene products in
+lac operon are required for metabolism of lactose. In most other operons
+as well, the genes present in the operon are needed together to function
+in the same or related metabolic pathway (Figure 6.14).
+
+2019-2020

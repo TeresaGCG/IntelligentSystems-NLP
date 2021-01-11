@@ -1,0 +1,55 @@
+5 4 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Share AllotInent A/c . 1,50,000
+To Share Capital A/c
+To Securities Premium Reserve A/c
+
+(Money due on allotment @ Rs. 50 per share
+on 3,000 shares including Rs.20 on account
+of share premium)
+
+Bank A/c
+To Share Allotment A/c
+(Money received on share allotment)
+
+Share First Call A/c
+To Share Capital A/c
+(Money due on call on 3,000 shares @
+Rs.20 per share)
+Bank A/c
+To Share First Call A/c
+(First call money received on 2,440 shares)
+
+Share Second and Final Call A/c
+
+To Share Capital A/c
+(Money due on call on 3,000 shares @
+Rs.30 per share)
+Bank A/c
+
+To Share Second and Final Call A/c
+(Second and Final Call money received
+on 2,440 shares)
+Share Capital A/c
+Securities Premium Reserve A/c
+
+To Share Allotment A/c
+
+To Share First Call A/c
+
+To Share Second and Final A/c
+
+To Share Forfeiture A/c
+(Forfeiture of 560 shares)
+
+Bank A/c
+Shares Forfeiture A/c
+
+To Share Capital A/c
+(Reissue of 560 forfeited shares)
+
+Shares Forfeiture A/c
+To Capital Reserve
+
+(Proﬁt on reissue of 560 forfeited
+shares transferred to Capital reserve)

@@ -1,0 +1,40 @@
+2.13 A C Sort Example to Put It All Together 123
+adding it to the address. Forgetting that sequential word addresses differ by 4 instead
+afby 1 is a common mistake in assembly language programming. Hence the first step
+is to get the address of v[ k] by multiplying k by 4:
+sl1 $tl, $a1,2 # reg $t1 k * 4
+=
+add $tl, $aO,$t1 # reg $t1 v + (k * 4)
+=
+# reg $t1 has the address of v[k]
+Now we load v[k] using $t 1, and then v[k+1] by adding 4 to $t1:
+lw Ito. 0($t1) # reg $tO (temp) v[k]
+=
+lw 1t2. 4($t1) # reg $t2 v[k + 1]
+=
+# refers to next element of v
+Next we store $to and $t2 to the swapped addresses:
+sw 1t2. 0($t1) # v[k] reg $t2
+=
+sw ItO. 4($t1) # v[k+1] reg $tO (temp)
+=
+Now we have allocated registers and written the code to perform the operations
+of the procedure. \-Vhat is missing is the code for preserving the saved registers
+used within swap. Since we are not using saved registers in this leaf procedure,
+there is nothing to preserve.
+The Full swa p Procedure
+We are now ready for the whole routine, which includes the procedure label and
+the return jump. To make it easier to follow, we identify in Figure 2.34 each block
+of code with its purpose in the procedure.
+sort
+The Procedure
+To ensure that you appreciate the rigor of programming in assembly language,
+we'll try a second, longer example. In this case, we'll build a routine that calls the
+swap procedure. This program sorts an array of integers, using bubble or
+exchange sort, which is one of the simplest if not the fa stest sorts. Figure 2.35
+shows the C version of the program. Once again, we present this procedure in sev 
+eral steps, concluding with the full procedure.
+Register Allocation for so r t
+The two parameters of the procedure so rt, v and n, are in the parameter registers
+$aO and $a1, and we assign register $ 0 to i and register $ 1 to j.
+5 5

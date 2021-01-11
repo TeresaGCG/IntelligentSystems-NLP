@@ -1,0 +1,61 @@
+Electric Charges
+and Fields
+
+by gaining electrons. When we rub a glass rod with silk, some of the
+electrons from the rod are transferred to the silk cloth. Thus the rod gets
+positively charged and the silk gets negatively charged. No new charge is
+created in the process of rubbing. Also the number of electrons, that are
+transferred, is a very small fraction of the total number of electrons in the
+material body. Also only the less tightly bound electrons in a material
+body can be transferred from it to another by rubbing. Therefore, when
+a body is rubbed with another, the bodies get charged and that is why
+
+we have to stick to certain pairs of materials to notice charging on rubbing
+the bodies.
+
+1.3 CONDUCTORS AND INSULATORS
+
+A metal rod held in hand and rubbed with wool will not show any sign of
+being charged. However, if a metal rod with a wooden or plastic handle is
+rubbed without touching its metal part, it shows signs of charging.
+Suppose we connect one end of a copper wire to a neutral pith ball and
+the other end to a negatively charged plastic rod. We will find that the
+pith ball acquires a negative charge. If a similar experiment is repeated
+with a nylon thread or a rubber band, no transfer of charge will take
+place from the plastic rod to the pith ball. Why does the transfer of charge
+not take place from the rod to the ball?
+
+Some substances readily allow passage of electricity through them,
+others do not. Those which allow electricity to pass through them easily
+are called conductors. They have electric charges (electrons) that are
+comparatively free to move inside the material. Metals, human and animal
+bodies and earth are conductors. Most of the non-metals like glass,
+porcelain, plastic, nylon, wood offer high resistance to the passage of
+electricity through them. They are called insulators. Most substances
+fall into one of the two classes stated above*.
+
+When some charge is transferred to a conductor, it readily gets
+distributed over the entire surface of the conductor. In contrast, if some
+charge is put on an insulator, it stays at the same place. You will learn
+why this happens in the next chapter.
+
+This property of the materials tells you why a nylon or plastic comb
+gets electrified on combing dry hair or on rubbing, but a metal article
+like spoon does not. The charges on metal leak through our body to the
+ground as both are conductors of electricity.
+
+When we bring a charged body in contact with the earth, all the
+excess charge on the body disappears by causing a momentary current
+to pass to the ground through the connecting conductor (such as our
+body). This process of sharing the charges with the earth is called
+grounding or earthing. Earthing provides a safety measure for electrical
+circuits and appliances. A thick metal plate is buried deep into the earth
+and thick wires are drawn from this plate; these are used in buildings
+for the purpose of earthing near the mains supply. The electric wiring in
+our houses has three wires: live, neutral and earth. The first two carry
+
+* There is a third category called semiconductors, which offer resistance to the
+movement of charges which is intermediate between the conductors and
+insulators.
+
+2019-20

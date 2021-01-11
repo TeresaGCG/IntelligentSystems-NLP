@@ -1,0 +1,120 @@
+SYSTEMS OF PARTICLES AND ROTATIONAL MOTION
+
+I71
+
+1 = I a (7.43)
+
+Eq. (7.43) is similar to Newton’s second law
+for linear motion expressed symbolically as
+
+F = ma
+
+Just as force produces acceleration, torque
+produces angular acceleration in a body. The
+angular acceleration is directly proportional to
+the applied torque and is inversely proportional
+to the moment of inertia of the body. In this
+respect, Eq.(7 .43) can be called Newton’s second
+law for rotational motion about a fixed axis.
+
+P Example 7.15 A cord of negligible mass
+is wound round the rim of a ﬂy wheel of
+mass 20 kg and radius 20 cm. A steady
+pull of 25 N is applied on the cord as shown
+in Fig. 7.35. The ﬂywheel is mounted on a
+horizontal axle with frictionless bearings.
+
+(a) Compute the angular acceleration of
+
+the wheel.
+
+(b) Find the work done by the pull, when
+2m of the cord is unwound.
+
+(c) Find also the kinetic energy of the
+wheel at this point. Assume that the
+wheel starts from rest.
+
+ 
+
+((1) Compare answers to parts (b) and ((3).
+
+Answer
+
+ 
+
+F=25N
+
+Fig. 7.35
+
+(a) We use I 06 = T
+the torque ‘L' = F R
+
+= 25 X 0.20 Nm (as R = 0.20m)
+= 5.0 Nm
+
+I = Moment of inertia of ﬂywheel about its
+
+ 
+
+axis —MR2
+2
+2 . .22
+= 00+“) =O_4kgm2
+
+a = angular acceleration
+= 5.0 N m/0.4 kg m2 = 12.5 s—2
+(b) Work done by the pull unwinding 2m of the
+cord
+
+= 25 N X 2m = 50 J
+(e) Let a) be the final angular velocity. The
+
+1
+kinetic energy gained = 51602 ,
+since the wheel starts from rest. Now,
+(02 = (03‘ + 20:6, we = O
+
+The angular displacement 9 = length of
+
+unwound string / radius of wheel
+= 2m/0.2 m = 10 rad
+
+(02 = 2 x 12.5 x 10.0 = 250(rad/s)2
+
+K.E. gained: éx0.4x250=50J
+
+(d) The answers are the same, i.e. the ldnetic energy
+gained by the wheel = work done by the force.
+There is no loss of energy due to friction. 4
+
+7.13 ANGULAR MOMENTUM IN CASE OF
+ROTATION ABOUT A FIXED AXIS
+
+We have studied in section 7 .7, the angular
+momentum of a system of particles. We already
+know from there that the time rate of total
+angular momentum of a system of particles
+about a point is equal to the total external torque
+on the system taken about the same point. When
+the total external torque is zero, the total angular
+momentum of the system is conserved.
+
+We now wish to study the angular momentum
+in the special case of rotation about a fixed axis.
+The general expression for the total angular
+momentum of the system of n particles is
+
+N
+L = Z r. X P. (7.2519)
+i=1
+
+We first consider the angular momentum of
+a typical particle of the rotating rigid body. We
+then sum up the contributions of individual
+particles to get L of the whole body.
+
+For a typical particle l = rXp. As seen in the
+last section 1' = OP = 00 + CP [Fig 7. l7(b)]. With
+
+2019-20

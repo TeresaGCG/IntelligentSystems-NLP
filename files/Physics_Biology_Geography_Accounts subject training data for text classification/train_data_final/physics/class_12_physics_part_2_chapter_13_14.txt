@@ -1,0 +1,70 @@
+452
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+electron volts. On the other hand, in a nuclear reaction, the energy release
+is of the order of MeV. Thus for the same quantity of matter, nuclear
+sources produce a million times more energy than a chemical source.
+Fission of 1 kg of uranium, for example, generates 1014 J of energy;
+compare it with burning of 1 kg of coal that gives 107 J.
+
+13.7. 1 Fission
+
+New possibilities emerge when we go beyond natural radioactive decays
+and study nuclear reactions by bombarding nuclei with other nuclear
+particles such as proton, neutron, oc-particle, etc.
+
+A most important neutron-induced nuclear reaction is ﬁssion. An
+
+example of fission is when a uranium isotope 2325U bombarded with a
+neutron breaks into two intermediate mass nuclear fragments
+
+1 235 236 144 89 1
+
+on+92U—> 92U—> 56Ba+36Kr+30n (13.26)
+
+The same reaction can produce other pairs of intermediate mass
+fragments
+
+gn+2§§U —> 2§§U —> 1§§Sb+ Z?Nb+4gn (13.27)
+Or, as another example,
+gn+ 2g§U —> 132x“ §§Sr + 2 am (13.28)
+
+The fragment products are radioactive nuclei; they emit [3 particles in
+succession to achieve stable end products.
+
+The energy released (the Qvalue ) in the fission reaction of nuclei like
+uranium is of the order of 200 MeV per fissioning nucleus. This is
+estimated as follows:
+
+Let us take a nucleus with A = 240 breaking into two fragments each
+ofA = 120. Then
+
+Elm for A = 240 nucleus is about 7.6 MeV,
+Elm for the two A = 120 fragment nuclei is about 8.5 MeV.
+Gain in binding energy for nucleon is about 0.9 MeV.
+
+Hence the total gain in binding energy is 24OXO.9 or 2 16 MeV.
+
+The disintegration energy in fission events first appears as the kinetic
+energy of the fragments and neutrons. Eventually it is transferred to the
+surrounding matter appearing as heat. The source of energy in nuclear
+reactors, which produce electricity, is nuclear fission. The enormous
+energy released in an atom bomb comes from uncontrolled nuclear ﬁssion.
+We discuss some details in the next section how a nuclear reactor
+functions.
+
+13.7.2 Nuclear reactor
+
+Notice one fact of great importance in the fission reactions given in Eqs.
+(13.26) to (13.28). There is a release of extra neutron (s) in the fission
+process. Averagely, 21/2 neutrons are released per fission of uranium
+nucleus. It is a fraction since in some fission events 2 neutrons are
+
+2019-20

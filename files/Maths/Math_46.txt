@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+46
+b. (−4) × (6− 2)= (−4)(6) + (−4)(−2) = −24 + 8
+= −16
+c. (−3) × (−2− 8)= (−3)(−2) + (−3)(−8) = 6 + 24
+= 30
+d. (2) × (3 − 8) = (2)(3) + (2)(−8) = 6+ (−16)
+= −10
+It may seem as though we have evaluated these expressions the hard
+way. Using the order of operations would have been much simpler, but
+using this technique has its advantages, as we will see in the next example.
+Multiplying two two-digit numbers becomes easier to do using the dis-
+tributive property.
+Example 2
+Use the distributive property to find the following products:
+a. 25 × 96
+b. 4 × 490
+Solution:
+a. 25 × 96= 25 × (100− 4)
+= 25 × 100 + 25 ×(−4)
+= 2,500 – 100
+= 2,400
+b. 4 × 490 = 4 × (500− 10)
+= 4 × 500 + 4 ×(−10)
+= 2,000 +(−40)
+= 1,960
+Lesson 2-6 Review
+Use the distributive property to evaluate the following products:
+1. 6 × 48 3. 37 × 8
+2. 12 × 47 4. 23 × 59
+www.ebook3000.com

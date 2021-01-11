@@ -1,0 +1,49 @@
+3 0 Accountancy : Company Accounts and Analysis of Financial Statements
+
+(e) Purchase of its own shares (i.e., buy back of shares).
+The journal entries for shares issued at a premium are as follows:
+
+1. For Premium Amount called with Application money
+
+(a) Bank A/c Dr.
+To Share Application A/c
+
+(Money received on application for —
+shares @ Rs. — per share including premium)
+
+(b) Share Application A/c Dr.
+To Share Capital A/c
+To Securities Premium Reserve A/c
+(Transfer of application money to share
+capital and securities premium account)
+
+2. Premium Amount called with Allotment Money
+
+(a) Share Allotment A/c Dr.
+To Share Capital A/c
+To Securities Premium Reserve A/c
+(Amount due on allotment of shares @
+Rs — per share including premium)
+(b) Bank A/c Dr.
+To Share Allotment A/c
+(Allotment money received including premium)
+
+3. Premium Amount called with Call Money
+(a) Share Application A/c
+To Share Capital Reserve A/c
+To Securities Premium A/c
+(Amount due on ISt/an call @Rs— per share including premium)
+(b) Bank A/c Dr.
+To Share Call A/c
+(Call money received including premium)
+
+Illustration 8
+
+Jupiter Company Limited issued 35,000 equity shares of Rs. 10 each at a
+
+premium of Rs.2 payable as follows:
+On Application Rs. 3
+On Allotment Rs. 5 (including premium)
+Balance on First and Final Call
+The issue was fully subscribed. All the money was duly received.
+Record journal entries in the books of the Company.

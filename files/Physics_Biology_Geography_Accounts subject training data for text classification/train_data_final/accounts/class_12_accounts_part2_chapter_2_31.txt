@@ -1,0 +1,48 @@
+Issue and Redemption of Debentures 1 03
+
+percentage is usually as part of the name of debentures like 8% debentures, 10%
+debentures, etc., and interest payable is calculated at the nominal value of
+debentures.
+
+Interest on debenture is a charge against the proﬁt of the company and
+must be paid whether the company has earned any profit or not. According to
+Income Tax Act, 196 1, a company must deduct income tax at a prescribed rate
+from the interest payable on debentures if it exceeds the prescribed limit. It is
+called Tax Deducted at Source (TDS) and is to be deposited with the tax
+authorities. Of course, the debentureholders can adjust this amount against
+the tax due from them.
+
+2.9.1 Accounting Treatment
+
+The following journal entries are recorded in the books of a company in connection
+with the interest on debentures:
+
+1. When interest is due
+Debenture Interest A/c Dr.
+To Income Tax payable A/c
+To Debentureholders A/c
+(Amount of interest due on debenture and tax deducted at source )
+
+2. For payment of interest to debentureholders
+
+Debentureholders A/c Dr.
+To Bank A / 0
+(Amount of interest paid to debentureholders]
+3. On transfer debenture InterestAccount to statement of Proﬁt and Loss
+Statement of Proﬁt and Loss Dr.
+To Debenture Interest A/c
+(Debenture interest transferred to proﬁt and loss A/c)
+4. On payment of tax deducted at source to the Government
+Income Tax Payable A / 0 Dr.
+To Bank A/c
+
+(Payment of tax deducted at source on interest on debentures)
+
+Illustration 1 7
+
+A Ltd., issued 2,000, 10% debentures of Rs 100 each on April 01, 2016 at a
+discount of 10% redeemable at a premium of 10%.
+
+Give j oumal entries relating to the issue of debentures and debenture interest
+for the period ending March 31, 2017 assuming that interest was paid half
+yearly on September 30 and March 31 and tax deducted at source is 10%.

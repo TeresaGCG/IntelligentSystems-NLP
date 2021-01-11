@@ -1,0 +1,16 @@
+Inequalities and Graphs
+149
+Example 4
+Solve the inequality: 4x > 10
+Solution: Divide both sides by 4 and simplify:
+The solution is all real numbers greater than  .
+Example 5
+Solve the inequality: −3x< 15
+Solution: Divide both sides by −3, flip the inequality symbol, and
+simplify:
+The solution is all real numbers greater than −5.
+Example 6
+Solve the inequality: 
+Solution: Multiply both sides by −3, flip the inequality symbol,
+and simplify:
+The solution is all real numbers less than 15.

@@ -1,0 +1,44 @@
+474 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+x,
+X,
+X, X,
+X X
+_ _
+n 2 n 2
+X
+X _ _
+n 1 n 1
+X, X,
+X
+o
+X, X,
+a. Before the reference to x" b.After the reference to X
+n
+FIGURE 7.4 The cache just before and just after a reference to a word X that Is not
+n
+Initially In the cache. This reference causes a miss that forces the cache to fetch x" from memory and
+insert it into the cache.
+Figure 7.4 shows such a simple cache, before and after requesting a data item that is
+not initially in the cache. Before the request, the cache contains a collection of recent
+references XI> X X - 1' and the processor requests a word XII that is not in the
+2>••• , n
+cache. This request results in a miss, and the word X is brought from memory into
+n
+cache.
+In looking at the scenario in Figure 7.4, there are two questions to
+answer: How do we know if a data item is in the cache? Moreover, if it is, how do
+we find it? The answers to these two questions are related. If each word can go in
+exactly one place in the cache, then it is straightforward to find the word if it is in
+the cache. The simplest way to assign a location in the cache for each word in
+memo ry is to assign the cache location based on the address of the word in mem  
+direct-mapped cache A cache o ry. This cache structure is called direct mapped, since each memory location is
+structure inwhich each memory mapped directly to exactly one location in the cache. The typical mapping
+location is mapped to exactly
+between addresses and cache locations for a direct-mapped cache is usually sim 
+one location in the cache.
+ple. For example, almost all direct-mapped caches use the mapping
+(Block address) modulo (Number of cache blocks in the cache)
+This mapping is attractive because if the number of entries in the cache is a power
+of two, then modulo ca n be computed simply by using the low-order log2 (cache
+size in blocks) bits of the address; hence the cache may be accessed directly with
+the low-order bits. For example, Figure 7.5 shows how the memo ry addresses

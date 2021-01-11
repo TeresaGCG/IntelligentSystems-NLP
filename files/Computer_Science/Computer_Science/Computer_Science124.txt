@@ -1,0 +1,43 @@
+108 Chapter 2 Instructions: Language of the Computer
+architecture and to be sure to get best perfo rmance, however, study the real MIPS
+instructions found in Figures 2.25 and 2.27.
+Assemblers will also accept numbers in a variety of bases. In addition to binary
+and decimal, they usually accept a base that is more succinct than binary yet con 
+verts easily to a bit pattern. MIPS assemblers use hexadecimal,
+Such features are convenient, but the primary task of an assembler is assembly
+into machine code. The assembler turns the assembly language program into an
+machine language Binary object file, which is a combination of machine language instructions, data, and
+representation lIsed for commu 
+information needed to place instructions properly in memory.
+nication within a computer
+To produce the binary version of each instruction in the assembly language pro 
+system.
+gram, the assembler must determine the addresses corresponding to all labels.
+Assemblers keep track of labels used in branches and data transfer instructions in a
+symbol table A table that sym bol table. As you might expect, the table contains pairs of symbol and address.
+matches names oflabels to the
+The object file for UNIX systems typically contains six distinct pieces:
+addresses of the memorywords
+• The object file header describes the size and position of the other pieces of
+that instructions occupy.
+the object file.
+• The text segment contains the machine language code.
+• The static data segment contains data allocated for the life of the program.
+(U NIX allows programs to use either static data, which is allocated through 
+out the program, or dynamic data, which can grow or shrink as needed by
+the program.)
+• The relocation information identifies instructions and data words that
+depend on absolute addresses when the program is loaded into memory.
+• The symbol table contains the remaining labels that are not defined, such as
+external references.
+• The debugging information contains a concise description of how the mod 
+ules were compiled so that a debugger can associate machine instructions
+with C source files and make data structures readable.
+The next subsection shows how to attach such routines that have already been
+assembled, such as library routines.
+Linker
+What we have presented so far suggests that a single change to one line of one proce 
+dure requires compiling and assembling the whole program. Complete retransla 
+tion is a terrible waste of computing resources. This repetition is particularly
+wasteful for standard library routines because programmers would be compiling
+and assembling routines that by definition almost never change. An alternative is to

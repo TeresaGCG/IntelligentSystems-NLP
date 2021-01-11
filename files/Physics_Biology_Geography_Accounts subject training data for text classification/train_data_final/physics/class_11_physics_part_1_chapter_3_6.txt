@@ -1,0 +1,138 @@
+MOTION IN A STRAIGHT LINE
+
+45
+
+ 
+
+Example 3.2 The position of an object
+moving along x—axis is given by x = a + bt2
+where a = 8.5 m. b = 2.5 m 8’2 and t is
+
+measured in seconds. What is its velocity at
+t = O s and t = 2.0 5. What is the average
+velocity between t = 2.0 s and t = 4.0 s ?
+
+ 
+
+Answer In notation of differential calculus, the
+velocity is
+
+dX d 2 _
+v=—=—(a+bt )=2bt=5.0tms
+(it (it
+
+At t=0s,
+v=10mS'1.
+
+1
+
+v=0mS'1 andat t=2.0s,
+
+x(4.0)—x(2.0)
+4.0 —2.0
+
+_ a + 16b — a — 4b
+
+_ 2.0
+
+=6.0><2.5=15ms‘1 ‘
+
+From Fig. 3.7, we note that during the period
+t= 10 s to 18 s the velocity is constant. Between
+period t = 18 s to t = 20 s, it is uniformly
+decreasing and during the period t= 0 s to t
+= 10 s, it is increasing. Note that for uniform
+motion, velocity is the same as the average
+velocity at all instants.
+
+Instantaneous speed or simply speed is the
+magnitude of velocity. For example, a velocity of
++ 24.0 m S'1 and a velocity of— 24.0 m S'1 — both
+have an associated speed of 24.0 m s4. It should
+be noted that though average speed over a finite
+interval of time is greater or equal to the
+magnitude of the average velocity,
+instantaneous speed at an instant is equal to
+the magnitude of the instantaneous velocity at
+that instant. Why so ?
+
+3.5 ACCELERATION
+
+The velocity of an object, in general, changes
+during its course of motion. How to describe this
+change? Should it be described as the rate of
+change in velocity with distance or with time ?
+This was a problem even in Galileo’s time. It was
+first thought that this change could be described
+by the rate of change of velocity with distance.
+But, through his studies of motion of freely falling
+objects and motion of objects on an inclined
+plane, Galileo concluded that the rate of change
+of velocity with time is a constant of motion for
+all objects in free fall. On the other hand, the
+change in velocity with distance is not constant
+— it decreases with the increasing distance of fall.
+
+Average velocity =
+
+= 6.0><b
+
+This led to the concept of acceleration as the rate
+of change of velocity with time.
+
+The average acceleration 6 over a time
+
+interval is defined as the change of velocity
+divided by the time interval :
+
+”2‘01 _ﬂ
+t2—tl At
+
+where v2 and D1 are the instantaneous velocities
+or simply velocities at time t2 and t1 . It is the
+average change of velocity per unit time. The SI
+unit of acceleration is m S'2 .
+
+On a plot of velocity versus time, the average
+acceleration is the slope of the straight line
+connecting the points corresponding to (v2, t2)
+and (v1, t1). The average acceleration
+for velocity-time graph shown in Fig. 3.7 for
+different time intervals 0 s - 10 s, 10 s — 18 s,
+and 18s—20sare:
+
+ 
+
+a = (3.4)
+
+— (24—0)ms'1 _2
+
+_ a=—=2.4ms
+OS 10S (10—0)S
+
+— 24—24ms'1 _
+
+10s-18s a=%=0msz
+
+(18—10)s
+
+-12.0
+
+ 
+
+Fig. 3.8 Acceleration as a function of time for motion
+represented in Fig. 3.3.
+
+Instantaneous acceleration is defined in the same
+way as the instantaneous velocity :
+, Av dv
+
+a _ lino At _ dt (3'5)
+The acceleration at an instant is the slope of
+the tangent to the v—t curve at that instant. For
+the v—t curve shown in Fig. 3.7, we can obtain
+acceleration at every instant of time. The
+
+resulting a— tcurve is shown in Fig. 3.8. We see
+
+2019-20

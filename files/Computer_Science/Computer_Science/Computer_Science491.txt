@@ -1,0 +1,39 @@
+7.2 The Basics of Caches 475
+Cache
+o ~ o ~ o ~ o ~
+88 ~~ oo ~~
+OO ~~~~
+ססoo1 00101 01001 10001 11001 111 01
+Memory
+FIGURE 7.5 A dlrec:t-mapped cache with eight entries showing the addresses of memory
+words between 0 and 31 that map to the same cache locations. Because there are eight words in
+the cache,an address X maps to the cache mJrd Xmooulo 8.That is, the low-order log2(8) = 3 bits are used as
+the cache index. Thus, addresses <XXXl1 01OO1two> HXXl1 and ll001 .., all map to entry 00l ", of the
+o> o> m m
+1w 1w
+cache, while addresses 00101 01101 10101 and 11101 .., all map to entry 101 .., ofthe cache.
+o> o> o> m m
+1w 1w 1w
+between and 29 (I map to locations and
+Iten (OOoo ltwo) I 10 Itwo) I (OO ltwo)
+ten ten
+in a direct-mapped cache of eight words.
+Sten ( IOl )
+tmJ
+Because each cache location can contain the contents of a number of different
+memory locations, how do we know whether the data in the cache corresponds to
+a requested word? That is, how do we know whether a requested word is in the
+cache or not? We answer this question by adding a set of tags to the cache. The tag A field in a table used for a
+tags contain the address information required to identify whether a word in the memory hierarchy that contains
+the address information required
+cache corresponds to the requested word. The tag needs only to contain the upper
+to identify whether the associated
+portion of the address, corresponding to the bits that are not used as an index into
+block in the hierarchy corre 
+the cache. For example, in Figure 7.5 we need only have the upper 2 of the S
+sponds to a requested word.
+address bits in the tag, since the lower 3-bit index field of the address selects the
+block. We exclude the index bits because they are redundant, since by definition
+the index field of every address must have the same value.
+We also need a way to recognize that a cache block does not have valid infor 
+mation. For instance, when a processor starts up, the cache does not have good

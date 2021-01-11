@@ -1,0 +1,51 @@
+Moving Charges and
+
+Magnetism
+
+4.8. 1 The solenoid
+
+We shall discuss a long solenoid. By long solenoid we mean that the
+solenoid’s length is large compared to its radius. It consists of a long
+wire wound in the form of a helix where the neighbouring turns are closely
+spaced. So each turn can be regarded as a circular loop. The net magnetic
+ﬁeld is the vector sum of the ﬁelds due to all the turns. Enamelled wires
+are used for winding so that turns are insulated from each other.
+
+ 
+
+ 
+
+(a) (b)
+
+FIGURE 4.17 (a) The magnetic field due to a section of the solenoid which has been
+stretched out for clarity. Only the exterior semi—circular part is shown. Notice
+how the circular loops between neighbouring turns tend to cancel.
+
+(b) The magnetic ﬁeld of a ﬁnite solenoid.
+
+Figure 4.17 displays the magnetic ﬁeld lines for a ﬁnite solenoid. We
+show a section of this solenoid in an enlarged manner in Fig. 4.17(a).
+Figure 4. 17 (b) shows the entire ﬁnite solenoid with its magnetic field. In
+Fig. 4.1 7(a), it is clear from the circular loops that the ﬁeld between two
+neighbouring turns vanishes. In Fig. 4.17(b), we see that the ﬁeld at the
+interior mid-point P is uniform, strong and along the axis of the solenoid.
+The ﬁeld at the exterior mid-point Q is weak and moreover is along the
+axis of the solenoid with no perpendicular or normal component. As the
+solenoid is made longer it appears like a long cylindrical metal sheet.
+Figure 4.18 represents this idealised picture. The ﬁeld outside the solenoid
+approaches zero. We shall assume that the ﬁeld outside is zero. The field
+
+inside becomes everywhere parallel to the axis.
+
+ 
+
+ 
+
+    
+
+FIGURE 4.18 The magnetic field of a very long solenoid. We consider a
+rectangular Arnperian loop abcd to determine the field.
+
+2019-20
+
+151

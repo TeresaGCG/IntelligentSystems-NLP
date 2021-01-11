@@ -1,0 +1,64 @@
+Roy Optics and
+Optical Instruments
+
+above the water surface is totally absent and the beam is totally reﬂected
+back to water. This is total internal reﬂection at its simplest.
+
+Pour this water in a long test tube and shine the laser light from top,
+as shown in Fig. 9.13(c). Adjust the direction of the laser beam such that
+it is totally internally reﬂected every time it strikes the walls of the tube.
+This is similar to what happens in optical ﬁbres.
+
+Take care not to look into the laser beam directly and not to point it
+at anybody’s face.
+
+(a)
+
+9.4. 1 Total internal reﬂection in nature and
+its technological applications
+
+(i) Mirage: On hot summer days, the air near the ground becomes hotter (bl
+than the air at higher levels. The refractive index of air increases with
+its density. Hotter air is less dense, and has smaller refractive index
+than the cooler air. If the air currents are small, that is, the air is still,
+the optical density at different layers of air increases with height. As a
+result, light from a tall object such as a tree, passes through a medium
+whose refractive index decreases towards the ground. Thus, a ray of
+light from such an object successively bends away from the normal
+and undergoes total internal reﬂection, if the angle of incidence for
+the air near the ground exceeds the critical angle. This is shown in (C)
+Fig. 9.14(b). To a distant observer, the light appears to be coming FIGURE 9J3
+from somewhere below the ground. The observer naturally assumes Observing total
+that light is being reﬂected from the ground, say, by a pool of water internal reﬂection in
+near the tall object. Such inverted images of distant tall objects cause water with a 1aser
+an optical illusion to the observer. This phenomenon is called mirage. beam (refraction due
+This type of mirage is especially common in hot deserts. Some of you to glass of beaker
+might have noticed that while moving in a bus or a car during a hot negleﬂed being Very
+summer day, a distant patch of road, especially on a highway, appears thin)-
+to be wet. But, you do not find any evidence of wetness when you
+reach that spot. This is also due to mirage.
+
+      
+
+Air at a uniform
+
+temperature Air warmer near ground I
+
+,__—
+
+ 
+
+ 
+ 
+
+(a)
+
+(bl
+
+FIGURE 9.14 (a) A tree is seen by an observer at its place when the air above the ground is
+at uniform temperature. [b] When the layers of air close to the ground have varying
+temperature with hottest layers near the ground. light from a distant tree may
+undergo total internal reﬂection. and the apparent image of the tree may create
+an illusion to the observer that the tree is near a pool of water. 321
+
+2019-20

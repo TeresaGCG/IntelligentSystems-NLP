@@ -1,0 +1,54 @@
+144 Accountancy
+
+Sales (Journal) Book
+
+Ramneek
+Kapadia
+
+Daman
+Ramneek
+Nutan
+Daman
+
+ 
+
+Purchases Return (Journal) Book
+
+Date Debit Name of the Supplier L.F. Amount
+(Account to be debited) ?
+
+Burari Ltd.
+—
+
+Sales Return (Journal) Book
+Date Credit Name of the customer Amount
+(Account to be credited)
+I—l—
+
+Journal Proper
+
+Date Particulars L. F. Debit Credit
+Amount Amount
+? ?
+
+Apr. 15 Furniture A/c
+To Quality Furniture A/c
+(Purchase of furniture on credit)
+
+Apr. 25 Burari Ltd. A/c
+To Discount A/c
+(Discount received)
+
+ 
+
+ 
+
+Apr. 26 Stationery A/c
+To Mohit Mart A/c
+(Purchase of Stationery items on credit)
+Apr. 30 Kochhar A/c
+(Discount received)
+
+ 
+
+2019-2020

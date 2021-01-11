@@ -1,0 +1,104 @@
+i Physics
+
+ 
+
+ 
+
+3. 1 1 CELLS, EMF, INTERNAL RESISTANCE
+
+We have already mentioned that a simple device to maintain a steady
+current in an electric circuit is the electrolytic cell. Basically a cell has
+two electrodes, called the positive (P) and the negative (N), as shown in
+Fig. 3.18. They are immersed in an electrolytic solution. Dipped in the
+
+c I R I D
+I P N I
+Electrolyte
+(a)
+m
+Symbol
+(b)
+
+FIGURE 3.18 (a) Sketch of
+an electrolyte cell with
+positive terminal P and
+
+negative terminal N. The
+
+gap between the electrodes
+
+is exaggerated for clarity. A
+and B are points in the
+
+electrolyte typically close to
+
+P and N. (b) the symbol for
+
+a cell. + referring to P and
+
+— referring to the N
+electrode. Electrical
+connections to the cell are
+made at P and N.
+
+solution, the electrodes exchange charges with the electrolyte. The
+positive electrode has a potential difference V+ (V+ > 0) between
+itself and the electrolyte solution immediately adjacent to it marked
+A in the figure. Similarly, the negative electrode develops a negative
+potential — (V_ ) (V_ 2 0) relative to the electrolyte adjacent to it,
+marked as B in the ﬁgure. When there is no current, the electrolyte
+has the same potential throughout, so that the potential difference
+between P and N is V+ — (—V_) = V+ + V_ . This difference is called the
+electromotive force (emf) of the cell and is denoted by 8. Thus
+
+8: V++V_> o (3.55)
+
+Note that 8 is, actually, a potential difference and not a force. The
+name emf, however, is used because of historical reasons, and was
+given at a time when the phenomenon was not understood properly.
+
+To understand the significance of 8, consider a resistor R
+connected across the cell (Fig. 3.18). A current I ﬂows across R
+from C to D. As explained before, a steady current is maintained
+because current ﬂows from N to P through the electrolyte. Clearly,
+across the electrolyte the same current ﬂows through the electrolyte
+but from N to P, whereas through R, it ﬂows from P to N.
+
+The electrolyte through which a current ﬂows has a finite
+resistance r, called the internal resistance. Consider first the
+situation when R is infinite so that I = V/ R = 0, where V is the
+potential difference between P and N. Now,
+
+V= Potential difference between P and A
+
++ Potential difference between A and B
++ Potential difference between B and N
+= 8 (3.56)
+Thus, emf 8 is the potential difference between the positive and
+negative electrodes in an open circuit, i.e., when no current is
+ﬂowing through the cell.
+
+If however R is finite, I is not zero. In that case the potential
+
+difference between P and N is
+
+V=V++V_—Ir
+
+=8—Ir
+
+(3.57)
+
+Note the negative sign in the expression (I r) for the potential difference
+between A and B. This is because the current I ﬂows from B to A in the
+electrolyte.
+
+In practical calculations, internal resistances of cells in the circuit
+may be neglected when the current I is such that 8 >> I r. The actual
+values of the internal resistances of cells vary from cell to cell. The internal
+resistance of dry cells, however, is much higher than the common
+
+110
+
+electrolytic cells.
+
+2019-20

@@ -1,0 +1,145 @@
+358
+
+PHYSICS
+
+ 
+
+d2X dx
+
+mdt2 +bdt +kx— Focos codt (14.37b)
+This is the equation of an oscillator of mass
+m on which a periodic force of (angular)
+frequency cod is applied. The oscillator, initially,
+oscillates with its natural frequency a). When
+we apply the external periodic force, the
+oscillations with the natural frequency die out,
+and then the body oscillates with the (angular)
+frequency of the external periodic force. Its
+displacement, after the natural oscillations die
+
+out, is given by
+
+x(t) = Acos (wdt + ¢) (14.38)
+
+where tis the time measured from the moment
+when we apply the periodic force.
+
+The amplitude A is a function of the forced
+frequency cod and the natural frequency (0.
+Analysis shows that it is given by
+
+ 
+
+ 
+
+FD
+A _ 2 1/2
+{m2 (wz —(031) + aﬁbz} (14.393)
+and tan (1) = —v0 (14.39b)
+wdxo
+
+where m is the mass of the particle and v0 and
+x0 are the velocity and the displacement of the
+particle at time t = 0, which is the moment when
+we apply the periodic force. Equation (14.39)
+shows that the amplitude of the forced oscillator
+depends on the (angular) frequency of the
+driving force. We can see a different behaviour
+of the oscillator when cod is far from a) and when
+it is close to a). We consider these two cases.
+
+(a) Small Damping, Driving Frequency far
+from Natural Frequency : In this case, cod b will
+be much smaller than m(w2 —a):), and we can
+neglect that term. Then Eq. (14.39) reduces to
+
+F
+A = —O (14.40)
+
+m(w2—a)f,)
+
+Fig. 14.21 shows the dependence of the
+displacement amplitude of an oscillator on the
+angular frequency of the driving force for
+different amounts of damping present in the
+system. It may be noted that in all cases the
+amplitude is the greatest when cod /w = 1. The
+curves in this figure show that smaller the
+damping, the taller and narrower is the
+resonance peak.
+
+2019-20
+
+ 
+
+     
+
+b=50g 5 (least
+
+ 
+
+Amplitude
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.6 0.8 1.0 1 .2 1 .4
+cod/w
+
+Fig. 14.21 The displacement amplitude of a forced
+oscillator as a function of the angular
+frequency of the driving force. The
+
+amplitude is the greatest at wd/ (0 =1 , the
+resonance condition. The three curves
+correspond to different extents of damping
+present in the system. The curves 1 and
+3 correspond to minimum and maximum
+damping in the system.
+
+If we go on changing the driving frequency,
+the amplitude tends to infinity when it equals
+the natural frequency. But this is the ideal case
+of zero damping, a case which never arises in a
+real system as the damping is never perfectly
+zero. You must have experienced in a swing that
+when the timing of your push exactly matches
+with the time period of the swing, your swing
+gets the maximum amplitude. This amplitude
+is large, but not infinity, because there is always
+some damping in your swing. This will become
+clear in the (b).
+
+(b) Driving Frequency Close to Natural
+
+Frequency : If cod is very close to a), m ((02—503)
+
+would be much less than cod b, for any reasonable
+value of b, then Eq. (14.39) reduces to
+
+A = Fa (14.41)
+wdb
+
+This makes it clear that the maximum
+possible amplitude for a given driving frequency
+is governed by the driving frequency and the
+damping, and is never inﬁnity. The phenomenon
+of increase in amplitude when the driving force
+is close to the natural frequency of the oscillator
+is called resonance.
+
+In our daily life, we encounter phenomena
+which involve resonance. Your experience with

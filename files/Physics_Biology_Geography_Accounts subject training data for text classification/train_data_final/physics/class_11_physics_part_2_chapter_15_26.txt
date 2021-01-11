@@ -1,0 +1,65 @@
+WAV ES 3 9 3
+
+beat frequency is found to reduce to 3 Hz. If the original frequency of A is 324 Hz,
+what is the frequency of B?
+
+15.19 Explain why [or how):
+
+(a) in a sound wave, a displacement node is a pressure antinode and vice versa,
+
+[b] bats can ascertain distances, directions, nature, and sizes of the obstacles
+without any “eyes”,
+
+(c) a violin note and sitar note may have the same frequency, yet we can
+distinguish between the two notes,
+
+(d) solids can support both longitudinal and transverse waves, but only
+longitudinal waves can propagate in gases, and
+
+(e) the shape of a pulse gets distorted during propagation in a dispersive medium.
+
+15.20 A train, standing at the outer signal of a railway station blows a whistle of frequency
+400 Hz in still air. [i] What is the frequency of the whistle for a platform observer
+when the train [a] approaches the platform with a speed of 10 m s‘l, [b] recedes
+from the platform with a speed of 10 m s51? [ii] What is the speed of sound in each
+case ? The speed of sound in still air can be taken as 340 m s’l.
+
+15.21 A train, standing in a station—yard, blows a whistle of frequency 400 Hz in still
+air. The wind starts blowing in the direction from the yard to the station with a
+speed of 10 m s51. What are the frequency, wavelength, and speed of sound for an
+observer standing on the station’s platform? Is the situation exactly identical to
+the case when the air is still and the observer runs towards the yard at a speed of
+10 m s’l? The speed of sound in still air can be taken as 340 m s’1
+
+Additional Exercises
+
+15.22 A travelling harmonic wave on a string is described by
+y(x, t) = 7.5 sin [0.0050x+12t + 7r/4]
+
+(a)what are the displacement and velocity of oscillation of a point at
+x = 1 cm, and t = 1 s? Is this velocity equal to the velocity of wave propagation?
+
+[b]Locate the points of the string which have the same transverse displacements
+and velocity as the x = 1 cm point at t= 2 s, 5 s and 1 1 s.
+
+15.23 A narrow sound pulse (for example, a short pip by a whistle) is sent across a
+medium. (a) Does the pulse have a definite (i) frequency, (ii) wavelength, (iii) speed
+of propagation? (b) If the pulse rate is 1 after every 20 s, (that is the whistle is
+blown for a split of second after every 20 s), is the frequency of the note produced
+by the whistle equal to 1 / 20 or 0.05 Hz ?
+
+15.24 One end of a long string of linear mass density 8.0 X 10’3 kg mi1 is connected to an
+electrically driven tuning fork of frequency 256 Hz. The other end passes over a
+pulley and is tied to a pan containing a mass of 90 kg. The pulley end absorbs all
+the incoming energy so that reﬂected waves at this end have negligible amplitude.
+At t= 0, the left end [fork end] of the string x = 0 has zero transverse displacement
+[y = 0) and is moving along positive y—direction. The amplitude of the wave is 5.0
+cm. Write down the transverse displacement y as function of xand tthat describes
+the wave on the string.
+
+15.25 A SONAR system fixed in a submarine operates at a frequency 40.0 kHz. An enemy
+submarine moves towards the SONAR with a speed of 360 km h’l. What is the
+frequency of sound reﬂected by the submarine ? Take the speed of sound in water
+to be 1450 m s51.
+
+2019-20

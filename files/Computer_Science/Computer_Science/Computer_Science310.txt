@@ -1,0 +1,53 @@
+294 Chapter 5 The Processor: Datapath and Control
+read or written by specifying the number of the register in the file. The register file
+contains the register state of the machine. In addition, we will need an ALU to
+operate on the values read from the registers.
+Because the R-format instructions have three register operands, we will need to
+read two data words from the register file and write one data word into the register
+file for each instruction. For each data word to be read from the registers, we need
+an input to the register file that specifies the register number to be read and an
+output from the register file that will carry the value that has been read from the
+registers. To write a data word, we will need two inputs: one to specify the register
+nllmber to be written and one to supply the data to be written into the register.
+The register file always outputs the contents of whatever register numbers are on
+the Read register inputs. Writes, however, are controlled by the write control sig 
+nal, which must be asserted for a write to occur at the clock edge. Thus, we need a
+total of four inputs (three for register numbers and one fo r data) and two outputs
+(both for data), as shown in Figure 5.7. The register number inputs are 5 bits wide
+5
+to specify one of 32 registers (32 = 2 ), whereas the data input and two data out 
+put buses are each 32 bits wide.
+Figure 5.7 shows the ALU, which takes two 32-bit inputs and produces a 32-bit
+result, as well as a I-bit signal if the result is O. The four-bit control signal of the
+II
+ALU is described in detail in Appendix B; we will review the ALU control
+shortly when we need to know how to set it.
+Next, consider the MIPS load word and store word instructions, which have
+the general form 1w $tl , offset _va 1ue ( H2) or sw $tl ,offset_va 1ue
+( H2). These instructions com pute a memory address by adding the base regis 
+ter, which is HZ, to the 16-bit signed offset field contained in the instruction. If
+the instruction is a store, the value to be stored must also be read from the register
+sign-extend To increase the file where it resides in $t 1. If the instruction is a load, the value read from mem 
+size of a data item by replicating ory must be written into the register file in the specified register, which is $t 1.
+the high-order sign bit ofthe
+Thus, we will need both the register file and the ALU from Figure 5.7.
+original data item in the high 
+In addition, we will need a unit to sign-extend the 16-bit offset field in the
+order bits ofthe larger, destina 
+instruction to a 32-bit signed value, and a data memory unit to read from or write
+tion data item.
+to. The data memory must be written on store instructions; hence, it has both
+branch target address The read and write control signals, an address input, as well as an input for the data to
+address specified in a branch,
+be written into memory. Figure 5.8 shows these two elements.
+which becomes the new program
+The beq instruction has three operands, two registers that are compared for
+counter (PC) if the branch is
+equality, and a 16-bit offset used to compute the branch target address relative to
+taken. In the MIPS architecture
+the branch instruction address. Its form is beq $tl , H2 ,off set. To imple 
+the branch target is given by the
+ment this instruction, we must compute the branch target address by adding the
+sum of the offset field of the
+instruction and the address ofthe sign-extended offset field of the instruction to the Pc. There are two details in the
+instruction following the branch. definition of branch instructions (see Chapter 2) to which we must pay attention:

@@ -1,0 +1,56 @@
+1 1 4 Accountancy
+
+Conveyance Account
+
+Dr. Cr.
+Date Particulars J .F Amount Date Particulars J. F. Amount
+? ?
+20 17
+May 3 1 Petty cash 349
+
+Stationery Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+20 1 7
+May 3 1 Petty cash 390
+
+Miscellaneous Expenses Account
+
+Dr. Cr.
+? ?
+2017
+May 3 1 Petty cash 302
+
+  
+ 
+
+ 
+
+  
+   
+
+4. 1 .4 Balancing of Cash Back
+
+On the left side, all cash transactions relating to cash receipts (debits) and on
+the right side all transactions relating to cash payments (credits) are entered
+date-wise. When a cash book is maintained, a separate cash book in the
+ledger is not opened. The cash book is balanced in the same way as an account
+in the ledger. But it may be noted that in the case of the cash book, there will
+always be debit balance because cash payments can never exceed cash receipts
+and cash in hand at the beginning of the period.
+
+The source document for cash receipts is generally the duplicate copy of
+the receipt issued by the cashier. For payment, any document, invoice, bill,
+receipt, etc., on the basis of which payment has been made, will serve as a source
+document for recording transactions in the cash book. When payment has been
+made, all these documents, popularly known as vouchers, are given a serial
+number and filed in a separate file for future reference and verification.
+
+Illustration 1
+
+From the following transactions made by M / s Kuntia Traders, prepare the single column
+cashbook.
+
+2019-2020

@@ -1,0 +1,43 @@
+2.13 A C Sort Example to Put It All Together 129
+instructions in this example. The downside of the inlining optimization is that the com 
+piled code would be bigger if the inlined procedure is called from several locations.
+Such a code expansion might turn into lower performance if it increased the cache miss
+rate; see Chapter 7.
+The MIPS compilers always save room on the stack for the arguments in case they
+need to be stored, so in reality they always decrement $sp by 16 to make room for all
+four argument registers (16 bytes). One reason is that C provides a va r arg option that
+allows a pointer to pick, say, the third argument to a procedure. When the compiler
+encounters the rare va ra rg, it copies the four argument registers onto the stack into
+the four reserved locations.
+Figure 2.37 shows the impact of compiler optimization on sort program perfor  Understanding
+mance, compile time, clock cycles, instruction count, and CPI. Note that unopti 
+Program
+mized code has the best CPl and 01 optimization has the lowest instruction
+Performance
+count, but 03 is the fastest, reminding us that time is the only accurate measure of
+program performance.
+Figure 2.38 compares the impact of programming languages, compilation
+versus interpretation, and algorithms on performance of sorts. The fourth col 
+umn shows that the unoptimized C program is 8.3 times faster than the inter 
+preted Java code for Bubble Sort. Using the Just In Time Java compiler makes
+Java 2.1 times faster than the unoptimized C and within a factor of 1.13 of the
+highest optimized C code. (The next section gives more details on interpreta 
+tion versus compilation of Java and the Java and MIPS code for Bubble Sort.)
+The ratios aren't as close for Quicksort in column 5, presumably because it is
+harder to amortize the cost of runtime compilation over the shorter execution
+time. The last column demonstrates the impact of a better algorithm, offering
+three orders of magnitude performance increase when sorting 100,000 items.
+Even comparing interpreted Java in column 5 to the C compiler at highest opti 
+mization in column 4, Quicksort beats Bubble Sort by a factor of 50 (0.05 X
+2468 or 123 versus 2.41).
+Relative Clock cycles Instruction count
+•
+gcc optimization performance (millions) (millions)
+none 1.00 158,615 114,938 1.38
+01 (medium) 2.37 66,990 37,470 1.79
+02 (full) 2.38 66,521 39,993 1.66
+03 (procedure integration) 2.41 65,747 44,993 1.46
+FIGURE 2.37 Comparing performance, Instruction count, and CPI using compiler optimi 
+zation for Bubble Sort. The programs sorted 100,000 words with the array initialized to random values.
+These programs were run on aPemiwn 4 with a dock rate of 3.06 GHz and a 533 MHz system bus with 2
+GB of PC2100 DDR SDRAM memory. It used Linux version 2.4.20.

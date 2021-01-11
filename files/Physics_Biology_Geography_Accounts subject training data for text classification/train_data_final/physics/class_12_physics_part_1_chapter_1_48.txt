@@ -1,0 +1,58 @@
+Electric Charges
+and Fields
+
+   
+
+(d) (6)
+FIGURE 1.35
+
+1.27 In a certain region of space, electric field is along the z-direction
+throughout. The magnitude of electric field is, however, not constant
+but increases uniformly along the positive z-direction, at the rate of
+105 NC‘1 per metre. What are the force and torque experienced by a
+system having a total dipole moment equal to 10’7 Cm in the negative
+z-direction ?
+
+1.28 (a) A conductor A with a cavity as shown in Fig. 1.36(a) is given a
+charge Q. Show that the entire charge must appear on the outer
+surface of the conductor. (b) Another conductor B with charge q is
+inserted into the cavity keeping B insulated from A. Show that the
+total charge on the outside surface of A is Q + q [Fig. 1.36(b)]. (c) A
+sensitive instrument is to be shielded from the strong electrostatic
+fields in its environment. Suggest a possible way.
+
+9 Q
+.
+(21)
+
+FIGURE 1 . 36
+
++q
+
+   
+
+[13}
+
+1.29 A hollow charged conductor has a tiny hole cut into its surface.
+
+Show that the electric field in the hole is (6/280) :1, where n is the
+unit vector in the outward normal direction, and a is the surface
+charge density near the hole.
+
+1.30 Obtain the formula for the electric field due to a long thin wire of
+uniform linear charge density E without using Gauss’s law. [Hint
+Use Coulomb’s law directly and evaluate the necessary integral]
+
+1.31 It is now believed that protons and neutrons (which constitute nuclei
+of ordinary matter) are themselves built out of more elementary units
+called quarks. A proton and a neutron consist of three quarks each.
+Two types of quarks, the so called ‘up’ quark (denoted by u) of charge
++ (2/3) 6, and the ‘down’ quark (denoted by d) of charge [—1/3) e,
+together with electrons build up ordinary matter. (Quarks of other
+types have also been found which give rise to different unusual
+varieties of matter.) Suggest a possible quark composition of a
+proton and neutron.
+
+49
+
+2019-20

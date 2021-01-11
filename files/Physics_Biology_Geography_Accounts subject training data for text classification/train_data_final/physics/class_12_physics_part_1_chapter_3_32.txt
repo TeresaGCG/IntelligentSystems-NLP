@@ -1,0 +1,113 @@
+8.
+
+10.
+
+ll.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Electricity
+
+ 
+
+Using E = V/l, I = nevd A, and Ohm’s law, one obtains
+
+eE ne2
+_= p
+m m
+
+The proportionality between the force eE on the electrons in a metal
+
+due to the external field E and the drift velocity vd (not acceleration}
+
+can be understood, if we assume that the electrons suffer collisions
+
+with ions in the metal, which deﬂect them randomly. If such collisions
+
+occur on an average at a time interval 1,
+
+ 
+
+vd
+
+vd = at = eEr/ m
+where a is the acceleration of the electron. This gives
+
+ 
+
+_ m
+’0_ ne2 1
+In the temperature range in which resistivity increases linearly with
+temperature, the temperature coefﬁcient of resistivity a is defined as
+the fractional increase in resistivity per unit increase in temperature.
+
+Ohm’s law is obeyed by many substances, but it is not a fundamental
+law of nature. It fails if
+
+(a) Vdepends on I non—linearly.
+
+[b] the relation between Vand I depends on the sign of Vfor the same
+absolute value of V.
+
+(c) The relation between Vand I is non—unique.
+
+An example of (a) is when p increases with I [even if temperature is
+
+kept fixed). A rectifier combines features (a) and [b]. GaAs shows the
+
+feature (c).
+
+When a source of emf E is connected to an external resistance R, the
+voltage Vext across R is given by
+
+8
+R + r
+where r is the internal resistance of the source.
+
+ 
+
+Vext=IR= R
+
+(a) Total resistance R of n resistors connected in series is given by
+R = R1 + R2 + ..... + Rn
+(b) Total resistance R of n resistors connected in parallel is given by
+
+1 1 1 1
+
+—=—+—+ ...... +—
+
+R R1 R2 R”
+Kirchhoﬂ‘s Rules —
+
+(a) Junction Rule: At any junction of circuit elements, the sum of
+currents entering the junction must equal the sum of currents
+leaving it.
+
+(b) Loop Rule: The algebraic sum of changes in potential around any
+closed loop must be zero.
+
+The Wheatstone bridge is an arrangement of four resistances — R1, R2,
+R3, R4 as shown in the text. The null—point condition is given by
+
+RiRs
+
+R2 R4
+using which the value of one resistance can be determined, knowing
+the other three resistances.
+
+The potentiometer is a device to compare potential differences. Since
+the method involves a condition of no current ﬂow, the device can be
+used to measure potential difference; internal resistance of a cell and
+compare emfs of two sources.
+
+2019-20
+
+Current
+
+125

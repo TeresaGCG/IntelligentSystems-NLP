@@ -1,0 +1,70 @@
+2 1 6 Accountancy
+Summary with Reference to Learning Objectives
+
+1. Meaning of trial balance: A statement showing the abstract of the balance
+[debit/credit] of various accounts in the ledger.
+
+2. Objectives of trial balance: The main objectives of preparing the trial balance
+are : (i) to ascertain the arithmetical accuracy of the ledger accounts; [ii] to
+help in locating errors; and [iii] to help in the preparatioon of the final accounts.
+
+3. Preparation of trial balance by the balance method: In this method, the trial
+balance has three columns. The first column is for the head of the account,
+the second column for writing the debit balance and the third for the credit
+balance of each account in the ledger.
+
+4. Various types of errors:
+
+(i) Errors of commission: Errors caused due to wrong recording of a
+transaction, wrong totalling, wrong casting, wrong balancing, etc.
+
+(ii) Errors of Omission: Errors caused due to omission of recording a
+transaction entirely or party in the books of account.
+
+(iii) Errors of Principle: Errors arising due to wrong classificatrion of receipts
+and payments between revenue and capital receipts and revenue and
+capital expenditure.
+
+(iv) Compensating errors: Two or more errors committed in such a way that
+they nullify the effect of each other on the debits and credits.
+
+5. Rectification of errors: Errors affecting only one account can be rectified by
+giving an explanatory note or by passing a journal entry. Errors which affect
+two or more accounts are rectified by passing a journal entry.
+
+6. Meaning and utility of suspense account: An account in which the difference
+in the trial balance is put till such time that errors are located and rectified.
+It facilitates the preparation of financial statements even when the trial balance
+does not tally.
+
+7. Disposal of suspense account: When all the errors are located and rectified
+the suspense account stands disposed off.
+
+Questions for Practice
+
+Short Answers
+
+1. State the meaning of a trial balance?
+
+Give two examples of errors of principle?
+
+Give two examples of errors of commission?
+What are the methods of preparing trial balance?
+
+What are the steps taken by an accountant to locate the errors in the trial
+balance?
+
+What is a suspense account? Is it necessary that is suspense account will
+balance off after rectification of the errors detected by the accountant? If
+not, then what happens to the balance still remaining in suspense account?
+
+7. What kinds of errors would cause difference in the trial balance. Also list
+examples that would not be revealed by a trial balance?
+
+8. State the limitations of trial balance?
+
+VFW.”
+
+S»
+
+2019-2020

@@ -1,0 +1,65 @@
+OSCILLATIONS
+
+14.4
+
+14.5
+
+14.6
+
+(a)
+
+(b)
+
+ 
+
+"N
+
+1 4 7 10 13 t(s)
+
+ 
+
+Fig. 14.23
+
+Which of the following functions of time represent [a] simple harmonic, [b] periodic
+but not simple harmonic, and [c] non-periodic motion? Give period for each case of
+periodic motion [co is any positive constant}:
+
+(a) sin cot— cos cot
+
+(b) sin3 cot
+
+[c] 3 cos [n/4 — 2wt]
+
+(d) cos cot + cos Scot + cos 5wt
+
+[e] exp [—(oztzl
+
+[f] 1 + (at + (02?
+
+A particle is in linear simple harmonic motion between two points, A and B, 10 cm
+apart. Take the direction from A to B as the positive direction and give the signs of
+velocity, acceleration and force on the particle when it is
+
+[a] at the end A,
+
+(b) at the end B,
+
+[c] at the mid—point of AB going towards A,
+
+(d) at 2 cm away from B going towards A,
+
+[e] at 3 cm away from A going towards B, and
+
+[f] at 4 cm away from B going towards A.
+
+Which of the following relationships between the acceleration a and the displacement
+x of a particle involve simple harmonic motion?
+
+(a) a = 0.7x
+[b] a = —200x2
+[0] = —10x
+[d] a = 100x3
+
+2019-20
+
+363

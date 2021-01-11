@@ -1,0 +1,97 @@
+Moving Charges and
+
+Magnetism
+
+James Maxwell who then realised that light was electromagnetic waves.
+Radio waves were discovered by Hertz, and produced by J .C.Bose and
+G. Marconi by the end of the 19th century. A remarkable scientific and
+technological progress took place in the 20th century. This was due to
+our increased understanding of electromagnetism and the invention of
+devices for production, ampliﬁcation, transmission and detection of
+
+electromagnetic waves.
+
+y o \ 1 o \
+9 ° 6 6 <X> i
+\ 1 \ i
+(a: 71:) (c)
+
+ 
+
+FIGURE 4.1 The magnetic field due to a straight long current—carrying
+wire. The wire is perpendicular to the plane of the paper. A ring of
+compass needles surrounds the wire. The orientation of the needles is
+shown when (a) the current emerges out of the plane of the paper.
+
+(b) the current moves into the plane of the paper. (c) The arrangement of
+iron filings around the wire. The darkened ends of the needle represent
+north poles. The effect of the earth‘s magnetic field is neglected.
+
+In this chapter, we will see how magnetic field exerts
+forces on moving charged particles, like electrons,
+protons, and current-carrying wires. We shall also learn
+how currents produce magnetic fields. We shall see how
+particles can be accelerated to very high energies in a
+cyclotron. We shall study how currents and voltages are
+detected by a galvanometer.
+
+In this and subsequent Chapter on magnetism,
+we adopt the following convention: A current or a
+ﬁeld (electric or magnetic) emerging out of the plane of the
+paper is depicted by a dot (6)). A current or a field going
+into the plane of the paper is depicted by a cross (69 )*.
+Figures. 4.1(a) and 4. 1 (b) correspond to these two
+situations, respectively.
+
+4.2 MAGNETIC FORCE
+4.2.1 Sources and ﬁelds
+
+Before we introduce the concept of a magnetic ﬁeld B, we
+shall recapitulate what we have learnt in Chapter 1 about
+the electric field E. We have seen that the interaction
+between two charges can be considered in two stages.
+The charge Q, the source of the ﬁeld, produces an electric
+field E, where
+
+ 
+
+Hans Christian Oersted
+(1777-1851) Danish
+physicist and chemist,
+professor at Copenhagen.
+He observed that a
+compass needle suffers a
+deﬂection when placed
+near a wire carrying an
+electric current. This
+discovery gave the first
+empirical evidence of a
+connection between electric
+and magnetic phenomena.
+
+* A dot appears like the tip of an arrow pointed at you, a cross is like the feathered
+
+tail of an arrow moving away from you.
+
+2019-20
+
+CE;
+0
+E
+E
+(I)
+E
+0
+E3
+‘3
+m
+U
+r,
+\l
+?‘
+o?
+53
+
+ 
+
+133

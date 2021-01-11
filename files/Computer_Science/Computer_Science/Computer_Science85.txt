@@ -1,0 +1,40 @@
+2.5 Logical Operations 69
+Logical operations C operators Java operators MIPS Instructions
+« «
+;11
+Shift left
+», »,)
+,,1
+Shift right
+Bit.t>y.tlit AND and. andi
+Bit.t>y.tlit OR I I or.or i
+Bit.tly-bit NOT '"
+FtGURE 2.9 C and Java logical operators and their corresponding MIPS Instructions.
+The first class of such operations is called shifts. They move all the bits in a
+word to the left or right, filling the emptied bits with as. For example, if register
+$s a contained
+0000 0000 0000 00000 000 0000 0000 0000 1001 = 9
+two ten
+and the instruction to shift left by 4 was executed, the new value would look like
+th is:
+0000 0000 0000 0000 0000 0000 0000 1001 OOOOtwo= 144
+ten
+The dual of a shift left is a shift right. The actual name of the two MIPS shift
+instructions are called shift left logical (s 11) and shift right logical (s r 1). The fol 
+lowing instruction performs the operation above, assuming that the result should
+go in register H2:
+«
+511 HZ . $sO .4 # reg $tZ reg $sO 4 bits
+=
+We delayed explaining the shamt field in the R-format. It stands for shift
+amount and is used in shift instructions. Hence, the machine language version of
+the instruction above is
+0'
+'d shamt funct
+o o o
+16 10 4
+The encoding of sll is a in both the op and funct fields, rd contains HZ, rt con 
+tains $sO, and shamt contains 4. The rs field is unused, and thus is set to O.
+Shift left logical provides a b.onus benefit. Shifting left by i bits gives the
+same result as multiplying by 2' (Chapter 3 explains why). For exa mrle, the
+above s 11 shifts by 4, which gives the same result as multiplying by 2 or 16.

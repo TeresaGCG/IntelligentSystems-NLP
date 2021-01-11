@@ -1,0 +1,54 @@
+128 Accountancy
+
+Box 2
+
+Debit and Credit Notes
+
+A Debit note is a document evidencing a debit to be raised against a party for reasons
+other than sale on credit. On finding that goods supplied are not as per the terms of
+the order placed, the defective goods are returned to the supplier of the goods and a
+note is prepared to debit the supplier; or when an additional sum is recoverable
+from a customer such a note is prepared to debit the customer with the additional
+dues. In these two situations the note is called a debit note (refer figure 4.7(b)].
+
+A Credit note is prepared, when a party is to be given a credit for reasons other
+than credit purchase. It is a common practice to make it in red ink. When goods are
+received back from a customer, a credit note should be sent to him. The suggested
+proforma of credit note is shown in figure 4.7(c).
+
+Name of the Firm Issuing the Note
+
+Address of the Firm
+No. Date of Issue .........
+
+DEBIT NOTE
+Against : Supplier’s Name
+Goods returned as per delivery Amount (3
+Challan No.
+[Details of goods returned]
+[Rupees ........... only)
+Signature of the Manager with date
+
+ 
+
+Fig. 4.7(b) : Showing a specimen of debit note
+
+Name of the Firm Issuing the Note
+
+Address of the Firm
+No. Date of Issue .........
+
+CREDIT NOTE
+Against : Customer’s Name
+Goods returned by the customer Amount (3
+Challan No.
+(Details of goods returned)
+[Rupees ........... only]
+
+Signature of the Manager with date
+
+ 
+
+Fig. 4.7 (c) : Showing a specimen credit note
+
+2019-2020

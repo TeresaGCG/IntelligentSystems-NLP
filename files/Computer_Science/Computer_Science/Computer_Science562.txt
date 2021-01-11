@@ -1,0 +1,59 @@
+546 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Real Stuff: The Pentium P4 and the AMD
+Opteron Memory Hierarchies
+In this section, we will look at the memory hierarchy in two modern microproces 
+sors: the Intel Pentium P4 and the AMD Opteron processor. In 2004, the P4 is
+used in a variety of PC desktops and small servers. The AMD Opteron processor is
+finding its way into higher-end servers and clusters.
+Figure 7.33 shows the Opteron die photo, and Figure 1.9 on page 21 in Chapter
+1 shows the P4 die photo. Both have secondary caches on the main processor die.
+Such integration reduces access time to the secondary cache and also reduces the
+number of pins on the chip, since there is no need for a bus to an external second 
+ary cache.
+I I
+• •
+Pvo,·,
+' ~-''''*''l
+1,).."
+-
+•
+c..,...
+D......
+l ·.>dS..·••
+.
+•
+-
+- -
+f
+•
+,
+f-n' ...~'~ U~" \ 8." l ,: _,I••
+- -
+~ - u •..,
+•, ,~
+,
+- -
+• •
+- - -
+•
+,•
+.""t...
+- •
+b~ S,~n
+'1,;v;;-~,-1=
+- -
+- "-" n>-" ,f.o -~""""
+- - - -_.
+..
+._~ -
+•
+""'y
+!'k C.," ,n;oIIoor
+•
+• • •
+ClMttG•• •••,
+FIGURE 7.33 An AMD Opteron die processor photo with the components labeled. The L2
+cache occupies 42% of the die. The remaining components in order of size are HyperTransport"": 13%,
+DDR memory: 10%, FetchfScanfAlignfMicrocode: 6%, Memory controller: 4%, FPU: 4%, Instruction
+cache: 4%, Data cache: 4%, Execution units: 3%, Bus unit: 2%, and dock generator: 0.2%. In a 0.13 tech·
+nology, this die is 193 mm2.

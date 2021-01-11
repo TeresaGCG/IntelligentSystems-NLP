@@ -1,0 +1,64 @@
+Roy Optics and
+Optical Instruments
+
+THE BROWNING CHILD, LIFEGUARD AND SNELL’S LAW
+
+Consider a rectangular swimming pool PQSR; see ﬁgure here. A lifeguard sitting at G
+outside the pool notices a child drowning at a point C. The guard wants to reach the
+child in the shortest possible time. Let SR be the
+side of the pool between G and C. Should he/ she P Q
+take a straight line path GAC between G and C or
+GBC in which the path BC in water would be the
+shortest, or some other path GXC? The guard knows
+that his / her running speed v1 on ground is higher
+than his / her swimming speed 02.
+
+Suppose the guard enters water at X. Let GX =11
+and XC =12. Then the time taken to reach from G to
+C would be
+
+t=_li+l_2
+v1 v2
+
+ 
+
+To make this time minimum, one has to
+differentiate it (with respect to the coordinate of X) and find the point X when tis a
+minimum. On doing all this algebra (which we skip here), we find that the guard should
+enter water at a point where Snell’s law is satisfied. To understand this, draw a
+perpendicular LM to side SR at X. Let AGXM = iand ACXL = r. Then it can be seen that t
+is minimum when
+
+sini v1
+
+ 
+
+sin r 02
+
+In the case of light 01/02, the ratio of the velocity of light in vacuum to that in the
+medium, is the refractive index n of the medium.
+
+In short, whether it is a wave or a particle or a human being, whenever two mediums
+and two velocities are involved, one must follow Snell’s law if one wants to take the
+
+shortest time.
+
+9.4 TOTAL INTERNAL REFLECTION
+
+When light travels from an optically denser medium to a rarer medium
+at the interface, it is partly reﬂected back into the same medium and
+partly refracted to the second medium. This reﬂection is called the internal
+reﬂection.
+
+When a ray of light enters from a denser medium to a rarer medium,
+it bends away from the normal, for example, the ray AO1 B in Fig. 9.12.
+The incident ray A01 is partially reﬂected (01 C) and partially transmitted
+(01B) or refracted, the angle of refraction (r) being larger than the angle of
+incidence (i). As the angle of incidence increases, so does the angle of
+refraction, till for the ray A03, the angle of refraction is 7t/ 2. The refracted
+ray is bent so much away from the normal that it grazes the surface at
+the interface between the two media. This is shown by the ray AO3 D in
+Fig. 9.12. If the angle of incidence is increased still further (e. g., the ray
+A04), refraction is not possible, and the incident ray is totally reﬂected. 319
+
+2019-20

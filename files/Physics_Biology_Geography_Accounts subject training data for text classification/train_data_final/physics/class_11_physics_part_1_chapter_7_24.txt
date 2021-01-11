@@ -1,0 +1,54 @@
+SYSTEMS OF PARTICLES AND ROTA’I‘IONAL MOTION 165
+
+ 
+
+Table 7. 1 Moments of inertia of some regular shaped bodies about speciﬁc axes
+
+Body Axis Figure
+
+ 
+
+ 
+
+(1) Thin circular Perpendicular to M R2
+ring, radius R plane, at centre
+(2) Thin circular Diameter M R2 / 2
+ring, radius R
+
+(3) Thin rod, Perpendicular to M L2/ 12
+
+length L rod, at mid point
+I
+
+(4) Circular disc, Perpendicular to (if M R2 / 2
+
+radius R disc at centre :
+l
+
+(5) Circular disc, Diameter M R2 / 4
+radius R —-E}--—--
+
+(6) Hollow cylinder, Axis of cylinder M R2
+radius R Etc- --
+
+(7) Solid cylinder, Axis of cylinder M R2/2
+radius R .9, _
+
+O
+
+(8) Solid sphere, Diameter /Qj‘ 2 M R2 / 5
+
+radius R ‘
+’—
+Theorem of perpendicular axes the theorem. It states that the moment of
+
+_ _ _ _ _ inertia of a planar body (lamina) about an axis
+T hlS theorem is applicable to bodies Wthh are Perpendicular to its plane is equal to the sum
+
+planar. In practice this means the theorem of its moments of inertia about two
+applies to ﬂat bodies whose thickness is very Perpendicular axes concurrent with
+
+small compared to their other dimensions (e.g. perpendicular axis and lying in the plane of
+length, breadth or radius). Fig. 7 .29 illustrates the body.
+
+2019-20

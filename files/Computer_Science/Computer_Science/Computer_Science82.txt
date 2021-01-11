@@ -1,0 +1,38 @@
+66 Chapter 2 Instructions: Language of the Computer
+The s winstruction is identified with 43 in the first field . The rest of this
+final instruction is identical to the 1winstruction.
+The binary equivalent to the decimal form is the following (1200 in base
+10 is 0000 0100 1011 0000 base 2):
+100011 01001 01000 0000 0100 1011 ססoo
+0ססoo0 10010 01000 01000 I 00000 I 100000
+101011 01001 01000 0000 0100 1011 ססoo
+Note the similarity of the binary representations of the first and last in 
+structions. The only difference is in the third bit from the left.
+Figure 2.7 summarizes the portions of MIPS assembly language described in
+this section. As we shall see in Chapters 5 and 6, the similarity of the binary repre 
+sentations of related instructions simplifies hardware design. These instructions
+are another example of regularity in the MIPS architecture.
+Check
+Why doesn't MIPS have a subtract immediate instruction?
+Yourself
+I. Negative constants appear much less frequently in C and Java, so they are
+not the common case and do not merit special support.
+2. Since the immediate field holds both negative and positive constants, add
+immediate with a negative number is equivalent to subtract immediate
+with a positive number, so subtract immediate is superfluous.
+BIG
+Today's computers are built on two key principles:
+The
+I. Instructions are represented as numbers.
+Picture
+2. Programs are stored in memory to be read or written, just like numbers.
+These principles lead to the stored-program concept; its invention let the
+computing genie out of its bottle. Figure 2.8 shows the power of the concept;
+specifically, memory can contain the source code for an editor program, the
+corresponding compiled machine code, the text that the compiled program
+is using, and even the compiler that generated the machine code.
+One consequence of instructions as numbers is that programs are often
+shipped as files of binary numbers. The commercial implication is that
+computers can inherit ready-made software provided they are compatible
+with an existing instruction set. Such "binary compatibility" often leads
+industry to align around a small number of instruction set architecnlfes.

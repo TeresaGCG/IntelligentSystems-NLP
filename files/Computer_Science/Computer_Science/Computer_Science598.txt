@@ -1,0 +1,69 @@
+582
+Chapter 8
+actual data from the disk. The control lines will be used to indicate what type of
+information is contained on the data lines of the bus at each point in the transfer.
+Some buses have two sets of signal lines to separately communicate both data and
+address in a single bus transmission. In either case, the control lines are used to
+indicate what the bus contains and to implement the bus protocol. And because
+the bus is shared, we also need a protocol to decide who uses it next; we will dis 
+cuss this problem shortly.
+bus transaction A sequence of Let's consider a typical bus transaction. A bus transaction includes two
+bus operations that includes a parts: sending the address and receiving or sending the data. Bus transactions are
+request and may include a
+typically defined by what they do to memory. A read transaction transfers data
+response, either of which may
+from memory (to either the processor or an I/O device), and a write transaction
+carry data.A transaction is initi 
+writes data to the memory. Clearly, this terminology is confusing. To avoid this,
+ated by a single request and may
+we'll try to use the terms inpl/t and Ol/tput, which are always defined from the per 
+take many individual bus opera 
+spective of the processor: an input operation is inputting data from the device to
+tions.
+memory, where the processor can read it, and an output operation is outputting
+data to a device from memory where the processor wrote it.
+processor-memory bus Abus Buses are traditionally classified as processor-memory buses or 110 bl/ses. Pro 
+that connects processor and cessor-memory buses are short, generally high speed, and matched to the memory
+memory and that is short, gen 
+system so as to maximize memory-processor bandwidth. I/O buses, by contrast,
+erally high speed, and matched
+can be lengthy, can have many types of devices connected to them, and often have
+to the memory system so as to
+a wide range in the data bandwidth of the devices connected to them. I/O buses
+maXImize memory-processor
+do not typically interface directly to the memory but use either a processor-mem 
+bandwidth.
+ory or a backplane bus to connect to memory. Other buses with different charac 
+backplane bus A bus that is
+teristics have emerged for special functions, such as graphics buses.
+designed to allow processors,
+The I/O bus serves as a way of expanding the machine and connecting new
+memory, and I/O devices to
+peripherals. To make this easier, the computer industry has developed several
+coexist on a single bus.
+standards. The standards serve as a specification for the computer manufacturer
+and for the peripheral manufacnlfer. A standard ensures the computer designer
+that peripherals will be available for a new machine, and it ensures the peripheral
+builder that users will be able to hook up their new equipment. Figure 8.9 sum 
+marizes the key characteristics of the two dominant I/O bus standards: Firewire
+and USB. They connect a variety of devices to the desktop computer, from key 
+boards to cameras to disks.
+synchronous bus A bus that
+The two basic schemes for communication on the bus are synchronous and
+includes a clock in the control
+asynchronous. If a bus is synchronous, it includes a clock in the control lines and
+lines and a fixed protocol for
+a fixed protocol for communicating that is relative to the clock. For example, for a
+communicating that is relative
+to the clock. processor-memory bus performing a read from memory, we might have a proto 
+col that transmits the address and read command on the first clock cycle, using
+asynchronous bus A bus that
+the control lines to indicate the type of request. The memory might then be
+uses a handshaking protocol for
+required to respond with the data word on the fifth clock. This type of protocol
+coordinating usage rather than a
+clock; can accommodate a wide can be implemented easily in a small finite state machine. Because the protocol is
+variety of devices of differing
+predetermined and involves little logic, the bus can run very fast and the interface
+speeds.
+logic will be small.

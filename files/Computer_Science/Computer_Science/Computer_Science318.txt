@@ -1,0 +1,43 @@
+302 Chapter 5 The Processor: Datapath and Control
+I I
+Instruction Instruction Desired ALU control
+opcode operation Funct field AlU action Input
+LW 00 load word XXJ()()(J( odd 0010
+SW 00 store word XXJ()()(J( odd 0010
+Branch equal 01 branch equal XXJ()()(J( subtract 0110
+R<ype 10 odd 100000 odd 0010
+R<ype 10 subtract 100010 subtract 0110
+",'
+R<ype 10 ANO 100100 0000
+R<ype 10 OR 100101 0' 0001
+R<ype 10 set on less than 101010 set on less than 0111
+FIGURE 5.12 How the ALU control bits are set depends on the ALUOp control bits and
+the different function codes for the R·type Instruction. The opcode, listed in the first column,
+determines the selting of the ALUOp bits. All the encodings are shown in binary. Notice that when the
+ALUOp cooe is 00 or 01, the desired ALU action does not depend on the function code field; in this case, we
+xxxxxx.
+say that we "don't care" about the value of the function code, and the funct field is shown as
+When the ALUOp value is 10, then the function code is used to seltheALU control input.
+ALUOp Funct field
+IIiIlmlliIElElIIiiI
+AlUOpl AlUOpO Operation
+0 0 X X X X X X 0010
+X 1 X X X X X X 0110
+1 X X X 0 0 0 0 0010
+1 X X X 0 0 1 0 0110
+1 X X X 0 1 0 0 0000
+1 X X X 0 1 0 1 0001
+1 X X X 1 0 1 0 0111
+FIGURE 5.13 The truth table for the three ALU control bits (called Operation). The inputs
+are the ALUOp and function code field. Only the entries for which the ALU control is asserted are shown.
+Some don't-care entries have been added. For example, the ALUOp does not U'ie the encoding II, so the
+tmth table can contain entries IX and XI, rather than 10 and 01. Also, when the function field is used, the
+first two bits (FS and F4) of these instructions are always 10, so they are don't-care terms and are replaced
+with XX in the truth table.
+Because only a small number of the 64 possible values of the function field are of
+interest and the function field is used only when the ALUOp bits equal 10, we can
+use a small piece of logic that recognizes the subset of possible values and causes
+the correct setting of the ALU control bits.
+As a step in designing this logic, it is useful to create a truth table for the inter 
+esting combinations of the function code field and the ALUOp bits, as we've done
+in Figure 5.13; this truth table shows how the 3-bit ALU control is set depending

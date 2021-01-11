@@ -1,0 +1,62 @@
+Electromagnetic
+Woves
+
+ 
+
+Example 8.4 Light with an energy ﬂux of 18 W/cm2 falls on a non-
+reﬂecting surface at normal incidence. If the surface has an area of
+20 cm2, find the average force exerted on the surface during a 30
+minute time span.
+
+Solution
+The total energy falling on the surface is
+
+U = (18 W/cm2) x (20 cm2) x (30 x 60)
+= 6.48 x 105J
+Therefore, the total momentum delivered (for complete absorption) is
+
+U 6.48X105J
+= —=—= 2.16 x 1031:
+p C 3x108m/s g m/s
+
+ 
+
+H
+The average force exerted on the surface is g
+—3
+F=£=—2’16X104 =1.2><10‘6N E
+t 0.18 x 10 m
+How will your result be modiﬁed if the surface is a perfect reﬂector? ll:
+Example 8.5 Calculate the electric and magnetic ﬁelds produced by
+the radiation coming from a 100 W bulb at a distance of 3 m. Assume
+that the efficiency of the bulb is 2.5% and it is a point source.
+Solution The bulb, as a point source, radiates light in all directions
+uniformly. At a distance of 3 m, the surface area of the surrounding
+sphere is
+A = 4m2 = 4mg)2 = 113m2
+The intensity I at this distance is
+I _ Power _ 100W x 2.5%
+Area 113 m2
+= 0.022 W/m2
+Half of this intensity is provided by the electric field and half by the
+magnetic field.
+1 1 2
+51 = 5(80Emsc)
+1
+= — 0.022W m2
+,( / >
+Em, = —0-032 W
+(8.85 x 10‘ )(3 x 108)
+= 2.9 V/m
+The value of E found above is the root mean square value of the
+electric field. Since the electric field in a light beam is sinusoidal, the
+peak electric field, E0 is
+E0 = JiEms = J5 >< 2.9V/m m
+= 4.07 V/m g
+Thus, you see that the electric field strength of the light that you use E
+for reading is fairly large. Compare it with electric field strength of CD
+TV or FM waves, which is of the order of a few microvolts per metre. 51
+
+2019-20
+
+279

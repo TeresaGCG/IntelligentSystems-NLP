@@ -1,0 +1,36 @@
+Numbers
+23
+Zero is the great leveler of multiplication. You can take a number as big
+as three trillion, but simply multiplying it by 0 leaves you with 0. I can’t
+say it enough: Zero times any number is zero. So, adding 0 to a number
+doesn’t change the number, but multiplying a number by 0 turns that
+number into 0.
+I have given you plenty of reasons why zero is a pretty special num-
+ber, but there’s even more to admire about it. If you multiply any two
+numbers together and get 0, then you know that one of the numbers
+involved in the multiplication must have been 0. In other words, the only
+way that the product of two numbers is 0 is if one of the two numbers in
+the product is 0. Wow—0 is a many-splendored thing.
+Zero has gotten all of the attention in this lesson, but there is another
+number mentioned in the title: 1. The number 1 can also do some amazing
+things. Multiplying a number by 1 doesn’t change the number: 6 × 1 = 6
+and 30 × 1 = 30. The number 1 is the only number with this particular
+property. We call 1 the multiplicative identity because nothing changes
+when you multiply a number by 1. Zero is to addition as 1 is to multiplica-
+tion. It will be important to remember these properties because they
+come in handy in algebra.
+Lesson 1-6: Division
+Division is the reverse, or undoing, of multiplication. Division is re-
+lated to multiplication in the same way that subtraction is related to addi-
+tion. Because 4 × 5 = 20 we say that  and  . Being familiar
+with the multiplication table will be very helpful when solving division
+problems.
+The symbols used for division are 
+The expressions   all mean the same thing.
+The number 20 in all of the examples is the number that gets divided; it is
+called the dividend. The number 5 in all of the examples is the number
+that divides into the dividend; it is called the divisor. The answer ob-
+tained after doing the division is called the quotient. Just as with subtrac-
+tion, order matters; division is not commutative.
+To work out a division problem involving two-digit numbers, it is
+best to use long division. I will review long division in the first example.

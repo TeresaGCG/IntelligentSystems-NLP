@@ -1,0 +1,53 @@
+3.27
+
+3.28
+
+PHYSICS
+
+-x (m)
+
+60
+40
+
+20
+
+2 4 6 8 10 t(S)
+
+Fig. 3.27
+
+The speed—time graph of a particle moving along a fixed direction is shown in
+
+Fig. 3.28. Obtain the distance traversed by the particle between [a] t = 0 s to 10 s,
+(b) t=25t06s.
+
+r—l
+N
+
+Speed (ms‘I)
+
+0 5 10 t
+Fig. 3.28
+
+What is the average speed of the particle over the intervals in [a] and [b] ?
+
+The velocity—time graph of a particle in one—dimensional motion is shown in
+Fig. 3.29 :
+
+ 
+
+Fig. 3.29
+
+Which of the following formulae are correct for describing the motion of the particle
+over the time—interval t1 to t :
+
+(a) x(t2) = x(t1)+ v (t1) (t2— t1) +2(1/2) a (t2— t}
+(b) v(t2) = v(t1) + a (t2 — t1)
+
+(c) vame = my — x(t1))/(t2— t1)
+
+(d) aame = (mg) — wan/(t2— t)
+
+(e) X(t2) = X(t1) + l)(11)erage (t2— t1) + (1/2) aaverage (t2_ t1)2
+[1] x(t2 ) — x(t1) = area under the v—t curve bounded by the t—axis and the dotted line
+shown.
+2019-20

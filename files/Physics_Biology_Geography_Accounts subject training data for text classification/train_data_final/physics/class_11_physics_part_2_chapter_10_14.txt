@@ -1,0 +1,114 @@
+264
+
+PHYSICS
+
+ 
+
+Table 10.2 The viscosities of some ﬂuids
+
+m we) Viscosity (mPl)
+
+Water 20 1.0
+100 0.3
+Blood 37 2.7
+Machine Oil 16 1 13
+38 34
+Glycerine 20 830
+Honey — 200
+Air 0 0.017
+40 0.0 19
+
+10.5. 1 Stokes' Law
+
+When a body falls through a ﬂuid it drags the
+layer of the ﬂuid in contact with it. A relative
+motion between the different layers of the ﬂuid
+is set and, as a result, the body experiences a
+retarding force. Falling of a raindrop and
+swinging of a pendulum bob are some common
+examples of such motion. It is seen that the
+viscous force is proportional to the velocity of
+the object and is opposite to the direction of
+motion. The other quantities on which the force
+Fdepends are viscosity 1] of the ﬂuid and radius
+a of the sphere. Sir George G. Stokes (1819—
+1903), an English scientist enunciated clearly
+the viscous drag force F as
+
+F=67t77av (10.19)
+
+This is known as Stokes’ law. We shall not
+derive Stokes’ law.
+
+This law is an interesting example of retarding
+force, which is proportional to velocity. We can
+study its consequences on an object falling
+through a viscous medium. We consider a
+raindrop in air. It accelerates initially due to
+gravity. As the velocity increases, the retarding
+force also increases. Finally, when viscous force
+plus buoyant force becomes equal to the force
+due to gravity, the net force becomes zero and so
+does the acceleration. The sphere (raindrop) then
+descends with a constant velocity. Thus, in
+equilibrium, this terminal velocity vt is given by
+
+67mm)t = (475/ 3) a3 (9-0)!)
+
+2019-20
+
+where p and o are mass densities of sphere and
+the ﬂuid, respectively. We obtain
+
+v. = 2a2 (9-619 / (911) (1020}
+
+So the terminal velocity vt depends on the
+square of the radius of the sphere and inversely
+on the viscosity of the medium.
+
+You may like to refer back to Example 6.2 in
+this context.
+
+Example 1 0.1 O The terminal velocity of a
+copper ball of radius 2.0 mm falling through
+a tank of oil at 20"C is 6.5 cm 5". Compute
+
+the viscosity of the oil at 20°C. Density of
+oil is 1.5 ><103 kg m"’. density of copper is
+8.9 x 1015 kg m“.
+
+ 
+
+AnswerWe have vt= 6.5 x 10'2 mS'1,a= 2 x 10'3 m,
+g = 9.8 mS'Z, p = 8.9 x 103 kg m'3,
+
+6 =1.5 ><103 kg m'3. From Eq. (10.20)
+
+2 (2X10'3) 2 m2 X 9.8ms'2
+11 =—xﬁ
+9 6.5 x 10 ms
+
+= 9.9 x 10'1 kg m‘1S'1 4
+
+x 7.4 x 103 kg m’3
+
+10.6 SURFACE TENSION
+
+You must have noticed that, oil and water do
+not mix; water wets you and me but not ducks;
+mercury does not wet glass but water sticks to
+it, oil rises up a cotton wick, inspite of gravity,
+Sap and water rise up to the top of the leaves of
+the tree, hair of a paint brush do not cling
+together when dry and even when dipped in
+water but form a fine tip when taken out of it.
+All these and many more such experiences are
+related with the free surfaces of liquids. As
+liquids have no definite shape but have a
+definite volume, they acquire a free surface when
+poured in a container. These surfaces possess
+some additional energy. This phenomenon is
+known as surface tension and it is concerned
+with only liquid as gases do not have free
+surfaces. Let us now understand this
+phenomena.

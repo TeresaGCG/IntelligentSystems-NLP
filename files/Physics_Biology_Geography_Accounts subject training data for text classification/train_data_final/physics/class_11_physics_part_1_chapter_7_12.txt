@@ -1,0 +1,107 @@
+SYSTEMS OI’ PARTICLES AND ROTATIONAL MOTION
+
+153
+
+ 
+
+a circle with a centre C on the axis. The radius
+of the circle is r, the perpendicular distance of
+the point P from the axis. We also show the
+linear velocity vector v of the particle at P. It is
+along the tangent at P to the circle.
+
+Let P’ be the position of the particle after an
+interval of time At (Fig. 7.16). The angle PCP’
+describes the angular displacement A0 of the
+particle in time At. The average angular velocity
+of the particle over the interval At is AO/ At. As
+At tends to zero (i.e. takes smaller and smaller
+values), the ratio AO/ At approaches a limit which
+is the instantaneous angular velocity d6/dt of
+the particle at the position P. We denote the
+instantaneous angular velocity by a) (the
+Greek letter omega). We know from our study
+of circular motion that the magnitude of linear
+velocity v of a particle moving in a circle is
+related to the angular velocity of the particle 60
+by the simple relation 1) = wr, where r is the
+radius of the circle.
+
+We observe that at any given instant the
+relation v = (0T applies to all particles of the
+rigid body. Thus for a particle at a perpendicular
+distance ri from the fixed axis, the linear velocity
+at a given instant vi is given by
+
+vi = curl. (7.19)
+
+The index iruns from 1 to n, where n is the
+total number of particles of the body.
+
+For particles on the axis, r = 0 , and hence
+
+v = a) r = 0. Thus, particles on the axis are
+stationary. This verifies that the axis is ﬁxed.
+
+Note that we use the same angular velocity
+u) for all the particles. We therefore, refer to (o
+as the angular velocity of the whole body.
+
+We have characterised pure translation of
+a body by all parts of the body having the same
+velocity at any instant of time. Similarly, we
+may characterise pure rotation by all parts of
+the body having the same angular velocity at
+any instant of time. Note that this
+characterisation of the rotation of a rigid body
+about a fixed axis is just another way of saying
+as in Sec. 7. 1 that each particle of the body moves
+in a circle, which lies in a plane perpendicular
+to the axis and has the centre on the axis.
+
+In our discussion so far the angular velocity
+appears to be a scalar. In fact, it is a vector. We
+shall not justify this fact, but we shall accept
+it. For rotation about a fixed axis, the angular
+velocity vector lies along the axis of rotation,
+
+and points out in the direction in which a right
+handed screw would advance, if the head of the
+screw is rotated with the body. (See Fig. 7 . 17a).
+
+The magnitude of this vector is a): dQ/dt
+referred as above.
+
+ 
+
+Fig. 7.17 (a) If the head of a right handed screw
+rotates with the body, the screw
+advances in the direction of the angular
+velocity u). If the sense (clockwise or
+anticlockwise) of rotation of the body
+changes, so does the direction of a).
+
+ 
+
+Fig. 7.1 7 (b) The angular velocity vector on is
+directed along the ﬁxed axis as shown.
+The linear velocity of the particle at P
+is v = a) x r. It is perpendicular to both
+a) and r and is directed along the
+tangent to the circle described by the
+
+particle.
+
+We shall now look at what the vector product
+a) x r corresponds to. Refer to Fig. 7 . 17 (b) which
+is a part of Fig. 7.16 reproduced to show the
+path of the particle P. The figure shows the
+vector a) directed along the fixed (2—) axis and
+
+also the position vector r = op of the particle
+
+at P of the rigid body with respect to the origin
+0. Note that the origin is chosen to be on the
+axis of rotation.
+
+2019-20

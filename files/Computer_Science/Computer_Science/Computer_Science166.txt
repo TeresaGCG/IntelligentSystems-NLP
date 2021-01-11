@@ -1,0 +1,42 @@
+150 Chapter 2 Instructions: Language of the Computer
+2.20 (10) <§2.8> Compute the decimal byte values that form the null-terminated
+ASCII representation of the following string:
+A byte is 8 bits
+2.21 (30) <§§2.7, 2.8> . For More Practice: MIPS Coding and ASCII Strings
+'II
+2.22 (20) <§§2.7, 2.8> For More Practice: MIPS Coding and ASCII Strings
+II
+2.23 (20) <§§2.7, 2.8> {Ex. 2.22} For More Practice: MIPS Coding and ASCII
+Strings
+2.24 (30) <§§2.7, 2.8> . For More Practice: MIPS Coding and ASCII Strings
+'II
+2.25 <§2.8> For Mo re Practice: Comparing C!Java to MIPS
+II
+2.26 <§2.8> For Mo re Practice: Translating MIPS to C
+II
+2.27 <§2.8> For More Practice: Understanding MIPS Code
+II
+2.28 <§2.8> For Mo re Practice: Understanding MIPS Code
+2.29 [5] <§§2.3, 2.6, 2.9> Add comments to the following MIPS code and de 
+scribe in one sentence what it computes. Assume that $aO and $al are used for
+the input and both initially contain the integers a and b, respectively. Assume that
+$vO is used for the output.
+add lt~ . $zero , $zero
+loop : beq $a 1, $zero , fi nish
+add lt~ . lt~ . $a0
+sub $a 1, $a1, 1
+loop
+J
+finish: addi lt~ . lt~ . 100
+add $v0, lt~ . $zero
+2.30 (12) <§§2.3, 2.6, 2.9> The following code fragment processes two arrays and
+produces an important value in register $vO. Assume that each array consists of
+2500 words indexed 0 through 2499, that the base addresses ofthe arrays are stored
+in $a 0 and $a 1 respectively, and their sizes (2500) are stored in $a 2 and $a3, re 
+spectively. Add comments to the code and describe in one sentence what this code
+does. Specifically, what will be returned in $vO?
+s 11 $a2, $a2, 2
+s 11 $a3, $a3, 2
+add $v0 , $zero, $zero
+add lt~ . $zero, $zero
+outer : add lt4. $aO, lt~

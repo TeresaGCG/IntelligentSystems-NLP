@@ -1,0 +1,40 @@
+332 Chapter 5 The Processor: Datapath and Control
+Multiplexor controls are slightly different, since they select one of the inputs
+whether they are 0 or 1. Thus, in the finite state machine, we always specify the
+setting of all the multiplexor controls that we care about. When we implement the
+finite state machine with logic, setting a control to 0 may be the default and thus
+may not require any gates. A simple exam ple of a finite state machine appears in
+Appendix B, and if you are unfamiliar with the concept of a finite state machine,
+1£
+you may want to examine Appendix B before proceeding.
+The finite state control essentially corresponds to the five steps of execution
+shown on pages 325 through 329; each state in the finite state machine will take 1
+clock cycle. The finite state machine will consist of several parts. Since the first two
+steps of execution are identical for every instruction, the initial two states of the
+finite state machine will be common for all instructions. Steps 3 through 5 differ,
+depending on the opcode. After the execution of the last step for a particular
+instruction class, the finite state machine will return to the initial state to begin
+fetching the next instruction.
+Figure 5.31 shows this abstracted representation of the finite state machine. To
+fill in the details of the finite state machine, we will first expand the instruction
+fetch and decode portion, and then we will show the states (and actions) for the
+different instruction classes.
+We show the first two states of the finite state machine in Figure 5.32 using a
+traditional graphic representation. We number the states to simplify the explana 
+tion, though the numbers are arbitrary. State 0, corresponding to step 1, is the
+starting state of the machine.
+The signals that are asserted in each state are shown within the circle represent 
+ing the state. The arcs between states define the next state and are labeled with
+Start
+I
+I
+Instruction fetch/decode and register fetch
+(Figure 5.32)
+Memory access R-type instructions Branch instruction Jump instruction
+instructions (Figure 5.34) (Rgure 5.35) (Figure 5.36)
+(Figure 5.33)
+FIGURE 5.31 The high-level view of the finite state machine control. The first steps are inde 
+pendent ofthe instruction class; then a series ofsequences that depend on the instruction opcode are used
+to complete each instruction class. After completing the actions needed for that instruction class, the con 
+trol returns to fetch a new instruction. Each box in this figure may represent one to several states. The arc
+labeled Start m.uks the stale in which to begin when the first instruction is to be fetched.

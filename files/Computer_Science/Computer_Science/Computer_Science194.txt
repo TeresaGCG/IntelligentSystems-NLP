@@ -1,0 +1,24 @@
+178 Chapter 3 Arithmetic: for Computers
+Figure 3.6 shows the three basic steps needed for each bit. The least significant
+bit of the multiplier (MultiplierO) determines whether the multiplicand is added
+to the Product register. The left shift in step 2 has the effect of moving the inter 
+mediate operands to the left, just as when multiplying by hand. The shift right in
+step 3 gives us the next bit of the multiplier to examine in the following iteration.
+These three steps are repeated 32 times to obtain the product. If each step took a
+( )
+Start
+MultiplierO '" 1 1. Test MultiplierO '" 0
+MultiplierO
+~
+1a. Add multiplicand to pnxluct and
+place the result in Product register
+2. Shift the Multiplicand register left 1 bit
+3. Shift the Multiplier register right 1 bit
+No: < 32 repetitions
+32nd repetition?
+Yes: 32 repetitions
+( Dooe )
+FIGURE 3.6 The first multiplication algorithm, using the hardware shown In Figure 3.5. If
+the least significam bit of the multiplier is I, add the multiplicand to the product.Ifnot, go to the next step.
+Shift the multiplicand left and the multiplier right in the next two steps. These three steps are repeated 32
+times.

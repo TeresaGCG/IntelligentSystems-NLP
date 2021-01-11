@@ -1,0 +1,59 @@
+3 2 Accountancy : Company Accounts and Analysis of Financial Statements
+
+1.6.7 Issue of Shares for Consideration other than Cash
+
+There are instances where a company enters into an arrangement with the
+vendors from whom it has purchased assets, whereby the latter agrees to accept,
+the payment in the form of fully paid shares of the company issued to them.
+Normally, no such cash is received for issue of shares. These shares can also be
+issued either at par, at premium or at discount, and the number of shares to be
+issued will depend upon the price at which the shares are issued and the amount
+payable to the vendor. The number of shares to be issued to the vendor will be
+calculated as follows:
+
+Number of shares to be issued = Amount Payable
+Issue Price
+
+For example, Rahul Limited purchased building from Handa Limited for
+Rs.5,40,000 and the payment is to be made by the issue of shares of Rs. 100
+each. The number of shares to be issued shall be worked out as follows in different
+situations:
+
+(a) When shares are issued at par; Le. at Rs. 100
+
+Amount Payable
+
+Issue Price
+Rs. 5.40.000
+
+Rs. 100
+= 5,400 shares
+
+Number of shares to be issued =
+
+(b) When shares issued at premium of 20%. Le. at Rs. 120 (1 00 + 20)
+
+Amount Payable
+Number of shares to be issued =
+
+Issue Price
+Rs. 5.40.000
+
+Rs. 120
+= 4,500 shares
+
+The journal entries recorded for the shares issued for consideration other
+than cash in above situations will be as follows :
+
+Books of Rahul Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(Rs. ) (Rs. )
+
+ 
+
+Building A/c . 5.40.000
+To Handa Limited 5.40.000
+(Building purchased)

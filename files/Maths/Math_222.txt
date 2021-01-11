@@ -1,0 +1,33 @@
+Homework Helpers: Basic Math and Pre-Algebra
+222
+Solution: In order to find the rate of the spacecraft in miles per
+hour we need to know how many hours the Odyssey traveled.
+Between April 7th and October 24th, there are 191 days. There
+are 24 hours in a day, so the Odyssey traveled 4,584 hours.
+If r represents the rate of the Odyssey, we can start with the rate
+equation:
+r⋅ t=d
+Substitute in for the distance and the time
+Divide both sides of the equation by 4,584
+Simplify
+The Odyssey traveled roughly 62,391 miles per hour.
+Lesson 12-3 Review
+Solve the following problems:
+1. Nancy flew 1,040 miles to visit her sister in New York. If her plane
+is scheduled to take off at 7 a.m. and will arrive at 10:15 a.m., find
+the average speed that the plane will travel in miles per hour.
+2. Nancy’s sister lives 32 miles from the airport and would like to
+meet her sister at the gate. If Nancy’s flight is scheduled to arrive at
+10:15 a.m. and traffic is light enough that her sister can drive 48
+miles per hour, what time should she leave for the airport?
+3. Harry’s car has a flat tire so he has to ride his bicycle to work. His
+office is 2 miles away from his house and he has to get to work by
+8 a.m. If he leaves his house at 7:54 a.m. how fast does he have to
+ride his bicycle in order to get to work on time? Give his rate in
+miles per hour.
+Lesson 12-4: Money Problems
+Problems that involve money often involve either different coins or
+bills. If you work in dollars (when the problems involve bills) or cents (if
+the problem involves coins), you will usually end up dealing with whole
+numbers instead of fractions or decimals.
+www.ebook3000.com

@@ -1,0 +1,48 @@
+110 Chapter 2 Instructions: Language of the Computer
+Object file header
+Name Procedure A
+Text size lO°he<
+Data size 20"",
+Text segment Address Instruction
+0 l w S~O. O($gp)
+4 jal 0
+- -
+Data segment 0 (X)
+... ...
+Relocation information Address Instruction type Dependency
+0 X
+"
+4 j .1 B
+Symbol table Label Address
+X
+B
+Object file header
+Name Procedure B
+Text size 20° <
+he
+Data size 30"",
+Text segment Address Instruction
+0 sw S~l. O( Sgp )
+4 jal 0
+... -
+Data segment 0 (Y)
+... ...
+Relocation information Address Instruction type Dependency
+y
+0 "
+4 j .1 A
+Symbol table Label Address
+y
+A
+ANSWER Procedure A needs to find the address for the variable labeled X to put in the
+load instruction and to find the address of procedure B to place in the j a 1 in 
+struction. Procedure B needs the address of the variable labeled Y for the
+store instruction and the address of procedure A for its j a 1 instruction.
+From Figure 2. 17 on page 87, we know that the text segment starts at address
+and the data segment at The te>.1. of procedure is
+40 OOOOhex 1000 OOOOhex' A
+placed at the first address and its data at the second. The object file header for pro 
+cedure Asays that its text is lOOttexbytes and its data is 20ttexbytes, so the starting ad 
+dress for procedure te>.1. is and its data starts at
+B 4 0 0100 , 1000 0020 '
+hex hex

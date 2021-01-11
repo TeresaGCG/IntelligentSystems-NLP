@@ -1,0 +1,136 @@
+24
+
+PHYSICS
+
+ 
+
+to sign and size. These can arise due to random
+and unpredictable ﬂuctuations in experimental
+conditions (e.g. unpredictable ﬂuctuations in
+temperature, voltage supply, mechanical
+vibrations of experimental set-ups, etc), personal
+(unbiased) errors by the observer taking
+readings, etc. For example, when the same
+person repeats the same observation, it is very
+likely that he may get different readings
+everytime.
+
+Least count error
+
+The smallest value that can be measured by the
+measuring instrument is called its least count.
+All the readings or measured values are good only
+up to this value.
+
+The least count error is the error
+associated with the resolution of the instrument.
+For example, a vernier callipers has the least
+count as 0.01 cm; a spherometer may have a
+least count of 0.001 cm. Least count error
+belongs to the category of random errors but
+within a limited size; it occurs with both
+systematic and random errors. If we use a metre
+scale for measurement of length, it may have
+graduations at 1 mm division scale spacing or
+interval.
+
+Using instruments of higher precision,
+improving experimental techniques, etc., we can
+reduce the least count error. Repeating the
+observations several times and taking the
+arithmetic mean of all the observations, the
+mean value would be very close to the true value
+of the measured quantity.
+
+2.6.1 Absolute Error. Relative Error and
+Percentage Error
+
+(a) Suppose the values obtained in several
+measurements are al, a2, a3...., an. The
+arithmetic mean of these values is taken as
+the best possible value of the quantity under
+the given conditions of measurement as :
+
+mean = (a1+a2+a3+"'+an) / n (2.4)
+or,
+n
+am" 2 21:6” / ” (2.5)
+i:
+
+This is because, as explained earlier, it is
+reasonable to suppose that individual
+measurements are as likely to overestimate
+
+2019-20
+
+as to underestimate the true value of the
+quantity.
+
+The magnitude of the difference
+between the individual measurement and
+the true value of the quantity is called the
+absolute error of the measurement. This
+is denoted by |Aa |. In absence of any other
+method of knowing true value, we considered
+arithmatic mean as the true value. Then the
+errors in the individual measurement values
+from the true value, are
+
+= a1 — a
+
+Aal ,
+mean
+
+A612 = a2 — am
+
+an’
+
+Aa n = an. — amean
+
+The Aa calculated above may be positive in
+certain cases and negative in some other
+cases. But absolute error IAaI will always
+
+be positive.
+
+(b) The arithmetic mean of all the absolute errors
+is taken as the ﬁnal or mean absolute error
+of the value of the physical quantity a. It is
+
+represented by Aamm.
+Thus,
+
+Aamm= (IAa1|+IAa2 I+|Aa3|+,__+ 'Aanll/n
+(2.6)
+
+= Z IAail /n (2.7)
+i=1
+
+If we do a single measurement, the value we
+get may be in the range amem i Aa
+
+mean
+
+i.e. a=a iAa
+
+mean mean
+
+or,
+—ACl <Cl<Cl +ACl
+
+mean mean _ _ mean mean
+
+(2.8)
+
+This implies that any measurement of the
+physical quantity a is likely to lie between
+(a + Aamem) and (am — Aa ).
+
+mean an mean
+
+(c) Instead of the absolute error, we often use
+the relative error or the percentage error
+
+(8a). The relative error is the ratio of the
+mean absolute error Aamm to the mean
+value amen" of the quantity measured.

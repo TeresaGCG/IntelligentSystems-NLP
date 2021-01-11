@@ -1,0 +1,23 @@
+Inequalities and Graphs
+155
+Example 1
+Graph the solution to the inequality: −3x < 15
+Solution: The solution to this inequality is x > −5, which is the
+open ray shown in Figure 8.5.
+–5
+x> −5
+Figure 8.5
+Example 2
+Graph the solution to the inequality: 2x + 10 ≥ 7x
+Solution: The solution to this inequality is x ≤ 2, which is the
+closed ray shown in Figure 8.6.
+2
+x≤ 2
+Figure 8.6
+Example 3
+Graph the solution to the inequality: 12 > −2x − 6
+Solution: The solution to this inequality is x > −9, which is the
+open ray shown in Figure 8.7.
+–9
+x> −9
+Figure 8.7

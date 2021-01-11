@@ -1,0 +1,32 @@
+Homework Helpers: Basic Math and Pre-Algebra
+38
+Example 2
+Find the sum: (−4) + (−3)
+Solution: Start at −4 and move 3 units to the left, as shown in
+Figure 2.4: (−4) + (−3)= −7.
+–7 –6 –5 –4
+Figure 2.4
+Example 3
+Find the sum: (−5) + 3
+Solution: Start at −5 and move 3 units to the right, as shown in
+Figure 2.5: (−5) + 3 = −2.
+–5 –4 –3 –2
+Figure 2.5
+When you use a number line to add two integers together, you are
+finding a graphical solution to the problem. You can also add integers
+algebraically, or without using a number line. Using a number line to
+visualize the process helps keep things straight, but if you are working
+with large numbers you may need a really, really long number line.
+When adding two integers together there are three different possible
+scenarios: Both of the integers could be positive, both integers could be
+negative, or the integers could have opposite signs. You have already
+practiced adding two positive integers together; adding two positive inte-
+gers is the same thing as adding two counting numbers. We need to dis-
+cuss how to add two negative integers together as well as how to add two
+integers that have opposite signs.
+One way to add two negative integers is to turn it into a problem of
+adding two positive integers and then changing the sign of the answer.
+For example, (−4) + (−3) = −7 is the same as −(4 + 3) = −7. So, when you
+add two negative integers you can pretend that they are both positive
+integers, add them together, and then put a negative sign in front.
+www.ebook3000.com

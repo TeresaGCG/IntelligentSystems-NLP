@@ -1,0 +1,43 @@
+312 Chapter 5 The Processor: Datapath and Control
+In the next section, we will examine machines that are truly sequential, namely,
+those in which each of these steps is a distinct clock cycle.
+Finalizing the Control
+Now that we have seen how the instructions operate in steps, let's continue with
+the control implementation. The control function ca n be precisely defined using
+the contents of Figure 5. 18 on page 308. The outputs are the control lines, and the
+input is the 6-bit apcade field, Op [5:0J, Thus, we can create a truth table for each
+of the outputs based on the binary encoding of the apcades.
+Figure 5.22 shows the logic in the control unit as one large truth table that
+combines all the outputs and that uses the opcade bits as inputs. It completely
+specifies the control function, and we can implement it directly in gates in an
+II
+automated fashion. We show this final step in Section C.2 in Appendix C.
+Input or output Signal name R-format
+Inputs Op5 0 1 1 0
+Op4 0 0 0 0
+Op3 0 0 1 0
+Op2 0 0 0 1
+Op1 0 1 1 0
+OpO 0 1 1 0
+Outputs RegDst 1 0 X X
+ALUSn: 0 1 1 0
+MemtoReg 0 1 X X
+RegWrite 1 1 0 0
+MemRead 0 1 0 0
+MemWrite 0 0 1 0
+Branch 0 0 0 1
+ALUOp1 1 0 0 0
+ALUOpO 0 0 0 1
+single-cycle
+FIGURE 5.22 The control function for the simple slngle-eycle Implementation Is com 
+im plementatio n Also called pletely specified by this truth table. The top halfof the table gives the combinations of input signals
+single dock cycle implementa  that correspond to the four opcodes that determine the control output settings. (~member that Op [5:01
+corresponds to bits 31:26 of the instruction, which is the op field.) The bottom portion ofthe table gives the
+tion. An implementation in
+outputs. Thus, the output RegWrite is asserted for two different combinations of the inputs. If we consider
+which an instruction is executed
+only the four opcodes shown in this table, then we can simplify the truth table by using don't cares in the
+in one clock cycle.
+input portion. For example, we can detect an R·format instruction with the expression OpS • Opl, since
+this is sufficient to distinguish the R·forntat instructions from lw, sw, and beq. We do not take advantage
+ofthis simplific.1tion, since the rest of the MIPS opoodes are used in a full implementation.

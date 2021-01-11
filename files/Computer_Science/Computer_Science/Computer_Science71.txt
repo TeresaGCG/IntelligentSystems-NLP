@@ -1,0 +1,24 @@
+2.3 Operands of the Computer Hardware 55
+Compiling an Assignment When an Operand Is in Memory
+Let's assume that A is an array of 100 words and that the compiler has EXAMPLE
+associated the variables 9 and h with the registers $ s 1 and $s 2 as before.
+Let's also assume that the starting address, or base address, of the array is in
+$s3. Compile this C assignment statement:
+9 h + A[8] ;
+=
+Although there is a single operation in this assignment statement, one of the ANSWER
+operands is in memory, so we must first transfer A[8] to a register. The ad 
+dress of this array element is the sum of the base of the array A, found in reg 
+ister $ s3, plus the number to select element 8. The data should be placed in a
+temporary register for use in the next instruction. Based on Figure 2.2, the
+first compiled instruction is
+lw $t O,8($s3l # Temporary r eg $t O ge t s A[8]
+(On the next page we'll make a slight adjustment to this instruction, but we'll
+use this simplified version for now.) The following instruction can operate on
+the value in $tO (which equals A[8]) since it is in a register. The instruction
+must add h (contained in $s 2) to A[ 8] ($ t O) and put the sum in the register
+corresponding to g (associated with $s 1):
+add $sl ,$ s2 , $tO # g h + A[8]
+=
+The constant in a data transfer instruction is called the offset, and the register
+added to form the address is called the base register.

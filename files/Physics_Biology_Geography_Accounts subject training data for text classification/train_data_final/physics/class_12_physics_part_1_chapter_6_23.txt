@@ -1,0 +1,66 @@
+Electromagnetic
+Induction
+
+ 
+
+MIGRATION OF BIRDS
+
+The migratory pattern of birds is one of the mysteries in the field of biology, and indeed all
+of science. For example, every winter birds from Siberia ﬂy unerringly to water spots in the
+Indian subcontinent. There has been a suggestion that electromagnetic induction may
+provide a clue to these migratory patterns. The earth’s magnetic field has existed throughout
+evolutionary history. It would be of great benefit to migratory birds to use this field to
+determine the direction. As far as we know birds contain no ferromagnetic material. So
+electromagnetic induction seems to be the only reasonable mechanism to determine
+direction. Consider the optimal case where the magnetic field B, the velocity of the bird v,
+and two relevant points of its anatomy separated by a distance I, all three are mutually
+perpendicular. From the formula for motional emf, Eq. (6.5),
+
+8=Blv
+Taking B = 4 X 10-5T, 1: 2 cm wide, and v = 10 m/s, we obtain
+8 =4X 10‘5X2X lO‘ZX 10V=8X IO‘BV
+
+=8uV
+
+This extremely small potential difference suggests that our hypothesis is of doubtful
+validity. Certain kinds of fish are able to detect small potential differences. However, in
+these fish, special cells have been identified which detect small voltage differences. In birds
+no such cells have been identified. Thus, the migration patterns of birds continues to remain
+
+a mystery.
+
+SUMMARY
+
+1. The magnetic ﬂux through a surface of areaA placed in a uniform magnetic
+ﬁeld B is defined as,
+
+(DB = B.A= BA cos 6
+
+where 9 is the angle between B and A.
+
+2. Faraday’s laws of induction imply that the emf induced in a coil of N
+turns is directly related to the rate of change of ﬂux through it,
+
+E = —N %
+dt
+Here 473 is the ﬂux linked with one turn of the coil. If the circuit is
+closed, a current I = 8 / R is set up in it, where R is the resistance of the
+circuit.
+
+3. Lenz’s law states that the polarity of the induced emf is such that it
+tends to produce a current which opposes the change in magnetic ﬂux
+that produces it. The negative sign in the expression for Faraday’s law
+indicates this fact.
+
+4. When a metal rod of length l is placed normal to a uniform magnetic
+field B and moved with a velocity v perpendicular to the field, the
+induced emf [called motional emf) across its ends is
+
+£=Blv
+
+5. Changing magnetic fields can set up current loops in nearby metal
+[any conductor] bodies. They dissipate electrical energy as heat. Such
+currents are eddy currents.
+6. Inductance is the ratio of the ﬂux—linkage to current. It is equal to Ndﬁ/I. 227
+
+2019-20

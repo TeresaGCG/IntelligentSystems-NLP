@@ -1,0 +1,65 @@
+1.1 Introduction 5
+Classes of Computing Applications and Their
+Characteristics
+Although a common set of hardware technologies (discussed in Sections 1.3 and
+1.4) is used in computers ranging from smart home appliances to cell phones to
+the largest supercomputers, these different applications have different design
+requirements and employ the core hardware technologies in different ways.
+Broadly speaking, computers are used in three different classes of applications.
+Desktop computers are possibly the best-known form of computing and are desktop computer A com 
+characterized by the personal computer, which most readers of this book have puter designed for use by an
+individual, usually incorporat 
+probably used extensively. Desktop computers emphasize delivering good perfor 
+inga graphics display, keyboard,
+mance to a single user at low cost and usually are used to execute third-party soft 
+and mouse.
+ware, also called shrink-wrap software. Desktop computing is one of the largest
+markets for computers, and the evolution of many computing technologies is
+driven by this class of computing, which is only about 30 years old!
+Servers are the modern form of what was once mainframes, minicomputers,
+Server A computer used for
+and supercomputers, and are usually accessed only via a network. Servers are ori  running larger programs for
+ented to carrying large workloads, which may consist of either single complex multiple users often simulta 
+neously and typically accessed
+applications, usually a scientific or engineering application, or handling many
+only via a network.
+small jobs, such as would occur in building a large Web server. These applications
+are often based on software from another source (such as a database or simulation
+system), but are often modified or customized for a particular function. Servers
+are built from the same basic technology as desktop computers, but provide for
+greater expa ndability of both computing and input/output capacity. As we will see
+in the Chapter 4, the performance of a server can be measured in several different
+ways, depending on the application of interest. In general, servers also place a
+greater emphasis on dependability, since a crash is usually more costly than it
+would be on a single-user desktop computer.
+Servers span the widest range in cost and capability. At the low end, a server supercomputer A class of
+computers with the highest per 
+may be little more than a desktop machine without a screen or keyboard and with
+formance and cost; they are
+a cost of a thousand dollars. These low-end servers are typically used for file stor 
+configured as servers and typi 
+age, small business applications, or simple web serving. At the other extreme are
+cally cost millions ofdollars.
+supercomputers, which at the present consist of hundreds to thousands of pro 
+terabyte Originally
+cessors, and usually gigabytes to terabytes of memory and terabytes to petabytes
+40
+1,099,511,627,776 (2 bytes,
+)
+of storage, and cost millions to hundreds of millions of dollars. Supercomputers
+although some communications
+are usually used for high-end scientific and engineering calculations, such as
+and secondary storage systems
+weather forecasting, oil exploration, protein structure determination, and other
+have redefined it to mean
+large-scale problems. Although such supercomputers represent the peak of com  1,000,000,000,000 (1012 bytes.
+)
+puting capability, they are a relatively small fraction of the servers and a relatively
+embedded computer A com 
+small fraction of the overall computer market in terms of total revenue.
+puter inside another device used
+Embedded computers are the largest class of computers and span the widest
+for rulming one predetermined
+range of applications and performance. Embedded computers include the micro 
+application or collection ofsoft 
+processors found in your washing machine and car, the computers in a cell phone ware.

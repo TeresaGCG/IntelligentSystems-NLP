@@ -1,0 +1,111 @@
+168
+
+PHYSICS
+
+there is no need to treat angular velocity as a
+vector. Further, the angular acceleration, 06 =
+
+dw/dt.
+
+The kinematical quantities in rotational
+motion, angular displacement (9), angular
+velocity ((0) and angular acceleration (a)
+respectively are analogous to kinematic
+quantities in linear motion, displacement (x),
+velocity (v) and acceleration (a). We know the
+kinematical equations of linear motion with
+uniform (i.e. constant) acceleration:
+
+v = v0 + at (a)
+1
+
+x=xO +120t+§at2 (b)
+
+v2 = v3 + 2ax (C)
+
+where x0 = initial displacement and v0= initial
+velocity. The word ‘initial’ refers to values of the
+quantities at t = 0
+
+The corresponding kinematic equations for
+rotational motion with uniform angular
+acceleration are:
+
+a): 600 + at (7.38)
+0 = 00 + wot + g at2 (7.39)
+and aﬁ = 6002 + 2040— 00) (7.40)
+
+where 60: initial angular displacement of the
+rotating body, and (00 = initial angular velocity
+of the body.
+
+ 
+
+Fig. 7.33 Specifying the angular position of a rigid
+body.
+
+2019-20
+
+> Example 7.13 Obtain Eq. (7.38) from ﬁrst
+principles.
+
+Answer The angular acceleration is uniform,
+hence
+
+E = a = constant (i)
+dt
+
+Integrating this equation,
+
+w=Iadt+c
+
+= at + c (as a is constant)
+
+At t = 0, a) = (00 (given)
+
+From (i) we getat t=0, w= c= (00
+
+Thus, (0 = at + (00 as required.
+
+With the definition of co = dO/dt we may
+integrate Eq. (7.38) to get Eq. (7.39). This
+derivation and the derivation of Eq. (7.40) is
+left as an exercise.
+
+) Example 7.14 The angular speed of a
+motor wheel is increased from 1200 rpm
+to 3120 rpm in 16 seconds. (i) What is its
+
+angular acceleration, assuming the
+acceleration to be uniform? (ii) How many
+revolutions does the engine make during
+this tiIDE?
+
+ 
+
+Answer
+
+(i) We shall use a) = 600 + at
+coo = initial angular speed in rad / s
+
+= 27: X angular speed in rev/s
+
+27x >< angular speed in rev/ min
+60 s/min
+
+= 27r><1200 rad/s
+60
+
+= 407: rad/s
+Similarly a) = final angular speed in rad/s
+27; x 3 1 20
+60
+
+27: X 52 rad/s
+104 7rrad/s
+
+rad / s
+
+Angular acceleration
+
+= 4 7r rad/s2

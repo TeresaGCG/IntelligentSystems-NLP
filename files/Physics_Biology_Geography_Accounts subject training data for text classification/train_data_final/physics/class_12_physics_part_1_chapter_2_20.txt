@@ -1,0 +1,72 @@
+Electrostatic Potential
+and Capacitance
+
+(b) To enable them to conduct charge (produced by friction) to the
+ground; as too much of static electricity accumulated may result
+in spark and result in ﬁre.
+
+(c) Reason similar to (b).
+
+ 
+
+((1) Current passes only when there is difference in potential.
+
+2. 10 DIELECTRICS AND POLARISATION
+
+Dielectrics are non-conducting substances. In contrast to conductors,
+they have no (or negligible number of) charge carriers. Recall from Section
+2.9 what happens when a conductor is placed in an
+external electric ﬁeld. The free charge carriers move
+and charge distribution in the conductor adjusts
+itself in such a way that the electric ﬁeld due to
+induced charges opposes the external field within
+the conductor. This happens until, in the static
+situation, the two ﬁelds cancel each other and the
+net electrostatic ﬁeld in the conductor is zero. In a
+dielectric, this free movement of charges is not
+possible. It turns out that the external ﬁeld induces
+dipole moment by stretching or re-orienting
+molecules of the dielectric. The collective effect of all
+the molecular dipole moments is net charges on the
+surface of the dielectric which produce a ﬁeld that
+opposes the external ﬁeld. Unlike in a conductor,
+however, the opposing field so induced does not
+exactly cancel the external ﬁeld. It only reduces it.
+The extent of the effect depends on the
+nature of the dielectric. To understand the
+effect, we need to look at the charge . _ _
+distribution of a dielectric at the Non-Polar g ‘-
+molecular level. "
+The molecules of a substance may be
+polar or non-polar. In a non-polar
+molecule, the centres of positive and
+negative charges coincide. The molecule
+then has no permanent (or intrinsic) dipole
+moment. Examples of non-polar molecules
+are oxygen (02) and hydrogen (H2) .
+molecules which, because of their polar
+symmetry, have no dipole moment. On the I
+other hand, a polar molecule is one in which _ 7 7 7
+the centres of positive and negative charges H01
+are separated (even when there is no
+external field). Such molecules have a
+permanent dipole moment. An ionic
+molecule such as HCl or a molecule of water
+(H20) are examples of polar molecules. 7 1
+
+ 
+
+Dielectric
+
+FIGURE 2.20 Difference in behaviour
+of a conductor and a dielectric
+in an external electric field.
+
+ 
+
+   
+
+FIGURE 2.21 Some examples of polar
+and non-polar molecules.
+
+2019-20

@@ -1,0 +1,64 @@
+i Physics
+
+WHAT HAPPENS TO MY COMPASS NEEDLES AT THE POLES?
+
+A compass needle consists of a magnetic needle which ﬂoats on a pivotal point. When the
+compass is held level, it points along the direction of the horizontal component of the earth’s
+magnetic ﬁeld at the location. Thus, the compass needle would stay along the magnetic
+meridian of the place. In some places on the earth there are deposits of magnetic minerals
+which cause the compass needle to deviate ﬁ‘om the magnetic meridian. Knowing the magnetic
+
+declination at a place allows us to correct the compass to determine the direction of true
+north.
+
+N
+T / compass face
+
+360”
+
+  
+
+free-ﬂoating needle
+that lines up with
+magnetic north (NH)
+
+//
+
+So what happens if we take our compass to the magnetic pole? At the poles, the magnetic
+ﬁeld lines are converging or diverging vertically so that the horizontal component is negligible.
+If the needle is only capable of moving in a horizontal plane, it can point along any direction,
+rendering it useless as a direction finder. What one needs in such a case is a dip needle
+which is a compass pivoted to move in a vertical plane containing the magnetic ﬁeld of the
+earth. The needle of the compass then shows the angle which the magnetic ﬁeld makes with
+the vertical. At the magnetic poles such a needle will point straight down.
+
+Example 5.9 In the magnetic meridian of a certain place, the
+horizontal component of the earth’s magnetic field is 0.26G and the
+dip angle is 60°. What is the magnetic field of the earth at this location?
+
+270
+
+ 
+
+ 
+
+180°
+
+Solution
+It is given that HE = 0.26 G. From Fig. 5.11, we have
+
+cos 60° = i
+B
+
+ 
+
+EXAMPLE 5.9
+n
+‘ .0
+to
+03
+||
+
+188
+
+2019-20

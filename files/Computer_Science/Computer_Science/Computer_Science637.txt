@@ -1,0 +1,37 @@
+8.12 Exercises 621
+• DMA interfaces: The I/O adapters use DMA to transfer the data between the
+I/O buses and the processor-memory bus. The DMA unit arbitrates for the
+processor-memory bus and sends/receives four-word blocks from/to the
+memory system. The DMA controller can accommodate up to eight disks.
+Initiating a new I/O operation (including the seek and access) takes 0.1 ms,
+during which another I/O ca nnot be initiated by this controller (but out 
+standing operations can be handled).
+• I/O bus: The I/O bus is a synchronous bus with a sustainable bandwidth of
+100 MB/sec; each transfer is one word long.
+• Disks: The disks have a measured average seek plus rotational latency of 8
+ms. The disks have a read/write bandwidth of 40 MB/sec, when they are
+transferring.
+Find the time required to read a 16 KB sector from a disk to memory, assuming
+that this is the only activity on the bus.
+8.46 [5 <§8.7> In order to perform a disk or network access, it is typically nec 
+J
+essary for the user to have the operating system communicate with the disk or net 
+work controllers. Suppose that in a particular 5 GHz computer, it takes 10,000
+cycles to trap to the as, 20 ms for the OS to perform a disk access, and 25 fls for
+the as to perform a network access. In a disk access, what percentage of the delay
+time is spent in trapping to the aS? How about in a network access?
+8.47 [5 <§8.7> Suppose that in the computer in Exercise 8.46 we can somehow
+J
+reduce the time for the OS to communicate with the disk controller by 60%, and
+we can reduce the time for the OS to communicate with the network by 40%. By
+what percentage can we reduce the total time for a network access? By what per 
+centage can we reduce the total time for a disk access? Is it worthwhile for us to
+spend a lot of effort improving the as trap latency in a computer that performs
+many disk accesses? How about in a computer that performs many network
+accesses?
+§8.2, Page 580: Dependability: 2 and 3. RAID: All are true. Answers To
+§8.3, Page 8.3- 10: 1. Check
+§8.4, Page 587: 1 and 2.
+Yourself
+§8.5, Page 597: 1 and 2.
+§8.6, Page 600: 1 and 2.

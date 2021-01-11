@@ -1,0 +1,60 @@
+i Physics
+
+and V(B) respectively. Since current is ﬂowing from A to B, WA) > V(B)
+and the potential difference across AB is V: V(A) — V(B) > O.
+In a time interval At, an amount of charge AQ = I At travels from A to
+B. The potential energy of the charge at A, by definition, was Q WA) and
+similarly at B, it is Q V(B). Thus, change in its potential energy AUpot is
+AUpot = Final potential energy — Initial potential energy
+= AQ[(V(B) - V(AH = -AQ V
+= —I VAt < O (3.28)
+If charges moved without collisions through the conductor, their
+kinetic energy would also change so that the total energy is unchanged.
+Conservation of total energy would then imply that,
+
+AK= —AUPot (3.29)
+that is,
+AK = I VAt > O (3.30)
+
+Thus, in case charges were moving freely through the conductor under
+the action of electric field, their kinetic energy would increase as they
+move. We have, however, seen earlier that on the average, charge carriers
+do not move with acceleration but with a steady drift velocity. This is
+because of the collisions with ions and atoms during transit. During
+collisions, the energy gained by the charges thus is shared with the atoms.
+The atoms vibrate more vigorously, i.e., the conductor heats up. Thus,
+in an actual conductor, an amount of energy dissipated as heat in the
+conductor during the time interval At is,
+
+AW= IVAt (3.31)
+
+The energy dissipated per unit time is the power dissipated
+P = AW/At and we have,
+
+P = I V (3.32)
+Using Ohm’s law V = IR, we get
+P= 12R: V2/R (3.33)
+
+as the power loss (“ohmic loss”) in a conductor of resistance R carrying a
+current I. It is this power which heats up, for example, the coil of an
+electric bulb to incandescence, radiating out heat and
+
+Positive Negative hght
+elecm’de eleCtrOde Where does the power come from? As we have
+R reasoned before, we need an external source to keep
+E1 a steady current through the conductor. It is clearly
+ectrolyte . , ,
+this source Wthh must supply this power. In the
+simple circuit shown with a cell (Fig.3.12), it is the
+chemical energy of the cell which supplies this power
+for as long as it can.
+FIGURE 3_12 Heat is produced in the The expressions for power, Eqs. (3.32) and (3.33),
+resistor R which is connected across show the dependence of the power dissipated in a
+the tCI’IIliIlalS of a cell. The energy resistor R on the current through it and the voltage
+dissipated in the resistor R comes from across it,
+the Chemical energy 0f the dedmlyte- Equation (3.33) has an important application to
+106 power transmission. Electrical power is transmitted
+
+from power stations to homes and factories, which
+
+2019-20

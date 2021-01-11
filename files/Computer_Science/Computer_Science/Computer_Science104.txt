@@ -1,0 +1,39 @@
+88 Chapter 2 Instructions: Language of the Computer
+leads to a "memory leak" which eventually uses up so much memory that the oper 
+ating system may crash. Freeing space too early leads to a "dangling pointers," which
+can cause pointers to point to things that the program never intended.
+Figure 2.18 summarizes the register conventions for the MIPS assembly
+language. Figures 2.19 and 2.20 summarize the parts of the MIPS assembly instruc 
+tions described so far and the corresponding MIPS machine instmctions.
+Elaboration: What if there are more than four parameters? The MIPS convention is
+to place the extra parameters on the stack just above the frame pointer. The procedure
+then expects the first four parameters to be in registers $aO through $il3 and the rest
+in memory, addressable via the frame pointer.
+As mentioned in the caption of Figure 2.16, the frame pointer is convenient because
+all references to variables in the stack within a procedure will have the same offset.
+The frame pointer is not necessary, however. The GNU MIPS C compiler uses a frame
+pointer, but the C compiler from MIPS/Silicon Graphics does not; it uses register 30 as
+another save register ($s8).
+j a1 actually saves the address of the instruction that follows j ill into register $ra,
+thereby allowing a procedure return to be simply j r $ril .
+Check
+Which of the following statements about C and Java are generally true?
+Yourself
+I. Procedure calls in C are faster than method invocation in Java.
+2. C programmers manage data explicitly while it's automatic in Java.
+3. C leads to more pointer bugs and memory leak bugs than does Java.
+4. C passes parameters in registers while Java passes them on the stack.
+• Preserved on
+Register number call?
+$zero 0 the constant value 0 n.a.
+hO-h I 2-3 values for results and expression evaluation 0"
+$ilO-$a3 4- 7 arguments 00
+$tO-$t7 8-15 temporaries 00
+$sO-$s7 16-23 saved y"
+$tB--$t9 24- 25 more temporaries 00
+$gp 28 global pointer ""
+$'p 29 stack pointer ""
+Ifp 30 frame pointer y"
+$co 31 return address y"
+FIGURE 2.18 MIPS register conventions. Register I, called $dt, is reserved for the assembler (see
+Section 2.10), and registers 26--27, called $kO- $k1, are reserved for the operating system.

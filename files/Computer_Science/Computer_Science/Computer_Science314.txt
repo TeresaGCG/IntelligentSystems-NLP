@@ -1,0 +1,34 @@
+298 Chapter 5 The Processor: Datapath and Control
+Creating a Single Datapath
+Now that we have examined the datapath components needed for the individual
+instruction classes, we can combine them into a single datapath and add the con 
+trol to complete the implementation. The simplest datapath might attempt to exe 
+cute all instructions in one clock cycle. This means that no datapath resource can
+be used more than once per instruction, so any element needed more than once
+must be duplicated. 'We therefore need a memory for instructions separate from
+one for data. Although some of the functional units will need to be duplicated,
+many of the elements can be shared by different instruction flows.
+To share a datapath element between two different instruction classes, we may
+need to allow multiple connections to the input of an element, using a multi 
+plexor and control signal to select among the multiple inputs.
+Building a Datapath
+The operations of arithmetic-logical (or R-type) instructions and the memory
+EXAMPLE
+instructions datapath are quite similar. The key differences are the following:
+• The arithmetic-logical instructions use the ALU with the inputs coming
+from the two registers. The memory instructions ca n also use the ALU
+to do the address calculation, although the second input is the sign-ex 
+tended 16-bit offset field from the instruction.
+• The value stored into a destination register comes from the ALU (for an
+R-type instruction) or the memory (for a load).
+Show how to build a datapath for the operational portion of the memory ref 
+erence and arithmetic-logical instructions that uses a single register file and a
+single ALU to handle both types of instructions, adding any necessary multi 
+plexors.
+ANSWER To create a datapath with only a single register file and a single ALU, we must
+support two different sources for the second ALU input, as well as two differ 
+ent sources for the data stored into the register file. Thus, one multiplexor is
+placed at the ALU input and another at the data input to the register file.
+Figure 5. 10 shows the operational portion of the combined datapath.
+Now we ca n combine all the pieces to make a simple datapath for the MIPS
+architecture by adding the datapath for instruction fetch (Figure 5.6 on page 293),

@@ -1,0 +1,101 @@
+80
+
+PHYSICS
+
+ 
+
+    
+
+(b1)
+
+ 
+
+(b) (c)
+
+Fig. 4. 1 9 Velocity and acceleration of an object in unifom circular motion. The time interval At decreases from
+(a) to (c) where it is zero. The acceleration is directed, at each point of the path, towards the centre of
+
+the circle.
+
+Let r and r’ be the position vectors and v and
+v’ the velocities of the object when it is at point P
+and P’ as shown in Fig. 4.19(a). By definition,
+velocity at a point is along the tangent at that
+point in the direction of motion. The velocity
+vectors v and v’ are as shown in Fig. 4.19(a1).
+Av is obtained in Fig. 4. 19 (a2) using the triangle
+law of vector addition. Since the path is circular,
+v is perpendicular to r and so is v’ to r’.
+Therefore, Av is perpendicular to Ar. Since
+
+A I
+average acceleration is along Av L5 : —VJ, the
+
+At
+average acceleration E is perpendicular to Ar. If
+we place Av on the line that bisects the angle
+between 1' and 1" , we see that it is directed towards
+the centre of the circle. Figure 4.19(b) shows the
+same quantities for smaller time interval. Av and
+
+hence E is again directed towards the centre.
+
+In Fig. 4.19(c), At-> O and the average
+acceleration becomes the instantaneous
+acceleration. It is directed towards the centre*.
+Thus, we find that the acceleration of an object
+in uniform circular motion is always directed
+towards the centre of the circle. Let us now find
+the magnitude of the acceleration.
+
+The magnitude of a is, by definition, given by
+
+I l l |Av|
+a = ' —
+Alm—> 0 At
+
+Let the angle between position vectors 1' and
+
+1" be A0. Since the velocity vectors v and v’ are
+always perpendicular to the position vectors, the
+angle between them is also A0 . Therefore, the
+triangle CPP’ formed by the position vectors and
+
+the triangle GHI formed by the velocity vectors
+v, v’ and Av are similar (Fig. 4.19a). Therefore,
+the ratio of the base-length to side-length for
+one of the triangles is equal to that of the other
+triangle. That is :
+
+ 
+
+ 
+
+‘Av‘ ‘Ar‘
+U — R
+lArl
+Or, IAv|=v—
+R
+Therefore,
+IAVI lerl v lArl
+|a|= lim —— -— lim —
+
+ 
+
+_ lim _
+At—>0 At At—>0RAt RAt—>0 At
+
+If At is small, A9 will also be small and then arc
+PP’ can be approximately taken to be I Arl :
+
+IArI z vAt
+
+_:U
+01" At—>0At
+
+Therefore, the centripetal acceleration aC is :
+
+* In the limit At—~ 0, Ar becomes perpendicular to r. In this limit Ave 0 and is consequently also perpendicular
+to V. Therefore, the acceleration is directed towards the centre, at each point of the circular path.
+
+2019-20

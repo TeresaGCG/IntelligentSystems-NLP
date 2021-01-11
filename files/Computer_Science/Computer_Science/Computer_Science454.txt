@@ -1,0 +1,43 @@
+438 Chapter 6 Enhancing Performance with Plpellnlng
+Clea rly, this two-issue processor can improve performance by up to a factor of
+2. Doing so, however, requires that twice as many instructions be overlapped in
+execution, and this additional overlap increases the relative performance loss from
+data and control hazards. For example, in our simple five-stage pipeline, loads
+have a use latency of 1 clock cycle, which prevents one instruction from using the
+result without stalling. In the two-issue, five-stage pipeline, the result of a load
+instruction cannot be used on the next clock cycle. This means that the next two
+instructions cannot use the load result without stalling. Furthermore, ALU
+instructions that had no use latency in the simple five-stage pipeline, now have a
+one-instruction use latency, since the results cannot be used in the paired load or
+store. To effectively exploit the parallelism available in a multiple-issue processor,
+more ambitious compiler or hardware scheduling techniques are needed, and
+static multiple issue requires that the compiler takes on this role.
+Simple Multiple-ls5ue Code Scheduling
+How would this loop be scheduled on a static two-issue pipeline for MIPS?
+EXAMPLE
+Loop : lw ItO . O($sl) II $tO=array element
+addu $t0 , HO ,$ s2 II add scalar in $s2
+sw ItO . O($sl) II store result
+addi $sl , $sl , - 4 II decrement pointer
+bne $sl , $zero,Loop II branch $sl !=O
+Reorder the instructions to avoid as many pipeline stalls as possible. Assume
+branches are predicted, so that control hazards are handled by the hardware.
+The first three instructions have data dependences, and so do the last two.
+ANSWER
+Figure 6.46 shows the best schedule for these instructions. Notice that just
+one pair of instructions has both issue slots used. It takes 4 clocks per loop it 
+eration; at 4 clocks to execute 5 instructions, we get the disappointing CPI of
+0.8 versus the best case of 0.5., or an IPC of 1.25 versus 2.0. Notice that in
+computing CPI or IPC, we do not count any nops executed as useful instruc 
+tions. Doing so would improve CPI, but not performance!
+loop unrolling A technique to
+get more performance from
+loops that access arrays, in
+An important compiler technique to get more performance from loops is loop
+which multiple copies ofthe
+unrolling, a technique where multiple copies of the loop body are made. After
+loop body are made and instruc 
+unrolling, there is more ILP available by overlapping instructions from different
+tions from different iterations
+iterations.
+are scheduled together.

@@ -1,0 +1,33 @@
+Algebra and Geometry
+193
+line. We will start by calculating the distance between two points on any
+horizontal line. If a line is horizontal, the y-coordinate of every point on
+the line is the same; only the x-coordinates can change. To find the
+distance between two points on a horizontal line, subtract the smaller
+x-coordinate value from the larger x-coordinate value.
+Example 1
+Find the distance between the points (3, 5) and (10, 5).
+Solution: Notice that these two points have the same y-coordinate.
+These two points lie on a horizontal line, so the distance between
+them is the difference between the two x-coordinates:
+10− 3 = 7
+We will now turn our attention to finding the distance between two
+points that lie on any vertical line. If a line is vertical, the x-coordinate of
+every point on the line is the same; only the y-coordinates can change. To
+find the distance between two points on a vertical line, all you have to do
+is subtract the smaller y-coordinate value from the larger y-coordinate
+value.
+Example 2
+Find the distance between the points (3, 5) and (3, 8).
+Solution: Notice that these two points have the same x-coordinate.
+These two points lie on a vertical line, so the distance between
+them is just the difference between the two y-coordinates:
+8− 5 = 3
+Because the distance between two points must always be a positive
+number, we need to make sure that we always subtract the smaller num-
+ber from the larger number. If we are dealing with general points that are
+represented using variables, we can’t tell which of the two variables rep-
+resents a larger number. Fortunately, we have a way of making sure that
+a number is always positive: Use the absolute value! So if we want to
+make sure that an algebraic expression is always positive we can just put
+absolute value symbols around it!

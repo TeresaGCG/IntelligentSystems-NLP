@@ -1,0 +1,41 @@
+S.4 A Simple Implementation Scheme 301
+The ALU Control
+As can be seen in Appendix B, the ALU has four control inputs. These bits were not
+encoded; hence, only 6 of the possible 16 possible input combinations are used in
+II
+this subset. The MIPSALU in Appendix Bshows the 6 following combinations:
+AW control lines Function
+0000 ANO
+OOO! OR
+0010 ,dd
+0110 subtract
+0111 set on less than
+1!oo
+NOR
+Depending on the instmction class, the ALU will need to perform one of these first
+five functions. (NOR is needed for other parts of the MIPS instruction set.) For load
+word and store word instructions, we use the ALU to compute the memory address
+by addition. For the R-type instructions, the ALU needs to perform one of the five
+actions (AND, OR, subtract, add, or set on less than), depending on the value of the
+6-bit funct (or function) field in the low-order bits of the instruction (see Chapter
+2). For branch equal, the ALU must perform a subtraction.
+We can generate the 4-bit ALU control input using a small control unit that has
+as inputs the function field of the instruction and a 2-bit control field , which we
+call ALUOp. ALUOp indicates whether the operation to be performed should be
+add (00) for loads and stores, subtract (0 1) for beq, or determined by the opera 
+tion encoded in the funct field ( 10). The output of the ALU control unit is a 4-bit
+signal that directly controls the ALU by generating one of the 4-bit combinations
+shown previously.
+In Figure 5.1 2, we show how to set the ALU control inputs based on the 2-bit
+ALUOp control and the 6-bit function code. For completeness, the relationship
+between the ALUOp bits and the instruction opcode is also shown. Later in this
+chapter we will see how the ALUOp bits are generated from the main control unit.
+This style of using multiple levels of decoding-that is, the main control unit
+generates the ALUOp bits, which then are used as input to the ALU control that
+generates the actual signals to control the ALU unit- is a common implementa 
+tion technique. Using multiple levels of control can reduce the size of the main
+control unit. Using several smaller control units may also potentially increase the
+speed of the control unit. Such optimizations are important, since the control unit
+is often performance-critical.
+There are several different ways to implement the mapping from the 2-bit
+ALUOp field and the 6-bit funct field to the three ALU operation control bits.

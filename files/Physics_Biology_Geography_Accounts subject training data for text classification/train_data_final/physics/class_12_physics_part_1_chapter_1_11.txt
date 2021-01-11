@@ -1,0 +1,91 @@
+Since force is a vector, it is better to write
+Coulomb’s law in the vector notation. Let the
+position vectors of charges q1 and q2 be I1 and 1'2
+respectively [see Fig. 1.6(a)]. We denote force on
+q1 due to q2 by F12 and force on q2 due to q1 by
+F21. The two point charges q1 and q2 have been
+numbered 1 and 2 for convenience and the vector
+leading from 1 to 2 is denoted by r21:
+
+r V r21 = r2 — r1
+
+q 2', , e ’ F21 In the same way, the vector leading from 2 to
+
+1 e”, lisdenotedb r :
+
+/" 61qu > o y 12
+
+F1 = _ = _
+2 iv , /'q, 1'12 1'1 1'2 1'21
+A a ’ ’ F21
+,, , e’q q 0 The magnitude of the vectors 1'21 and r12 is
+1 2< . _
+
+g/Fu' denoted by r21 and r12,respect1vely (r12 — r21). The
+
+(b)
+
+FIGURE 1.6 (a) Geometry and
+(b) Forces between charges. 1'21
+
+direction of a vector is speciﬁed by a unit vector
+along the vector. To denote the direction from 1
+to 2 (or from 2 to 1), we define the unit vectors:
+
+1- A r A A
+=ﬂ, 1'12 =1—2, 1'21 = 1'12
+
+r21 r12
+Coulomb’s force law between two point charges q1 and q2 located at
+
+1'1 and 1'2 is then expressed as
+
+1 Q1Q2 A
+
+1'
+47:30 r221 21 (1‘3)
+
+ 
+
+ 
+
+F21 =
+
+Some remarks on Eq. (1.3) are relevant:
+
+12
+
+Equation (1.3) is valid for any sign of q1 and q2 whether positive or
+negative. If q1 and q2 are of the same sign (either both positive or both
+
+negative), F21 is along i' 21, which denotes repulsion, as it should be for
+
+like charges. If q1 and q2 are of opposite signs, F21 is along — ?21(= ?12 ,
+which denotes attraction, as expected for unlike charges. Thus, we do
+not have to write separate equations for the cases of like and unlike
+charges. Equation (1.3) takes care of both cases correctly [Fig. 1.603)].
+
+The force F12 on charge q1 due to charge q2, is obtained from Eq. (1.3),
+by simply interchanging 1 and 2, i.e.,
+
+1 Q1Q2 A
+
+2 1'12 = _F21
+
+F =
+12
+4 TC 50 r12
+
+ 
+
+ 
+
+Thus, Coulomb’s law agrees with the Newton’s third law.
+
+Coulomb’s law [Eq. (1.3)] gives the force between two charges q1 and
+q2 in vacuum. If the charges are placed in matter or the intervening
+space has matter, the situation gets complicated due to the presence
+of charged constituents of matter. We shall consider electrostatics in
+matter in the next chapter.
+
+2019-20

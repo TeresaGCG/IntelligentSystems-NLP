@@ -1,0 +1,42 @@
+342 Chapter 5 The Processor: Datapath and Control
+of the program. In Chapter 7, we will look more closely at the issue of restart  
+ing the execution.
+For the operating system to handle the exception, it must know the reason for
+the exception, in addition to the instruction that caused it. There are two main
+methods used to communicate the reason for an exception. The method used in
+the MIPS architecture is to include a status register (called the Calise register),
+which holds a field that indicates the reason for the exception.
+ve(;tored interrupt An inter  A second method is to use vectored interrupts. In a vectored interrupt, the
+rupt for which the address to
+address to which control is transferred is determined by the cause of the excep 
+which control is transferred is
+tion. For example, to accommodate the two exception types listed above, we
+determined by the cause ofthe
+might define the following two exception vector addresses:
+exception.
+Exception type Exception vector address (In hex)
+Undefined instruction COOO ClOO0/1ex
+Arithmetic overflow COOO 0020/1ex
+The operating system knows the reason for the exception by the address at which
+it is initiated. The addresses are separated by 32 bytes or 8 instructions, and the
+operating system must record the reason for the exception and may perform some
+limited processing in this sequence. When the exception is not vectored, a single
+entry point for all exceptions can be used, and the operating system decodes the
+status register to find the cause.
+We can perform the processing required for exceptions by adding a few extra
+registers and control signals to our basic implementation and by slightly extend 
+ing the finite state machine. Let's assume that we are implementing the exception
+system used in the MIPS architecture. (Implementing vectored exceptions is no
+more difficult.) We will need to add two additional registers to the datapath:
+• fPC: A 32-bit register used to hold the address of the affected instruction.
+(Such a register is needed even when exceptions are vectored.)
+• Cause: A register used to record the cause of the exception. In the MIPS
+architecture, this register is 32 bits, although some bits are currently unused.
+Assume that the low-order bit of this register encodes the two possible
+exception sources mentioned above: undefined instruction = 0 and arith 
+metic overflow = 1.
+We will need to add two control signals to cause the EPC and Cause registers to be
+written; call these fPCWrite and CallseWrite. In addition, we will need a I-bit
+control signal to set the low-order bit of the Cause register appropriately; call this
+signal IntCallse. Finally, we will need to be able to write the exception address,
+which is the operating system entry point for exception handling, into the PC; in

@@ -1,0 +1,72 @@
+488
+
+ 
+
+ 
+
+l Physics
+
+EXAMPLE 14.6
+
+ 
+
+fractional change in the majority carriers (i.e., An/ n) would be much
+less than that in the minority carriers (i.e., Ap/ p). In general, we can
+state that the fractional change due to the photo-effects on the
+minority carrier dominated reverse bias current is more easily
+measurable than the fractional change in the forward bias current.
+Hence, photodiodes are preferably used in the reverse bias condition
+for measuring light intensity.
+
+(ii) Light emitting diode
+
+It is a heavily doped p-n junction which under forward bias emits
+spontaneous radiation. The diode is encapsulated with a transparent
+cover so that emitted light can come out.
+
+When the diode is forward biased, electrons are sent from n —> p (where
+they are minority carriers) and holes are sent from p —> n (where they are
+minority carriers). At the junction boundary the concentration of minority
+carriers increases compared to the equilibrium concentration (i.e., when
+there is no bias). Thus at the junction boundary on either side of the
+junction, excess minority carriers are there which recombine with majority
+carriers near the junction. On recombination, the energy is released in
+the form of photons. Photons with energy equal to or slightly less than
+the band gap are emitted. When the forward current of the diode is small,
+the intensity of light emitted is small. As the forward current increases,
+intensity of light increases and reaches a maximum. Further increase in
+the forward current results in decrease of light intensity. LEDs are biased
+such that the light emitting efﬁciency is maximum.
+
+The V—I characteristics of a LED is similar to that of a Si junction
+diode. But the threshold voltages are much higher and slightly different
+for each colour. The reverse breakdown voltages of LEDs are very low,
+typically around 5V. So care should be taken that high reverse voltages
+do not appear across them.
+
+LEDs that can emit red, yellow, orange, green and blue light are
+commercially available. The semiconductor used for fabrication of Visible
+LEDs must at least have a band gap of 1.8 eV (spectral range of visible
+light is from about 0.4 um to 0.7 pm, i.e., from about 3 eV to 1.8 eV). The
+compound semiconductor Gallium Arsenide — Phosphide (GaAsHPx) is
+used for making LEDs of different colours. GaAsO_6 P04 (Eg ~ 1.9 eV) is
+used for red LED. GaAs (Eg ~ 1.4 eV) is used for making infrared LED.
+These LEDs find extensive use in remote controls, burglar alarm systems,
+optical communication, etc. Extensive research is being done for
+developing white LEDs which can replace incandescent lamps.
+
+LEDs have the following advantages over conventional incandescent
+low power lamps:
+
+(i) Low operational voltage and less power.
+
+(ii) Fast action and no warm-up time required.
+
+(iii) The bandwidth of emitted light is 100 A to 500 A or in other words it
+is nearly (but not exactly) monochromatic.
+
+(iv) Long life and ruggedness.
+
+(v) Fast on- off switching capability.
+
+2019-20

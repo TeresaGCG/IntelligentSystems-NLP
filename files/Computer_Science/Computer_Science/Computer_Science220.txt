@@ -1,0 +1,45 @@
+204 Chapter 3 Arithmetic: for Computers
+r 2
+In binary, the task is multiplying l.oo0 X 1by - 1.11 0two X 2- .
+two
+ANSWER
+Step 1. Adding the exponents without bias:
++
+- 1 (-2) =-3
+or, using the biased representation:
+(- 1 + 127) + (-2+ 127) - 127 = (- 1- 2)+( 127 + 127 - 127)
+=-3+127=124
+Step 2. Multiplying the significands:
+1.000
+two
+x 1.11O
+two
+0000
+1000
+1000
+1000
+111 000°t\o,'o
+r 3
+The product is 1.11Ooo0two X , but we need to keep it to 4 bits, so
+r 3
+it is 1.11Otwo X •
+Step 3. Now we check the product to make sure it is normalized, and then
+check the exponent for overflow or underflow. The product is already
+normalized and, since 127;::>: -3;::0: - 126, there is no overflow or un 
+derflow. (Using the biased representation, 254;::': 124 ;::0: 1, so the expo 
+nent fits.)
+Step 4. Rounding the product makes no change:
+r 3
+1.11O,wo X
+Step 5. Since the signs of the original operands differ, make the sign of the
+product negative. Hence the product is
+r 3
+- 1.11O,wo X
+Converting to decimal to check our results:
+r 3
+- 1.11O,wo X = -O.OO lllO = -O.OO III,wo
+two
+= -7/2\en = -7/32 = -0.2 1875,en
+ten
+The product of 0.5 and -0.4375 is indeed -0.2 1875 .
+ten ten ten

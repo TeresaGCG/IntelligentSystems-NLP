@@ -1,0 +1,61 @@
+Recording of Transactions — II 139
+
+Sales Book (Anal tical)
+
+( 37
+
+2017 3620 M/s Rahul Bros., Delhi -
+25 Shirt @ 3 300 Per Shirts 7 500
+07g 20 Pants @ 3 700 Per Pant 14 000
+21, 500
+Less : Trade Discount @ 8%
+19, 780
+Add : IGST @ 5% 1,0 626 10,120 253 253
+
+Aug. 3621 M/s Kishan Traders, Jaipur
+18 10 Jackets @ 3 900 Per -, 000
+5 Plain Shirt @ 3 700 Per Pant 2,000
+00011,
+Less : Trade Discount @ 8% 880
+10,120
+Add 2 CGST @ 2.5% 253 20,769 19, 780
+CGST @ 2.5%
+
+—-—53m
+
+--98
+Sales Return Book
+
+Date Credit Name of Supplier L.F. Detail Total Sales CGST SGST IGST
+NoteNo. (3) ‘etum
+
+ 
+
+201 612 M/s Rahul Bros., Delhi
+Aug. 05 Shirt @ 3 300 each 1 500
+10
+Less: Trade Discount @ 8% 120
+1, .80
+Add : CGST @ 9% 1,449 1,380HEM
+
+Aug. 31 1,449 1380:“
+
+ 
+
+4.6 Journal Proper
+
+A book maintained to record transactions, which do not find place in special
+journals, is known as Journal Proper or Journal Residual.
+
+Following transactions are recorded in this journal:
+
+1. Opening Entry: In order to open new set of books in the beginning of new
+accounting year and record therein opening balances of assets, liabilities
+and capital, the opening entry is made in the journal.
+
+2. Adjustment Entries: In order to update ledger account on accrual basis,
+such entries are made at the end of the accounting period. Such as Rent
+outstanding, Prepaid insurance, Depreciation and Commission received
+in advance.
+
+2019-2020

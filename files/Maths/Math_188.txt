@@ -1,0 +1,27 @@
+Homework Helpers: Basic Math and Pre-Algebra
+188
+Solution: Let a represent the length of the shorter leg. Then the
+length of the other leg is 3a. Use the Pythagorean Theorem to
+find a:
+So the length of the shorter leg is   inches, and the
+length of the longer leg is three times that, or  . I used
+a calculator to approximate   and  , which are irrational
+numbers, and then rounded the answer.
+Example 3
+Sarah wants to measure the size of
+an angle to see if it is a right angle.
+She creates a triangle around it as
+shown in Figure 10.9. Is Sarah’s angle 28
+21
+a right angle?
+Solution:  Check  to  see  if  the
+Pythagorean Theorem is satisfied.
+First calculate the sum of the squares 20
+of the lengths of the two shorter sides: Figure 10.9
+202+ 212= 400 + 441 = 841
+Compare that result to the square of the length of the longer side:
+282= 784
+Because the two results are not equal, the Pythagorean Theorem
+does not hold, so the triangle Sarah created is not a right triangle.
+Therefore, Sarah’s angle is not a right angle.
+www.ebook3000.com

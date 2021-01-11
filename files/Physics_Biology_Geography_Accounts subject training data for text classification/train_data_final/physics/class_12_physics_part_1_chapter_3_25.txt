@@ -1,0 +1,67 @@
+118
+
+ 
+
+ 
+
+Solution Each branch of the network is assigned an unknown current
+to be determined by the application of Kirchhoffs rules. To reduce
+the number of unknowns at the outset, the ﬁrst rule of Kirchhoff is
+used at every junction to assign the unknown current in each branch.
+We then have three unknowns I1, I2 and I3 which can be found by
+applying the second rule of Kirchhoff to three different closed loops.
+Kirchhoffs second rule for the closed loop ADCA gives,
+
+10 — 401— 12) + 202 + I3 — I1) — I1 = 0 [3.80(a)]
+that is, 7I1— 6I2 — 2I3 = 10
+For the closed loop ABCA, we get
+
+10—412—2 (I2+13)—I1 =0
+that is, II + ESI2 + 2I3 =10 [3.80(b)]
+For the closed loop BCDEB, we get
+
+5—2(I2+I3)—2(12+13—I1) =0
+that is, 2I1 — 4I2 — 4I3 = —5 [380(0)]
+
+Equations (3.80 a, b, c) are three simultaneous equations in three
+unknowns. These can be solved by the usual method to give
+
+5
+I1=2.5A, 12: 5A, I3= 1% A
+The currents in the various branches of the network are
+
+1
+ABZEA, CAIZ—A, DEBZIZ A
+8 2 8
+7 1
+ADzlgA, CDzOA, BC22§A
+
+It is easily verified that Kirchhoffs second rule applied to the
+remaining closed loops does not provide any additional independent
+equation, that is, the above values of currents satisfy the second
+rule for every closed loop of the network. For example, the total voltage
+drop over the closed loop BADEB
+
+5V+(§X4]V— (EXALJV
+8 8
+
+equal to zero, as required by Kirchhoffs second rule.
+
+3. 14 WHEATSTONE BRIDGE
+
+As an application of Kirchhoffs rules consider the circuit shown in
+Fig. 3.25, which is called the Wheatstone bridge. The bridge has
+four resistors R1, R2, R3 and R4. Across one pair of diagonally opposite
+points (A and C in the figure) a source is connected. This (i.e., AC) is
+called the battery arm. Between the other two vertices, B and D, a
+galvanometer G (which is a device to detect currents) is connected. This
+line, shown as BD in the ﬁgure, is called the galvanometer arm.
+
+For simplicity, we assume that the cell has no internal resistance. In
+general there will be currents ﬂowing across all the resistors as well as a
+current I g through G. Of special interest, is the case of a balanced bridge
+where the resistors are such that I g = 0. We can easily get the balance
+condition, such that there is no current through G. In this case, the
+Kirchhoffs junction rule applied to junctions D and B (see the figure)
+
+2019-20

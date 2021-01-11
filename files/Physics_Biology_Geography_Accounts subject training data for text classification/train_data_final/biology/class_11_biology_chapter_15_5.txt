@@ -1,0 +1,39 @@
+244
+
+ 
+
+BIOLOGY
+
+ 
+
+Figure 15.7 Diagrammatic comparison of absolute and relative growth rates. Both
+
+leaves A and B have increased their area by 5 cm2 in a given time to
+produce A1, B1 leaves.
+
+Quantitative comparisons between the growth of living system can
+also be made in two ways : (i) measurement and the comparison of total
+growth per unit time is called the absolute growth rate. (ii) The growth of
+the given system per unit time expressed on a common basis, e.g., per
+unit initial parameter is called the relative growth rate. In Figure 15.7
+two leaves, A and B, are drawn that are of different sizes but shows
+absolute increase in area in the given time to give leaves, A1 and B1. However,
+one of them shows much higher relative growth rate. Which one and why?
+
+15. 1.5 Conditions for Growth
+
+Why do you not try to write down what you think are necessary conditions
+for growth? This list may have water, oxygen and nutrients as very essential
+elements for growth. The plant cells grow in size by cell enlargement which
+in turn requires water. Turgidity of cells helps in extension growth. Thus,
+plant growth and further development is intimately linked to the water
+status of the plant. Water also provides the medium for enzymatic activities
+needed for growth. Oxygen helps in releasing metabolic energy essential
+for growth activities. Nutrients (macro and micro essential elements) are
+required by plants for the synthesis of protoplasm and act as source of
+energy.
+
+In addition, every plant organism has an optimum temperature range
+best suited for its growth. Any deviation from this range could be
+detrimental to its survival. Environmental signals such as light and gravity
+also affect certain phases/ stages of growth.

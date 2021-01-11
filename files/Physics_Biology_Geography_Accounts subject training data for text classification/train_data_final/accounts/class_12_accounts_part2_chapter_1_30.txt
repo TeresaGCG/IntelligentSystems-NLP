@@ -1,0 +1,51 @@
+Accounting for Share Capital 3 1
+
+Solution:
+
+Books of Jupiter Company Limited
+Journal
+
+Date Particulars L.F. Debit Credit
+Amount Amount
+(Rs.) (Rs.)
+
+Bank A/c Dr. 1.05.000
+To Equity Share Application A/c 1.05.000
+(Money received on applications for 35,000 shares
+@ Rs. 3 per share)
+Equity Share Application A/c
+To Equity Share Capital A/c 1.05.000
+(Transfer of application money on allotment
+to share capital)
+Equity Share Allotment A/c . 1.75.000
+To Equity Share Capital A/c 1.05.000
+To Securities Premium Reserve A/c 70,000
+(Amount due on allotment of 35,000 shares @
+Rs. 5 per share including premium)
+Bank A/c . 1.75.000
+To Equity Share Allotment A/c 1.75.000
+
+(Money received including premium )
+
+Equity Share First and Final Call A/c . 1.40.000
+To Equity Share Capital A/c 1.40.000
+(Amount due on First and Final Call of Rs. 4
+per share on 35,000 shares)
+Bank A/c . 1.40.000
+To Equity Share First and Final Call A/c 1.40.000
+
+(Money received on First and Final Call )
+
+ 
+
+1.6.6 Issue of Shares at a Discount
+
+There are instances when the shares of a company are issued at a discount, i.e.
+at an amount less than the nominal or par value of shares, the difference between
+the nominal value and issue price representing discount on the issue of shares.
+For example, when a share of the nominal value of Rs. 100 is issued at Rs. 98, it
+is said to have been issued at a discount of two per cent.
+
+As a general rule, a company cannot ordinarily issue shares at a discount. It
+can do so only in cases such as ‘reissue of forfeited shares' (to be discussed later)
+and issue of sweat equity shares.

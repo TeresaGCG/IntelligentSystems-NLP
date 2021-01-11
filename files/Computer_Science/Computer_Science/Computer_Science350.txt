@@ -1,0 +1,24 @@
+334 Chapter 5 The Processor: Datapath and Control
+From state 1
+(Op = 'LW) or (Op = 'SW')
+/ --'_, Memory address computation
+/ --,c.:M::::emory read completion step
+RegWrite
+To state 0
+MemtoReg =1
+(Figure 5.32)
+RegDst = 0
+FIGURE 5.33 The finite state machine for controlling memory-reference Instructions has
+four states. These states correspond to the box labeled "Memory access instructions~ in Figure 5.31.
+After performing a memory address calculation, a separate sequence is needed for load and for store. The
+setting of the control signaIsALUSrcA,ALUSrcB, and ALUOp is U'ied to cause the memory address compu 
+tation in state 2. Loads require an extra state to WTite the result from the MDR (where the result is written in
+state 3) into the register file.
+Figure 5.33 shows the portion of the finite state machine needed to implement
+the memory-reference instructions. For the memory-reference instructions, the
+first state after fetching the instruction and registers computes the memory
+address (state 2). To compute the memory address, the ALV input multiplexors
+must be set so that the first input is the A register, while the second input is the
+sign-extended displacement field; the result is written into the ALVOut register.
+After the memory address calculation, the memory should be read or written; this
+requires two different states. If the instruction opcode is 1w, then state 3 (corre-

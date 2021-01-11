@@ -1,0 +1,153 @@
+G RAVITATI ON
+
+195
+
+F Example 8.5 The planet Mars has two
+moons, phobos and delmos. (i) phobos has
+
+a period 7 hours, 39 minutes and an orbital
+radius of 9.4 ><1O3 km. Calculate the mass
+
+of mars. (ii) Assume that earth and mars
+move in circular orbits around the sun,
+with the martian orbit being 1.52 times
+the orbital radius of the earth. What is
+the length of the martian year in days ‘?
+
+ 
+
+Answer (i) We employ Eq. (8.38) with the sun’s
+mass replaced by the martian mass Mm
+
+ 
+
+4n
+T2=GM R3
+M 47:51R3
+m G T2
+
+4><(3.14)2 ><(9.4)3 x 1018
+‘ 6.67x10'11 ><(459><60)2
+
+4><(3.14)2 ><(9.4)3 x1018
+6.67x (4.59 x (5)2 x 10'5
+= 6.48 x 1023 kg.
+(ii) Once again Kepler’s third law comes to our
+aid,
+
+M
+
+m
+
+ 
+
+i _ R545
+
+T; R25
+where RMs is the mars -sun distance and REs is
+the earth-sun distance.
+
+TM = (1.52)?”2 x 365
+= 684 days
+
+We note that the orbits of all planets except
+Mercury, Mars and Pluto* are very Close to
+being circular. For example, the ratio of the
+semi-minor to semi-major axis for our Earth
+is, b/a = 0.99986. 4
+
+Example 8.6 Weighing the Earth : You
+
+are given the following data: g = 9.81 ms”,
+RE = 6.37x106 m. the distance to the moon
+
+R = 3.84x108 m and the time period of the
+moon’s revolution is 27 .3 days. Obtain the
+mass of the Earth ME in two different ways.
+
+ 
+
+Answer From Eq. (8.12) we have
+
+R2
+ME = QGE
+
+ 
+
+* Refer to information given in the Box on Page 182
+
+2
+9.81 x (6.37x 106
+
+_ 6.67x1o’11
+= 5.97>< 1024kg.
+
+The moon is a satellite of the Earth. From
+the derivation of Kepler’s third law [see Eq.
+(8.38)]
+
+ 
+
+ 
+
+T2 = 4n2R3
+GME
+4 2R3
+
+ME: 75 2
+GT
+
+4 x314 >< 3.14><(3.84)3 x 1024
+_ 6.67>< 10’11 ><(27.3>< 24 x 60x 60)2
+
+= 6.02x1024kg
+
+Both methods yield almost the same answer,
+the difference between them being less than 1%.
+4
+
+ 
+
+b Example 8.7 Express the constant k of
+Eq. (8.38) in days and kilometres. Given
+
+k = 10 13 s2 m‘3. The moon is at a distance
+of 3.84 x 105km from the earth. Obtain its
+timevperiod of revolution in days.
+
+ 
+
+Answer Given
+k = 10—13 s2 m—3
+
+_ f 1 ll 1 l
+
+= 10 13L d2J| |
+(24x60x60)2 L(1/1000)3km3j
+
+k,
+
+ 
+
+= 1.33 ><10'14 d2 km—3
+Using Eq. (8.38) and the given value of
+the time period of the moon is
+2= (1.33 x 10‘14)(3.84 x 105)3
+T = 27.3 d 4
+Note that Eq. (8.38) also holds for elliptical
+orbits if we replace (RE+h) by the semi-major
+axis of the ellipse. The earth will then be at one
+of the foci of this ellipse.
+
+8. 10 ENERGY OF AN ORBITING SATELLITE
+
+Using Eq. (8.35), the kinetic energy of the satellite
+in a circular orbit with speed 1) is
+
+K-E = 1mu2
+2
+
+_M
+2(RE + h) ’ (8-40)
+
+2019-20

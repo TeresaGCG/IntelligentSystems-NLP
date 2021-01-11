@@ -1,0 +1,32 @@
+346 Chapter 5 The Processor: Datapath and Control
+Elaboration: If you examine the finite state machine in Figure 5.40 closely, you can
+see that some problems could occur in the way the exceptions are handled. For exam·
+pie, in the case of arithmetic overflow, the instruction causing the overflow completes
+writing its result because the overflow branch is in the state when the write completes.
+However, it's possible that the architecture defines the instruction as having no effect if
+the instruction causes an exception; this is what the MIPS instruction set architecture
+specifies. In Chapter 7, we will see that certain classes of exceptions require us to pre 
+vent the instruction from changing the machine state, and that this aspect of handling
+exceptions becomes complex and potentially limits performance.
+Check Is this optimization proposed in the Check Yourself on page 340 concerning
+PCSource still valid in the extended control for exceptions shown in Figure 5.40
+Yourself
+on page 345? Why or why not?
+Microprogramming: Simplifying
+Control Design
+Microprogramming is a technique for designing complex control units. It uses a
+very simple hardware engine that can then be programmed to implement a
+more complex instruction set. Microprogramming is used today to implement
+some parts of a complex instruction set, such as a Pentium, as well as in special 
+purpose processors. This section, which appears on the CD, explains the basic
+concepts and shows how they can be used to implement the MIPS multicycle
+control.
+An Introduction to Digital Design Using a
+Hardware Design Language
+Modern digital design is done using hardware description languages and modern
+computer-aided synthesis tools that can create detailed hardware designs from the
+descriptions using both libraries and logic synthesis. Entire books are written on
+such languages and their use in digital design. This section, which appears on the
+CD, gives a brief introduction and shows how a hardware design language, Verilog
+in this case,can be used to describe the MIPS multicycle control both behaviorally
+and in a form suitable for hardware synthesis.

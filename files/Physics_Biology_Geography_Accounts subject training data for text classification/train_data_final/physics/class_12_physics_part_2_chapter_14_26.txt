@@ -1,0 +1,76 @@
+464
+
+l Physics
+
+ 
+
+239
+
+in MeV, is released if all the atoms in 1 kg of pure 94
+
+fission?
+13.18 A 1000 MW ﬁssion reactor consumes half of its fuel in 5.00 y. How
+much ZSSU did it contain initially? Assume that the reactor operates
+80% of the time, that all the energy generated arises from the fission
+
+of ZSSU and that this nuclide is consumed only by the fission process.
+
+Pu undergo
+
+13.19 How long can an electric lamp of 100W be kept glowing by fusion of
+2.0 kg of deuterium? Take the fusion reaction as
+
+21H+§H—> gHe +n+3.27 MeV
+
+13.20 Calculate the height of the potential barrier for a head on collision
+of two deuterons. (Hint: The height of the potential barrier is given
+by the Coulomb repulsion between the two deuterons when they
+just touch each other. Assume that they can be taken as hard
+spheres of radius 2.0 fm.)
+
+13.21 From the relation R = ROAl/s, where RO is a constant and A is the
+mass number of a nucleus, show that the nuclear matter density is
+nearly constant (i.e. independent of A).
+
+13.22 For the [3+ (positron) emission from a nucleus, there is another
+competing process known as electron capture (electron from an inner
+orbit, say, the K—shell, is captured by the nucleus and a neutrino is
+emitted).
+e+ + 2X —> ZﬁY+ v
+
+Show that if [3* emission is energetically allowed, electron capture
+is necessarily allowed but not vice—versa.
+
+ADDITIONAL EXERCISES
+
+13.23 In a periodic table the average atomic mass of magnesium is given
+as 24.312 u. The average value is based on their relative natural
+
+abundance on earth. The three isotopes and their masses are ﬁgMg
+(23.98504u), ﬁgMg (24.98584u) and ﬁgMg (25.98259u). The natural
+
+abundance of ZigMg is 78.99% by mass. Calculate the abundances
+of other two isotopes.
+
+13.24 The neutron separation energy is deﬁned as the energy required to
+remove a neutron from the nucleus. Obtain the neutron separation
+
+energies of the nuclei :éCa and 3A1 from the following data:
+m(§36a) = 39.962591 u
+m(§3Ca) = 40.962278 u
+m(21§Al) = 25.986895 u
+m(21;Al) = 26.981541 u
+
+13.25 A source contains two phosphorous radio nuclides :I’EP (T1 /2 = 14.3d)
+
+and “:‘gP(T1/2 = 25.3d). Initially, 10% of the decays come from E‘EP.
+How long one must wait until 90% do so?
+
+13.26 Under certain circumstances, a nucleus can decay by emitting a
+particle more massive than an oc-particle. Consider the following
+decay processes:
+
+223 209 14
+88 Ra —> 82 Pb + 6 C
+
+2019-20

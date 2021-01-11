@@ -1,0 +1,69 @@
+Roy Optics and
+Optical Instruments
+
+In the quadrilateral AQNR, two of the angles
+(at the vertices Q and R) are right angles.
+Therefore, the sum of the other angles of the
+quadrilateral is 180°.
+
+AA + AQNR = 180°
+From the triangle QNR,
+r1 + r2 +AQNR = 180°
+Comparing these two equations, we get
+
+ 
+
+ 
+
+r1 + r2 = A (9.34) B C
+The total deviation 6 is the sum of deviations FIGURE 923 A my 01‘ light passing through
+at the W0 faCCS, a triangular glass prism.
+6=(i—r1)+(e—r2)
+that is,
+5 = i+ e—A (9.35)
+
+Thus, the angle of deviation depends on the angle of incidence. A plot
+between the angle of deviation and angle of incidence is shown in
+Fig. 9.24. You can see that, in general, any given value of 6, except for
+i= e, corresponds to two values iand hence of e. This, in fact, is expected
+from the symmetry of i and e in Eq. (9.35), i.e., 6 remains the same if i
+and e are interchanged. Physically, this is related
+to the fact that the path of ray in Fig. 9.23 can be
+
+ 
+
+ 
+
+ 
+
+ 
+
+traced back, resulting in the same angle of o
+deviation. At the minimum deviation Dm, the 60 “I
+refracted ray inside the prism becomes parallel S
+to its base. We have g
+8 = Dm, i= e which implies r1 = r2. g 500— """"""""""""""""""""""
+Equation (9.34) gives 5':
+A E
+= = — '00 0—
+2r Aor r 2 (9.36) g 40
+In the same way, Eq. (9.35) gives I I I
+Dm=2i—A, ori= (A+Dm)/2 (9.37) 300 I -'| I I
+a o l o o ’ o
+The refractive index of the prism is 0 20 40 60 e 80
+Angle of incidence (i)
+_ n2 _ sin[(A + Dm)/2]
+”21 _n—_ sin[A/2] (9-38) FIGURE 9.24 Plot of angle of deviation (6)
+1 . . .
+versus angle of 1nc1dence (l) for a
+The angles A and Dm can be measured triangular prism.
+experimentally. Equation (9.38) thus provides a
+method of determining refractive index of the material of the prism.
+For a small angle prism, i.e., a thin prism, Dm is also very small, and
+we get
+n _ sin[(A+Dm)/2] N (A+Dm)/2
+21 sin[A/2] _ A/2
+Dm = (n21—1)A
+It implies that, thin prisms do not deviate light much. 33 1
+
+2019-20

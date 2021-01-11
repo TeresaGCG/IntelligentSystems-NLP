@@ -1,0 +1,41 @@
+216 Chapter 3 Arithmetic: for Computers
+is almost always approximation of the real number. Computer systems must
+all
+take care to minimize this gap between computer arithmetic and arithmetic in the
+real world, and programmers at times need to be aware of the implications of this
+approximation.
+C type Java type Data transfers Operations
+.
+'"
+i nt i nt 1w. 1ui addu . add iu . subu. mu l t o di v.
+and. and i . oc • Orl. nor. 5 It . slti
+.
+unsigned i nt - 1w. '" 1ui addu . add iu . subu. multll. di vu.
+and. andi . oc • on . no r . sltu . sIti u
+ch ar - lb. 'b. 1ui addu . add i ll. subll. multll. di vu.
+and. andi . oc • Orl. nor. 5 ltu. 5Iti u
+- cha r 1h• 'h. 1ui addu . add iu . subu , multu . di vu ,
+and. andi . oc • Orl , nor. 5 ltu. 5Iti u
+fl oa t f1 oa t 1we 1 • swc1 add.s. sub.s. mu l t .s. div . s.
+c.eq.s. el L s, c.le.s
+double double 1. d. , •d add.d. sub.d. mu l t. d. div . d.
+c.eq. d . c.l t. d. c.le. d
+BIG
+Bit patterns have no inherent meaning. They may represent signed inte 
+The
+gers, unsigned integers, floating-point numbers, instructions, and so
+Oil.
+Picture What is represented depends on the instruction that operates on the bits
+in the word.
+The major difference between computer numbers and numbers in the
+real world is that computer numbers have limited size, hence limited preci 
+sion; it's possible to calculate a number too big or too small to be repre 
+sented in a word. Programmers must remember these limits and write
+programs accordingly.
+Hardware In the last chapter we presented the storage classes of the programming language
+C (see the Hardware Software Interface section on page 142). The table above
+Software
+shows some of the C and lava data types together with the MIPS data transfer
+Interface
+instructions and instructions that operate on those types that appear in Chapters
+2 and 3. Note that lava omits unsigned integers.

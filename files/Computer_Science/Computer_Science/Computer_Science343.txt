@@ -1,0 +1,37 @@
+5.5 A Multleyele Implementation 327
+it will be used on the next clock cycle if the instruction is a branch. This requires
+setting ALUSrcA to 0 (so that the PC is sent to the ALU), ALUSrcB to the value 11
+(so that the sign-extended and shifted offset field is sent to the ALU), and ALUOp
+to 00 (so the ALU adds). The register file accesses and computation of branch tar 
+get occur in parallel.
+After this clock cycle, determining the action to take can depend on the
+instruction contents.
+3. Execution, memory address computation, or branch completion
+This is the first cycle during which the datapath operation is determined by the
+instruction class. In all cases, the ALU is operating on the operands prepared in
+the previous step, performing one of four functions, depending on the instruction
+class. We specify the action to be taken depending on the instruction class:
+Memory reference:
+<=
+ALUOut A + sign -extend (IR[15 :0) ;
+Operation; The ALU is adding the operands to form the memory address. This
+requires setting ALUSrcA to 1 (so that the first ALU input is register A) and setting
+ALUSrcB to 10 (so that the output of the sign extension unit is used for the second
+ALU input). The ALUOp signals will need to be set to 00 (causing the ALU to add).
+Arithmetic-logical instruction (R-type);
+<=
+ALUOut A op B;
+Operation; The ALU is performing the operation specified by the function code
+on the two values read from the register file in the previous cycle. This requires
+setting ALUSrcA = 1 and setting ALUSrcB = 00, which together cause the registers
+A and B to be used as the ALU inputs. The ALUOp sigll3ls will need to be set to 10
+(so that the funct field is used to determine the ALU control sigll3l settings).
+Emnch:
+== <=
+if (A B) PC ALUOut ;
+Operation; TIle ALU is used to do the equal comparison between the two registers
+read in the previous step. The Zero signal out ofthe ALU is used to determine whether
+or not to branch. This requires setting ALUSrcA = 1and settingALUSrcB = 00 (so that
+the register file outputs are the ALU inputs). TIle ALUOp sigll3ls will need to be set to
+01 (causing the ALU to subtract) for equality testing. TIle PCWriteCond sigll3l will
+need to be asserted to update the PC if the Zero output of the ALU is asserted. By set-

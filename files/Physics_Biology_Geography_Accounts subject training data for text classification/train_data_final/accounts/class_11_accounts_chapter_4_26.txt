@@ -1,0 +1,57 @@
+Recording of Transactions — II 125
+
+Rent Account
+
+Dr. Cr.
+Date Particulars J. F. Amount Date Particulars J. F. Amount
+? ?
+20 16
+Dec. 29 Cash 3,000
+
+Commission Received Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+20 1 6
+Dec. 30 Bank 2,500
+
+Charity Account
+
+Dr. Cr.
+Date Particulars J. F. Amount Date Particulars J. F. Amount
+? ?
+20 1 6
+Dec. 3 1 Bank 800
+
+   
+   
+   
+
+4.2 Purchases (Journal) Book
+
+All credit purchases of goods are recorded in the purchases journal Whereas
+cash purchases are recorded in the cash book. Other purchases such as
+purchases of ofﬁce equipment, furniture, building, are recoded in the journal
+proper if purchased on credit or in the cash book if purchased for cash. The
+source documents for recording entries in the book are invoices or bills received
+by the firm from the supplies of the goods. Entries are made With the net
+amount of the invoice. Trade discount and other details of the invoice need
+not be recorded in this book. The format of the purchases journal is shown in
+figure 4.6.
+
+Purchases (Journal) Book
+
+Date Invoice Name of Supplier L.F. Amount
+No. (Account to be credited) ?
+
+ 
+
+Fig. 4.6 : Format of purchases (journal) book
+
+The monthly total of the purchases book is posted to the debit of purchases
+account in the ledger. Individual suppliers accounts may be posted daily.
+Consider the following details obtained from M / s Kanika Traders and observe
+how the entries are recorded in the purchase journal.
+
+2019-2020

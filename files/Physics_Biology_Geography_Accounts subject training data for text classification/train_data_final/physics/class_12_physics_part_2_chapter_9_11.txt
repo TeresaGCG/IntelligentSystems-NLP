@@ -1,0 +1,77 @@
+l Physics
+
+ 
+
+     
+ 
+ 
+  
+
+(2) This is called total internal reﬂection. When
+Rarer light gets reﬂected by a surface, normally
+mfgﬁm some fraction of it gets transmitted. The
+
+water—air reﬂected ray, therefore, is always less intense
+D 04? Interface than the incident ray, howsoever smooth the
+reﬂecting surface may be. In total internal
+reflection, on the other hand, no
+transmission of light takes place.
+
+The angle of incidence corresponding to
+an angle of refraction 90°, say LAOSN, is
+called the critical angle (ic) for the given pair
+FIGURE 9. 12 Refraction and internal reﬂection ofmedia. We see from Snell’s laW [Eq. (9. 10)]
+
+(1)
+
+Denser reﬂected ray
+
+medium
+
+Partially
+(water)
+
+A C reﬂected rays
+
+of rays from a point A in the denser medium that if the relative refractive index is less
+(water) incident at different angles at the interface than one then, since the maximum value
+With a rarer “ledium (air). of sin r is unity, there is an upper limit
+to the value of sin i for which the law can be satisfied, that is, i = ic
+
+such that
+sin is = n21 (9.12)
+
+For values of i larger than ic, Snell’s law of refraction cannot be
+satisﬁed, and hence no refraction is possible.
+
+The refractive index of denser medium 1 with respect to rarer medium
+2 will be n12 = 1 / sin ic. Some typical critical angles are listed in Table 9. 1.
+
+TABLE 9. 1 CRITICAL ANGLE OF SOME TRANSPARENT MEDIA WITH RESPECT TO AIR
+
+ 
+
+Water 1.33 48.75
+Crown glass 1.52 41.14
+Dense ﬂint glass 1.62 37.31
+Diamond 2.42 24.41
+
+A demonstration for total internal reﬂection
+
+All optical phenomena can be demonstrated very easily with the use of a
+laser torch or pointer, which is easily available nowadays. Take a glass
+beaker with clear water in it. Add a few drops of milk or any other
+suspension to water and stir so that water becomes a little turbid. Take
+a laser pointer and shine its beam through the turbid water. You will
+find that the path of the beam inside the water shines brightly.
+
+Shine the beam from below the beaker such that it strikes at the
+upper water surface at the other end. Do you find that it undergoes partial
+reﬂection (which is seen as a spot on the table below) and partial refraction
+[which comes out in the air and is seen as a spot on the roof; Fig. 9.1 3(a)]?
+Now direct the laser beam from one side of the beaker such that it strikes
+the upper surface of water more obliquely [Fig. 9.13(b)]. Adjust the
+
+320 direction of laser beam until you find the angle for which the refraction
+
+2019-20

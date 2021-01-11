@@ -1,0 +1,22 @@
+182 Chapter 3 Arithmetic: for Computers
+MplierO . Mcand
+32 bits
+r
+M~"'
+Me"'" '2 bit.
+~-
+r
+1 bit
+Me"'" Moo"'32 bit.
+~--'-7
+1 bit
+1 bit
+Mplier3 . Mcand
+~
+32 bits
+32 bits 1 bit
+Product63..32 Product 31 ••• Product2 Product1 ProductO
+FIGURE 3.9 Fast multiplication hardware. R.1lher than use a single 32·bit adder 32 times, this
+hardware "unrolls the loop" to use 32 adders. Each adder produces a 32·bit sum and a carry out. The least
+significant bit is a bit of the proouct, and the carry out and the upper 31 bits ofthe sum are passed along to
+the next adder.

@@ -1,0 +1,27 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Expressions and Equations
+Problems in algebra often involve variables. I told you that a variable
+is a letter than can be used to represent any number, and I have used
+variables every time that I have given you a generalized rule. Another
+way to use variables is to have them represent an unknown quantity.
+Variables often appear in algebraic expressions. An algebraic ex-
+pression is a statement that combines numbers and variables together
+using some of the operations we have discussed: addition, subtraction,
+multiplication, division, and exponentiation. For example, the expres-
+sionx+ 10 means that you take the number x (whatever it happens to be)
+and add 10 to it. The variable x could represent the amount of money in
+your pocket, and 10 could represent the amount of money that your neigh-
+bor is going to give you for cleaning up her yard. If we specify a value for
+x, say x = 15, meaning that you have $15 in your pocket, then we can
+evaluatex + 10, which would be 25 (or 15 + 10).
+There is no rule that says that a variable must be a specific letter. Any
+letter will do. We could even use words, such as cost,money, and pounds,
+but words are a little awkward, which is why we usually just use the first
+letter of the word as our variable. So if we wanted a variable to repre-
+sent weight, we might reach for a “w,” and if we wanted a variable to
+represent distance we might reach for a “d.” Mathematicians are pretty
+boring and usually just grab the first variable off the shelf: x.
+Because the variable x and the multiplication symbol × look very
+similar, I will use a different symbol for multiplication to avoid any
+confusion. I will use the ⋅ or ( )( ).
+105

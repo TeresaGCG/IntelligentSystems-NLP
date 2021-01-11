@@ -1,0 +1,100 @@
+identical to the first and the same current I ﬂows through
+both. The potential difference across the ends of the
+combination is clearly sum of the potential difference
+across the two individual slabs and hence equals 2V. The
+current through the combination is I and the resistance
+of the combination Rc is [from Eq. (3.3)],
+
+_ a
+I
+since V/ I = R, the resistance of either of the slabs. Thus,
+
+doubling the length of a conductor doubles the
+resistance. In general, then resistance is proportional to
+
+RC =2R (3.4)
+
+ 
+
+length,
+Ro<l (3.5)
+Georg Simon Ohm (1787- Next, imagine dividing the slab into two by cutting it
+1854) German BhYSiCiSt, lengthwise so that the slab can be considered as a
+prOfessor at MumCh‘ Ohm combination of two identical slabs of length l, but each
+
+was led to his law by an
+analogy between the
+conduction of heat: the
+electric ﬁeld is analogous to
+the temperature gradient,
+
+having a cross sectional area of A/ 2 [Fig. 3.2(c)].
+
+For a given voltage Vacross the slab, if I is the current
+through the entire slab, then clearly the current ﬂowing
+through each of the two half-slabs is I / 2. Since the
+
+2‘?
+L0
+(’3
+[i
+(D
+l:
+E
+m
+o
+z
+o
+E
+(I)
+<5
+0:
+o
+m
+<3
+
+ 
+
+and the electric current is potential difference across the ends of the half-slabs is V,
+analogous to the heat ﬂow. i.e., the same as across the full slab, the resistance of each
+of the half-slabs R1 is
+V V
+R1=——=2—=2R. (3.6)
+(I / 2) I
+
+Thus, halving the area of the cross-section of a conductor doubles
+the resistance. In general, then the resistance R is inversely proportional
+to the cross-sectional area,
+
+1
+
+R 0: K (3.7)
+
+Combining Eqs. (3.5) and (3.7), we have
+
+1
+
+R (XX (3.8)
+
+and hence for a given conductor
+
+l
+R: —
+p A (3.9)
+where the constant of proportionality p depends on the material of the
+
+conductor but not on its dimensions. p is called resistivity.
+Using the last equation, Ohm’s law reads
+
+Ipl
+V=I><R=—
+A (3.10)
+
+Current per unit area (taken normal to the current), I /A, is called
+current density and is denoted by j. The SI units of the current density
+are A/m2. Further, if E is the magnitude of uniform electric field in the
+conductor whose length is I, then the potential difference Vacross its
+
+96 ends is El. Using these, the last equation reads
+
+2019-20

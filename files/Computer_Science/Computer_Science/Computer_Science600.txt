@@ -1,0 +1,41 @@
+584
+Chapter 8
+In an asynchronous protocol, the control signals ReadReq and DataRdy are
+asserted until the other party (the memory or the device) indicates that the
+COIl 
+trollines have been seen and the data lines have been read; this indication is made
+by asserting the Ack line. This complete process is called handshaking. Figure 8.1 0
+shows how such a protocol operates by depicting the steps in the communication.
+Although much of the bandwidth of a bus is decided by the choice of a syn 
+chronous or asynchronous protocol and the timing characteristics of the bus, sev 
+eral other factors affect the bandwidth that can be attained by a single transfer.
+The most important of these are the data bus width, and whether it supports
+block transfers or it transfers a word at a time.
+ReadReq 1
+3
+Data
+,/
+r---1(I~ /
+. ok - - - ' L""",'-,----/""7:
+s'-'
+DataRdy
+The steps in the protocol begin immediately after the device signals a request by raising ReadReq and
+putting the address on the Data lines:
+1. When memory sees the ReadReq line, it reads the address from the data bus and raises Ack to
+indicate it has been seen.
+2. I/O device sees the Ack line high and releases the ReadReq and data lines.
+3. Memory sees that ReadReq is low and drops the Ack line to acknowledge the ReadReq signal.
+4. This step starts when the memory has the data ready. It places the data from the read request on
+the data lines and raises DataRdy.
+5. The I/O device sees DataRdy, reads the data from the bus, and signals that it has the data by raising
+Aok.
+6. The memory sees the Ack signal, drops DataRdy, and releases the data lines.
+7. Finally, the I/O device, seeing DataRdy go low, drops the Ack line, which indicates that the
+transmission is completed.
+A new bus transaction can now begin.
+FIGURE 8.10 The asynchronous handshaking protocol consists of seven steps to read a
+word from memory and receive It In an I/ O device. The signals in color are those asserted by the
+I/O device, while the memory asserts the signals shown in black. The arrows label the seven steps and the
+event that triggers each step. The symbol showing two lines (high and low) at the same time on the data
+lines indicates that the data lines have valid data at this point. (The symbol indicates that the data is valid,
+but the value is not known.)

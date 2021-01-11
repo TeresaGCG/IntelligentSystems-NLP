@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+108
+Lesson 6-1 Review
+Evaluate the following expressions when x = 5 and y = −3.
+1. 3x+ 2 4. (x + 2y)(x − y)
+2. 4x+ 2y 5.
+3. x2+ 2y 6.
+Lesson 6-2: Equations
+An equation is a statement that says that two expressions are equal.
+The expressions that make up an equation are separated by the symbol
+“=,” which is called an equal sign. Usually equations will contain vari-
+ables, but they don’t have to.
+You have already seen several examples of equations in this book.
+The statements 23 = 2 ⋅ 2 ⋅ 2 and am ⋅ an = am+n are two examples of
+equations that you may recall reading in Chapter 4. The first equation
+does not contain any variables, and the second equation contains three
+variables: a, n, and m.
+Equations can have numbers and variables on both sides. Equations
+can be simple or they can be complicated. The important thing about an
+equation is that whatever expression appears on the left-hand side of the
+equal sign is equivalent to whatever expression appears on the right-hand
+side. The two expressions may not look alike, but they must represent
+the same thing.
+When you are given an equation with only one variable, your job
+will be to “solve the equation.” To solve an equation, you will need to
+determine the numerical value or values of the variable that make the
+equation true. This process involves moving all of the numbers to one
+side of the equation and all of the terms involving variables to the other
+side. When moving around the terms in an equation, you must follow
+some rules.
+www.ebook3000.com

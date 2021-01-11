@@ -1,0 +1,49 @@
+288 Chapter 5 The Processor: Datapath and Control
+Branch
+~
+M
+,"
+I-
+' (
+""
+4
+> - A
+i-
+/ ' M
+/
+,"
+ALU operatio
+Data
+"'",
+MemWrite
+Register #
+~
+PC Address Instruction Registers ) ALU Address
+/ z
+M
+Register #
+.... e~ Data
+,"
+Instruction
+memory
+memory
+Register # RegWrite
+"
+Data
+MemRead
+"-
+Control
+FIGURE 5.2 11Ie basic Implementation of the MIPS subset Ineludlng the necessary multiplexors and control
+lines. The top multiplexor controls what value replaces the PC (PC + 4 or the branch destination address); the multiplexor is oon·
+trolled by the B-1le that "ands~ together the Zero output of the ALU and a control signal that indicates that the instruction is a
+branch. The multiplexor whose output returns to the register file is used to steer the output oflhe ALU (in the case ofan arithmetic 
+logical instruction) or the output oflhe data memory (in the case ofa load) for writing into the register file. Finally, the bottommost
+multiplexor is used to determine whether the second ALU input is from the registers (for a nonimmediate arithmetic-logical
+instruction) or from the offset field ofthe instruction (for an immediate operation, a load or store, or a branch). The added control
+lines are straightforward and determine the operation performed at the ALU, whether the data memory should read or write, and
+whether the registers should perform a write operation.The control lines are shown in color to make them easier to see.
+While easier to understand, this approach is not practical, since it would be
+slower than an implementation that allows different instruction classes to take dif 
+ferent numbers of clock cycles, each of which could be much shorter. After design 
+ing the control for this simple machine, we will look at an implementation that
+uses multiple clock cycles for each instruction. This multicycle design is used

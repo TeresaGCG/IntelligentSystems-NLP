@@ -1,0 +1,69 @@
+5.4 A Simple Implementation Scheme 307
+~
+'0
+M
+,
+) Add
+"
+4- V
+-
+ALU
+~
+Add result
+Shift
+f-
+I \ left 2
+RegDst
+I
+Branch
+MemRead
+Instruction [31-26] MemtoReg
+Control
+ALUOp
+MemWrile
+ALUSrc
+RegWrile
+Instruction (25-21)
+Read
+Rood ----
+PC register 1
+Rood
+address
+Instruction (20-16) data 1 -----
+Read
+Zero
+Instruction I register 2
+0
+[31-0) ALU ALU Rood
+Rood
+M, Write 0 - Address data 1
+result
+" data 2 M
+Instruction M
+Instruction (15-11) register ,
+,
+memory y " "
+~
+Write 0
+0
+d,~ Registe rs Data
+Wrne
+memory
+I "\ data
+I \
+Iinstruction (15-0] 16 32
+-
+Sign
+ALU
+extend
+control
+"-
+\.
+/
+Instruction (5-0]
+FIGURE 5.17 The simple datapath with the control unit. The input to the control unit is the 6-bit oJKode field from the instruction. The
+outputs of the control unit consist ofthree I-bit signals that are used to control multiplexors (RJ.>gDst,ALUSrc, and MemtoReg), three signals for con 
+trolling reads and writes in the register file and d.1ta memory (RJ.>gWrite, MemRJ.>ad, and MentWrite), a I-bit signal used in determining whether to
+possibly branch (Branch), and a l-bit control signal for the ALU (ALUOp). An AND gate is used to combine the branch control signal and the Zero
+output from the ALU; the AND gate output controls the selection of the next Pc. Notice that PCSrc is now a derived signal, rather than one conting
+directly from the control unit. Thus we drop the signal name in subsequent figures.

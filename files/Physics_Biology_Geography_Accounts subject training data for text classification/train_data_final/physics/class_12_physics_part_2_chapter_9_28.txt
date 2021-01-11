@@ -1,0 +1,62 @@
+Roy Optics and
+Optical Instruments
+
+Since D is about 25 cm, to have a magniﬁcation of six, one needs a convex
+lens of focal length, f = 5 cm.
+
+Note that m = h’/ hwhere his the size of the object and h’ the size of
+the image. This is also the ratio of the angle subtended by the image
+to that subtended by the object, if placed at D for comfortable Viewing.
+(Note that this is not the angle actually subtended by the object at the
+eye, which is h/u.) What a single-lens simple magnifier achieves is that it
+allows the object to be brought closer to the eye than D.
+
+We will now find the magnification when the image is at infinity. In
+this case we will have to obtained the angular magnification. Suppose
+the object has a height h. The maximum angle it can subtend, and be
+clearly visible (without a lens), is when it is at the near point, i.e., a distance
+D. The angle subtended is then given by
+
+tan 60 = (E) z 9 (9.40)
+D
+
+0
+
+We now find the angle subtended at the eye by the image when the
+object is at u. From the relations
+
+ 
+
+ 
+
+h’ v
+= m = —
+h u
+we have the angle subtended by the image
+tan 61. = h = L - B = L ze. The angle subtended by the object, when it
+—v —v u —u
+is at u = —f.
+h
+9i 2 — .41
+(f) ‘9 ’
+
+m_ a _2
+— 00 _f (9.42)
+
+This is one less than the magnification when the image is at the near
+point, Eq. (9.39), but the viewing is more comfortable and the difference
+in magnification is usually small. In subsequent discussions of optical
+instruments (microscope and telescope) we shall assume the image to be
+at inﬁnity.
+
+A simple microscope has a limited maximum magnification (S 9) for
+realistic focal lengths. For much larger magnifications, one uses two lenses,
+one compounding the effect of the other. This is known as a compound
+microscope. A schematic diagram of a compound microscope is shown
+in Fig. 9.28. The lens nearest the object, called the objective, forms a
+real, inverted, magnified image of the object. This serves as the object for
+the second lens, the eyepiece, which functions essentially like a simple
+
+2019-20
+
+337

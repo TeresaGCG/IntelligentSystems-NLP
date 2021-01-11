@@ -1,0 +1,76 @@
+274 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Compute net cash from operations for the year ended March 31, 2017 by the
+indirect method.
+
+[Ans.: Cash from operations Rs 2,18,000].
+5. Compute cash from operations from the following ﬁgures:
+
+(i) Proﬁt for the year 2016-17 is a sum of Rs 10,000 after providing for
+depreciation of Rs 2,000.
+
+(ii) The current assets and current liabilities of the business for the year
+ended March 31, 2016 and 2015 are as follows:
+
+Particulars March March
+31,2016 31,2017
+(R5) (R5)
+
+Trade Receivables
+Provision for Doubtful Debts
+
+Trade Payables
+
+Inventories
+
+Other Current Assets
+Expenses payable
+
+Prepaid Expenses
+
+Accrued Income
+
+Income received in advance
+
+[Ans.: Cash from operations: Rs 7,700].
+
+6. From the following particulars of Bharat Gas Limited, calculate Cash
+Flows from Investing Activities. Also show the workings clearly preparing
+
+the ledger accounts:
+Balance Sheet of Bharat Gas Ltd.. as on 31 March. 2016 and 31 March 2017
+
+ 
+
+Note ﬁgures as Figures as at
+the end of the end of
+201 7 (Rs) reporting
+201 6 (Rs)
+II) Assets
+
+1. N on- current Assets
+
+a) Fixed assets
+i) Tangible assets 12,40,000 10,20,000
+ii) Intangible assets 4.60.000 3.80.000
+b) Non—current investments 3.60.000 2.60.000
+
+ 
+
+Notes: 1 Tangible assets = Machinery
+2 Intangible assets = Patents
+
+Notes to accounts:
+Figures of Figures of
+current year previous year
+
+1. Tangible Assets
+
+Machinery 12,40,000 10,20,000
+2. Intangible Assets : :
+
+Goodwill 3.00.000 1 .00.000
+
+Patents 1 .60.000 2.80.000
+
+4.60.000 3.80.000

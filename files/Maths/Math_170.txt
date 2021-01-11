@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+170
+We calculated the same slope in Example 1 and in Example 2. In
+fact, one of the things that make lines so special is that their slope is
+constant. It doesn’t matter which set of points you use to calculate the
+slope of a line.
+Notice that the slope of the linear function ƒ(x) = 2x + 3 is 2; 2 also
+happens to be the coefficient in front of x. Could this be a coincidence?
+No! You can easily recognize the slope of any linear function. For example,
+the slope of the linear function ƒ(x) = −3x − 9 is –3!
+Example 3
+Pick two points and calculate the slope of the function
+ƒ(x) = −2x+ 1.
+Solution: We can see from the formula for ƒ(x) that the slope is
+−2. It doesn’t matter which two points I pick, so I will pick points
+corresponding to x= 0 and x= 1. The point corresponding to x= 0
+is (0, 1) [because ƒ(0) = 1], and the point corresponding to x= 1 is
+(1, −1) [because ƒ(1) = (−2) ⋅ 1 + 1 = −1]. The slope of the line
+passing through (0, 1) and (1, −1) is:
+Example 4
+Find the slope of the line that passes through the points (4, −2)
+and(6, 3).
+Solution: Use the equation for the slope:
+I mentioned at the beginning of the chapter that there are two important
+constants involved in a linear function ƒ(x) = mx + b. The constant m is
+the slope, which we have just talked about. The other constant, b, is
+called the y-intercept.
+The y-intercept of a function is the point where the line crosses the
+y-axis. At that point the value of x is 0. This point is determined by finding
+the value of y when you plug x into the function. If y = mx + b and you
+www.ebook3000.com

@@ -1,0 +1,31 @@
+8.1 Introduction 567
+Interrupts
+Processor
+Cache
+Memory- 110 bus
+Main VO I/O I/O
+memory controller controller controller
+/'
+Network /
+Graphics
+Disk Disk output r
+FIGURE 8.1 A typical collection of I/O devices. The connectlons between the I/O deVICes, pro 
+cessor, and memoryare usually called buses. Communication among the devices and the processor use both
+interrupts and protocols on the bus, as we will see in this chapter. Figure 8.11 on p.1ge 585 shows the organi 
+zation for a desktop Pc.
+How we should assess I/O performance often depends on the application. In
+some environments, we may care primarily about system throughput. In these
+cases, I/O bandwidth will be most important. Even I/O bandwidth can be mea 
+sured in two different ways:
+1. How much data can we move through the system in a certain time?
+2. How many I/O operations ca n we do per unit of time?
+\Vhich performance measurement is best may depend on the environment. For
+example, in many multimedia applications, most I/O requests are for long streams
+of data, and transfer bandwidth is the important characteristic. In another
+environment, we may wish to process a large number of small, unrelated accesses
+to an I/O device. An example of such an environment might be a tax-processing
+office of the National Income Tax Service (NITS). NITS mostly cares about pro 
+cessing a large number of forms in a given time; each tax form is stored separately
+and is fairly small. A system oriented toward large file transfer may be satisfactory,
+but an I/O system that can support the simultaneous transfer of many small files
+may be cheaper and faster for processing millions of tax forms.

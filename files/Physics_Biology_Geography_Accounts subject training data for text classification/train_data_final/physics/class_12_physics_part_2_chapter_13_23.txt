@@ -1,0 +1,70 @@
+10.
+
+11.
+
+ 
+
+This is because electron scattering senses the charge distribution of
+the nucleus, whereas alpha and similar particles sense the nuclear
+matter.
+
+After Einstein showed the equivalence of mass and energy, E = m2,
+we cannot any longer speak of separate laws of conservation of mass
+and conservation of energy, but we have to speak of a unified law of
+conservation of mass and energy. The most convincing evidence that
+this principle operates in nature comes from nuclear physics. It is
+central to our understanding of nuclear energy and harnessing it as a
+source of power. Using the principle, Q of a nuclear process [decay or
+reaction) can be expressed also in terms of initial and final masses.
+
+The nature of the binding energy (per nucleon) curve shows that
+exothermic nuclear reactions are possible, when two light nuclei fuse
+or when a heavy nucleus undergoes ﬁssion into nuclei with intermediate
+mass.
+
+For fusion, the light nuclei must have sufficient initial energy to
+overcome the coulomb potential barrier. That is why fusion requires
+very high temperatures.
+
+Although the binding energy (per nucleon) curve is smooth and slowly
+varying. it shows peaks at nuclides like 4He, 160 etc. This is considered
+as evidence of atom—like shell structure in nuclei.
+
+Electrons and positron are a particle—antiparticle pair. They are
+identical in mass; their charges are equal in magnitude and opposite.
+[It is found that when an electron and a positron come together, they
+annihilate each other giving energy in the form of gamma—ray photons.)
+
+In é’—decay [electron emission), the particle emitted along with electron
+is anti—neutrino (17). On the other hand, the particle emitted in [3”—
+decay [positron emission) is neutrino (v). Neutrino and anti—neutrino
+are a particle-antiparticle pair. There are anti particles associated
+with every particle. What should be antiproton which is the anti
+particle of the proton?
+
+A free neutron is unstable [n —> p + e‘ + 17). But a similar free proton
+decay is not possible. since a proton is (slightly) lighter than a neutron.
+
+Gamma emission usually follows alpha or beta emission. A nucleus
+in an excited (higher) state goes to a lower state by emitting a gamma
+photon. A nucleus may be left in an excited state after alpha or beta
+emission. Successive emission of gamma rays from the same nucleus
+[as in case of “M, Fig. 13.4) is a clear proof that nuclei also have
+discrete energy levels as do the atoms.
+
+Radioactivity is an indication of the instability of nuclei. Stability
+requires the ratio of neutron to proton to be around 1:1 for light
+nuclei. This ratio increases to about 3:2 for heavy nuclei. [More
+neutrons are required to overcome the effect of repulsion among the
+protons.) Nuclei which are away from the stability ratio, i.e., nuclei
+which have an excess of neutrons or protons are unstable. In fact.
+only about 10% of knon isotopes [of all elements), are stable. Others
+have been either artificially produced in the laboratory by bombarding
+a, p, d, n or other particles on targets of stable nuclear species or
+identified in astronomical observations of matter in the universe.
+
+2019-20
+
+Nuclei
+
+461

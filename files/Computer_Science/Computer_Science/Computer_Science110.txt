@@ -1,0 +1,40 @@
+94 Chapter 2 Instructions: Language of the Computer
+Latin Malayalam Tagbanwa General Punctuation
+Greek Sinhala Khmer Spacing Modifier Letters
+Cyrillic Thai Mongolian Currency Symbols
+Armenian L" Limbu Combining Diacritical Marks
+Hebrew Tibetan Tai Le Combining Marks for Symbols
+Arabic Myanmar Kangxi Radicals Superscripts and Subscripts
+5yriac Georgian Hiragana Number Fonns
+Thaana Hangul Jamo Katakana Mathematical Operators
+Devanagari Ethiopic Bopomofo Mathematical Alphanumeric Symbols
+Bengali Cherokee Kanbun Braille Patterns
+Gurmukhi Unified Canadian Shavian Optical Character Recognition
+Aboriginal Syllabic
+Gujarati Ogham Osmanya Byzantine Musical Symbols
+Oriya Runic Cypriot Syllabary Musical Symbols
+Tamil Tagalog Tai Xuan Jing Symbols Arrows
+Telugu Hanunoo Yijing Hexagram Symbols Box Drawing
+Kannada Buhid Aegean Numbers Geometric Shapes
+FIGURE 2.22 Example alphabets In Unicode. Unicode version 4.0 has more than 160 "blocks," which is
+their IMme for a collection of symbols. Each block is a multiple of 16. For example, Greek starts m 037000:' and
+04<X\a.
+Cyrillic at The first three colmnns show 48 blocks that correspond to human languages in roughly Uni 
+code nwnerical order. The last colwnn has 16 blocks thm are multilingual and are not in order. A 16-bit encod 
+ing, called UTF-16, is the default. A variable-length encoding, called lJfF-8, keeps theASCII subset as 8 bits and
+uses 16---32 bits for theother characters. UTF-32 uses 32 bits per character.Th learn more, see www.unicode.org.
+The MIPS instruction set has explicit instructions to load and store 16-bit
+SUdl
+quantities, called halfwords. Load half (1 h) loads a halfword from memory, placing it in
+the rightmost 16 bits of a register. Store half (sh) takes a halhvord from the rightmost
+16 bits of a register and writes it to memory. We copy a halhvord with the sequence
+lh ItO , O(lsp) # Read halfword (16 bits) from source
+sh ItO , O(lgp) # Write halfword (16 bits) to destination
+Strings are a standard Java class with special built-in support and predefined
+methods for concatell3tion, comparison, and conversion. Unlike C, Java includes
+a word that gives the length of the string, similar to Java arrays.
+Elaboration: MIPS software tries to keep the stack aligned to word addresses, allow 
+ing the program to always use 1wand sw (which must be aligned) to access the stack.
+This convention means that a char variable allocated on the stack occupies 4 bytes,
+even though it needs less. However, a C string variable or an array of bytes will pack 4
+bytes per word, and a Java string variable or array of shorts packs 2 halfwords per word.

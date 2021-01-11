@@ -1,0 +1,44 @@
+Glossary
+instruction-level parallelism The parallel  latency (pipeline) The number ofstages in
+ism among instructions. a pipeline or the number of stages between
+integrated circuit Also called chip.A device two instructions during execution.
+combining dozens to millions of transistors. least recently used (LRU) A replacement
+interrupt An exception that comes from schemeinwhich the block replaced is theone
+outsideof the processor. (Some architectures that has been unused for the longest time.
+use the teon interrupt for all exceptions.) least significant bit The rightmost bit in a
+interrupt-driven 110 An I/O scheme that MIPS word.
+employs interrupts to indicate to the pro  level-sensitive d ocking A timing method 
+cessor that an I/O device needs attention. ology in which state changes occur at either
+interrupt handler A piece ofcode that is run high or low clock levels but are not instanta 
+as a result of an exception or an interrupt. neous, as such changes are in edge-triggered
+issue packet The set of instructions that is  designs.
+sues together in 1 d ock cycle; the packet linker Also called link editor. A systems
+may be determined statically by the compil  program that combines independently as 
+er or dynamically by the processor. sembled machine language programs and
+issue slots The positions from which in  resolves all undefined labels into an execut 
+structions could issue in a given d ock cycle; able file.
+by analogy these correspond to positions at loader A systems program that places an
+the starting blocks for a sprint. object program in main memoryso that it is
+Java bytecode Instruction from an instruc  ready to execute.
+tion set designed to interpret Java programs. load-store machine Also called register 
+Java Virtual Machine OVM) The program register machine. An instruction set archi 
+that interprets Java bytecodes. tecture in which all operations are benveen
+jump address table Also called jump table. registers and data memory may only be ac 
+A table of addresses of alternative instruc  cessed via loads or stores.
+tion sequences. load-use data hazard A specific form of
+jump-and-link instruction An instruction data hazard in which the data requested by
+that jumps to an address and simultaneous  a load instruction has not yet become avail 
+ly saves the address of the following instruc  able when it is requested.
+tion in a register ($ r a in MIPS). local area network (LAN) A network de 
+Just In Tinle Compiler (JIT) The name com  signed to carry data within a geographically
+monly given to a compiler that operates at confined area, typically within a single
+runtime, translating the interpreted code seg  building.
+ments into the native code of the computer. local label A label referring to an object
+kernel mode Also called supervisor mode. that can be used only within the file in
+A mode indicating that a running process is which it is defined.
+an operating system process. local miss rate The fraction of references to
+latch A memory element in which the out  one level of a cache that miss; used in multi 
+put is equal to the value of the stored state level hierarchies.
+inside the element and the state is changed lock A synchronization device that allows
+whenever the appropriate inputs change access to data to only one processor at a
+and the d ock is asserted. time.

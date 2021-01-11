@@ -1,0 +1,87 @@
+BIOLOGY
+
+active log/ exponential phase. This type of culturing method produces a
+larger biomass leading to higher yields of desired protein.
+
+Small volume cultures cannot yield appreciable quantities of products.
+To produce in large quantities, the development of bioreactors, where
+large volumes (100- 1000 litres) of culture can be processed, was required.
+Thus, bioreactors can be thought of as vessels in which raw materials are
+biologically converted into speciﬁc products, individual enzymes, etc.,
+using microbial plant, animal or human cells. A bioreactor provides the
+optimal conditions for achieving the desired product by providing
+optimum growth conditions (temperature, pH, substrate, salts, vitamins,
+oxygen).
+
+The most commonly used bioreactors are of stirring type, which are
+shown in Figure 1 1.7.
+
+ 
+
+/
+
+for pH
+control
+
+Steam for
+sterilisation
+
+ 
+
+K
+
+Figure 1 1 .7
+
+Acid / Base —
+
+  
+    
+ 
+
+(a)
+
+Increased
+surface
+area for
+
+oxygen
+
+Flat bladed
+‘ impeller
+
+, Culture
+broth
+
+Bubbles\
+
+dramatically
+increase the
+
+oxygen
+transfer area
+
+ 
+
+ 
+
+(b)
+
+(a) Simple stirred-tank bioreactor; (b) Sparged stirred-tank bioreactor through which
+
+sterile air bubbles are Sparged
+
+A stirred-tank reactor is usually cylindrical or with a curved base to
+facilitate the mixing of the reactor contents. The stirrer facilitates even
+mixing and oxygen availability throughout the bioreactor. Alternatively
+air can be bubbled through the reactor. If you look at the ﬁgure closely
+you will see that the bioreactor has an agitator system, an oxygen delivery
+system and a foam control system, a temperature control system, pH
+control system and sampling ports so that small volumes of the culture
+can be withdrawn periodically.
+
+1 1.3.6 Downstream Processing
+
+After completion of the biosynthetic stage, the product has to be subjected
+through a series of processes before it is ready for marketing as a ﬁnished
+
+2019—2020

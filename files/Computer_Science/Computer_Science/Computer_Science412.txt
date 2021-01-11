@@ -1,0 +1,34 @@
+396 Chapter 6 Enhancing Performance with Plpellnlng
+~EM
+• - 1/
+.j - - ,  
+-
+I ...... ,,,= • -,
+-
+- -_L-j - ,-.r,"
+-1-4-- -" - •
+-
+,"
+•
+••
+• •
+FIGURE 6.18 The portion of the datapath In Figure 6.17 that Is used In all five stages of a load Instruction.
+such as Figures 6.1 2 through 6.1 6. The multiple-clock-cycle diagrams are simpler
+but do not contain all the details. For example, consider the following five 
+instruction sequence:
+lw liD . 20(11)
+sub $11, $2 , $3
+add $12 , $3 , $4
+lw 113 . 24 (11)
+add $14 , $5 , $6
+Figure 6.1 9 shows the multiple-clock-cycle pipeline diagram for these instruc 
+tions. Time adva nces from left to right across the page in these diagrams, and
+instructions advance from the top to the bottom of the page, similar to the laun 
+dry pipeline in Figure 6.1 on page 371. A representation of the pipeline stages is
+placed in each portion along the instruction axis, occupying the proper clock
+cycles. These stylized datapaths represent the five stages of our pipeline, but a rect 
+angle naming each pipe stage works just as well. Figure 6.20 shows the more tradi 
+tional version of the multiple-clock-cycle pipeline diagram. Note that Figure 6.1 9
+shows the physical resources used at each stage, while Figure 6.20 uses the flame of
+each stage. We use multiple-clock-cycle diagrams to give overviews of pipelining
+situations.

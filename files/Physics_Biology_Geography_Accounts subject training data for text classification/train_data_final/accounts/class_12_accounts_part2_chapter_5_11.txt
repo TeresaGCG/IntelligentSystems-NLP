@@ -1,0 +1,56 @@
+Accounting Ratios 1 99
+
+repayment of principal amount at the end of the loan period. Solvency ratios
+are calculated to determine the ability of the business to service its debt in
+the long run. The following ratios are normally computed for evaluating
+solvency of the business.
+
+1. Debt-Equity Ratio;
+
+2 Debt to Capital Employed Ratio;
+3. Proprietary Ratio;
+
+4 Total Assets to Debt Ratio;
+
+5 Interest Coverage Ratio.
+
+5. 7. 1 Debt-Equity Ratio
+
+Debt—Equity Ratio measures the relationship between long—term debt and
+equity. If debt component of the total long-term funds employed is small,
+outsiders feel more secure. From security point of view, capital structure
+with less debt and more equity is considered favourable as it reduces the
+chances of bankruptcy. Normally, it is considered to be safe if debt equity
+ratio is 2 : 1. However, it may vary from industry to industry. It is computed
+as follows:
+
+Debt— Equity Ratio =
+
+where:
+Shareholders' Funds (Equity)
+
+Share capital + Reserves and Surplus +
+
+Money received against share warrants
+
+Equity share capital + Preference share capital
+or
+
+Non-current sssets + Working capital
+
+Non-current liabilities
+
+Working Capital = Current Assets Current Liabilities
+
+Share Capital
+
+Shareholders' Funds (Equity)
+
+Signiﬁcance: This ratio measures the degree of indebtedness of an enterprise
+and gives an idea to the long—term lender regarding extent of security of the
+debt. As indicated earlier, a low debt equity ratio reﬂects more security. A high
+ratio, on the other hand, is considered risky as it may put the ﬁrm into diﬂiculty
+in meeting its obligations to outsiders. However, from the perspective of the
+owners, greater use of debt (trading on equity) may help in ensuring higher
+returns for them if the rate of earnings on capital employed is higher than the
+rate of interest payable.

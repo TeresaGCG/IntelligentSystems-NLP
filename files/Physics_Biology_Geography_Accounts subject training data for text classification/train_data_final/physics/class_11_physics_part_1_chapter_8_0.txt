@@ -1,0 +1,96 @@
+CHAPTER EIGHT
+
+ 
+
+| I 0860-108
+
+8.1
+8.2
+8.3
+
+8.4
+
+8.5
+
+8.6
+
+Introduction
+Kepler's laws
+
+Universal law of
+gravitation
+
+The gravitational
+constant
+
+Acceleration clue to
+gravity of the earth
+Acceleration clue to
+gravity below and above
+the surface of earth
+
+Gravitational potential
+energy
+
+Escape speed
+Earth satellites
+
+Energy of an orbiting
+satellite
+
+Geostationary and polar
+satellites
+
+Weightlessness
+
+Summary
+
+Points to ponder
+Exercises
+Additional exercises
+
+ 
+
+GRAVITATION
+
+ 
+
+8. 1 INTRODUCTION
+
+Early in our lives, we become aware of the tendency of all
+material objects to be attracted towards the earth. Anything
+thrown up falls down towards the earth, going uphill is lot
+more tiring than going downhill, raindrops from the clouds
+above fall towards the earth and there are many other such
+phenomena. Historically it was the Italian Physicist Galileo
+(1564- l 642) who recognised the fact that all bodies,
+irrespective of their masses, are accelerated towards the earth
+with a constant acceleration. It is said that he made a public
+demonstration of this fact. To find the truth, he certainly did
+experiments with bodies rolling down inclined planes and
+arrived at a value of the acceleration due to gravity which is
+close to the more accurate value obtained later.
+
+A seemingly unrelated phenomenon, observation of stars,
+planets and their motion has been the subject of attention in
+many countries since the earliest of times. Observations since
+early times recognised stars which appeared in the sky with
+positions unchanged year after year. The more interesting
+objects are the planets which seem to have regular motions
+against the background of stars. The earliest recorded model
+for planetary motions proposed by Ptolemy about 2000 years
+ago was a ‘geocentric’ model in which all celestial objects,
+stars, the sun and the planets, all revolved around the earth.
+The only motion that was thought to be possible for celestial
+objects was motion in a circle. Complicated schemes of motion
+were put forward by Ptolemy in order to describe the observed
+motion of the planets. The planets were described as moving
+in circles with the centre of the circles themselves moving in
+larger circles. Similar theories were also advanced by Indian
+astronomers some 400 years later. However a more elegant
+model in which the Sun was the centre around which the
+planets revolved — the ‘heliocentric’ model — was already
+mentioned by Aryabhatta (5th century AD.) in his treatise. A
+thousand years later, a Polish monk named Nicolas
+
+2019-20

@@ -1,0 +1,85 @@
+l Physics
+
+http://phetco|0raclo.edu/en/Si mu | ation/legacy/wave—i ntcrference
+
+8
+§
+)3
+'5
+§
+5
+E
+'3
+E
+E
+a
+
+362
+
+ 
+
+ 
+
+then, the displacement produced by 82 would be
+y2 = acos (wt+ ¢)
+and the resultant displacement will be given by
+
+y = U1 + H2
+= a [cos wt + cos (wt +¢)]
+
+= 2 acos ((M2) cos (wt+ ¢/2)
+
+[ cosA+cosB = 2cos£AgBj cos[A;B]]
+
+The amplitude of the resultant displacement is 2a cos (¢/ 2) and
+therefore the intensity at that point will be
+
+1 = 4 10 cos2 (¢/2) (10.12)
+
+If ¢ = O, i 2 TC, i 4 at,... which corresponds to the condition given by
+Eq. (10.10) we will have constructive interference leading to maximum
+intensity. On the other hand, if q) = i TC, i 37:, i 5% [which corresponds to
+the condition given by Eq. (1 0.1 1)] we will have destructive interference
+leading to zero intensity.
+
+Now if the two sources are coherent (i.e., if the two needles are going
+up and down regularly) then the phase difference ¢ at any point will not
+change with time and we will have a stable interference pattern; i.e., the
+positions of maxima and minima will not change with time. However, if
+the two needles do not maintain a constant phase difference, then the
+interference pattern will also change with time and, if the phase difference
+changes very rapidly with time, the positions of maXima and minima will
+also vary rapidly with time and we will see a “time-averaged” intensity
+distribution. When this happens, we will observe an average intensity
+that will be given by
+
+ 
+
+ 
+
+<I>=410 <cos2(¢/2)> (10.13)
+
+where angular brackets represent time averaging. Indeed it is shown in
+Section 7.2 that if ¢(t) varies randomly with time, the time-averaged
+quantity < cos2 (¢/ 2) > will be 1 / 2. This is also intuitively obvious because
+the function cos2 (¢/ 2) will randomly vary between 0 and 1 and the
+average value will be 1 / 2. The resultant intensity will be given by
+
+1:210 (10.14)
+
+at all points.
+
+When the phase difference between the two vibrating sources changes
+rapidly with time, we say that the two sources are incoherent and when
+this happens the intensities just add up. This is indeed what happens
+when two separate light sources illuminate a wall.
+
+10.5 INTERFERENCE OF LIGHT WAVES AND YOUNG’S
+EXPERIMENT
+
+We will now discuss interference using light waves. If we use two sodium
+lamps illuminating two pinholes (Fig. 10. 1 1) we will not observe any
+interference fringes. This is because of the fact that the light wave emitted
+from an ordinary source (like a sodium lamp) undergoes abrupt phase
+
+2019-20

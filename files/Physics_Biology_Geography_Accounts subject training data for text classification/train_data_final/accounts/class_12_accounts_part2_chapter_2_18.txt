@@ -1,0 +1,51 @@
+90 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Case (i) When debentures are issued at par:
+Suppliers Ltd. . 198,000
+To 12% Debentures A/c 1.98.000
+(12% Debentures issued to Suppliers Ltd.)
+
+Case (ii) When debentures are issued at 10% discount:
+Suppliers Ltd. . 1,98,000
+Discount on Issue of Debentures A/c . 22,000
+To 12% Debentures A/c 220,000
+
+(12% Debentures issued to Suppliers Ltd. at
+10% discount)
+
+Case (iii) When debentures are issued at 10% premium:
+Suppliers Ltd. . 198,000
+To 12% Debentures A/c 1,80,000
+Securities Premium Reserve A/c 18,000
+(12% Debentures issued to Suppliers Ltd.
+at 10% premium)
+
+ 
+
+Workings:
+(a)
+(RS)
+Face value of debenture 100
+Less: Discount 10% J
+Value at which debenture issued ﬂ
+
+Number of debentures issued in case of 10% discount
+
+2,200 debenture
+
+(b)
+(RS)
+Face value of debenture 100
+Add: Premium 10% ﬂ
+Value at which debenture issued M
+
+Number of debentures issued in case of 10% premium =
+
+= 1,800 Debentures
+
+2.7 Issue of Debentures as a Collateral Security
+
+A collateral security may be deﬁned as a subsidiary or secondary or additional
+security besides the primary security when a company obtains a loan or overdraft
+from a bank or any other ﬁnancial Institution. It may pledge or mortgage some
+assets as a secured loan against the said loan. But the lending institutions may

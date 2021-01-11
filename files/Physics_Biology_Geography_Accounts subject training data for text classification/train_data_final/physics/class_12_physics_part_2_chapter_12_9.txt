@@ -1,0 +1,96 @@
+object which moves in a circle is being constantly
+accelerated — the acceleration being centripetal in nature.
+According to classical electromagnetic theory, an
+accelerating charged particle emits radiation in the form
+of electromagnetic waves. The energy of an accelerating
+electron should therefore, continuously decrease. The
+electron would spiral inward and eventually fall into the
+nucleus (Fig. 12.7). Thus, such an atom can not be stable.
+Further, according to the classical electromagnetic theory,
+the frequency of the electromagnetic waves emitted by
+the revolving electrons is equal to the frequency of
+revolution. As the electrons spiral inwards, their angular
+velocities and hence their frequencies would change
+continuously, and so will the frequency of the light
+emitted. Thus, they would emit a continuous spectrum,
+in contradiction to the line spectrum actually observed.
+Clearly Rutherford model tells only a part of the story
+implying that the classical ideas are not sufficient to
+explain the atomic structure.
+
+Proton
+[hydrogen
+nucleus)
+
+ 
+
+Niels Henrik David Bohr
+(1885 - 1962) Danish
+physicist who explained the
+spectrum of hydrogen atom
+based on quantum ideas.
+He gave a theory of nuclear
+ﬁssion based on the liquid-
+drop model of nucleus.
+Bohr contributed to the
+clarification of conceptual
+problems in quantum
+mechanics, in particular by
+proposing the comple-
+mentary principle.
+
+E
+r11
+5
+I
+r11
+2
+E
+m
+U
+>
+S
+C
+CD
+0
+E
+:0
+o?
+oo
+01
+|
+E
+c»
+£9
+
+   
+
+FIGURE 12.7 An accelerated atomic electron must spiral into the
+nucleus as it loses energy.
+
+Example 12.4 According to the classical electromagnetic theory,
+calculate the initial frequency of the light emitted by the electron
+revolving around a proton in hydrogen atom.
+
+Solution From Example 12.3 we know that velocity of electron moving
+around a proton in hydrogen atom in an orbit of radius 5.3 X 10‘11 m
+is 2.2 X 10‘6 m/s. Thus, the frequency of the electron moving around
+the proton is
+
+v 2.2 x 106 m s'1
+
+= 2—nr _ 2n(5.3><10"” m)
+
+z 6.6 x 1015 Hz.
+According to the classical electromagnetic theory we know that the
+frequency of the electromagnetic waves emitted by the revolving
+electrons is equal to the frequency of its revolution around the nucleus.
+Thus the initial frequency of the light emitted is 6.6 X 1015 Hz.
+
+V
+
+423
+
+ 
+
+2019-20

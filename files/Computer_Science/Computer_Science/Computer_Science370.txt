@@ -1,0 +1,33 @@
+354 Chapter 5 The Processor: Datapath and Control
+Exercises
+5.1 (61 <§5.2> Do we need combinational logic, sequential logic, or a combina 
+tion of the two to implement each of the following:
+multiplexor
+3.
+b. comparator
+c. incrementer/decrementer
+d. barrel shifter
+e. multiplier with shifters and adders
+f. register
+g. memory
+h. ALU (the ones in single-cycle and multiple-cycle datapaths)
+i. carry look-ahead adder
+j. latch
+k. general finite state machine (FSM)
+5.2 (10] <§5.4> Describe the effect that a single stllck-at-O fault (Le., rega rdless of
+what it should be, the signal is always 0) would have for the signals shown below,
+in the single-cycle datapath in Figure 5. 17 on page 307. Which instructions, ifany,
+will not work correctly? Explain why.
+Consider each of the following faults separately:
+a. RegWrite = 0
+b. ALUopO= 0
+c. ALUopl = 0
+d. Branch = 0
+e. MemRead = 0
+f. Mem Write = 0
+5.3 [5J <§5.4> This exercise is similar to Exercise 5.2, but this time consider
+stuck-at- I faults (the signal is always I).
+5.4 [5J <§5.4> .. For More Practice: Single Cycle Datapaths with Floating Point.
+II
+5.5 [5J <§5.4> For More Practice: Single Cycle Datapaths with Floating Point.
+5.6 [IOJ <§5.4> 18 For More Practice: Single Cycle Datapaths with Floating Point.

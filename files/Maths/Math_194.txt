@@ -1,0 +1,42 @@
+Homework Helpers: Basic Math and Pre-Algebra
+194
+Now that we understand how to measure the distance between two
+points that lie on either a vertical or a horizontal line, we can make things
+more challenging by finding the distance between two points that lie on
+any kind of line. The easiest way to measure the distance between any
+two points is to graph them in the Cartesian coordinate system and then
+use the Pythagorean Theorem.
+Suppose you want to
+measure the distance be-
+tween the points (0, 0) and
+(3, 4). Graph both points
+(3, 4)
+4 on the Cartesian coordi-
+nate system. Notice that
+you can create a right tri-
+2 4 angle, as shown in Figure
+10.12. The key is to find
+the coordinates of a third
+point that helps to create
+a right triangle.
+3 (3, 0) 5
+The distance between
+our two original points is
+–2
+the length of the hypot-
+enuse of this right triangle.
+We can find the length of
+ Figure 10.12
+each leg by calculating the
+vertical or horizontal dis-
+tances between one of our original points and this new point. In this case,
+the new point is the point (3, 0). Using this new point, we can find the
+length of each of the legs.
+(cid:96) The horizontal leg is the line segment with endpoints (0, 0)
+and (3, 0); it’s length is 3 − 0 = 3.
+(cid:96) The vertical leg is the line segment with endpoints (3, 4) and
+(3, 0); it’s length is 4 − 0 = 4.
+We have created a right triangle with two legs having length 3 and 4,
+respectively. We can use the Pythagorean Theorem to find the length of
+the hypotenuse:
+www.ebook3000.com

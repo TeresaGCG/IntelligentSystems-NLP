@@ -1,0 +1,75 @@
+I Physics
+
+2.6 EQUIPOTENTIAL SURFACES
+
+An equipotential surface is a surface with a constant value of potential
+at all points on the surface. For a single charge q, the potential is given
+by Eq. (2.8):
+
+V—lq
+
+ 
+
+47:80 r
+
+This shows that Vis a constant if r is constant. Thus, equipotential
+surfaces of a single point charge are concentric spherical surfaces centred
+at the charge.
+
+Now the electric ﬁeld lines for a single charge q are radial lines starting
+from or ending at the charge, depending on whether q is positive or negative.
+Clearly, the electric ﬁeld at every point is normal to the equipotential surface
+passing through that point. This is true in general: for any charge
+conﬁguration, equipotential surface through a point is normal to the
+electric field at that point. The proof of this statement is simple.
+
+If the ﬁeld were not normal to the equipotential surface, it would
+have non-zero component along the surface. To move a unit test charge
+against the direction of the component of the ﬁeld, work would have to
+
+(a)
+
+(b) be done. But this is in contradiction to the deﬁnition of an equipotential
+FIGURE 2-9 For a surface: there is no potential difference between any two points on the
+Single Charge (1 surface and no work is required to move a test charge on the surface.
+(a) EQPiPOtential The electric ﬁeld must, therefore, be normal to the equipotential surface
+suftaces are at every point. Equipotential surfaces offer an alternative visual picture
+Sphencal surfaces in addition to the picture of electric field lines around a charge
+centred at the configuration.
+
+charge. and
+
+(b) electric field
+lines are radial. - -
+starting from the _ —
+charge if q > 0.
+
+FIGURE 2.10 Equipotential surfaces for a uniform electric field.
+
+ 
+
+ 
+
+ 
+
+ 
+
+VVVV
+
+ 
+
+ 
+
+For a uniform electric ﬁeld E, say, along the x -a1ds, the equipotential
+surfaces are planes normal to the x -axis, i.e., planes parallel to the y-z
+plane (Fig. 2.10). Equipotential surfaces for (a) a dipole and (b) two
+identical positive charges are shown in Fig. 2.1 1.
+
+ 
+
+FIGURE 2.11 Some equipotential surfaces for (a) a dipole.
+(b) two identical positive charges.
+
+60
+
+2019-20

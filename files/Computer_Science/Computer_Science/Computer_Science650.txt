@@ -1,0 +1,45 @@
+G-ll
+Glossary
+overflow (floating-point) A situation in alway associated with the correct instruc 
+which a positive exponent becomes too tion in pipelined computers.
+large to fit in the exponent field. predication A technique to make instruc 
+package Basically a directory that contains tions dependent on predicates rather than
+a group of related classes. on branches.
+page fault An event that occurs when an ac  prefetching A technique in which data
+cessed page is not present in main memory. blocks needed in the future are brought into
+page table The table containing the virtual the cache early by the use of special instruc 
+to physical address translations in a virtual tions that specify the address of the block.
+memory system. The table,which is stored in primary memory Also called main memo 
+memory, is typically indexed by the virtual ry. Volatile memory used to hold programs
+page number;each entryin the table contains while they are running; typically consists of
+the physical page number for that virtual DRAM in today's computers.
+page ifthe page is currently in memory. procedure A stored subroutine that per 
+parallel processing program A single pro  forms a specific task based on the parame 
+gram that runs on multiple processors si  ters with which it is provided.
+multaneously. procedure call frame A block of memory
+PC-relative addressing An addressing re  that is used to hold values passed to a proce 
+gime in which the address is the sum of the dure as arguments, to save registers that a pro 
+program counter (PC) and a constant in the cedure may modify but that the procedure's
+instruction. caller does not want changed, and to provide
+physical address An address in main space for variables local to a procedure.
+memory. procedure frame Also called activation
+physically addressed cache A cache that is record. The segment of the stack contain 
+addressed by a physical address. ing a procedure's saved registers and local
+pipeline stall Also called bubble. A stall variables.
+initiated in order to resolve a hazard. processor-memory bus A bus that con 
+pipelining An implementation technique nects processor and memory and that is
+in which multiple instructions are over  short, generally high speed, and matched to
+lapped in execution, much like to an assem  the memory system so as to maximize
+bly line. memory-processor bandwidth.
+pixel The smallest individual picture ele  program counter (PC) The register con 
+ment. Screen are composed of hundreds of taining the address of the instruction in the
+thousands to millions ofpixels, organized in program being executed
+a matrix. programmable array logic
+poison A result generated when a specula  (PAL) Contains a programmable and 
+tive load yields an exception, or an instruc  plane followed by a fixed or-plane.
+tion uses a poisoned operand. programmable logic array (PLA) A struc 
+polling The process of periodically check  tured-logic element composed of a set of in 
+ing the status of an I/O device to determine puts and corresponding input complements
+the need to service the device. and two stages oflogic: the first generating
+precise interrupt Also called precise ex  product terms of the inputs and input com 
+ception. An interrupt or exception that is plements and the second generating sum

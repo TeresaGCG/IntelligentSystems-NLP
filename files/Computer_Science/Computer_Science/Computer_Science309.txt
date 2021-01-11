@@ -1,0 +1,37 @@
+5.3 Building a Datapath 293
+__ -oj
+Instruction
+address
+f---.
+Instruction -~pcf---- ) Add Sumr--
+----Iv
+Instruction
+memory
+a. lnstruction memory b. Program counter c. Adder
+FIGURE 5.5 Two state elements are needed to store and access Instructions, and an
+adder Is needed to compute the next Instruction address. The state elements are the instruction
+memory and the program counter. The instruction memory need only provide read access because the
+datapath does not write instructions. Since the instruction memory only reads, we treat it as combinational
+logic: the output at any time reflects the contents of the location specified by the address input, and no read
+control signal is needed. (We wiU need to write the instruction memory when we lo.1d the program; this is
+not hard to add, and we ignore it for simplicity.) The program counter is a 32-bit register that wiU be WTit 
+ten at the end of every clock cycle and thus does not need a write control signal. The adder is an ALU wired
+to always perform an add of its tm> 32-bit inputs and place the result on its output.
+Add
+L~-I
+Read
+L... PC I address
+f---.
+Instruction
+Instruction
+memory
+FIGURE 5.6 A portion of the datapath used for fetching Instructions and Incrementing
+the program counter. The fetched instruction is used by other parts ofthe datap.1th.
+register file A state element
+duced in Chapter 2. Recall that a typical instance of such an instruction is add
+that consists ofa set ofregisters
+$11. st2. $13 ,which reads $12 and $13 and writes $11 .
+that can be read and written by
+The processor's 32 general-purpose registers are stored in a structure called a
+supplying a register number to
+register file. A register file is a collection of registers in which any register can be be accessed.

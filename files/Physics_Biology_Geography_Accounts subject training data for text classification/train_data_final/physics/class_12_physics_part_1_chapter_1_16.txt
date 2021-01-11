@@ -1,0 +1,85 @@
+Electric Charges
+and Fields
+
+ 
+
+Thus,
+
+3 @ along A0
+
+47%}, l2
+3 Q
+47%}, l2
+
+39‘!
+
+Force F3 on Q due to charge q at C = 47:8 l2 along CO
+0
+
+3 Q]
+The resultant of forces F2 and F3 is 4158 1—2 along OA, by the
+0
+
+ 
+
+Force F1 on Q due to charge q at A =
+
+ 
+
+Force F2 on Q due to charge q at B along BO
+
+ 
+
+3 Qq A -
+parallelogram law. Therefore, the total force on Q = 4m, l—2(’—r)
+0
+
+ 
+
+A
+
+= 0, where 1‘ is the unit vector along OA.
+
+It is clear also by symmetry that the three forces will sum to zero.
+Suppose that the resultant force was non-zero but in some direction.
+Consider what would happen if the system was rotated through 60"
+about 0.
+
+9' I :ndI/wxg
+
+Example 1.7 Consider the charges q, q, and —q placed at the vertices
+of an equilateral triangle, as shown in Fig. 1.10. What is the force on
+each charge?
+
+ 
+
+FIGURE 1. 10
+
+Solution The forces acting on charge q at A due to charges q at B
+
+and —q at C are F12 along BA and F13 along AC respectively, as shown
+
+in Fig. 1.10. By the parallelogram law, the total force F1 on the charge
+
+q at A is given by
+
+F1 = F 1”} where i3 is a unit vector along BC.
+
+The force of attraction or repulsion for each pair of charges has the
+2
+
+‘1
+41:30 I2
+
+ 
+
+same magnitude F =
+
+The total force F2 on charge q at B is thus F2 = F i' 2, where i2 is a
+unit vector along AC.
+
+L ' I EI’IJWVXEI
+
+2019-20
+
+17

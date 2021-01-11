@@ -1,0 +1,85 @@
+178
+
+ 
+
+ 
+
+i Physics
+
+EXAMPLE 5. 1
+
+In magnitude 1 = mB sin0
+Here 1: is restoring torque and 6 is the angle between m and B.
+2
+Therefore, in equilibrium 5] fit? : — mB sin 6?
+Negative sign with mB sine implies that restoring torque is in opposition
+
+to deﬂecting torque. For small values of 6 in radians, we approximate
+sin 0x6 and get
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ydfz—mBQ
+dt
+d20__mBa
+on dﬁ y
+
+This represents a simple harmonic motion. The square of the angular
+frequency is (o2 = mB/ﬂ and the time period is,
+
+J
+
+ 
+
+ 
+
+T = 27: m8 (5.4)
+2 C
+or B: :‘Tj (5.5)
+
+An expression for magnetic potential energy can also be obtained on
+lines similar to electrostatic potential energy.
+The magnetic potential energy Um is given by
+
+Um = j t(9)d0
+
+= ImBsinGdH = —chos6
+
+= —m.B (5-6)
+
+We have emphasised in Chapter 2 that the zero of potential energy
+can be ﬁxed at one’s convenience. Taking the constant of integration to be
+zero means ﬁxing the zero of potential energy at 0 = 90°, i.e., when the
+needle is perpendicular to the ﬁeld. Equation (5.6) shows that potential
+energy is minimum (= —mB) at 0 = 0° (most stable position) and maximum
+(= +mB) at 0 = 180° (most unstable position).
+
+Example 5.1 In Fig. 5.4(b), the magnetic needle has magnetic moment
+6.7 X 10‘2 Am2 and moment of inertia J = 7.5 X 10‘6 kg m2. It performs
+10 complete oscillations in 6.70 s. What is the magnitude of the
+magnetic field?
+
+Solution The time period of oscillation is,
+
+T = ﬂ = 0.675
+10
+
+ 
+
+From Eq. (5.5)
+2 4
+B = 4n ZJ
+mT
+
+__4xBJ4Fx75x106
+' 6.7 x 10‘2 x (0.67)2
+=001T
+
+2019-20

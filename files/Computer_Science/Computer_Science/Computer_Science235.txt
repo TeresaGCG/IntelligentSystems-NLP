@@ -1,0 +1,41 @@
+3.7 Real Stuff: floating Point In the IA·32 219
+Data transfer Arithmetic Compare Transcendental
+FII)LO mem/ST( i ) F(I)AOO(P) mem/ST(i) F{I)eOM(p) FPATAN
+F{I)ST{P) F(I}SUB(R}{P) mem/ST(i) F(I)UeOM(p}{p) F2XMl
+mem/ST(i)
+FLOP 1 F(I}MUL(P} mem/ST(i) FSTSW AX/mem FeOS
+FLOl F(I}OIV(R}{P) mem/ST(i) FPTAN
+FLOZ FSQRT FPREM
+FABS FSIN
+FRNOINT FYL2X
+FIGURE 3.21 The floatlng·polnt Instructions of the IA·32. We use the curly brackets 1f to show
+optional variations of the basic operations: {Il means there is an integer version of the instruction, {PI
+means this variation will pop one operand offthe stack after the operation, and lR) means reverse the order
+ofthe operands in this operation.The first column shows the data transfer instructions, which move data to
+memory or to one of the registers below the top of the stack. The last three operations in the first column
+pU'ih constants on the stack: pi, 1.0, and 0.0. The second column contains the arithmetic operations
+described above. Note that the last three operate only on the top of stack. The third column is the compare
+instructions. Since there are no special floating-point branch instructions, the result of the compare must
+be transferred to the integer CPU via the FSTSW instruction, either into the AX register or into memory,
+followed by an SAHF instruction to set the condition codes. The floating-point comparison can then be
+tested using integer branch instructions. The final column gives the higher-level floating-poim operations.
+Not all combinations suggested by the notation are provided. Hence, F{I )SUB {R ) {P} operations repre 
+sents these instructions fOlmd in the IA-32: FSUB, FI SUB, FSUBR, FI SUB R, FSUB P, FSUBRP. For the
+integer subtract instructions, there is no pop (FI SUBP)or reverse pop (FI SUBRP).
+Instruction Operands Comment
+FAOO Both operands in stack; result replaces top of stack.
+FAOO ST( i ) One source operand is ith register below the top of stack; result
+replaces the top of stack.
+FAOO ST(il. ST One source operand is the top of stack; result replaces ith register
+below the top of stack.
+FAOO mem32 One soun:e operand is a 32.tlit location in memory; result replaces the
+top of stack.
+FAOO mem64 One soun:e operand is a 64.tlit location in memory; result replaces the
+top of stack.
+FIGURE 3.22 The variations of operands for floating-poInt add In the IA·32.
+The floating-point instructions are encoded using the ESC opcade of the 8086
+and the postbyte address specifier (see Figure 2.46 on page 143). The memory
+operations reserve 2 bits to decide whether the operand is a 32- or 64-bit floating
+point or a 16- or 32-bit integer. Those same 2 bits are used in versions that do not
+access memory to decide whether the stack should be popped after the operation
+and whether the top of stack or a lower register should get the result.

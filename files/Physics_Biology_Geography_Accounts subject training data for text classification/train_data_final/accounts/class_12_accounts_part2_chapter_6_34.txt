@@ -1,0 +1,50 @@
+Cash Flow Statement 269
+
+Cash Flow Statement
+(Indirect Method)
+(Rs ‘000)
+——a
+Cash Flows from Operating Activities
+Net Proﬁt before Taxation and Extraordinary Item
+Adjustments for:
++ Depreciation
+— Interest Income
+— Dividend Income
++ Interest Expense
+
+Operating Proﬁt before working capital changes 3.740
+Increase in Trade Receivables (500)
+Decrease in Inventories 1,050
+Decrease in Trade Payables (1.740)
+
+Cash generated from Operations
+Income Tax paid
+
+Cash ﬂow before Extraordinary Items
+Proceeds from earthquake disaster settlement
+
+Net cash from Operating Activities
+Cash Flows from Investing Activities
+Purchase of Fixed Assets
+
+Proceeds from Sale of Equipment
+
+Interest Received
+
+Dividends Received (net of TDS)
+
+Net cash from Investing Activities
+
+Cash ﬂows from Financing Activities
+
+Proceeds from issuance of Share Capital 250
+Proceeds from Long-term Borrowings 250
+Repayment of Long-term Borrowings [180)
+Interest Paid (270)
+Dividends Paid (1.200)
+
+Net Cash used inFinancing Activities
+Net Increase in Cash and Cash Equivalents
+
+Cash and Cash Equivalents at the beginning of the period
+Cash and Cash Equivalents at the end of the period

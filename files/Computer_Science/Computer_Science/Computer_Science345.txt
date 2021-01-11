@@ -1,0 +1,39 @@
+5.5 A Multleycle Implementation 329
+Arithmetic-logical instruction (R-type);
+<=
+Reg[IR[15 : 11JJ ALUOut ;
+Operation; Place the contents of ALUOut, which corresponds to the output of the
+ALU operation in the previous cycle, into the Result register. The signal RegDst
+must be set to 1 to force the rd field (bits 15: 11 ) to be used to select the register file
+entry to write. RegWrite must be asserted, and MemtoReg must be set to 0 so that
+the output of the ALU is written, as opposed to the memory data output.
+5. Memory read completion step
+During this step, loads complete by writing back the value from memory.
+Load:
+Reg[l R[20 : 16]] <= MOR ;
+Operation; Write the load data, which was stored into MDR in the previous cycle,
+into the register file. To do this, we set MemtoReg = 1 (to write the result from
+memory), assert RegWrite (to cause a write), and we make RegDst = 0 to choose
+the rt (bits 20: 16) field as the register number.
+This five-step sequence is summarized in Figure 5.30. From this sequence we
+can determine what the control must do on each clock cycle.
+Action for R·type Action for memory· Action for Action for
+Step name Instructions reference Instructions branches jumps
+Instruction fetch IR <'" Memory(PCJ
+PC <",PC +4
+Instruction de<:ode/register fetch A <'" Reg [IR[25:2111
+B <'" Reg [IR[20:16))
+ALUOut <'" PC + (sign.extend (IR[15:011« 2)
+EXe<:ution, address computation, ALUOut <'" A op B ALUOut <_ A + sign.extend if (A __ B) PC <'" (PC [31:28),
+branch/jump completion (IR[15:011 PC <'" ALUOut (IR[25:0)),2'bOO))
+Memory access or R.type Reg [IR[15:11)) <_ Load: MDR <_ Memory[ALUOut)
+completion ALUOut 0'
+Store: Memory [ALUOutl <'" B
+Memory read completion Load: Reg(IR[20:1611 <'" MDR
+FIGURE 5.30 Summary of the steps taken to execute any Instruction class. Instructions take from three to five execution steps. The
+first two steps are independent ofthe instruction class. After these steps, an instruction takes from one to three more cycles to complete, depending on
+the instruction class. The empty entries for the Memory access step or the Memory read completion step indicate that the particular instruction class
+takes fewer cycles. In a multicycle implementation, a new instruction will be started as soon as the current instruction contpletes, so these cycles are
+not idle or wasted. As mentioned earlier, the register file actuaUy reads every cycle, but as long as the IR does not change, the values read from the reg 
+ister file are identical. In p.uticuiar, the value read into register Bduring the Instruction decode stage, for a branch or R-type instruction, is the same as
+the value stored into Bduring the Execution stage and then used in the Memory access stage for a store word instruction.

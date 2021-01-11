@@ -1,0 +1,36 @@
+588 Chapter 8
+Interfacing I/O Devices to the Processor,
+Memory, and Operating System
+A bus or network protocol defines how a word or block of data should be commu 
+nicated on a set of wires. This still leaves several other tasks that must be per 
+formed to actually cause data to be transferred from a device and into the memory
+address space of some user program. This section focuses on these tasks and will
+answer such questions as the following:
+• How is a user I/O request transformed into a device command and commu 
+nicated to the device?
+• How is data actually transferred to or from a memory location?
+• What is the role of the operating system?
+As we will see in answering these questions, the operating system plays a major
+role in handling 110 , acting as the interface between the hardware and the pro 
+gram that requests I/O.
+The responsibilities of the operating system arise from three characteristics of
+I/O systems:
+I. Multiple programs using the processor share the I/O system.
+2. I/O systems often use interrupts (externally generated exceptions) to com 
+municate information about I/O operations. Because interrupts cause a
+transfer to kernel or supervisor mode, they must be handled by the operat 
+ing system (OS).
+3. The low-level control of an I/O device is complex because it requires man 
+aging a set of concurrent events and because the requirements for correct
+device control are often very detailed.
+Hardware The three characteristics of I/O systems above lead to several different fun ctions
+the OS must provide:
+Software
+• The OS guarantees that a user's program accesses only the portions of an
+Interface
+I/O device to which the user has rights. For example, the OS must not allow
+a program to read or write a file on disk if the owner of the file has not
+granted access to this program. In a system with shared I/O devices, protec 
+tion could not be provided if user programs could perform I/O directly.
+• The OS provides abstractions for accessing devices by supplying routines
+that handle low-level device operations.

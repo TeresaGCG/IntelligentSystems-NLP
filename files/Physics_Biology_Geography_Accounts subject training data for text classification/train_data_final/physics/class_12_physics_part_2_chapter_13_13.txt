@@ -1,0 +1,82 @@
+Nuclei
+
+In both [3' and [F decay, the mass number A remains unchanged. In
+ﬁ'decay, the atomic number Z of the nucleus goes up by 1, while in [3*
+decay Z goes down by 1. The basic nuclear process underlying [3' decay
+is the conversion of neutron to proton
+
+n—>p+e‘+ 17 (13.24)
+while for [3+ decay, it is the conversion of proton into neutron
+p—>n+e++v (13.25)
+
+Note that while a free neutron decays to proton, the decay of proton to
+neutron [Eq. (13.25)] is possible only inside the nucleus, since proton
+has smaller mass than neutron.
+
+13.6.4 Gamma decay
+
+Like an atom, a nucleus also has discrete energy levels - the ground
+state and excited states. The scale of energy is, however, very different.
+Atomic energy level spacings are of the order of eV, while the difference in
+nuclear energy levels is of the order of MeV. When a
+nucleus in an excited state spontaneously decays
+to its ground state (or to a lower energy state), a
+photon is emitted with energy equal to the difference
+in the two energy levels of the nucleus. This is the
+so-called gamma decay. The energy (MeV)
+corresponds to radiation of extremely short
+
+ 
+
+E: 1.17 MeV
+
+wavelength, shorter than the hard X-ray region.
+Typically, a gamma ray is emitted when a 01 or B E7 = 1.33 MeV
+decay results in a daughter nucleus in an excited
+
+state. This then returns to the ground state by a
+single photon transition or successive transitions
+involving more than one photon. A familiar example
+is the successive emmission of gamma rays of
+energies 1 . 17 MeV and 1.33 MeV from the
+deexcitation of 3g N1 nuclei formed from [3' decay
+
+60
+of 27 Co.
+
+13.7 NUCLEAR ENERGY
+
+The curve of binding energy per nucleon Eb”, given in Fig. 13.1, has
+a long ﬂat middle region between A = 30 and A = 170. In this region
+the binding energy per nucleon is nearly constant (8.0 MeV). For
+the lighter nuclei region, A < 30, and for the heavier nuclei region,
+A > 170, the binding energy per nucleon is less than 8.0 MeV, as we
+have noted earlier. Now, the greater the binding energy, the less is the
+total mass of a bound system, such as a nucleus. Consequently, if nuclei
+with less total binding energy transform to nuclei with greater binding
+energy, there will be a net energy release. This is what happens when a
+heavy nucleus decays into two or more intermediate mass fragments
+(ﬁssion) or when light nuclei fuse into a havier nucleus (fusion)
+Exothermic chemical reactions underlie conventional energy sources
+such as coal or petroleum. Here the energies involved are in the range of
+
+2019-20
+
+nucleus
+
+60 ,
+N1
+28
+
+FIGURE 13.4 [3—decay 0f :21“ nucleus
+
+followed by emission of two yrays
+from deexcitation of the daughter
+
+GU .
+
+.N1.
+
+0h
+
+451

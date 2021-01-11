@@ -1,0 +1,38 @@
+6.8 Exceptions 431
+With five instructions active in any clock cycle, the challenge is to associate an
+exception with the appropriate instruction. Moreover, multiple exceptions can
+occur simultaneously in a single clock cycle. The normal solution is to prioritize
+the exceptions so that it is easy to determine which is serviced first ; this strategy
+works for pipelined processors as well. In most MIPS implementations, the hard 
+ware sorts exceptions so that the earliest instruction is interrupted.
+I/O device requests and hardware malfunctions are not associated with a spe 
+cific instruction, so the implementation has some flexibility as to when to inter 
+rupt the pipeline. Hence, using the mechanism used for other exceptions works
+just fine.
+The EPC captures the address of the interrupted instructions, and the MIPS
+Cause register records all possible exceptions in a clock cycle, so the exception
+software must match the exception to the instruction. An important clue is know 
+ing in which pipeline stage a type of exception ca n occur. For exa mple, an unde 
+fined instruction is discovered in the 10 stage, and invoking the operating system
+occurs in the EX stage. Exceptions are collected in the Cause register so that the
+hardware can interrupt based on later exceptions, once the earliest one has been
+serviced.
+The hardware and the operating system must work in conjunction so that excep  Hardware
+tions behave as you would expect. The hardware contract is normally to stop the
+Software
+offending instruction in midstream, let all prior instructions complete, flush all
+Interface
+following instructions, set a register to show the cause of the exception, save the
+address of the offending instruction, and then jump to a prearranged address. The
+operating system contract is to look at the cause of the exception and act appro 
+priately. For an undefined instruction, hardware failure, or arithmetic overflow
+exception, the operating system normally kills the program and returns an indica 
+tor of the reason. For an I/O device request or an operating system service call, the
+operating system saves the state of the program, performs the desired task, and, at
+some point in the future, restores the program to continue execution. In the case
+of I/O device requests, we may often choose to run another task before resuming
+the task that requested the I/O, since that task may often not be able to proceed
+until the I/O is complete. This is why the ability to save and restore the state of any
+task is critical. One of the most important and frequent uses of exceptions is han 
+dling page faults and TLB exceptions; Chapter 7 describes these exceptions and
+their handling in more detail.

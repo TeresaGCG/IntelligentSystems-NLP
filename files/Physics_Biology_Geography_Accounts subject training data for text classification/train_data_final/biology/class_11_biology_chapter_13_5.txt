@@ -1,0 +1,58 @@
+PHOTOSYNTHESIS IN HIGHER PLANTS
+
+ 
+
+These graphs, together, show that most of the photosynthesis takes
+place in the blue and red regions of the spectrum; some photosynthesis
+does take place at the other wavelengths of the visible spectrum. Let us
+see how this happens. Though chlorophyll is the major pigment
+responsible for trapping light, other thylakoid pigments like chlorophyll
+b, xanthophylls and carotenoids, which are called accessory pigments,
+also absorb light and transfer the energy to chlorophyll a. Indeed, they
+not only enable a wider range of wavelength of incoming light to be utilised
+for photosyntesis but also protect chlorophyll a from photo-oxidation.
+
+13.5 WHAT Is LIGHT REACTION?
+
+Light reactions or the ‘Photochemical’ phase
+include light absorption, water splitting, oxygen
+release, and the formation of high-energy
+chemical intermediates, ATP and NADPH.
+Several protein complexes are involved in the
+process. The pigments are organised into two
+discrete photochemical light harvesting
+complexes (LHC) within the Photosystem I (PS
+I) and Photosystem II (PS II). These are named
+in the sequence of their discovery, and not in
+the sequence in which they function during the
+light reaction. The LHC are made up of
+
+Photon
+
+hundreds of pigment molecules bound to . ,
+proteins. Each photosystem has all the pigments . . .
+(except one molecule of chlorophyll a) forming .
+
+a light harvesting system also called antennae
+(Figure 13.4). These pigments help to make
+photosynthesis more efﬁcient by absorbing
+different wavelengths of light. The single chlorophyll a molecule forms
+the reaction centre. The reaction centre is different in both the
+photosystems. In PS I the reaction centre chlorophyll a has an absorption
+peak at 700 nm, hence is called P700, while in PS II it has absorption
+maxima at 680 nm, and is called P680.
+
+13.6 THE ELECTRON TRANSPORT
+
+In photosystem II the reaction centre chlorophyll a absorbs 680 nm
+wavelength of red light causing electrons to become excited and jump
+into an orbit farther from the atomic nucleus. These electrons are picked
+up by an electron acceptor which passes them to an electrons transport
+
+  
+ 
+
+Reaction
+centre
+
+Figure 13.4 The light harvesting complex

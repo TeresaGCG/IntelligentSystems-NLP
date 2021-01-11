@@ -1,0 +1,53 @@
+BIOLOGY
+
+to introduce these into host organisms and thus change the
+phenotype of the host organism.
+
+(ii) Bioprocess engineering: Maintenance of sterile (microbial
+contamination-free) ambience in chemical engineering processes
+to enable growth of only the desired microbe / eukaryotic cell in
+large quantities for the manufacture of biotechnological products
+like antibiotics, vaccines, enzymes, etc.
+
+Let us now understand the conceptual development of the principles
+of genetic engineering.
+
+You probably appreciate the advantages of sexual reproduction over
+asexual reproduction. The former provides opportunities for variations
+and formulation of unique combinations of genetic setup, some of which
+may be beneﬁcial to the organism as well as the population. Asexual
+reproduction preserves the genetic information, while sexual reproduction
+permits variation. Traditional hybridisation procedures used in plant and
+animal breeding, very often lead to inclusion and multiplication of
+undesirable genes along with the desired genes. The techniques of genetic
+engineering which include creation of recombinant DNA, use of
+gene cloning and gene transfer, overcome this limitation and allows us
+to isolate and introduce only one or a set of desirable genes without
+introducing undesirable genes into the target organism.
+
+Do you know the likely fate of a piece of DNA, which is somehow
+transferred into an alien organism? Most likely, this piece of DNA would
+not be able to multiply itself in the progeny cells of the organism. But,
+when it gets integrated into the genome of the recipient, it may multiply
+and be inherited along with the host DNA. This is because the alien piece
+of DNA has become part of a chromosome, which has the ability to
+replicate. In a chromosome there is a speciﬁc DNA sequence called the
+origin of replication, which is responsible for initiating replication.
+Therefore, for the multiplication of any alien piece of DNA in an organism
+it needs to be a part of a chromosome(s) which has a speciﬁc sequence
+known as ‘origin of replication’. Thus, an alien DNA is linked with the
+origin of replication, so that, this alien piece of DNA can replicate and
+multiply itself in the host organism. This can also be called as cloning or
+making multiple identical copies of any template DNA.
+
+Let us now focus on the ﬁrst instance of the construction of an artiﬁcial
+recombinant DNA molecule. The construction of the ﬁrst recombinant
+DNA emerged from the possibility of linking a gene encoding antibiotic
+resistance with a native plasmid (autonomously replicating circular
+extra-chromosomal DNA) of Salmonella typhimurium. Stanley Cohen and
+Herbert Boyer accomplished this in 1972 by isolating the antibiotic
+resistance gene by cutting out a piece of DNA from a plasmid which was
+responsible for conferring antibiotic resistance. The cutting of DNA at
+speciﬁc locations became possible with the discovery of the so-called
+
+2019-2020

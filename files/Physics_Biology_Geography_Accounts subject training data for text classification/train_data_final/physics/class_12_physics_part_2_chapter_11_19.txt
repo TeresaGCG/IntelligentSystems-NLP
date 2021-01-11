@@ -1,0 +1,71 @@
+Duol Noture of Radiation
+
+ond Moﬁer
+
+ 
+
+SUMMARY
+
+The minimum energy needed by an electron to come out from a metal
+surface is called the work function of the metal. Energy [greater than
+the work function ((1)0) required for electron emission from the metal
+surface can be supplied by suitably heating or applying strong electric
+field or irradiating it by light of suitable frequency.
+
+Photoelectric effect is the phenomenon of emission of electrons by metals
+when illuminated by light of suitable frequency. Certain metals respond
+to ultraviolet light while others are sensitive even to the visible light.
+Photoelectric effect involves conversion of light energy into electrical
+energy. It follows the law of conservation of energy. The photoelectric
+emission is an instantaneous process and possesses certain special
+features.
+
+Photoelectric current depends on (i) the intensity of incident light, (ii)
+the potential difference applied between the two electrodes, and [iii]
+the nature of the emitter material.
+
+The stopping potential We) depends on [i] the frequency of incident
+light, and (ii) the nature of the emitter material. For a given frequency
+of incident light, it is independent of its intensity. The stopping potential
+is directly related to the maximum kinetic energy of electrons emitted:
+e V0 = [1/2] m vim = Kmax.
+
+Below a certain frequency [threshold frequency) v0, characteristic of
+the metal, no photoelectric emission takes place, no matter how large
+the intensity may be.
+
+The classical wave theory could not explain the main features of
+photoelectric effect. Its picture of continuous absorption of energy from
+radiation could not explain the independence of Kmax on intensity, the
+existence of v0 and the instantaneous nature of the process. Einstein
+explained these features on the basis of photon picture of light.
+According to this, light is composed of discrete packets of energy called
+quanta or photons. Each photon carries an energy E [= hv} and
+momentum p (= h/k), which depend on the frequency (v) of incident
+light and not on its intensity. Photoelectric emission from the metal
+surface occurs due to absorption of a photon by an electron.
+
+Einstein’s photoelectric equation is in accordance with the energy
+conservation law as applied to the photon absorption by an electron in
+the metal. The maximum kinetic energy (1/2)m vim is equal to
+the photon energy (hv) minus the work function (1)0 [= hvo] of the
+target metal:
+
+1
+
+Emvfmjx: V0 e= hv—¢0= h[v— v0)
+This photoelectric equation explains all the features of the photoelectric
+effect. Millikan’s first precise measurements confirmed the Einstein’s
+photoelectric equation and obtained an accurate value of Planck’s
+constant h. This led to the acceptance of particle or photon description
+
+[nature] of electromagnetic radiation, introduced by Einstein.
+
+Radiation has dual nature: wave and particle. The nature of experiment
+determines whether a wave or particle description is best suited for
+understanding the experimental result. Reasoning that radiation and
+matter should be symmetrical in nature, Louis Victor de Broglie
+
+2019-20
+
+405

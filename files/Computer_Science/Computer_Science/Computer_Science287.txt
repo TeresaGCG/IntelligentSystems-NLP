@@ -1,0 +1,39 @@
+4.6 Concluding Remarks 271
+We will use this equation and its constituent factors many times. Remember,
+though, that individually the factors do not determine performance: Only the
+product, which equals execution time, is a reliable measure of performance.
+BIG
+Execution time is the only valid and unimpeachable measure of perfor 
+The
+mance. Many other metrics have been proposed and found wanting.
+Picture
+Sometimes these metrics are flawed from the start by not reflecting exe 
+cution time; other times a metric valid in a limited context is extended
+and used beyond that context or without the additional clarification
+needed to make it valid.
+Similarly, any measure that summarizes performance should reflect
+execution time. Weighted arithmetic means summarize performance
+while tracking execution time. Through the use of weights, a weighted
+arithmetic mean can adjust for different running times, balancing the
+contribution of each benchmark to the summary.
+Of course, simply knowing this equation is not enough to guide the design or
+evaluation of a computer. We must understand how the different aspects of a
+design affect each of these key parameters. This insight involves a wide variety of
+issues, from the effectiveness of the compiler, to the effects of instruction set
+design on instruction count, to the impact of pipelining and memory systems on
+CPl , to the interaction between the technology and organization that determine
+the clock rate. The art of computer design and evaluation lies not in plugging
+numbers into a performance equation, but in accurately determining how alter 
+natives will affect performance and cost.
+Most computer users care about both cost and performance. \-Vhile under 
+standing the relationship among aspects of a design and its performance is chal 
+lenging, determining the cost of various design features is often a more difficult
+problem. The cost of a computer is affected not only by the cost of the compo 
+nents, but by the costs of labor to assemble the computer, of research and develop 
+ment overhead, of sales and marketing, and of the profit margin. Finally, because
+of the rapid change in implementation technologies, the most cost-effective
+choice today is often suboptimal in six months or a year.
+Computer designs will always be measured by cost and performance, as well as
+other important factors such as power, reliability, cost of ownership, and scalabil 
+ity. Although this chapter has focused on perfo rmance, the best designs will strike
+the appropriate balance for a given market among all these factors.

@@ -1,0 +1,39 @@
+7.10 Exercises 561
+7.48 [8J <§7.5> Extend your solution to Exercise 7.46 by including the specifica 
+tion of a new procedure for handling write accesses, assuming a write-through pol 
+icy. Be sure to consider whether or not your solution for handling read accesses
+needs to be modified.
+7.49 [8J <§7.5> Extend your solution to Exercise 7.46 by including the specifica 
+tion of a new procedure for handling write accesses, assuming a write-back policy.
+Be sure to consider whether or not your solution for handling read accesses needs
+to be modified.
+7.50 [S) <§7.5> This exercise is similar to Exercise 7.48, but this time extend your
+solution to Exercise 7.47. Assume that the cache uses random replacement.
+7.51 [S) <§7.5> This exercise is similar to Exercise 7.49, but this time extend your
+solution to Exercise 7.47. Assume that the cache uses random replacement.
+7.52 (5) <§§7.7-7.S> Why might a compiler perform the following optimization?
+/ * Be f ore */
+<
+fo r (j 0 ; j 20 ; j ++ l
+=
+<
+f or (i 0 ; i 200 ; i ++ )
+=
+x[i][j] x[i][j] + 1 ;
+=
+/ * Aft er */
+<
+fo r (i 0 ; i 200 ; i ++ l
+=
+<
+f or (j 0 ; j 20 ; j ++ )
+=
+x[i][j] - x[i][j] + 1 ;
+§7.I , page 472: 1. Answers To
+§7.2, page 49 1: I and 4: A lower miss penalty can lead to smaller blocks, yet higher
+Check Yourself
+memory bandwidth usually leads to larger blocks, since the miss penalty is only
+slightly larger.
+§7.3, page 510: 1.
+§7.4, page 53S: I-a, 2-c, 3-c, 4-d.
+§7.5, page 545: 2.

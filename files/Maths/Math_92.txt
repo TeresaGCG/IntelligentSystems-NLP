@@ -1,0 +1,20 @@
+Homework Helpers: Basic Math and Pre-Algebra
+92
+Example 1
+Find the product: 3.2 × 4.6
+Solution: First, ignore the decimal points and find the product:
+The whole number product is 1,472. Now we need to place the
+decimal point. Each factor has one digit to the right of the decimal
+point, so there are two digits total to the right of the decimal
+point. We need our product to have two digits to the right of the
+decimal point, giving an answer of 14.72.
+Example 2
+Find the product: 3.24 × 2.8
+Solution: First, ignore the decimal points and find the product:
+The whole number product is 9,072. Now we need to place the
+decimal point. The first factor has two digits to the right of the
+decimal point and the second factor has one digit to the right of
+the decimal point; there are a total of three digits total to the
+right of the decimal point. The resulting product will have three
+digits to the right of the decimal point, giving an answer of 9.072.
+www.ebook3000.com

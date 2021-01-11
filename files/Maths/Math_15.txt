@@ -1,0 +1,29 @@
+Numbers
+15
+Just as language has other symbols besides letters (there are periods,
+semicolons, and question marks), math uses other symbols besides num-
+bers. These symbols tell you what to do with the numbers. The four most
+common operations are addition, subtraction, multiplication, and divi-
+sion. Although there is just one symbol for addition and one symbol for
+subtraction, there are several symbols for multiplication and division. In
+addition to manipulating numbers, you can also compare them. To do
+that, you need to know the symbols for “less than” and “greater than.”
+The chart on page 14 lists the main symbols that we will use here, and
+gives some examples of how they are used.
+Lesson 1-2: Addition
+To get started, we should begin by reviewing the principles of addi-
+tion. The symbol for addition is +, and the numbers to be added are
+called addends. The result of the addition is called the sum. The symbol
+for what the sum is equal to is the equal sign, =. With addition, the order
+doesn’t matter. The sum 3+8 and the sum 8+3 are the same. Because
+the order that we add things doesn’t matter, we say that addition is
+commutative.
+Sometimes addition is written horizontally: 6 + 3 = 9. Other times
+addition is written vertically. When written vertically, the horizontal line
+represents the equal sign. The vertical representation is particularly use-
+ful when you are adding two numbers with two or more digits. It helps
+keep track of the places for the ones, tens, hundreds, etc. by writing the
+two numbers in a column format with those places aligned:
+Example 1
+Find the sum: 23 + 25
+Solution:

@@ -1,0 +1,113 @@
+98
+
+PHYSICS
+
+ 
+
+b Example 5.5 Two identical billiard balls
+strike a rigid wall with the same speed but
+at different angles. and get reﬂected without
+any change in speed. as shown in Fig. 5.6.
+What is (i) the direction of the force on the
+wall due to each ball? (ii) the ratio of the
+magnitudes of impulses imparted to the
+balls by the wall ’?
+
+ 
+
+(*0 (b)
+
+Fig. 5.6
+
+Answer An instinctive answer to (i) might be
+that the force on the wall in case (a) is normal to
+the wall, while that in case (b) is inclined at 30°
+to the normal. This answer is wrong. The force
+on the wall is normal to the wall in both cases.
+
+How to find the force on the wall? The trick is
+to consider the force (or impulse) on the ball
+due to the wall using the second law, and then
+use the third law to answer (i). Let u be the speed
+of each ball before and after collision with the
+wall, and m the mass of each ball. Choose the x
+and y axes as shown in the ﬁgure, and consider
+the change in momentum of the ball in each
+case :
+
+Case (a)
+
+(px )Inltial = mu (pg )lnltlal = 0
+
+(pX)ﬁna1=_mu (py)ﬁml =0
+
+Impulse is the change in momentum vector.
+Therefore,
+
+x—component of impulse = — 2 m u
+
+y-component of impulse = O
+Impulse and force are in the same direction.
+Clearly, from above, the force on the ball due to
+the wall is normal to the wall, along the negative
+x-direction. Using Newton’s third law of motion,
+the force on the wall due to the ball is normal to
+the wall along the positive x-direction. The
+
+2019-20
+
+magnitude of force cannot be ascertained since
+the small time taken for the collision has not
+been specified in the problem.
+
+Case (b)
+(px)initial = mucos 30° , (Py)mm = — Tl'lLl.Sll’1-30o
+(px)_/inal = —mucos30°, (py)ﬁm,, = — musin30°
+
+Note, while px changes sign after collision, py
+does not. Therefore,
+
+x—component of impulse = —2 m u cos 30°
+y-component of impulse = O
+
+The direction of impulse (and force) is the same
+as in (a) and is normal to the wall along the
+negative x direction. As before, using Newton’s
+third law, the force on the wall due to the ball is
+normal to the wall along the positive x direction.
+
+The ratio of the magnitudes of the impulses
+imparted to the balls in (a) and (b) is
+
+2mu/(2mucos30°)=l~l.2 ‘
+
+J3
+5.7 CONSERVATION OF MOMENTUM
+
+The second and third laws of motion lead to
+an important consequence: the law of
+conservation of momentum. Take a familiar
+example. A bullet is fired from a gun. If the force
+on the bullet by the gun is F, the force on the gun
+by the bullet is —F, according to the third law.
+The two forces act for a common interval of time
+At. According to the second law, F At is the
+change in momentum of the bullet and — F At is
+the change in momentum of the gun. Since
+initially, both are at rest, the change in
+momentum equals the final momentum for each.
+Thus if pb is the momentum of the bullet after
+firing and p9 is the recoil momentum of the gun,
+p9 = —pb i.e. pb + p9 = 0. That is, the total
+momentum of the (bullet + gun) system is
+conserved.
+
+Thus in an isolated system (i.e. a system with
+no external force), mutual forces between pairs
+of particles in the system can cause momentum
+change in individual particles, but since the
+mutual forces for each pair are equal and
+opposite, the momentum changes cancel in pairs
+and the total momentum remains unchanged.
+This fact is known as the law of conservation
+of momentum :

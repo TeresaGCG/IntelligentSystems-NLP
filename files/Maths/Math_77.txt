@@ -1,0 +1,23 @@
+Exponents
+77
+Lesson 4-5: Powers of Quotients and Products
+Exponential expressions can get even more complicated. Let’s exam-
+ine the expression (5a)4. Whenever you need to simplify exponential ex-
+pressions, it is always best to start with the meaning of exponents, and
+then make use of the properties of multiplication. For example:
+Notice that when you raise a product (in this case, the product of 5
+and a) to a power, in effect what you need to do is raise each term in-
+volved in the product to that power. It doesn’t matter how many terms
+are involved in the product, or even if the terms in the products are
+themselves exponential expressions. Each term gets raised to that power.
+In general, this rule is written as:
+(a × b)n = an × bn
+Example 1
+Expand the following products:
+a.
+b.
+c.
+Solution:
+a.
+b.
+c.

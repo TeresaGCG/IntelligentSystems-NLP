@@ -1,0 +1,138 @@
+WAVES
+
+375
+
+ 
+
+speed of the wave in the medium and the
+frequency Eq. (15.12) then fixes the wavelength
+
+1)
+A =—
+V (15.15)
+
+Example 15.3 A steel wire 0.72 m long has
+a mass of 5.0 X 10"" kg. If the wire is under
+
+a tension of 60 N. what is the speed of
+transverse waves on the wire ?
+
+ 
+
+Answer Mass per unit length of the wire,
+
+_ 5.O><10‘3 kg
+#_ 0.72m
+
+= 6.9 x10-3 kg m-1
+
+Tension, T= 60 N
+The speed of wave on the wire is given by
+
+v=‘/E= —6(_)3N _1 =93ms‘1 4
+ﬂ 6.9x10 kgm
+
+15.4.2 Speed of a Longitudinal Wave
+(Speed of Sound)
+
+In a longitudinal wave, the constituents of the
+medium oscillate forward and backward in the
+direction of propagation of the wave. We have
+already seen that the sound waves travel in the
+form of compressions and rarefactions of small
+volume elements of air. The elastic property that
+determines the stress under compressional
+strain is the bulk modulus of the medium deﬁned
+by (see Chapter 9)
+
+AP
+
+B = —
+AV/V
+
+ 
+
+(15.16)
+
+Here, the change in pressure AP produces a
+
+AV
+
+volumetric strain 7 . B has the same dimension
+
+as pressure and given in SI units in terms of
+pascal (Pa). The inertial property relevant for the
+propagation of wave is the mass density p, with
+dimensions [ML—3]. Simple inspection reveals
+that quantity B/ p has the relevant dimension:
+
+[M L‘1 T'2]
+[M L’s]
+
+Thus, if B and p are considered to be the only
+relevant physical quantities,
+
+=[L2 T'2] (15.17)
+
+v =0 5 (15.18)
+
+p
+where, as before, C is the undetermined constant
+from dimensional analysis. The exact derivation
+shows that C=1. Thus, the general formula for
+longitudinal waves in a medium is:
+
+v = — (15.19)
+
+For a linear medium, like a solid bar, the
+lateral expansion of the bar is negligible and we
+may consider it to be only under longitudinal
+strain. In that case, the relevant modulus of
+elasticity is Young’s modulus, which has the
+same dimension as the Bulk modulus.
+Dimensional analysis for this case is the same
+as before and yields a relation like Eq. (15.18).
+with an undetermined C, which the exact
+derivation shows to be unity. Thus, the speed of
+longitudinal waves in a solid bar is given by
+
+v = X (15.20)
+p
+
+where Y is the Young’s modulus of the material
+of the bar. Table 15.1 gives the speed of sound
+in some media.
+
+Table 15.1 Speed of Sound in some Media
+
+Speed (m s")
+
+Gases
+Air (0 °C)
+Air (20 °C)
+Helium
+Hydrogen
+
+Liquids
+Water (0 °C)
+
+Water (20 °C)
+Seawater
+
+Solids
+Aluminium
+Copper
+Steel
+Granite
+
+Vulcanised
+Rubber
+
+ 
+
+Liquids and solids generally have higher speed
+of sound than gases. [Note for solids, the speed
+being referred to is the speed of longitudinal
+waves in the solid]. This happens because they
+
+2019-20

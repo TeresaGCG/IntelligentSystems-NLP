@@ -1,0 +1,47 @@
+/
+)) BIOLOGY
+
+Table 5.3: A Comparison between the Behaviour of Chromosomes
+and Genes
+
+[ff]
+
+‘ Occur in pairs Occur in pairs I
+
+ 
+
+Segregate at the time of gamete Segregate at gamete formation and only
+fomiation such that only one of each one of each pair is transmitted to a
+pair is transmitted to a gamete gamete
+
+Independent pairs segregate One pair segregates independently of
+independently of each other another pair
+
+Can you tell which of these columns A or B represent the chromosome
+and which represents the gene? How did you decide?
+
+During Anaphase of meiosis I, the two chromosome pairs can align at
+the metaphase plate independently of each other (Figure 5.9). To
+understand this, compare the chromosomes of four different colour in
+the left and right columns. In the left column (Possibility I) orange and
+green is segregating together. But in the right hand column (Possibility
+II) the orange chromosome is segregating with the red chromosomes.
+
+ 
+
+ 
+
+Possibility I Possibility 11
+One long orange and short green One long orange and short red
+chromosome and long yellow and chromosome and long yellow and
+short red chromosome at the short green chromosome at the
+same pole same pole
+Meiosis I - anaphase Meiosis I - anaphase
+Meiosis II - anaphase Meiosis II - anaphase
+Germ cells Germ cells
+
+EM @QII
+
+Figure 5.9 Independent assortment of chromosomes
+
+2019-2020

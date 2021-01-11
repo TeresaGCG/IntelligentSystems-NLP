@@ -1,0 +1,122 @@
+32
+
+PHYSICS
+
+ 
+
+quantity. Thus, the dimensional equations are
+the equations, which represent the dimensions
+of a physical quantity in terms of the base
+quantities. For example, the dimensional
+equations of volume [V], speed [1)], force [F] and
+mass density [p] may be expressed as
+
+[V] = [M0 L310]
+[v1 = [M0 LTI]
+[F] = [M LTZ]
+
+[p1 = [M L-3 T0]
+
+The dimensional equation can be obtained
+from the equation representing the relations
+between the physical quantities. The
+dimensional formulae of a large number and
+wide variety of physical quantities, derived from
+the equations representing the relationships
+among other physical quantities and expressed
+in terms of base quantities are given in
+Appendix 9 for your guidance and ready
+reference.
+
+2.10 DIMENSIONAL ANALYSIS AND ITS
+APPLICATIONS
+
+The recognition of concepts of dimensions, which
+guide the description of physical behaviour is
+of basic importance as only those physical
+quantities can be added or subtracted which
+have the same dimensions. A thorough
+understanding of dimensional analysis helps us
+in deducing certain relations among different
+physical quantities and checking the derivation,
+accuracy and dimensional consistency or
+homogeneity of various mathematical
+expressions. When magnitudes of two or more
+physical quantities are multiplied, their units
+should be treated in the same manner as
+ordinary algebraic symbols. We can cancel
+identical units in the numerator and
+denominator. The same is true for dimensions
+of a physical quantity. Similarly, physical
+quantities represented by symbols on both sides
+of a mathematical equation must have the same
+dimensions.
+
+2.10.1 Checking the Dimensional
+Consistency of Equations
+
+The magnitudes of physical quantities may be
+added together or subtracted from one another
+only if they have the same dimensions. In other
+words, we can add or subtract similar physical
+quantities. Thus, velocity cannot be added to
+force, or an electric current cannot be subtracted
+
+2019-20
+
+from the thermodynamic temperature. This
+simple principle called the principle of
+homogeneity of dimensions in an equation is
+extremely useful in checking the correctness of
+an equation. If the dimensions of all the terms
+are not same, the equation is wrong. Hence, if
+we derive an expression for the length (or
+distance) of an object, regardless of the symbols
+appearing in the original mathematical relation,
+when all the individual dimensions are
+simplified, the remaining dimension must be
+that of length. Similarly, if we derive an equation
+of speed, the dimensions on both the sides of
+equation, when simplified, must be of length/
+time, or [L T1].
+
+Dimensions are customarily used as a
+preliminary test of the consistency of an
+equation, when there is some doubt about the
+correctness of the equation. However, the
+dimensional consistency does not guarantee
+correct equations. It is uncertain to the extent
+of dimensionless quantities or functions. The
+arguments of special functions, such as the
+trigonometric, logarithmic and exponential
+functions must be dimensionless. A pure
+number, ratio of similar physical quantities,
+such as angle as the ratio (length/length),
+refractive index as the ratio (speed of light in
+vacuum / speed of light in medium) etc., has no
+dimensions.
+
+Now we can test the dimensional consistency
+or homogeneity of the equation
+
+x=x0 +v0 t+(l/2)at2
+for the distance x travelled by a particle or body
+in time twhich starts from the position x0 with
+an initial velocity Do at time t= O and has uniform
+acceleration a along the direction of motion.
+The dimensions of each term may be written as
+
+[x] = [L]
+[x0] = [L]
+[Do 13] = [L "I‘ll [T]
+= [L]
+[(1/2) a t2] = [LT2] [T2]
+= [L]
+
+As each term on the right hand side of this
+equation has the same dimension, namely that
+of length, which is same as the dimension of
+left hand side of the equation, hence this
+equation is a dimensionally correct equation.
+It may be noted that a test of consistency of
+dimensions tells us no more and no less than a

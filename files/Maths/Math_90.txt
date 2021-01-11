@@ -1,0 +1,24 @@
+Homework Helpers: Basic Math and Pre-Algebra
+90
+This observation will generalize into a method for adding two deci-
+mal numbers together. When you add decimal numbers together, line up
+the decimal points and put in any necessary 0s needed as placeholders
+after the last digit to the right of the decimal point. This ensures that
+both numbers have the same number of digits to the right of the decimal
+point. Now you are ready to add, right to left, column by column, carry-
+ing over when necessary, as we did with whole numbers in Chapter 1.
+Example 3
+Find the sum: 12.35 + 1.9
+Solution: Line up the decimals and write this sum in column form.
+Because the first decimal number has two places to the right of
+the decimal point, we need to put a 0 as a placeholder after the 9
+in the second decimal number. Now add right to left and carry
+over when necessary:
+Subtracting decimals proceeds similarly. You need to line up the deci-
+mal points and fill in any necessary 0s as placeholders so that both deci-
+mal numbers have the same number of digits to the right of the decimal
+point. Then follow the rules for subtracting, and borrow when necessary.
+Example 4
+Evaluate the expression: 12.35 − 8.22
+Solution:
+www.ebook3000.com

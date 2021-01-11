@@ -1,0 +1,46 @@
+Accounting for Share Capital 2 9
+
+Working Notes:
+(RSJ (Rs.)
+Excess Application Money 15,00,000
+Less Transfers :
+Share Allotment —
+20,000 shares @ Rs. 7.50 1.50.000
+Share Calls —
+20,000 shares @ Rs. 12.50 2,50,000 4,00,0001
+Amount to be refunded [including that on 1 1,00,000
+
+the rejected applications)
+
+1 . 6.4 Under Subscription
+
+Under subscription is a situation where number of shares applied for is less
+than the number for which applications have been invited for subscription. For
+example, a comapny offered 2 lakh shares for subscription to the public but the
+applications were received for 1,90,000 shares, only. In such a situation, the
+allotment will be confirmed to 1 ,90,000 shares and entries shall be made
+accordingly. However, as stated earlier, it must be ensured that the company
+has received the minimum subscriptions and the company will have to refund
+the entire subscription amount received.
+
+1.6.5 Issue of Shares at a Premium
+
+It is quite common for the shares of financially strong and well—managed
+companies to be issued at a premium, i.e. at an amount more than the nominal
+or par value of shares. Thus, when a share of the nominal value of Rs. 100 is
+issued at Rs. 105, it is said to have been issued at a premium of 5 per cent.
+When the issue of shares is at a premium, the amount of premium may
+technically be called at any stage of the issue of shares. However, premium is
+generally called with the amount due on allotment, sometimes with the
+application money and rarely with the call money. The premium amount is
+credited to a separate account called ‘Securities Premium Account’ and is
+shown under the title ‘Equity and Liabilities’ of the company’s balance sheet
+under the head ‘Reserves and Surpluses’. It can be used only for the following
+ﬁve purposes:
+(a) to issue fully paid bonus shares to the extent not exceeding unissued
+share capital of the company;
+(b) to write-off preliminary expenses of the company;
+(0) to write-off the expenses of, or commission paid, or discount allowed
+on any securities of the company; and
+(d) to pay premium on the redemption of preference shares or debentures
+of the company.

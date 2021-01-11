@@ -1,0 +1,41 @@
+620 Chapter 8
+transfers data in four-word chunks and can transfer at 4 MB/sec. Assume that you
+poll often enough that no data is ever lost and assume that the hard disk is poten 
+tially always busy. The initial senlp of a DMA transfer takes 1000 clock cycles for
+the processor, and the handling of the interrupt at DMA completion requires 500
+clock cycles for the processor. The hard disk has a transfer rate of 4 MB/sec and
+uses DMA. Ignore any impact from bus contention between the processor and the
+DMA controller. Therefore, if the average transfer from the disk is 8 KB, the frac 
+tion of the 500-MHz processor consumed if the disk is actively transferring 100%
+of the time is 0.2%.
+8.39 (81 <§8.6> Suppose we have the same hard disk and processor we used in
+Exercise 8.18, but we use interrupt-driven I/O. The overhead for each transfer,
+including the interrupt, is 500 clock cycles. Find the fra ction of the processor con 
+sumed ifthe hard disk is only transferring data 5% of the time.
+8.40 [8] <§8.6> Suppose we have the same processor and hard disk as in Exercise
+8.18. Assume that the initial setup of a DMA transfer takes 1000 clock cycles for the
+processor, and assume the handling of the interrupt at DMA completion requires
+500 clock cycles for the processor. The hard disk has a transfer rate of 4 MB/sec and
+uses DMA. If the average transfer from the disk is 8 KB, what fraction of the 500 
+MHz processor is consumed if the disk is actively transferring 100% of the time?
+Ignore any impact from bus contention between the processor and DMA control 
+ler.
+8.41 [2 days-I week] <§8.6, Appendix A> . For More Practice: Using SPIM to
+Explore I/O
+tel
+8.42 [3 days-I week] <§8.6, Appendix A> For More Practice: Writing Code
+to Perform I/O
+II
+8.43 [3 days-I week] <§8.6, Appendix A> For More Practice: Writing Code
+to Perform I/O
+8.44 [IS) <§§8.3--8.7> Redo the example on page 60 1, but instead assume that
+the reads are random 8-KB reads. You can assume that the reads are always to an
+idle disk, if one is available.
+8.45 (20) <§§8.3-8.7> Here are a variety ofbuilding blocks used in an I/O system
+that has a synchronous processor-memory bus running at 800 MHz and one or
+more I/O adapters that interface I/O buses to the processor-memory bus.
+• Memory system: The memory system has a 32-bit interface and handles
+four-word transfers. The memory system has separate address and data lines
+and, for writes to memory, accepts a word every clock cycle for 4 clock cycles
+and then takes an additional 4 clock cycles before the words have been
+stored and it ca n accept another transaction.

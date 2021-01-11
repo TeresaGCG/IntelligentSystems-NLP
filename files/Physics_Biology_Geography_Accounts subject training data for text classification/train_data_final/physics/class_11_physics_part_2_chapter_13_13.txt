@@ -1,0 +1,26 @@
+Seeing is Believing
+
+Can one see atoms rushing about. Almost but not quite. One can see pollen grains of a ﬂower being
+pushed around by molecules of water. The size of the grain is ~ 10’5 m. In 1827, a Scottish botanist
+Robert Brown. while examining. under a microscope. pollen grains of a ﬂower suspended in water
+noticed that they continuously moved about in a zigzag. random fashion.
+
+Kinetic theory provides a simple explanation of the phenomenon. Any object suspended in water is
+continuously bombarded from all sides by the water molecules. Since the motion of molecules is random,
+the number of molecules hitting the object in any direction is about the same as the number hitting in
+the opposite direction. The small difference between these molecular hits is negligible compared to the
+total number of hits for an object of ordinary size. and we do not notice any movement of the object.
+
+When the object is sufficiently small but still visible under a microscope, the difference in molecular
+hits from different directions is not altogether negligible. i.e. the impulses and the torques given to the
+suspended object through continuous bombardment by the molecules of the medium [water or some
+other ﬂuid) do not exactly sum to zero. There is a net impulse and torque in this or that direction. The
+suspended object thus, moves about in a zigzag manner and tumbles about randomly. This motion
+called now ‘Brownian motion” is a visible proof of molecular activity. In the last 50 years or so molecules
+have been seen by scanning tunneling and other special microscopes.
+
+[n 1987 Ahmed Zewail. an Egyptian scientist working in USA was able to observe not only the
+molecules but also their detailed interactions. He did this by illuminating them with ﬂashes of laser
+light for very short durations, of the order of tens of femtoseconds and photographing them. ( l femto-
+second = 10'15 s ). One could study even the formation and breaking of chemical bonds. That. is really
+seeing !

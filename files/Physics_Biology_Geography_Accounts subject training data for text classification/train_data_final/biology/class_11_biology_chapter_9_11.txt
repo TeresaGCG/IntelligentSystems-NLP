@@ -1,0 +1,48 @@
+BIOMOLECULES
+
+9. 10 METABOLIC BASIS FOR LIVING
+
+Metabolic pathways can lead to a more complex structure from a simpler
+structure (for example, acetic acid becomes cholesterol) or lead to a simpler
+structure from a complex structure (for example, glucose becomes lactic
+acid in our skeletal muscle). The former cases are called biosynthetic
+pathways or anabolic pathways. The latter constitute degradation and
+hence are called catabolic pathways. Anabolic pathways, as expected,
+consume energy. Assembly of a protein from amino acids requires energy
+input. On the other hand, catabolic pathways lead to the release of energy.
+For example, when glucose is degraded to lactic acid in our skeletal muscle,
+energy is liberated. This metabolic pathway from glucose to lactic acid which
+occurs in 10 metabolic steps is called glycolysis. Living organisms have
+learnt to trap this energy liberated during degradation and store it in the
+form of chemical bonds. As and when needed, this bond energy is utilised
+for biosynthetic, osmotic and mechanical work that we perform. The most
+important form of energy currency in living systems is the bond energi in
+a chemical called adenosine triphosphate (ATP).
+
+How do living organisms derive their energy? What strategies have they
+evolved? How do they store this energy and in what form? How do they
+convert this energy into work? You will study and understand all this under
+a sub-discipline called ‘Bioenergetics’ later in your higher classes.
+
+9. 1 1 THE LIVING STATE
+
+At this level, you must understand that the tens and thousands of
+chemical compounds in a living organism, otherwise called metabolites,
+or biomolecules, are present at concentrations characteristic of each of
+them. For example, the blood concentration of glucose in a normal healthy
+individual is 4.2 mmol/L—6. 1 mmol/ L, while that of hormones would
+be nanograms/mL. The most important fact of biological systems is that
+all living organisms exist in a steady-state characterised by
+concentrations of each of these biomolecules. These biomolecules are in
+a metabolic ﬂux. Any chemical or physical process moves spontaneously
+to equilibrium. The steady state is a non-equilibrium state. One should
+remember from physics that systems at equilibrium cannot perform
+work. As living organisms work continuously, they cannot afford to reach
+equilibrium. Hence the living state is a non-equilibrium steady-
+state to be able to perform work; living process is a constant effort to
+prevent falling into equilibrium. This is achieved by energy input.
+Metabolism provides a mechanism for the production of energy. Hence
+the living state and metabolism are synonymous. Without metabolism
+there cannot be a living state.
+
+153

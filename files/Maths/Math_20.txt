@@ -1,0 +1,25 @@
+Homework Helpers: Basic Math and Pre-Algebra
+20
+just take that number and put a 0 at the end. When multiplying a number
+by 100 you just take that number and put two 0s at the end. When multi-
+plying a number by 1,000 you just take that number and put three 0s at
+the end.
+Sometimes multiplication problems are written horizontally:
+4× 5 = 20
+Other times multiplication is written vertically:
+The vertical representation is useful when a multiplication problem
+involves one or more two-digit numbers.
+Example 1
+Find the product: 15 × 6
+Solution: First find the product 5 × 6, which is 30. Put a 0 in the
+ones’ place of the product and carry over 3 tens. Then find the
+product 1 × 6, which is 6, and add the 3 tens that you carried over
+to get 9:
+Example 2
+Find the product: 26 × 4
+Solution: First find the product 6 × 4, which is 24. Put a 4 in the
+ones’ place and carry over the 2 tens. Then find the product 2 × 4,
+which is 8, and add the 2 tens that you carried over to get 10:
+To multiply two two-digit numbers together, break the problem up
+into two problems that involve multiplying one two-digit number and one
+www.ebook3000.com

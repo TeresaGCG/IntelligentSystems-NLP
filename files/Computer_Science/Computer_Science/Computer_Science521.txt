@@ -1,0 +1,30 @@
+7.3 Measuring and Improving Cache Performance 505
+Reducing the Miss Penalty Using Multilevel Caches
+All modern computers make use of caches. In most cases, these caches are imple 
+mented on the same die as the microp rocessor that forms the processor. To fur 
+ther close the gap between the fast clock rates of modern processors and the
+relatively long time required to access DRAMs, many microprocessors support an
+additional level of caching. This second-level cache, which can be on the same
+chip or off-chip in a separate set of SRAMs, is accessed whenever a miss occurs in
+the primary cache. If the second-level cache contains the desired data, the miss
+penalty for the first-level cache wiII be the access time of the second-level cache,
+wh ich will be much less than the access time of main memory. If neither the pri 
+mary nor secondary cache contains the data, a m ain memory access is required,
+and a larger miss penalty is incurred.
+How significant is the performance improvement from the use of a secondary
+cache? The next example shows us.
+Performance of Multilevel Caches
+Suppose we have a p rocessor with a base CPI of 1.0, assuming all references EXAMPLE
+hit in the primary cache, and a clock rate of 5 GHz. Assume a main memo ry
+access time of 100 ns, including all the miss handling. Suppose the miss rate
+per instruction at the primary cache is 2%. How much faster wiII the proces 
+sor be if we add a secondary cache that has a 5 ns access time for either a hit
+or a miss and is large enough to reduce the miss rate to main memory to
+0.5%?
+The miss penalty to main memory is ANSWER
+'"
+100 ns
+(;~d~;
+500 clock cycles
+0.2 n.
+dockcyd..

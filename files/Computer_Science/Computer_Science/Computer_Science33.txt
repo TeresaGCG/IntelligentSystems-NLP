@@ -1,0 +1,18 @@
+17
+1.3 Under the Covers
+FIGURE 1.6 A desktop computer. The liquid crystal display (LCD) scre;,on is the primary output
+device, and the keyboard and mouse are the primary input devices. The box contains the processor as well
+as additional If0 devices.This system is a Dell Optiplex GX260.
+The original mouse was electromechanical and used a large ball that when
+rolled across a surface would cause an x and y counter to be incremented. The
+amount of increase in each counter told how far the mouse had been moved.
+The electromechanical mouse has largely been replaced by the newer all-optical
+mouse. The optical mouse is actually a miniature optical processor including an
+LED to provide lighting, a tiny black-and-white ca mera, and a simple optical pro 
+cessor. The LED illuminates the surface underneath the mouse; the camera takes
+1500 sample pictures a second under the illumination. Successive pictures are sent
+to a simple optical processor that compares the images and determines whether
+the mouse has moved and how far. The replacement of the electromechanical
+mouse by the electro-optical mouse is an illustration of a common phenomenon
+where the decreasing costs and higher reliability of electronics cause an electronic
+solution to replace the older electromechanical technology.

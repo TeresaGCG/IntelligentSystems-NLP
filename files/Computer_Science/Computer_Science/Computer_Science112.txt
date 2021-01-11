@@ -1,0 +1,32 @@
+96 Chapter 2 Instructions: Language of the Computer
+Hardware Either the compiler or the assembler must break large constants into pieces and then
+reassemble them into a register. As you might expect, the immediate field's size restric 
+Software
+tion may be a problem for memory addresses in loads and stores as well as for constants
+Interface
+in immediate instmctions. If this job falls to the assembler, as it does for MIPS software,
+then the assembler must have a temporary register available in which to create the long
+values. l1lis is a reason for the register $at, which is reserved for the assembler.
+Hence, the symbolic representation of the MIPS machine language is no longer
+limited by the hardware, but to whatever the creator of an assembler chooses to
+include (see Section 2.10). We stick close to the hardware to explain the architec 
+ture of the computer, noting when we use the enhanced language of the assembler
+that is not found in the processor.
+Loading a 32-8it Constant
+EXAMPLE What is the MIPSassembly code to load this 32-bit constant into register $sO?
+0000 0000 0011 1101 0000 1001 0000 0000
+ANSWER First, we would load the upper 16 bits, which is 61 in decimal, using 1ui :
+lui $sO , 61 # 61 decimal 0000 0000 0011 1101 binary
+=
+The value of register $sO afterward is
+0000 0000 0011 1101 0000 0000 0000 0000
+The next step is to add the lower 16 bits, whose decimal value is 2304:
+#
+ori $sO , $sO , 2304 2304 decimal 0000 1001 0000 0000
+=
+The fin al value in register $sO is the desired value:
+0000 0000 0011 1101 0000 1001 0000 0000
+Elaboration: Creating 32·bit constants needs care. The instruction addi copies the
+leftmost bit of the 16-bit immediate field of the instruction into the upper 16 bits of a
+word. Logical or immediate from Section 2.5 loads Os into the upper 16 bits and hence
+is used by the assembler in conjunction with 1ui to create 32·bit constants .

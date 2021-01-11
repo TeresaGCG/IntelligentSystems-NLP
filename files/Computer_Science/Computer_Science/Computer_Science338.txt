@@ -1,0 +1,56 @@
+322 Chapter 5 The Processor: Datapath and Control
+lorD MemRead MemWrite IRWrite RegDst RegWrite ALUSrcA
+a
+PC f- a
+Instruction Read
+M
+," Address (25-21) register 1 r M,
+Rood
+~ L. " f-.
+r ~ Instruction data 1
+Read Z.cof-o-
+Memory 1
+(20-16)
+a register 2
+MemData ALU A
+LU
+Instruction Registers ALUOut
+M
+[15-0) Instruction ," Wr~e Read r ~ res""
+Write [15-11) register data 2 B ~ M r-V
+d.~ Instruction r'"1 ~ ';
+register ..r Wrne "
+2,
+data
+M
+Instruction , ~
+" ./
+[15-0)
+'\
+I
+1
+/ '\
+Memory 16 32
+Sign Shift
+data
+extend left 2 ALU
+register
+control
+"-
+"- /
+Instruction (5-01
+MemtoReg ALUSrcB ALUOp
+FIGURE 5.27 The multleycle datapath from Figure 5.26 with the control lines shown. The signals ALUOp and ALUSrcB are l·bit
+control signals, while all the other control lines are I·bit signals. Neither register A nor B requires a write signal, since their contents are only read on
+the cycle immediately after it is WTinen. The memory data register has been added to hold the data from a load when the data returns from memory.
+Data from a load returning from memory cannot be WTitten directly into the register file since the clock cycle cannot accommodate the time required
+for both the memory access and the register file write. The MemRead signal has b«n moved to the top ofthe memory unit to simplify the figures. The
+full set of datapaths and control lines for branches will be added shortly.
+Before exa mining the steps to execute each instruction, let us informally exa m 
+ine the effect of all the control signals (just as we did for the single-cycle design in
+Figure 5. 16 on page 306). Figure 5.29 shows what each control signal does when
+asserted and deasserted.
+Elaboration:
+To reduce the number of signal lines interconnecting the functional
+units, designers can use shared buses. A shared bus is a set of lines that connect mul·
+tiple units; in most cases, they include multiple sources that can place data on the bus

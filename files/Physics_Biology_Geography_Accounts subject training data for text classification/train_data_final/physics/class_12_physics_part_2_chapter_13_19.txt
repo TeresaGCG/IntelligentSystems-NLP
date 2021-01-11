@@ -1,0 +1,52 @@
+Nuclei
+
+which increases the temperature of the core. If this temperature increases
+to about 108 K, fusion takes place again, this time of helium nuclei into
+carbon. This kind of process can generate through fusion higher and
+higher mass number elements. But elements more massive than those
+near the peak of the binding energy curve in Fig. 13.1 cannot be so
+produced.
+
+The age of the sun is about 5X 109 y and it is estimated that there is
+enough hydrogen in the sun to keep it going for another 5 billion years.
+After that, the hydrogen burning will stop and the sun will begin to cool
+and will start to collapse under gravity, which will raise the core
+temperature. The outer envelope of the sun will expand, turning it into
+
+the so called red giant.
+
+In a single uranium fission about 0.9X235 MeV (z200 MeV) of energy is liberated. If
+each nucleus of about 50 kg of 235U undergoes fission the amount of energy involved is
+about 4 X 1015J. This energy is equivalent to about 20,000 tons of TNT, enough for a
+superexplosion. Uncontrolled release of large nuclear energy is called an atomic explosion.
+On August 6, 1945 an atomic device was used in warfare for the ﬁrst time. The US
+dropped an atom bomb on Hiroshima, Japan. The explosion was equivalent to 20,000
+tons of TNT. Instantly the radioactive products devastated 10 sq km of the city which
+had 3,43,000 inhabitants. Of this number 66,000 were killed and 69,000 were injured;
+more than 67% of the city’s structures were destroyed.
+
+High temperature conditions for fusion reactions can be created by exploding a fission
+bomb. Super-explosions equivalent to 1 0 megatons of explosive power of TNT were tested
+in 1954. Such bombs which involve fusion of isotopes of hydrogen, deuterium and tritium
+are called hydrogen bombs. It is estimated that a nuclear arsenal sufﬁcient to destroy
+every form of life on this planet several times over is in position to be triggered by the
+press of a button. Such a nuclear holocaust will not only destroy the life that exists now
+but its radioactive fallout will make this planet unﬁt for life for all times. Scenarios based
+on theoretical calculations predict a long nuclear winter, as the radioactive waste will
+hang like a cloud in the earth’s atmosphere and will absorb the sun’s radiation.
+
+13.7.4 Controlled thermonuclear fusion
+
+The natural thermonuclear fusion process in a star is replicated in a
+thermonuclear fusion device. In controlled fusion reactors, the aim is to
+generate steady power by heating the nuclear fuel to a temperature in the
+range of 108 K. At these temperatures, the fuel is a mixture of positive
+ions and electrons (plasma). The challenge is to confine this plasma, since
+no container can stand such a high temperature. Several countries
+around the world including India are developing techniques in this
+connection. If successful, fusion reactors will hopefully supply almost
+unlimited power to humanity.
+
+2019-20
+
+457

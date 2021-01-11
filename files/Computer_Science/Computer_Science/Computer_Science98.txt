@@ -1,0 +1,33 @@
+82 Chapter 2 Instructions: Language of the Computer
+Before returning, we restore the three old values of the registers we saved by
+"popping" them from the stack:
+lw $50 , O(lsp) II restore register $50 for caller
+lw ItO . 4(lsp) II restore register ItO for caller
+lw ItI, 8(lsp) II restore regi ster $t1 for caller
+addi $sp , $sp , 12 II adjust stack to delete 3 items
+The procedure ends with a jump register using the return address:
+Jr $ra # jump back to calling routine
+In the example above we used temporary registers and assumed their old values
+must be saved and restored. To avoid saving and restoring a register whose value is
+never used, which might happen with a temporary register, MIPS software sepa 
+rates 18 of the registers into two groups:
+• $tO-$t9 : 10 tempora ry registers that are not preserved by the callee
+(called procedure) on a procedure call
+• $sO-$ s 7 :8 saved registers that must be preserved on a procedure call
+(if used, the callee saves and restores them)
+This simple convention reduces register spilling. In the example above, since the
+caller (procedure doing the calling) does not expect registers $tO and $tl to be
+preserved across a procedure call, we can drop two stores and two loads from the
+code. 'lVe still must save and restore $sO, since the callee must assume that the
+caller needs its value.
+High address
+$Sp- I- ..., f:::====~ $;P- f-- - -...,
+Contents of register $t l
+Contents of register $t o
+$sp_ Contents of register $sO
+,.
+Low address b. o.
+FIGURE 2.14 The values of the stack pointer and the stack (a) before, (b) during, and (c)
+after the procedure call. The stack pointer always points to the top" of the stack, or the last m>rd in
+U
+the stack in this drawing.

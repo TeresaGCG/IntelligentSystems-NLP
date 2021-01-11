@@ -1,0 +1,39 @@
+41
+1.8 Exercises
+1.51 [IS) <§§ 1.4, 1.5> Assume you are in a company that will market a certain IC
+chip. The fixed costs, including R&D, fabrication and equipments, and so on, add
+up to $500,000. The cost per wafer is $6000, and each wafer can be diced into 1500
+dies. The die yield is 50%. Finally, the dies are packaged and tested, with a cost of
+$10 per chip. The test yield is 90%; only those that pass the test wiII be sold to cus 
+tomers. If the retail price is 40% more than the cost, at least how many chips have
+to be sold to break even?
+1.52 [8] <§ 1.6> In this exercise, you will evaluate the performance difference be 
+tween two CPU architectures, CISC (Complex Instruction Set Computing) and
+RISC (Reduced Instruction Set Computing). Generally speaking, CISC CPUs have
+more complex instructions than RI SC CPUs and therefore need fewer instructions
+to perform the same tasks. However, typically one CISC instruction, since it is
+more complex, takes more time to complete than a RISC instruction. Assume that
+a certain task needs P CISC instructions and 2P RI SC instructions, and that one
+CISC instruction takes 8T ns to complete, and one RI SC instruction takes 2T ns.
+Under this assumption, which one has the better performance?
+1.53 [IS) <§§ 1.3, 1.6> Suppose there are five com puters connected together to
+form a local area network. The maximum data transport rate (bandwidth) that the
+network cable can provide is 10 Mbps. Ifwe use a low-end device (Hub) to connect
+them, all the computers in the network share the 10 Mbps bandwidth. If we use a
+high -end device (Switch), then any two of the com puters can communicate with
+each other without disturbing the other computers. If you wa nt to download a 10
+MB file from a remote server, which is located outside your local network, how
+long will it take if using a Hub? How long wiII it take ifusing a Switch? Assume the
+other four computers only communicate with each other, and each has a constant
+data rate of 2 Mbps.
+1.54 [8] <§1.6> Sometimes softwa re optimization ca n dramatically improve the
+performance of a computer system. Assume that a CPU can perform a multiplica 
+tion operation in 10 ns, and a subtraction operation in 1 ns. How long will it take
+for the CPU to calculate the result of d = a x b - a x c? Could you optimize the
+equation so that it wiII take less time?
+1.55 [8] <§§ 1.1- 1.5> This book covers abstractions for computer systems at
+many different levels of detail. Pick another system with which you are familiar and
+write one or two paragraphs describing some of the many different levels of ab 
+straction inherent in that system. Some possibilities include automobiles, homes,
+airplanes, geometry, the economy, a city, and the government. Be sure to identify
+both high-level and low-level abstractions.

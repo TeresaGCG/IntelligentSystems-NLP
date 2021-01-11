@@ -1,0 +1,61 @@
+Accounting for Share Capital 4 7
+
+a situation, it is only the proportionate amount of balance that relates to the
+forefeited shares reissued which should be transferred to capital reserve,
+ensuring that the remaining balance in share forefeiture account is proportionate
+to the amount forefeited on shares not yet reissued.
+
+Illustration 16
+
+The director of Poly Plastic Limited resolved that 200 equity shares of Rs. 100
+each be forfeited for non-payment of the second and ﬁnal call of Rs.30 per share.
+Out of these, 150 shares were re-issued at Rs.60 per share to Mohit.
+
+Show the necessary j ournal entries .
+
+Solution:
+
+Books of Poly Plastic Limited
+Journal
+
+Share Capital A/c
+
+To Shares Forfeiture A/c
+
+To Share Second and Final Call A/c
+(200 shares forfeited for non—payment
+of ﬁnal call at Rs.30 per share)
+
+Bank A/c
+
+Shares Forfeiture A/c
+To Share Capital A/c
+
+(Reissue of 150 shares of Rs. 100 each,
+issued as fully paid for Rs.60 each)
+
+Shares Forfeiture A/c
+To Capital Reserve A/ C
+
+(Proﬁt on reissue of 150 forfeited shares
+transferred to capital reserve)
+
+ 
+
+Working Notes :
+Rs.
+
+14,000 (200 shares x Rs. 70)
+10,500 (150 shares x Rs. 70)
+6,000 (150 shares x Rs. 40)
+
+Total amount forfeited on 200 shares
+Amount forfeited on 150 shares
+
+Amount of loss on reissue of 150 shares
+Amount of proﬁt on reissued shares
+transferred to capital reserve 4,500 (Rs. 10,500 — Rs. 6,000)
+Amount forfeited on 50 shares = 3,500 (50 shares x Rs. 70)
+
+Balance left in share forfeited account 3,500 (Rs. 14,000 — Rs. 6,000
+(equal to amount forfeited on 50 shares) — Rs. 4,500)

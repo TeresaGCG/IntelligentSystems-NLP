@@ -1,0 +1,48 @@
+3.5 Division 183
+Divide et impera.
+Latin for "Divide and mle,"
+Division
+ancient political maxim cited
+by Machiavelli, 1532
+The reciprocal operation of multiply is divide, an operation that is even less fre 
+quent and even more quirky. It even offers the opportunity to perform a mathe 
+matically invalid operation: dividing by O.
+Let's start with an example of long division using decimal numbers to recall the
+names of the operands and the grammar school division algorithm. For reasons
+similar to those in the previous section, we limit the decimal digits to just 0 or 1.
+The example is dividing 1,00 1,0 I0ten by looOten:
+100 Iten Quotient
+Divisor 1000 110010 IO Dividend
+ten ten
+- 1000
+10
+101
+1010
+- 1000
+IO Remainder
+ten
+The two operands (dividend and divisor) and the result (quotient) of divide dividend Anumber being
+divided.
+are accompanied by a second result called the remainder. Here is another way to
+express the relationship between the components:
+divisor A number that the
+dividend is divided by.
++
+Dividend = Quotient X Divisor Remainder
+quotient The primary result of
+where the remainder is smaller than the divisor. Infrequently, programs use the a division; a number that when
+divide instruction just to get the remainder, ignoring the quotient. multiplied by the divisor and
+added to the remainder pro 
+The basic grammar school division algorithm tries to see how big a number
+duces the dividend.
+can be subtracted, creating a digit of the quotient on each attempt. Our carefully
+selected decimal example uses only the numbers 0 and I, so it's easy to figure out remainder The secondary
+how many times the divisor goes into the portion of the dividend: it's either 0 result ofa division; a number
+that when added to the product
+times or I time. Binary numbers contain only 0 or I, so binary division is
+ofthe quotient and the divisor
+restricted to these two choices, thereby simplifying binary division.
+produces the dividend.
+Let's assume that both the dividend and divisor are positive and hence the quo 
+tient and the remainder are nonnegative. The division operands and both results
+are 32-bit values, and we will ignore the sign for now.

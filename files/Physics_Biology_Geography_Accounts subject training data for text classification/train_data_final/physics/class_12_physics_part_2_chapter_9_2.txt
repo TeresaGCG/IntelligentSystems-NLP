@@ -1,0 +1,73 @@
+Roy Optics and
+Optical Instruments
+
+this case is to be taken as normal to the tangent Normal
+
+to surface at the point of incidence. That is, the Incident ray Reﬂected ray
+normal is along the radius, the line joining the l
+centre of curvature of the mirror to the point of
+incidence.
+
+We have already studied that the geometric
+centre of a spherical mirror is called its pole while
+that of a spherical lens is called its optical centre.
+The line joining the pole and the centre of curvature
+of the spherical mirror is known as the principal .
+axis. In the case of spherical lenses, the principal FIGURE 9.1 The incident ray. reﬂected ray
+axis is the linejoining the Optical centre With its and the nomial to the reflecting surface lie
+principal focus as you will see later. in the same Plane-
+
+ 
+
+9.2. 1 Sign convention
+
+To derive the relevant formulae for reﬂection by spherical mirrors and
+refraction by spherical lenses, we must first adopt a sign convention for
+measuring distances. In this book, we shall follow the Cartesian sign
+convention. According to this
+
+convention, all distances are measured Object on left Mirror
+from the pole of the mirror or the optical
+
+centre of the lens. The distances Heights “1°1de light
+measured in the same direction as the upwards]
+
+   
+ 
+   
+
+incident light are taken as positive and posmve
+
+those measured in the direction l ’X‘a’ﬂs
+
+ 
+
+opposite to the direction of incident Distances against
+light are taken as negative (Fig. 9.2). incident light
+The heights measured upwards with Heights negative _,
+respect to x—axis and normal to the downwards Distances along
+principal axis (x—axis) of the mirror/ negative inCidev’Elight
+lens are taken as positive (Fig. 9.2). The posmve
+
+heights meaSPred downwards are FIGURE 9.2 The Cartesian Sign Convention.
+taken as negative.
+
+With a common accepted convention, it turns out that a single formula
+for spherical mirrors and a single formula for spherical lenses can handle
+all different cases.
+
+9.2.2 Focal length of spherical mirrors
+
+Figure 9.3 shows what happens when a parallel beam of light is incident
+on (a) a concave mirror, and (b) a convex mirror. We assume that the rays
+are paraxial, i.e., they are incident at points close to the pole P of the mirror
+and make small angles with the principal axis. The reﬂected rays converge
+at a point F on the principal axis of a concave mirror [Fig. 9.3(a)].
+For a convex mirror, the reﬂected rays appear to diverge from a point F
+on its principal axis [Fig. 9.3(b)]. The point F is called the principal focus
+of the mirror. If the parallel paraxial beam of light were incident, making
+some angle with the principal axis, the reﬂected rays would converge (or
+appear to diverge) from a point in a plane through F normal to the principal
+axis. This is called the focal plane of the mirror [Fig. 9.3(c)]. 3 1 1
+
+2019-20

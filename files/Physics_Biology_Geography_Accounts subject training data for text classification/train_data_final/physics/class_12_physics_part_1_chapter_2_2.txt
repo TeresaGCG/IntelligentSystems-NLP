@@ -1,0 +1,111 @@
+Electrostatic Potential
+
+(ii) Equation (2.2) deﬁnes potential energy difference in terms
+of the physically meaningful quantity work. Clearly,
+potential energy so deﬁned is undetermined to within an
+additive constant.What this means is that the actual value
+of potential energy is not physically signiﬁcant; it is only
+the difference of potential energy that is signiﬁcant. We can
+always add an arbitrary constant a to potential energy at
+every point, since this will not change the potential energy
+difference:
+
+(UP+a)—(UR+a)=UP—UR
+
+Put it differently, there is a freedom in choosing the point
+where potential energy is zero. A convenient choice is to have
+electrostatic potential energy zero at infinity. With this choice,
+if we take the point R at inﬁnity, we get from Eq. (2.2)
+
+WNP = UP — Um = UP (2.3)
+
+Since the point P is arbitrary, Eq. (2.3) provides us with a
+definition of potential energy of a charge q at any point.
+Potential energy of charge q at a point (in the presence of ﬁeld
+due to any charge conﬁguration) is the work done by the
+external force (equal and opposite to the electric force) in
+bringing the charge q from inﬁnity to that point.
+
+2.2 ELECTROSTATIC POTENTIAL
+
+Consider any general static charge configuration. We deﬁne
+potential energy of a test charge q in terms of the work done
+on the charge q. This work is obviously proportional to q, since
+the force at any point is qE, where E is the electric field at that
+point due to the given charge configuration. It is, therefore,
+convenient to divide the work by the amount of charge q, so
+that the resulting quantity is independent of q. In other words,
+work done per unit test charge is characteristic of the electric
+field associated with the charge conﬁguration. This leads to
+the idea of electrostatic potential V due to a given charge
+configuration. From Eq. (2.1), we get:
+
+Work done by external force in bringing a unit positive
+charge from point R to P
+
+= VP— VR (2 —UP :11?)
+
+and Capacitance
+
+ 
+
+Count Alessandro Volta
+[1745 — 1827) Italian
+physicist, professor at
+Pavia. Volta established
+that, the animal electri-
+city observed by Luigi
+Galvani, 1737—1798, in
+experiments with frog
+muscle tissue placed in
+contact with dissimilar
+metals, was not due to
+any exceptional property
+of animal tissues but
+was also generated
+whenever any wet body
+was sandwiched between
+dissimilar metals. This
+led him to develop the
+first voltaic pile, or
+battery, consisting of a
+large stack of moist disks
+of cardboard (electro-
+lyte) sandwiched
+between disks of metal
+(electrodes).
+
+(2.4)
+
+a
+O
+E
+a
+r11
+m
+E”
+U
+:0
+O
+<
+9
+a
+:>
+:1
+4s
+01
+|
+oHo
+[\3
+:2
+
+ 
+
+where Vpand VR are the electrostatic potentials at P and R, respectively.
+Note, as before, that it is not the actual value of potential but the potential
+difference that is physically signiﬁcant. If, as before, we choose the
+potential to be zero at infinity, Eq. (2.4) implies:
+Work done by an external force in bringing a unit positive charge
+from inﬁnity to a point = electrostatic potential (V) at that point. 53
+
+2019-20

@@ -1,0 +1,56 @@
+Accounting for Share Capital 5 5
+
+Working Notes :
+
+Amount received on allotment has been calculated as follows:
+
+(Rs. )
+
+Total money due on alloUnent (including premium) 1,50,000
+Less: Application money received on 600 shares adjusted (12,000)
+
+towards allotment money
+
+Net amount due on allotment on 3,000 shares 1,38,000
+Less: Allotment money due on 360 shares alloted to
+
+Renuka, not received 1 ’38’000 (16,560)
+
+Net amount received on 2,640 shares 1,2 1,440
+
+Since the allotment money which includes securities premium of Rs. 20 per share
+has not been received on 360 shares held by Renuka [now forfeited) has been
+debited to Securities premium account as per rules.
+
+Amount forefeited has been worked out as follows :
+Application money received from Renuka: = 432 X Rs. 20 =Rs. 8.640
+
+Application and Allotment money received from Kanika on 200 shares Rs. 10,000
+
+Total amount received on forefeited shares Rs. 18,640
+
+Do it Yourself
+
+Excel Company Limited made an issue of 1.00.000 Equity Shares of Rs.10 each,
+payable as follows :
+
+On Application Rs.2.50 per share
+On Allotment Rs.2.50 per share
+On First and Final Call Rs.5.00 per share
+
+X, the holder of 400 shares did not pay the call money and his shares were forfeited.
+200 of the forfeited shares were reissued as fully paid at Rs.8 per share. Draft necessary
+journal entries and prepare Share Capital and Share Forfeiture accounts in the
+books of the company.
+
+Test Your Understanding — III
+
+If a Share of Rs. 10 on which Rs. 8 is called-up and Rs. 6 is paid as forfeited.
+State with what amount the Share Capital account will be debited.
+
+If a Share of Rs. 10 on which Rs. 6 has been paid is forfeited, at what minimum
+price it can be reissued.
+
+Ahluwalia Ltd. issued 1,000 equity shares of Rs. 100 each as fully paid-up in
+consideration of the purchase of plant and machinery worth Rs. 1 ,00,000. What
+entry will be recorded in company's journal.

@@ -1,0 +1,50 @@
+1 00 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Books of X Ltd.
+Journal
+
+Bank A/c 1.42.500
+To Debenture Application and Allotment A/c
+(Debenture application money received) 1.42.500
+
+Debenture Application and Allotment A/c Dr. 1.42.500
+Loss on Issue of Debentures A/c Dr. 22,500
+To 8% Debentures A/c 1.50.000
+To Premium on Redemption of Debenture A/c 15,000
+(Debentures application money transferred to
+Debentures A/ c)
+
+ 
+
+Books of X Ltd.
+Balance Sheet as at
+
+I. Equity and Liabilities
+
+1. Non-current Liabilities
+a) Long-term borrowings 1.50.000
+b) Other long-term liabilities 15 000
+
+H. Assets
+1. Non-current assets
+Other non-current assets 18.000
+2. Current assets
+a) Cash and cash equivalents 1.42.500
+b) Other current assets 4 500
+
+ 
+
+Notes to Accounts
+
+Long- term borrowings
+150.7% debentures of Rs 1.000 each
+. Other long-term liabilities
+Premium on redemption of debentures
+
+Other non-current assets
+Loss on issue of debentures
+Cash and cash equivalents
+Cash at bank
+
+Other current assets
+Loss on issue of debentures

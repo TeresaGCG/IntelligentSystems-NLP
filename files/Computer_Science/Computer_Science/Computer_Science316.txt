@@ -1,0 +1,52 @@
+300 Chapter 5 The Processor: Datapath and Control
+~ PCSrc,,-l-
+,
+M
+) Add ,
+V ALU
+4-
+Add result
+~
+Shift ~
+left 2
+Read
+ALUSrc ALU operation
+Rood 4
+PC register 1
+address Read - I MemWrite
+data 1
+Read
+MemtoReg
+Ze~
+register 2
+Instruction
+) ALU ALU
+. Registers Read Read
+Address
+Wn.te data 2 ~ data ,
+, - M
+Instruction M
+register ,
+memory - ,
+~
+Write
+'--' ~
+data
+Data
+Write
+memory
+RegWrite I / data
+,.
+32 MemRead
+Sign
+extend
+FIGURE 5.11 The simple datapath for the MIPS architecture combines the elements required by different Instruction
+classes. This datapath can execute the basic instructions (load/store word,ALU operations,and branches) in a single dock cycle.An additional mul·
+tiplexor is needed to integrate branches. The support for jumps will be added later.
+A Simple Implementation Scheme
+In this section, we look at what might be thought of as the simplest possible
+implementation of our MIPS subset. We build this simple implementation using
+the datapath of the last section and adding a simple control function. This simple
+implementation covers load word (1 w), store word ( sw), branch equal (beq), and
+the arithmetic-logical instructions add, sub, and, or, and set on less than.
+We will later enhance the design to include a jump instruction (j ).

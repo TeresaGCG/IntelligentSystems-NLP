@@ -1,0 +1,23 @@
+Applications
+221
+Solution: Start with the equation r ⋅ t = d. We know the distance
+(520 miles) and the rate (65 miles per hour) so we can find the
+time:
+ r ⋅ t= d
+Substitute in for the rate and the distance 65 ⋅t= 520
+Divide both sides by 65
+Simplify  t = 8
+It will take her 8 hours to make the trip.
+Example 2
+The sound of thunder travels about 1 mile in 5 seconds. Suppose
+that a bolt of lightning strikes and you hear the thunder after 8
+seconds. How far away did the lightning strike?
+Solution: The rate that the thunder travels is  , and the
+time that it took the thunder to reach your ears is 8 seconds. Use
+the equation r ⋅ t = d to solve for the distance:
+The lightning struck 1.6 miles away from you.
+Example 3
+The 2001 Mars Odyssey was launched April 7, 2001, and arrived
+October 24, 2001. If the Odyssey traveled a total distance of 286
+million miles, how many miles per hour was the spacecraft
+traveling?

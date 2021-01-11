@@ -1,0 +1,40 @@
+3.11 Exercises 233
+3.42 (15) <§3.6> W ith x = 0100 0 110 110 1 1000 0000 0000 0000 OOOOt\o,"O and y =
+1011 1110 1110 0000 0000 0000 0000 OOOO\WO representing single precision IEEE
+754 floating-point numbers, perform, showing all work:
+a. x + y
+b. x ~ Y
+3.43 (15) <§3.6> With x = 010 1 1111 1011 1110 0100 0000 0000 OOOOtwo'
+y = 00 11 1111 1111 10000000 0000 0000 OOOOtwo, and z = 1101 1111 1011 1110
+0 100 0000 0000 OOOOtwo representing single precision IEEE 754 floating-point
+numbers, perform, showing all work:
+a. x + y
++
+b. (result of a) z
+c. Why is this result counterintuitive?
+3.44 (20) <§§3.6, 3.7> The IEEE 754 floating-point standard specifies 64-bit
+double precision with a 53-bit significand (including the implied 1) and an II -bit
+exponent. IA-32 offers an extended precision option with a 64-bit significand and
+a 16-bit exponent.
+a. Assuming extended precision is similar to single and double precision, what
+is the bias in the exponent?
+b. What is the range of numbers that can be represented by the extended preci 
+sion option?
+c. How much greater is this accuracy compared to double precision?
+3.45 (51 <§§3.6, 3.7> The internal representation of floating point numbers in
+IA-32 is 80 bits wide. This contains a 16 bit exponent. However it also advertises a
+64 bit significand. How is this possible?
+3.46 (10 ) <§3.7> While the IA-32 allows 80-bit floating-point numbers inter 
+nally, only 64-bit floating-point numbers ca n be loaded or stored. Starting with
+only64-bit numbers, how many operations are required before the full range ofthe
+80-bit exponents are used? Give an example.
+II
+3.47 (25) <§3.8> For More Practice: Floating Point on Algorithms
+II
+3.48 (30) <§3.8> For More Practice: Floating Point Rounding Modes
+II
+3.49 (30) <§3.8> For More Practice: Denormalized Numbers
+II
+3.50 (10 ) <§3.9> For More Practice: Evaluating Instruction Frequencies
+'II
+3.51 (10 ) <§3.9> For More Practice: Evaluating Instruction Frequencies

@@ -1,0 +1,83 @@
+Electric ﬁeld E1 at 1‘ due to q1 at r1 is given by
+
+l qi
+E=——11'1p
+1 4758 r2
+
+0 IF
+
+where in, is a unit vector in the direction from q1 to P,
+
+and r1? is the distance between q1 and P.
+
+In the same manner, electric field E2 at 1‘ due to q2 at
+
+1'2 is
+
+1 -
+$.-
+
+2P
+
+ 
+
+E:
+2 41ter2
+
+0 2?
+
+where f2}, is a unit vector in the direction from q2 to P
+
+FIGURE 1.12 Electric field at a and r2}, is the distance between q2 and P. Similar
+point due to a system of charges is expressions hold good for ﬁelds E , E4, En due to
+the vector sum of the electric ﬁelds charges q3, q4, ..., qn.
+
+at the point due to individual By the superposition principle, the electric ﬁeld E at r
+ChaFg65- due to the system of charges is (as shown in Fig. 1.12)
+
+20
+
+E(r) = E1 (r) + E2 (1') + + En(r)
+
+ 
+
+ 
+
+ 
+
+1 ql - 1 ch A 1 qn «
+= — r + _ — r + + — r
+47580 r12P W 47:80 rfp 2P 41:80 rnZP "P
+E(r) = 1 iii (1 10)
+47“50 i=1 ri2P 1P .
+
+E is a vector quantity that varies from one point to another point in space
+and is determined from the positions of the source charges.
+
+1.8.2 Physical signiﬁcance of electric field
+
+You may wonder why the notion of electric ﬁeld has been introduced
+here at all. After all, for any system of charges, the measurable quantity
+is the force on a charge which can be directly determined using Coulomb’s
+law and the superposition principle [Eq. (1.5)]. Why then introduce this
+intermediate quantity called the electric ﬁeld?
+
+For electrostatics, the concept of electric field is convenient, but not
+really necessary. Electric field is an elegant way of characterising the
+electrical environment of a system of charges. Electric field at a point in
+the space around a system of charges tells you the force a unit positive
+test charge would experience if placed at that point (without disturbing
+the system). Electric ﬁeld is a characteristic of the system of charges and
+is independent of the test charge that you place at a point to determine
+the ﬁeld. The term ﬁeld in physics generally refers to a quantity that is
+deﬁned at every point in space and may vary from point to point. Electric
+ﬁeld is a vector ﬁeld, since force is a vector quantity.
+
+The true physical signiﬁcance of the concept of electric ﬁeld, however,
+emerges only when we go beyond electrostatics and deal with time-
+dependent electromagnetic phenomena. Suppose we consider the force
+between two distant charges q1, q2 in accelerated motion. Now the greatest
+speed with which a signal or information can go from one point to another
+is c, the speed of light. Thus, the effect of any motion of q1 on q2 cannot
+
+2019-20

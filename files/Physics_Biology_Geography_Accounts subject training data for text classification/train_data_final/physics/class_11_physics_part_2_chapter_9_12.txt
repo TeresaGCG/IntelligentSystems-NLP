@@ -1,0 +1,90 @@
+MECHANICAL
+
+ 
+
+9.1
+
+9.2
+
+9.3
+
+PROPERTIES OF SOLIDS
+
+Metals have larger values of Young's modulus than alloys and elastomers. A material
+with large value of Young's modulus requires a large force to produce small changes in
+its length.
+
+In daily life. we feel that a material which stretches more is more elastic. but it a is
+misnomer. In fact material which stretches to a lesser extent for a given load is considered
+to be more elastic.
+
+In general. a deforming force in one direction can produce strains in other directions
+also. The proportionality between stress and strain in such situations cannot be described
+by just one elastic constant. For example. for a wire under longitudinal strain, the
+lateral dimensions (radius of cross section) will undergo a small change. which is described
+by another elastic constant of the material (called Poisson ratio).
+
+Stress is not a vector quantity since. unlike a force. the stress cannot be assigned a
+specific direction. Force acting on the portion of a body on a speciﬁed side of a section
+has a deﬁnite direction.
+
+EXERCISES
+
+A steel wire of length 4.7 m and cross—sectional area 3.0 x 10'5 m2 stretches by the same
+amount as a copper wire of length 3.5 m and cross-sectional area of 4.0 x 10'5 m2 under
+a given load. What is the ratio of the Young’s modulus of steel to that of copper?
+
+Figure 9.1 1 shows the strain—stress curve for a given material. What are (a) Young’s
+modulus and (b) approximate yield strength for this material?
+
+ 
+
+300
+f 250
+'a
+Z 200
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.001 0.002 0.003 0.004
+Strain
+
+Fig. 9.1 1
+The stress-strain graphs for materials A and B are shown in Fig. 9.12.
+
+Stress
+3>
+Stress
+U5
+
+Strain Strain
+
+Fig. 9.12
+
+2019-20
+
+247

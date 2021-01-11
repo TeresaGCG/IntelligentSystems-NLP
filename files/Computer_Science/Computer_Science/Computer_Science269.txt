@@ -1,0 +1,46 @@
+4.2 CPU Performance and Its Factors 253
+So code sequence 2 is faster, even though it acn,ally executes one extra
+instruction. Since code sequence 2 takes fewer overall clock cycles but has
+more instructions, it must have a lower CPI. The CPl values can be computed
+by
+CPU clock cycles
+CPI =
+Instruction count
+CPU clock cycles,
+10
+CPI , - 2
+Instruction count, 5
+CPU clock cycles
+9
+CPI = 2 - 1.5
+2
+Instruction count 6
+2
+The above example shows the danger of using only one factor (instruction
+count) to assess performance. When comparing two computers, you must look at
+all three components, which combine to form execution time. If some of the fac 
+tors are identical, like the clock rate in the above example, performance can be
+determined by comparing all the nonidentical factors. Since CPI varies by
+instruction mix, both instruction count and CPI must be compared, even if clock instruction mix A measure of
+rates are identical. Several of the exercises ask you to evaluate a series of computer the dynamic frequency of
+instructions across one or many
+and compiler enhancements that affect clock rate, CPI, and instruction count. In
+programs.
+the next section, we'll examine a common performance measurement that does
+not incorporate all the terms and can thus be misleading.
+Two of the major fa ctors that affect CPI are the performance of the pipeline,
+whicll is the tecllllique used by all modern processors to execute instructions, and
+the performance of the memory system. In Chapter 6, we will see how pipeline per 
+formance adds to the CPI through stalls, and in Chapter 7 we will see how the per 
+formance of the caclles can increase the CPI due to stalls in the memory system.
+A given application written in lava runs IS seconds on a desktop processor. A new Check
+lava compiler is released that requires only 0.6 as many instructions as the old Yourself
+compiler. Unfortunately it increases the CPI by 1.1. How fast can we expect the
+application to run using this new compiler?
+,.
+15xO.6 '" 8.2sec
+I.I
+b. 15xO.6 xl.l ",9.9sec
+15x l.l
+'" 27.5sec
+0.6

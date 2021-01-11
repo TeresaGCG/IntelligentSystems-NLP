@@ -1,0 +1,69 @@
+346
+
+ 
+
+l Physics
+
+ 
+
+(b) What is the answer if there is no outer covering of the pipe?
+9.18 Answer the following questions:
+
+(a) You have learnt that plane and convex mirrors produce virtual
+images of objects. Can they produce real images under some
+circumstances? Explain.
+
+(b) A virtual image, we always say, cannot be caught on a screen.
+Yet when we ‘see’ a virtual image, we are obviously bringing it
+on to the ‘screen’ (i.e., the retina) of our eye. Is there a
+contradiction?
+
+(c) A diver under water, looks obliquely at a fisherman standing on
+the bank of a lake. Would the fisherman look taller or shorter to
+the diver than what he actually is?
+
+(d) Does the apparent depth of a tank of water change if viewed
+obliquely? If so, does the apparent depth increase or decrease?
+
+(e) The refractive index of diamond is much greater than that of
+ordinary glass. Is this fact of some use to a diamond cutter?
+
+9. 19 The image of a small electric bulb fixed on the wall of a room is to be
+obtained on the opposite wall 3m away by means of a large convex
+lens. What is the maximum possible focal length of the lens required
+for the purpose?
+
+9.20 A screen is placed 90 cm from an object. The image of the object on
+the screen is formed by a convex lens at two different locations
+separated by 20cm. Determine the focal length of the lens.
+
+9.21 (a) Determine the ‘effective focal length’ of the combination of the
+two lenses in Exercise 9.10, if they are placed 8.0cm apart with
+their principal axes coincident. Does the answer depend on
+which side of the combination a beam of parallel light is incident?
+Is the notion of effective focal length of this system useful at all?
+
+(b) An object 1.5 cm in size is placed on the side of the convex lens
+in the arrangement (a) above. The distance between the object
+and the convex lens is 40cm. Determine the magnification
+produced by the two-lens system, and the size of the image.
+
+9.22 At what angle should a ray of light be incident on the face of a prism
+of refracting angle 60° so that it just suffers total internal reﬂection
+at the other face? The refractive index of the material of the prism is
+1.524.
+
+9.23 A card sheet divided into squares each of size 1 mm2 is being viewed
+at a distance of 9 cm through a magnifying glass (a converging lens
+of focal length 9 cm) held close to the eye.
+
+(a) What is the magnification produced by the lens? How much is
+the area of each square in the virtual image?
+
+(b) What is the angular magnification (magnifying power) of the
+lens?
+
+(c) Is the magnification in (a) equal to the magnifying power in (b)?
+Explain.
+
+2019-20

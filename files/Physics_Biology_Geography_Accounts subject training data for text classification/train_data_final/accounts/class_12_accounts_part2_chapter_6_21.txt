@@ -1,0 +1,50 @@
+256 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Do it Yourself
+1. From the following particulars, calculate cash ﬂows from investing activities:
+
+Purchased Sold
+(RS) (RS)
+
+Plant 4.40.000 50,000
+Investments 1.80.000 1.00.000
+
+Goodwill 2.00.000 —
+Patents — 1 ,00.000
+
+Interest received on debentures held as investment Rs 60,000
+Dividend received on shares held as investment Rs 10,000
+
+A plot of land had been purchased for investment purposes and was let out for
+commercial use and rent received Rs 30,000.
+
+2. From the following Information, calculate cash ﬂows from investing and
+ﬁnancing activities:
+
+Machine at cost 5.00.000 9.00.000
+Accumulated Depreciation 3.00.000 4.50.000
+Equity Shares Capital 28,00,000 35,00,000
+Bank Loan 12,50,000 7.50.000
+
+In year 2017. machine costing Rs 2.00.000 was sold at a proﬁt of Rs 1.50.000,
+Depreciation charged on machine during the year 20 1 5 amounted to Rs 2.50.000.
+
+ 
+
+6.8 Preparation of Cash Flow Statement
+
+As stated earlier cash ﬂow statement provides information about change in the
+position of Cash and Cash Equivalents of an enterprise, over an accounting
+period. The activities contributing to this change are classified into operating,
+investing and ﬁnancing. The methology of working out the net cash ﬂow (or use)
+from all the three activities for an accounting period has been explained in details
+and a brief format of Cash Flow Statement has also been given in Exhibit 6.2.
+However, while preparing a cash ﬂow statement, full details of inﬂows and
+outﬂows are given under these heads including the net cash ﬂow (or use). The
+aggregate of the net ‘cash ﬂows (or use) is worked out and is shown as ‘Net
+Increase / Decrease in cash and Cash Equivalents' to which the amount of ‘cash
+and cash equivalent at the beginning’ is added and thus the amount of ‘cash
+and cash equivalents at the end' is arrived at as shown in Exhibit 6.2. This
+ﬁgure will be the same as the total amount of cash in hand, cash at bank and
+cash equivalants (if any) given in the balance sheet (see Illustrations 7 to 10).
+Another point that needs to be noted is that when cash ﬂows from operating

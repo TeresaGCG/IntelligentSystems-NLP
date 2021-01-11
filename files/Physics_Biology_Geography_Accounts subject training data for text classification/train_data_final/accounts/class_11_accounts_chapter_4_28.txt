@@ -1,0 +1,56 @@
+Recording of Transactions — II 127
+
+Pawan Electronics
+
+Dr. Cr.
+€ ?
+
+Purchases 3 1,050
+Purchases 38,700
+Northern Electronics
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+20 1 7
+Aug. 1 8 Purchases 3.06.250
+
+Purchases Account
+
+Dr. Cr.
+? ?
+
+20 17
+. Sundries as 6,12,000
+per Purchase
+Journal
+
+   
+   
+   
+ 
+
+4.3 Purchases Return (Journal) Book
+
+In this book, purchases return of goods are recorded. Sometimes goods
+purchased are returned to the supplier for various reasons such as the goods
+are not of the required quality, or are defective, etc. For every return, a debit
+note (in duplicate) is prepared and the original one is sent to the supplier for
+making necessary entries in his book. The supplier may also prepare a note,
+Which is called the credit note. The source document for recording entries in
+the purchases return journal is generally a debit note. A debit note Will contain
+the name of the party (to Whom the goods have been returned) details of the
+goods returned and the reason for returning the goods. Each debit note is
+serially numbered and dated. The format of the purchases return journal is
+shown in figure 4.7(a).
+
+Purchases Return (Journal) Book
+
+Date Debit Name of the Supplier L.F Amount
+ote No. (Account to be debited) ?
+
+ 
+
+Fig 4.7(a) : Format of Purchases return (journal) book
+
+2019-2020

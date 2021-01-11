@@ -1,0 +1,57 @@
+7.4 Virtual Memory 511
+secondary cache and its access time depend on a number of aspects of the
+implementation.
+. . . a system has been
+devised to make the core
+Virtual Memory
+drum combination appear to
+the programmer as a single
+level store, the requisite
+In the previous section, we saw how caches provided fast access to recently used
+transfers taking place auto 
+portions of a program's code and data. Similarly, the main mem ory can act as a
+matically.
+"cache" fo r the secondary storage, usually implemented with m agnetic disks. This
+Kilburn et aL,"One-level stor 
+technique is called virtual memory. Histo rically, there were two major motiva 
+age system," 1962
+tions for virtual memory: to allow efficient and safe sharing of mem ory among
+multiple programs, and to remove the programming burdens of a sm all, limited
+virtual memory Atechnique
+amount of main memo ry. Four decades after its invention, it's the former reason
+that uses main memory as a
+that reigns today. "cache" for secondarystorage.
+Consider a collection of programs running at once on a computer. The total
+memo ry required by all the programs may be much larger than the amount of
+main memory available on the computer, but only a fraction of this memory is
+actively being used at any point in time. Ma in mem ory need contain only the
+active portions of the many programs, just as a cache contains only the active por 
+tion of one program. Thus, the principle of locality enables virnlal memory as
+well as caches, and virnlal memory allows us to efficiently share the processor as
+well as the main memory. Of course, to allow multiple programs to share the same
+memo ry, we must be able to protect the programs from each other, ensuring that
+a program ca n only read and write the portions of main memory that have been
+assigned to it.
+We cannot know which programs will share the memory with other pro 
+grams when we compile them. In fact, the programs sharing the mem ory
+change dynamically while the program s are running. Because of this dynamic
+interaction, we would like to compile each program into its own address space  physical address An address
+. .
+m mam memory.
+separate range of memo ry locations accessible only to this program. Virtual
+memory implements the translation of a program's address space to physical
+protection A set of mecha 
+addresses. This translation process enforces protection of a program's address nismsfor ensuring that multiple
+space from other program s. processes sharing the processor,
+memory, or I/O devices cannot
+The second motivation fo r virtual memory is to allow a single user program to
+interfere, intentionally or unin 
+exceed the size of primary memory. Formerly, if a program became too large for
+tentionally, with one another by
+memory, it was up to the programmer to make it fit. Programmers divided pro 
+reading or writingeach other's
+grams into pieces and then identified the pieces that were mutually exclusive.
+data. These mechanisms also
+These overlays were loaded or unloaded under user program control during exe 
+isolate the operatingsystem
+cution, with the programmer ensuring that the program never tried to access an from a user process.

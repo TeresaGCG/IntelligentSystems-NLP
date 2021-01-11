@@ -1,0 +1,54 @@
+212
+
+Accountancy
+{iv}
+Manav’s A/c Dr. 7,000
+To Purchases A/c 2,000
+To Sales A/c 5,000
+
+[Credit sales to Manav ? 5,000 wrongly recorded through purchases book
+as ? 2,000, now rectified)
+
+(V)
+
+Purchases A/c Dr. 1 ,000
+To Suspense A/c 1,000
+[Purchases book undercast by ? 1 ,000)
+
+(vi)
+
+Repairs A/c Dr. 1,600
+To Machinery A/c 1 ,000
+To Suspense A/c 600
+
+[Repairs on machinery ? 1,600 wrongly debited to machinery account as
+? 1,000, now rectified)
+
+(Vii)
+
+Sales Return A/c Dr. 3,000
+To Nathu’s A/c 3,000
+(Sales return from Nathu not recorded)
+
+Suspense Account
+Dr.
+
+?
+
+ 
+
+Difference as per Purchases
+
+trial balance 16, 000 Repairs
+
+Mohit 3, 000 Balance c / d
+=9—, 000
+
+N ate: Even after rectiﬁcation of errors suspense account is showing a debit balance
+of ? 1 7 ,400, This is due to non-detection of errors affecting trial balance,
+Balance of suspense account will be carried forward to the next year and will
+
+be eliminated as and when all the remaining errors affecting trial balance are
+located.
+
+2019-2020

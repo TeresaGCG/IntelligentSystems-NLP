@@ -1,0 +1,50 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 445
+Conceptually, you can think of a dynamically scheduled pipeline as analyzing
+the dataflow strucnlfe of a program, as we saw when we discussed dataflow analy 
+sis within a compiler in Chapter 2. The processor then executes the instructions in
+some order that preserves the data flow order of the program. To make programs
+behave as if they were running on a simple in-order pipeline, the instruction fetch
+and decode unit is required to issue instructions in order, which allows depen 
+dences to be tracked, and the commit unit is required to write results to registers
+and memory in program execution order. This conservative mode is called in 
+order completion. Hence, if an exception occurs, the computer can point to the
+last instruction executed, and the only registers updated will be those written by
+instructions before the instruction causing the exception. Although, the front end
+(fetch and issue) and the back end (commit) of the pipeline run in order, the
+functional units are free to initiate execution whenever the data they need is avail 
+able. Today, all dynamically scheduled pipelines use in-order completion,
+although this was not always true.
+Dynamic scheduling is often extended by including hardware-based specula 
+tion, especially for branch outcomes. By predicting the direction of a branch, a
+dynamically scheduled processor can continue to fetch and execute instructions
+in-order commit Acommit in
+along the predicted path. Because the instructions are committed in order, we
+which the results ofpipelined
+know whether or not the branch was correctly predicted before any instructions
+execution are written to the pro 
+from the predicted path are committed. A speculative, dynamically scheduled
+grammer-visible state in the
+pipeline can also support speculation on load addresses, allowing load-store reor 
+same order that instructions are
+dering, and using the commit unit to avoid incorrect speculation. In the next sec 
+fetched.
+tion we will look at the use of dynamic scheduling with speculation in the
+Pentium 4 design.
+Elaboration: A commit unit controls updates to the register file and memory. Some
+dynamically scheduled processors update the register file immediately during execution
+using extra registers to implement the renaming function and preserving the older copy
+of a register until the instruction updating the register is no longer speculative. Other
+processors buffer the result, typically in a structure called a reorder buffer, and the
+actual update to the register file occurs later as part of the commit. Stores to memory
+must be buffered until commit time either in a store buffer (see Chapter 7) or in the
+reorder buffer. The commit unit allows the store to write to memory from the buffer
+when the buffer has a valid address and valid data, and when the store is no longer
+dependent on predicted branches.
+out-of-order execution A sit 
+uation in pipelined execution
+Elaboration: Memory accesses benefit from nonblocking caches, which continue
+when an instruction blocked
+servicing cache accesses during a cache miss (see Chapter 7). Out-of-order execution
+from executing does not cause
+processors need nonblocking caches to allow instructions to execute during a miss. the following instructions to
+wait.

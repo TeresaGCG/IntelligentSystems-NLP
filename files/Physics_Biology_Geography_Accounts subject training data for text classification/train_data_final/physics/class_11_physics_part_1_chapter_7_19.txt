@@ -1,0 +1,114 @@
+160
+
+PHYSICS
+
+ 
+
+9/
+
+Fig. 7.21(b) The Earth’s magnetic ﬁeld exerts equal
+and opposite forces on the poles of a
+compass needle. These two forces form
+a couple.
+
+’ Example 7.7 Show that moment of a
+couple does not depend on the point about
+which you take the moments.
+
+ 
+
+Fig. 7.22
+
+Consider a couple as shown in Fig. 7 .22
+acting on a rigid body. The forces F and -F act
+respectively at points B and A. These points have
+position vectors 1'1 and 1'2 with respect to origin
+0. Let us take the moments of the forces about
+the origin.
+
+The moment of the couple = sum of the
+moments of the two forces making the couple
+
+=r1x (—F) + r2xF
+
+=5xF—ng
+
+= (1-2—1'1) x F
+
+But r1 + AB = r2, and hence AB = r2 — 1-1.
+
+The moment of the couple, therefore, is
+AB x F.
+
+Clearly this is independent of the origin, the
+point about which we took the moments of the
+forces. 4
+
+7.8.1 Principle of moments
+
+An ideal lever is essentially a light (i.e. of
+negligible mass) rod pivoted at a point along its
+
+2019-20
+
+length. This point is called the fulcrum. A see-
+saw on the children’s playground is a typical
+example of a lever. Two forces F1 and F2, parallel
+to each other and usually perpendicular to the
+lever, as shown here, act on the lever at
+distances cl1 and d2 respectively from the
+fulcrum as shown in Fig. 7.23.
+
+R
+<— ¢ 0 d. —>
+A B
+l F1 F. )
+Fig. 7.23
+
+The lever is a system in mechanical
+equilibrium. Let R be the reaction of the support
+at the fulcrum; R is directed opposite to the
+forces F1 and F2. For translational equilibrium,
+
+R—ﬁ—g=o m
+
+For considering rotational equilibrium we
+take the moments about the fulcrum; the sum
+of moments must be zero,
+
+le1 — d2F2 = 0 (ii)
+
+Normally the anticlockwise (clockwise)
+moments are taken to be positive (negative). Note
+R acts at the fulcrum itself and has zero moment
+about the fulcrum.
+
+In the case of the lever force F1 is usually
+some weight to be lifted. It is called the load
+and its distance from the fulcrum d1 is called
+the load arm. Force F2 is the effort applied to lift
+the load; distance d2 of the effort from the
+fulcrum is the effort arm.
+
+Eq. (ii) can be written as
+
+le1 = d2 F2 (7. 32a)
+
+or load arm x load = effort arm x effort
+
+The above equation expresses the principle
+of moments for a lever. Incidentally the ratio
+F1 /F2 is called the Mechanical Advantage (M.A.);
+
+E_d2
+MA. = F2 d (7 .32b)
+
+1
+
+If the effort arm d2 is larger than the load
+arm, the mechanical advantage is greater than
+one. Mechanical advantage greater than one
+means that a small effort can be used to lift a
+large load. There are several examples of a lever
+around you besides the see-saw. The beam of a
+balance is a lever. Try to find more such

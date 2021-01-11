@@ -1,0 +1,31 @@
+Homework Helpers: Basic Math and Pre-Algebra
+86
+Notice that in adding the two fractions together it was necessary to
+get a common denominator. The common denominator used in this situ-
+ation was 100, so you had to multiply the fraction   by  . As an inter-
+mediate step, the fraction obtained was  :
+One of the reasons that base ten is so nice to work with is that it is
+easy to write a decimal number with a fixed number of digits as a fraction
+that is not necessarily in reduced form. The number of digits to the right
+of the decimal point will be the power of 10 that appears in the denomina-
+tor of the fraction. Then, the digits in the decimal fraction go into the
+numerator. The decimal fraction 0.57 has two digits to the right of the
+decimal point, so the denominator is 102 , and 57 goes in the numerator.
+The decimal fraction 0.57 is written as the fraction  . The decimal frac-
+tion 0.387 has three digits to the right of the decimal point, so the de-
+nominator is 103, and 387 goes in the numerator. The decimal fraction
+0.387 is written as the fraction  . The number of places past the deci-
+mal point is the same as the number of 0s in the denominator. That makes
+converting from a decimal fraction to a fraction very easy. The resulting
+fraction may need to be reduced.
+The reverse process, converting from a fraction to a decimal num-
+ber, depends on the denominator of the fraction. If the denominator of
+the fraction being converted is a power of 10, the conversion to a decimal
+number is as easy as reversing the process we just talked about. The
+power of 10 in the denominator tells you how many digits in the numera-
+tor need to be to the right of the decimal point. The fraction   has 102
+in the denominator, so two of the digits in 523 need to be to the right of
+the decimal point, and  = 5.23. This should make sense because you
+can see that the numerator is larger than the denominator, and   is an
+improper fraction.
+www.ebook3000.com

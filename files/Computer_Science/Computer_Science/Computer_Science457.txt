@@ -1,0 +1,45 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 441
+IA-64 instructions are encoded in bundles, which are 128 bits wide. Each bun 
+dle consists of a 5-bit template field and three instructions, each 41 bits in length.
+To simplify the decoding and instruction issue process, the template field of a
+bundle specifies which of five different execution units each instruction in the
+bundle requires. The five different execution units are integer ALU, noninteger
+ALU (includes shifters and multimedia operations), memory unit, floating-point
+unit, and branch unit.
+The 5-bit template field within each bundle describes both the presence of any
+stops associated with the bundle and the execution unit type required by each
+instruction within the bundle. The bundle formats can specify only a subset of all
+possible combinations of instruction types and stops.
+To enhance the amount of ILP that can be exploited, IA-64 provides extensive
+support for predication and for speculation (see the Elaboration on page 442).
+Predication is a technique that can be used to eliminate branches by making the predication A technique to
+execution of an instruction dependent on a predicate, rather than dependent on a make instructions dependent on
+predicates rather than on
+branch. As we saw earlier, branches reduce the opportunity to exploit ILP by
+branches.
+restricting the movement of code. Loop unrolling works well to eliminate loop
+branches, but a branch within a loop-arising, for example, from an if-then-else
+statement-cannot be eliminated by loop unrolling. Predication, however, pro 
+vides a method to eliminate the branch, allowing more flexible exploitation of
+parallelism.
+For example, suppose we had a code sequence like
+if (p) {s tatement l} else (statement 2)
+Using normal compilation methods, this segment would compile using two
+branches: one after the condition branching to the else portion and one after
+statement 1 branching to the next sequential statement. With predication, it could
+be compiled as
+statement 1
+(p)
+(-p) statement 2
+where the use of (cond i t i on) indicates that the statement is executed only if
+co nd i t i on is true, and otherwise becomes a no-op. Notice that predication can
+be used as way to speculate, as well as a method to eliminate branches.
+The IA-64 architecture provides comprehensive support for predication: nearly
+every instruction in the IA-64 architecture can be predicated by specifying a pred 
+icate register, whose identity is placed in the lower 6 bits of an instruction field.
+One consequence of full predication is that a conditional branch is simply a
+branch with a guarding predicate!
+IA-64 is the most sophisticated example of an instruction set with support for
+compiler-based exploitation of ILP. Intel's Itanium and Itanium 2 processors
+implement this architecture. A brief summa ry of the cha racteristics of these pro 
+cessors is given in Figure 6.48.

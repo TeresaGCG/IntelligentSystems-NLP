@@ -1,0 +1,41 @@
+2.10 Translating and Starting a Program 115
+pilation step is trivial. Virtually no optimizations are performed. Like the C
+compiler, the Java compiler checks the types of data and produces the proper
+operation for each type. Java programs are distributed in the binary version of
+these bytecodes.
+A software interpreter, called a Java Virtual Machine (JVM), can execute Java Java Virtual Machine
+bytecodes. An interpreter is a program that simulates an instruction set architec  OVM) The program that
+interprets Java bytecodes.
+ture. For example, the MIPS simulator used with this book is an interpreter. There
+is no need for a separate assembly step since either the translation is so simple that
+the compiler fills in the addresses or JVM finds them at runtime.
+The upside of interpretation is portability. The availability of software Java vir 
+tual machines meant that most could write and run Java programs shortly after
+Java was announced. Today Java virnlal machines are found in millions of devices,
+in everything from cell phones to Internet browsers.
+The downside of interpretation is low performance. The incredible advances in
+performance of the 1980s and 1990s made interpretation viable for many impor 
+tant applications, but the factor of 10 slowdown when compared to traditionally
+compiled C progra ms made Java unattractive for some applications.
+To preserve portability and improve execution speed, the next phase of Java
+development was compilers that translated while the program was running. Such
+Just In Time compilers (JIT) typically profile the running program to find where Just In Time Compiler
+the "hot" methods are, and then compile them into the native instruction set on (JIT) The name commonly
+given to a compiler that operates
+which the virtual machine is running. The compiled portion is saved for the next
+at runtime, translating the inter 
+time the program is run, so that it can run faster each time it is run. This balance
+preted code segments into the
+of interpretation and compilation evolves over time, so that frequently run Java
+native code ofthe computer.
+programs suffer little of the overhead of interpretation.
+As computers get faster so that compilers can do more, and as resea rchers
+invent betters ways to compile Java on the fly, the performance gap between Java
+and C or c++ is closing. Section 2. 14 goes into much greater depth on the imple 
+mentation of Java, Java bytecodes, JVM, and JIT compilers.
+Which of the advantages of an interpreter over a translator do you think was most Check
+important fo r the designers of Java? Yourself
+I. Ease of writing an interpreter
+2. Better error messages
+3. Smaller object code
+4. Machine independence

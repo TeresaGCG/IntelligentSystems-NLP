@@ -1,0 +1,52 @@
+44
+
+15.
+
+ 
+
+For an area element of a closed surface, fl is taken to be the direction
+of outward normal, by convention.
+
+Gauss ’s law: The ﬂux of electric ﬁeld through any closed surface S is
+1 /80 times the total charge enclosed by S. The law is especially useful
+in determining electric ﬁeld E, when the source dist1ibution has simple
+symmetry:
+
+(i) Thin inﬁnitely long straight wire of uniform linear charge density )1
+
+A A
+
+E: n
+27c£0r
+
+ 
+
+where r is the perpendicular distance of the point from the wire and
+
+ﬁis the radial unit vector in the plane normal to the wire; passing
+through the point. \
+
+( ii) Inﬁnite thin plane sheet of uniform surface charge density 0'
+
+ 
+
+where 11 is a unit vector nonnal to the plane, outward on either side.
+(iii) Thin sphericaLLShejllxof unifomi surface charge density 0
+E=L2rii ‘ (r 2 R)
+
+4 7:80 r ‘ _
+E=0 (r < R)”
+where ;r is: the distance of the point from the centre of the shell and R
+the radius of the shell. q is the total charge of the shell: q = 47tR26.
+
+The electric ﬁeld outside the shell is as though the total charge is
+concentrated at the centre. The same result is true for a solid sphere
+of uniform volume ‘charge density. The ﬁeld is zero at all points inside
+
+the shell.
+
+Physical quantity Symbol Dimensions Unit
+
+ 
+
+2019-20

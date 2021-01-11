@@ -1,0 +1,63 @@
+2.23
+
+2.24
+
+2.25
+
+2.26
+
+2.27
+
+2.28
+
+Electrostatic Potential
+
+and Capacitance
+
+ 
+
+An electrical technician requires a capacitance of 2 ”F in a circuit
+across a potential difference of 1 kV. Alarge number of 1 “F capacitors
+are available to him each of which can withstand a potential
+difference of not more than 400 V. Suggest a possible arrangement
+that requires the minimum number of capacitors.
+
+What is the area of the plates of a 2 F parallel plate capacitor, given
+that the separation between the plates is 0.5 cm? [You will realise
+from your answer why ordinary capacitors are in the range of “F or
+less. However, electrolytic capacitors do have a much larger
+capacitance (0.1 F) because of very minute separation between the
+conductors]
+
+Obtain the equivalent capacitance of the network in Fig. 2.33. For a
+300 V supply, determine the charge and voltage across each
+capacitor.
+
+100 pF
+
+FIGURE 2.33
+
+The plates of a parallel plate capacitor have an area of 90 cm2 each
+and are separated by 2.5 mm. The capacitor is charged by
+connecting it to a 400 V supply.
+
+(a) How much electrostatic energy is stored by the capacitor?
+
+(b) View this energr as stored in the electrostatic field between
+the plates, and obtain the energy per unit volume u. Hence
+arrive at a relation between u and the magnitude of electric
+field E between the plates.
+
+A 4 uF capacitor is charged by a 200 V supply. It is then disconnected
+from the supply, and is connected to another uncharged 2 11F
+capacitor. How much electrostatic energy of the first capacitor is
+lost in the form of heat and electromagnetic radiation?
+
+Show that the force on each plate of a parallel plate capacitor has a
+magnitude equal to (1/2) QE, where Q is the charge on the capacitor,
+and E is the magnitude of electric field between the plates. Explain
+the origin of the factor 1/2.
+
+2019-20
+
+89

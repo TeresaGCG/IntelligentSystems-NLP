@@ -1,0 +1,53 @@
+290 Chapter 5 The Processor: Datapath and Control
+when the data value is written. The output from a state element provides the value
+that was written in an earlier clock cycle. For example, one of the logically sim 
+plest state elements is a D-type flip-flop (see Appendix B), which has exactly these
+two inputs (3 value and a clock) and one output. In addition to flip-flops, our
+MIPS implementation also uses two other types of state elements: memories and
+registers, both of which appear in Figure 5. 1. The clock is used to determine when
+the state element should be written; a state element can be read at any time.
+Logic components that contain state are also called sequential because their
+outputs depend on both their inputs and the contents of the internal state. For
+example, the output from the functional unit representing the registers depends
+both on the register numbers supplied and on what was written into the registers
+previously. The operation of both the combinational and sequential elements and
+II
+their construction are discussed in more detail in Appendix B.
+We will use the word asserted to indicate a signal that is logically high and assert
+to specify that a signal should be driven logically high, and deassert or deasserted
+to represent logical low.
+Clocking Methodology
+docking methodology The A docking methodology defines when signals can be read and when they can be
+approach used to determine
+written. It is important to specify the timing of reads and writes because, if a sig 
+when data is valid and stable rel 
+nal is written at the same time it is read, the value of the read could correspond to
+ative to the clock.
+the old value, the newly written value, o r even some mix of the two! Needless to
+say, computer designs cannot tolerate such unpredictability. A clocking methodol 
+ogy is designed to prevent this circumstance.
+edge-triggered docking A For simplicity, we will assume an edge-triggered clocking methodology. An
+clocking scheme in which all edge-triggered clocking methodology means that any values stored in a sequential
+state changes occur on a clock
+logic element are updated only on a clock edge. Because only state elements can
+edge.
+store a data value, any collection of combinational logic must have its inputs com  
+ing from a set of state elements and its outputs written into a set of state elements.
+The inputs are values that were written in a previous clock cycle, while the outputs
+are values that can be used in a following clock cycle.
+Figure 5.3 shows the two state elements surrounding a block of combinational
+logic, which operates in a single clock cycle: All signals must propagate from state
+element 1, through the combinational logic, and to state element 2 in the time of
+one clock cycle. The time necessary for the signals to reach state element 2 defines
+wlltrol signal A signal used the length of the clock cycle.
+for multiplexor selection or for
+For simplicity, we do not show a write control signal when a state element is
+directing the operation ofa
+written on every active clock edge. In contrast, if a state element is not updated on
+functional unit; contrasts with a
+every clock, then an explicit write control signal is required. Both the clock signal
+data signal, which contains
+and the write control signal are inputs, and the state element is changed only
+information that is operated on
+when the write control signal is asserted and a clock edge occurs.
+by a functional unit.

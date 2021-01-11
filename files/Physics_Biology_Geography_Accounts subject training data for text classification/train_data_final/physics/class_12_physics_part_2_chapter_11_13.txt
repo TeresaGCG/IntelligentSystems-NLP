@@ -1,0 +1,74 @@
+Duol Nature of Radiation
+
+and Moi-fer
+
+A photocell is a technological application of the photoelectric effect. It is a device whose
+electrical properties are affected by light. It is also sometimes called an electric eye. A photocell
+consists of a semi-cylindrical photo-sensitive metal plate C (emitter) and a wire loop A
+(collector) supported in an evacuated glass or quartz bulb. It is connected to the external
+circuit having a high-tension battery B and microammeter (uA) as shown in the Figure.
+Sometimes, instead of the plate C, a thin layer of photosensitive material is pasted on the
+inside of the bulb. A part of the bulb is left clean for the light to enter it.
+
+When light of suitable wavelength falls on the
+emitter C, photoelectrons are emitted. These
+photoelectrons are drawn to the collector A.
+Photocurrent of the order of a few microampere
+can be normally obtained from a photo cell.
+
+A photocell converts a change in intensity of
+illumination into a change in photocurrent. This
+current can be used to operate control systems
+and in light measuring devices. A photocell of lead
+sulphide sensitive to infrared radiation is used
+in electronic ignition circuits.
+
+In scientific work, photo cells are used
+whenever it is necessary to measure the intensity
+of light. Light meters in photographic cameras
+make use of photo cells to measure the intensity
+of incident light. The photocells, inserted in the
+door light electric circuit, are used as automatic
+door opener. A person approaching a doorway 0 ”A
+may interrupt a light beam which is incident on
+a photocell. The abrupt change in photocurrent
+may be used to start a motor which opens the
+door or rings an alarm. They are used in the
+control of a counting device which records every interruption of the light beam caused by a
+person or object passing across the beam. So photocells help count the persons entering an
+auditorium, provided they enter the hall one by one. They are used for detection of trafﬁc
+law defaulters: an alarm may be sounded whenever a beam of (invisible) radiation is
+intercepted.
+
+In burglar alarm, (invisible) ultraviolet light is continuously made to fall on a photocell
+installed at the doorway. A person entering the door interrupts the beam falling on the
+photocell. ’Ihe abrupt change in photocurrent is used to start an electric bell ringing. In ﬁre
+alarm, a number of photocells are installed at suitable places in a building. In the event of
+breaking out of fire, light radiations fall upon the photocell. This completes the electric
+circuit through an electric bell or a siren which starts operating as a warning signal.
+
+Photocells are used in the reproduction of sound in motion pictures and in the television
+camera for scanning and telecasting scenes. They are used in industries for detecting minor
+
+ﬂaws or holes in metal sheets. i
+
+_ —34
+
+    
+
+Incident light
+
+Collector
+
+Emitter
+
+A photo cell
+
+p=mv=0.l2kg><20ms‘1=2.4Okgms‘1
+
+6.63x10‘34J s
+
+,4-
+_ p _ 2.40 kgms‘1
+
+2019-20

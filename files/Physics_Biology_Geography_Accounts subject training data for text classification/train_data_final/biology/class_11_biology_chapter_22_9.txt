@@ -1,0 +1,41 @@
+340
+
+ 
+
+BIOLOGY
+
+physiological functions are regulated by hormones. On the basis of their
+chemical nature, hormones can be divided into groups :
+(i) peptide, polypeptide, protein hormones (e.g., insulin, glucagon,
+pituitary hormones, hypothalamic hormones, etc.)
+(ii) steroids (e.g., cortisol, testosterone, estradiol and progesterone)
+(iii) iodothyronines (thyroid hormones)
+(iv) amino-acid derivatives (e.g., epinephrine).
+
+Hormones which interact with membrane-bound receptors normally
+do not enter the target cell, but generate second messengers (e. g., cyclic
+AMP, 1P3, Ca“ etc) which in turn regulate cellular metabolism (Figure
+22.5a). Hormones which interact with intracellular receptors (e. g., steroid
+hormones, iodothyronines, etc.) mostly regulate gene expression or
+chromosome function by the interaction of hormone-receptor complex
+with the genome. Cumulative biochemical actions result in physiological
+and developmental effects (Figure 22.5b).
+
+- ’Y" ' _ V’
+‘ , :‘mrwne' (e.g®
+. . ‘ I: -
+
+, Receptor Ovarian
+
+cell membrane
+
+Biochemic
+
+; - I‘CSPOI'ISBS
+
+i)
+
+ll
+
+Physiological responses-
+(e._g., ovarian growth)

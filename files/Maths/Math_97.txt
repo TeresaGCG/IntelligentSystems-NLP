@@ -1,0 +1,35 @@
+Decimals
+97
+Example 2
+Round 4.8562 to the nearest tenth.
+Solution: 4.8562 ≈ 4.9
+Example 3
+Round 4.265 to the nearest one.
+Solution: 4.265 ≈ 4
+Rounding enables us to estimate answers without getting bogged down
+in the details. It can be used as a quick check to see if our answers make
+sense. For example, suppose that I purchase a sweater for $24.99, a pair
+of jeans for $42.99, and a shirt for $25.50. To calculate the exact amount
+of my purchases I would have to do the addition, down to the penny. This
+calculation is not particularly difficult, but if I don’t have a pencil and a
+piece of paper handy I may end up holding up the checkout line. I don’t
+want to just trust the sales clerk, because he or she could have keyed in
+the wrong price. I’m pretty careful with my hard-earned money. If my
+goal is to check whether or not the amount I am being charged is correct,
+I can accomplish that goal by rounding these prices to the nearest dollar
+and quickly adding these numbers together. My sum should be close to
+the amount that the sales clerk asks for. If the sales clerk wants $140 for
+these purchases, I can quickly verify whether or not I am being charged
+the right amount. Depending on how accurate I wanted to be, I could just
+round to the nearest dollar and find the sum 25 + 43+ 26. I could make it
+easier and round to the nearest ten dollars and find the sum 20 + 40 + 30.
+Rounding to the nearest ten dollars, the total should be around $90, so the
+charge of $140 is too far off the mark. Rounding to the nearest one dollar,
+the total should be around $94, so still, the charge of $140 is too far off the
+mark. By doing a little estimating I could save myself around $50.
+Rounding can make numbers a little easier to work with. The calcula-
+tion is easier, but the trade-off is accuracy. When you balance your check-
+book you want to be accurate, but when you are budgeting expenses you
+can estimate your monthly phone bill, food bill, and so forth. If you need
+to be accurate, don’t round and don’t estimate. If you want to check your
+work and see if you are in the ballpark, round and estimate.

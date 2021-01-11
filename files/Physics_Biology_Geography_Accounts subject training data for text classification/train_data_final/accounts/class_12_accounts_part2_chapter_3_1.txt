@@ -1,0 +1,51 @@
+140
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+3.2 Nature of Financial Statements
+
+The chronologically recorded facts about events expressed in monetary terms
+for a deﬁned period of time are the basis for the preparation of periodical ﬁnancial
+statements which reveal the ﬁnancial position as on a date and the ﬁnancial
+results obtained during a period. The American Institute of Certiﬁed Public
+Accountants states the nature of ﬁnancial statements as, “the statements
+prepared for the purpose of presenting a periodical review of report on progress
+by the management and deal with the status of investment in the business and
+the results achieved during the period under review. They reﬂect a combination
+of recorded facts, accounting principles and personal judgements".
+
+The following points explain the nature of ﬁnancial statements:
+
+1.
+
+Recorded Facts: Financial statements are prepared on the basis of
+facts in the form of cost data recorded in accounting books. The original
+cost or historical cost is the basis of recording transactions. The ﬁgures
+of various accounts such as cash in hand, cash at bank, trade
+receivables, ﬁxed assets, etc., are taken as per the ﬁgures recorded in
+the accounting books. The assets purchased at different times and at
+different prices are put together and shown at costs. As these are not
+based on market prices, the ﬁnancial statements do not show current
+ﬁnancial condition of the concern.
+
+Accounting Conventions: Certain accounting conventions are followed
+while preparing financial statements. The convention of valuing
+inventory at cost or market price, whichever is lower, is followed. The
+valuing of assets at cost less depreciation principle for balance sheet
+purposes is followed. The convention of materiality is followed in dealing
+with small items like pencils, pens, postage stamps, etc. These items
+are treated as expenditure in the year in which they are purchased
+even though they are assets in nature. The stationery is valued at cost
+and not on the principle of cost or market price, whichever is less. The
+use of accounting conventions makes ﬁnancial statements comparable,
+simple and realistic.
+
+Postulates: Financial statements are prepared on certain basic
+assumptions (pre-requisites) known as postulates such as going
+concern postulate, money measurement postulate, realisation
+postulate, etc. Going concern postulate assumes that the enterprise is
+treated as a going concern and exists for a longer period of time. So the
+assets are shown on historical cost basis. Money measurement
+postulate assumes that the value of money will remain the same in
+different periods. Though there is drastic change in purchasing power
+of money, the assets purchased at different times will be shown at the

@@ -1,0 +1,59 @@
+156
+
+ 
+  
+   
+
+Potential Energy
+
+Figure 9.6 Concept of activation energy
+
+BIOLOGY
+
+Transition state towards the ‘active site’. There is thus, an
+
+obligatory formation of an ‘ES’ complex. E
+ACtiVatiOfl energy stands for enzyme. This complex formation is
+a transient phenomenon. During the state
+where substrate is bound to the enzyme active
+site, a new structure of the substrate called
+energy with enzyme transition state structure is formed. Very soon,
+after the expected bond breaking/making is
+completed, the product is released from the
+active site. In other words, the structure of
+substrate gets transformed into the structure
+of product(s). The pathway of this
+transformation must go through the so-called
+PrOdUCt (P) transition state structure. There could be
+
+progress of reaction many more ‘altered structural states’ between
+
+the stable substrate and the product. Implicit
+in this statement is the fact that all other
+intermediate structural states are unstable. Stability is something related
+to energy status of the molecule or the structure. Hence, when we look at
+this pictorially through a graph it looks like something as in Figure 9.6.
+
+The y-axis represents the potential energy content. The x—axis
+represents the progression of the structural transformation or states
+through the ‘transition state’. You would notice two things. The energy
+level difference between S and P. If ‘P’ is at a lower level than ‘S’, the reaction
+is an exothermic reaction. One need not supply energy (by heating) in
+order to form the product. However, whether it is an exothermic or
+spontaneous reaction or an endothermic or energy requiring reaction,
+the ‘S’ has to go through a much higher energy state or transition state.
+The difference in average energy content of ‘S’ from that of this transition
+state is called ‘activation energy’.
+
+Enzymes eventually bring down this energy barrier making the
+transition of ‘S’ to ‘P’ more easy.
+
+9.12.3 Nature of Enzyme Action
+
+Each enzyme (E) has a substrate (S) binding site in its molecule so that a
+highly reactive enzyme-substrate complex (ES) is produced. This
+complex is short-lived and dissociates into its product(s) P and the
+unchanged enzyme with an intermediate formation of the enzyme-product
+complex (EP).
+
+The formation of the ES complex is essential for catalysis.

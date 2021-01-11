@@ -1,0 +1,44 @@
+8.2 Disk Storage and Dependability 575
+with many small disks, performance would improve because there would be more
+read heads, and there would be advantages in cost, power, and floor space since
+smaller disks are much more efficient per gigabyte than larger disks. Redundancy
+was needed because the many more smaller disks had lower reliability than a few
+large disks.
+By having many small disks, the cost of extra redundancy to improve depend 
+ability is small relative to the large disks. Thus, dependability was more affordable
+if you constructed a redundant array of inexpensive disks. In retrospect, this was
+the key advantage.
+How much redundancy do you need? Do you need extra information to find
+the faults? Does it matter how you organize the data and the extra check informa 
+tion on these disks? The paper that coined the term gave an evolutionary answer
+to these questions, starting with the simplest but most expensive solution. Figure
+8.6 shows the evolution and example cost in number of extra check disks. To keep
+track of the evolution, the authors numbered the stages of RAID, and they are still
+used today.
+No Redundancy (RAID 0)
+Simply spreading data over multiple disks, called striping, automatically forces striping Allocation oflogically
+accesses to several disks. Striping across a set of disks makes the collection appea r sequential blocks to separate
+disks to allow higher perfor 
+to software as a single large disk, which simplifies storage management. It also
+mance than a single disk can
+improves performance for large accesses, since many disks can operate at once.
+deliver.
+Video-editing systems, for example, often stripe their data and may not worry
+about dependability as much as, say, databases.
+RAID 0 is something of a misnomer as there is no redundancy. However, RAID
+levels are often left to the operator to set when creating a storage system, and
+RAID 0 is often listed as one of the options. Hence, the term RAID 0 has become
+widely used.
+Mirroring (RAID 1)
+This traditional scheme for tolerating disk failure, called mirroring or shadowing, mirroring Writing the identi 
+o.
+uses twice as many disks as does RAID Whenever data are written to one disk, cal data to multiple disks to
+increase data availability.
+those data are also written to a redundant disk, so that there are always two copies
+of the information. If a disk fails, the system just goes to the "mirror" and reads its
+contents to get the desired information. Mirroring is the most expensive RAID
+solution, since it requires the most disks.
+Error Detecting and Correcting Code (RAID 2)
+RAID 2 borrows an error detection and correction scheme most often used for
+memories (see . Appendix B). Since RAID 2 has fallen into disuse, we'll not
+describe it here.

@@ -1,0 +1,113 @@
+352
+
+PHYSICS
+
+ 
+
+Then, the velocity of the block at x = 5 cm is
+= 0.1 X 7.07 X 0.866 m S—1
+= 0.61 m s—1
+
+Hence the K.E. of the block,
+
+=lmv2
+2
+
+= 1/2[1kg X (0.6123 m S'1)2]
+= 0.19 J
+The P.E. of the block,
+
+= l k x2
+2
+= 1/2(50 N m‘1 X 0.05 m X 0.05 m)
+= 0.0625 J
+The total energy of the block at x = 5 cm,
+
+= K.E. + RE.
+= 0.25J
+
+we also know that at maximum displacement,
+K.E. is zero and hence the total energy of the
+system is equal to the RE. Therefore, the total
+energy of the system,
+
+=1/2(50Nm'1X 0.1mX0.1m)
+
+= 0.25 J
+which is same as the sum of the two energies at
+a displacement of 5 cm. This is in conformity
+with the principle of conservation of energy. 4
+
+14.8 SOME SYSTEMS EXECUTING SIMPLE
+HARMONIC MOTION
+
+There are no physical examples of absolutely
+pure simple harmonic motion. In practice we
+come across systems that execute simple
+harmonic motion approximately under certain
+conditions. In the subsequent part of this
+section, we discuss the motion executed by some
+such systems.
+
+14.8.1 Oscillations due to a Spring
+
+The simplest observable example of simple
+harmonic motion is the small oscillations of a
+block of mass m fixed to a spring, which in turn
+is fixed to a rigid wall as shown in Fig. 14.17.
+The block is placed on a frictionless horizontal
+surface. If the block is pulled on one side and is
+released, it then executes a to and fro motion
+about the mean position. Let x = 0, indicate the
+position of the centre of the block when the
+
+2019-20
+
+ 
+
+Fig. 1 4.1 7 A linear simple harmonic oscillator
+consisting of a block of mass m attached
+to a spring. The block moves over a
+frictionless surface. The box, when pulled
+or pushed and released, executes simple
+harmonic motion.
+
+spring is in equilibrium. The positions marked
+as —A and +A indicate the maximum
+displacements to the left and the right of the
+mean position. We have already learnt that
+springs have special properties, which were first
+discovered by the English physicist Robert
+Hooke. He had shown that such a system when
+deformed, is subject to a restoring force, the
+magnitude of which is proportional to the
+deformation or the displacement and acts in
+opposite direction. This is known as Hooke’s
+law (Chapter 9). It holds good for displacements
+small in comparison to the length of the spring.
+At any time t, if the displacement of the block
+from its mean position is x, the restoring force F
+acting on the block is,
+
+F(x) =—kx (14.19)
+
+The constant of proportionality, k, is called
+the spring constant, its value is governed by the
+elastic properties of the spring. A stiff spring has
+large k and a soft spring has small k. Equation
+(14.19) is same as the force law for SHM and
+therefore the system executes a simple harmonic
+motion. From Eq. (14.14) we have,
+
+a): E (14.20)
+
+m
+and the period, T, of the oscillator is given by,
+
+Tad? (14.21)
+
+Stiff springs have high value of k (spring
+constant). A block of small mass m attached to
+a stiff spring will have, according to Eq. (14.20),
+large oscillation frequency, as expected
+physically.

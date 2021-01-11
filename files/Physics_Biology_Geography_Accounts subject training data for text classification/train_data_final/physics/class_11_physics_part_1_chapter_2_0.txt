@@ -1,0 +1,93 @@
+llDSECHD?
+
+CHAPTER Two
+
+UNITS AND MEASUREMENT
+
+2. 1
+2.2
+
+2.3
+2.4
+2.5
+2.6
+
+2.7
+2.8
+
+2.9
+
+Introduction
+
+The international system of
+units
+
+Measurement of length
+Measurement of mass
+Measurement of time
+
+Accuracy. precision of
+instruments and errors in
+measurement
+
+Significant figures
+
+Dimensions of physical
+quantities
+
+Dimensional formulae and
+dimensional equations
+
+2.10 Dimensional analysis and its
+applications
+
+Summary
+Exercises
+Additional exercises
+
+ 
+
+2. 1 INTRODUCTION
+
+Measurement of any physical quantity involves comparison
+with a certain basic, arbitrarily chosen, internationally
+accepted reference standard called unit. The result of a
+measurement of a physical quantity is expressed by a
+number (or numerical measure) accompanied by a unit.
+Although the number of physical quantities appears to be
+very large, we need only a limited number of units for
+expressing all the physical quantities, since they are inter-
+related with one another. The units for the fundamental or
+base quantities are called fundamental or base units. The
+units of all other physical quantities can be expressed as
+combinations of the base units. Such units obtained for the
+derived quantities are called derived units. A complete set
+of these units, both the base units and derived units, is
+known as the system of units.
+
+2.2 THE INTERNATIONAL SYSTEM OF UNITS
+In earlier time scientists of different countries were using
+different systems of units for measurement. Three such
+systems, the CGS, the FPS (or British) system and the MKS
+system were in use extensively till recently.
+
+The base units for length, mass and time in these systems
+were as follows :
+0 In CGS system they were centimetre, gram and second
+
+respectively.
+
+0 In FPS system they were foot, pound and second
+respectively.
+
+0 In MKS system they were metre, kilogram and second
+respectively.
+
+The system of units which is at present internationally
+accepted for measurement is the Systeme Internationale
+d’ Unites (French for International System of Units),
+abbreviated as SI. The SI, with standard scheme of symbols,
+units and abbreviations, was developed and recommended
+by General Conference on Weights and Measures in 197 1 for
+
+2019-20

@@ -1,0 +1,38 @@
+4.2 CPU Performance and Its Factors 251
+where C is the count of the number of instructions of class i executed, CPl is the
+j j
+average number of cycles per instruction for that instruction class, and n is the
+number of instruction classes. Remember that overall CPI for a program will
+depend on both the number of cycles for each instruction type and the frequency
+of each instruction type in the program execution.
+As we described in Chapter 1, the performance of a program depends on the algo  Understanding
+rithm, the language, the compiler, the architecture, and the actual hardware. The
+Program
+following table summarizes how these components affect the factors in the CPU
+Performance
+performance equation.
+Hardware or
+software
+component Affects what? How?
+Algorithm Instruction count, The algorithm determines the number of source program
+possibly CPI instructions executed and hence the number of processor
+instructions executed. The algorithm may also affect the CPI, by
+favoring slower or faster instructions. For example, if the
+algorithm uses more f10atinglXlint operations, it will tend to
+have a higher CPI.
+Programming Instruction count, The programming language certainly affects the instruction
+language ePi count, since statements in the language are translated to
+processor instructions, which determine instruction count. The
+language may also affect the CPI because of its features; for
+example, a language with heavy support for data abstraction
+(e.g., Java) will require indirect calls, which will use higher.cPI
+instructions.
+Compiler Instruction count, The efficiency of the compiler affects both the instruction count
+ePi and average cycles per instruction, since the compiler
+detennines the translation of the source language instructions
+into computer instructions. The compiler's role can be very
+complex and affect the CPI in complex ways.
+Instruction set Instruction count, The instruction set architecture affects all three aspects of CPU
+architecture clock rate, perfonnance, since it affects the instructions needed for a
+ePi function, the cost in cycles of each instruction, and the overall
+clock rate of the processor.

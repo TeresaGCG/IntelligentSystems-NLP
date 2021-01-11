@@ -1,0 +1,51 @@
+522 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Accordingly, modern processors include special cache that keeps track of
+:I
+recently used translations. This special address translation cache is traditionally
+translation-Iookaside buffer referred to as a translation-Iookaside buffer (TLB), although it would be more
+(TLB) A cache that keeps track accurate to call it a translation cache. The TLB corresponds to that little piece of
+of recently lIsed address map 
+paper we typically use to record the location of a set of books we look up in the
+pings to avoid an access to the
+card catalog; rather than continually searching the entire catalog, we record the
+page table.
+location of several books and use the scrap of paper as a cache of Library of Con 
+gress call numbers.
+Figure 7.23 shows that each tag entry in the TLB holds a portion of the virtual
+page number, and each data entry of the TLB holds a physical page number. Because
+we will no longer access the page table on every reference, instead accessing the TLB,
+the TLB will need to include other bits, such as the dirty and the reference bit.
+TLB
+Virtual page Physical page
+number Valid Dirty Ref Tag address
+1 0 1
+1 1 1
+Physical memory
+1 1 1
+1 0 1
+000
+1 0 1
+~
+~>;<;
+Page table
+Physical page
+Valid Dirty Ref or disk address
+~
+1 1 1
+1 0 0
+Disk storage
+1 0 0
+1 0 1
+0 00
+1 0 1
+1 0 1
+0 00
+1 1 1
+1 1 1
+000
+1 1 1
+FIGURE 7.23 The TLB acts as a cache on the page table for the entries that map to physical pages only. The TLB contmns a sub 
+set ofthe virtual-to-physical page mappings that are in the page table.The TLB mappings are shown in color. Because the TLB is a cache, it must have
+a tag field. If there is no matching entry in the TLB for a p.1ge, the page table must be examined.The page table either supplies a physical page number
+for the page (which can then be used to build a TLB entry) or indic.1tes that the p.1ge resides on disk, in which case a p.1ge fault occurs. Since the page
+table has an entry for every virtual page, no tag field is needed; in other words, it is /lot a cache,

@@ -1,0 +1,82 @@
+i Physics
+6.8
+
+ 
+
+ 
+
+EDDY CURRENTS
+
+So far we have studied the electric currents induced in well deﬁned paths
+in conductors like circular loops. Even when bulk pieces of conductors
+
+ 
+
+are subjected to changing magnetic ﬂux, induced currents
+are produced in them. However, their ﬂow patterns resemble
+swirling eddies in water. This effect was discovered by physicist
+Foucault (18 19- 1868) and these currents are called eddy
+currents.
+
+Consider the apparatus shown in Fig. 6. l 3. A copper plate
+is allowed to swing like a simple pendulum between the pole
+pieces of a strong magnet. It is found that the motion is damped
+and in a little while the plate comes to a halt in the magnetic
+field. We can explain this phenomenon on the basis of
+electromagnetic induction. Magnetic ﬂux associated with the
+plate keeps on changing as the plate moves in and out of the
+region between magnetic poles. The ﬂux change induces eddy
+currents in the plate. Directions of eddy currents are opposite
+when the plate swings into the region between the poles and
+when it swings out of the region.
+
+If rectangular slots are made in the copper plate as shown
+
+FIGURE 6. 13 Eddy currents are in Fig. 6.14, area available to the ﬂow of eddy currents is less.
+
+generated in the copper plate.
+while entering
+and leaving the region of
+magnetic field.
+
+ 
+
+FIGURE 6.14 Cutting slots
+in the copper plate reduces
+the effect of eddy currents.
+
+218
+
+Thus, the pendulum plate with holes or slots reduces
+electromagnetic damping and the plate swings more freely.
+Note that magnetic moments of the induced currents (which
+oppose the motion) depend upon the area enclosed by the
+currents (recall equation m = IA in Chapter 4).
+
+This fact is helpful in reducing eddy currents in the metallic
+cores of transformers, electric motors and other such devices in
+which a coil is to be wound over metallic core. Eddy currents are
+undesirable since they heat up the core and dissipate electrical
+energy in the form of heat. Eddy currents are minimised by using
+laminations of metal to make a metal core. The laminations are
+separated by an insulating material like lacquer. The plane of the
+laminations must be arranged parallel to the magnetic field, so
+that they cut across the eddy current paths. This arrangement
+reduces the strength of the eddy currents. Since the dissipation
+of electrical energy into heat depends on the square of the strength
+of electric current, heat loss is substantially reduced.
+
+Eddy currents are used to advantage in certain applications like:
+
+(i) Magnetic braking in trains: Strong electromagnets are situated
+above the rails in some electrically powered trains. When the
+electromagnets are activated, the eddy currents induced in the
+rails oppose the motion of the train. As there are no mechanical
+linkages, the braking effect is smooth.
+
+(ii) Electromagnetic damping: Certain galvanometers have a fixed
+core made of nonmagnetic metallic material. When the coil
+oscillates, the eddy currents generated in the core oppose the
+motion and bring the coil to rest quickly.
+
+2019-20

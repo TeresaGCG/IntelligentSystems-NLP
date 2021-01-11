@@ -1,0 +1,25 @@
+Decimals
+99
+Estimating quotients is similar to estimating products. Round the
+numerator and the denominator and then do the division. The place you
+round to depends on the numbers you are working with and how accu-
+rate you want to be.
+Example 4
+Estimate the quotient: 
+Solution: Round the numerator to the nearest ten: 32.5 ≈ 30
+Round the denominator to the nearest one: 5.28 ≈ 5
+So:
+Lesson 5-5 Review
+Round to the nearest one and estimate the following:
+1. 23.65 + 19.75 + 22.56
+2. 55.67 − 23.94
+3. 14.89 × 5.22
+4. 5.26 × 3.05
+5.
+Lesson 5-6: Comparing Decimals and Fractions
+Comparing two integers involves determining which of the two num-
+bers is larger than the other. One way to compare two integers is to place
+them carefully on the number line. The number that is furthest to the
+right is the larger of the two numbers. On the other hand, the number
+that is furthest to the left is the smaller of the two numbers. Now, we need
+a method for comparing fractions or decimal numbers.

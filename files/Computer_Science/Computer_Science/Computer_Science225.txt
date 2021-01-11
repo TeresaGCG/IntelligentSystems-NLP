@@ -1,0 +1,32 @@
+3.6 Floating Point 209
+One issue that computer designers face in supporting floating-point arithmetic is Hardware
+whether to use the same registers used by the integer instructions or to add a spe 
+Software
+cial set for floating point. Because programs normally perform integer operations
+Interface
+and floating-point operations on different data, separating the registers will only
+slightly increase the number of instructions needed to execute a program. The
+major impact is to create a separate set of data transfer instructions to move data
+between floating-point registers and memory.
+The benefits of separate floating-point registers are having twice as many registers
+without using up more bits in the instruction format, having twice the register
+bandwidth by having separate integer and floating-point register sets, and being
+able to customize registers to floating point; for example, some computers convert
+all sized operands in registers into a single internal format
+Compiling a Floating-Point C Program into MIPS Assembly Code
+Let's convert a temperanlfe in Fahrenheit to Celsius:
+EXAMPLE
+f loa t f2c ( f loa t f ahr)
+I
+r et ur n «5 . 0/9 . 0l * ( f ah r - 32 . 0» ;
+J
+Assume that the floating-point argument f ah r is passed in $fl2 and the
+result should go in $f O. (Unlike integer registers, floating-point register 0 can
+contain a number.) What is the MIPS assembly code?
+We assume that the compiler places the three floating-point constants in
+ANSWER
+memory within easy reach of the global pointer $gpoThe first two instruc 
+tions load the constants 5.0 and 9.0 into floating-point registers:
+f 2c :
+l weI $f16 . eons t 5($gp) # $f16 5. 0 (5 . 0 1n memory)
+l weI $f18 . eons t 9($gp) # $f18 9 . 0 (9 . 0 1n memory)

@@ -1,0 +1,69 @@
+rms voltage
+
+rms current
+
+Re ac tance :
+Inductive
+
+Capacitive
+
+Impedance
+
+Resonant
+frequency
+
+Quality factor
+
+Power factor
+
+[M LZT‘B’A'I]
+
+, im is the amplitude of
+
+the ac current.
+
+[M LZT'SA'2] X = a L
+
+L
+
+[MLZT'SA'Z] X = 1/50- C
+
+C
+
+[ML2T'3A'2] Depends on elements
+present in the circuit.
+
+[T4] 60: 1 fora
+
+° JLC
+series RLC circuit
+a) L 1
+Dimensionless Q = O =
+R (00 C R
+RLC circuit.
+
+for a series
+
+Dimensionless = cos¢, q) is the phase
+difference between voltage
+applied and current in
+the circuit.
+
+POINTS TO PONDER
+
+When a value is given for ac voltage or current, it is ordinarily the rms
+value. The voltage across the terminals of an outlet in your room is
+normally 240 V. This refers to the rms value of the voltage. The amplitude
+of this voltage is
+
+vm = JEV = @940) = 340V
+
+The power rating of an element used in ac circuits refers to its average
+power rating.
+
+The power consumed in an ac circuit is never negative.
+
+Both alternating current and direct current are measured in amperes.
+But how is the ampere defined for an alternating current? It cannot be
+derived from the mutual attraction of two parallel wires carrying ac
+currents, as the dc ampere is derived. An ac current changes direction

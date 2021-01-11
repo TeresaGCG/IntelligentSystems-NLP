@@ -1,0 +1,76 @@
+Current
+Electricity
+Exactly as before
+I: I1 + I2 + I3 (3.46)
+and applying Ohm’s law to R1, R2 and R3 we get,
+V=11R1, V=I2 R2, V=13R3 (3.47)
+So that
+I=Il+12+13=V[i+i+i] (3.48)
+R1 R2 R3
+An equivalent resistance Req that replaces the combination, would be
+such that
+_ V
+I- R (3.49)
+eq
+and hence
+1 i+i+ i
+R... R1 R2 R3 (3-50)
+We can reason similarly for any number of resistors in parallel. The
+equivalent resistance of n resistors R1, R2 . . . ,R11 is
+1 1 1 1
+—_—+—+...+— (3.51)
+
+Reg—R1 R. R.
+
+These formulae for equivalent resistances can be used to ﬁnd out
+currents and voltages in more complicated circuits. Consider for example,
+the circuit in Fig. (3.17), where there are three resistors R1, R2 and R3.
+R2 and R3 are in parallel and hence we can
+replace them by an equivalent R2: between
+
+ 
+
+ 
+
+R2
+point B and C with R I.
+l I
+1 1 + 1 I
+:_ — A B c
+R3: R2 R3 12 R3
+23 _ R2R3
+01', Req_R +R (3.52) : /\/\/\/\/\/\ AAA/\AA SI
+2 3 ‘ A I R. B R3; c
+The circuit now has R1 and R3: in series
+and hence their combination can be = ._>I_/vvvvv\_>_.
+_ A R123 C
+
+replaced by an equivalent resistance with
+R33 = R3: + R1 (3.53)
+
+If the voltage between A and C is V, the
+current I is given by
+
+_ V _ V
+Riis R1+[R2R3/(R.+R3)]
+
+2 V(R.+R3)
+as+as+ss
+
+I
+
+eq
+
+FIGURE 3.17 A combination of three resistors R‘.
+
+R2 and R3. R2, R3 are in parallel with an
+
+equivalent resistance Rf]. R1 and NH," are in
+
+series with an equivalent resistance IK‘ f; I.
+
+(3.54)
+
+109
+
+2019-20

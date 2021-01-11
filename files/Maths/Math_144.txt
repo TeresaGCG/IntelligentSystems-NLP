@@ -1,0 +1,36 @@
+Homework Helpers: Basic Math and Pre-Algebra
+144
+A solution to an inequality is a number that produces a true state-
+ment when it is substituted for the variable in the inequality. Inequalities
+are more flexible than equalities and are therefore easier to satisfy than
+are equalities. There is only one number that is equal to 3, even though
+there are many ways to write the number 3. We can write 3 as 4 − 1, or
+2 + 1, or  , but no matter how you slice it, they all represent the same
+number. With inequalities, there are a whole lot of numbers that are
+greater than 3. I can think of several numbers right away, such as 4, 5, 6,
+7, and 8, and I am just getting started. These numbers are all different
+from each other; they are not different representations of the same num-
+ber. Because of the flexibility in satisfying an inequality, inequalities usu-
+ally have many solutions.
+We can examine which of these inequalities, if any, are equivalence
+relations. I will examine < and ≤ in more detail.
+To determine whether < (less than) is an equivalence relation, we
+need to check to see if it has all three required properties:
+1. Reflexive property: Is a < a? Is a number less than itself?
+No.
+2. Symmetric property: If a < b is b < a? No.
+3. Transitive property: If a < b and b < c, is a < c? Yes.
+So, < is not an equivalence relation because it only has the transitive
+property; it does not have the reflexive and symmetric properties.
+To determine whether ≤ (less than or equal to) is an equivalence
+relation, we need to check to see if it has all three required properties:
+1. Reflexive property: Is a ≤ a? Yes.
+2. Symmetric property: If a ≤ b is b ≤ a? Not always, so no.
+3. Transitive property: If a ≤ b and b ≤ c, is a ≤ c? Yes.
+So, ≤ is not an equivalence relation because it only has the reflexive
+and transitive properties; it does not have the symmetric property.
+You may be wondering why I spent so much time talking about equiva-
+lence relations. In order to solve inequalities we will need to establish some
+rules about how we are allowed to transform them. Inequalities are more
+flexible than equalities, and as a result there are some transformations
+www.ebook3000.com

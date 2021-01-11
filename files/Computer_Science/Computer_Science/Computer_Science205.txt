@@ -1,0 +1,46 @@
+3.6 Floating Point 189
+Summary
+The common hardware support for multiply and divide allows MIPS to provide a
+single pair of 32-bit registers that are used both for multiply and divide. Figure 3. 14
+summarizes the additions to the MIPS architecture for the last two sections.
+MIPS divide instructions ignore overflow, so software must determine if the quo  Hardware
+tient is too large. In addition to overflow, division can also result in an improper
+Software
+o.
+calculation: division by Some computers distinguish these two anomalous
+Interface
+events. MIPS software must check the divisor to discover division by 0 as well as
+overflow.
+Elaboration: An even faster algorithm does not immediately add the divisor back if
+the remainder is negative. It simply adds the dividend to the shifted remainder in the
+following step since (r + d) x 2 - d = r x 2 + d x 2 - d = r x 2 + d. This nonrestoring divi 
+sion algorithm, which takes 1 clock per step, is explored further in Exercise 3.29; the
+algorithm here is called restoring division.
+Speed gets you nowhere if
+you're headed the wrong
+Roating Point
+way.
+American proverb
+Going beyond signed and unsigned integers, programming languages support
+numbers with fractions, which are called reals in mathematics. Here are some
+examples of reaIs:
+3.141 59265...It'n (rr)
+2.7 1828...ten (e)
+9
+O.OOOOOOOO lten o r 1.0 X 10- (seconds in a nanosecond)
+ten
+9
+3, I55,760,OOOten or 3.1 5576 X 10 (seconds in a typical century)
+ten
+Notice that in the last case, the number didn't represent a small fraction, but it
+scientific notation Anotation
+was bigger than we could represent with a 32-bit signed integer. The alternative that renders numberswith a sin·
+gle digit to the left ofthe deci 
+notation fo r the last two numbers is called scientific notation, which has a single
+mal point.
+digit to the left of the decimal point. A number in scientific notation that has no
+leading Os is called a normalized number, which is the usual way to write it. For normalized Anumber in
+9
+example, 1.0ten X 10- is in normalized scientific notation, but O.lten X 10--8 and floating-point notation that has
+1O.0 X 10-10 are not. no leading Os.
+ten

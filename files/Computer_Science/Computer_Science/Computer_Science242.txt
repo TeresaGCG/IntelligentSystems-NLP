@@ -1,0 +1,45 @@
+226 Chapter 3 Arithmetic: for Computers
+Instruction subset
+57.
+MIPS core 95%
+MIPS arithmetic core "" 41%
+Remaining MIP5--32 5% 2%
+MIPS core Instructions Name Format MIPS arithmetic: core Name Format
+,dd ,dd R multiply mLl1t R
+add immediate addi I multiply unsigned mLlltu R
+add unsigned addu R divide div R
+add immediate unsigned addiu I divide unsigned divu R
+subtract "b R move from Hi mf hi R
+subtract unsigned subu R move from Lo mfl 0 R
+eo' eo'
+R move from system control (EPC) mf cO R
+and immediate andi I floating·point add single add. s R
+"' M R floating·point add double add.d R
+or immediate "n I f1oating·point subtract single slIb.s R
+0"' sub.d
+OM R f1oating·point subtract double R
+,"
+shift left logical R floating·point multiply single mLl1.s R
+,,1
+shift right logical R floating·point multiply double mLll.d R
+,.
+load upper immediate 1ui I f1oating·point divide single di v. s R
+load word I floating-point divide double di v. d R
+store word '" I load word to floating.point single 1wel I
+load halfword unsigned 1he I store word to floating.point single swel I
+,h
+store halfword I load word to floating.point double 1del I
+load byte unsigned 1be I store word to floating.point double sdel I
+,b
+store byte I branch on f1oating.point true bel t I
+branch on equal b,q I branch on f1oating.point false bclf I
+branch on not equal boe I floating-point compare single c.x.s R
+jump J J (x _ eq. neq. 1t. 1e. gt. gel
+jump and link j a1 J floating-point compare double c.x.d R
+jump register JC R (x _ eq. neq. 1t. 1e. gt. gel
+,It
+set less than R
+set less than immediate sHi I
+set less than unsigned sHu R
+set less than immediate unsigned s H i u I
+FIGURE 3.24 The MIPS Instruction set covered so far. This book concentrates on the instructions in the left column.

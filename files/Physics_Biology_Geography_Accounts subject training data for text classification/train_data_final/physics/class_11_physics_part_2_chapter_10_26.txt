@@ -1,0 +1,60 @@
+276 PHYSICS
+
+ 
+
+APPENDIX 10. 1 : WHAT IS BLOOD PRESSURE ?
+
+In evolutionary history there occurred a time when animals started spending a significant amount
+of time in the upright position. This placed a number of demands on the circulatory system. The
+venous system that returns blood from the lower extremities to the heart underwent changes. You
+will recall that veins are blood vessels through which blood returns to the heart. Humans and
+animals such as the giraffe have adapted to the problem of moving blood upward against gravity.
+But animals such as snakes, rats and rabbits will die if held upwards, since the blood remains in
+the lower extremities and the venous system is unable to move it towards the heart.
+
+26.8 kPa 9.3 kPa 13. kPa
+13.3 kPa 13.1 kPa
+
+ 
+
+ 
+
+Fig. 1 0.26 Schematic view of the gauge pressures in the arteries in various parts of the human body while
+standing or lying down. The pressures shown are averaged over a heart cycle.
+
+Figure 10.26 shows the average pressures observed in the arteries at various points in the human body.
+Since viscous effects are small, we can use Bernoulli’s equation, Eq. (10.13),
+
+P + éva + pgy = Constant
+
+to understand these pressure values. The kinetic energy term [p v2/2] can be ignored since the velocities in
+the three arteries are small (: 0.1 m s4] and almost constant. Hence the gauge pressures at the brain PB,
+the heart PH, and the foot PF are related by
+
+PF=PH+ pth=PB+pghB [10.34]
+
+where p is the density of blood.
+
+Typical values of the heights to the heart and the brain are hH = 1.3 m and hB = 1.7m. Taking
+p = 1.06 x 103 kg m’3 we obtain that PF = 26.8 kPa (kilopascals) and PB = 9.3 kPa given that PH = 13.3 kPa.
+Thus the pressures in the lower and upper parts of the body are so different when a person is standing,
+but are almost equal when he is lying down. As mentioned in the text the units for pressure more
+commonly employed in medicine and physiology are torr and mm of Hg. 1 mm of Hg = 1 torr = 0.133 kPa.
+Thus the average pressure at the heart is PH = 13.3 kPa = 100 mm of Hg.
+
+The human body is a marvel of nature. The veins in the lower extremities are equipped with valves,
+which open when blood ﬂows towards the heart and close if it tends to drain down. Also, blood is returned
+at least partially by the pumping action associated with breathing and by the ﬂexing of the skeletal muscles
+during walking. This explains why a soldier who is required to stand at attention may faint because of
+insufficient return of the blood to the heart. Once he is made to lie down, the pressures become equalized
+and he regains consciousness.
+
+An instrument called the sphygmomanometer usually measures the blood pressure of humans. It is a
+fast, painless and non—invasive technique and gives the doctor a reliable idea about the patients health.
+The measurement process is shown in Fig. 10.27. There are two reasons why the upper arm is used. First,
+it is at the same level as the heart and measurements here give values close to that at the heart. Secondly,
+the upper arm contains a single bone and makes the artery there [called the brachial artery) easy to
+compress. We have all measured pulse rates by placing our fingers over the wrist. Each pulse takes a little
+less than a second. During each pulse the pressure in the heart and the circulatory system goes through a
+
+2019-20

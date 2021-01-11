@@ -1,0 +1,79 @@
+Moving Chorges and
+
+Magnetism
+
+ 
+
+ 
+
+2
+B : #01}:
+2x
+Note that the area of the loop A = atRZ. Thus,
+B = #Oléi
+27tx
+
+As earlier, we deﬁne the magnetic moment m to have a magnitude IA,
+111 = I A. Hence,
+
+B : ”om-3
+21tx
+
+ 
+
+_ a 2m
+_ 41: x3
+The expression of Eq. [4.3 1(a)] is very similar to an expression obtained
+
+earlier for the electric field of a dipole. The similarity may be seen if we
+substitute,
+
+#0 a1/‘90
+
+m —> pe (electrostatic dipole)
+
+ 
+
+[4.31(a)]
+
+B _> E (electrostatic field)
+
+We then obtain,
+2
+E : De 3
+4 at 80 x
+
+which is precisely the field for an electric dipole at a point on its axis.
+considered in Chapter 1, Section 1.10 [Eq. (1.20)].
+
+It can be shown that the above analogy can be carried further. We
+had found in Chapter 1 that the electric field on the perpendicular bisector
+of the dipole is given by [See Eq.(1.2 1)],
+
+ 
+
+where xis the distance from the dipole. If we replace p 9 m and #0 —> 1 / 80
+
+in the above expression, we obtain the result for B for a point in the
+plane of the loop at a distance x from the centre. For x >>R,
+B : “0 m
+
+EF; x >> R [4.31(b)]
+
+The results given by Eqs. [4.31(a)] and [4.31(b)] become exact for a
+point magnetic dipole.
+
+The results obtained above can be shown to apply to any planar loop:
+a planar current loop is equivalent to a magnetic dipole of dipole moment
+m = IA, which is the analogue of electric dipole moment p. Note, however,
+a fundamental difference: an electric dipole is built up of two elementary
+units — the charges (or electric monopoles). In magnetism, a magnetic
+dipole (or a current loop) is the most elementary element. The equivalent
+of electric charges, i.e., magnetic monopoles, are not known to exist.
+
+We have shown that a current loop (i) produces a magnetic field (see
+Fig. 4.1 2) and behaves like a magnetic dipole at large distances, and
+
+2019-20
+
+161

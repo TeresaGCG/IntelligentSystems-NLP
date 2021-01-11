@@ -1,0 +1,27 @@
+Homework Helpers: Basic Math and Pre-Algebra
+132
+percent by multiplying by 100, or moving the decimal point two places to
+the right and tacking on a % symbol. The % symbol means “out of 100.”
+For example, 90% has a decimal representation 0.90, and 0.6% has a
+decimal representation of 0.006.
+The more you work with percents, the easier it is to set up these
+equations, but if you ever forget how to set up this equation, reach for
+your proportions.
+Example 1
+What is 85% of 560?
+Solution: You are given the percent (85%) and the whole (560),
+and you need to find the part. Convert 85% to a decimal form (to
+get 0.85) and set up the equation with x representing the part:
+x= 560 × 0.85 = 476
+So, 85% of 560 is 476.
+Example 2
+What percent of 65 is 52?
+Solution: You are given the part (52) and the whole (65), and are
+asked for the percent. Let x represent the percent (as a decimal)
+and set up an equation:
+52= 65 ⋅x
+x= 0.8
+Convert your decimal to a percent by moving the decimal point
+two places to the right and adding a % symbol:
+52 is 80% of 65.
+www.ebook3000.com

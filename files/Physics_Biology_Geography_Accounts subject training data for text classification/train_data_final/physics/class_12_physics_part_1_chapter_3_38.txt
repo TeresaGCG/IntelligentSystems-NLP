@@ -1,0 +1,29 @@
+3.23
+
+Current
+Electricity
+
+ 
+
+(c) Is the balance point affected by this high resistance?
+
+(d) Would the method work in the above situation if the driver cell
+of the potentiometer had an emf of 1.0V instead of 2.0V?
+
+(e) Would the circuit work well for determining an extremely small
+emf, say of the order of a few mV (such as the typical emf of a
+thermo-couple)? If not, how will you modify the circuit?
+
+Figure 3.34 shows a 2.0 V potentiometer used for the determination
+of internal resistance of a 1.5 V cell. The balance point of the cell in
+open circuit is 76.3 cm. When a resistor of 9.5 Q is used in the external
+circuit of the cell, the balance point shifts to 64.8 cm length of the
+potentiometer wire. Determine the internal resistance of the cell.
+
+ 
+
+FIGURE 3.34
+
+2019-20
+
+131

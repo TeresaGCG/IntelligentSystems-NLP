@@ -1,0 +1,103 @@
+268
+
+PHYSICS
+
+ 
+
+the solid, this will reduce Ssl and therefore,
+cos 0 may increase or 0 may decrease. In this
+case 0 is an acute angle. This is what happens
+for water on glass or on plastic and for kerosene
+oil on virtually anything (it just spreads). Soaps,
+detergents and dying substances are wetting
+agents. When they are added the angle of
+contact becomes small so that these may
+penetrate well and become effective. Water
+proofing agents on the other hand are added to
+create a large angle of contact between the water
+and fibres.
+
+10.6.4 Drops and Bubbles
+
+One consequence of surface tension is that free
+liquid drops and bubbles are spherical if effects
+of gravity can be neglected. You must have seen
+this especially clearly in small drops just formed
+in a high-speed spray or jet, and in soap bubbles
+blown by most of us in childhood. Why are drops
+and bubbles spherical? What keeps soap
+bubbles stable?
+
+As we have been saying repeatedly, a liquid-
+air interface has energy, so for a given volume
+the surface with minimum energy is the one with
+the least area. The sphere has this property.
+Though it is out of the scope of this book, but
+you can check that a sphere is better than at
+least a cube in this respect! So, if gravity and
+other forces (e. g. air resistance) were ineffective,
+liquid drops would be spherical.
+
+Another interesting consequence of surface
+tension is that the pressure inside a spherical
+drop Fig. 10.20(a) is more than the pressure
+outside. Suppose a spherical drop of radius r is
+in equilibrium. If its radius increase by Ar. The
+extra surface energy is
+
+[47c(r + Ar) 2- 47cr2] Sla = 87cr Ar Sla (10.25)
+
+If the drop is in equilibrium this energy cost is
+balanced by the energy gain due to
+expansion under the pressure difference (Pi — P0)
+between the inside of the bubble and the outside.
+The work done is
+
+W= (Pi — P0) 47512Ar (10.26)
+so that
+(Pi — P0) = (2 Sla/ r) (10.27)
+2019-20
+
+In general, for a liquid-gas interface, the
+convex side has a higher pressure than the
+concave side. For example, an air bubble in a
+liquid, would have higher pressure inside it.
+See Fig 10.20 (b).
+
+ 
+
+(a) (b)
+
+Fig. 1 0.20 Drop, cavity and bubble of radius r.
+
+A bubble Fig 10.20 (c) differs from a drop
+and a cavity; in this it has two interfaces.
+
+Applying the above argument we have for a
+bubble
+
+(P, — P0) = (4 s,,/ r) (10.28)
+
+This is probably why you have to blow hard,
+but not too hard, to form a soap bubble. A little
+extra air pressure is needed inside!
+
+10.6.5 Capillary Rise
+
+One consequence of the pressure difference
+across a curved liquid-air interface is the well-
+known effect that water rises up in a narrow
+tube in spite of gravity. The word capilla means
+hair in Latin; if the tube were hair thin, the rise
+would be very large. To see this, consider a
+vertical capillary tube of circular cross section
+(radius a) inserted into an open vessel of water
+(Fig. 10.21). The contact angle between water
+
+   
+
+(b)
+
+Fig. 1 0.21 Capillary rise, (a) Schematic picture of a
+narrow tube immersed water.
+(b) Enlarged picture near interface.

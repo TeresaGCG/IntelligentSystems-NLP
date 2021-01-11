@@ -1,0 +1,58 @@
+7p the ﬁeld falls off, at large distance, not as
+
+ 
+
+ 
+
+ 
+
+ 
+
+’ g , , - , ’ ’ f: j? 1 / r2 (typical of field due to a single charge)
+fix/x” ‘x" // but as l/r3.We, now, determine the electric
+q //’// [of] // potential due to a dipole and contrast it
+a? ” ' [,f‘ /// with the potential due to a single charge.
+"1.3" // As before, we take the origin at the
+a .z/ // centre of the dipole. Now we know that the
+E 9 If” /// electric field obeys the superposition
+2a 9’ // principle. Since potential is related to the
+PI O // 5 work done by the field, electrostatic
+5 // potential also follows the superposition
+a /// principle. Thus, the potential due to the
+// dipole is the sum of potentials due to the
+f’q charges q and —q
+V = 1 ﬂ _ ﬂ 2 9
+FIGURE 2.5 Quantities involved in the calculation 471280 r1 r2 ( ' )
+Of pomntlal due to a dlpOle' where r1 and r2 are the distances of the
+point P from q and —q, respectively.
+Now, by geometry,
+r12 = r2 + a2 — 2ar 0089
+r22 = r2 + a2 + 2ar cos0 (2.10)
+We take rmuch greater than a (r >> a) and retain terms only upto
+the first order in a/ r
+2
+r12 = r2 [1_ 2acos0 + 32]
+r r
+2a cos 6
+E 2(1-—) (2.11)
+r
+Similarly,
+r22 E r2 (1+ 2acos6] (2.12)
+r
+Using the Binomial theorem and retaining terms upto the ﬁrst order
+in a/ r ; we obtain,
+1 1 2acos0 _ 1/ 2 1 a
+—E— 1—— E— 1+—cos0 [2.l3(a)]
+r1 r r r r
+1 1 2a cos 6 _ 1/ 2 1 a
+—5— 1+— 5— l——cos9 [2.l3(b)]
+r2 r r r r
+Using Eqs. (2.9) and (2.13) and p = 2qa, we get
+q 2acos6 p cos6
+V : :
+47:80 r2 47E80r2 (2'14)
+56
+
+Now, p cos 0 = p.i'
+
+2019-20

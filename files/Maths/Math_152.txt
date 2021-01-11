@@ -1,0 +1,34 @@
+Homework Helpers: Basic Math and Pre-Algebra
+152
+Lesson 8-4 Review
+Solve the following inequalities:
+1.
+2. 3 < −4x− 8
+3. 3x> 5x− 8
+Lesson 8-5: Graphing Inequalities Using the Number Line
+The solutions to the inequalities in the last section were represented
+algebraically. The answer was not unique; there were many real numbers
+that satisfied the inequalities. We described the collection of these solu-
+tions with words, but a picture is worth a thousand words. It helps to
+understand the solution to an inequality by being able to visualize it. To
+do this, we will make use of the number line.
+Zero is one of the most important points on a number line. The point
+0 is called the origin. Negative numbers lie to the left of the origin, posi-
+tive numbers lie to the right. To draw a number line, draw a line with
+arrows pointing in both directions, and label a point 0. It’s best to keep
+your number lines simple. Some people start labeling lots of integers
+around 0, but I recommend only labeling points that are pertinent. And
+at this point, the only important point is 0. Take a look at my number line
+shown in Figure 8.1.
+0
+Figure 8.1
+A ray looks as if it’s a line that is cut in half. A ray has only one arrow;
+the other arrow has been cut off. It has a definite starting point, but it
+never ends. Any number on the number line can serve as a starting point
+for a ray. A ray either includes all of the numbers to the left of (or less
+than) the starting point or all of the numbers to the right of (or greater
+than) the starting point. The set of all numbers less than a given number
+is drawn as an arrow starting at the given number and pointing to the left.
+The set of all numbers greater than a given number is drawn as an arrow
+starting at the given number and pointing to the right.
+www.ebook3000.com

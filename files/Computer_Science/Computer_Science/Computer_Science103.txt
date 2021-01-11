@@ -1,0 +1,49 @@
+2.7 Supporting Procedures in Computer Hardware 87
+Allocating Space for New Data on the Heap
+e
+In addition to automatic variables that are local to procedures, programmers
+need space in memory for static variables and for dynamic data structures. Fig 
+ure 2.1 7 shows the MIPS convention for allocation of memory. The stack starts
+in the high end of memory and grows down. The first part of the low end of
+memory is reserved, followed by the home of the MIPS machine code, tradi 
+tionally called the text segment. Above the code is the static data segment, which text segment The segment ofa
+is the place for constants and other static variables. Although arrays tend to be Unix object file that contains the
+for
+machine language code rou 
+to a fixed length and thus are a good match to the static data segment, data
+tines in the source file.
+structures like linked lists tend to grow and shrink during their lifetimes. The
+segment for such data structures is traditionally called the heap, and it is placed
+next in memory. Note that this allocation allows the stack and heap to grow
+towa rd each other, thereby allowing the efficient use of memory as the two seg 
+ments wax and wane.
+e
+allocates and frees space on the heap with explicit functions. rna11 oc ( ) allo 
+cates space on the heap and returns a pointer to it, and f ree ( ) releases space on the
+stack to which the pointer points. Memory allocation is controlled by programs in
+e,
+and it is the source of many common and difficult bugs. Forgetting to free space
+,
+Stack
+I
+t
+Dynamic data
+,
+Sgp- lOOO BOOO Static data
+he
+,
+1000 OOOOhe
+Text
+,
+pc - 0040 OOOOhe
+Reserved
+o
+FIGURE 2.17 The MiPS memory allocation for program and data. These addresses are only a
+software convention,and not part of the MIPS architecture. Starting top down, the stack pointer is initial 
+ized to 7fff fffchex and grows down toward the data segment. At the other end, the program cooe
+("text") starts at 0040 OOOOhex. The static data starts at 1000 OOOOhex. Dynamic data,allocated by ma1  
+1oc in C and via new in Java, is next and grows up toward the stack in an area called the heap. The global
+pointer, $gp, is set to an address to make it easy to access data. It is initialized to 1000 BOOOhex so that it
+can access from 1000 OOOOhex to 1000 ffff using the positive and negative 16-bit offsets from Sgp
+hex
+(see two's complement addressing in Chapter 3).

@@ -1,0 +1,73 @@
+Electrostatic Potential
+
+and Capacitance
+
+ 
+
+is characteristic of the present state of conﬁguration, and not the way
+the state is achieved.
+
+Example 2.4 Four charges are arranged at the corners of a square
+ABCD of side d, as shown in Fig. 2.15.(a) Find the work required to
+put together this arrangement. (b) A charge qO is brought to the centre
+E of the square, the four charges being held fixed at its corners. How
+much extra work is needed to do this?
+
+ 
+
+FIGURE 2.15
+
+Solution
+
+(a) Since the work done depends on the final arrangement of the
+
+charges, and not on how they are put together, we calculate work
+
+needed for one way of putting the charges at A, B, C and D. Suppose,
+
+first the charge +q is brought to A, and then the charges —q, +q, and
+
+—q are brought to B, C and D, respectively. The total work needed can
+
+be calculated in steps:
+
+(i) Work needed to bring charge +q to A when no charge is present
+elsewhere: this is zero.
+
+(ii) Work needed to bring —q to B when +q is at A. This is given by
+(charge at B) X (electrostatic potential at B due to charge +q at A)
+
+=_qx q =_ <12
+4n80d 4n80d
+
+(iii) Work needed to bring charge +q to C when +q is at A and —q is at
+B. This is given by (charge at C) X (potential at C due to charges
+at A and B)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iv) Work needed to bring —q to D when +q at A,—q at B, and +q at C.
+This is given by (charge at D) X (potential at D due to charges at A,
+B and C)
+
+ 
+
+ 
+
+“I ‘q q
+= — + — +
+q £ 47ceod 4nsodx/i 4neod]
+
+ 
+
+v'z 5114qu
+
+2019-20
+
+63

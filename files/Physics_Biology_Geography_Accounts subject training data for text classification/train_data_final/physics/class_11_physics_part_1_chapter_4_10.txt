@@ -1,0 +1,94 @@
+MOTION IN A PLANE
+
+(a) (b)
+
+75
+
+ 
+
+Fig. 4.15 The average acceleration for three time intervals (a) Atl, [b] AtZ, and [0] M3, (At 1> At2> At3). [d] In the
+limitAt —> 0, the average acceleration becomes the acceleration.
+
+Note that in one dimension, the velocity and
+the acceleration of an object are always along
+the same straight line (either in the same
+direction or in the opposite direction).
+However, for motion in two or three
+dimensions, velocity and acceleration vectors
+may have any angle between 0° and 180°
+between them.
+
+} Example 4.4 The position of a particle is
+given by
+
+r = 3.0, i + 2.0th + 5.012
+Where tis in seconds and the coefficients
+
+have the proper units for r to be in metres.
+(a) Find v(t) and a(t) of the particle. (b) Find
+the magnitude and direction of v(t) at
+t= 1.0 s.
+
+ 
+
+Answer
+Cir C] A 2 A A
+v(t) =—=— 3.0 ti+2.0t j+5.0 k
+dt dt
+=3.oi+4.0t3
+dv .
+a (t) = — = +4.0j
+dt
+
+a = 4.0 m S'2 along y- direction
+
+At t= 1.0 s, v=3,oi+4,oj
+
+It’s magnitude is v = J32 + 42 = 5.0 m s’1
+and direction is
+
+4.8 MOTION IN A PLANE WITH CONSTANT
+ACCELERATION
+
+Suppose that an object is moving in x-y plane
+and its acceleration a is constant. Over an
+interval of time, the average acceleration will
+equal this constant value. Now, let the velocity
+of the object be v0 at time t= O and v at time t.
+
+Then, by definition
+
+v — vo v — v0
+t— o 2 t
+
+Or, v 2 v0 + at (4.3321)
+
+In terms of components :
+
+vx = on + axt
+W + ayt (4.33b)
+
+Let us now find how the position r changes with
+time. We follow the method used in the one-
+dimensional case. Let rn and r be the position
+vectors of the particle at time 0 and tand let the
+velocities at these instants be v0 and v. Then,
+over this time interval t, the average velocity is
+(vn + v) / 2. The displacement is the average
+velocity multiplied by the time interval :
+
+r_ro=(v+vo)t=[(vo+at)+vo]t
+
+ 
+
+ 
+
+a:
+
+vy=v
+
+ 
+
+2 2
+
+2019-20

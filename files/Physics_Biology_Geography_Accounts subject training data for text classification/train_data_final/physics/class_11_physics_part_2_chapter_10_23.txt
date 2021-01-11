@@ -1,0 +1,89 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+10.6
+
+10.7
+
+10.8
+
+10.9
+
+10.10
+
+10.11
+
+10.12
+
+10.13
+
+10.14
+
+10.15
+
+10.16
+
+10.17
+
+10.18
+
+Toricelli’s barometer used mercury. Pascal duplicated it using French wine of density
+984 kg m'3. Determine the height of the wine column for normal atmospheric
+pressure.
+
+A vertical off—shore structure is built to withstand a maximum stress of 109 Pa. Is
+the structure suitable for putting up on top of an oil well in the ocean ? Take the
+depth of the ocean to be roughly 3 km, and ignore ocean currents.
+
+A hydraulic automobile lift is designed to lift cars with a maximum mass of 3000
+kg. The area of cross—section of the piston carrying the load is 425 cm2. What
+maximum pressure would the smaller piston have to bear ?
+
+A U-tube contains water and methylated spirit separated by mercury. The mercury
+columns in the two arms are in level with 10.0 cm of water in one arm and 12.5 cm
+of spirit in the other. What is the specific gravity of spirit ?
+
+In the previous problem, if 15.0 cm of water and spirit each are further poured into
+the respective arms of the tube, what is the difference in the levels of mercury in
+the two arms ? (Specific gravity of mercury = 13.6)
+
+Can Bernoulli's equation be used to describe the ﬂow of water through a rapid in a
+river ? Explain.
+
+Does it matter if one uses gauge instead of absolute pressures in applying Bernoulli’s
+equation ? Explain.
+
+Glycerine ﬂows steadily through a horizontal tube of length 1.5 m and radius 1.0
+cm. If the amount of glycerine collected per second at one end is 4.0 x 10'3 kg s'l,
+what is the pressure difference between the two ends of the tube ? [Density of glycerine
+= 1 .3 x 103 kg m"3 and viscosity of glycerine = 0.83 Pa s]. [You may also like to check
+if the assumption of laminar ﬂow in the tube is correct].
+
+In a test experiment on a model aeroplane in a wind tunnel, the ﬂow speeds on the
+upper and lower surfaces of the wing are 70 m s'land 63 m s‘1 respectively. What is
+the lift on the wing if its area is 2.5 m2 ? Take the density of air to be 1.3 kg m's.
+
+Figures 10.23[a] and (b) refer to the steady ﬂow of a (non—viscous) liquid. Which of
+the two figures is incorrect ? Why ?
+
+   
+
+(b)
+
+Fig. 10.23
+
+The cylindrical tube of a spray pump has a cross—section of 8.0 cm2 one end of
+which has 40 fine holes each of diameter 1.0 mm. If the liquid ﬂow inside the tube
+is 1.5 m min—1, what is the speed of ejection of the liquid through the holes ?
+
+A U—shaped wire is dipped in a soap solution, and removed. The thin soap film
+formed between the wire and the light slider supports a weight of 1.5 x 10'2 N
+[which includes the small weight of the slider]. The length of the slider is 30 cm.
+What is the surface tension of the film ?
+
+Figure 10.24 (a) shows a thin liquid film supporting a small weight = 4.5 x 10'2 N.
+What is the weight supported by a film of the same liquid at the same temperature
+in Fig. (b) and [c] ? Explain your answer physically.
+
+2019-20
+
+273

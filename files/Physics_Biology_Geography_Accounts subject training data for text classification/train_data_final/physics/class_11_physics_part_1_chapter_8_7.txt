@@ -1,0 +1,113 @@
+190
+
+PHYSICS
+
+ 
+
+   
+
+4—Earth’s surface
+
+Fig. 8. 7 The mass m is in a mine located at a depth
+d below the surface of the Earth of mass
+ME and radius RE. We treat the Earth to be
+
+spherically symmetric.
+
+Again consider the earth to be made up of
+concentric shells as before and a point mass m
+situated at a distance r from the centre. The
+point P lies outside the sphere of radius r. For
+the shells of radius greater than r, the point P
+lies inside. Hence according to result stated in
+the last section, they exert no gravitational force
+on mass m kept at P. The shells with radius 3 r
+make up a sphere of radius r for which the point
+P lies on the surface. This smaller sphere
+therefore exerts a force on a mass m at P as if
+its mass Mris concentrated at the centre. Thus
+the force on the mass m at P has a magnitude
+
+Gm (Mr)
+
+F = —2 (8.9)
+r
+
+We assume that the entire earth is of uniform
+
+47;
+
+density and hence its mass is ME = g R: p
+
+where ME is the mass of the earth RE is its radius
+and p is the density. On the other hand the
+
+47$
+
+mass of the sphere Mrof radius r is ?P r3 and
+hence 4 3 M 3
+r T
+F = G m {—p I] —2 = G m —§ —2
+3 r RE r
+_ G m ME
+——;$T—r ﬁlm
+
+If the mass m is situated on the surface of
+earth, then r = RE and the gravitational force on
+it is, from Eq. (8.10)
+M Em
+
+R2
+
+ 
+
+F=G (sln
+
+2019-20
+
+The acceleration experienced by the mass m,
+which is usually denoted by the symbol 9 is
+related to F by Newton’s 2“ law by relation
+F= mg. Thus
+_ F _ GM E
+_ m _ R;
+
+Acceleration 9 is readily measurable. RE is a
+known quantity. The measurement of G by
+Cavendish’s experiment (or otherwise), combined
+with knowledge of g and RE enables one to
+estimate ME from Eq. (8. 12). This is the reason
+
+why there is a popular statement regarding
+Cavendish : “Cavendish weighed the earth”.
+
+ 
+
+g (8.12)
+
+8.6 ACCELERATION DUE TO GRAVITY
+BELOW AND ABOVE THE SURFACE OF
+EARTH
+
+Consider a point mass m at a height h above the
+surface of the earth as shown in Fig. 8.8(a). The
+radius of the earth is denoted by RE. Since this
+point is outside the earth,
+
+/ Earth's surface
+
+(a)
+
+Fig. 8.8 (a) g at a height h above the surface of the
+earth.
+
+its distance from the centre of the earth is (RE +
+h). If F(h) denoted the magnitude of the force
+on the point mass m , we get from Eq. (8.5) :
+
+F(h) _ GMEm
+
+_ m (8.13)
+
+The acceleration experienced by the point
+mass is F(h)/ ng(h) and we get

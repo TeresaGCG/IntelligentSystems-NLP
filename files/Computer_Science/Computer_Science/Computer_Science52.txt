@@ -1,0 +1,47 @@
+36 Chapter 1 Computer Abstractions and Technology
+Chapter 6 describes how processor pipelining exploits parallelism, and Chapter 7
+describes how the memory hierarchy exploits locality. The remaining chapters
+provide the introduction and the conclusion to this material. Chapter 2 describes
+instruction sets- the interfa ce between compilers and the machine-a nd empha 
+sizes the role ofcompilers and programming languages in using the features ofthe
+instruction set. Chapter 3 describes how computers perform arithmetic opera 
+tions and handle arithmetic data. Chapter 4 covers performance and thus
+describes how to evaluate the whole computer. Chapter 9 describes multiproces 
+sors and is included on the CD. Appendix B, also on the CD, discusses logic
+design.
+An activefield ofscience is
+like immense anthill; the
+all
+individual almost vanishes
+Historical Perspective and Further
+i1lto the mass ofminds tum 
+bling over each other, carry  Reading
+ing information from place
+to place, passing itaround at
+For each chapter in the text, a section devoted to a historical perspective can be
+the speed oflight.
+found on the CD that accompanies this book. We may trace the development of
+Lewis Thomas,"Natural an idea through a series of machines or describe some important projects, and we
+Science:' in The Lives ofa Cell,
+provide references in case you are interested in probing further.
+1974
+The historical perspective for this chapter provides a background for some of
+the key ideas presented in this opening chapter. Its purpose is to give you the
+human story behind the technological advances and to place achievements in
+their historical context. By understanding the past, you may be better able to
+understand the forces that will shape computing in the future. Each historical per 
+spectives section on the CD ends with suggestions for further reading, which are
+also collected separately on the CD under the section "Further Reading." The rest
+'II
+of this Section 1.7 is on the CD.
+Exercises
+The relative time ratings of exercises are shown in square brackets after each exer 
+cise number. On average, an exercise rated (10 ) will take you twice as long as one
+rated [5J . Sections of the text that should be read before attempting an exercise
+will be given in angled brackets; for example, <§ 1.2> means you should have read
+Section 1.3, "Under the Covers;' to help you solve this exercise. If the solution to
+an exercise depends on others, they will be listed in curly brackets; for example,
+{Ex.I.I } mea ns that you should answer Exercise 1.1 before trying this exercise.
+II
+In More Depth Exercises introduce a new topic or explore a topic in more
+detail. Such exercises include sufficient background to understand the concepts, as

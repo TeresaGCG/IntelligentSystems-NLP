@@ -1,0 +1,40 @@
+Linear Functions and Graphs
+161
+Relations can also be specified by writing a formula and using vari-
+ables to represent the input and the output. A formula gives a set of
+specific instructions about what to do with the input value. A formula is
+an equation where one side of the equal sign is the dependent variable
+and the other side of the equal sign consists of an algebraic expression
+that only involves the independent variable. For example, if x represents
+the input of our relation, or independent variable, and y represents the
+output, or the dependent variable, of our relation, the formula y = 2x + 1
+specifies a relation between x and y. You could use this formula to calcu-
+late the output for various values of the input. Having a formula enables
+you to completely describe a relation without having to list every single
+ordered pair in the relation.
+Relations that are described using words are very important in apply-
+ing mathematics to our everyday lives. For example, if your cellular phone
+plan costs $35 per month for up to 300 minutes and 39 cents for every
+minute over 300, you can use this relationship to calculate your monthly
+phone bill.
+Relations can be described graphically. The graph of a relation helps
+you visualize that relation so that you can understand its properties more
+thoroughly. For example, you could look at a graph of the price of a
+particular stock over time and decide whether to buy more shares of that
+stock.
+A function is similar to a relation in that it is a rule that establishes a
+relationship between two quantities and has an input and an output. The
+input is still called the domain, and the output is still called the range or
+the co-domain. The variable used to describe the elements in the domain
+is called the independent variable, and the variable used to describe the
+elements in the range is called the dependent variable. But there’s more
+to a function than there is to a relation.
+With a relation, the same input value could result in two different
+output values. With a function, this is not allowed. The feature that dis-
+tinguishes a function from a relation is that with a function, each input
+value is assigned a unique output value. We tend to focus on functions
+more than relations because of this extra stipulation.
+It is easy to become attached to algebraic expressions and give them
+names. I told you in the beginning of this chapter that as soon as you name
+an algebraic expression, a function is born. Unfortunately, mathematicians
+aren’t very clever with their names; y and ƒ(x) are the most common.

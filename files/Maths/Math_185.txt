@@ -1,0 +1,33 @@
+Algebra and Geometry
+185
+Example 4
+The length of a rectangle is three times its width. If the perimeter
+of the rectangle is 64 centimeters, find the dimensions of the
+rectangle.
+Solution: Let x represent the width of the rectangle, which is the
+shorter of the two sides. The length of the rectangle will be 3x,
+because we were told that the length is three times its width. The
+perimeter of the rectangle will be 3x+ 3x+x+x= 64. We can then
+solve for x:
+So, the width of the rectangle is 8 centimeters long, and the length
+of the rectangle is 24 centimeters long. We can write the dimensions
+of a rectangle as either the length by the width or the width by the
+length. We usually write the smaller of the two first. We would
+write that this rectangle is 8 centimeters by 24 centimeters.
+There is a very important property that applies to the perimeter of
+every triangle. It is called the triangle inequality. The triangle inequality
+states that if you add up the lengths of any two sides of a triangle, your
+answer will always be greater than the length of the third side. The tri-
+angle inequality can be used to determine whether a particular triangle
+can exist or not. For example, it is not possible to have a triangle with
+side lengths of 3, 5, and 10 because, if you add the two shorter side lengths
+together you will get 8, and 8 < 10. Because a triangle with side lengths of
+3, 5, and 10 violates the triangle inequality, such a triangle cannot exist.
+You don’t have to take my word for it. Try to make a triangle with these
+side lengths.
+Lesson 10-3 Review
+Solve the following problems:
+1. The length of a rectangle is 15 inches and its width is 30 inches.
+Find the perimeter of the rectangle.
+2. The length of a rectangle is 10 centimeters and the perimeter is 45
+centimeters. Find the width of the rectangle.

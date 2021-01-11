@@ -1,0 +1,108 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+269
+
+ 
+
+and glass is acute. Thus the surface of water in
+the capillary is concave. This means that
+there is a pressure difference between the
+two sides of the top surface. This is given by
+
+(P.- — Pa) =(2S/ r) = 2S/(a sec 6)
+= (2S/a) cos 0 (10.29)
+
+Thus the pressure of the water inside the
+tube, just at the meniscus (air—water interface)
+is less than the atmospheric pressure. Consider
+the two points A and B in Fig. 10.21(a). They
+must be at the same pressure, namely
+
+P0+ hpg=Pi=PA (10.30)
+where p is the density of water and h is called
+the capillary rise [Fig. 10.2 1(a)]. Using
+Eq. (10.29) and (10.30) we have
+
+hpg=(Pi—P0)=(2Scos0)/a (10.31)
+
+The discussion here, and the Eqs. (10.26) and
+(10.27) make it clear that the capillary rise is
+due to surface tension. It is larger, for a smaller
+a. Typically it is of the order of a few cm for fine
+capillaries. For example, if a = 0.05 cm, using
+
+the value of surface tension for water (Table
+10.3), we find that
+
+h=2S/(pga)
+
+= 2X(0.073 N m'l)
+(103 kgm'3) (9.8 ms'2)(5 X 10'4 m)
+
+ 
+
+= 2.98 x 10‘2 m = 2.98 cm
+
+Notice that if the liquid meniscus is convex,
+as for mercury, i.e., if cos 0 is negative then from
+Eq. (1 0.30) for example, it is clear that the liquid
+will be lower in the capillary !
+
+10.6.6 Detergents and Surface Tension
+
+We clean dirty clothes containing grease and oil
+stains sticking to cotton or other fabrics by
+adding detergents or soap to water, soaking
+clothes in it and shaking. Let us understand
+this process better.
+
+Washing with water does not remove grease
+stains. This is because water does not wet greasy
+dirt; i.e., there is very little area of contact
+between them. If water could wet grease, the ﬂow
+of water could carry some grease away.
+Something of this sort is achieved through
+detergents. The molecules of detergents are
+
+hairpin shaped, with one end attracted to water
+and the other to molecules of grease, oil or wax,
+thus tending to form water-oil interfaces. The result
+is shown in Fig. 10.22 as a sequence of ﬁgures.
+
+In our language, we would say that addition
+of detergents, whose molecules attract at one
+end and say, oil on the other, reduces drastically
+the surface tension S (water-oil). It may even
+become energetically favourable to form such
+interfaces, i.e., globs of dirt surrounded by
+detergents and then by water. This kind of
+process using surface active detergents or
+surfactants is important not only for cleaning,
+but also in recovering oil, mineral ores etc.
+
+Soap molecules
+
+ 
+
+Detergent is added, the 'inert' waxy ends
+of its molecules are attracted to boundary
+where water meets dirt.
+
+ 
+
+Inert ends surround dirt and the platter dirt
+can now be dislodged say by moving water.
+
+  
+     
+
+TrTITITITITITITITITITITITITITITITITITITITITITITI rTrTmTITITITITITITITITITIT
+—
+
+Dirt is held suspended, surrounded
+by soap molecules.
+
+Fig. 10.22 Detergent action in terms of what
+detergent molecules do.
+
+2019-20

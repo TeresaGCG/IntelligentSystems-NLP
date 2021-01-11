@@ -1,0 +1,36 @@
+2.7 Supporting Procedures In Computer Hardware 85
+Next, the value register $vO gets the product of old argument $aO and the
+current value of the value register. We assume a multiply instruction is avail 
+able, even though it is not covered until Chapter 3:
+mul $vO , $aO , hO It return n * fact (n - 1)
+Finally, f act jumps again to the return address:
+Ira # return to the caller
+A C variable is a location in storage, and its interpretation depends both on its type Hardware
+and storage class. Types are discussed in detail in Chapter 3, but examples include
+Software
+integers and characters. C has two storage classes: automatic and static. Automatic
+Interface
+variables are local to a procedure and are discarded when the procedure exits. Static
+variables exist across exits from and entries to procedures. C variables declared out 
+side all procedures are considered static, as are any variables declared using the key 
+word static. The rest are automatic. To simplify access to static data, MIPS
+software reserves another register, called the global pointer, or $9p. global pointer The register
+that is reserved to point to static
+data.
+Figure 2.1 5 summarizes what is preserved across a procedure call. Note that sev 
+eral schemes preserve the stack. The stack above $s p is preserved simply by making
+sure the callee does not write above $s p; $s P is itself preserved by the callee adding
+exactly the same amount that was subtracted from it, and the other registers are pre 
+served by saving them on the stack (if they are used) and restoring them from there.
+These actions also guarantee that the caller will get the same data back on a load
+from the stack as it put into the stack on a store because the callee promises to pre 
+serve $s p and because the callee also promises not to modify the caller's portion of
+the stack, that is, the area above the $spat the time of the call.
+Preserved Not preserved
+Saved registers: $sO-$ s7 Temporal}' registers: HO-$t9
+Stack pointer register: $sp Argument registers: $aO-$ a3
+Return address register: $r d Return value registers: SVO-SV 1
+Stack above the stack pointer Stack below the stack pointer
+FIGURE 2.15 What Is and what Is not preserved across a procedure call. If the software
+relies on the frame pointer register or on the global pointer register, discussed in the following sections,
+they are also preserved.

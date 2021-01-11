@@ -1,0 +1,43 @@
+7.5 A Common Framework for Memory Hierarchies 539
+typical values Typical values typical values for typical values
+Feature for Ll caches for L2 caches paged memory for a TlB
+Total size in blocks 250- 2000 4000-250,000 16,000-250,000 16-512
+'EM;'
+Total size in kilobytes 500-8000 250,000-1,000,000,000 0 .25-16
+Block size in bytes 32-64 32-128 4000-64,000 4-32
+Miss penalty in clocks 10- 25 100-1000 10,ooo,O()(}-'100,OOO,OOO 10-1000
+Miss rates (global for L2) 296-5% 0 .196-296 0.00001%-0.000196 0.0196-296
+FIGURE 7.29 The key quantitative design parameters that characterize the major elements of memory hierarchy In a com 
+puter. These are typical values for these levels as of 2004. Although the range ofvalues is wide, this is partially because many of the values that have
+shifted over time are related; for example, as caches become larger to overcome larger miss penalties, block sizes also grow.
+15%
+~
+12%
+2 KB -----1"...... _
+9%
+~ ~
+-
+•
+, KB
+.0
+-
+" 6%
+8 KB
+-
+3% ~__'~5KB
+ol--:.2"~~3~22~R~B~;,~'-;~6~4 K~B~;_~' ;/~1~2~B K~B~~~
+One-way Two-way Four-way Eight-way
+Associativity
+FIGURE 7.30 The data cache miss rates for each of eight cache sizes Improve as the
+associativity Increases. While the benefit of going from one-way (direct-mapped) to two-way set
+associative is significant, the benefits offurther associativity are smaller (e.g., 1%- 10% going from t\loU-way
+to four-way versus 20%--30% improvement going from one-way to two-way). There is even less improve 
+ment in going from four-way to eight-way set associative, which, in turn, comes very dose to the miss rates
+of a fully associative cache. Smaller caches obtain a significantly larger absolute benefit from associativity
+because the base miss rate ofa small cache is larger. Figure 7.15 explains how this data was collected.
+KB to 512 KB, varying from direct mapped to eight-way set associative. The larg 
+est gains are obtained in going from direct mapped to two-way set associative,
+which yields between a 20% and 30% reduction in the miss rate. As cache sizes
+grow, the relative improvement from associativity increases only slightly; since the
+overall miss rate of a larger cache is lower, the opportunity for improving the miss
+rate decreases and the absolute improvement in the miss rate from associativity

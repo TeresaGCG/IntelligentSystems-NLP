@@ -1,0 +1,37 @@
+5.1 Introduction 285
+A Basic MIPS Implementation
+We will be examining an implementation that includes a subset of the core MIPS
+instruction set:
+• The memory-reference instructions load word (l w) and store word (s w)
+• The arithmetic-logical instructions add, sub, and, r, and s 1t
+0
+• The instructions branch equal (beq) and jump (j), which we add last
+This subset does not include all the integer instructions (for example, shift, multi 
+ply, and divide are missing), nor does it include any floating-point instructions.
+However, the key principles used in creating a datapath and designing the control
+will be illustrated. The implementation of the remaining instructions is similar.
+In exa mining the implementation, we will have the opportunity to see how the
+instruction set architecture determines many aspects of the implementation, and
+how the choice of various implementation strategies affects the clock rate and CPI
+for the machine. Many of the key design principles introduced in Chapter 4 can be
+illustrated by looking at the implementation, such as the guidelines Make the com 
+mall case fast and Simplicity favors regularity. In addition, most concepts used to
+implement the MIPS subset in this chapter and the next are the same basic ideas
+that are used to construct a broad spectrum of computers, from high-perfor 
+mance servers to general-purpose microprocessors to embedded processors,
+which are used increasingly in products ranging from VCRs to automobiles.
+An Overview of the Implementation
+In Chapters 2 and 3, we looked at the core MIPS instructions, including the inte 
+ger arithmetic-logical instructions, the memory-reference instructions, and the
+branch instructions. Much of what needs to be done to implement these instruc 
+tions is the same, independent of the exact class of instruction. For every instruc 
+tion, the first two steps are identical:
+1. Send the program counter (PC) to the memory that contains the code and
+fetch the instruction from that memory.
+2. Read one or two registers, using fields of the instruction to select the regis 
+ters to read. For the load word instruction, we need to read only one regis 
+ter, but most other instructions require that we read two registers.
+After these two steps, the actions required to complete the instruction depend on
+the instruction class. Fortunately, for each of the three instruction classes (mem 
+ory-reference, arithmetic-logical, and branches), the actions are largely the same,
+independent of the exact opcode.

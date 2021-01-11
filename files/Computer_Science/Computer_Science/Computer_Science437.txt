@@ -1,0 +1,42 @@
+6.6 Branch Hazards 421
+Dynamic Branch Prediction
+Assuming a branch is not taken is one simple form of branch prediction. In that
+case, we predict that branches are untaken, flushing the pipeline when we are
+wrong. For the simple five-stage pipeline, such an approach, possibly coupled with
+compiler-based prediction, is probably adequate. With deeper pipelines, the
+branch penalty increases when measured in clock cycles. Similarly, with multiple
+issue, the branch penalty increases in terms of instructions lost. This combination
+means that in an aggressive pipeline, a simple static prediction scheme will proba 
+bly waste too much performance. As we mentioned in Section 6.1 , with more hard 
+wa re it is possible to try to predict branch behavior during program execution.
+One approach is to look up the address of the instruction to see if a branch was
+taken the last time this instruction was executed, and, if so, to begin fetching new
+instructions from the same place as the last time. This technique is called dynamic dynamic branch
+branch prediction. prediction Prediction of
+branches at runtime using run 
+One implementation of that approach is a branch prediction buffer or branch
+time information.
+history table. A branch prediction buffer is a small memory indexed by the lower
+portion of the address of the branch instruction. The memory contains a bit that branch prediction buffer
+says whether the branch was recently taken or not. Also called branch history
+table. A small memory that is
+This is the simplest sort of buffer; we don't know, in fact, if the prediction is the
+indexed by the lower portion of
+right one-it may have been put there by another branch that has the same low 
+the address of the branch
+order address bits. But this doesn't affect correctness. Prediction is just a hint that
+instruction and that contains
+is assumed to be correct, so fetching begins in the predicted direction. If the hint
+one or more bits indicating
+turns out to be wrong, the incorrectly predicted instructions are deleted, the pre 
+whether the branch was recently
+diction bit is inverted and stored back, and the proper sequence is fetched and taken or not.
+executed.
+This simple I-bit prediction scheme has a performance shortcoming: even if a
+branch is almost always taken, we will likely predict incorrectly twice, rather than
+once, when it is not taken. The following example shows this dilemma.
+Loops and Prediction
+EXAMPLE
+Consider a loop branch that branches nine times in a row, then is not taken
+once. What is the prediction accuracy for this branch, assuming the predic 
+tion bit for this branch remains in the prediction buffer?

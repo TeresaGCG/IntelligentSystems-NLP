@@ -1,0 +1,32 @@
+6.2 A Plpellned Datapath 385
+IF: Instruction fetch 10: Instruction docodol I EX: EXGCUtel MEM: Memory access WB:Write back
+register file road : address calculation
+,
+,
+,
+,
+, ,
+'--,
+o
+•
+"'_0
+:
+, pc
+~ I"",ruction
+1_ "",,1on
+momory
+FtGURE 6.9 The single-cycle datapath from Chapter 5 (similar to Figure 5.17 on page 307). Each step of the instruction can be
+mapped onto the datapath from left to right. The only exceptions are the update of the PC and the write-back step, shown in color, which sends either
+theALU result or the data from memoryto the left to be written into the register file. (Normally we use color lines for control, but these are data lines.)
+must separate the datapath into five pieces, with each piece named corresponding
+to a stage of instruction execution:
+I. IF: Instruction fetch
+2. ID: Instruction decode and register file read
+3. E.X: Execution or address calculation
+4. MEM: Data memory access
+5. WB: Write back
+In Figure 6.9, these five components correspond roughly to the way the data 
+path is drawn; instructions and data move generally from left to right through the
+five stages as they complete execution. Going back to our laundry analogy, clothes
+get cleaner, drier, and more organized as they move through the line, and they
+never move backwards.

@@ -1,0 +1,54 @@
+Issue and Redemption of Debentures 77
+
+Solution:
+
+Books of ABC Limited
+Journal
+
+Bank A/c 2, 70, 000
+To 12% Debenture Application A/c
+(Application money on 9,000 debentures received) 2,70,000
+
+12% Debenture Application A/c . 2,70,000
+To 12% Debentures A/c 2,70,000
+(Application money transferred to debentures
+
+Account on allotment)
+
+12% Debenture Allotment A/c Dr. 6,30,000
+
+To 12% Debentures A/c 6,30,000
+(Amount due on 9,000 debentures on allotment
+@ Rs 70 per debenture)
+
+Bank A/c . 630,000
+To 12% Debenture Allotment A/c 6,30,000
+(Amount received on allotment)
+
+ 
+
+ABC Limited
+*Balance Sheet as at
+
+unt
+No.
+I. Equity and Liabilities
+Non-current liabilities 1 9—_ 00. 000
+Long-term borrowings
+II. Assets
+Current assets
+Cash and cash equivalents 2 9—. 00. 000
+
+* Relevant data only
+
+ 
+
+Notes to Accounts
+
+Long- term borrowings
+9, 000, 12% Debentures of Rs 100 each 9.00.000
+
+ 
+
+Cash and cash equivalents
+Cash at bank 9 00 000

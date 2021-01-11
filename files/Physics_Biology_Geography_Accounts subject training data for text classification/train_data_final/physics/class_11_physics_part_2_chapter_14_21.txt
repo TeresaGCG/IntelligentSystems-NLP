@@ -1,0 +1,86 @@
+362
+
+10.
+
+ll.
+
+12.
+
+14.1
+
+14.2
+
+14.3
+
+PHYSICS
+
+From point 4 above. given amplitude or energy. phase of motion is determined by the
+initial position or initial velocity.
+
+A combination of two simple harmonic motions with arbitrary amplitudes and phases
+is not necessarily periodic. It is periodic only if frequency of one motion is an integral
+multiple of the other's frequency. However. a periodic motion can always be expressed
+as a sum of infinite number of harmonic motions with appropriate amplitudes.
+
+The period of SHM does not depend on amplitude or energy or the phase constant.
+Contrast this with the periods of planetary orbits under gravitation [Kepler's third
+law).
+
+The motion of a simple pendulum is simple harmonic for small angular displacement.
+
+For motion of a particle to be simple harmonic. its displacement xmust be expressible
+in either of the following forms :
+
+x=Acos wt + Bsin wt
+x=Acos[wt+a).x= Bsin[wt+ﬁ)
+
+The three forms are completely equivalent (any one can be expressed in terms of any
+other two forms).
+
+Thus. damped simple harmonic motion [Eq. [14.31)] is not strictly simple harmonic. It
+is approximately so only for time intervals much less than 2m/ b where b is the damping
+constant.
+
+In forced oscillations. the steady state motion of the particle (after the forced oscillations
+die out) is simple harmonic motion whose frequency is the frequency of the driving
+frequency cod. not the natural frequency a) of the particle.
+
+In the ideal case of zero damping, the amplitude of simple harmonic motion at resonance
+is infinite. Since all real systems have some damping. however small. this situation is
+never observed.
+
+Under forced oscillation. the phase of harmonic motion of the particle differs from the
+phase of the driving force.
+
+ 
+
+Exercises
+
+Which of the following examples represent periodic motion?
+
+(a) A swimmer completing one (return) trip from one bank of a river to the other
+and back.
+
+(b) A freely suspended bar magnet displaced from its N—S direction and released.
+
+[0) A hydrogen molecule rotating about its centre of mass.
+
+[(1) An arrow released from a bow.
+
+Which of the following examples represent (nearly) simple harmonic motion and
+
+which represent periodic but not simple harmonic motion?
+
+(a) the rotation of earth about its axis.
+
+(b) motion of an oscillating mercury column in a U—tube.
+
+(c) motion of a ball bearing inside a smooth curved bowl, when released from a
+point slightly above the lower most point.
+
+(d) general vibrations of a polyatomic molecule about its equilibrium position.
+
+Fig. 14.23 depicts four x—t plots for linear motion of a particle. Which of the plots
+represent periodic motion? What is the period of motion (in case of periodic motion) ?
+
+2019-20

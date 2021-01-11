@@ -1,0 +1,38 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 447
+Modern, high-performance microprocessors are capable of issuing several Understanding
+instructions per clock; unfortunately, sustaining that issue rate is very difficult.
+Program
+For example, despite the existence of processors with four to six issues per clock,
+Performance
+very few applications can sustain more than two instructions per clock. There are
+two primary reasons for this.
+First, within the pipeline, the major performance bottlenecks arise from
+dependences that cannot be alleviated, thus reducing the parallelism among
+instructions and the sustained issue rate. Although little ca n be done about true
+data dependences, often the compiler or hardware does not know precisely
+whether a dependence exists or not, and so must conservatively assume the
+dependence exists. For example, code that makes use of pointers, particularly in
+ways that create more aliasing, will lead to more implied potential dependences.
+In contrast, the greater regularity of array accesses often allows a compiler to
+deduce that no dependences exist. Similarly, branches that cannot be accurately
+predicted whether at runtime or compile time will limit the ability to exploit ILP.
+Often additional ILP is available, but the ability of the compiler or the hardware to
+find ILP that may be widely separated (sometimes by the execution of thousands
+of instructions) is limited.
+Second, losses in the memory system (the topic of Chapter 7) also limit the
+ability to keep the pipeline full. Some memory system stalls can be hidden, but
+limited amounts of ILP also limit the extent to which such stalls can be hidden.
+State whether the following techniques or components are associated primarily Check
+with a software- or hardware-based approach to exploiting ILP. In some cases, the Yourself
+answer may be both.
+I. Branch prediction
+2. Multiple issue
+3. VLIW
+4. Superscalar
+5. Dynamic scheduling
+6. Out-of-order execution
+7. Speculation
+8. EPIC
+9. Reorder buffer
+10. Register renaming
+II. Predication

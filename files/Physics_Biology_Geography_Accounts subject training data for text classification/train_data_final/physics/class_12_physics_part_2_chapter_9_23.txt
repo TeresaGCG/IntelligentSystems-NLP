@@ -1,0 +1,56 @@
+l Physics
+
+ 
+
+9.7 SOME NATURAL PHENOMENA DUE TO SUNLIGHT
+
+The Interplay of light with things around us gives rise to several beautiful
+phenomena. The spectacles of colours that we see around us all the time
+is possible due to sunlight.
+
+While studying dispersion of visible (or white) light by a prism
+(Class X) and the electromagnetic spectrum (Chapter 8, Class XII), we
+got to know that colour is associated with the frequency of light or the
+wavelength of light in the given medium. In the visible spectrum, red
+light is at the long wavelength end (~ 700 nm) while the violet light is at
+the short wavelength end (~ 400 nm). Dispersion takes place because
+the refractive index of medium for different frequencies (colours) is
+different. For example, the bending of red component of white light is
+least while it is most for the violet. Equivalently, red light travels faster
+than Violet light in a glass prism. Table 9.2 gives the refractive indices for
+different wavelength for crown glass and ﬂint glass. Thick lenses could
+be assumed as made of many prisms, therefore, thick lenses show
+chromatic aberration due to dispersion of light. When white light passes
+through thick lenses, red and blue colours focus at different points. This
+phenomenon is known as chromatic aberration.
+
+TABLE 9.2 REFRACTIVE INDICES FOR DIFFERENT WAVELENGTHS
+
+Violet
+Blue
+
+Yellow
+
+Red
+
+332
+
+396.9 1.533 1.663
+486.1 1.523 1.639
+589.3 1.517 1.627
+656.3 1.515 1.622
+
+The variation of refractive index with wavelength may be more
+pronounced in some media than the other. In vacuum, of course, the
+speed of light is independent of wavelength. Thus, vacuum (or air
+approximately) is a non-dispersive medium in which all colours travel
+with the same speed. This also follows from the fact that sunlight reaches
+us in the form of white light and not as its components. On the other
+hand, glass is a dispersive medium.
+
+The blue of the sky, white clouds, the red-hue at sunrise and sunset,
+the rainbow, the brilliant colours of some pearls, shells, and wings of
+birds, are just a few of the natural wonders we are used to. We describe
+some of them here from the point of view of physics.
+
+2019-20

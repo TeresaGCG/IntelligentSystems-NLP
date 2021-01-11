@@ -1,0 +1,18 @@
+Ratios, Proportions, and Percents
+127
+Example 4
+One cubic centimeter of gold has a mass of 19.3 grams. A gold
+bar held in the Federal Reserve Bank is 727.9 cubic centimeters.
+Find the mass of a gold bar.
+Solution: Let x represent the mass of a gold bar. Then 1 cubic
+centimeter is to 19.3 grams as 727.9 cubic centimeters is to x. Use
+this information to set up a proportion:
+Now cross-multiply and solve for x:
+So, one gold bar has a mass of 14,048.47 grams.
+Example 5
+One pound corresponds to a mass of 454 grams. How much does
+a gold bar weigh?
+Solution: Let x represent the weight of a gold bar. Set up a
+proportion for this problem. One pound is to 454 grams as x pounds
+is to 14,048.47 grams:
+Cross-multiply and solve for x:

@@ -1,0 +1,36 @@
+134 Chapter 2 Instructions: Language of the Computer
+The version on the left must have the "multiply" and add inside the loop because i
+is incremented and each address must be recalculated from the new index; the
+memory pointer version on the right increments the pointer p directly. The
+pointer version reduces the instructions executed per iteration from 7 to 4. This
+manual optimization corresponds to the compiler optimization of strength reduc 
+tion (shift instead of multiply) and induction variable elimination (eliminating
+array address calculations within loops).
+Elaboration: The C compiler would add a test to be sure that s i ze is greater than O.
+One way would be to add a jump just before the first instruction of the loop to the s1t
+instruction.
+Understanding People used to be taught to use pointers in C to get greater efficiency than avail 
+able with arrays: "Use pointers, even if you can't understand the code." Modern
+Program
+optimizing compilers can produce just as good code for the array version. Most
+Performance
+programmers today prefer that the compiler do the heavy lifting.
+Beallty is altogether ill the
+eye ofthe beholder.
+Real Stuff: IA·32 Instructions
+Margaret \Volfe Hungerford,
+Molly Bawn, 1877
+Designers of instruction sets sometimes provide more powerful operations than
+those found in MIPS. The goal is generally to reduce the number of instructions
+executed by a program. The danger is that this reduction ca n occur at the cost of
+simplicity, increasing the time a program takes to execute because the instructions
+are slower. This slowness may be the result of a slower clock cycle time or of
+requiring more clock cycles than a simpler sequence (see Section 4.8).
+The path toward operation complexity is thus fraught with peril. To avoid these
+problems, designers have moved toward simpler instructions. Section 2. 17 dem 
+onstrates the pitfalls of complexity.
+The Intel IA·32
+MIPSwas the vision of a single small group in 1985; the pieces of this architecture
+fit nicely together, and the whole architecture can be described succinctly. Such is
+not the case for the IA-32; it is the product of several independent groups who
+evolved the architecture over almost 20 years, adding new features to the original

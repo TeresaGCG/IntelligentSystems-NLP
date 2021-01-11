@@ -1,0 +1,41 @@
+7.3 Measuring and Improving Cache Performance 507
+The design considerations for a primary and secondary cache are significa ntly
+different because the presence of the other cache changes the best choice versus a
+single-level cache. In particular, a two-level cache structure allows the primary
+cache to focus on minimizing hit time to yield a shorter clock cycle, while allow 
+ing the secondary cache to focus on miss rate to reduce the penalty of long mem 
+ory access times.
+The interaction of the two caches permits such a focus. The miss penalty of the
+primary cache is significantly reduced by the presence of the secondary cache,
+allowing the primary to be smaller and have a higher miss rate. For the secondary
+cache, access time becomes less important with the presence of the primary cache,
+since the access time of the secondary cache affects the miss penalty of the pri 
+mary cache, rather than directly affecting the primary cache hit time or the pro 
+cessor cycle time.
+The effect of these changes on the two caches can be seen by comparing each
+cache to the optimal design for a single level of cache. In comparison to a single 
+level cache, the primary cache of a multilevel cache is often smaller. Furthermore, multilevel cache A memory
+the primary cache often uses a smaller block size, to go with the smaller cache size hierarchy with multiple levels of
+caches, rather than just a cache
+and reduced miss penalty. In comparison, the secondary cache will often be larger
+and main memory.
+than in a single-level cache, since the access time of the secondary cache is less
+critical. With a larger total size, the secondary cache often will use a larger block
+size than appropriate with a single-level cache
+In Chapter 2, we saw that Quicksort had an algorithmic advantage over Bubble Understanding
+Sort that could not be overcome by language or compiler optimization. Figure
+Program
+7.18(a) shows instructions executed by item searched for Radix Sort versus Quick 
+Performance
+sort. Indeed, for large arrays, Radix Sort has an algorithmic advantage over quick 
+sort in terms of number of operations. Figure 7. 18(b) shows time per key instead
+of instructions executed. We see that the lines start on the same trajectory as Fig 
+ure 7.18(a), but then the Radix Sort line diverges as the data to sort increases.
+What is going on? Figure 7.1 8(c) answers by looking at the cache misses per item
+sorted: Quicksort consistently has many fewer misses per item to be sorted.
+Alas, standard algorithmic analysis ignores the impact of the memory hierar 
+chy. As faster clock rates and Moore's law allow architects to squeeze all of the per 
+formance out of a stream of instructions, using the memory hierarchy well is
+critical to high performance. As we said in the introduction, understanding the
+behavior of the memory hierarchy is critical to understanding the performance of
+programs on today's computers.

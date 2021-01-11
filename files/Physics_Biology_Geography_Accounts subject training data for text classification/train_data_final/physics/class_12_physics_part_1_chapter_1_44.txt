@@ -1,0 +1,74 @@
+Electric Charges
+and Fields
+
+10.
+
+ 
+
+POINTS TO PONDER
+
+You might wonder why the protons, all carrying positive charges, are
+compactly residing inside the nucleus. Why do they not ﬂy away? You
+will learn that there is a third kind of a fundamental force, called the
+strong force which holds them together. The range of distance where
+this force is effective is, however, very small ~ 10’14 m. This is precisely
+the size of the nucleus. Also the electrons are not allowed to sit on
+top of the protons, i.e. inside the nucleus, due to the laws of quantum
+mechanics. This gives the atoms their structure as they exist in nature.
+
+Coulomb force and gravitational force follow the same inverse-square
+law. But gravitational force has only one sign [always attractive), while
+Coulomb force can be of both signs [attractive and repulsive), allowing
+possibility of cancellation of electric forces. This is how gravity, despite
+being a much weaker force, can be a dominating and more pervasive
+force in nature.
+
+The constant of proportionality k in Coulomb's law is a matter of
+choice if the unit of charge is to be defined using Coulomb’s law. In SI
+units, however, what is defined is the unit of current (A) via its magnetic
+effect (Ampere's law) and the unit of charge (coulomb) is simply defined
+by [IC = l A s]. In this case, the value of k is no longer arbitrary; it is
+approximately 9 X 109 N m2 CH2.
+
+The rather large value of k, i.e., the large size of the unit of charge
+(1C) from the point of view of electric effects arises because [as
+mentioned in point 3 already) the unit of charge is defined in terms of
+magnetic forces [forces on current—carrying wires] which are generally
+much weaker than the electric forces. Thus while 1 ampere is a unit
+of reasonable size for magnetic effects, 1 C = 1 A s, is too big a unit for
+electric effects.
+
+The additive property of charge is not an ‘obvious’ property. It is related
+to the fact that electric charge has no direction associated with it;
+charge is a scalar.
+
+Charge is not only a scalar [or invariant) under rotation; it is also
+invariant for frames of reference in relative motion. This is not always
+true for every scalar. For example, kinetic energy is a scalar under
+rotation, but is not invariant for frames of reference in relative
+motion.
+
+Conservation of total charge of an isolated system is a property
+independent of the scalar nature of charge noted in point 6.
+Conservation refers to invariance in time in a given frame of reference.
+A quantity may be scalar but not conserved [like kinetic energy in an
+inelastic collision]. On the other hand, one can have conserved vector
+quantity [e.g., angular momentum of an isolated system).
+
+Quantisation of electric charge is a basic [unexplained] law of nature;
+interestingly, there is no analogous law on quantisation of mass.
+
+Superposition principle should not be regarded as ‘obvious’, or equated
+with the law of addition of vectors. It says two things: force on one
+charge due to another charge is unaffected by the presence of other
+charges, and there are no additional three—body, four—body, etc., forces
+which arise only when there are more than two charges.
+
+The electric field due to a discrete charge configuration is not defined
+at the locations of the discrete charges. For continuous volume charge
+distribution, it is defined at any point in the distribution. For a surface
+charge distribution, electric field is discontinuous across the surface.
+
+2019-20
+
+45

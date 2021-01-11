@@ -1,0 +1,41 @@
+388 Chapter 6 Enhancing Performance with Plpellnlng
+~EM
+'"
+-,
+"
+" 1-+---I~-'1-I
+• I
+ 
+G t--I :;:', -- --
+Al.u l 
+ALU
+L_I - - ' .-.. '-----I - •• '"
+r _
+' 1
+•• "
+,"
+- ::" - •
+-
+f'.
+4------".·;-I~df_=~\-"
+-
+FIGURE 6.11 The plpellned version of the datapath In Figure 6.9. The plpehne re81sters, color, separate each plpelme stage. They are
+In
+labeled by the stages thaI they separate; for example, the first is labeled IF/lD because it separates the instruction fetch and instruction decooe stages.
+The registers must be wide enough to stofe aU the data corresponding to the lines that go through them. For example, the !FlID register must be 64
+bits wide because it must hold both the 32-bit instruction fetched from memory and the incremented 32·bi, PC address. We will expand these regis 
+ters over the course of this chapter, but for now the other three pipeline registers contain 128,97, and 64 bits, respectively.
+execution. We show a load first because it is active in all five stages. As in Figures
+6.4 through 6. 11 , we highlight the right halfof registers or memory when they are
+being read and highlight the left half when they are being written. We show the
+instruction abbreviation 1wwith the name of the pipe stage that is active in each
+figure. The five stages are the following:
+I. Instruction fetch: The top portion of Figure 6. 12 shows the instruction
+being read from memory using the address in the PC and then placed in the
+IF/ID pipeline register. The IF/ID pipeline register is similar to the Instruc 
+tion register in Figure 5.26 on page 320. The PC address is incremented by 4
+and then written back into the PC to be ready for the next clock cycle. This
+incremented address is also saved in the IFIID pipeline register in case it is
+needed later for an instruction, such as beq. The computer cannot know
+which type of instruction is being fetched, so it must prepa re for any
+instruction, passing potentially needed information down the pipeline.

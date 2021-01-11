@@ -1,0 +1,55 @@
+4.4 Real Stuff: Two SPEC Benchmarks and the Performance of Recent Intel Processors 261
+1400
+•8
+1200
+E ~
+Pentium 4 CFP2000
+"
+0
+~•
+1000
+~
+8
+Pentium 4 CINT2000
+0
+N 800 7 1
+~
+~
+"
+~
+•c
+600
+~
+8
+0 Pentium III CINT2~
+N
+>- ,.
+z 400
+"
+"
+w Pentium III CFP2000
+200
+~
+U>
+0
+500 1000 1500 2000 2500 3000 3500
+Clock rate in MHz
+FtGURE 4.6 The SPEC CINT2000 and CFP2000 ratings for the Intel Pentium III and Pen 
+tium 4 processors at different clock speeds. SPEC requires two sets of measurements: one that
+allows aggressive optimization with benchmark-specific switches, and one that allows only the standard
+optimization switches (called the "base" measurements). This chart contains base measurements; for the
+integer benchmarks the differences are small. For more details on SPEC, see www.spec.org. The Pentium 4
+Extreme (a version ofthe Pentium 4 introduced in late 2003) is not included in these results, since it uses a
+different cache architecture than the rest ofthe PentiwlI 4 processors.
+ory system, which we discuss in Chapter 7, often worsen with higher clock rates.
+The strong performance of these processors is due both to the aggressive cache
+systems used in these processors, and the inability of many of the SPEC bench 
+marks to stress such a memory system.
+Comparing the Pentium III and Pentium 4 performances yields even more
+interesting insights. In particula r, note the relative positions of the CINT2000 and
+CFP2000 curves for the Pentium III versus the Pentium 4. One can quickly draw
+the inference that the Pentium 4 is either relatively better than the Pentium III on
+floating-point benchmarks or relatively worse on integer benchmarks. But, which
+is the case?
+The Pentium 4 uses a more advanced integrated circuit technology as well as a
+more aggressive pipeline structure, both of which allow for a significant clock rate

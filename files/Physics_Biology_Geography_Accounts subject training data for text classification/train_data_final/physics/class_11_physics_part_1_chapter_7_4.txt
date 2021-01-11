@@ -1,0 +1,153 @@
+SYSTEMS OI’ PARTICLES AND ROTA'I‘IONAL MOTION
+
+I45
+
+particles. The centre of mass of the system is
+that point C which is at a distance X from 0,
+where X is given by
+mlx1 + m2x2
+m1 + m2
+
+X = (7.1)
+In Eq. (7.1), X can be regarded as the mass-
+weighted mean of x1 and x2. If the two particles
+have the same mass m1 = m2 = m~ then
+mx1 + mx2 x1 + x2
+
+X:—:
+2m 2
+
+Thus, for two particles of equal mass the
+centre of mass lies exactly midway between
+them.
+
+ 
+
+If we have n particles of masses m1, m2,
+...mn respectively, along a straight line taken as
+the x— axis, then by definition the position of the
+centre of the mass of the system of particles is
+given by.
+
+2 mix,
+m1x1+m2x2+ +7“an _ i:1 _ 2 mixi
+
+— TL
+m +m + +m E m.
+1 2
+” 2 mi ‘
+
+ 
+
+where x1, x2,...xn are the distances of the
+particles from the origin; X is also measured from
+
+the same origin. The symbol 2 (the Greek letter
+
+sigma) denotes summation, in this case over n
+particles. The sum
+
+2mi=M
+
+is the total mass of the system.
+
+Suppose that we have three particles, not
+lying in a straight line. We may define x— and y—
+axes in the plane in which the particles lie and
+represent the positions of the three particles by
+coordinates (x1,y1), (x2,y2) and (x3,y3) respectively.
+Let the masses of the three particles be m1, m2
+and m3 respectively. The centre of mass C of
+the system of the three particles is defined and
+located by the coordinates (X, Y) given by
+
+mlxl + m2x2 + m3x3
+X — — (7.3a)
+
+m1+m2+m3
+
+mlyl + m2y2 + msys
+m1 + m2 + "13
+
+Y = (7.313)
+
+For the particles of equal mass m = m1 = m2
+2 m3,
+
+X_m(x1+x2+x3)_x1+x2+x3
+
+3m 3
+
+ 
+
+Y— me1 +92 +y3) _ yl +92 +93
+3m 3
+
+Thus, for three particles of equal mass, the
+centre of mass coincides with the centroid of the
+triangle formed by the particles.
+
+Results of Eqs. (7.3a) and (7.3b) are
+generalised easily to a system of n particles, not
+necessarily lying in a plane, but distributed in
+space. The centre of mass of such a system is
+at (X, Y, Z), where
+
+ 
+
+ 
+
+Zmlxi
+X = — (7.4a)
+M
+m. .
+Y = 2 1y. (7.413)
+M
+Zmizi
+and Z: (7.4c)
+M
+
+Here M = Zmi is the total mass of the
+
+system. The index iruns from 1 to n; mi is the
+mass of the {Lh particle and the position of the
+{“1 particle is given by (xi, yi, zi).
+
+Eqs. (7.4a), (7.4b) and (7.4c) can be
+combined into one equation using the notation
+
+of position vectors. Let ri be the position vector
+
+of the {Lh particle and R be the position vector of
+the centre of mass:
+
+ri =xi i+yi j+zik
+
+and R=Xi+Yj+Zﬁ
+
+Zmiri
+Then R = (7-4d)
+M
+
+The sum on the right hand side is a vector
+sum.
+Note the economy of expressions we achieve
+by use of vectors. If the origin of the frame of
+reference (the coordinate system) is chosen to
+
+ 
+
+be the centre of mass then Emir, : Ofor the
+
+given system of particles.
+
+A rigid body, such as a metre stick or a
+ﬂywheel, is a system of closely packed particles;
+Eqs. (7.4a), (7.4b), (7.4c) and (7.4d) are
+therefore, applicable to a rigid body. The number
+of particles (atoms or molecules) in such a body
+is so large that it is impossible to carry out the
+summations over individual particles in these
+equations. Since the spacing of the particles is
+
+2019-20

@@ -1,0 +1,38 @@
+112 Chapter 2 Instructions: Language of the Computer
+Loader
+Now that the executable file is on disk, the operating system reads it to memory
+and starts it. It follows these steps in UNIX systems:
+I. Reads the executable file header to determine size of the text and data segm ents.
+2. Creates an address space large enough for the text and data.
+3. Copies the instructions and data from the executable file into memory.
+4. Copies the parameters (if any) to the main program onto the stack.
+5. Initializes the machine registers and sets the stack pointer to the first free
+location.
+6. Jumps to a start-up routine that copies the parameters into the argument reg 
+isters and calls the main routine of the program. When the main routine
+returns, the start-up routine terminates the program with an e xi t system call.
+loader A systems program that Sections A.3 and AA in • Appendix A describe linkers and loaders in more
+places an object program in
+detail.
+main memory so that it is ready
+to exeulte.
+Dynamically Linked Libraries
+The first part of this section describes the traditional approach to linking libraries
+before the program is run. Although this static approach is the fastest way to call
+library routines, it has a few disadva ntages:
+• The library routines become part of the executable code. If a new version of
+the library is released that fixes bugs or supports new hardware devices, the
+statically linked program keeps using the old version.
+• It loads the whole library even if all of the library is not used when the pro 
+gram is run. The library can be large relative to the program; for example,
+the standard C library is 2.5 MS.
+These disadvantages lead to dynamically linked libraries (DLLs), where the
+library routines are not linked and loaded until the program is run. Both the pro 
+gram and library routines keep extra information on the location of nonlocal pro 
+cedures and their names. In the initial version of DLLs, the loader ran a dynamic
+linker, using the extra information in the file to find the appropriate libraries and
+to update all external references.
+The downside of the initial version of DLLs was that it still linked all routines of
+the library that might be called versus those that are called during the running of
+the program. This observation led to the lazy procedure linkage version of DLLs,
+where each routine is linked only after it is called.

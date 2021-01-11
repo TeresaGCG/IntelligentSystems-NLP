@@ -1,0 +1,40 @@
+Computers
+Saving Lives through
+in the
+Better Diagnosis
+Real World
+Problem: Find a way to examme internal low. The development of MRI has allowed the
+organs to diagnose psychological problems scanning of soft tissues, such as the brain, for
+without the use of invasive surgery or harmful which X-rays are not as effective and explor 
+radiation. atory surgery is dangerous. Without a cost 
+effective computing capability, MRI would
+Solution: The development of magnetic res 
+remain slow and expensive.
+onance imaging (MRI), a three-dimensional
+The two illustrations shows a series of MRI
+scanning technology, has been one of the most
+images of the human brain; the images below
+important breakthroughs in modern medical
+represent two-dimensional slices, while those on
+technology. MRI uses a combination of radio 
+the facing page show a three-dimensional recon 
+frequency pulses and magnetic fields to scan
+struction. Once an image is in digital form, a
+tissue. The organ to be imaged is scanned in a
+physician can manipulate the image, removing
+series of two-dimensional slices, which are
+outer layers, examining the image from different
+then composed to create a three-dimensional
+viewpoints, or looking at the three-dimensional
+tillage.
+structure to help in diagnosis.
+In addition to this computationally inten 
+The major benefits of MRI are twofold:
+sive task of composing the slices to create a
+• It can reduce the need for unnecessary
+volumetric image, extensive computation is
+exploratory surgery. A physician may be
+used to extract the initial two-dimensional
+able to determine whether a patient ex-
+images, since the signal-to-noise ratio is often
+MRiImag&s of a human brain, In two-dImensional view

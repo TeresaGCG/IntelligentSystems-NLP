@@ -1,0 +1,17 @@
+8.8 Real Stuff: A Digital Camera 603
+Notice the significa nt number of simplifying assumptions that are needed to do
+this example. In practice, many of these simplifications might not hold for critical
+I/O-intensive applications (such as databases). For this reason, simulation is often
+the only realistic way to predict the I/O performance of a realistic workload.
+Real Stuff: A Digital Camera
+Digital cameras are basically embedded computers with removable, writable, non 
+volatile, storage, and interesting I/O devices. Figure 8. 14 shows our example.
+FtGURE 8.14 The Sanyo VPC·SXSOO with Flash memory card and IBM Mlcrodrlve.
+Although newer cameras offer more pixels per picture, the principles are the same. This 1360 x 1024 pixel
+digital camera stores pictures either using CompactFlash memory or using a IBM Microorive. This photo
+was taken using a 340 MB microorive and a 8 MB CompactFlash memory. As Figure 8.15 shows, in 2004 the
+cap.1cities are as large as 1GB to 4 GRit is 4.3 inches wide x 2.5 inches high x 1.6 inches deep, and it weighs
+7.4 ounces. In addition to taking a still picture and converting it to !pEG format every 0.9 seconds, it can
+record a Quick Time video dip at VGA size (640 x 480). One technological advantage is the use ofa custom
+system on a chip to reduce size and power, so the camera only needs two AA batteries to operate versus four
+in other digital cameras.

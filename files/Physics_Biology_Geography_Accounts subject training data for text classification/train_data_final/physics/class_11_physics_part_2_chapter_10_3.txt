@@ -1,0 +1,105 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+N
+(fl
+OJ
+
+ 
+
+ 
+
+Fig. 1 0.3 Fluid under gravity. The effect of gravity is
+illustrated through pressure on a vertical
+cylindrical column.
+
+Pressure difference depends on the vertical
+distance h between the points (1 and 2), mass
+density of the ﬂuid p and acceleration due to
+gravity 9. If the point 1 under discussion is
+shifted to the top of the ﬂuid (say, water), which
+is open to the atmosphere, P1 may be replaced
+by atmospheric pressure (Pa) and we replace P2
+by P. Then Eq. (10.6) gives
+
+P=Pa+pgh (10.7)
+
+Thus, the pressure P, at depth below the
+surface of a liquid open to the atmosphere is
+greater than atmospheric pressure by an
+amount pgh. The excess of pressure, P —Pa, at
+depth h is called a gauge pressure at that point.
+
+The area of the cylinder is not appearing in
+the expression of absolute pressure in Eq. (10.7 ).
+Thus, the height of the ﬂuid column is important
+and not cross-sectional or base area or the shape
+of the container. The liquid pressure is the same
+at all points at the same horizontal level (same
+depth). The result is appreciated through the
+example of hydrostatic paradox. Consider three
+vessels A, B and C [Fig.10.4] of different shapes.
+They are connected at the bottom by a horizontal
+pipe. On filling with water, the level in the three
+vessels is the same, though they hold different
+amounts of water. This is so because water at
+the bottom has the same pressure below each
+section of the vessel.
+
+ 
+
+ 
+
+ 
+
+Fig 10.4 Illustration of hydrostatic paradox. The
+three vessels A, B and C contain different
+amounts of liquids, all upto the same
+height.
+
+Example 10.2 What is the pressure on a
+swimmer 10 m below the surface ofa lake?
+
+Answer Here
+h = 10 m andp = 1000 kg m'3. Take g = 10 m s-2
+From Eq. (10.7)
+
+P = Pa + p gh
+
+= 1.01 x 105 Pa+ 1000kgm*3 x 10 ms—2 >< 10m
+
+= 2.01 x 105 Pa
+
+z 2 atm
+
+This is a 100% increase in pressure from
+surface level. At a depth of 1 km, the increase
+in pressure is 100 atm! Submarines are designed
+to withstand such enormous pressures. 4
+
+10.2.3 Atmospheric Pressure and
+Gauge Pressure
+
+The pressure of the atmosphere at any point is
+equal to the weight of a column of air of unit
+cross-sectional area extending from that point
+to the top of the atmosphere. At sea level, it is
+1.0 13 x 105 Pa (1 atm). Italian scientist
+Evangelista Torricelli (1608—1647) devised for
+the first time a method for measuring
+atmospheric pressure. A long glass tube closed
+at one end and filled with mercury is inverted
+into a trough of mercury as shown in Fig. 10.5 (a).
+This device is known as ‘mercury barometer’.
+The space above the mercury column in the tube
+contains only mercury vapour whose pressure
+P is so small that it may be neglected. Thus,
+the pressure at Point A=0. The pressure inside
+the coloumn at Point B must be the same as the
+pressure at Point C, which is atmospheric
+pressure, Pa.
+
+Pa = p gh (10.8)
+where p is the density of mercury and h is the
+height of the mercury column in the tube.
+
+2019-20

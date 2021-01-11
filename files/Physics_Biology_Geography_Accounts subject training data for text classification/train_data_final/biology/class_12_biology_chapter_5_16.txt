@@ -1,0 +1,60 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+Sutton and Boveri argued that the pairing and separation of a
+pair of chromosomes would lead to the segregation of a pair of
+factors they carried. Sutton united the knowledge of chromosomal
+segregation with Mendelian principles and called it the
+chromosomal theory of inheritance.
+
+Following this synthesis of ideas, experimental verification of
+the chromosomal theory of inheritance by Thomas Hunt Morgan
+and his colleagues, led to discovering the basis for the variation
+
+fruit ﬂies, Drosophila melanogaster (Figure 5.10), which were
+found very suitable for such studies. They could be grown on
+simple synthetic medium in the laboratory. They complete their life
+cycle in about two weeks, and a single mating could produce a large
+number of progeny ﬂies. Also, there was a clear differentiation of the
+sexes — the male and female ﬂies are easily distinguishable. Also, it
+has many types of hereditary variations that can be seen with low
+power microscopes.
+
+5.3.3 Linkage and Recombination
+
+Morgan carried out several dihybrid crosses in Drosophila to study genes
+that were sex-linked. ’Ihe crosses were similar to the dihybrid crosses carried
+out by Mendel in peas. For example Morgan hybridised yellow-bodied,
+white-eyed females to brown-bodied, red-eyed males and intercrossed their
+F1 progeny. He observed that the two genes did not segregate independently
+of each other and the F2 ratio deviated very signiﬁcantly from the 913:3: 1
+ratio (expected when the two genes are independent).
+
+Morgan and his group knew that the genes were located on the X
+chromosome (Section 5.4) and saw quickly that when the two genes in a
+dihybrid cross were situated on the same chromosome, the proportion
+of parental gene combinations were much higher than the non-parental
+type. Morgan attributed this due to the physical association or linkage
+of the two genes and coined the term linkage to describe this physical
+association of genes on a chromosome and the term recombination to
+describe the generation of non-parental gene combinations (Figure 5.1 1).
+Morgan and his group also found that even when genes were grouped
+on the same chromosome, some genes were very tightly linked (showed
+very low recombination) (Figure 5.1 1, Cross A) while others were loosely
+linked (showed higher recombination) (Figure 5.1 1, Cross B). For
+example he found that the genes white and yellow were very tightly linked
+and showed only 1.3 per cent recombination while white and miniature
+wing showed 37.2 per cent recombination. His student Alfred
+Sturtevant used the frequency of recombination between gene pairs
+on the same chromosome as a measure of the distance between genes
+and ‘mapped’ their position on the chromosome. Today genetic maps
+
+2019-2020
+
+(a) (b)
+
+that sexual reproduction produced. Morgan worked with the tiny Figure 5. 10 Drosophila
+melanogaster (a) Male
+
+(b) Female
+
+83

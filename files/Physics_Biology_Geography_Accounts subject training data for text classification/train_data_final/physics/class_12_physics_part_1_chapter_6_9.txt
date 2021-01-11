@@ -1,0 +1,88 @@
+Electromagnetic
+Induction
+
+where we have used dx/dt = —U which is the speed of the conductor P9.
+The induced emf B11) is called motional emf. Thus, we are able to produce
+induced emf by moving a conductor instead of varying the magnetic field,
+that is, by changing the magnetic ﬂux enclosed by the circuit.
+
+It is also possible to explain the motional emf expression in Eq. (6.5)
+by invoking the Lorentz force acting on the free charge carriers of conductor
+PQ. Consider any arbitrary charge q in the conductor PQ. When the rod
+moves with speed 0, the charge will also be moving with speed 0 in the
+magnetic field B. The Lorentz force on this charge is qu in magnitude,
+and its direction is towards Q. All charges experience the same force, in
+magnitude and direction, irrespective of their position in the rod P9.
+The work done in moving the charge from P to Q is,
+
+W = qul
+
+Since emf is the work done per unit charge,
+
+8:—
+q
+
+= Blv
+
+This equation gives emf induced across the rod P9 and is identical
+to Eq. (6.5). We stress that our presentation is not wholly rigorous. But
+it does help us to understand the basis of Faraday’s law when
+the conductor is moving in a uniform and time-independent
+magnetic field.
+
+On the other hand, it is not obvious how an emf is induced when a
+conductor is stationary and the magnetic field is changing — a fact which
+Faraday verified by numerous experiments. In the case of a stationary
+conductor, the force on its charges is given by
+
+F=q(E+va)=qE (6.6)
+
+since v = 0. Thus, any force on the charge must arise from the electric
+ﬁeld term E alone. Therefore, to explain the existence of induced emf or
+induced current, we must assume that a time-varying magnetic ﬁeld
+generates an electric field. However, we hasten to add that electric fields
+produced by static electric charges have properties different from those
+produced by time-varying magnetic fields. In Chapter 4, we learnt that
+charges in motion (current) can exert force / torque on a stationary magnet.
+Conversely, a bar magnet in motion (or more generally, a changing
+magnetic field) can exert a force on the stationary charge. This is the
+fundamental significance of the Faraday’s discovery. Electricity and
+magnetism are related.
+
+Example 6.6 A metallic rod of 1 m length is rotated with a frequency
+of 50 rev/s, with one end hinged at the centre and the other end at the
+circumference of a circular metallic ring of radius 1 m, about an axis
+passing through the centre and perpendicular to the plane of the ring
+(Fig. 6.1 1). A constant and uniform magnetic ﬁeld of 1 T parallel to the
+axis is present everywhere. What is the emf between the centre and
+
+the metallic ring?
+
+2019-20
+
+9'9 mama
+
+x MW
+
+PHM
+
+,
+l
+
+I,
+v-
+a
+
+$1365
+
+\.
+
+i/npa‘ uospgAPp'sogsAL|(lqa/vx//:(lnL|
+
+LLllq 'uogpnpu |/LU)q L] 5; [Sue/Luoo‘ suugnau ‘J ngU/ﬁdnq
+
+|LUIL| ‘xapu l/ZJQISBLLJQS llCl/SGDJHOSQJ 18|SAL|(
+
+:Jwa [euonow uo uonewiue amomaml
+
+213

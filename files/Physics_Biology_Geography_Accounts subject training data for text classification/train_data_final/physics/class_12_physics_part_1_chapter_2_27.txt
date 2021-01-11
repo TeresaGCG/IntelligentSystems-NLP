@@ -1,0 +1,52 @@
+—
+l PhySICS
+l E 3
+V = E — —° —
+0( 4 d) + K ( 4 d)
+= E0d(l+i)= V0 K+3
+no 4 4K 4K
+(5i The potential difference decreases by the factor (K + 3) /K while the
+3 free charge QO on the plates remains unchanged. The capacitance
+E thus increases
+a Chg: 4mg: 4K00
+V K + 3 V0 K + 3
+2. 14 COMBINATION OF CAPACITORS
+We can combine several capacitors of capacitance Cl, C2, . . ., C11 to obtain
+a system with some effective capacitance C. The effective capacitance
+depends on the way the individual capacitors are combined. Two simple
+possibilities are discussed below.
+2.14. 1 Capacitors in series
+Figure 2.26 shows capacitors C1 and C2 combined in series.
+The left plate of C1 and the right plate of C2 are connected to two
+terminals of a battery and have charges Q and —Q ,
+respectively. It then follows that the right plate of C1
+9 ' Q Q _ Q has charge —Q and the left plate of C2 has charge Q.
++ _ + _ If this was not so, the net charge on each capacitor
++ — + - would not be zero. This would result in an electric
++ - + — ﬁeld in the conductor connecting Cland C2. Charge
++ _ + — would ﬂow until the net charge on both C1 and C2
++ — + _ is zero and there is no electric ﬁeld in the conductor
++ - + - connecting C1 and Oz. Thus, in the series
++ Z + : combination, charges on the two plates (iQ) are the
++ + same on each capacitor. The total potential drop V
+C, C2 across the combination is the sum of the potential
+drops V1 and V2 across C1 and Cg, respectively.
+FIGURE 2.26 Combination of two Q Q
+capacitors in series. v: V1 + V2 = 61+ 0—2 (255)
+Q Q Q Q Q V 1 + 1 5
+- Q - - Q —Q '.e.,—=— —, 2. 6
++ — + — + — + — 1 Q Cl 02 t )
++ _ + _ + _ + _ Now we can regard the combination as an
++ - + — + - + - effective capacitor with charge Q and potential
++ ‘ + ' + ‘ _____ + ‘ difference V. The effective capacitance of the
++ - + — + — + — combination is
++ - + — + — + - Q
++ — + — + — + — = _
++ _ + _ + _ + _ C V (2.57)
+C. c, C. C" We compare Eq. (2.57) with Eq. (2.56), and
+FIGURE 2.27 Combination of 1] Obtain
+capacitors in series. 1 l + l (2 58)
+78 — = — — .
+C C1 02
+
+2019-20

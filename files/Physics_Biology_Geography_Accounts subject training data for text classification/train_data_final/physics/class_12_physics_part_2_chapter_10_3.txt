@@ -1,0 +1,78 @@
+l Physics
+
+ 
+
+FIGURE 10.1 (b) At a
+large distance from
+the source. a small
+
+portion of the
+spherical wave can
+
+be approximated by a
+
+plane wave.
+
+t=0 t=T
+
+FIGURE 10.3
+Huygens geometrical
+construction for a
+plane wave
+propagating to the
+right. FI F2 is the
+plane wavefront at
+t= 0 and (3le is the
+wavefront at a later
+time 1'. The lines AxAz.
+BIB2 etc. are
+nomial to both Fle
+and GXG2 and
+represent rays.
+
+354
+
+small portion of the sphere can be considered as a plane and we have
+What is known as a plane wave [Fig. 10.1(b)].
+
+Now, if we know the shape of the wavefront at t = 0, then Huygens
+principle allows us to determine the shape of the wavefront at a later
+time T. Thus, Huygens principle is essentially a geometrical construction,
+which given the shape of the wafefront at any time allows us to determine
+the shape of the wavefront at a later time. Let us consider a diverging
+wave and let F1F2 represent a portion of the spherical wavefront at t= 0
+(Fig. 10.2). Now, according to Huygens principle, each point of the
+wavefront is the source of a secondary disturbance and the wavelets
+emanating from these points spread out in all directions with the speed
+of the wave. These wavelets emanating from the wavefront are usually
+referred to as secondary wavelets and if we draw a common tangent
+to all these spheres, we obtain the new position of the wavefront at a
+later time.
+
+ 
+
+FIGURE 10.2 FIF2 represents the spherical wavefront (with O as
+centre) at t = O. The envelope of the secondary wavelets
+emanating from FIF2 produces the forward moving wavefront GIGZ.
+The backwave DID2 does not exist.
+
+Thus, if we wish to determine the shape of the wavefront at t= T, we
+draw spheres of radius UT from each point on the spherical wavefront
+where v represents the speed of the waves in the medium. If we now draw
+a common tangent to all these spheres, we obtain the new position of the
+wavefront at t= T. The new wavefront shown as G1G2 in Fig. 10.2 is again
+spherical with point 0 as the centre.
+
+The above model has one shortcoming: we also have a backwave which
+is shown as D1D2 in Fig. 10.2. Huygens argued that the amplitude of the
+secondary wavelets is maximum in the forward direction and zero in the
+backward direction; by making this adhoc assumption, Huygens could
+explain the absence of the backwave. However, this adhoc assumption is
+not satisfactory and the absence of the backwave is really j ustiﬁed from
+more rigorous wave theory.
+
+In a similar manner, we can use Huygens principle to determine the
+shape of the wavefront for a plane wave propagating through a medium
+(Fig. 10.3).
+
+2019-20

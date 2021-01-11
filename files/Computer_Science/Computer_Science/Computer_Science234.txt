@@ -1,0 +1,41 @@
+218 Chapter 3 Arithmetic: for Computers
+The IA·32 Roating·Point Architecture
+The Intel 8087 floating-point coprocessor was announced in 1980. This architec 
+ture extended the 8086 with about 60 floating-point instructions.
+Intel provided a stack architecture with its floating-point instructions: loads
+push numbers onto the stack, operations find operands in the two top elements of
+the stacks, and stores can pop elements off the stack. Intel supplemented this stack
+architecture with instructions and addressing modes that allow the architecture to
+have some of the benefits of a register-memory model. In addition to finding oper 
+ands in the top two elements of the stack, one operand can be in memory or in one
+of the seven registers on-chip below the top of the stack. Thus, a complete stack
+instruction set is supplemented by a limited set of register-memory instructions.
+This hybrid is still a restricted register-memory model, however, since loads
+always move data to the top of the stack while incrementing the top-of-stack
+pointer and stores can only move the top of stack to memory. Intel uses the nota 
+tion 51 to indicate the top of stack, and 51 (i) to represent the ith register below
+the top of stack.
+Another novel feature of this architecture is that the operands are wider in the
+register stack than they are stored in memory, and all operations are performed at
+this wide internal precision. Unlike the maximum of 64 bits on MIPS, the IA-32
+floating-point operands on the stack are 80 bits wide. Numbers are automatically
+converted to the internal 80-bit format on a load and converted back to the appro 
+priate size on a store. This double extended precision is not supported by program 
+ming langll3ges, although it has been useful to programmers of mathematical
+softwa re.
+Memory data can be 32-bit (single precision) or 64-bit (double precision)
+floating-point numbers. The register-memory version of these instructions will
+then convert the memory operand to this Intel 80-bit format before performing
+the operation. The data transfer instructions also will automatically convert 16 
+and 32-bit integers to floating point, and vice versa, for integer loads and stores.
+The IA-32 floating-point operations can be divided into four major classes:
+1. Data movement instructions, including load, load constant, and store
+2. Arithmetic instructions, including add, subtract, multiply, divide, sqll3re
+root, and absolute value
+3. Comparison, including instructions to send the result to the integer proces 
+sor so that it can branch
+4. Transcendental instructions, including sme, cosme, log, and exponen 
+tiation
+Figure 3.21 shows some of the 60 floating-point operations. Note that we get even
+more combinations when including the operand modes for these operations. Fig 
+ure 3.22 shows the many options for floating-point add.

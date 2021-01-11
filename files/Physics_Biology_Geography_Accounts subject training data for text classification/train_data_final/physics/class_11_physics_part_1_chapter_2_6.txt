@@ -1,0 +1,131 @@
+22
+
+PHYSICS
+
+ 
+
+Table 2.4 Range and order of masses
+
+Electron
+
+Proton
+
+Uranium atom
+
+Red blood cell
+Dust particle
+
+Rain drop
+Mosquito
+
+Grape
+
+Human
+Automobile
+
+Boeing 747 aircraft
+Moon
+
+Earth
+
+Sun
+
+Milky way galaxy
+Observable Universe
+
+ 
+
+2.5 MEASUREMENT OF TIME
+
+To measure any time interval we need a clock.
+We now use an atomic standard of time, which
+is based on the periodic vibrations produced in
+a cesium atom. This is the basis of the cesium
+clock, sometimes called atomic clock, used in
+the national standards. Such standards are
+available in many laboratories. In the cesium
+atomic clock, the second is taken as the time
+needed for 9,192.63 1,770 vibrations of the
+radiation corresponding to the transition
+between the two hyperfine levels of the ground
+state of cesium- 133 atom. The vibrations of the
+cesium atom regulate the rate of this cesium
+atomic clock just as the vibrations of a balance
+wheel regulate an ordinary wristwatch or the
+vibrations of a small quartz crystal regulate a
+quartz wristwatch.
+
+The cesium atomic clocks are very accurate.
+In principle they provide portable standard. The
+national standard of time interval ‘second’ as
+well as the frequency is maintained through four
+cesium atomic clocks. A cesium atomic clock is
+used at the National Physical Laboratory (NPL),
+New Delhi to maintain the Indian standard of
+time.
+
+In our country, the NFL has the responsibility
+of maintenance and improvement of physical
+standards, including that of time, frequency, etc.
+Note that the Indian Standard Time (IST) is
+linked to this set of atomic clocks. The efficient
+cesium atomic clocks are so accurate that they
+impart the uncertainty in time realisation as
+
+2019-20
+
+i l x 10—13, i.e. 1 part in 1013. This implies that
+the uncertainty gained over time by such a
+device is less than 1 part in 1013; they lose or
+gain no more than 3 us in one year. In View of
+the tremendous accuracy in time measurement,
+the SI unit of length has been expressed in terms
+the path length light travels in certain interval
+of time (1/299, 792, 458 of a second) (Table 2.1).
+
+The time interval of events that we come
+across in the universe vary over a very wide
+range. Table 2.5 gives the range and order of
+some typical time intervals.
+
+You may notice that there is an interesting
+coincidence between the numbers appearing
+in Tables 2.3 and 2.5. Note that the ratio of the
+longest and shortest lengths of objects in our
+universe is about 1041. Interestingly enough,
+the ratio of the longest and shortest time
+intervals associated with the events and objects
+in our universe is also about 1041. This number,
+1041 comes up again in Table 2.4, which lists
+typical masses of objects. The ratio of the
+largest and smallest masses of the objects in
+our universe is about (10“)? Is this a curious
+coincidence between these large numbers
+purely accidental ?
+
+2. 6 ACCURACY, PRECISION OF INSTRUMENTS
+AND ERRORS IN MEASUREMENT
+
+Measurement is the foundation of all
+experimental science and technology. The result
+of every measurement by any measuring
+instrument contains some uncertainty. This
+uncertainty is called error. Every calculated
+quantity which is based on measured values,
+also has an error. We shall distinguish between
+two terms: accuracy and precision. The
+accuracy of a measurement is a measure of how
+close the measured value is to the true value of
+the quantity. Precision tells us to what resolution
+or limit the quantity is measured.
+
+The accuracy in measurement may depend on
+several factors, including the limit or the resolution
+of the measuring instrument. For example, suppose
+the true value of a certain length is near 3.678 cm.
+In one experiment, using a measuring instrument
+of resolution 0. 1 cm, the measured value is found to
+be 3.5 cm, while in another experiment using a
+measuring device of greater resolution, say 0.0 1 cm,
+the length is determined to be 3.38 cm. The ﬁrst
+measurement has more accuracy (because it is

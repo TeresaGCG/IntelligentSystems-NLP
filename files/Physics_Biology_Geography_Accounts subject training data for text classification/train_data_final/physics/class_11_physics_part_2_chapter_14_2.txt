@@ -1,0 +1,112 @@
+OSCILLATIONS
+
+343
+
+ 
+
+which are either too fast or too slow on the scale
+of seconds, other convenient units of time are
+used. The period of vibrations of a quartz crystal
+is expressed in units of microseconds (10'6 s)
+abbreviated as us. On the other hand, the orbital
+period of the planet Mercury is 88 earth days.
+The Halley’s comet appears after every 76 years.
+
+The reciprocal of T gives the number of
+repetitions that occur per unit time. This
+quantity is called the frequency of the periodic
+motion. It is represented by the symbol v. The
+relation between v and T is
+
+v =1/T (14.1)
+
+The unit of v is thus S'l. After the discoverer of
+radio waves, Heinrich Rudolph Hertz (1857— 1894),
+a special name has been given to the unit of
+frequency. It is called hertz (abbreviated as Hz).
+Thus,
+
+1 hertz = 1 Hz = l oscillation per second =IS'1
+( 1 4. 2)
+
+Note, that the frequency, v, is not necessarily
+an integer.
+
+Example 14.1 On an average. a human
+
+heart is found to beat 75 times in a minute.
+Calculate its frequency and period.
+
+ 
+
+Answer The beat frequency of heart = 75/ (1 min)
+= 75/ (60 s)
+1.25 s-1
+= 1.25 Hz
+The time period T = 1/(1.25 s4)
+= 0.8 s 4
+
+14.2.2 Displacement
+
+In section 4.2, we defined displacement of a
+particle as the change in its position vector. In
+this chapter, we use the term displacement
+in a more general sense. It refers to change
+with time of any physical property under
+consideration. For example, in case of rectilinear
+motion of a steel ball on a surface, the distance
+from the starting point as a function of time is
+its position displacement. The choice of origin
+is a matter of convenience. Consider a block
+attached to a spring, the other end of the spring
+is fixed to a rigid wall [see Fig. l4.2(a)]. Generally,
+it is convenient to measure displacement of the
+body from its equilibrium position. For an
+oscillating simple pendulum, the angle from the
+vertical as a function of time may be regarded
+
+as a displacement variable [see Fig. l4.2(b)]. The
+term displacement is not always to be referred
+
+ 
+
+Fig. 14.2(a) A block attached to a spring, the other
+end of which is ﬁxed to a rigid wall. The
+block moves on a frictionless surface. The
+motion of the block can be described in
+terms of its distance or displacement x
+
+from the equilibrium position.
+
+ 
+
+{.
+
+Fig.14.2(b) An oscillating simple pendulum; its
+motion can be described in terms of
+angular displacement 0 from the vertical.
+
+in the context of position only. There can be
+many other kinds of displacement variables. The
+voltage across a capacitor, changing with time
+in an AC circuit, is also a displacement variable.
+In the same way, pressure variations in time in
+the propagation of sound wave, the changing
+electric and magnetic fields in a light wave are
+examples of displacement in different contexts.
+The displacement variable may take both
+positive and negative values. In experiments on
+oscillations, the displacement is measured for
+different times.
+
+The displacement can be represented by a
+mathematical function of time. In case of periodic
+motion, this function is periodic in time. One of
+the simplest periodic functions is given by
+
+f(t) = A cos cot (14.3a)
+
+If the argument of this function, cut, is
+increased by an integral multiple of 27rradians,
+
+2019-20

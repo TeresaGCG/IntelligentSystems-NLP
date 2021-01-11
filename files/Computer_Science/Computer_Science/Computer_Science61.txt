@@ -1,0 +1,37 @@
+designed this personal digital assistant, which
+is similar to the Palm Pilot, to meet the needs
+of villagers in third world countries. Input is
+through a touch screen and speech recogni 
+tion so that people need not be able to write to
+use it. It uses three AAA batteries, which last 3
+to 4 hours. The cost is $250, and there is no
+special solution for communication. It's
+unclear whether villagers in the developing
+A laotian \llIIager who wanted world would spend $250 on a PDA, where
+access to the Internet.
+even batteries are a luxury.
+dot matrix printer completes the hardware,
+bringing the cost to about $400. The operating
+To learn more see these references on
+system is Linux, and the applications are
+III
+the library
+accounting, email, and letter writing, which
+expatriates are tailoring to the Lao language. "Making the Web world-wide," Tile Eco/lomist, Septem 
+ber 26, 2002, www.jhai.orgleconornist
+The communication solutio n is to adapt the
+WiFi (IEEE 802.llb) wireless network (see The Jhai Foundation, www.jhai.org/
+Chapter 8) . The plan is to boost the signal "Computers for the Third World," Scielltiftc AmcriCtJIl,
+October 2002
+using larger antennas and then place repeater
+stations o n the hilltops between the village and
+the market city. These repeaters get their
+power from solar cells. The local phone system
+ties to it at the far end, which completes the
+connection to the Internet. Twenty-five volun 
+teers in Silicon Valley are developing this Thai
+PC network.
+An alternative attempt is the simputer,
+which stands for "simple, inexpensive, multi 
+Indian \llIIager using the Slmputer.
+lingual computer." Indian computer scientists

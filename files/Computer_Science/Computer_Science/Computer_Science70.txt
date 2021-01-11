@@ -1,0 +1,37 @@
+54 Chapter 2 Instructions: Language of the Computer
+Memory Operands
+Programming languages have simple va riables that contain single data elements as
+in these examples, but they also have more complex data structures-arrays and
+structures. These complex data structures can contain many more data elements
+than there are registers in a computer. How can a computer represent and access
+such large structures?
+Recall the five components of a computer introduced in Chapter 1 and
+depicted on page 47. The processor can keep only a small amount of data in regis 
+ters, but computer memory contains millions of data elements. Hence, data struc 
+tures (arrays and structures) are kept in memory.
+As explained above, arithmetic operations occur only on registers in MIPS
+instructions; thus, MIPS must include instructions that transfer data between
+data transfer instruction A memory and registers. Such instructions are called data transfer instructions. To
+command that moves data
+access a word in memory, the instruction must supply the memory address.
+between memory and registers.
+Memory is just a large, single-dimensional array, with the address acting as the
+address Avalue used to delin  index to that array, starting at O. For example, in Figure 2.2, the address of the
+eate the location ofa specific third data element is 2, and the value ofMemory(2] is 10.
+data element within a memory The data transfer instruction that copies data from memory to a register is tra 
+array.
+ditionally called load. The format of the load instruction is the name of the opera 
+tion followed by the register to be loaded, then a constant and register used to
+access memory. The sum of the constant portion of the instruction and the con 
+tents of the second register forms the memory address. The acnlal MIPS name for
+this instruction is 1w, standing for load word.
+•
+3 100
+2 10
+1 101
+0 1
+Address Data
+Processor Memory
+FIGURE 2.2 Memory addresses and contents of memory at those Ioc:atlons. This is a sim 
+plification of the MIPS addressing; Figure 2.3 shows the actual MIPS addressing for sequential word
+addresses in memory.

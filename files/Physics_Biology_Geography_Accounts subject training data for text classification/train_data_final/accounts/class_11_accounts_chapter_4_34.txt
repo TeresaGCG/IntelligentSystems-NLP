@@ -1,0 +1,75 @@
+Recording of Transactions — II 133
+
+10 Fancy Trousers @ ?500 per trouser
+
+20 Fancy Hat @ ? 100 per hat
+
+Less 5% trade discount
+
+Goods returned to M / s Ratana Traders, as per debit note No. 102 :
+
+3 shirts @ ?300 per shirt
+
+1 Pant @ ?700 per pant
+
+Less 10% trade discount
+
+Purchase of following goods on credit from M/s Zolta Fashions,
+as per Invoice No.6781 :
+
+10 Jackets @ ?1000 per jacket
+
+5 Plain shirts ?200 per shirts
+
+Less 15% trade discount.
+
+Purchase of following goods on credit from M/s Bride Palace,
+as per Invoice No. 1076 :
+
+10 Fancy Lengha @ ?2,000 per lengha
+
+Less 5% trade discount.
+
+Goods returned to M/ s Bombay Fashion House as per debit note No.103 :
+2 Fancy Trousers @ ?500 per trouser
+
+4 Fancy Hat @ ?100 per hat
+
+Less 5% trade discount.
+
+Goods returned to M/s Bride Palace as per debit note No. 105 :
+
+1 Fancy Lengha @ ?2,000 per lengha
+
+Less 5% trade discount.
+
+ 
+
+Solution
+
+Books of Hi-life Fashions
+Purchases (Journal) Book
+
+Date Invoice Name of the Supplier L.F Amount
+No. (Account to be credited) ?
+Ratana Traders
+Bombay Fashion House
+
+Zolta Fashions
+Bride Palace
+
+ 
+
+Purchases Return (Journal) Book
+
+Date Invoice Name of the Supplier L.F. Amount
+No. (Account to be debited) ?
+
+102 Ratana Traders
+
+103 Bombay Fashion House
+106 Bride Palace
+
+ 
+
+2019-2020

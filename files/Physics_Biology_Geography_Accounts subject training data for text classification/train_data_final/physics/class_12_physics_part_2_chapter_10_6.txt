@@ -1,0 +1,58 @@
+Wove Optics
+
+ 
+
+any refracted wave and the wave will undergo what is known as total
+internal reﬂection. The phenomenon of total internal reﬂection and its
+applications was discussed in Section 9.4.
+
+    
+  
+
+Incident wavefront
+
+Refracted wavefront
+
+FIGURE 10.5 Refraction of a plane wave incident on a rarer medium for
+which U! > u]. The plane wave bends away from the normal.
+
+10.3.3 Reﬂection of a plane wave by a plane surface
+
+We next consider a plane wave AB incident at an angle ion a reﬂecting
+surface MN. If 0 represents the speed of the wave in the medium and if T
+represents the time taken by the wavefront to advance from the point B
+to C then the distance
+
+BC= UT
+
+In order to construct the reﬂected wavefront we draw a sphere of radius
+or from the point A as shown in Fig. 10.6. Let CE represent the tangent
+plane drawn from the point C to this sphere. Obviously
+
+AE=BC=UT
+
+  
+ 
+ 
+  
+  
+
+Incident
+wavefront
+
+Reﬂected
+wavefront
+
+FIGURE 10.6 Reﬂection of a plane wave AB by the reﬂecting surface MN.
+AB and CE represent incident and reﬂected wavefronts.
+
+If we now consider the triangles EAC and BAC we will find that they
+are congruent and therefore, the angles iand r (as shown in Fig. 10.6)
+would be equal. This is the law of reﬂection.
+
+Once we have the laws of reﬂection and refraction, the behaviour of
+prisms, lenses, and mirrors can be understood. These phenomena were
+
+2019-20
+
+357

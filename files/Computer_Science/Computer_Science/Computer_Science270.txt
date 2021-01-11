@@ -1,0 +1,45 @@
+254 Chapter 4 Assessing and Understanding Performance
+Evaluating Performance
+A computer user who runs the same programs day in and day out would be the
+perfect candidate to evaluate a new computer. The set of programs run would
+workload A set ofprograms form a workload. To evaluate two computer systems, a user would simply com 
+run on a computer that is either
+pare the execution time of the workload on the two computers. Most users, how 
+the actual collection ofapplica 
+ever, are not in this situation. Instead, they must rely on other methods that
+tions run by a user or is con 
+measure the performance of a ca ndidate computer, hoping that the methods will
+structed from real programs to
+reflect how well the computer will perform with the user's workload. This alterna 
+approximate such a mix. A typi 
+tive is usually followed by evaluating the computer using a set of bellchmarks 
+cal workload specifies both the
+programs specifically chosen to measure performance. The benchmarks form a
+programs as well as the relative
+frequencies. workload that the user hopes will predict the performance of the actual workload.
+Today, it is widely understood that the best type of programs to use for bench 
+marks are real applications. These may be applications that the user employs regu 
+larly or simply applications that are typical. For example, in an environment
+where the users are primarily engineers, you might use a set of benchmarks con 
+taining several typical engineering or scientific applications. If the user commu 
+nity were primarily software development engineers, the best benchmarks would
+probably include such applications as a compiler or document processing system.
+Using real applications as benchmarks makes it much more difficult to find trivial
+ways to speed up the execution of the benchmark. Furthermore, when techniques
+are found to improve performance, such techniques are much more likely to help
+other programs in addition to the benchmark.
+The use of benchmarks whose performance depends on very small code seg 
+ments encourages optimizations in either the architecture or compiler that target
+these segments. The compiler optimizations might recognize special code frag 
+ments and generate an instruction sequence that is particularly efficient for this
+code fragment. Likewise, a designer might try to make some sequence of instruc 
+tions run especially fast because the sequence occurs in a benchmark. In fact, sev 
+eral companies have introduced compilers with special-purpose optimizations
+targeted at specific benchmarks. Often these optimizations must be explicitly
+enabled with a specific compiler option, which would not be used when compil 
+ing other programs. Whether the compiler would produce good code, or even cor 
+rect code, if a real application program used these switches, is unclear.
+Sometimes in the quest to produce highly optimized code for benchmarks,
+engineers introduce erroneous optimizations. For example, in late 1995, Intel
+published a new performance rating for the integer SPEC benchmarks running on
+a Pentium processor and using an internal compiler, not used outside of Intel.

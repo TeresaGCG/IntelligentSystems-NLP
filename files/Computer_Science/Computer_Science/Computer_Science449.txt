@@ -1,0 +1,46 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 433
+advanced book, Computer Architecture: A Quantitative Approach, third edition,
+where the material covered in the next 18 pages is expanded to over 200 pages!
+Pipelining exploits the potential parallelism among instructions. This parallel 
+ism is called instruction-level parallelism (ILP). There are two primary methods instruction-level
+for increasing the potential amount of instruction-level parallelism. The first is parallelism The parallelism
+among instructions.
+increasing the depth of the pipeline to overlap more instructions. Using our laun 
+dry analogy and assuming that the washer cycle were longer than the others, we
+could divide our washer into three machines that perform the wash, rinse, and
+spin steps of a traditional washer. We would then move from a four-stage to a six 
+stage pipeline. To get the full speedup, we need to rebalance the remaining steps so
+they are the same length, in processors or in laundry. The amount of parallelism
+being exploited is higher, since there are more operations being overlapped. Per 
+formance is potentially greater since the clock cycle can be shorter.
+Another approach is to replicate the internal components of the computer so
+that it ca n launch multiple instructions in every pipeline stage. The general name
+for this technique is multiple issue. A multiple-issue laundry would replace our multiple issue A scheme
+household washer and dryer with, say, three washers and three dryers. You would whereby multiple instructions
+are launched in 1clock cycle.
+also have to recruit more assistants to fold and put away three times as much laun 
+dry in the same amount of time. The downside is the extra work to keep all the
+machines busy and transferring the loads to the next pipeline stage.
+Launching multiple instructions per stage allows the instruction execution rate
+to exceed the clock rate or, stated alternatively, for the e PI to be less than 1. It is
+sometimes useful to flip the metric, and use IPC, or instructions per clock cycle,
+particularly as values become less than I! Hence, a 6 GHz four-way multiple-issue
+microprocessor can execute a peak rate of 24 billion instructions per second and
+have a best case e PI of 0.25, or IPe of 4. Assuming a five-stage pipeline, such a
+processor would have 20 instructions in execution at any given time. Today's high 
+end microprocessors attempt to issue from three to eight instructions in every
+static multiple issue An
+clock cycle. There are typically, however, many constraints on what types of
+approach to implementing a
+instructions may be executed simultaneously and what happens when depen  multiple-issue processor where
+dences arise. many decisions are made by the
+compiler before execution.
+There are two major ways to implement a multiple-issue processor, with the
+major difference being the division of work between the compiler and the hard 
+dynamic multiple issue An
+wa reoBecause the division of work dictates whether decisions are being made stat  approach to implementing a
+ically (that is, at compile time) or dynamically (that is, during execution), the multiple-issue processor where
+approaches are sometimes called static multiple issue and dynamic multiple manydecisions are made during
+execution by the processor.
+issue. As we will see, both approaches have other, more commonly used names,
+which may be less precise or more restrictive.

@@ -1,0 +1,74 @@
+13.27
+
+13.28
+
+13.29
+
+Nuclei
+
+ 
+
+2§§Ra—> 2;an+ gHe
+Calculate the Q-values for these decays and determine that both
+are energetically allowed.
+
+Consider the fission of 233U by fast neutrons. In one fission event,
+
+no neutrons are emitted and the final end products, after the beta
+
+decay of the primary fragments, are 1ﬁgCe and ZZRu. Calculate Q
+
+for this fission process. The relevant atomic and particle masses
+are
+
+m(233U) =238.05079 u
+m(1§gCe) =139.90543 u
+
+m(iiRu) = 98.90594 u
+Consider the D—T reaction (deuterium—tritium fusion)
+
+ZiH+ 31H—> 3He+n
+
+(a) Calculate the energy released in MeV in this reaction from the
+data:
+
+m(21H )=2.014102 u
+
+mﬁH) =3.016049 u
+
+(b) Consider the radius of both deuterium and tritium to be
+approximately 2.0 fm. What is the kinetic energy needed to
+overcome the coulomb repulsion between the two nuclei? To what
+
+temperature must the gas be heated to initiate the reaction?
+
+(Hint: Kinetic energy required for one fusion event =average
+thermal kinetic energy available with the interacting particles
+= 2(316172); k = Boltzman’s constant, T = absolute temperature.)
+
+Obtain the maximum kinetic energy of ﬁ-particles, and the radiation
+frequencies of ydecays in the decay scheme shown in Fig. 13.6. You
+are given that
+
+m(198Au) = 197968233 u
+m(198Hg) =197.966760 u
+
+198
+79 Au
+
+  
+  
+ 
+
+1 .088 MeV
+
+0.412 MeV
+
+198
+so Hg
+
+FIGURE13.6
+
+2019-20
+
+465

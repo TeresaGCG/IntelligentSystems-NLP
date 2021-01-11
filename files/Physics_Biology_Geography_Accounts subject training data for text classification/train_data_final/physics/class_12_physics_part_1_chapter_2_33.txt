@@ -1,0 +1,73 @@
+84
+
+10.
+
+ll.
+
+ 
+
+Potential energy stored in a system of charges is the work done [by an
+external agency] in assembling the charges at their locations. Potential
+energr of two charges q1, q2 at r1, r2 is given by
+
+1
+U = Q1 (12
+lingo r12
+
+ 
+
+ 
+
+where r12 is distance between q1 and q2.
+
+The potential energy of a charge q in an external potential V[r] is qV(r).
+The potential energy of a dipole moment p in a uniform electric field E is
+—p.E.
+
+Electrostatics field E is zero in the interior of a conductor; just outside
+the surface of a charged conductor, E is normal to the surface given by
+
+0'-
+
+E = 8—“ where {1 is the unit vector along the outward normal to the
+0
+
+surface and 0' is the surface charge density. Charges in a conductor can
+reside only at its surface. Potential is constant within and on the surface
+of a conductor. In a cavity within a conductor [with no charges), the
+electric field is zero.
+
+A capacitor is a system of two conductors separated by an insulator. Its
+capacitance is defined by C = Q/ V, where Q and —Q are the charges on the
+two conductors and V is the potential difference between them. C is
+determined purely geometrically, by the shapes, sizes and relative
+positions of the two conductors. The unit of capacitance is faradz,
+1 F = 1 C V'l. For a parallel plate capacitor (with vacuum between the
+plates),
+
+C—sA
+_0_
+d
+
+where A is the area of each plate and d the separation between them.
+
+If the medium between the plates of a capacitor is ﬁlled with an insulating
+substance (dielectric), the electric field due to the charged plates induces
+a net dipole moment in the dielectric. This effect, called polarisation,
+gives rise to a field in the opposite direction. The net electric field inside
+the dielectric and hence the potential difference between the plates is
+thus reduced. Consequently, the capacitance C increases from its value
+C0 when there is no medium (vacuum),
+
+C = KCo
+where K is the dielectric constant of the insulating substance.
+For capacitors in the series combination, the total capacitance C is given by
+
+1 1 1 1
+—=—+—+—+...
+c 01 c2 03
+
+In the parallel combination, the total capacitance C is:
+C= C1+C2+CS+...
+
+2019-20

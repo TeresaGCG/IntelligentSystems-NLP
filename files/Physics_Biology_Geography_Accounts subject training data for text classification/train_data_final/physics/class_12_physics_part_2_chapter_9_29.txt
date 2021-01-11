@@ -1,0 +1,57 @@
+338
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+    
+
+Objective
+
+FIGURE 9.28 Ray diagram for the formation of image by a
+compound microscope.
+
+microscope or magnifier, produces the ﬁnal image, which is enlarged
+and virtual. The ﬁrst inverted image is thus near (at or within) the focal
+plane of the eyepiece, at a distance appropriate for ﬁnal image formation
+at inﬁnity, or a little closer for image formation at the near point. Clearly,
+the ﬁnal image is inverted with respect to the original object.
+
+We now obtain the magniﬁcation due to a compound microscope.
+The ray diagram of Fig. 9.28 shows that the (linear) magniﬁcation due to
+the objective, namely h’ / h, equals
+
+.m _ h’ _ i
+
+o — h — f0 (9.43)
+
+ 
+
+where we have used the result
+
+h h’
+
+tang—[f,]_(Lj
+
+Here h’ is the size of the ﬁrst image, the object size being h and f0
+being the focal length of the objective. The ﬁrst image is formed near the
+focal point of the eyepiece. The distance L, i.e., the distance between the
+second focal point of the objective and the ﬁrst focal point of the eyepiece
+(focal length j; ) is called the tube length of the compound microscope.
+
+As the ﬁrst inverted image is near the focal point of the eyepiece, we
+use the result from the discussion above for the simple microscope to
+
+obtain the (angular) magniﬁcation me due to it [Eq. (9.39)], when the
+final image is formed at the near point, is
+
+D
+me = [1 + T] [9.44(a)]
+
+6
+
+2019-20

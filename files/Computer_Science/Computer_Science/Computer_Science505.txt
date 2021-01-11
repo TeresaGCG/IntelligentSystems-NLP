@@ -1,0 +1,30 @@
+7.2 The Basics of Caches 489
+CPU CPU CPU
+< > < > < >
+Multiplexor
+Cache Cache
+Cache
+B" B" B"
+'--- '---
+/" /"
+Memory Memory Memory Memory
+Memory
+bank 0 bank 1 bank 2 bank 3
+b.Wide memory organization c. Interleaved memory organization
+Memory
+a. One-word-wide
+memory organization
+FtGURE 7.11 The primary method of achieving higher memory bandwidth Is to Increase the physical or logical width of the
+memory system. In this figure, memory bandwidth is improved two ways. The simplest design, (a), uses a memory where all components are one
+word wide; (b) shows a wider memory, bus, and cache;while (c) shows a narrowbus and cache with an interleaved memory. In (b), the logic between
+the cache and processor consists ofa multiplexor used on reads and control logic to update the appropriate words ofthe cache on writes.
+access time rather than reading or writing a single word each time. Each bank
+could be one word wide so that the width of the bus and the cache need not
+change, but sending an address to several banks permits them all to read simulta 
+neously. This scheme, which is called interleaving, retains the advantage of incur 
+ring the full memory latency only once. For example, with four ba nks, the time to
+get a four-word block would consist of 1 cycle to transmit the address and read
+request to the banks, 15 cycles for all four banks to access memory, and 4 cycles to
+send the four words back to the cache. This yields a miss penalty of 1 + 1 X 15 + 4
+XI = 20 memory bus clock cycles. This is an effective bandwidth per miss of 0.80
+bytes per clock, or about three times the bandwidth for the one-ward-wide mem-

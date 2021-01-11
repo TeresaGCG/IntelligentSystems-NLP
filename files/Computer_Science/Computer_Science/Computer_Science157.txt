@@ -1,0 +1,43 @@
+141
+2.16 Real Stuff: 1A·32 Instructions
+Instruction Meaning
+Control Conditional and unconditional branches
+JNZ, JZ Jump if condition to EIP +Shit offset; J NE(for JNZ), JE (for JZ) are alternative
+names
+JMP
+Unconditional jump--Shit or 16-bit offset
+CA LL Subroutine call-16.tlit offset; return address pushed onto stack
+RET
+Pops return address from stack and jumps to it
+LOOP Loop branch--<le<:rement ECX;jump to EIP + Shit displacement if ECX "" 0
+Data transfer Move data between registers or between register and memory
+MaV
+Move between two registers or between register and memory
+PUSH. POP Push soun:e operand on stack; pop operand from stack top to a register
+lES Load ES and one of the GPRs from memory
+Arithmetic. logical Arithmetic and logical operations using the data registers and memory
+ADD. SUB Add source to destination; subtract source from destination; register.memory
+format
+eMP Compare soun:e and destination; register-memory format
+SHL, SHR. RCR Shift left; shift logical right; rotate right with carry condition code as fill
+CBW Convert byte in 8 rightmost bits of EAX to 16-bit word in right of EAX
+TEST Logical AND of source and destination sets condition codes
+INC. DEC Increment destination, de<:rement destination
+OR. XOR Logical OR; exclusive OR; register.memory format
+String Move between string operands; length given by a repeat prefix
+MOVS Copies from string source to destination by incrementing ESI and EDI; may be
+repeated
+LODS Loads a byte, word, or double word of a string into the EAX register
+FIGURE 2.44 Some typical operations on the IA·32. Many operations use register·memory for·
+mat, where either the source or the destination may be memory and the other may be a register or immedi·
+ateoperand.
+8 bits or 32 bits. For some instructions, the opcade may include the addressing
+mode and the register; this is true in many instructions that have the form "register
+= register op immediate." Other instructions use a "postbyte" or extra opcode byte,
+labeled "mod, reg, rim ," which contains the addressing mode information. This
+postbyte is used for many of the instmctions that address memory. The base plus
+scaled index mode uses a second postbyte, labeled "sc, index, base."
+Figure 2.46 shows the encoding of the two postbyte address specifiers for both
+16-bit and 32-bit mode. Unfortunately, to fully understand which registers and
+which addressing modes are available, you need to see the encoding of all address 
+ing modes and sometimes even the encoding of the instructions.

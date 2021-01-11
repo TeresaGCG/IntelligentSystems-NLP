@@ -1,0 +1,55 @@
+\v/
+
+MOLECULAR BASIS OF INHERITANCE (\
+
+E—ﬂl l—-ﬂ In absence oiinduceu
+
+l Repressor binds to the operator region(o)
+’W and prevents RNA polymerase from
+Repressor mRNA transcribing the operon
+
+l
+
+ 
+
+Repressor
+n—nn—-n in ed in
+1 ﬂ Transcription
+Repressor mRNA ,Vlac\mRN/A\/
+1 ﬂ 1 1 Translation
+- B-galactosidase permease transacetylase
+
+Inducer
+
+O O
+
+(Inactive repressor)
+
+Figure 6.14 The lac Operon
+
+Lactose is the substrate for the enzyme beta-galactosidase and it
+regulates switching on and off of the operon. Hence, it is termed as inducer.
+In the absence of a preferred carbon source such as glucose, if lactose is
+provided in the growth medium of the bacteria, the lactose is transported
+into the cells through the action of permease (Remember, a very low level
+of expression of lac operon has to be present in the cell all the time,
+otherwise lactose cannot enter the cells). The lactose then induces the
+operon in the following manner.
+The repressor of the operon is synthesised (all-the-time — constitutively)
+from the igene. The repressor protein binds to the operator region of the
+operon and prevents RNA polymerase from transcribing the operon. In
+the presence of an inducer, such as lactose or allolactose, the repressor is
+inactivated by interaction with the inducer. This allows RNA polymerase
+access to the promoter and transcription proceeds (Figure 6.14).
+Essentially, regulation of lac operon can also be visualised as regulation
+of enzyme synthesis by its substrate. 1 1 7
+Remember, glucose or galactose cannot act as inducers for lac
+operon. Can you think for how long the lac operon would be expressed
+in the presence of lactose?
+Regulation of lac operon by repressor is referred to as negative
+regulation. Lac operon is under control of positive regulation as well,
+but it is beyond the scope of discussion at this level.
+
+ 
+
+2019—2020

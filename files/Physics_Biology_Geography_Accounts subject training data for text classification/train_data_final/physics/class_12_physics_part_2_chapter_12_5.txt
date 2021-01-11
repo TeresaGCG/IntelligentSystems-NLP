@@ -1,0 +1,83 @@
+Dual Nature of Radiation
+and Mo’r’rer
+
+polarity is reversed, the electrons are
+repelled and only the most energetic
+electrons are able to reach the collector A.
+The photocurrent is found to decrease
+rapidly until it drops to zero at a certain
+sharply deﬁned, critical value of the negative
+potential V}, on the plate A. For a particular
+frequency of incident radiation, the
+minimum negative (retarding) potential V0
+given to the plate A for which the
+photocurrent stops or becomes zero is
+called the cut-01f or stopping potential.
+
+Photocurrent—>
+
+       
+
+Stopping potential
+
+The interpretation of the observation in \4
+terms of photoelectrons is straightforward. _‘/o 0
+All the photoelectrons emitted from the ‘— Retarding p°tenﬁal comet,“ Plate —’
+metal do not have the same energy. p0tenua1
+photoelectric current is zero when the FIGURE 11.3 Variation of photocurrent with
+stopping potential is sufﬁcient to repel even collector plate potential for different
+
+the most energetic photoelectrons, with the imensny Of meidem radiation"
+
+maximum kinetic energy (Kmax), so that
+
+Kmax=eVo (11.1)
+
+We can now repeat this experiment with incident radiation of the same
+frequency but of higher intensity I2 and I3 (13 > I2 > 11). We note that the
+saturation currents are now found to be at higher values. This shows
+that more electrons are being emitted per second, proportional to the
+intensity of incident radiation. But the stopping potential remains the
+same as that for the incident radiation of intensity 11, as shown graphically
+in Fig. 1 1.3. Thus, for a given frequency of the incident radiation, the
+stopping potential is independent of its intensity. In other words, the
+maximum kinetic energy of photoelectrons depends on the light source
+and the emitter plate material, but is independent of intensity of incident
+radiation.
+
+1 1 .4.3 Effect of frequency of incident radiation on stopping
+potential
+
+We now study the relation between the T
+frequency v of the incident radiation and the
+stopping potential V0. We suitably adjust the
+same intensity of light radiation at various
+frequencies and study the variation of
+photocurrent with collector plate potential. The
+resulting variation is shown in Fig. 1 1.4. We
+obtain different values of stopping potential but
+the same value of the saturation current for
+incident radiation of different frequencies. The
+energy of the emitted electrons depends on the
+frequency of the incident radiations. The
+stopping potential is more negative for higher
+frequencies of incident radiation. Note from 391
+
+      
+ 
+
+Photoelectric
+current
+
+Saturation current
+
+ 
+
+‘\63 ‘Voz -Vm 0 Collector plate potential —>
+<— Retarding potential
+
+FIGURE 11.4 Variation of photoelectric current
+with collector plate potential for different
+frequencies of incident radiation.
+
+2019-20

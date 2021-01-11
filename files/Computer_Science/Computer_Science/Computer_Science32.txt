@@ -1,0 +1,25 @@
+16 Chapter 1 Computer Abstractions and Technology
+Interlace
+Evaluating
+performance
+FIGURE 1.5 The organization of a computer, showing the five classic: components. The
+processor gels instructions and data from memory. Input WTiles data to memory, and outpul reads data
+from memory. Control sends the signals that determine the operations ofthe datapath, memory, input, and
+output.
+Chapter 8 describes input/output 0/0) devices in more detail, but let's take an
+introductory tour through the computer hardware, starting with the external I/O
+devices.
+1got the idea for the mouse Anatomy of a Mouse
+while attending a talk at a
+Although many users now take mice for granted, the idea of a pointing device
+compl/ter conference. The
+such as a mouse was first shown by Engelbart using a research prototype in 1967.
+speaker was boring that 1
+50
+The Alto, which was the inspiration for all workstations as well as for the Macin 
+started daydreaming and hit
+tosh, included a mouse as its pointing device in 1973. By the 1990s, all desktop
+IIpon the idea.
+computers included this device, and new user interfaces based on graphics dis 
+Doug Engelhart
+plays and mice became the norm.

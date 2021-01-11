@@ -1,0 +1,27 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Decimals
+We use a very clever system to write whole numbers: the base ten
+system. There are other number systems, such as the Roman numeral
+system, which is great for keeping track of the number of Super Bowls
+that have been played. However, there is a reason that the Roman nu-
+meral system is not widely used today. Try multiplying XXIX and XIV
+together using only Roman numerals. The Roman numeral system works
+well for counting, but not well for adding or multiplying.
+In the base ten system we have ten symbols at our disposal: 0, 1, 2, 3,
+4, 5, 6, 7, 8, and 9. The number 2,365 represents 2 thousands, 3 hundreds,
+6 tens, and 5 ones. The order that the numbers appear matters. As you
+move to the left, the power of ten increases by 1: the ones’ place can be
+thought of as 100, the tens’ place is 101, the hundreds’ place is 102, and so
+on. We can represent any whole number using this system.
+Base ten is great, but you should realize that 10 is not the only base
+that can be used to represent numbers. There are other popular systems
+in use today, such as base two, base eight, and base sixteen, but that is a
+topic for another day. Right now, it is just important to understand that
+everything we have been talking about so far involves the base ten num-
+ber system.
+Lesson 5-1: The Decimal System
+The base ten system works well for representing integers, but it doesn’t
+work as well for other types of numbers, such as irrational numbers and
+many fractions. Fractions and irrational numbers have an integral part,
+which is an integer, and a fractional part, or a part whose magnitude is
+83

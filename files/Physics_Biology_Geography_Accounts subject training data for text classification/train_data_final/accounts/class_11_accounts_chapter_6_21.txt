@@ -1,0 +1,64 @@
+Trial Balance and Rectification of Errors 201
+
+posted. The accounts of individual parties are not affected. Consider the
+following example.
+
+Purchases (Journal) Book
+
+Date Invoice Name of suppliers L.F. Amount
+No. (Accounts to be credited) ?
+
+Dheru
+Chandraprakash
+Sachin
+
+Wrong total
+
+due to overcasting
+
+Dheru's Account
+
+Dr. Cr.
+? ?
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+  
+   
+
+-_---—-
+
+Chandraprakash’s Account
+
+Dr. Cr.
+Date Particulars J.F. Amount Date Particulars J.F. Amount
+? ?
+-_-_ --- moo
+
+Sachin's Account
+
+Dr. Cr.
+Date Particulars .F. Amount Date Particulars J. F. Amount
+? ?
+-_-- -—- 6,000
+
+Purchases Account
+
+Dr. Cr.
+Date Particulars J. F. Amount Date Particulars J. F. Amount
+? ?
+
+-_I -—-—
+
+As you can notice that there is no error in accounts of Dheeru, Chanderprakash and
+Sachin. Only purchases account has been debited with ? 1,000 extra. Hence, rectification
+
+entry will be:
+
+2019-2020

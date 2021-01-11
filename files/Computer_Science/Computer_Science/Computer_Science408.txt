@@ -1,0 +1,40 @@
+392 Chapter 6 Enhancing Performance with Plpellnlng
+5. Write back: The bottom portion of Figure 6. 14 shows the final step: reading
+the data from the MEM/WB pipeline register and writing it into the register
+file in the middle of the figure.
+This walk-through of the load instruction shows that any information needed
+in a later pipe stage must be passed to that stage via a pipeline register. Walking
+through a store instruction shows the similarity of instruction execution, as well
+as passing the information for later stages. Here are the five pipe stages of the store
+instruction:
+I. Instruction fetch: The instruction is read from memory using the address in
+the PC and then is placed in the IF/ID pipeline register. This stage occurs
+before the instruction is identified, so the top portion of Figure 6. 12 works
+for store as well as load.
+2. Instruction decode and register file read: The instruction in the IFIID pipe 
+line register supplies the register numbers for reading two registers and
+extends the sign of the 16-bit immediate. These three 32-bit values are all
+stored in the ID/EX pipeline register. The bottom portion of Figure 6. 12 for
+load instructions also shows the operations of the second stage for stores.
+These first two stages are executed by all instructions, since it is too early to
+know the type of the instruction.
+3. Execute and address calClilation: Figure 6. 15 shows the third step; the effec 
+tive address is placed in the EXiMEM pipeline register.
+4. Memory access: The top portion of Figure 6.1 6 shows the data being writ 
+ten to memory. Note that the register containing the data to be stored was
+read in an earlier stage and stored in ID/EX. The only way to make the data
+available during the MEM stage is to place the data into the EXiMEM pipe 
+line register in the EX stage, just as we stored the effective address into
+EX/MEM.
+5. Write back: The bottom portion of Figure 6. 16 shows the final step of the
+store. For this instruction, nothing happens in the write-back stage. Since
+every instruction behind the store is already in progress, we have no way to
+accelerate those instructions. Hence, an instruction passes through a stage
+even if there is nothing to do because later instructions are already pro 
+gressing at the maximum rate.
+The store instruction again illustrates that to pass something from an early pipe
+stage to a later pipe stage, the information must be placed in a pipeline register;
+otherwise, the information is lost when the next instruction enters that pipeline
+stage. For the store instruction we needed to pass one of the registers read in the
+ID stage to the MEM stage, where it is stored in memory. The data was first placed
+in the ID/E.X pipeline register and then passed to the E.X/MEM pipeline register.

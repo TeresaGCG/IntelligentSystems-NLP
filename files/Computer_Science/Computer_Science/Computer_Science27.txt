@@ -1,0 +1,51 @@
+1.2 Below Your Program 11
+2. As mentioned earlier, both the software and hardwa re affect the perfor 
+mance of a program. Can you think of examples where each of the follow 
+ing is the right place to look for a performance bottleneck?
+• The algorithm chosen
+• The programming language or compiler
+• The operating system
+• The processor
+• The I/O system and devices
+In Paris they simply stared
+when 1spoke to them in
+Below Your Program
+French; I never did succeed
+in making those idiots
+understand their own lan 
+A typical application, such as a word processor or a large database system, may
+guage.
+consist of hundreds of thousands to millions of lines of code and rely on sophisti 
+Mark Twain, The llllloeellts
+cated software libraries that implement complex fun ctions in support of the
+Abroad, 1869
+application. As we will see, the hardware in a computer can only execute extremely
+simple low-level instructions. To go from a complex application to the simple
+instructions involves several layers of software that interpret or translate high 
+level operations into simple computer instructions.
+These layers of software are organized primarily in a hierarchical fashion, with
+applications being the outermost ring and a variety of systems software sitting systems software Software
+that provides services that are
+between the hardwa re and applications softwa re, as shown in Figure 1.3.
+commonly useful, including
+There are many types of systems software, but two types of systems software are
+operating systems, compilers,
+central to every computer system today: an operating system and a compiler. An
+and assemblers.
+operating system interfaces between a user's program and the hardware and pro 
+operating system Supervising
+vides a variety of services and supervisory functions. Among the most important
+program that manages the
+functions are
+resources ofa computer for the
+• handling basic input and output operations benefit ofthe programs that run
+on that machine.
+• allocating storage and memory
+• providing for sharing the computer among multiple applications using it
+simultaneously
+compiler A program that
+Examples of operating systems in use today are Windows, Linux, and MacOS.
+translates high-level language
+Compilers perform another vital function: the translation of a program writ 
+statements into assembly
+ten in a high-level language, such as C or Java, into instructions that the hardwa re language statements.

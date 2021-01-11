@@ -1,0 +1,60 @@
+Recording of Transactions — II 107
+
+We will now learn how the transactions are recorded in the double column
+cash book.
+Consider the following example:
+The following transactions related to M / s Tools India :
+
+Bank balance
+
+Cash balance
+
+Purchased goods by cheque
+
+Sales of goods for cash
+
+Purchased machinery by cheque
+
+Sold goods and received cheque [deposited same day)
+Purchase goods from Mriaula in cash
+Purchase stationery by cheque
+Cheque given to Rohit
+
+Cash withdrawn from bank
+
+Rent paid by cheque
+
+Paid salary
+
+ 
+
+The double column cash book based upon above business transactions will
+prepared as follows :
+
+Cash Book
+Dr. Cr.
+? ? ? ?
+
+   
+
+Balance b /d 15,000 42,000 Purchases
+Sales Machine
+Sales Purchase
+Bank Stationery
+Rohit
+Cash
+Rent
+
+Salary
+
+Balance c / d
+
+10,100 13,900
+
+Balance b /d
+
+2019-2020
+
+ 
+
+10,100 13,900

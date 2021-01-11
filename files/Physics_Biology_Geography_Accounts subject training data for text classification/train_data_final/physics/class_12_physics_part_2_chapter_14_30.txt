@@ -1,0 +1,65 @@
+Semiconductor Electronics:
+Materials, Devices and
+Simple Circuits
+
+ 
+
+ 
+
+the ratio of GazAs is 1:1 but in Ga—rich or As-rich GaAs it could
+respectively be Oral.1 Aso.g or G309 Asu. In general, the presence of
+defects control the properties of semiconductors in many ways.
+
+3. In modern day circuit, many logical gates or circuits are integrated in
+one single ‘Chip'. These are known as Intgrated circuits (1C).
+
+EXERCISES
+
+14.1 In an n-type silicon, which of the following statement is true:
+(a) Electrons are majority carriers and trivalent atoms are the
+dopants.
+
+(b) Electrons are minority carriers and pentavalent atoms are the
+dopants.
+
+(c) Holes are minority carriers and pentavalent atoms are the
+dopants.
+
+(d) Holes are majority carriers and trivalent atoms are the dopants.
+
+14.2 Which of the statements given in Exercise 14.1 is true for p-type
+semiconductos.
+
+14.3 Carbon, silicon and germanium have four valence electrons each.
+These are characterised by valence and conduction bands separated
+by energy band gap respectively equal to (E g)C, (E g)Si and (Eg)Ge. Which
+of the following statements is true?
+
+(a) (E g)Si< (E .96. < (Eg)C
+(b) (Eg)C < (Eg)Ge > (Eggi
+(c) (Eg)C>(Eg)S,>(Eg)Ge
+(d) (E9)C = (E9)Si = (E9)Ge
+
+14.4 In an unbiased p-n junction, holes diffuse from the p-region to
+n-region because
+
+(a) free electrons in the n-region attract them.
+(b) they move across the junction by the potential difference.
+(c) hole concentration in p-region is more as compared to n-region.
+(d) All the above.
+14.5 When a forward bias is applied to a p-n junction, it
+(a) raises the potential barrier.
+(b) reduces the majority carrier current to zero.
+(c) lowers the potential barrier.
+(d) None of the above.
+
+14.6 In half-wave rectification, what is the output frequency if the input
+frequency is 50 Hz. What is the output frequency of a full-wave rectiﬁer
+for the same input frequency.
+
+14.7 A p-n photodiode is fabricated from a semiconductor with band gap
+of 2.8 eV. Can it detect a wavelength of 6000 nm?
+
+497
+
+2019-20

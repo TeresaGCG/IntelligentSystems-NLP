@@ -1,0 +1,131 @@
+UNITS AND MEASUREMENT
+
+ 
+
+test of consistency of units, but has the
+advantage that we need not commit ourselves
+to a particular choice of units, and we need not
+worry about conversions among multiples and
+sub-multiples of the units. It may be borne in
+mind that if an equation fails this consistency
+test, it is proved wrong, but if it passes, it is
+not proved right. Thus, a dimensionally correct
+equation need not be actually an exact
+(correct) equation, but a dimensionally wrong
+(incorrect) or inconsistent equation must be
+wrong.
+
+Example 2.1 5 Let us consider an equation
+
+1 2
+—mv =m h
+2 9
+
+where m is the mass of the body. L' its
+velocity. 9 is the acceleration due to
+gravity and It is the height. Check
+whether this equation is dimensionally
+correct.
+
+ 
+
+Answer The dimensions of LHS are
+[M] [L '1‘1 l2 = [M] [LZ'I‘2]
+= [M L2 T2]
+The dimensions of RHS are
+[MllL "1‘21 [L] = [MllL2 "1‘21
+= [M L2'I‘2]
+
+The dimensions of LHS and RHS are the same and
+hence the equation is dimensionally correct. 4
+
+Example 2.16 The SI unit of energy is
+J = kg m2 s”: that of speed 1) is m S’1 and
+of acceleration a is m S’Z. Which of the
+formulae for kinetic energy (K) given below
+can you rule out on the basis of
+dimensional arguments (m stands for the
+
+mass of the body) :
+(a) K = m2 U"
+
+(b) K =(1/2)mv'-'
+
+(c) K = ma
+
+((1) K = (3/16)mv'~’
+
+(e) K= (1/2)mv”+ ma
+
+ 
+
+Answer Every correct formula or equation must
+have the same dimensions on both sides of the
+equation. Also, only quantities with the same
+physical dimensions can be added or
+subtracted. The dimensions of the quantity on
+the right side are [M2 L3 T3] for (a); [M L2 T2] for
+
+33
+
+(b) and (d); [M LT2] for (c). The quantity on the
+right side of (c) has no proper dimensions since
+two quantities of different dimensions have been
+added. Since the kinetic energy K has the
+dimensions of [M L2 T2], formulas (a), (c) and (e)
+are ruled out. Note that dimensional arguments
+cannot tell which of the two, (b) or (d), is the
+correct formula. For this, one must turn to the
+actual definition of kinetic energy (see Chapter
+6). The correct formula for kinetic energy is given
+by (b). 4
+
+2.10.2 Deducing Relation among the
+Physical Quantities
+
+The method of dimensions can sometimes be
+used to deduce relation among the physical
+quantities. For this we should know the
+dependence of the physical quantity on other
+quantities (upto three physical quantities or
+linearly independent variables) and consider it
+as a product type of the dependence. Let us take
+an example.
+
+Example 2.1 7 Consider a simple
+pendulum. having 3 bob attached to a
+string. that oscillates under the action of
+the force of gravity. Suppose that the period
+
+of oscillation of the simple pendulum
+depends on its length (1). mass of the bob
+(m) and acceleration due to gravity (g).
+Derive the expression for its time period
+using method of dimensions.
+
+ 
+
+Answer The dependence of time period T on
+the quantities l, g and m as a product may be
+written as :
+
+T = k l" 914 ml
+where k is dimensionless constant and x, y
+and z are the exponents.
+
+By considering dimensions on both sides, we
+have
+
+[Lo MUT1]=[L1 1x [L1 T~21y [M112
+
+= Lx+y T—Zy Mz
+
+On equating the dimensions on both sides,
+we have
+
+x+y=O;—2y=l;andz=0
+s thtx-l -—lz-0
+o a 2y 2,
+Then, T= kl” g'VZ
+
+2019-20

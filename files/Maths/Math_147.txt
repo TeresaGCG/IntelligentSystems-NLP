@@ -1,0 +1,20 @@
+Inequalities and Graphs
+147
+have the symmetric property, so if you have an inequality such as 3 < x
+and you want to turn the inequality around, you must write x > 3 . If you
+interchange the sides of an inequality, the inequality symbol must be
+turned around so that it “points” to the same expression that it pointed
+to originally.
+The addition transformations are summarized in the table shown on
+page 146.
+Example 1
+Solve the inequality: x + 3 < 8
+Solution: Subtract 3 from both sides and simplify:
+The solution is all real numbers less than 5.
+Example 2
+Solve the inequality: −10 > x − 6
+Solution: Add 6 to both sides and simplify:
+The solution is all real numbers less than −4.
+The transformations involving multiplication and division are summa-
+rized in the table shown on page 148: (Pay special attention to the transfor-
+mations that involve multiplying or dividing by a negative number.)

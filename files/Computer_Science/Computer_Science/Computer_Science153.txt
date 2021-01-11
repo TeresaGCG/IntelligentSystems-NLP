@@ -1,0 +1,38 @@
+2.16 Real Stuff: 1A·32 Instructions 137
+you familiarity with the strengths and weaknesses of the world's most popular
+desktop architecture.
+Rather than show the entire 16-bit and 32-bit instruction set, in this section we
+concentrate on the 32-bit subset that originated with the 80386, as this portion of
+the architecture is what is used. We start our explanation with the registers and
+addressing modes, move on to the integer operations, and conclude with an
+examination of instruction encoding.
+IA-32 Registers and Data Addressing Modes
+The registers of the 80386 shows the evolution of the instruction set (Figure 2.40).
+The 80386 extended all 16-bit registers (except the segment registers) to 32 bits,
+u"
+Name
+o
+31
+EAX
+GPR O
+ECX GPR 1
+EDX GPR 2
+EBX GPR 3
+ESP
+GPR4
+EBP
+GPR 5
+ES' GPR 6
+ED' GPR 7
+CS Code segment pointer
+ss
+Stack segment pointer (top of stack)
+OS Data segment pointer 0
+ES Data segment pointer 1
+FS Data segment pointer 2
+GS Data segment pointer 3
+1----------------1'"'''"'''''
+E'P po'ole, (PC)
+EFLAGS . Condnion codes
+FIGURE 2.40 The 80386 register set. Starting with the 80386, the top eight registers wefe extended
+to 32 bits and could also be used as general-pufpose fegisters.

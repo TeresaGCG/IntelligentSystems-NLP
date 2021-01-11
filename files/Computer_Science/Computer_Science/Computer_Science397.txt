@@ -1,0 +1,64 @@
+6.1 An Overview of Plpellnlng 381
+If we cannot resolve the branch in the second stage, as is often the case for longer
+pipelines, then we'd see an even larger slowdown if we stall on branches. The cost of
+this option is too high for most computers to use and motivates a second solution
+to the control haza rd:
+Predict: If you're pretty sure you have the right formula to wash uniforms, then
+just predict that it wiII work and wash the second load while wa iting for the
+first load to dry. This option does not slow down the pipeline when you are
+correct. \Vhen you are wrong, however, you need to redo the load that was
+washed while guessing the decision.
+Computers do indeed use prediction to handle branches. One simple approach
+is to always predict that branches will be untaken. \Vhen you're right, the pipeline untaken branch One that
+proceeds at full speed. Only when branches are taken does the pipeline stall. Fig  falls through to the successive
+instruction. A taken branch is
+ure 6.8 shows such an example.
+one that causes transfer to the
+branch target.
+Program
+6CO~O,--,--8~OOe:-_clO::O;Oc,--,--l2::0;0c,--,--14O~c0,--_~
+execution c2O;-O:-__4cOO;-:-__
+order Time •
+(in instructions)
+..,
+..
+,," om.
+InslNC1ion
+add $4, $5, $6 ""
+felch ..,
+~ ...
+,.,
+,,"
+• • InstNC1ion Dale.
+beq $1, $2, 40 _.
+lelch
+~
+200 ps ,., ,.,
+• • ,,"
+Iw $3, 300($0) Ins.t,u"c"1ion Data
+200ps
+Program
+C2~OO=--_4COO;-:- 6CO~O,--,--800~,----l,O;O=O-_C12;OO=-_C14~OC0,--
+execution __ __
+order Time •
+(in instructions)
+c--c-;
+add $4, $5, $6 InslNC1ion Reg ALU Dale.
+felch access
+':==:j;,~~,~~~"";,jl~",~,t~,~,~"~-:o~.~"::-f,,~.,J
+beq $1, $2, 40
+~
+200 ps lelch """""•
+L ( ~b~ ~~bl~J~'lb;'";b='~Yd"'.!"',;b-"~, [~~bl~
+'9 .
+«sa,
+0' "", :
+0 ~a~. r:=J
+I
+• InstNC1ion U ALU 0
+400 ps lelch ~
+FIGURE 6.8 Predicting that branches are not taken as a solution to control hazard. The
+top drawingshows the pipeline when the branch is not taken.The bottom drawingshows the pipeline when
+the branch is taken.As we noted in Figure 6.7, the insertion of a bubble in this fashion simplifies what actu 
+ally happens, at least during the first clock cycle immediately following the branch. Section 6.6 will reveal
+the details.

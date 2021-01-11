@@ -1,0 +1,42 @@
+3.6 Floating Point 203
+Step 3. This product is unnormalized, so we need to normalize it:
+5 6
+1O.2 12 X 10 = 1.02 12 X 10
+ten ten
+Thus, after the multiplication, the product can be shifted right one digit to
+put it in normalized form, adding 1to the exponent. At this point, we can
+check for overflow and underflow. Underflow may occur ifboth operands
+are small- that is, if both have large negative exponents.
+Step 4. We assumed that the significand is only four digits long (excluding the
+sign), so we must round the number. The number
+6
+1.02 12 X 10
+ten
+is rounded to four digits in the significand to
+6
+1.02 1 X 10
+ten
+Step 5. The sign of the product depends on the signs of the original operands. If
+they are both the same, the sign is positive; othenvise it's negative. Hence
+the product is
+6
++
+1.02 1 X 10
+ten
+The sign of the sum in the addition algorithm was determined by addition
+of the significands, but in multiplication the sign of the product is deter 
+mined by the signs of the operands.
+Once again, as Figure 3.1 8 shows, multiplication of binary floating-point num 
+bers is quite similar to the steps we have just completed. We start with calculating
+the new exponent of the product by adding the biased exponents, being sure to
+subtract one bias to get the proper result. Next is multiplication of significands,
+followed by an optional normalization step. The size of the exponent is checked
+for overflow or underflow, and then the product is rounded. If rounding leads to
+further normalization, we once again check for exponent size. Finally, set the sign
+bit to 1 if the signs of the operands were different (negative product) or to 0 if they
+were the same (positive product).
+Decimal Floating-Point Multiplication
+Let's try multiplying the numbers O.Sten and -0.437S , using the steps in
+ten
+EXAMPLE
+Figure 3.18.

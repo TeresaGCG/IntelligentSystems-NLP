@@ -1,0 +1,70 @@
+Electric Charges
+and Fields
+
+1. 15 APPLICATIONS OF GAUss’s LAW
+
+The electric ﬁeld due to a general charge distribution is, as seen above,
+given by Eq. (1.27). In practice, except for some special cases, the
+summation (or integration) involved in this equation cannot be carried
+
+out to give electric ﬁeld at every point in
+space. For some symmetric charge
+configurations, however, it is possible to
+obtain the electric ﬁeld in a simple way using
+the Gauss’s law. This is best understood by
+some examples.
+
+1.15.1 Field due to an inﬁnitely
+long straight uniformly
+charged wire
+
+Consider an inﬁnitely long thin straight wire
+with uniform linear charge density 2.. The wire
+is obviously an axis of symmetry. Suppose we
+take the radial vector from O to P and rotate it
+around the wire. The points P, P’, P” so
+obtained are completely equivalent with
+respect to the charged wire. This implies that
+the electric ﬁeld must have the same magnitude
+at these points. The direction of electric ﬁeld at
+every point must be radial (outward if A > O,
+inward if A < O). This is clear from Fig. 1.29.
+
+Consider a pair of line elements P1 and P2
+of the wire, as shown. The electric ﬁelds
+produced by the two elements of the pair when
+summed give a resultant electric field which
+is radial (the components normal to the radial
+vector cancel). This is true for any such pair
+and hence the total ﬁeld at any point P is
+radial. Finally, since the wire is infinite,
+electric ﬁeld does not depend on the position
+of P along the length of the wire. In short, the
+electric ﬁeld is everywhere radial in the plane
+cutting the wire normally, and its magnitude
+depends only on the radial distance r.
+
+To calculate the ﬁeld, imagine a cylindrical
+Gaussian surface, as shown in the Fig. l .29(b).
+Since the field is everywhere radial, ﬂux
+through the two ends of the cylindrical
+Gaussian surface is zero. At the cylindrical
+part of the surface, E is normal to the surface
+at every point, and its magnitude is constant,
+since it depends only on r. The surface area
+of the curved part is 2n rL where lis the length
+of the cylinder.
+
+ 
+
+(b)
+
+FIGURE 1.29 (a) Electric field due to an
+
+infinitely long thin straight wire is radial.
+(b) The Gaussian surface for a long thin
+wire of uniform linear charge density.
+
+37
+
+2019-20

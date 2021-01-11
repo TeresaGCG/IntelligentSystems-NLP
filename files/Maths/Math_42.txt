@@ -1,0 +1,37 @@
+Homework Helpers: Basic Math and Pre-Algebra
+42
+Lesson 2-4: Multiplying Integers
+In order to multiply two integers, we need to go back to what multipli-
+cation represents. The product 3 × 4 is a shorthand way of writing 4 + 4 + 4.
+From this we can interpret a product such as 3 × (−5):
+3× (−5) = (−5) + (−5) + (−5).
+So if we use a number line to figure this out, we would start at −5,
+move 5 spaces to the left, and then move 5 more spaces to the left. We
+would move a total of 10 spaces to the left and end at −15. So 3 × (−5) = −15.
+In this section, I will summarize some of the many patterns involved with
+multiplication.
+The product of two whole numbers is a whole number. Because whole
+numbers are also called positive integers, we can say that the product of
+two positive integers is a positive integer. We can expand this idea and
+say that the product of two integers with the same sign will be a positive
+integer. In other words, 5 × 7 is a positive integer (as we saw in Chapter 1)
+and(−5) × (−7) is also a positive integer. This is an important observation
+worth writing out again: The product of two negative integers is a posi-
+tive integer.
+As we saw earlier, 3 × (−5) = (−5) + (−5) + (−5) = −15. This one example
+generalizes to the following idea: The product of two integers with oppo-
+site signs will be a negative integer.
+These steps will walk you through finding the product of two integers:
+1. Find the product of their magnitudes, or absolute values.
+2. Determine whether the product should be positive or
+negative.
+(cid:96) If the signs of the two integers involved in the product
+are the same, your answer will be a positive integer.
+(cid:96) If the signs of the two integers involved in the product
+are different, your answer will be a negative integer.
+Example 1
+Find the product: (−5)(−4)
+Solution: Because the signs of the two integers being multiplied
+are both negative, the answer will be positive:
+(−5)(−4) = 20
+www.ebook3000.com

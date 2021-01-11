@@ -1,0 +1,40 @@
+6.3 Plpellned Control 399
+A group of students have been debating the efficiency of the five-stage pipeline Check
+when one student pointed out that not all instructions are active in every stage of Yourself
+the pipeline. After deciding to ignore the effects of hazards, they made the follow 
+ing five statements. \Vhich ones are correct?
+I. Allowing jumps, branches, and ALU instructions to take fewer stages than
+the five required by the load instruction will increase pipeline performance
+under all circumstances.
+2. Trying to allow some instructions to take fewer cycles does not help, since
+the throughput is determined by the clock cycle; the number of pipe stages
+per instruction affects latency, not throughput.
+3. Allowing jumps, branches, and ALU operations to take fewer cycles only
+helps when no loads or stores are in the pipeline, so the benefits are small.
+4. You cannot m ake ALU instructions take fewer cycles because of the write 
+back of the result, but branches and jumps can take fewer cycles, so there is
+some opportunity for improvement.
+5. Instead of trying to make instructions take fewer cycles, we should explore
+making the pipeline longer, so that instructions take more cycles, but the
+cycles are shorter. This could improve performance.
+In the 6600 Compl/ter, per 
+haps even more than in any
+Pipelined Control
+previol/s compl/ter, the con 
+trol system is the difference.
+James Thornton,
+Just as we added control to the simple datapath in Section 5.4, we now add control
+Design ofa Computer:
+to the pipelined datapath. We start with a simple design that views the problem
+The Comrol Data 6600, 1970
+through rose-colored glasses; in Sections 6.4 through 6.8, we remove these glasses
+to reveal the hazards of the real world.
+The first step is to label the control lines on the existing datapath. Figure 6.22
+shows those lines. We borrow as much as we can from the control for the simple
+datapath in Figure 5. 17 on page 307. In particular, we use the same ALU control
+logic, branch logic, destination-register-number multiplexor, and control lines.
+These functions are defined in Figure 5.1 2 on page 302, Figure 5. 16 on page 306,
+and Figure 5. 18 on page 308. We reproduce the key information in Figures 6.23
+through 6.25 to make the remaining text easier to follow.
+As for the single-cycle implementation discussed in Chapter 5, we assume that
+the PC is written on each clock cycle, so there is no separate write signal for the

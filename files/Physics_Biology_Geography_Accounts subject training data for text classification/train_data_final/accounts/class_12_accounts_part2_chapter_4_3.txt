@@ -1,0 +1,29 @@
+Analysis of Financial Statements 1 69
+
+4.4 Tools of Analysis of Financial Statements
+
+1.
+
+Comparative Statements: These are the statements showing the
+proﬁtability and ﬁnancial position of a ﬁrm for different periods of time in
+a comparative form to give an idea about the position of two or more periods.
+It usually applies to the two important financial statements, namely,
+balance sheet and statement of proﬁt and loss prepared in a comparative
+form. The financial data will be comparative only when same accounting
+principles are used in preparing these statements. If this is not the case,
+the deviation in the use of accounting principles should be mentioned as
+a footnote. Comparative ﬁgures indicate the trend and direction of ﬁnancial
+position and operating results. This analysis is also known as ‘horizontal
+analysis'.
+
+Common Size Statements: These are the statements which indicate the
+relationship of different items of a ﬁnancial statement with a common item
+by expressing each item as a percentage of that common item. The
+percentage thus calculated can be easily compared with the results of
+corresponding percentages of the previous year or of some other ﬁrms, as
+the numbers are brought to common base. Such statements also allow an
+analyst to compare the operating and ﬁnancing characteristics of two
+companies of different sizes in the same industry. Thus, common size
+statements are useful, both, in intra—ﬁrm comparisons over different years
+and also in making inter-ﬁrm comparisons for the same year or for several
+years. This analysis is also known as ‘Vertical analysis'.

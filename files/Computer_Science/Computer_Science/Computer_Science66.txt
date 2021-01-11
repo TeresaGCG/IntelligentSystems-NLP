@@ -1,0 +1,29 @@
+50 Chapter 2 Instructions: Language of the Computer
+Thus, it takes three instructions to take the sum of four va riables.
+The words to the right of the sharp symbol (It) on each line above are comments
+for the human reader, and the computer ignores them. Note that unlike other pro 
+gramming languages, each line of this language can contain at most one instruction.
+Another difference from C is that comments always terminate at the end of a line.
+The natural number of operands for an operation like addition is three: the
+two numbers being added together and a place to put the sum. Requiring every
+instruction to have exactly three operands, no more and no less, conforms to the
+philosophy of keeping the hardware simple: hardware for a va riable number of
+operands is more complicated than hardware for a fixed number. This situation
+illustrates the first of four underlying principles of hardware design:
+Design Principle 1: Simplicity favors regularity.
+We can now show, in the two examples that follow, the relationship of pro 
+grams written in higher-level programming languages to programs in this more
+primitive notation.
+Compiling Two C Assignment Statements into MIPS
+EXAMPLE This segment of a C program contains the five variables a, b, C, ct, and e .
+Since lava evolved from C, this example and the next few work for either
+high -level programming language:
+a b + c ;
+d a e ;
+The translation from C to MIPS assembly language instructions is per 
+formed by the compiler. Show the MIPS code produced by a compiler.
+ANSWER A MIPS instruction operates on two source operands and places the result in
+one destination operand. Hence, the two simple statements above compile
+directly into these two MIPS assembly language instructions:
+adda , b , c
+subd , a , e

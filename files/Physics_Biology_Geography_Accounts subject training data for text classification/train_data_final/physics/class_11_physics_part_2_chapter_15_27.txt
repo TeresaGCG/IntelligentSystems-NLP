@@ -1,0 +1,19 @@
+394
+
+PHYSICS
+
+ 
+
+15.26 Earthquakes generate sound waves inside the earth. Unlike a gas, the earth can
+experience both transverse [S] and longitudinal [P] sound waves. Typically the speed
+of S wave is about 4.0 km 54, and that of P wave is 8.0 km s’l. A seismograph
+records Pand Swaves from an earthquake. The first Pwave arrives 4 min before the
+first S wave. Assuming the waves travel in straight line, at what distance does the
+earthquake occur ?
+
+15.27 A bat is ﬂitting about in a cave, navigating via ultrasonic beeps. Assume that the
+sound emission frequency of the bat is 40 kHz. During one fast swoop directly
+toward a ﬂat wall surface, the bat is moving at 0.03 times the speed of sound in air.
+What frequency does the bat hear reﬂected off the wall ?
+
+2019-20

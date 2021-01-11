@@ -1,0 +1,88 @@
+i Physics
+
+4.4 MOTION IN COMBINED ELECTRIC AND MAGNETIC
+FIELDS
+
+4.4. 1 Velocity selector
+
+You know that a charge q moving with velocity v in presence of both
+electric and magnetic fields experiences a force given by Eq. (4.3), that is,
+
+F=q(E+va) =FE+FB
+We shall consider the simple case in which electric and magnetic
+
+ﬁelds are perpendicular to each other and also perpendicular to
+the velocity of the particle, as shown in Fig. 4.7. We have,
+
+E=Ej,B=Bk,v=vi
+FE=qE=qu,FB=quB,=q(viXBk)=—qBj
+
+Therefore, F = q(E — vB) J .
+
+Thus, electric and magnetic forces are in opposite directions as
+shown in the figure. Suppose, we adjust the value of E and B such
+that magnitudes of the two forces are equal. Then, total force on
+FIGURE 4.7 the charge is zero and the charge will move in the fields undeﬂected.
+This happens when,
+
+x
+
+ 
+
+E
+qE = qu or v = E (4.7)
+
+This condition can be used to select charged particles of a particular
+velocity out Of a beam containing charges moving with different speeds
+(irrespective of their charge and mass). The crossed E and B ﬁelds, therefore,
+serve as a velocity selector. Only particles with speed E/ B pass
+undeﬂected through the region of crossed fields. This method was
+employed by J. J. Thomson in 1897 to measure the charge to mass ratio
+(e/ m) of an electron. The principle is also employed in Mass Spectrometer —
+a device that separates charged particles, usually ions, according to their
+charge to mass ratio.
+
+33.0
+
+4.4.2 Cyclotron
+
+The cyclotron is a machine to accelerate charged particles or ions to high
+energies. It was invented by ED. Lawrence and MS. Livingston in 1 934
+to investigate nuclear structure. The cyclotron uses both electric and
+magnetic fields in combination to increase the energy of charged particles.
+As the fields are perpendicular to each other they are called crossed
+ﬁelds. Cyclotron uses the fact that the frequency of revolution of the
+charged particle in a magnetic field is independent of its energy. The
+particles move most of the time inside two semicircular disc-like metal
+containers, D1 and D2, which are called dees as they look like the letter
+D. Figure 4.8 shows a schematic view of the cyclotron. Inside the metal
+boxes the particle is shielded and is not acted on by the electric field. The
+7 magnetic field, however, acts on the particle and makes it go round in a
+"“’ circular path inside a dee. Every time the particle moves from one dee to
+another it is acted upon by the electric field. The sign of the electric field
+is changed alternately in tune with the circular motion of the particle.
+This ensures that the particle is always accelerated by the electric field.
+Each time the acceleration increases the energy of the particle. As energy
+
+http://www. p hy.ntn u .edulw/ntnujava/i ndex.php?t0pic
+
+E
+.9
+d—D
+g
+U)
+C
+o
+E
+o
+'0
+=0)
+0.2
+2:2:
+SE
+
+ 
+
+140
+
+2019-20

@@ -1,0 +1,22 @@
+Decimals
+89
+not necessarily the same power of 10), the common denominator will
+also be a power of 10. To determine the power of 10 of the common
+denominator, simply pick the larger of the two.
+Example 2
+Find the sum: 0.325 + 0.4062
+Solution: Convert each decimal number to a fraction. Notice that
+0.325 has three digits to the right of the decimal point (meaning
+that the denominator of its corresponding fraction would be 103 )
+and 0.4062 has four digits to the right of the decimal point (meaning
+that the denominator of its corresponding fraction will be 104).
+Because 104 > 103,104 will be our common denominator:
+We can now make the two denominators the same and add the
+fractions:
+Finally, we will convert our result to a decimal number:
+Another way to add two decimal fractions is to line up the decimal
+points and added the numbers directly. Remember that I can always add
+0s after the last digit to the right of the decimal point as placeholders.
+That means that the equation 0.325 + 0.4062 = 0.7312
+is equivalent to the equation 0.3250 + 0.4062 = 0.7312
+and lining up the digits gives us:

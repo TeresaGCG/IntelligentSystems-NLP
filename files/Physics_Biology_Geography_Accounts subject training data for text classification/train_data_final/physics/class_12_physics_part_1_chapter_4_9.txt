@@ -1,0 +1,101 @@
+Moving Chorges and
+Magnetism
+
+increases, the radius of the circular path increases. So the path is a
+spiral one.
+
+The whole assembly is evacuated to minimise collisions between the
+ions and the air molecules. A high frequency alternating voltage is applied
+to the dees. In the sketch shown in Fig. 4.8, positive ions or positively
+charged particles (e. g., protons) are released at the centre P. They move
+in a semi-circular path in one of the dees and arrive in the gap between
+the dees in a time interval T/ 2; where T, the period of revolution, is given
+by Eq. (4.6),
+
+ 
+
+ 
+
+T=i22nm
+VC qB
+V — qB 48
+or C 27tm (')
+
+This frequency is called the cyclotron frequency for obvious reasons
+and is denoted by vC.
+
+The frequency v01 of the applied voltage is adjusted so that the polarity
+of the dees is reversed in the same time that it takes the ions to complete
+one half of the revolution. The requirement v01 = vc is called the resonance
+condition. The phase of the supply is adjusted so that when the positive
+ions arrive at the edge of D1, D2 is at a lower
+potential and the ions are accelerated across the
+gap. Inside the dees the particles travel in a region
+free of the electric field. The increase in their
+
+Magnetic ﬁeld out
+of the paper
+
+Deﬂection plate
+
+ 
+
+ 
+
+kinetic energy is qV each time they cross from
+one dee to another (Vrefers to the voltage across
+the dees at that time). From Eq. (4.5), it is clear
+that the radius of their path goes on increasing
+each time their kinetic energy increases. The ions
+are repeatedly accelerated across the dees until
+they have the required energy to have a radius
+approximately that of the dees. They are then
+deﬂected by a magnetic ﬁeld and leave the system
+
+via an exit slit. From Eq. (4.5) we have, D1
+BR
+v = q— (4.9)
+m
+
+ 
+
+    
+ 
+
+where R is the radius of the trajectory at exit, and
+equals the radius of a dee.
+
+   
+
+OSCILLATOR
+
+. _ Exit Port
+
+, ' Charged
+- particle
+
+ 
+
+Hence, the kinetic energy of the ions is,
+
+(4.10)
+
+The operation of the cyclotron is based on the
+fact that the time for one revolution of an ion is
+independent of its speed or radius of its orbit.
+The cyclotron is used to bombard nuclei with
+energetic particles, so accelerated by it, and study
+
+FIGURE 4.8 A schematic sketch of the
+cyclotron. There is a source of charged
+particles or ions at P which move in a
+circular fashion in the dees. DI and D2. on
+account of a uniform perpendicular
+magnetic field B. An alternating voltage
+source accelerates these ions to high
+speeds. The ions are eventually ‘extracted'
+at the exit port.
+
+141
+
+2019-20

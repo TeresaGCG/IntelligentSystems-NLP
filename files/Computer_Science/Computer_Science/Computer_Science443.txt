@@ -1,0 +1,70 @@
+6.8 Exeeptlons 427
+,,-
+~ "_.
+-
+d_;':'lon
+10
+Er;EM
+r-
+•
+, • E;;EM
+- .
+ConlrOl ,ij";: •" r-
+V
+'co "
+.. • r- r-
+/
+/
+"
+"
+~,
+•
+A
+" "
+~ •
+•
+• IIogl_ .. ".
+r-
+InstNcdon y "" •
+" ~ m. mory
+• m_~
+• "
+~ Ir •
+"
+•
+Sign
+-~
+-
+~
+•
+•" ~
+~
+FOWIIrdlng
+"".
+FtGURE 6.41 The final datapath and eontrol for this ehapter.
+To make a computer with
+automatic program-inter 
+Exceptions
+ruption facilities behave
+{sequentially} was not an
+easy matter, because the
+Another form of control hazard involves exceptions. For example, suppose the
+number ofinstructions in
+following instruction
+various stages ofprocessing
+when an interrupt signal
+add $1,$2 , $1
+occurs may be large.
+has an arithmetic overflow. We need to transfer control to the exception routine
+Fred Brooks Jr., Plmming a
+immediately after this instruction because we wouldn't want this invalid value to
+Computer System:
+contaminate other registers or memory locations.
+Project Stretch, 1962
+Just as we did for the taken branch in the previous section, we must flush the
+instructions that follow the add instruction from the pipeline and begin fetching
+instructions from the new address. We will use the same mechanism we used for
+taken branches, but this time the exception causes the deasserting of control lines.
+\-¥hen we dealt with branch mispredict, we saw how to flush the instruction in
+the IF stage by turning it into a nop. To flush instructions in the 10 stage, we use
+the multiplexor already in the 10 stage that zeros control signals for stalls. A new

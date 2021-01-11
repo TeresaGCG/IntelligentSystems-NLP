@@ -1,0 +1,13 @@
+7.1 Introduction 468
+7.2 The Basics of Caches 473
+7.3 Measuring and Improving Cache Performance 492
+7.4 Virtual Memory 511
+7.5 A Common Framework for Memory Hierarchies 538
+7.6 Real Stuff: The Pentium P4 and the AMD Opteron Memory
+Hierarchies 546
+7.7 Fallacies and Pitfalls 550
+7.8 Concluding Remarks 552
+• 7.9 Historical Perspective and Further Reading 555
+7.10 Exercises 555
+The Five Classic Components of a Computer
+Interlace

@@ -1,0 +1,38 @@
+7.5 A Common Framework for Memory Hierarchies 541
+mapped caches because of their advantage in access time and simplicity. The
+advantage in access time occurs because finding the requested block does not
+depend on a comparison. Such design choices depend on many details of the
+implementation, such as whether the cache is on-chip, the technology used for
+implementing the cache, and the critical role of cache access time in determining
+the processor cycle time.
+Question 3: Which Block Should Be Replaced
+on a Cache Miss?
+When a miss occurs in an associative cache, we must decide which block to
+replace. In a fully associative cache, all blocks are candidates for replacement. If
+the cache is set associative, we must choose among the blocks in the set. Of course,
+replacement is easy in a direct-mapped cache because there is only one candidate.
+We have already mentioned the two primary strategies for replacement in set 
+associative or fully associative caches:
+• Random: Candidate blocks are randomly selected, possibly using some
+hardware assistance. For example, MIPS supports random replacement for
+TLB misses.
+• Least recently used (LRU): The block replaced is the one that has been
+unused for the longest time.
+In practice, LRU is too costly to implement for hierarchies with more than a
+small degree of associativity (two to four, typically), since tracking the usage
+information is costly. Even for four-way set associativity, LRU is often approxi 
+mated- for example, by keeping track of which of a pair of blocks is LRU (which
+requires 1 bit), and then tracking which block in each pair is LRU (which requires
+1 bit per pair).
+For larger associativity, either LRU is approximated or random replacement is
+used. In caches, the replacement algorithm is in hardware, which means that the
+scheme should be easy to implement. Random replacement is simple to build in
+hardware, and for a two-way set-associative cache, random replacement has a
+miss rate about 1.1 times higher than LRU replacement. As the caches become
+larger, the miss rate for both replacement strategies falls, and the absolute differ 
+ence becomes small. In fact, random replacement can sometimes be better than
+the simple LRU approximations that are easily implemented in hardware.
+In virtual memory, some form of LRU is always approximated since even a tiny
+reduction in the miss rate can be important when the cost of a miss is enormous.
+Reference bits or equivalent fun ctionality is often provided to make it easier for
+the operating system to track a set of less recently used pages. Because misses are

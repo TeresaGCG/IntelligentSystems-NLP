@@ -1,0 +1,52 @@
+178
+
+BIOLOGY
+
+molecule moves across a membrane independent of other molecules, the
+process is called uniport.
+
+1 1 . 1 .3 Active Transport
+
+Active transport uses energy to transport and pump molecules against a
+concentration gradient. Active transport is carried out by specific
+membrane-proteins. Hence different proteins in the membrane play a
+major role in both active as well as passive transport. Pumps are proteins
+that use energy to carry substances across the cell membrane. These
+pumps can transport substances from a low concentration to a high
+concentration (‘uphill’ transport). Transport rate reaches a maximum
+when all the protein transporters are being used or are saturated. Like
+enzymes the carrier protein is very specific in what it carries across the
+membrane. These proteins are sensitive to inhibitors that react with protein
+side chains.
+
+1 1 . 1 .4 Comparison of Different Transport Processes
+
+Table l 1.1 gives a comparison of the different transport mechanisms.
+Proteins in the membrane are responsible for facilitated diffusion and
+active transport and hence show common characterstics of being highly
+selective; they are liable to saturate, respond to inhibitors and are under
+hormonal regulation. But diffusion whether facilitated or not — take place
+only along a gradient and do not use energy.
+
+TABLE 11.1 Comparison of Different Transport Mechanisms
+
+Property Simple Facilitated Active
+Diffusion Transport Transport
+Requires special membrane proteins No Yes Yes
+Highly selective No Yes Yes
+Transport saturates No Yes Yes
+Uphill transport No No Yes
+Requires ATP energy No No Yes
+
+1 1.2 PLANT-WATER RELATIONS
+
+Water is essential for all physiological activities of the plant and plays a
+very important role in all living organisms. It provides the medium in
+which most substances are dissolved. The protoplasm of the cells is
+nothing but water in which different molecules are dissolved and (several
+particles) suspended. A watermelon has over 92 per cent water; most
+herbaceous plants have only about 10 to 15 per cent of its fresh weight
+as dry matter. Of course, distribution of water within a plant varies —
+woody parts have relatively very little water, while soft parts mostly contain
+
+2019-2020

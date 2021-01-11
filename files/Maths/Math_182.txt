@@ -1,0 +1,30 @@
+Homework Helpers: Basic Math and Pre-Algebra
+182
+The midpoint of a line segment is the unique point that is exactly
+halfway between the two endpoints of the segment. I recommend asso-
+ciating the midpoint of a line segment with the average of the coordi-
+nates of the two points. The midpoint of the line segment with endpoints
+(a, b) and (c, d) is the point whose x-coordinate is the average of the
+x-coordinates of the two endpoints and whose y-coordinate is the aver-
+age of the y-coordinates of the two endpoints. If M is the midpoint of the
+line segment with endpoints (a,b) and (c,d), you can use this formula to
+find the midpoint M:
+( )
+a + c b + d
+M = ,
+2 2
+Example 1
+Find the midpoint of the line segment with endpoints (3, 8) and
+(−2, 6).
+Solution: Using the formula for the midpoint we have:
+It may be helpful to see a picture of the relationship between these
+three points. Figure 10.5 shows these three points on the Cartesian coor-
+dinate system.
+15
+10
+(3, 8) Endpoint
+(½, 7) Midpoint
+Endpoint (–2, 6)
+5
+Figure 10.5
+www.ebook3000.com

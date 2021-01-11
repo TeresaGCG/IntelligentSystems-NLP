@@ -1,0 +1,40 @@
+138 PHYSICS
+
+ 
+
+6.26 A 1 kg block situated on a rough incline is connected to a spring of spring constant 100
+N m‘1 as shown in Fig. 6.17. The block is released from rest with the spring in the
+unstretched position. The block moves 10 cm down the incline before coming to rest.
+Find the coefficient of friction between the block and the incline. Assume that the
+spring has a negligible mass and the pulley is frictionless.
+
+= 100 N/m
+
+ 
+
+Fig. 6.17
+
+6.27 A bolt of mass 0.3 kg falls from the ceiling of an elevator moving down with an uniform
+speed of 7 m s‘l. It hits the ﬂoor of the elevator [length of the elevator = 3 m) and does
+not rebound. What is the heat produced by the impact ? Would your answer be different
+if the elevator were stationary ?
+
+6.28 A trolley of mass 200 kg moves with a uniform speed of 36 km/ h on a frictionless track.
+A child of mass 20 kg runs on the trolley from one end to the other [10 m away) with a
+speed of 4 m 5'1 relative to the trolley in a direction opposite to the its motion, and
+jumps out of the trolley. What is the final speed of the trolley ? How much has the
+trolley moved from the time the child begins to run ?
+
+6.29 Which of the following potential energy curves in Fig. 6.18 cannot possibly describe the
+elastic collision of two billiard balls ? Here r is the distance between centres of the balls.
+
+2 R r 2 R r 2 R r
+(1) (ii) (111)
+V(T) V(T)|i V(T) |
+2 T 2R r 2R r
+(M (V) (Vi)
+Fig. 6.1 8
+
+6.30 Consider the decay of a free neutron at rest : n -) p + 6
+
+2019-20

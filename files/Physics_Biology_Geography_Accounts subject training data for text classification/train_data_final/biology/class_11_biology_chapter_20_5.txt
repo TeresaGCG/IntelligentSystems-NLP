@@ -1,0 +1,40 @@
+LOCOMOT ION AND MOVEMENT
+
+ 
+
+Muscle contraction is initiated by a signal sent by the central nervous
+system (CNS) via a motor neuron. A motor neuron alongwith the muscle
+ﬁbres connected to it constitute a motor unit. The junction between a
+motor neuron and the sarcolemma of the muscle ﬁbre is called the
+neuromuscular junction or motor-end plate. A neural signal reaching
+this j unction releases a neurotransmitter (Acetyl choline) which generates
+an action potential in the sarcolemma. This spreads through the muscle
+ﬁbre and causes the release of calcium ions into the sarcoplasm. Increase
+in CaH level leads to the binding of calcium with a subunit of troponin on
+actin ﬁlaments and thereby remove the masking of active sites for myosin.
+Utilising the energy from ATP hydrolysis, the myosin head now binds to
+the exposed active sites on actin to form a cross bridge (Figure 20.4). This
+
+   
+
+Myosin head
+
+(Formation of cross bridge)
+
+/
+
+Figure 20.4 Stages in cross bridge formation, rotation of head and breaking of
+cross bridge
+
+ 
+
+Sliding / rotation
+
+pulls the attached actin ﬁlaments towards the centre of ‘A’ band. The
+‘2’ line attached to these actins are also pulled inwards thereby causing a
+shortening of the sarcomere, i.e., contraction. It is clear from the above
+steps, that during shortening of the muscle, i.e., contraction, the ‘1’ bands
+get reduced, whereas the ‘A’ bands retain the length (Figure 20.5). The
+myosin, releasing the ADP and P1 goes back to its relaxed state. A new
+ATP binds and the cross-bridge is broken (Figure 20.4). The ATP is again
+hydrolysed by the myosin head and the cycle of cross bridge formation

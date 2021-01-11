@@ -1,0 +1,35 @@
+8.4 Buses and other Connections between Processors, Memory, and i/ O Devlc:es 587
+These two chips demonstrate the gradual evolution from parallel shared buses
+to high-speed serial point-to-point interconnections with switches via the past
+and future versions of ATA and PCI.
+Serial ATA is a serial successor to the parallel ATA bus used by magnetic and
+optical disks in PCs. The first generation transfers at 150 MB/sec compared to the
+100 MB/sec of parallel ATA- 100 bus. Its distance is I meter, twice the maximum
+length of ATA- 100. It uses just 7 wires, with one 2-wire data channel in each direc 
+tion, compared to 80 for ATA- IOO.
+The south bridge in Figure 8.11 demonstrates the transitory period between
+parallel buses and serial networks by providing both parallel and serial ATA buses.
+pC! Express is a serial successor to the popular PCI bus. Rather than 32-64
+shared wires operating at 33 MHz-133 MHz with a peak bandwidth of 132-1064
+MB/sec, PCI Express uses just 4 wires in each direction operating at 625 MHz to
+offer 300 MB/sec per direction. The bandwidth per pin of PCI Express is 5-10
+times its predecessors. A computer ca n then afford to have several PCI Express
+interfaces to get even higher bandwidth.
+Although the chips in Figure 8.11 only show the parallel PCI bus, Intel plans to
+replace the AGP graphics bus and the bus between the north bridge and the south
+bridge with PCI Express in the next generation of these chips.
+Buses and networks provide electrical interconnection among I/O devices, pro 
+cessors, and memory, and also define the lowest-level protocol for communica 
+tion. Above this basic level, we must define hardware and software protocols for
+controlling data transfers between I/O devices and memory, and for the processor
+to specify commands to the I/O devices. These topics are covered in the next sec 
+tion.
+Both networks and buses connect components together. Which of the following Check
+are true about them? Yourself
+I. Networks and I/O buses are almost always standardized.
+2. Shared media networks and multimaster buses need an arbitration scheme.
+3. Local area networks and processor-memory buses are almost always syn 
+chronous.
+4. High-performance networks and buses use similar techniques compared to
+their lower-performance alternatives: they are wider, send many words per
+transaction, and have separate address and data lines.

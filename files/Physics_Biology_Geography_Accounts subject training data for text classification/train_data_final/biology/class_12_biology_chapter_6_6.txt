@@ -1,0 +1,55 @@
+MOLECULAR BASIS OF INHERITANCE
+
+injected a mixture of heat-killed S and live R bacteria, the mice died.
+Moreover, he recovered living S bacteria from the dead mice.
+
+He concluded that the R strain bacteria had somehow been
+transformed by the heat-killed S strain bacteria. Some ‘transforming
+principle’, transferred from the heat-killed S strain, had enabled the
+R strain to synthesise a smooth polysaccharide coat and become virulent.
+This must be due to the transfer of the genetic material. However, the
+biochemical nature of genetic material was not defined from his
+experiments.
+
+Biochemical Characterisation of Transforming Principle
+
+Prior to the work of Oswald Avery, Colin MacLeod and Maclyn McCarty
+(1933-44), the genetic material was thought to be a protein. They worked
+to determine the biochemical nature of ‘transforming principle’ in Griffith's
+experiment.
+
+They puriﬁed biochemicals (proteins, DNA, RNA, etc.) from the
+heat-killed S cells to see which ones could transform live R cells into
+S cells. They discovered that DNA alone from S bacteria caused R bacteria
+to become transformed.
+
+They also discovered that protein-digesting enzymes (proteases) and
+RNA-digesting enzymes (RNases) did not affect transformation, so the
+transforming substance was not a protein or RNA. Digestion with DNase
+did inhibit transformation, suggesting that the DNA caused the
+transformation. They concluded that DNA is the hereditary material, but
+not all biologists were convinced.
+
+Can you think of any difference between DNAs and DNase?
+
+6.2. 1 The Genetic Material is DNA
+
+The unequivocal proof that DNA is the genetic material came from the
+experiments of Alfred Hershey and Martha Chase (1952). They worked
+with Viruses that infect bacteria called bacteriophages.
+
+The bacteriophage attaches to the bacteria and its genetic material
+then enters the bacterial cell. The bacterial cell treats the viral genetic
+material as if it was its own and subsequently manufactures more virus
+particles. Hershey and Chase worked to discover whether it was protein
+or DNA from the viruses that entered the bacteria.
+
+They grew some viruses on a medium that contained radioactive
+phosphorus and some others on medium that contained radioactive sulfur.
+Viruses grown in the presence of radioactive phosphorus contained
+radioactive DNA but not radioactive protein because DNA contains
+phosphorus but protein does not. Similarly, viruses grown on radioactive
+sulfur contained radioactive protein but not radioactive DNA because
+DNA does not contain sulfur.
+
+2019—2020

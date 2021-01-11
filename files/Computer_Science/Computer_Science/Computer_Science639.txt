@@ -1,0 +1,37 @@
+periencing headaches has a brain tumor, accurately perform surgery, particularly
+which requires surgery, or simply needs when using minimally invasive tech 
+medication for a headache. niques.
+• By providing a smgeon with an accmate • Functional MRI (FMRI): a new type of
+three-dimensional image, MRI can im  application that uses MRI to examine
+prove the smgical planning process and brain function, primarily by analyzing
+hence the outcome. For example, in oper  blood flow in various portions of the
+ating on the brain to remove a tumor with  brain. FMRI is being used for a number of
+out accurate images ofthe tumor, the applications, including eA"ploring the
+surgeon likely would have to enter the physiological bases for cognitive problems
+brain and then create a plan on the fly de  such as dyslexia, pain management, plan 
+pending on the size and exact placement of ningfor neurosurgery, and understanding
+the tumor. Fwthermore, minimally inva  neurological disorders.
+sive techniques (e.g. endoscopic surgery),
+which have become quite effective, would To learn more see these references on
+II
+be impossible without accurate images. the library
+MRI scans from the National Institutes of Health's Visi 
+There are many new interesting uses of MRI
+ble Human project
+technology, which rely on faster and more cost
+Principles of MRI and its application to medical imag 
+effective computing. Some of the most prom 
+ing (long and reasonably detailed, but only a little
+Ismg are
+mathematics)
+Using MRI to do real-time cardiac imaging and angiog 
+• real-time imaging of the heart and blood
+raphy (imaging of blood vessels)
+vessels to enhance diagnosis of cardiac
+Functional MRI, www.fmri.org/fmri.htm
+and cardiovascular disease;
+Visualization and imaging (including MRI and CT
+• Combining real-time images and MRI
+images): high-performance computing for complex
+images during surgery to help surgeons Images
+MRllmages of a human brain In three dimensions

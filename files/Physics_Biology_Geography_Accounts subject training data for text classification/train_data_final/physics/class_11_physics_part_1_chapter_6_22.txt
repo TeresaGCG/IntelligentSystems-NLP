@@ -1,0 +1,66 @@
+136
+
+(c) What are the answers to (a) and (b) for an inelastic collision ?
+
+[d] If the potential energy of two billiard balls depends only on the separation distance
+between their centres, is the collision elastic or inelastic ? (Note, we are talking
+here of potential energy corresponding to the force during collision, not gravitational
+potential energy).
+
+6.9 A body is initially at rest. It undergoes one—dimensional motion with constant
+acceleration. The power delivered to it at time t is proportional to
+
+(i) t“2 [ii] t [iii] 1?” [iv] t2
+6. 10 A body is moving unidirectionally under the inﬂuence of a source of constant power.
+Its displacement in time tis proportional to
+
+[i] t1/2 (ii) t (iii) t3/2 [iv] t2
+6.11 A body constrained to move along the z—axis of a coordinate system is subject to a
+constant force F given by
+
+F = —i + 2 j + 3 1} N
+where i, 3,1; are unit vectors along the x—, y— and z—axis of the system respectively.
+
+What is the work done by this force in moving the body a distance of 4 m along the
+z—axis ?
+
+6. 12 An electron and a proton are detected in a cosmic ray experiment, the first with kinetic
+energy 10 keV, and the second with 100 keV. Which is faster, the electron or the
+proton ? Obtain the ratio of their speeds. [electron mass = 9.1 l><10‘31 kg, proton mass
+= l.67><10‘27 kg, 1 eV = 1.60 ><10F19 J].
+
+6. 13 A rain drop of radius 2 mm falls from a height of 500 m above the ground. It falls with
+decreasing acceleration (due to viscous resistance of the air] until at half its original
+height, it attains its maximum [terminal] speed, and moves with uniform speed
+thereafter. What is the work done by the gravitational force on the drop in the first
+and second half of its journey ? What is the work done by the resistive force in the
+entire journey if its speed on reaching the ground is 10 m s‘1 ?
+
+6. 14 A molecule in a gas container hits a horizontal wall with speed 200 m s'1 and angle 30°
+with the normal, and rebounds with the same speed. Is momentum conserved in the
+collision ? Is the collision elastic or inelastic ?
+
+6. 1 5 A pump on the ground ﬂoor of a building can pump up water to ﬁll a tank of volume 30 m3
+in 15 min. If the tank is 40 m above the ground, and the efficiency of the pump is 30%,
+how much electric power is consumed by the pump ?
+
+6.16 Two identical ball bearings in contact with each other and resting on a frictionless
+table are hit head—on by another ball bearing of the same mass moving initially with a
+speed V. If the collision is elastic, which of the following (Fig. 6.14) is a possible result
+after collision ?
+
+g a3
+123 % = (i)
+o 0 V0 K
+——’ 2
+V
+% $3 3
+V=0 -—I/-> (11)
+% ..
+———» (iii)
+K
+3
+Fig.6.14
+2019—20
+
+P1 IYSICS

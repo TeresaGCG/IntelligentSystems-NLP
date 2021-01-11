@@ -1,0 +1,70 @@
+I Physics
+
+ 
+
+7. A changing current in a coil (coil 2) can induce an emf in a nearby coil
+
+[coil 1). This relation is given by,
+g
+
+12 dt
+The quantity M12 is called mutual inductance of coil 1 with respect to
+coil 2. One can similarly deﬁne M21. There exists a general equality,
+M12 = M21
+
+8. When a current in a coil changes, it induces a back emf in the same
+coil. The self-induced emf is given by,
+
+81 =—M
+
+L is the self-inductance of the coil. It is a measure of the inertia of the
+coil against the change of current through it.
+
+9. The self-inductance of a long solenoid, the core of which consists of a
+magnetic material of permeability Mr. is given by
+
+L= ,ur [Jon2Al
+
+where A is the area of cross-section of the solenoid, lits length and n
+the number of tums per unit length.
+
+10. In an ac generator, mechanical energy is converted to electrical energy
+by virtue of electromagnetic induction. If coil of N turn and area A is
+rotated at v revolutions per second in a uniform magnetic ﬁeld B, then
+the motional emf produced is
+
+s = NBA (21w) sin (27: vt)
+
+where we‘ have assumed that at time t = 0 s. the coil is perpendicular to
+the ﬁeld.
+
+ 
+
+Quantity ' Dimensions Equations
+
+[M L2 T—2 A'l]
+[M L2 T* A'l]
+[M L2 T'2 A'Z]
+
+[M L2 T‘2 A'Z]
+
+   
+
+POINTS TO PONDER
+
+1. Electricity and magnetism are intimately related. In the early part of the
+nineteenth century. the experiments of Oersted. Ampere and others
+established that moving charges (currents) produce a magnetic ﬁeld.
+Somewhat later, around 1830. the experiments of Faraday and Henry
+demonstrated that a moving magnet can induce electric current.
+
+2. In a closed circuit. electric currents are induced so as to oppose the
+changing magnetic ﬂux. It is as per the law of conservation of energy.
+However, in case of an open circuit. an emf is induced across its ends.
+How is it related to the ﬂux change?
+
+3. The motional emf discussed in Section 6.5 can be argued independently
+
+228 from Faraday’s law using the Lorentz force on moving charges. However.
+
+2019-20

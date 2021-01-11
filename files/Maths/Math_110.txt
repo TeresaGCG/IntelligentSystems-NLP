@@ -1,0 +1,37 @@
+Homework Helpers: Basic Math and Pre-Algebra
+110
+Lesson 6-4: Algebraic Properties of Equality
+Equations represent balance, and any change that you make to an
+equation must maintain that balance. Maintaining that balance means
+that there are only certain things that you are allowed to do to an equa-
+tion. The key point is that whatever you do to one side of the equation
+you must also do to the other side of the equation. You are not allowed to
+tip the scales and favor one side over another side.
+The first algebraic property of equality is known as the addition
+property of equality. It states that you are allowed to add the same
+amount to both sides of an equation. Mathematically, we write this prop-
+erty as follows:
+If a, b, and c are numbers with a = b, then a + c = b + c
+We are not allowed to favor one side of the equality over the other
+side; the quantity c was added to both sides, so the balance is main-
+tained. Looking back on the example with money, if you have a $10
+bill and I have 10 $1 bills, then we each have the same amount of
+money. If a kind stranger gives us each a $20 bill, then we are both
+still equally rich; we both have a total of $30. Notice that in the addi-
+tion property of equality, the signs of a, b, and c were not specified.
+That’s because it doesn’t matter. If I have 10 $1 bills and my son has
+40 quarters, and we both decide to spend $2 on an ice-cream cone,
+then we will both end up with $8. The addition property of equality is
+important because it allows us to add (or subtract) the same number
+from both sides of an equation without changing the validity of that
+statement.
+The second algebraic property of equality is known as the multiplica-
+tion property of equality. It states that you are allowed to multiply both
+sides of an equality by the same amount. Mathematically, we write this
+property as follows:
+If a, b, and c are numbers with a = b, then (a)(c) = (b)(c)
+Again, one side is not favored over the other side; both sides are
+treated equally because both sides are being multiplied by c. Let’s go
+back to our example with money. If you have a $10 bill and I have 10 $1
+bills, and we both double our money in a bet, then we both now have $20.
+www.ebook3000.com

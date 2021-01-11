@@ -1,0 +1,43 @@
+167
+3.2 Signed and Unsigned Numbers
+The second shortcut tells us how to convert a binary number represented in n
+bits to a number represented with more than n bits. For example, the immediate
+field in the load, store, branch, add, and set on less than instructions contains a
+15
+two's complement 16-bit number, representing -32,768,en (_2 to 32,767,en
+)
+15
+(2 I). To add the immediate field to a 32-bit register, the computer must con 
+-
+vert that 16-bit number to its 32-bit equivalent. The shortcut is to take the most
+significant bit from the smaller quantity- the sign bit-and replicate it to fill the
+new bits of the larger quantity. The old bits are simply copied into the right por 
+tion of the new word. This shortcut is commonly called sign extension.
+Sign Extension Shortcut
+Convert 16-bit binary versions of 2 and -2 to 32-bit binary numbers.
+ten ten
+EXAMPLE
+The 16-bit binary version of the number 2 is
+ANSWER
+0000000000000010 2
+two = ten
+It is converted to a 32-bit number by making 16 copies of the value in the
+most significant bit (0) and placing that in the left-hand half of the word. The
+right half gets the old value:
+00000000000000000000000000000010 Zten
+two =
+Let's negate the 16-bit version of 2 using the earlier shortcut. Thus,
+0000000000000010
+two
+becomes
+1111111111111101
+two
++ 1
+two
+111111111111 111 0two
+Creating a 32-bit version of the negative number mea ns copying the sign
+bit 16 times and placing it on the left:
+11111111111111111111111111111110 - Zten
+two =
+This trick works because positive two's complement numbers really have an
+infinite number of Os on the left and those that are negative two's complement

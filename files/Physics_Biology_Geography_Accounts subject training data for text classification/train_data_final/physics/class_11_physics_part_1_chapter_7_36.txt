@@ -1,0 +1,66 @@
+SYSTEMS OF PARTICLES AND ROTATIONAL MOTION I77
+—
+
+15. Rotation about a fixed axis is directly analogous to linear motion in respect of kinematics
+and dynamics.
+
+16. For a rigid body rotating about a fixed axis (say, z—axis) of rotation, LZ = [(0, where I is
+the moment of inertia about z—axis. In general, the angular momentum L for such a
+body is not along the axis of rotation. Only if the body is symmetric about the axis of
+
+rotation, L is along the axis of rotation. In that case, |L| = LZ = I a). The angular
+
+acceleration of a rigid body rotating about a fixed axis is given by Ia = r. If the external
+torque ”C acting on the body is zero, the component of angular momentum about the
+fixed axis (say, z—axis), LZ (=Ico) of such a rotating body is constant.
+
+1 7. For rolling motion without slipping vcm = Ra), where vcm is the velocity of translation (i.e.
+of the centre of mass), R is the radius and mis the mass of the body. The kinetic energy
+of such a rolling body is the sum of kinetic energies of translation and rotation:
+
+1 1
+K=§mv§m+51w2
+
+9...... .,.....—w_
+V = (I) X l'
+
+Angular velocity on ['I‘“] rad s‘
+Angularmomentum L [ML”T“] J s L =r xp}
+Torque T [ML’T '3] N m 1' = 1‘ XE
+Moment of inertia 1 [ML’] . kg m2 I =* {Emir}2
+
+POINTS T0 PONDER
+
+1. To determine the motion of the centre of mass of a system no knowledge of internal
+forces of the system is required. For this purpose we need to know only the external
+forces on the body.
+
+Separating the motion of a system of particles as the motion of the centre of mass. (i.e..
+the translational motion of the system) and motion about (i.e. relative to) the centre of
+mass of the system is a useful technique in dynamics of a system of particles. One
+example of this technique is separating the kinetic energy of a system of particles K as
+the kinetic energy of the system about its centre of mass K’ and the kinetic energl of
+the centre of mass MVZ/2.
+
+K = K’ + MW/ 2
+Newton’s Second Law for finite sized bodies (or systems of particles) is based in N ewton‘s
+Second Law and also Newton's Third Law for particles.
+To establish that the time rate of change of the total angular momentum of a system of
+particles is the total external torque in the system, we need not only Newton‘s second
+law for particles. but also N ewton's third law with the provision that the forces between
+any two particles act along the line joining the particles.
+The vanishing of the total external force and the vanishing of the total external torque
+are independent conditions. We can have one without the other. In a couple. total
+external force is zero, but total torque is non—zero.
+The total torque on a system is independent of the origin if the total external force is
+zero.
+The centre of gravity of a body coincides with its centre of mass only if the gravitational
+field does not vary from one part of the body to the other.
+The angular momentum L and the angular velocity 0) are not necessarily parallel vectors.
+However. for the simpler situations discussed in this chapter when rotation is about a
+fixed axis which is an axis of symmetry of the rigid body. the relation L = 10) holds good.
+where I is the moment of the inertia of the body about the rotation axis.
+
+ 
+
+2019-20

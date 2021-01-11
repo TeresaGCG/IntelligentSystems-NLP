@@ -1,0 +1,66 @@
+of a charge in a magnetic field, the magnetic force is
+perpendicular to the velocity of the particle. So no work is done
+and no change in the magnitude of the velocity is produced
+(though the direction of momentum may be changed). [Notice
+that this is unlike the force due to an electric ﬁeld, qE, which
+can have a component parallel (or antiparallel) to motion and
+thus can transfer energy in addition to momentum.]
+
+We shall consider motion of a charged particle in a uniform
+magnetic ﬁeld. First consider the case of v perpendicular to B.
+The perpendicular force, q v X B, acts as a centripetal force and
+produces a circular motion perpendicular to the magnetic ﬁeld.
+The particle will describe a circle if v and B are perpendicular
+x x x x to each other (Fig. 4.5).
+
+If velocity has a component along B, this component
+remains unchanged as the motion along the magnetic ﬁeld will
+not be aifected by the magnetic ﬁeld. The motion
+in a plane perpendicular to B is as before a
+circular one, thereby producing a helical motion
+(Fig. 4.6).
+
+You have already learnt in earlier classes
+(See Class XI, Chapter 4) that if r is the radius
+of the circular path of a particle, then a force of
+m U2 / r, acts perpendicular to the path towards
+the centre of the circle, and is called the
+centripetal force. If the velocity v is
+perpendicular to the magnetic field B, the
+magnetic force is perpendicular to both v and
+B and acts like a centripetal force. It has a
+magnitude q u B. Equating the two expressions
+for centripetal force,
+
+ 
+
+FIGURE 4.5 Circular motion
+
+m v2/r= q u B, which gives
+
+ 
+
+radius r = m U / qB (4.5)
+
+FIGURE 4.6 Helical motion for the radius of the circle described by the
+charged particle. The larger the momentum,
+the larger is the radius and bigger the circle described. If wis the angular
+
+frequency, then u = a) r. So,
+
+a) = 2n v= qB/ m [4.6(a)]
+which is independent of the velocity or energy . Here v is the frequency of
+rotation. The independence of v from energy has important application
+in the design of a cyclotron (see Section 4.4.2).
+
+The time taken for one revolution is T: 27t/a) E l /v. If there is a
+component of the velocity parallel to the magnetic ﬁeld (denoted by u”), it
+will make the particle move along the ﬁeld and the path of the particle
+would be a helical one (Fig. 4.6). The distance moved along the magnetic
+field in one rotation is called pitch p. Using Eq. [4.6 (a)], we have
+
+p= UHT = 21tm v” / qB [4.6(b)]
+138 The radius of the circular component of motion is called the radius of
+the helix.
+
+2019-20

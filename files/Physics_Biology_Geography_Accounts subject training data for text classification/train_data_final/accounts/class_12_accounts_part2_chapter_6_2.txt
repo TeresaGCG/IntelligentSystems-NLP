@@ -1,0 +1,44 @@
+Cash Flow Statement 237
+
+6.3 Cash and Cash Equivalents
+
+As stated earlier, cash ﬂow statement shows inﬂows and outﬂows of cash and
+cash equivalents from various activities of an enterprise during a particular
+period. As per AS-3, ‘Cash' comprises cash in hand and demand deposits with
+banks, and ‘Cash equivalents' means short-term highly liquid investments that
+are readily convertible into known amounts of cash and which are subject to
+an insigniﬁcant risk of changes in value. An investment normally qualiﬁes as
+cash equivalents only when it has a short maturity, of say, three months or less
+from the date of acquisition. Investments in shares are excluded from cash
+equivalents unless they are in substantial cash equivalents. For example,
+preference shares of a company acquired shortly before their speciﬁc redemption
+date, provided there is only insignificant risk of failure of the company to repay
+the amount at maturity. Similarly, short-term marketable securities which can
+be readily converted into cash are treated as cash equivalents and is liquidable
+immediately without considerable change in value.
+
+6.4 Cash Flows
+
+‘Cash Flows' implies movement of cash in and out due to some non—cash items.
+Receipt of cash from a non—cash item is termed as cash inﬂow while cash payment
+in respect of such items as cash outﬂow. For example, purchase of machinery
+by paying cash is cash outﬂow while sale proceeds received from sale of
+machinery is cash inﬂow. Other examples of cash ﬂows include collection of
+cash from trade receivables, payment to trade payables, payment to employees,
+receipt of dividend, interest payments, etc.
+
+Cash management includes the investment of excess cash in cash equivalents.
+Hence, purchase of marketable securities or short-term investment which
+constitutes cash equivalents is not considered while preparing cash ﬂow
+statement.
+
+6.5 Classification of Activities for the Preparation of Cash Flow
+Statement
+
+You know that various activities of an enterprise result into cash ﬂows (inﬂows
+or receipts and outﬂows or payments) which is the subject matter of a cash ﬂow
+statement. As per AS—3, these activities are to be classiﬁed into three categories:
+(1) operating, (2) investing, and (3) ﬁnancing activities so as to show separately
+the cash ﬂows generated (or used) by (in) these activities. This helps the users of
+cash ﬂow statement to assess the impact of these activities on the ﬁnancial position
+of an enterprise and also on its cash and cash equivalents.

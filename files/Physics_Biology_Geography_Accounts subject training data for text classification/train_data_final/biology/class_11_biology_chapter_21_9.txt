@@ -1,0 +1,53 @@
+324
+
+ 
+
+BIOLOGY
+
+itself continues forward to form a pigmented and opaque structure called
+the iris which is the visible coloured portion of the eye. The eye ball contains
+a transparent crystalline lens which is held in place by ligaments attached
+to the ciliary body. In front of the lens, the aperture surrounded by the
+iris is called the pupil. The diameter of the pupil is regulated by the muscle
+ﬁbres of iris.
+
+The inner layer is the retina and it contains three layers of neural cells —
+from inside to outside — ganglion cells, bipolar cells and photoreceptor cells.
+There are two types of photoreceptor cells, namely, rods and cones. These
+cells contain the light-sensitive proteins called the photopigments. The
+daylight (photopic) vision and colour vision are functions of cones and
+the twilight (scotopic) vision is the function of the rods. The rods contain
+a purplish-red protein called the rhodopsin or visual purple, which
+contains a derivative of Vitamin A. In the human eye, there are three types
+of cones which possess their own characteristic photopigments that
+respond to red, green and blue lights. The sensations of different colours
+are produced by various combinations of these cones and their
+photopigments. When these cones are stimulated equally, a sensation of
+white light is produced.
+
+The optic nerves leave the eye and the retinal blood vessels enter it at
+a point medial to and slightly above the posterior pole of the eye ball.
+Photoreceptor cells are not present in that region and hence it is called
+the blind spot. At the posterior pole of the eye lateral to the blind spot,
+there is a yellowish pigmented spot called macula lutea with a central pit
+called the fovea. The fovea is a thinned-out portion of the retina where
+only the cones are densely packed. It is the point where the visual acuity
+(resolution) is the greatest.
+
+The space between the cornea and the lens is called the aqueous
+chamber and contains a thin watery ﬂuid called aqueous humor. The
+space between the lens and the retina is called the vitreous chamber
+and is ﬁlled with a transparent gel called vitreous humor.
+
+21 .6.1 .2 Mechanism of Vision
+
+The light rays in visible wavelength focussed on the retina through the
+cornea and lens generate potentials (impulses) in rods and cones. As
+mentioned earlier, the photosensitive compounds (photopigments) in the
+human eyes is composed of opsin (a protein) and retinal (an aldehyde of
+vitamin A). Light induces dissociation of the retinal from opsin resulting
+in changes in the structure of the opsin. This causes membrane
+permeability changes. As a result, potential differences are generated in
+the photoreceptor cells. This produces a signal that generates action
+potentials in the ganglion cells through the bipolar cells. These action
+potentials (impulses) are transmitted by the optic nerves to the visual

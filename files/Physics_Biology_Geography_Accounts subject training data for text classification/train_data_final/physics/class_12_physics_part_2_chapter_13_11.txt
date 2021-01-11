@@ -1,0 +1,79 @@
+Nuclei
+
+ 
+
+One k mol of any isotope contains Avogadro’s number of atoms, and
+238 -
+so 1g of 92U contains
+1
+
+238 x 10‘3
+
+= 25.3 X 1020 atoms.
+The decay rate R is
+R = 1N
+
+0.693 O.693><25.3><1020 _1
+= N =—S
+
+T1/2 1.42X1017
+
+1.23 x 104 s‘1
+1.23 x 104 Bq
+
+kmol X 6.025 X 1026 atoms/kmol
+
+ 
+
+Example 13.5 Tritium has a half-life of 12.5 y undergoing beta decay.
+What fraction of a sample of pure tritium will remain undecayed
+after 25 y.
+
+Solution
+
+By definition of half-life, half of the initial sample will remain
+undecayed after 12.5 y. In the next 125 y, one-half of these nuclei
+would have decayed. Hence, one fourth of the sample of the initial
+
+pure tritium will remain undecayed.
+
+13.6.2 Alpha decay
+
+A well-known example of alpha decay is the decay of uranium 2S’SUto
+thorium 233 Th with the emission of a helium nucleus 3 He
+
+2§§U —> 233111 + 3 He (cc-decay) (I 3.1 9)
+
+In oc-decay, the mass number of the product nucleus (daughter
+nucleus) is four less than that of the decaying nucleus (parent nucleus),
+while the atomic number decreases by two. In general, oc-decay of a parent
+nucleus 2X results in a daughter nucleus :‘gY
+
+2x » 1::Y + :He “3-20)
+
+From Einstein’s mass-energy equivalance relation [Eq. (13.6)] and
+energy conservation, it is clear that this spontaneous decay is possible
+only when the total mass of the decay products is less than the mass of
+
+the initial nucleus. This difference in mass appears as kinetic energy of
+the products. By referring to a table of nuclear masses, one can check
+
+that the total mass of 233111 and 3He is indeed less than that of 2§§U.
+
+The disintegration energy or the Q—Value of a nuclear reaction is the
+difference between the initial mass energy and the total mass energy of
+the decay products. For oc-decay
+
+Q=(mX—my— rnHe)c2 (13.21)
+
+Q is also the net kinetic energy gained in the process or, if the initial
+nucleus X is at rest, the kinetic energy of the products. Clearly, Q> O for
+exothermic processes such as oc-decay.
+
+2019-20
+
+f '8 I EI’IJWVXGI
+
+9'81 EI’IJINVXﬂ
+
+449

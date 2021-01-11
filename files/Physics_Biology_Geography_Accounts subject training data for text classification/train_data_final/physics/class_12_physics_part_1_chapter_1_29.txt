@@ -1,0 +1,95 @@
+30
+
+i Physics
+
+EXAMPLE 1 . 10
+
+ 
+
+Solution (a) Field at P due to charge +10 ”C
+
+10—50 X 1
+' 47t[8.854><10'12 c2 N'1 m?) (15—025)2 xlo-4 m2
+
+= 4.13 x 106 N C“1 along BP
+Field at P due to charge —10 “C
+
+_ 10'5C X 1
+' 41c (8.854x 10-12 c2 N'1 m-2) (15 + 0.25)2 x 10*1 m2
+
+= 3.86 x 106 N C‘1 along PA
+
+The resultant electric field at P due to the two charges at A and B is
+= 2.7 x 105 N c—1 along BP.
+
+In this example, the ratio OP/OB is quite large (= 60). Thus, we can
+expect to get approximately the same result as above by directly using
+the formula for electric field at a far-away point on the axis of a dipole.
+For a dipole consisting of charges i q, 2a distance apart, the electric
+field at a distance r from the centre on the axis of the dipole has a
+magnitude
+
+219
+lingers
+where p = 2a q is the magnitude of the dipole moment.
+
+The direction of electric ﬁeld on the dipole axis is always along the
+direction of the dipole moment vector (i.e., from —q to q). Here,
+p=10"5C><5X 10‘3m =5x lO‘BCm
+
+Therefore,
+
+ 
+
+ 
+
+E:
+
+ 
+
+(r/a >> 1)
+
+2><5><10'8 Cm X 1
+41t[8.854x10'12 c2 N‘lm-Z} (15)3 x10'6 m3
+
+along the dipole moment direction AB, which is close to the result
+obtained earlier.
+(b) Field at Q due to charge + 10 uC at B
+10‘5 c X 1
+‘ 4 a: (8.854 x 10-12 c2 N-1 m-2 ) [152 + (025)21 x 10—4 m2
+
+= 3.99 x 106 N c-1 along BQ
+
+ 
+
+E = =2.6><105 NC—1
+
+ 
+
+Field at Q due to charge —10 11C at A
+
+10—50 X 1
+' 4ms.z354><1o-12 c2 N'1 111-2) [152 +[0.25)2]>< 10'4m2
+= 3.99 x 106 N 01 along QA.
+
+ 
+
+Clearly, the components of these two forces with equal magnitudes
+cancel along the direction OQ but add up along the direction parallel
+to BA. Therefore, the resultant electric field at Q due to the two
+charges at A and B is
+
+_ 0.25
+
+_ 2 X —
+1[152 + (0.25)2
+
+= 1.33 x 105 N C‘1 along BA.
+
+As in (a), we can expect to get approximately the same result by
+directly using the formula for dipole field at a point on the normal to
+the axis of the dipole:
+
+x 3.99 x 106N C‘1 along BA
+
+2019-20

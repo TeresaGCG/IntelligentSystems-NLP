@@ -1,0 +1,24 @@
+3.5 Division 185
+( )
+Start
+1. Subtract the Divisor register from the
+Remainder register and place the
+result in the Remainder register
+Remainder ~ 0 Remainder < 0
+Test Remainder
+2a. Shift the Quotient register to the left, 2b. Restore the original value by adding
+setting the new rightmost bit to 1 the Divisor register to the Remainder
+register and place the sum in the
+Remainder register. Also shift the
+Quotient register to the left, setting the
+new least significant bit to 0
+I
+3. Shift the Divisor register right 1 bit
+No: < 33 repetitions
+33rd repetition?
+Yes: 33 repetitions
+FtGURE 3.11 A division algorithm, using the hardware In Figure 3.10. Ifthe Remainder is pos 
+itive, the divisor did go into the dividend, so step 2a generates a I in the quotient. A neg.1live Remainder after
+step I means that the divisor did not go into the dividend, so step 2b generates a 0 in the quotient and adds
+the divisor to the remainder, thereby reversing the subtraction of step I. The final shift, in step 3, aligns the
+divisor properly, relative to the dividend for the next iteration. These steps are repeated 33 times.

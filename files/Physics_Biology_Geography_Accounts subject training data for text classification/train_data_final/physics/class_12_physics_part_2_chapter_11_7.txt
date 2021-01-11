@@ -1,0 +1,62 @@
+DUOI Nature Of Radiation
+
+and MOHer
+
+energy of the emitted photoelectrons increases linearly with the
+frequency of the incident radiation, but is independent of its intensity
+(Fig. 1 1.5).
+
+(iv) The photoelectric emission is an instantaneous process without any
+apparent time lag (~ 1 O‘gs or less), even when the incident radiation is
+made exceedingly dim.
+
+1 1.5 PHOTOELECTRIC EFFECT AND WAVE THEORY
+OF LIGHT
+
+The wave nature of light was well established by the end of the nineteenth
+century. The phenomena of interference, diffraction and polarisation were
+explained in a natural and satisfactory way by the wave picture of light.
+According to this picture, light is an electromagnetic wave consisting of
+electric and magnetic fields with continuous distribution of energy over
+the region of space over which the wave is extended. Let us now see if this
+wave picture of light can explain the observations on photoelectric
+emission given in the previous section.
+
+According to the wave picture of light, the free electrons at the surface
+of the metal (over which the beam of radiation falls) absorb the radiant
+energy continuously. The greater the intensity of radiation, the greater are
+the amplitude of electric and magnetic fields. Consequently, the greater
+the intensity, the greater should be the energy absorbed by each electron.
+In this picture, the maximum kinetic energy of the photoelectrons on the
+surface is then expected to increase with increase in intensity. Also, no
+matter what the frequency of radiation is, a sufficiently intense beam of
+radiation (over sufficient time) should be able to impart enough energy to
+the electrons, so that they exceed the minimum energy needed to escape
+from the metal surface . A threshold frequency, therefore, should not exist.
+These expectations of the wave theory directly contradict observations (i),
+(ii) and (iii) given at the end of sub-section 1 1.4.3.
+
+Further, we should note that in the wave picture, the absorption of
+energy by electron takes place continuously over the entire
+wavefront of the radiation. Since a large number of electrons absorb energy,
+the energy absorbed per electron per unit time turns out to be small.
+Explicit calculations estimate that it can take hours or more for a single
+electron to pick up sufﬁcient energy to overcome the work function and
+come out of the metal. This conclusion is again in striking contrast to
+observation (iv) that the photoelectric emission is instantaneous. In short,
+the wave picture is unable to explain the most basic features of
+photoelectric emission.
+
+1 1 .6 EINSTEIN’s PHOTOELECTRIC EQUATION: ENERGY
+
+QUANTUM OF RADIATION
+
+In 1905, Albert Einstein (1879- 1955) proposed a radically new picture
+of electromagnetic radiation to explain photoelectric effect. In this picture,
+photoelectric emission does not take place by continuous absorption of
+energy from radiation. Radiation energy is built up of discrete units — the
+so called quanta of energy of radiation. Each quantum of radiant energy
+
+2019-20
+
+393

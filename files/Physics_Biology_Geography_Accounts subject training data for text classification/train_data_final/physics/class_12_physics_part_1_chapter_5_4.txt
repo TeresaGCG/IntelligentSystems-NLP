@@ -1,0 +1,69 @@
+Magnetism and
+Mo’r’rer
+
+pondea2
+2[(r — x)2 + a2]%
+
+The magnitude of the total ﬁeld is obtained by summing over all the
+elements — in other words by integrating from x = — lto x = + 1. Thus,
+
+dB:
+
+ 
+
+Jtonla2 1 dx
+B_ 2 I-l[(r—x)2+a2]3/2
+
+This integration can be done by trigonometric substitutions. This
+exercise, however, is not necessary for our purpose. Note that the range
+of x is from — l to + I. Consider the far axial field of the solenoid, i.e.,
+r >> a and r >> 1. Then the denominator is approximated by
+
+[(r — x)2 + a213/2 z r3
+
+l
+
+ 
+
+ 
+
+_;LOnIa2
+_ ,uOnI 21a2
+_ 2 r3 (5.1)
+
+Note that the magnitude of the magnetic moment of the solenoid is,
+m = n (21) I (at a2) — (total number of turns X current >< cross-sectional
+area). Thus,
+
+,uo 2m
+B = ——
+472. ,3 (5.2)
+
+This is also the far axial magnetic field of a bar magnet which one may
+obtain experimentally. Thus, a bar magnet and a solenoid produce similar
+magnetic fields. The magnetic moment of a bar magnet is thus equal to
+the magnetic moment of an equivalent solenoid that produces the same
+magnetic field.
+
+Some textbooks assign a magnetic charge (also called pole strength)
++qmto the north pole and —qm to the south pole of a bar magnet of length
+21, and magnetic moment qm(2l). The field strength due to qm at a distance
+r from it is given by ,uoqm/4at r2. The magnetic field due to the bar magnet
+is then obtained, both for the axial and the equatorial case, in a manner
+analogous to that of an electric dipole (Chapter 1). The method is simple
+and appealing. However, magnetic monopoles do not exist, and we have
+avoided this approach for that reason.
+
+5.2.3 The dipole in a uniform magnetic ﬁeld
+
+The pattern of iron filings, i.e., the magnetic field lines gives us an
+approximate idea of the magnetic field B. We may at times be required to
+determine the magnitude of B accurately. This is done by placing a small
+compass needle of known magnetic moment In and moment of inertia .4
+and allowing it to oscillate in the magnetic field. This arrangement is shown
+in Fig. 5.4(b).
+
+The torque on the needle is [see Eq. (4.29)],
+1' = m x B (5.3) 177
+
+2019-20

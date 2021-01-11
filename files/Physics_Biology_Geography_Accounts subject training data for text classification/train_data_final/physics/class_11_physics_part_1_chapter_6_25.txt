@@ -1,0 +1,25 @@
+WORK. ENERGY AND POWER
+
+139
+—
+
+Show that the two—body decay of this type must necessarily give an electron of fixed
+energy and, therefore, cannot account for the observed continuous energy distribution
+in the B—decay of a neutron or a nucleus (Fig. 6.19].
+
+No. of [3 particles per unit
+energy interval
+
+Kinetic energy of
+
+B—particle emitted
+Fig. 6.1 9
+
+[Note: The simple result of this exercise was one among the several arguments advanced by W.
+Pauli to predict the existence of a third particle in the decay products of ﬁ—decay. This
+particle is known as neutrino. We now know that it is a particle of intrinsic spin 1/2 (like
+6, p or n}, but is neutral, and either massless or having an extremely small mass
+[compared to the mass of electron] and which interacts very weakly with matter. The
+correct decay process of neutron is : n -9 p + e’+ v ]
+
+2019-20

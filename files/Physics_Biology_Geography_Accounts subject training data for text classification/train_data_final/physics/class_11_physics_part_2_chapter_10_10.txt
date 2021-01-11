@@ -1,0 +1,104 @@
+260
+
+PHYSICS
+
+ 
+
+If the cross-sectional area of the tank A2 is
+much larger than that of the hole (A2 >>A1), then
+we may take the ﬂuid to be approximately at rest
+at the top, i.e., v2 = 0. Now, applying the Bernoulli
+equation at points 1 and 2 and noting that at
+the hole P1 = Pa, the atmospheric pressure, we
+have from Eq. (10.12)
+
+1
+Pa +§pv12+ pgy1=P+p gyz
+
+Taking y2 — y1 = hwe have
+
+2 (P _ Pa)
+v1= 29 MT (10.14)
+When P >>Pa and 2 g h may be ignored, the
+speed of efﬂux is determined by the container
+pressure. Such a situation occurs in rocket
+propulsion. On the other hand, if the tank is
+
+open to the atmosphere, then P = Pa and
+
+v1=,)2gh (10.15)
+
+This is also the speed of a freely falling body.
+Equation (1 O. 1 5) represents Torricelli’s law.
+
+10.4.2 Venturi-meter
+
+The Venturi-meter is a device to measure the
+ﬂow speed of incompressible ﬂuid. It consists of
+a tube with a broad diameter and a small
+constriction at the middle as shown in
+Fig. (10.11). A manometer in the form of a
+U-tube is also attached to it, with one arm at
+the broad neck point of the tube and the other
+at constriction as shown in Fig. (10.11). The
+manometer contains a liquid of density pm. The
+speed v1 of the liquid ﬂowing through the tube
+at the broad neck area A is to be measured
+from equation of continuity Eq. (10. 10) the speed
+
+A
+
+at the constriction becomes 02 =—Ul. Then
+a
+
+using Bernoulli’s equation (Eq. 10. 1 2) for (h1=h2),
+we get
+
+1 1
+P1+ 2— pv12=P2+2— pv12(A/a)2
+So that
+1 A 2
+131—132: 2— p012 3 -1 (10.16)
+
+This pressure difference causes the ﬂuid in
+the U-tube connected at the narrow neck to rise
+in comparison to the other arm. The difference
+in height h measure the pressure difference.
+
+2019-20
+
+ 
+
+Fig. 1 0.1 1 A schematic diagram of Venturi-meter.
+
+1 £24
+131—132=pmgh=2—pv12 a
+
+So that the speed of ﬂuid at wide neck is
+
+2pmgh 5i 7%
+u}: [ p JHGJ 1] (10.17)
+
+The principle behind this meter has many
+applications. The carburetor of automobile has
+a Venturi channel (nozzle) through which air
+ﬂows with a high speed. The pressure is then
+lowered at the narrow neck and the petrol
+(gasoline) is sucked up in the chamber to provide
+the correct mixture of air to fuel necessary for
+combustion. Filter pumps or aspirators, Bunsen
+burner, atomisers and sprayers [See Fig. 10.12]
+used for perfumes or to spray insecticides work
+on the same principle.
+
+ 
+
+—>
+/
+‘:|”
+.1:
+—>
+
+Fig. 1 0.12 The spray gun. Piston forces air at high
+speeds causing a lowering of pressure
+at the neck of the container.

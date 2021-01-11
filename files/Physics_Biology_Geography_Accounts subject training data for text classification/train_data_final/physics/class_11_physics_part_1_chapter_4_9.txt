@@ -1,0 +1,127 @@
+74
+
+PHYSICS
+
+ 
+
+Ats, respectively. The direction of the average
+
+velocity V is shown in figures (a), (b) and (c) for
+three decreasing values of At, i.e. At1,At2, and A133,
+(At1 > At2 > Ats). As At —> 0, Ar —> O
+and is along the tangent to the path [Fig 4. 13(d)].
+Therefore, the direction of velocity at any point
+on the path of an object is tangential to the
+path at that point and is in the direction of
+motion.
+
+We can express v in a component form :
+
+. AX: AU:
+2 hm —1+—J (429)
+
+At—>0 At At
+
+: AX A. Ay
+= 1 lim —+ J lim —
+At—>0 At At—>O At
+
+Adx Ad A A
+Or, v=i— —y=vxi+vyj.
+
+where vx = —,v = — (4.30a)
+So, if the expressions for the coordinates x and
+y are known as functions of time, we can use
+these equations to find vx and vy.
+
+The magnitude of v is then
+
+u = 1[vi + v3 (4-3013)
+
+and the direction of v is given by the angle 9 :
+
+v v
+tan6 = —y, 9 = tan_1[_y] (4.3OC)
+
+DX vx
+
+vx, vy and angle 6 are shown in Fig. 4.14 for a
+velocity vector v at point p.
+
+Acceleration
+
+The average acceleration a of an object for a
+time interval At moving in x—y plane is the change
+in velocity divided by the time interval :
+
+a=—=—= 1+—J
+At At At At
+
+ 
+
+(4.31a)
+
+A
+
+Or, a: axi+ayj. (4.3113)
+
+* In terms of x and y, ax and ay can be expressed as
+
+d dx d2x d dy d2y
+a = - , a = -
+x dt dt dt2 3’ dt dt dt2
+
+ 
+
+2019-20
+
+  
+
+0 x
+
+Fig. 4. 1 4 The components vx and pg of velocity v and
+the angle 0 it makes with x—axis. Note that
+vx=vcos 0, vy=vsin 0.
+
+The acceleration (instantaneous acceleration)
+is the limiting value of the average acceleration
+as the time interval approaches zero :
+
+ 
+
+ 
+
+ 
+
+' Av
+a = 1m — (4.32a)
+At—>O At
+Since Av = Auxi + Augiwe have
+A A1) A AU
+a = i lim x +j lim y
+At—>O At At—>O At
+Or, a = axi+ ayj
+(4.32b)
+h dv" dvy (4 32 )*
+w ere, a = ,a 2— . c
+x dt y dt
+
+As in the case of velocity, we can understand
+graphically the limiting process used in defining
+acceleration on a graph showing the path of the
+object’s motion. This is shown in Figs. 4. 15(a) to
+(d). P represents the position of the object at
+time tand P1, P2, P3 positions after time Atl, At2,
+At3, respectively (At 1> At2>At3). The velocity vectors
+at points P, P1, P2, P3 are also shown in Figs. 4. 15
+(a), (b) and (c). In each case of At, Av is obtained
+using the triangle law of vector addition. By
+
+definition, the direction of average acceleration
+is the same as that of Av. We see that as At
+decreases, the direction of Av changes and
+consequently, the direction of the acceleration
+changes. Finally, in the limit At ->O [Fig. 4. l5(d)],
+the average acceleration becomes the
+instantaneous acceleration and has the direction
+as shown.

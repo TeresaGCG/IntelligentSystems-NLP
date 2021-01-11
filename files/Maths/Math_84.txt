@@ -1,0 +1,39 @@
+Homework Helpers: Basic Math and Pre-Algebra
+84
+less than 1. We use the base ten system to represent the integral part, and
+we use the decimal system to represent the fractional part. A decimal
+number is a number with both an integral part (remember that 0 is an
+integer) and a fractional part. The decimal system is similar to the base
+ten system in that we use the same ten symbols, powers of 10 play an
+important role in interpreting the numbers, and the order in which you
+write the numbers matters. You have been working with decimals for at
+least as long as you have been working with money. A quarter can be
+represented as 25 cents or $0.25, but, either way, you know that a quarter
+is less than a dollar.
+The decimal representation of a number involves a decimal point; we
+use the symbol “.” (a period) to represent the decimal point. Numbers to
+theleft of the decimal point make up the integral part of the number, and
+numbers to the right make up the fractional part, or decimal fraction. A
+decimal number has two parts: the integral part and the decimal fraction.
+The first place to the right of the decimal is called the tenths’ place.
+Whatever number is located in the tenths’ place is interpreted as being
+the numerator of a fraction that has 10 as the denominator. The next
+place to the right is the hundredths’ place. Whatever number is located in
+the hundredths place is interpreted as being the numerator of a fraction
+that has 100 as its denominator. In our example of a quarter, or $0.25, the
+2 is in the tenths’ place and the 5 is in the hundredths’ place. The 2 in the
+tenths’ place is really  , and the 5 in the hundredths’ place is really  .
+Continue interpreting the places to the right of the decimal point: There
+is the thousandths’ place, the ten-thousandths’ place, and so on. All of
+these individual fractions will add up to equal the decimal fraction.
+To illustrate the components of a decimal number, consider the num-
+ber 12.325. The decimal number 12.325 represents 1 ten, 2 ones, 3 tenths,
+2 hundredths, and 5 thousandths. The sum of these components is 12.325:
+The decimal number 0.3 is equivalent to the fraction  . If the magni-
+tude of a decimal number is less than 1 then a 0 is put to the left of the
+decimal point to make it clear that the integral part of the number is 0.
+Every integer can be represented as a decimal number by putting a
+decimal point immediately after the number in the ones’ place. The num-
+ber 7 can be written as 7.0 or 7.00 or 7.000. Just as a positive sign is
+implied most of the time and is not written, with integers the decimal
+www.ebook3000.com

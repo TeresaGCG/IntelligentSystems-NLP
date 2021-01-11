@@ -1,0 +1,34 @@
+6.2 A Plpellned Datapath 387
+Time (in clock cycles) --------_"
+Program
+execution CC 1 CC 2 CC ' CC' CC S CC ' CC?
+order
+(in instructions)
+IW $1, 1OO($O)
+Iw $2, 200($0)
+Iw $3, 300($0)
+FtGURE 6.10 Instructions being executed using the slngl&cycle datapath In Figure 6.9,
+assuming p1pellned execution. Similar to Figures 6.4 through 6.6, this figure pretends that each
+instruction has its own datapath, and shades each portion according to use. Unlike those figures,each stage
+is labeled by the physical resource used in that stage, corresponding to the portions of the datapath in
+Figure 6.9. 1M represents the instruction memory and the PC in the instruction fetch stage, Reg stands for
+the register file and sign extender in the instruction decode/register file read stage (ID), and so on.To main 
+tain proper time order, this stylized datapath breaks the register file into two logical p.uts: registers read
+during register fetch (ID) and registers written during write back (WB). This dual use is represented by
+drawing the unshaded left half of the register file using dashed lines in the ID stage, when it is not being
+written,and the wlshaded right half in dashed lines in theWB stage, when it is not being read.As before, we
+asswne the register file is WTitten in the first halfof the clock cycle and the register file is read during the sec 
+ond half.
+isters in Figure 6.11 , however, the PC is part of the visible architectural state; its
+contents must be saved when an exception occurs, while the contents of the pipe 
+line registers can be discarded. In the laundry analogy, you could think of the PC
+as corresponding to the basket that holds the load of dirty clothes before the wash
+step!
+To show how the pipelining works, throughout this chapter we show sequences
+of figures to demonstrate operation over time. These extra pages would seem to
+require much more time for you to understand. Fear not; the sequences take
+much less time than it might appear because you can compare them to see what
+changes occur in each clock cycle. Sections 6.4 and 6.5 describe what happens
+when there are data hazards between pipelined instructions; ignore them fo r now.
+Figures 6. 12 through 6. 14, our first sequence, show the active portions of the
+datapath highlighted as a load instruction goes th rough the five stages of pipelined

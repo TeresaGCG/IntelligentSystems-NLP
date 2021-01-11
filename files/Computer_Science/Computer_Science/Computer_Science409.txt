@@ -1,0 +1,48 @@
+6.2 A Plpellned Datapath 393
+Execution
+.-1
+._.
+,
+~
+-
+"
+," " -,
+•
+---
+- - 11---1'='
+~ ~
+- ALUALU I _ •• - ,
+' _. - ' - L--1
+1-- -1- ' -, I " _. ~ • •
+" "
+-
+,:r--e~ •"
+o
+••
+w•
+••
+_.,
+f-__
+C','-j
+L
+Sign 32
+,
+L
+FIGURE 6.15 EX: the third pipe stage of a store Instruction. Unhke the thIrd stage of the load instructIon FIgure 6.13, the second reg 
+In
+ister value is loaded into the EXlMEM pipeline register to be used in the next stage.Although it wouldn't hurt to always write this second register into
+the EXlMEM pipeline register, we write the second register only on a store instruction to make the pipeline easier to understand.
+Load and store illustrate a second key point: each logical component of the
+datapath-such as instruction memory, register read ports, ALU, data memory,
+and register write port-can be used only within a single pipeline stage. Otherwise
+we would have a stmctural hazard (see page 375). Hence these components, and
+their control, can be associated with a single pipeline stage.
+Now we can uncover a bug in the design of the load instruction. Did you see it?
+Which register is changed in the final stage of the load? More specifically, which
+instruction supplies the write register number? The instruction in the IFII D pipe 
+line register supplies the write register number, yet this instruction occurs consid 
+erably after the load instruction!
+Hence, we need to preserve the destination register number in the load instruc 
+tion. Just as store passed the register contents from the ID/EX to the EX/MEM
+pipeline registers for use in the MEM stage, load must pass the register number
+from the ID/EX through EX/M EM to the MEM/WB pipeline register for use in

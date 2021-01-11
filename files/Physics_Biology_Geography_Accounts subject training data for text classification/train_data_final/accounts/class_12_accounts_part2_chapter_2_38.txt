@@ -1,0 +1,49 @@
+1 1 0 Accountancy : Company Accounts and Analysis of Financial Statements
+
+debentures to be converted. If debentures were originally issued at discount,
+the actual amount realised from them at the time of issue would be used as the
+basis for computing the actual number of shares to be issued. It may be noted
+that this method is applicable only to convertible debentures.
+
+The following factors should be taken into consideration by the company at
+
+the time of redemption of debentures :
+
+l . Time of redemption of debentures :- Generally, debentures are
+redeemed on due date but a company may redeem its debentures before
+maturity date, if its articles provides for such.
+
+2. Sources of Redemption of debentures :- A company may source its
+redemption of debentures either out of capital or out of proﬁts.
+
+a. Out of Capital :- Only those companies which are exempted from creating
+DRR may redeem debentures out of Capital.
+
+b. Out of Proﬁts :- When any company planning to redeem its debentures
+purely out of proﬁt, it should transfer 100 percent of the face value of the
+redeemable debentures to DRR out of the surplus available for payment
+of dividend.
+
+c. Out of Capital and Proﬁts :- In case, Company is planning to redeem its
+debentures by using both the sources partially, it does not transfer 100
+percent of face value of outstanding debentures of a particular class to
+DRR out of the surplus available for payment of dividend.
+
+2.12 Redemption by Payment in Lump Sum
+
+When the company pays the whole amount in lump sum, the following journal
+entries are recorded in the books of the company:
+
+1. If debentures are to be redeemed at par
+
+(a) Debentures A/c Dr.
+To Debentureholders
+(b) Debentureholders Dr.
+To Bank A / c
+2. If debentures are to be redeemed at premium
+(a) Debentures A/c Dr.
+Premium on Redemption of Debentures A/c Dr.
+To Debentureholders
+(b) Debentureholders Dr.
+
+To Bank A/c

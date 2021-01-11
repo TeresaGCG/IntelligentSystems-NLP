@@ -1,0 +1,108 @@
+Fig. 4.10
+
+Answer Let OP and 09 represent the two vectors
+A and B making an angle 0 (Fig. 4.10). Then,
+using the parallelogram method of vector
+addition, OS represents the resultant vector R :
+R = A + B
+SN is normal to OP and PM is normal to OS.
+From the geometry of the figure,
+0S2 = 0N2 + SN2
+
+but ON=OP+PN=A+Bcos0
+SN=Bsin0
+OSZ= (A+Bcos (9)2 + (B sin 0)2
+
+or, R2=A2+BZ+2AB cosO
+
+ 
+
+ 
+
+R = A2 + B2 + 2AB cos 6 (424a)
+In A OSN, SN = OS sina= R sina, and
+inAPSN, SN=PSsin9=Bsin0
+Therefore, R sin a = B sin (9
+R B
+011 . = . (4.24b)
+sm 9 sm 0:
+Similarly,
+PM=A sina =B sinﬂ
+A B
+or, (4.24c)
+
+ 
+
+ 
+
+sin [3 2 sin 05
+Combining Eqs. (4.24b) and (4.24c), we get
+
+R A B
+. = . = . (4.24d)
+sm 6 sm ,6 sm 0!
+Using Eq. (4.24d), we get:
+B
+sin a = —sin 6 (4.24e)
+R
+where R is given by Eq. (4.24a).
+SN B sin (9
+or, tan 0!: (4.24f)
+
+OP+PN = A+Bcost9
+
+Equation (4.24a) gives the magnitude of the
+resultant and Eqs. (4. 24e) and (4.24f) its direction.
+Equation (4.24a) is known as the Law of cosines
+and Eq. (4.24d) as the Law of sines. 4
+
+2019-20
+
+PHYSICS
+
+> Example 4.3 A motorboat is racing
+towards north at 25 km/h and the water
+current in that region is 10 km/h in the
+
+direction of 60° east of south. Find the
+resultant velocity of the boat.
+
+Answer The vector vb representing the velocity
+of the motorboat and the vector vc representing
+the water current are shown in Fig. 4.11 in
+directions specified by the problem. Using the
+parallelogram method of addition, the resultant
+R is obtained in the direction shown in the
+figure.
+
+ 
+
+ 
+
+S
+Fig. 4.11
+
+We can obtain the magnitude of R using the Law
+of cosine :
+
+R = «(0% + of + Zubvccos 1200
+
+= J252 +102 +2><25><lO(—l/2) g 22 km/h
+To obtain the direction, we apply the Law of sines
+
+ 
+
+ 
+
+R vC Dc
+=— or, sin ¢ = —sin 6
+sin 6 sin ¢ R
+10xsin120° 10J§
+= — = — 2 0.397
+21.8 2x218
+¢ ; 23.4° 4
+
+4.7 MOTION IN A PLANE
+
+In this section we shall see how to describe
+motion in two dimensions using vectors.

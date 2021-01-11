@@ -1,0 +1,67 @@
+5.4 A Simple Implementation Scheme 309
+~
+'0
+r---
+M
+Add ,
+------ "
+ALU
+4 - / Add 1
+result
+Shift
+/ lell2
+RegDst
+I
+Branch
+MemRead
+Instruction [31-26J
+MemtoReg
+Control
+ALUOp
+MemWrne
+ALUSrc
+/ RegWrite
+\
+Instruction [25-21]
+Read
+Read
+PC register 1
+address Read
+Instruction [20-16] data 1
+Read
+z,,,
+register 2
+Instruction I a
+ALU
+ALU
+[31-0] Read
+M Read f- a 1
+, ~ Wrne result Address data
+Instruction " data 2 M M
+Instruction [15-11] register ,
+y , f- "
+memory "
+v
+a
+Wrne f-o"-.-
+data Registers
+Data
+Write
+memory
+/ '\ d,~
+/ '\
+Instruction [l 5--0J 16 32
+Sign
+ALU
+,-
+extend
+control
+/
+\
+Instruction [5--0J
+FIGURE 5.19 The datapath In operation for an R·type Instruction such as add St1. St2. St3. The control lines, datapath units,and
+connections that are active are highlighted.
+5. The data from the memory unit is written into the register file; the register
+destination is given by bits 20: 16 of the instruction ($t 1) .
+Finally, we can show the operation of the branch-on-equal instruction, such as
+beq $t1 . $t2 . offset, in the same fashion. It operates much like an R-format

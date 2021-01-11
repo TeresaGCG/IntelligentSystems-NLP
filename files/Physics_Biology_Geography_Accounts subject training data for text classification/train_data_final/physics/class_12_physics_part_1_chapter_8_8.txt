@@ -1,0 +1,61 @@
+Electromagnetic
+Waves
+
+same (independent of wavelength) to within a few metres per second, out
+of a value of 3X108 m/s. The constancy of the velocity of em waves in
+vacuum is so strongly supported by experiments and the actual value is
+so well known now that this is used to define a standard of length.
+Namely, the metre is now deﬁned as the distance travelled by light in
+vacuum in a time (1 /c) seconds = (299792458 X 108)‘1 seconds. This
+has come about for the following reason. The basic unit of time can be
+defined very accurately in terms of some atomic frequency, i.e., frequency
+of light emitted by an atom in a particular process. The basic unit of length
+is harder to define as accurately in a direct way. Earlier measurement of c
+using earlier units of length (metre rods, etc.) converged to a value of about
+2.9979246 X 108 m/s. Since c is such a strongly fixed number, unit of
+length can be defined in terms of c and the unit of time!
+
+Hertz not only showed the existence of electromagnetic waves, but
+also demonstrated that the waves, which had wavelength ten million times
+that of the light waves, could be diffracted, refracted and polarised. Thus,
+he conclusively established the wave nature of the radiation. Further, he
+produced stationary electromagnetic waves and determined their
+wavelength by measuring the distance between two successive nodes.
+Since the frequency of the wave was known (being equal to the frequency
+of the oscillator), he obtained the speed of the wave using the formula
+
+= wt and found that the waves travelled with the same speed as the
+speed of light.
+
+The fact that electromagnetic waves are polarised can be easily seen
+in the response of a portable AM radio to a broadcasting station. If an
+AM radio has a telescopic antenna, it responds to the electric part of the
+signal. When the antenna is turned horizontal, the signal will be greatly
+diminished. Some portable radios have horizontal antenna (usually inside
+the case of radio), which are sensitive to the magnetic component of the
+electromagnetic wave. Such a radio must remain horizontal in order to
+receive the signal. In such cases, response also depends on the orientation
+of the radio with respect to the station.
+
+Do electromagnetic waves carry energy and momentum like other
+waves? Yes, they do. We have seen in chapter 2 that in a region of free
+space with electric field E, there is an energy density (sOEZ / 2). Similarly,
+as seen in Chapter 6, associated with a magnetic field B is a magnetic
+energy density (B2/ 2%). As electromagnetic wave contains both electric
+and magnetic fields, there is a non-zero energy density associated with
+it. Now consider a plane perpendicular to the direction of propagation of
+the electromagnetic wave (Fig. 8.4). If there are, on this plane, electric
+charges, they will be set and sustained in motion by the electric and
+magnetic fields of the electromagnetic wave. The charges thus acquire
+energy and momentum from the waves. This just illustrates the fact that
+an electromagnetic wave (like other waves) carries energy and momentum.
+Since it carries momentum, an electromagnetic wave also exerts pressure,
+called radiation pressure.
+
+If the total energy transferred to a surface in time tis U, it can be shown
+that the magnitude of the total momentum delivered to this surface (for
+complete absorption) is,
+
+U
+
+2019-20

@@ -1,0 +1,92 @@
+462
+
+l Physics
+
+ 
+
+ 
+
+ 
+
+EXERCISES
+
+You may find the following data useful in solving the exercises:
+
+13.1
+
+13.2
+
+13.3
+
+13.4
+
+13.5
+
+13.6
+
+13.7
+
+13.8
+
+e = 1.6X10’19C N = 6.023x1023 per mole
+1/(41t80) = 9 x 109 N mZ/CZ k = 1.381X10’23J 0K4
+1 MeV = 1.6X10’13J 1 u= 931.5 MeV/c2
+1 year = 3.154X107 s
+mH = 1.007825 u mn = 1.008665 u
+m(;He) = 4.002603 u me = 0.000548 u
+
+(a) Two stable isotopes of lithium SLi and ;Li have respective
+
+abundances of 7.5% and 92.5%. These isotopes have masses
+6.01512 u and 7.01600 u, respectively. Find the atomic mass
+of lithium.
+
+(b) Boron has two stable isotopes, 12B and 1;B. Their respective
+masses are 10.01294 u and 1 1.00931 u, and the atomic mass of
+boron is 10.811 u. Find the abundances of 1:13 and EB.
+
+The three stable isotopes of neon: 3N6, féNe and nge have
+
+respective abundances of 90.51%, 0.27% and 9.22%. The atomic
+
+masses of the three isotopes are 1999 u, 20.99 u and 21.99 u,
+respectively. Obtain the average atomic mass of neon.
+
+Obtain the binding energy (in MeV) of a nitrogen nucleus (1‘7‘N),
+given m (1‘7‘N)=14.00307 u
+
+Obtain the binding energy of the nuclei SgFe and 2333131 in units of
+MeV from the following data:
+
+m (321%) = 55.934939 u m (20931) = 208980388 u
+
+83
+A given coin has a mass of 3.0 g. Calculate the nuclear energy that
+would be required to separate all the neutrons and protons from
+each other. For simplicity assume that the coin is entirely made of
+
+SSCu atoms (of mass 62.92960 u).
+Write nuclear reaction equations for
+
+(i) a—decay of 2§§Ra (ii) a—decay 0f 2321311
+(iii) [T-decay of ng (1V) [f—decay 0f 2.331
+(v) W—decay of (151C (vi) ﬁ+-decay of ich
+(vii) Electron capture of 1§2Xe
+
+A radioactive isotope has a half-life of Tyears. How long will it take
+the activity to reduce to a) 3.125%, b) 1% of its original value?
+
+The normal activity of living carbon-containing matter is found to
+be about 15 decays per minute for every gram of carbon. This activity
+
+arises from the small proportion of radioactive 13C present with the
+
+stable carbon isotope 1:0 . When the organism is dead, its interaction
+
+with the atmosphere (which maintains the above equilibrium activity)
+ceases and its activity begins to drop. From the known half-life (5730
+
+years) of 12C, and the measured activity, the age of the specimen
+can be approximately estimated. This is the principle of 1:31 C dating
+
+2019-20

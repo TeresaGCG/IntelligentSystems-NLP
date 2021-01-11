@@ -1,0 +1,93 @@
+MECHANICAL PROPERTIES OF SOLIDS
+
+243
+
+ 
+
+Table 9.3 Bulk moduli (B) of some common
+
+Materials
+
+Solids
+
+Aluminium 72
+Brass 61
+Copper 140
+Glass 37
+Iron 100
+Nickel 260
+Steel 160
+Liquids
+
+Water 2.2
+Ethanol 0.9
+Carbon disulphide 1.56
+Glycerine 4.76
+Mercury 25
+Gases
+
+Air (at STP) 1.0 x 104
+
+Thus, solids are the least compressible, whereas,
+
+Gases have large compressibilities, which vary
+with pressure and temperature. The
+incompressibility of the solids is primarily due
+to the tight coupling between the neighbouring
+atoms. The molecules in liquids are also bound
+with their neighbours but not as strong as in
+solids. Molecules in gases are very poorly
+coupled to their neighbours.
+
+Table 9.4 shows the various types of stress,
+strain, elastic moduli, and the applicable state
+of matter at a glance.
+
+Example 9.5 The average depth of Indian
+Ocean is about 3000 m. Calculate the
+fractional compression. AV/ V. of water at
+
+the bottom of the ocean. given that the bulk
+modulus of water is 2.2 x 109 N m‘2. (Take
+
+9 =10 rn 5'2)
+
+Answer The pressure exerted by a 3000 m
+column of water on the bottom layer
+
+p= hpg =3000m >< lOOOkgm'Sx 10ms‘2
+= 3 x 107 kg m—1 s‘2
+= 3 x 107 N m—2
+Fractional compression AV/ V, is
+
+ 
+
+gases are the most compressible. Gases are about AV/V = stress / B = (3 x 107 N m'2)/(2.2 x 109 N 111-?)
+a million times more compressible than solids! = 1.36 x 10-2 or 1.36 0/0 4
+
+Table 9.4 Stress. strain and various elastic moduli
+
+Type of Elastic me of State of
+stress -m Modulus Modulus Matter
+
+Tensile Two equal and Elongation or Yes = (F><L)/ Young s Solid
+or opposite forces compression Y(A><AL) modulus
+compressive perpendicular to parallel to force
+(a = F/A) opposite faces direction (AL/L)
+(longitudinal strain)
+Shearing Two equal and Pure shear, 0 Yes No G = F/(AXB) Shear Solid
+(as = F/A) opposite forces modulus
+parallel to oppoiste or modulus
+surfaces forces of rigidity
+in each case such
+that total force and
+total torque on the
+body vanishes
+Hydraulic Forces perpendicular Volume change No Yes = —p/ (AV/ V) Bulk Solid, liquid
+everywhere to the (compression or modulus and gas
+surface, force per elongation)
+
+unit area (pressure) (AV/ V)
+same everywhere.
+
+2019-20

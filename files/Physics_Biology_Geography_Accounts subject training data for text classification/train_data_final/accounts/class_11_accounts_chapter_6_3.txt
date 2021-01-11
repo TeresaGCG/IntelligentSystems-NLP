@@ -1,0 +1,43 @@
+Trial Balance and Rectification of Errors 183
+
+and credit balances in the trial balance are equal, it is assumed that the posting
+and balancing of accounts is arithmetically correct. However, the tallying of the
+trial balance is not a conclusive proof of the accuracy of the accounts. It only
+ensures that all debits and the corresponding credits have been properly recorded
+in the ledger.
+
+6.2.2 To Help in Locating Errors
+
+When a trial balance does not tally (that is, the totals of debit and credit columns
+are not equal), we know that at least one error has occured. The error (or errors)
+may have occured at one of those stages in the accounting process: (1) totalling
+of subsidiary books, (2) posting of j ournal entries in the ledger, (3) calculating
+account balances, (4) carrying account balances to the trial balance, and (5)
+totalling the trial balance columns.
+
+It may be noted that the accounting accuracy is not ensured even if the
+totals of debit and credit balances are equal because some errors do not affect
+equality of debits and credits. For example, the book-keeper may debit a correct
+amount in the wrong account while making the journal entry or in posting a
+journal entry to the ledger. This error would cause two accounts to have
+incorrect balances but the trial balance would tally. Another error is to record
+an equal debit and credit of an incorrect amount. This error would give the
+two accounts incorrect balances but would not create unequal debits and
+credits. As a result, the fact that the trial balance has tallied does not imply
+that all entries in the books of original record (journal, cash book, etc.) have
+been recorded and posted correctly. However, equal totals do suggest that
+several types of errors probably have not occured.
+
+6.2.3 To Help in the Preparation of the Financial Statements
+
+Trial balance is considered as the connecting link between accounting records
+and the preparation of financial statements. For preparing a financial
+statement, one need not refer to the ledger. In fact, the availability of a tallied
+trial balance is the first step in the preparation of ﬁnancial statements. All
+revenue and expense accounts appearing in the trial balance are transferred
+to the trading and profit and loss account and all liabilities, capital and assets
+accounts are transferred to the balance sheet.
+
+(Preparation of the ﬁnancial statements is explained in chapters, 9 and 1 0).
+
+2019-2020

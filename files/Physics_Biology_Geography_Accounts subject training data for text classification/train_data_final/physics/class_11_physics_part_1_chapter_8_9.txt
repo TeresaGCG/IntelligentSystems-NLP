@@ -1,0 +1,135 @@
+l92
+
+PHYSICS
+
+If we associate a potential energy W(h) at a
+point at a height h above the surface such that
+
+W(h) = mgh + W0 (8.21)
+(where WO = constant) ;
+then it is clear that
+
+W12 = W(h) — W(hl) (8.22)
+
+The work done in moving the particle is just
+the difference of potential energy between its
+final and initial positions.Observe that the
+constant W0 cancels out in Eq. (8.22). Setting
+h = O in the last equation, we get W( h = O ) =
+W0. . h = 0 means points on the surface of the
+earth. Thus, W0 is the potential energy on the
+surface of the earth.
+
+If we consider points at arbitrary distance
+from the surface of the earth, the result just
+derived is not valid since the assumption that
+the gravitational force mg is a constant is no
+longer valid. However, from our discussion we
+know that a point outside the earth, the force of
+gravitation on a particle directed towards the
+centre of the earth is
+
+GM E m
+
+F= r2 (8.23)
+
+where ME = mass of earth, m = mass of the
+particle and r its distance from the centre of the
+earth. If we now calculate the work done in
+lifting a particle from r= r1 to r = r2 (r2 > r1) along
+a vertical path, we get instead of Eq. (8.20)
+
+GMm
+
+ 
+
+ 
+
+W12 2}: r2 dr
+1 1
+
+=-GME m [—-—J (8.24)
+r2 ’1
+
+In place of Eq. (8.2 1), we can thus associate
+
+a potential energy W(r) at a distance r, such that
+G ME m
+r
+
+valid for r > R ,
+
+so that once again W12 = W(r2) — W(rl).
+Setting r = infinity in the last equation, we get
+W ( r = infinity ) = W1. Thus, W1 is the
+potential energy at infinity. One should note that
+only the difference of potential energy between
+two points has a definite meaning from Eqs.
+(8.22) and (8.24). One conventionally sets W1
+equal to zero, so that the potential energy at a
+point is just the amount of work done in
+
+displacing the particle from infinity to that point.
+
+W(r) =—
+
+ 
+
++VVI, (8.25)
+
+2019-20
+
+We have calculated the potential energy at
+a point of a particle due to gravitational forces
+on it due to the earth and it is proportional to
+the mass of the particle. The gravitational
+potential due to the gravitational force of the
+earth is defined as the potential energy of a
+particle of unit mass at that point. From the
+earlier discussion, we learn that the gravitational
+potential energy associated with two particles
+of masses m1 and m2 separated by distance by a
+distance r is given by
+
+Gmlm2
+r
+It should be noted that an isolated system
+of particles will have the total potential energy
+that equals the sum of energies (given by the
+above equation) for all possible pairs of its
+
+constituent particles. This is an example of the
+application of the superposition principle.
+
+ 
+
+V=— (ifwe choose V=Oasr—>°°)
+
+P Example 8.3 Find the potential energy of
+a system of four particles placed at the
+
+vertices of a square of side 1. Also obtain
+the potential at the centre of the square.
+
+ 
+
+Answer Consider four masses each of mass m
+at the corners of a square of side I; See Fig. 8.9.
+We have four mass pairs at distance I and two
+
+diagonal pairs at distance Ji 1
+Hence,
+
+Gm2_2Gm2
+
+l «51
+
+ 
+
+ 
+
+W(r)=—4
+
+ 
+
+Fig. 8.9

@@ -1,0 +1,34 @@
+118 Chapter 2 Instructions: Language of the Computer
+It x[i] + 4 Itx[iJ + 4
+1i R100 , x li RIOO , x
+lwR10l , i lw RIOl , i
+mul R102 , R10l ,4 mul t RI02 , RIOl ,4
+t
+add R103 , R100 , R102 add RI03 , RIOO , RI02
+lw R104 , O(R103) l w RI04, O(RI03l
+It value of x[i] R104 It value of x[iJ RI04
+lS 1n 15 1n
+add R105 , R104 ,4 add RI05 , RI04,4
+II xli] ~ Ilx[i] ~
+li R106 , x sw RI05 , O(RI03l
+lwR107 , i
+mult R108 , R107 ,4
+add R109 , R106 , R107
+sw R105 , O(R109)
+If the same optimization was possible across two basic blocks, it would then be an
+instance of global common slibexpression elimination.
+Let's consider some of the other optimizations:
+• Strength reduction replaces complex operations by simpler ones and can be
+applied to this code segment, replacing the mu 1t by a shift left.
+• Constant propagation and its sibling folding find constants in code
+COllstllnt
+and propagates them, collapsing constant values whenever possible.
+• Copy propagation propagates values that are simple copies, eliminating the
+need to reload values and possibly enabling other optimizations such as
+common subexpression elimination.
+• Dead store elimination finds stores to values that are not used again and
+eliminates the store; its "cousin" is dead code elimination, which fin ds
+unused code-code that cannot affect the final result of the program-and
+eliminates it. With the heavy use of macros, templates, and the similar tech 
+niques designed to reuse code in high-level languages, dead code occurs sur 
+prisinglyoften.

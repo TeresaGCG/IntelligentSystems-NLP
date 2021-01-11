@@ -1,0 +1,74 @@
+U N [TS AND M EASU REM EN’I‘
+
+ 
+
+2.20 The nearest star to our solar system is 4.29 light years away. How much is this
+distance in terms of parsecs? How much parallax would this star (named Alpha
+Centauri] show when viewed from two locations of the Earth six months apart in its
+orbit around the Sun ?
+
+2.21 Precise measurements of physical quantities are a need of science. For example, to
+ascertain the speed of an aircraft, one must have an accurate method to find its
+positions at closely separated instants of time. This was the actual motivation behind
+the discovery of radar in World War 11. Think of different examples in modern science
+where precise measurements of length, time, mass etc. are needed. Also, wherever
+you can, give a quantitative idea of the precision needed.
+
+2.22 Just as precise measurements are necessary in science, it is equally important to be
+able to make rough estimates of quantities using rudimentary ideas and common
+observations. Think of ways by which you can estimate the following [where an
+estimate is difficult to obtain, try to get an upper bound on the quantity] :
+
+(a) the total mass of rain—bearing clouds over India during the Monsoon
+[b] the mass of an elephant
+
+[c] the wind speed during a storm
+(d) the number of strands of hair on your head
+[e] the number of air molecules in your classroom.
+
+2.23 The Sun is a hot plasma [ionized matter] with its inner core at a temperature exceeding
+107 K, and its outer surface at a temperature of about 6000 K. At these high
+temperatures, no substance remains in a solid or liquid phase. In what range do you
+expect the mass density of the Sun to be, in the range of densities of solids and
+liquids or gases ? Check if your guess is correct from the following data : mass of the
+Sun = 2.0 x 1030 kg, radius ofthe Sun = 7.0 x 108 m.
+
+2.24 When the planet Jupiter is at a distance of 824.7 million kilometers from the Earth,
+its angular diameter is measured to be 35.72" of arc. Calculate the diameter of
+Jupiter.
+
+Additional Exercises
+
+2.25 A man walking briskly in rain with speed 1) must slant his umbrella forward making
+an angle 6 with the vertical. A student derives the following relation between 0 and
+v : tan 0 = v and checks that the relation has a correct limit: as 1) —>0, 0 —>0, as
+expected. We are assuming there is no strong wind and that the rain falls vertically
+for a stationary man). Do you think this relation can be correct ? If not, guess the
+correct relation.
+
+2.26 It is claimed that two cesium clocks, if allowed to run for 100 years, free from any
+disturbance, may differ by only about 0.02 s. What does this imply for the accuracy
+of the standard cesium clock in measuring a time—interval of l s ?
+
+2.27 Estimate the average mass density of a sodium atom assuming its size to be about
+2.5 A. [Use the known values of Avogadro’s number and the atomic mass of sodium].
+Compare it with the mass density of sodium in its crystalline phase : 970 kg m*3. Are
+the two densities of the same order of magnitude ? If so, why ?
+
+2.28 The unit of length convenient on the nuclear scale is a fermi : 1 f = 10’15m. Nuclear
+sizes obey roughly the following empirical relation :
+
+= 1/3
+r r0 A
+
+where r is the radius of the nucleus, A its mass number, and r0 is a constant equal to
+about, 1.2 f. Show that the rule implies that nuclear mass density is nearly constant
+for different nuclei. Estimate the mass density of sodium nucleus. Compare it with
+the average mass density of a sodium atom obtained in Exercise. 2.27.
+
+2.29 A LASER is a source of very intense, monochromatic, and unidirectional beam of
+light. These properties of a laser light can be exploited to measure long distances.
+The distance of the Moon from the Earth has been already determined very precisely
+using a laser as a source of light. A laser light beamed at the Moon takes 2.56 s to
+
+2019-20

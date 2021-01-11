@@ -1,0 +1,96 @@
+wavelength extends all over space. By Born’s
+probability interpretation this means that the
+electron is not localised in any ﬁnite region of
+space. That is, its position uncertainty is inﬁnite
+(Ax a co), which is consistent with the
+uncertainty principle.
+
+In general, the matter wave associated with
+the electron is not extended all over space. It is
+a wave packet extending over some ﬁnite region
+of space. In that case Axis not inﬁnite but has
+some ﬁnite value depending on the extension
+of the wave packet. Also, you must appreciate
+that a wave packet of ﬁnite extension does not
+have a single wavelength. It is built up of
+wavelengths spread around some central
+wavelength.
+
+By de Broglie’s relation, then, the
+momentum of the electron will also have a
+spread — an uncertainty Ap. This is as expected
+from the uncertainty principle. It can be shown
+that the wave packet description together with
+de Broglie relation and Born’s probability
+interpretation reproduce the Heisenberg’s
+uncertainty principle exactly.
+
+In Chapter 12, the de Broglie relation will
+be seen to justify Bohr’s postulate on
+quantisation of angular momentum of electron
+in an atom.
+
+Figure 1 1.6 shows a schematic diagram of
+(a) a localised wave packet, and (b) an extended
+wave with ﬁxed wavelength.
+
+ 
+
+ 
+
+Dual Nature of Radiation
+and Matter
+
+ 
+
+ 
+
+(a)
+
+FAA
+(b)
+
+FIGURE 11.6 (a) The wave packet description of
+an electron. The wave packet 001Tesp0nds to a
+spread of wavelength around some central
+wavelength (and hence by de Broglie relation.
+a spread in momentum). Consequently. it is
+associated with an uncertainty in position
+(Ax) and an uncertainty in momentum (A ).
+(b) The matter wave corresponding to a
+definite momentum of an electron
+extends all over space. In this case,
+
+Ap = O and Ax—mo.
+
+Example 11.4 What is the de Broglie wavelength associated with (a) an
+electron moving with a speed of 5.4x106 m/s, and (b) a ball of mass 150
+
+g traveﬂmg at 30.0 m/s?
+
+Solution
+(a) For the electron:
+
+Mass m = 9.11><10’31 kg, speed 1) = 5.4><106 m/s. Then, momentum
+
+p = m u = 9.11><10‘31 (kg) x 5.4 x 106 (m/s)
+p = 4.92 x 10—24 kg m/s
+de Broglie wavelength, 7» = h/ p
+
+_ 6.63><10“'34 Js
+_ 4.92x10‘24 kg m/s
+x1= 0.135 nm
+(b) For the ball:
+
+Mass m’ = 0.150 kg, speed 1) ’ = 30.0 m/s.
+
+Then momentum p’ = m’ U’ = 0.150 (kg) x 30.0 (m/s)
+
+p’= 4.50 kg m/s
+de Broglie wavelength N = h/p’.
+
+f't I GI’IJWVXQ
+
+401
+
+2019-20

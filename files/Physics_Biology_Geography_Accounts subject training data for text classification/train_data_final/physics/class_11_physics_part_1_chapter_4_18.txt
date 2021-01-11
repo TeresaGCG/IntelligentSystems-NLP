@@ -1,0 +1,88 @@
+MOTION IN A PLANE
+
+14.
+
+15.
+
+16.
+
+as At tends to zero :
+
+Ar dr
+
+v = lim — = —. It can be written in unit vector notation as :
+At —> 0 At dt
+A dx _ dy dz
+
+=E’vy ‘E’vz =E
+When position of an object is plotted on a coordinate system, v is always tangent to
+the curve representing the path of the object.
+
+v=vX1+vyJ+vzk where vx
+
+If the velocity of an object changes from v to v’in time At, then its average acceleration
+v — v' Av
+At At .
+The acceleration a at any time tis the limiting value of E as At —>0 :
+
+lim Av dv
+a : — : —
+At —> 0 At dt
+
+is given by: a =
+
+ 
+
+In component form, we have : a = (1X1 + ayJ + azk
+
+de de dUZ
+where, ax =W’ “y ZE’ ‘12 = dt
+
+ 
+
+If an object is moving in a plane with constant acceleration a = lal = Jag + a: and
+
+its position vector at time t = 0 is r0, then at any other time t, it will be at a point given
+by:
+
+1': r0 +vot+lat2
+2
+
+and its velocity is given by :
+
+v = vo + a t
+where V0 is the velocity at time t = 0
+In component form :
+
+x = x0 + voxt+laxt2
+2
+
+1
+y=yo +vay t+§ayt2
+
+vx = v0x+axt
+
+Dy = voy +ayt
+
+Motion in a plane can be treated as superposition of two separate simultaneous one—
+dimensional motions along two perpendicular directions
+An object that is in ﬂight after being projected is called a projectile. If an object is
+projected with initial velocity vo making an angle 00 with x—axis and if we assume its
+initial position to coincide with the origin of the coordinate system, then the position
+and velocity of the projectile at time t are given by :
+x= [v0 cos 00) t
+y = [vosin 00) t— (1/2) 9 t2
+vx = vex = no cos 90
+vy= vosin Oo—gt
+The path of a projectile is parabolic and is given by :
+
+2
+
+L
+2(1)O cos ‘90)2
+
+The maximum height that a projectile attains is :
+
+y=(tan60)x—
+
+2019-20

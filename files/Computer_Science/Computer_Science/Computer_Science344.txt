@@ -1,0 +1,35 @@
+328 Chapter 5 The Processor: Datapath and Control
+ting PCSource to 01, the value written into the PC will come from ALUOut, which
+holds the branch target address computed in the previous cycle. For conditional
+branches that are taken, we actually write the PC twice: once from the output of the
+ALU (during the Instruction decode/register fetch) and once from ALUOut (during
+the Branch completion step). The value written into the PC last is the one used for the
+next instruction fetch.
+jump:
+# lx , y} is the Veri log notati on f or conca t enation of
+bi t fi elds x and y
+PC <~ IPC [31 , 28], (lR[2S , OJ],2 ' bOOI} ,
+Operation: The PC is replaced by the jump address. PCSource is set to direct the
+jump address to the PC, and PCWrite is asserted to write the jump address into
+the Pc.
+4. Memory access or R-type instruction completion step
+During this step, a load or store instruction accesses memory and atl arithmetic 
+logical instruction writes its result. \Vhen a value is retrieved from memory, it is
+stored into the memory data register (MDR), where it must be used on the next
+clock cycle.
+Memory reference:
+<=
+MOR Memory [ALUOut] ;
+<=
+Memory [ALUOut] B;
+Operation: If the instruction is a load, a data word is retrieved from memory and
+is written into the MDR. If the instruction is a store, then the data is written into
+memory. In either case, the address used is the one computed during the previous
+step and stored in ALUOut. For a store, the source operand is saved in B. (8 is
+actually read twice, once in step 2 and once in step 3. Luckily, the sa me value is
+read both times, since the register number-which is stored in IR and used to read
+from the register file-does not change.) The signal MemRead (for a load) or
+MemWrite (for store) will need to be asserted. In addition, for loads and stores,
+the signal lorD is set to 1 to force the memory address to come from the ALU,
+rather than the Pc. Since MDR is written on every clock cycle, no explicit control
+signal need be asserted.

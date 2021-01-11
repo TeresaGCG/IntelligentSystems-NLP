@@ -1,0 +1,132 @@
+164
+
+PHYSICS
+
+with angular velocity (0. Each mass element
+of the ring is at a distance R from the axis,
+and moves with a speed Ra). The kinetic
+energy is therefore,
+
+K=lM122=l R2002
+2 2
+Comparing with Eq. (7.35) we get I = MR2
+
+for the ring.
+A
+I
+I
+I
+I
+
+9’
+
+M2 M/2
+
+ 
+
+C
+<—U2—><—l/2—>
+
+Fig. 7.28 A light rod of length l with a pair of masses
+rotating about an axis through the centre of
+mass of the system and perpendicular to
+the rod. The total mass of the system is M.
+
+(b) Next, take a rigid rod of negligible mass of
+
+length of length lwith a pair of small masses,
+
+rotating about an axis through the centre of
+
+mass perpendicular to the rod (Fig. 7 .28).
+
+Each mass M / 2 is at a distance 1/2 from the
+
+axis. The moment of inertia of the masses is
+
+therefore given by
+(M/2) (1/2)2 + (M/2)(l/2)2
+
+Thus, for the pair of masses, rotating about
+the axis through the centre of mass
+perpendicular to the rod
+
+I = Ml2 / 4
+Table 7 . 1 simply gives the moment of inertia of
+various familiar regular shaped bodies about
+specific axes. (The derivations of these
+expressions are beyond the scope of this textbook
+and you will study them in higher classes.)
+
+As the mass of a body resists a change in its
+state of linear motion, it is a measure of its inertia
+in linear motion. Similarly, as the moment of
+inertia about a given axis of rotation resists a
+change in its rotational motion, it can be
+regarded as a measure of rotational inertia of
+the body; it is a measure of the way in which
+different parts of the body are distributed at
+different distances from the axis. Unlike the
+mass of a body, the moment of inertia is not a
+fixed quantity but depends on distribution of
+mass about the axis of rotation, and the
+orientation and position of the axis of rotation
+
+2019-20
+
+with respect to the body as a whole. As a
+measure of the way in which the mass of a
+rotating rigid body is distributed with respect to
+the axis of rotation, we can define a new
+parameter, the radius of gyration. It is related
+to the moment of inertia and the total mass of
+the body.
+
+Notice from the Table 7.1 that in all
+cases, we can write I = Mk2, where k has
+the dimension of length. For a rod, about
+the perpendicular axis at its midpoint,
+
+k2 = L2/12, i.e. k = L/JE. Similarly, k = R/2
+for the circular disc about its diameter. The
+length k is a geometric property of the body and
+axis of rotation. It is called the radius of
+gyration. The radius of gyration of a body
+about an axis may be defined as the distance
+from the axis of a mass point whose mass is
+equal to the mass of the whole body and whose
+moment of inertia is equal to the moment of
+inertia of the body about the axis.
+
+Thus, the moment of inertia of a rigid body
+depends on the mass of the body, its shape and
+size; distribution of mass about the axis of
+rotation, and the position and orientation of the
+axis of rotation.
+
+From the definition, Eq. (7 .34), we can infer
+that the dimensions of moments of inertia are
+ML2 and its SI units are kg m2.
+
+The property of this extremely important
+quantity I, as a measure of rotational inertia of
+the body, has been put to a great practical use.
+The machines, such as steam engine and the
+automobile engine, etc., that produce rotational
+motion have a disc with a large moment of
+inertia, called a ﬂywheel. Because of its large
+moment of inertia, the ﬂywheel resists the
+sudden increase or decrease of the speed of the
+vehicle. It allows a gradual change in the speed
+and prevents jerky motions, thereby ensuring
+a smooth ride for the passengers on the vehicle.
+
+7.10 THEOREMS OF PERPENDICULAR AND
+PARALLEL AXES
+
+These are two useful theorems relating to
+moment of inertia. We shall first discuss the
+theorem of perpendicular axes and its simple
+yet instructive application in working out the
+moments of inertia of some regular-shaped
+bodies.

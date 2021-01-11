@@ -1,0 +1,33 @@
+168 Chapter 3 Arithmetic: for Computers
+numbers have infinite number of Is. The binary bit pattern representing a
+all
+number hides leading bits to fit the width of the hardware; sign extension simply
+restores some of them.
+The third shortcut reduces the cost of checking if 0 x < y, which matches the
+$;
+index out-of-bounds check for arrays. The key is that negative integers in two's
+complement notation look like large numbers in unsigned notation; that is, the
+most significant bit is a sign bit in the former notation but a large part of the num 
+ber in the latter. Thus, an unsigned comparison of x < y also checks if x is nega 
+tive.
+Bounds Check Shortcut
+Use this shortcut to reduce an index-out-of-bounds check: jump to Index  
+EXAMPLE
+OutOfBound s if $a 1 '2': $t2 or if $a1 is negative.
+The checking code just uses s1tu to do both checks:
+ANSWER
+s ltu $tO ,$ al , $t2 # Temp reg $tO=O if k)=length or k<O
+beq $tO ,$zero , IndexOutOfBounds #if bad , goto Error
+Summary
+The main point of this section is that we need to represent both positive and neg 
+ative integers within a computer word, and although there are pros and cons to
+any option, the overwhelming choice since 1965 has been two's complement.
+Figure 3. 1 shows the additions to the M IPS assembly language revealed in this sec 
+tion. (The MIPS machine language is also illustrated on the back endpapers of
+this book.)
+Check
+Which type of variable that can contain I,OOO,OOO,OOOten takes the most memory
+Yourself space?
+1. i nt in C
+2. string in C
+3. stri ng in Java (which uses Unicode)

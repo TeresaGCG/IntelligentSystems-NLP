@@ -1,0 +1,38 @@
+7.4 Virtual Memory 527
+the memory hierarchy: the TLB, the page table, and the cache. The following
+example illustrates these interactions in more detail..
+Overall Operation of a Memory Hierarchy
+In a memory hierarchy like that of Figure 7.24 that includes a TLB and a EXAMPLE
+cache organized as shown, a memory reference can encounter three different
+types of misses: a TLB miss, a page fault, and a cache miss. Consider all the
+combinations of these three events with one or more occurring (seven possi 
+bilities). For each possibility, state whether this event can actually occur and
+under what circumstances.
+Figure 7.26 shows the possible circumstances and whether they can arise in ANSWER
+practice or not.
+Elaboration: Figure 7.26 assumes that all memory addresses are translated to
+physical addresses before the cache is accessed. In this organization, the cache is
+physically indexed and physically tagged (both the cache index and tag are physical,
+rather than virtual, addresses). In such a system, the amount of time to access mem 
+ory, assuming a cache hit, must accommodate both a TLB access and a cache access;
+of course, these accesses can be pipelined.
+Alternatively, the processor can index the cache with an address that is completely
+or partially virtual. This is called a virtually addressed cache, and it uses tags that are virtually addressed cache A
+virtual addresses; hence, such a cache is virtually indexed and virtually tagged. In such cache that is accessed with a vir 
+tual address rather than a physi 
+caches, the address translation hardware (TLB) is unused during the normal cache
+cal address.
+access, since the cache is accessed with a virtual address that has not been trans 
+lated to a physical address. This takes the TLB out of the critical path, reducing cache
+11111.
+Possible? If so, under what circumstance?
+hit hit miss Possible, although the page table is never really checked if TLB hits.
+miss hit hit TLB misses, but entry found in page table; after retry, data is found in cache.
+miss hit miss TLB misses, but entry found in page table; after retry, data misses in cache.
+miss miss miss TLB misses and is followed by a page fault; after retry, data must miss in cache.
+hit miss miss Impossible: cannot have a translation in TLB if page is not present in memory.
+hit miss hit Impossible: cannot have a translation in TLB if page is not present in memory.
+miss miss hit Impossible: data cannot be allowed in cache if the page is not in memory.
+FIGURE 7.26 The possible combinations of events In the TLB, virtual memory system,
+and cache. Three ofthese combinations are impossible, and one is possible (TLB hit, virtual memory hit,
+cache miss) but never detected.

@@ -1,0 +1,65 @@
+8.4 Buses and other Connections between Processors, Memory, and I/ O Devlc:es 585
+Elaboration: Another method for increasing the effective bus bandwidth is to
+release the bus when it is not being used for transmitting information. This type of pro 
+split transaction protocol A
+tocol is called a split transaction protocol. The advantage of such a protocol is that, by
+protocol in which the bus is
+freeing the bus during the time data is not being transmitted, the protocol allows
+released during a bus transac 
+another requestor to use the bus. This can improve the effective bus bandwidth for the
+tion while the requester is wait 
+entire system if the memory is sophisticated enough to handle multiple overlapping
+ing for the data to be
+transactions. Multiprocessors sharing a memory bus may use split transaction proto 
+transmitted, which frees the bus
+cols.
+for access by another requester.
+The Buses and Networks of the Pentium 4
+Figure 8.11 shows the I/O system of a PC based on the Pentium 4. The processor
+connects to peripherals via two main chips. The chip next to the processor is the
+memory controller hub, commonly called the north bridge, and the one connected
+to it is the I/O controller hub, called the south bridge.
+Pentium 4
+processor
+System bus (800 MHz, 604 GBtsec)
+DDR 400 AGP8X
+Memory
+(3.2 GBtsec) (2.1 GB/sec) Graphics
+controller ,
+Main output
+hob
+DDR 400 CSA
+memory
+(north bridge)
+(3.2 GBtsec) (0.266 GBlsec)
+DIMMs
+1 Gbit Ethernet ./
+82875P
+(
+Serial ATA (266 MBlsec) Parallel ATA
+(150 MBlsec) (100 MB/sec)
+CDfDVD
+Disk
+Serial ATA Parallel ATA "
+/'
+(150 MBlsec) (100 MBlsec)
+T",.
+Disk
+11O
+/
+AC/97 controller
+(1 MB/sec) hob
+Stereo
+(south bridge) J
+(surround- (20 MB/sec)
+82801 EB
+10/100 Mbit Ethern:y
+sound) USB 2.0
+(60 MBlsec)
+(
+PCI bus
+...
+(132 MBlsec)
+FtGURE 8.11 Organization of the I/O system on a Pentium 4 PC using the Intel 875 c:hlp
+set. Note that the maximum transfer rate between the north bridge (memory hub) and south bridge (IIO
+hub) is 266 MB/sec, which is why Intel put the AGP bus and Gig.1bit Ethernet on the north bridge.

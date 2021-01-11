@@ -1,0 +1,38 @@
+76 Chapter 2 Instructions: Language of the Computer
+Hardware MIPS compilers use the s 1t , s1t i, beq, bne, and the fixed value of 0 (always
+available by reading register $zero) to create all relative conditions: equal, not
+Software
+equal, less than, less than or equal, greater than, greater than or equal. (As you
+Interface
+might expect, register $ze ro maps to register 0.)
+Case/Switch Statement
+Most programming languages have a case or switch statement that allows the pro 
+grammer to select one of many alternatives depending on a single value. The sim 
+plest way to implement switch is via a sequence of conditional tests, turning the
+switch statement into a chain of i[-then-else statements.
+Sometimes the alternatives may be more efficiently encoded as a table of
+jump address table Also addresses of alternative instruction sequences, called a jump address table, and
+called jump table. A table of the program needs only to index into the table and then jump to the appropriate
+addresses ofalternative instruc 
+sequence. The jump table is then just an array of words containing addresses that
+tion sequences.
+correspond to labels in the code. See the In More Depth exercises in Section 2.20
+for more details on jump address tables.
+To support such situations, computers like MIPS include a jump register
+instruction (j r ), meaning an unconditional jump to the address specified in a
+register. The program loads the appropriate entry from the jump table into a reg 
+ister, and then it jumps to the proper address using a jump register. This instruc 
+tion is described in Section 2.7.
+Hardware Although there are many statements for decisions and loops in programming lan 
+guages like C and Java, the bedrock statement that implements them at the next
+Software
+lower level is the conditional branch.
+Interface
+Figure 2. 12 summarizes the portions of MIPS assembly language described in
+this section, and Figure 2. 13 summarizes the corresponding MIPS machine lan 
+guage. This step along the evolution of the MIPS language has added branches
+and jumps to our symbolic representation, and fixes the useful value 0 penna 
+nently in a register.
+Elaboration: If you have heard about delayed branches, covered in Chapter 6,
+don't worry: The MIPS assembler makes them invisible to the assembly language
+programmer.

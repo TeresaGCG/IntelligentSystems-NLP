@@ -1,0 +1,105 @@
+61%.
+
+R
+
+FIGURE 2.2 Work done on a test charge (1
+by the electrostatic field due to any given
+charge configuration is independent
+of the path. and depends only on
+its initial and final positions.
+
+2.3 POTENTIAL
+
+In other words, the electrostatic potential (V)
+at any point in a region with electrostatic ﬁeld is
+the work done in bringing a unit positive
+charge (without acceleration) from infinity to
+that point.
+
+The qualifying remarks made earlier regarding
+potential energy also apply to the definition of
+potential. To obtain the work done per unit test
+charge, we should take an inﬁnitesimal test charge
+(Sq, obtain the work done 6W in bringing it from
+infinity to the point and determine the ratio
+6W/6q. Also, the external force at every point of the
+path is to be equal and opposite to the electrostatic
+force on the test charge at that point.
+
+DUE TO A POINT CHARGE
+
+Consider a point charge Q at the origin (Fig. 2.3). For deﬁniteness, take Q
+to be positive. We wish to determine the potential at any point P with
+
+FIGURE 2.3 Work done in bringing a unit
+positive test charge from infinity to the
+point P. against the repulsive force of
+Charge Q (Q > O). is the potential at P due to
+the charge Q.
+
+54
+
+AW 2 — Q 2 Ar’
+47tgor'
+
+ 
+
+position vector 1' from the origin. For that we must
+calculate the work done in bringing a unit positive
+test charge from infinity to the point P. For Q > O,
+the work done against the repulsive force on the
+test charge is positive. Since work done is
+independent of the path, we choose a convenient
+path — along the radial direction from infinity to
+the point P.
+
+At some intermediate point P’ on the path, the
+electrostatic force on a unit positive charge is
+
+1
+QX fl
+
+4ns0r '2
+
+ 
+
+(2.5)
+
+where i" is the unit vector along OP’. Work done
+against this force from r’ to r’ + Ar’ is
+
+(2.6)
+
+The negative sign appears because for Ar’ < 0, AW is positive. Total
+work done (W) by the external force is obtained by integrating Eq. (2.6)
+
+from r’= co to r’= r,
+
+r
+W = — I2
+.. 47reor
+
+This, by definition
+
+Q
+
+Vr =
+U 47t£0r
+
+ 
+
+201
+
+ 
+
+ 
+
+Q if: Q r Q (2.7)
+
+47:80r’ .. 47t£0r
+
+is the potential at P due to the charge Q
+
+(2.8)
+
+9-20

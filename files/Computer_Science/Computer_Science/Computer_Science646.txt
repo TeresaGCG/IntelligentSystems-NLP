@@ -1,0 +1,44 @@
+Glossary G-7
+global pointer The register that is reserved ItO instructions A dedicated instruction
+to point to static data. that is used to give a command to an 110 de 
+guard The first oftwo eA1:ra bits kept on the vice and that specifies both the device num 
+right during intermediate calculations of ber and the command word (or thelocation
+floating-point numbers; used to improve of the command word in memory).
+rounding accuracy. ItO rate Performance measure ofllOs per
+handler Name of a software routine in  unit time, such as reads per second.
+voked to "handle" an exception or interrupt. ItO requests Reads or writes to 110 devices.
+handshakingprotocol A series ofsteps used implementation Hardware that obeys the
+to coordinate asynchronous bus transfers in architecture abstraction.
+which the sender and receiver proceed to the imprecise interrupt Also called imprecise
+neA1: step only when both parties agree that exception. Interrupts or exceptions in pipe 
+the current step has been completed. lined computers that arenot associated with
+hardware description language A pro  the exact instruction that was the cause of
+gramming language for describing hardware the interrupt or exception.
+used for generating simulations ofa hard  in-order commit A commit in which the
+ware design and also as input to synthesis results of pipelined execution are written to
+tools that can generate actual hardware. the programmer-visible state in the same
+hardwaresynthesistools Computer-aided order that instructions are fetched.
+design software that can generate a gate-lev  input device A mechanism through which
+el design based on behavioral descriptions the computer isfed information,such as the
+of a digital system. keyboard or mouse.
+hardwired control An implementation of instruction format A form of representa 
+finite state machine control typically using tion of an instruction composed of fields of
+programmable logic arrays (PLAs) or col  binary numbers.
+lections of PLAs and random logic. instruction group In IA-64, a sequence of
+hexadecimal Numbers in base 16. consecutive instructions with no register
+high-level programming language A por  data dependences among them.
+table language such as C, Fortran, or Java instruction latency The inherent execu 
+composed of words and algebraic notation tion time for an instruction.
+that can be translated by a compiler into as  instruction mix A measure ofthe dynamic
+sembly language. frequency of instructions across one or
+hit rate The fraction of memory accesses many programs.
+found in a cache. instruction set architecture Also called ar 
+hit time The time required to access a level chitecture. An abstract interface between
+of the memory hierarchy, including the the hardware and the lowest level software
+time needed to determine whether the ac  of a machine that encompasses all the infor 
+cess is a hit or a miss. mation necessary to write a machine
+hold time The minimum time during language program that will run correctly,
+which the input must be valid after the clock including instructions, registers, memory
+edge. access, 110, and so on.
+hot swapping Replacing a hardware com  instruction set The vocabulary of com 
+ponent while the system is running. mands understood by a given architecture.

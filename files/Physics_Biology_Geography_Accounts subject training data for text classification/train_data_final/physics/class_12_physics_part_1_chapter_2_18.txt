@@ -1,0 +1,65 @@
+Electrostatic Potential
+and Copoci’ronce
+
+electric ﬁeld normal to the surface exists; this means potential will be
+different for the surface and a point just outside the surface.
+
+In a system of conductors of arbitrary size, shape and
+charge configuration, each conductor is characterised by a constant
+value of potential, but this constant may differ from one conductor to
+the other.
+
+5. Electric ﬁeld at the surface of a charged conductor
+
+E = —n
+
+80 (2.35)
+where o is the surface charge density and I1 is a unit vector normal
+to the surface in the outward direction.
+
+To derive the result, choose a pill box (a short cylinder) as the Gaussian
+surface about any point P on the surface, as shown in Fig. 2.1 7. The pill
+box is partly inside and partly outside the surface of the conductor. It
+has a small area of cross section (SS and negligible height.
+
+Just inside the surface, the electrostatic ﬁeld is zero; just outside, the
+ﬁeld is normal to the surface with magnitude E. Thus,
+the contribution to the total ﬂux through the pill box
+comes only from the outside (circular) cross-section
+of the pill box. This equals i E58 (positive for 6 > 0,
+negative for a < 0), since over the small area 68, E
+may be considered constant and E and ES are parallel
+or antiparallel. The charge enclosed by the pill box
+is 665.
+
+ 
+
+ 
+
+By Gauss’s law surface charge Surface of
+density 0 Conductor
+6 S
+E65 = M
+80
+E = M (2.36)
+80
+Including the fact that electric field is normal to the FIGURE 2_ 17 The Gaussian surface
+surface, we get the vector relation, Eq. (2.35), which (a pill box) chosen to derive Eq. (2.35)
+is true for both signs of G. For o> 0, electric ﬁeld is for electric field at the surface of a
+normal to the surface outward; for a < 0, electric ﬁeld ChargEd COHdUCtOl‘-
+
+is normal to the surface inward.
+
+6. Electrostatic shielding
+
+Consider a conductor with a cavity, with no charges inside the cavity. A
+remarkable result is that the electric ﬁeld inside the cavity is zero, whatever
+be the size and shape of the cavity and whatever be the charge on the
+conductor and the external ﬁelds in which it might be placed. We have
+proved a simple case of this result already: the electric ﬁeld inside a charged
+spherical shell is zero. The proof of the result for the shell makes use of
+the spherical symmetry of the shell (see Chapter 1). But the vanishing of
+electric field in the (charge-free) cavity of a conductor is, as mentioned
+above, a very general result. A related result is that even if the conductor 69
+
+2019-20

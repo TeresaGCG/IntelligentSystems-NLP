@@ -1,0 +1,107 @@
+and molecules, governed by the interaction of each atom or
+molecule with its neighbours. In contrast light emitted from
+rarefied gases heated in a ﬂame, or excited electrically in a
+glow tube such as the familiar neon sign or mercury vapour
+light has only certain discrete wavelengths. The spectrum
+appears as a series of bright lines. In such gases, the
+average spacing between atoms is large. Hence, the
+radiation emitted can be considered due to individual atoms
+rather than because of interactions between atoms or
+molecules.
+
+In the early nineteenth century it was also established
+that each element is associated with a characteristic
+spectrum of radiation, for example, hydrogen always gives
+a set of lines with fixed relative position between the lines.
+This fact suggested an intimate relationship between the
+internal structure of an atom and the spectrum of
+radiation emitted by it. In 1885, Johann Jakob Balmer
+(1825 — 1898) obtained a simple empirical formula which
+gave the wavelengths of a group of lines emitted by atomic
+hydrogen. Since hydrogen is simplest of the elements
+known, we shall consider its spectrum in detail in this
+chapter.
+
+Ernst Rutherford (187 1—1937), a former research
+student of J . J. Thomson, was engaged in experiments on
+oc—particles emitted by some radioactive elements. In 1906,
+he proposed a classic experiment of scattering of these
+oc-particles by atoms to investigate the atomic structure.
+This experiment was later performed around 19 l l by Hans
+Geiger (1 882—1 945) and Ernst Marsden (l 889— l 970, who
+was 20 year-old student and had not yet earned his
+bachelor’s degree). The details are discussed in Section
+12.2. The explanation of the results led to the birth of
+Rutherford’s planetary model of atom (also called the
+nuclear model of the atom). According to this the entire
+positive charge and most of the mass of the atom is
+
+ 
+
+Ernst Rutherford [1871 -
+1937) New Zealand born,
+British physicist who did
+pioneering ‘work on
+radioactive radiation. He
+discovered alpha-rays and
+beta-rays. Along with
+Federick Soddy, he created
+the modern theory of
+radioactivity. He studied
+the ‘emanation’ of thorium
+and discovered a new noble
+gas, an isotope of radon,
+now known as thoron. By
+scattering alpha-rays from
+the metal foils, he
+discovered the atomic
+nucleus and proposed the
+plenatery model of the
+atom. He also estimated the
+approximate size of the
+nucleus.
+
+concentrated in a small volume called the nucleus with electrons revolving
+
+around the nucleus just as planets revolve around the sun.
+
+Rutherford’s nuclear model was a major step towards how we see
+the atom today. However, it could not explain why atoms emit light of
+only discrete wavelengths. How could an atom as simple as hydrogen,
+consisting of a single electron and a single proton, emit a complex
+spectrum of speciﬁc wavelengths? In the classical picture of an atom, the
+electron revolves round the nucleus much like the way a planet revolves
+round the sun. However, we shall see that there are some serious
+
+difficulties in accepting such a model.
+
+12.2 ALPHA-PARTICLE SCATTERING AND
+
+RUTHERFORD’S NUCLEAR MODEL OF ATOM
+
+At the suggestion of Ernst Rutherford, in 19 l 1, H. Geiger and E. Marsden
+performed some experiments. In one of their experiments, as shown in
+
+2019-20
+
+{11
+E
+(D
+H
+E
+H
+I
+Fl
+Q
+Q
+6
+0'?)
+\]
+r—a
+|
+E
+:1
+
+ 
+
+415

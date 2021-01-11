@@ -1,0 +1,41 @@
+186 Chapter 3 Arithmetic: for Computers
+A Divide Algorithm
+Using a 4-bit version of the algorithm to save pages, let's try dividing 7,en by
+EXAMPLE
+2 0000 0 111 by 00 10I\\oU'
+, or two
+1en
+Figure 3.1 2 shows the value of each register for each of the steps, with the
+ANSWER
+quotient being 3 and the remainder Notice that the test in step 2 of
+ten l Ien'
+whether the remainder is positive or negative simply tests whether the sign
+bit of the Remainder register is a 0 or 1. The surprising requirement of this
++
+algorithm is that it takes 1 steps to get the proper quotient and
+11
+remainder.
+This algorithm and hardware can be refined to be faster and cheaper. The
+speedup comes from shifting the operands and quotient at the same time as the
+subtract. This refinement halves the width of the adder and registers by noticing
+where there are unused portions of registers and adders. Figure 3.1 3 shows the
+revised hardware.
+Iteration Step Quotient Divisor Remainder
+0 Initial values 0000 0010 0000 0000 0111
+1: Rem _ Rem - Diy 0000 0010 0000 @1100111
+1 2b: Rem < a ~ +Diy. sll Q. QO '" a 0000 0010 0000 0000 0111
+3: Shift Diy right 0000 0001 0000 0000 0111
+1: Rem _ Rem - Diy 0000 0001 0000 ~11 0111
+2 2b: Rem < a ~ +Diy. sll Q. QO _ a 0000 0001 0000 0000 0111
+3: Shift Diy right 0000 0000 1000 0000 0111
+1: Rem _ Rem - Diy 0000 0000 1000 ~111111
+3 2b: Rem < a ~ +Diy. sll Q. QO _ a 0000 0000 1000 0000 0111
+3: Shift Diy right 0000 0000 0100 0000 0111
+1: Rem _ Rem - Diy 0000 0000 0100 (9:>00 0011
+4 2a: Rem;:>:O ~ sIlQ. QO _l 0001 0000 0100 0000 0011
+3: Shift Diy right 0001 0000 0010 0000 0011
+1: Rem _ Rem - Diy 0001 0000 0010 @::loa 0001
+5 2a: Rem;:>:O ~ sIlQ. QO _l 0011 0000 0010 0000 0001
+3: Shift Diy right 0011 0000 0001 0000 0001
+FIGURE 3.12 DIvision example using the algorithm In Figure 3.11. Thebit examined to deter-
+minethenext step iscircled in color.

@@ -1,0 +1,92 @@
+Solution The volume of the cubic domain is
+V= (10—6111)3 = 10‘18 m3 = 10‘12 cm3
+
+Magnetism and
+Mo’r’rer
+
+Its mass is volume X density = 7.9 g cm‘3 X 10‘12 cm3= 7.9 X 10’12 g
+It is given that Avagadro number (6.023 X 1023) of iron atoms have a
+mass of 55 g. Hence, the number of atoms in the domain is
+
+7.9 x 10“12 x 6.023 x 1023
+55
+= 8.65 X 1010 atoms
+
+N:
+
+The maximum possible dipole moment m is achieved for the
+
+max
+
+(unrealistic) case when all the atomic moments are perfectly aligned.
+
+Thus,
+
+mm: (8.65 x 1010) x (9.27 x 10-24)
+= 8.0 x 10‘13 A m2
+
+The consequent magnetisation is
+
+M = mum/Domain volume
+
+max
+
+= 8.0 x 10*13 Am2/ 10-18 m3
+= 8.0 x 105 Am‘1
+
+I I '9 TIME
+
+The relation between B and H in ferromagnetic materials is complex.
+It is often not linear and it depends on the magnetic history of the sample.
+Figure 5.14 depicts the behaviour of the material as we take it through
+one cycle of magnetisation. Let the material be unmagnetised initially. We
+
+place it in a solenoid and increase the current through the
+solenoid. The magnetic field B in the material rises and
+saturates as depicted in the curve 0a. This behaviour
+represents the alignment and merger of domains until no
+further enhancement is possible. It is pointless to increase
+the current (and hence the magnetic intensity H) beyond
+this. Next, we decrease H and reduce it to zero. At H = O, B
+i O. This is represented by the curve ab. The value of B at
+H = O is called retentivity or remanence. In Fig. 5.14, BR ~
+1.2 T, where the subscript R denotes retentivity. The
+domains are not completely randomised even though the
+external driving field has been removed. Next, the current
+in the solenoid is reversed and slowly increased. Certain
+domains are ﬂipped until the net field inside stands
+nulliﬁed. This is represented by the curve bc. The value of
+H at c is called coercivity. In Fig. 5.14 HC ~ —90 A m‘l. As
+the reversed current is increased in magnitude, we once
+again obtain saturation. The curve cd depicts this. The
+saturated magnetic ﬁeld BS ~ 1.5 T. Next, the current is
+reduced (curve de) and reversed (curve ea). The cycle repeats
+
+    
+
+ 
+
+o x: I
+—200 —1bo ,1’100 200 H
+,’ -O.5-— ,1 A/m
+
+ 
+
+FIGURE 5.14 The magnetic
+hysteresis loop is the B~H curve for
+ferromagnetic materials.
+
+itself. Note that the curve Oa does not retrace itself as H is reduced. For a
+given value of H, B is not unique but depends on previous history of the
+sample. This phenomenon is called hysterisis. The word hysterisis means
+
+lagging behind (and not ‘history’).
+
+5.7 PERMANENT MAGNETS AND ELECTROMAGNETS
+
+Substances which at room temperature retain their ferromagnetic property
+for a long period of time are called permanent magnets. Permanent
+
+2019-20
+
+195

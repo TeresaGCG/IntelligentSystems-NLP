@@ -1,0 +1,51 @@
+194
+
+(d)
+
+Accountancy
+
+Credit sales to Mohan ? 10,000 was correctly recorded in the sales book but was
+posted to Ram’s account. This is an error of commission. The effect of wrong posting
+has been:
+
+Ram’s A/c Dr. 10,000
+
+To Sales A/c 10.000
+
+Correct effect should have been :
+
+Mohan’s A/c Dr. 1 0,000
+
+To Sales A/c 10,000
+
+Notice that there is no error in sales account. But Ram’s account has been
+debited with ? 10,000 instead of Mohan’s account.
+
+Hence rectification entry will be:
+
+Mohan’s A/c Dr. 10,000
+
+To Ram’s A/c 10,000
+
+Rent paid ? 2,000 was wrongly shown as payment to landlord in the cash
+book:
+The effect of wrong posting has been:
+
+Landlord’s A/c Dr. 2,000
+
+To Cash A/c 2,000
+
+Correct effect should have been:
+
+Rent A/c Dr. 2,000
+
+To Cash A/c 2,000
+
+Landlord’s account has been wrongly debited instead of Rent account.
+Hence, rectification entry will be:
+
+Rent A/c Dr. 2,000
+
+To Landlord’s A/c 2,000
+
+2019-2020

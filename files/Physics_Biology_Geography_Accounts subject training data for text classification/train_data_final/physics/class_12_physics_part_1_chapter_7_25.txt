@@ -1,0 +1,46 @@
+Electromagnetic
+Induction
+
+ 
+
+even if the charges are stationary [and the q (v X B) term of the Lorentz
+force is not operative], an emf is nevertheless induced in the presence of a
+time-varying magnetic ﬁeld. Thus, moving charges in static field and static
+charges in a time-varying field seem to be symmetric situation for
+Faraday’s law. This gives a tantalising hint on the relevance of the principle
+of relativity for Faraday’s law.
+
+4. The motion of a copper plate is damped when it is allowed to oscillate
+between the magnetic pole-pieces. How is the damping force, produced by
+the eddy currents?
+
+EXERCISES
+
+6.1 Predict the direction of induced current in the situations described
+by the following Figs. 6.18(a) to (f).
+
+    
+
+(g ______
+
+   
+
+     
+
+ 
+
+(a) (b)
+y
+Common axis
+_____ x_______. _______
+2 g j
+. . Rheostat setting
+(Tapplng key Just closed) being changed
+(C) (d)
+Current (I) decreasing at
+r a steady rate
+(Tapping key just released)
+[e] [f]
+FIGURE 6.18 229
+
+2019-20

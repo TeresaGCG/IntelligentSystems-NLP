@@ -1,0 +1,132 @@
+26
+
+PHYSICS
+
+ 
+
+How will you measure the length of a line?
+
+What a naive question. at this stage. you might
+say! But what if it is not a straight line? Draw
+a zigzag line in your copy, or on the blackboard.
+Well. not too difﬁcult again. You might take a
+thread, place it along the line. open up the
+thread. and measure its length.
+
+Now imagine that you want to measure the
+length of a national highway. 3 river. the railway
+track between two stations. or the boundary
+between two states or two nations. If you take
+a string of length 1 metre or 100 metre, keep it
+along the line. shift its position every time. the
+arithmetic of man-hours of labour and expenses
+on the project is not commensurate with the
+outcome. Moreover. errors are bound to occur
+in this enormous task. There is an interesting
+fact about this. France and Belgium share a
+common international boundary. whose length
+mentioned in the ofﬁcial documents of the two
+countries differs substantially!
+
+Go one step beyond and imagine the
+coastline where land meets sea. Roads and rivers
+have fairly mild bends as compared to a
+coastline. Even so. all documents, including our
+school books. contain information on the length
+of the coastline of Gujarat or Andhra Pradesh.
+or the common boundary between two states.
+etc. Railway tickets come with the distance
+between stations printed on them. We have
+‘milestones‘ all along the roads indicating the
+distances to various towns. So, how is it done?
+
+One has to decide how much error one can
+tolerate and optimise cost-effectiveness. If you
+want smaller errors. it will involve high
+technology and high costs. Suﬁice it to say that
+it requires fairly advanced level of physics.
+mathematics, engineering and technology. It
+belongs to the areas of fractals. which has lately
+become popular in theoretical physics. Even
+then one doesn't know how much to rely on
+the figure that props up. as is clear from the
+story of France and Belgium. Incidentally. this
+story of the FrancevBelgium discrepancy
+appears on the ﬁrst page of an advanced Physics
+book on the subject of fractals and chaos!
+
+mass density is obtained by deviding mass by
+the volume of the substance. If we have errors
+in the measurement of mass and of the sizes or
+dimensions, we must know what the error will
+be in the density of the substance. To make such
+estimates, we should learn how errors combine
+in various mathematical operations. For this,
+we use the following procedure.
+
+2019-20
+
+(a) Error of a sum or a difference
+
+Suppose two physical quantities A and B have
+measured values A i AA, B i AB respectively
+where AA and AB are their absolute errors. We
+wish to find the error AZ in the sum
+
+Z = A + B.
+We have by addition, Z i AZ
+
+= (AiAA) + (BiAB).
+The maximum possible error in Z
+
+AZ 2 AA + AB
+For the difference Z = A — B, we have
+
+ZiAZ= (AiAA)—(BiAB)
+
+=(A—B)iAAiAB
+
+or, i AZ = i AA i AB
+The maximum value of the error AZ is again
+AA + AB.
+
+Hence the rule : When two quantities are
+added or subtracted, the absolute error in the
+ﬁnal result is the sum of the absolute errors
+in the individual quantities.
+
+Example 2.8 The temperatures of two
+
+bodies measured by a thennometer are
+t1: 20 0C i 0.5 0C and t2 = 50 0C i 0.5 0C.
+
+Calculate the temperature difference and
+the error theirin.
+
+ 
+
+Answer t’ = t2—t1 = (50 0C105 0C)— (200Ci0.5 0C)
+t’ = 30 0C i l 0C {
+(b) Error of a product or a quotient
+
+Suppose Z = AB and the measured values of A
+and B are A 1 AA and B i AB. Then
+
+ZiAZ= (AiAA) (BiAB)
+=ABi BAAiAABiAAAB.
+Dividing LHS by Z and RHS by AB we have,
+li(AZ/ZJ = l i (AA/A) i (AB/B) i (AA/A)(AB/B).
+
+Since AA and AB are small, we shall ignore their
+product.
+
+Hence the maximum relative error
+AZ/ Z= (AA/A) + (AB/B).
+
+You can easily verify that this is true for division
+also.
+
+Hence the rule : When two quantities are
+multiplied or divided, the relative error in the
+result is the sum of the relative errors in the
+multipliers.

@@ -1,0 +1,93 @@
+384
+
+l Physics
+
+10.11
+
+10.12
+
+10.13
+
+10.14
+
+10.15
+
+10.16
+
+10.17
+
+ 
+
+ 
+
+ 
+
+ADDITIONAL EXERCISES
+
+The 6563 A H0: line emitted by hydrogen in a star is found to be red-
+shifted by 15 A. Estimate the speed with which the star is receding
+from the Earth.
+
+Explain how Corpuscular theory predicts the speed of light in a
+medium, say, water, to be greater than the speed of light in vacuum.
+Is the prediction confirmed by experimental determination of the
+speed of light in water? If not, which alternative picture of light is
+consistent with experiment?
+
+You have learnt in the text how Huygens’ principle leads to the laws
+of reﬂection and refraction. Use the same principle to deduce directly
+that a point object placed in front of a plane mirror produces a
+virtual image whose distance from the mirror is equal to the object
+distance from the mirror.
+
+Let us list some of the factors, which could possibly inﬂuence the
+speed of wave propagation:
+
+(i) nature of the source.
+
+(ii) direction of propagation.
+
+(iii) motion of the source and/ or observer.
+
+(iv) wavelength.
+
+(v) intensity of the wave.
+
+On which of these factors, if any, does
+
+(a) the speed of light in vacuum,
+
+(b) the speed of light in a medium (say, glass or water),
+
+depend?
+
+For sound waves, the Doppler formula for frequency shift differs
+slightly between the two situations: (i) source at rest; observer
+moving, and (ii) source moving; observer at rest. The exact Doppler
+formulas for the case of light waves in vacuum are, however, strictly
+identical for these situations. Explain why this should be so. Would
+
+you expect the formulas to be strictly identical for the two situations
+in case of light travelling in a medium?
+
+In double-slit experiment using light of wavelength 600 nm, the
+angular width of a fringe formed on a distant screen is 0. 1°. What is
+the spacing between the two slits?
+
+Answer the following questions:
+
+(a) In a single slit diffraction experiment, the width of the slit is
+made double the original width. How does this affect the size
+and intensity of the central diffraction band?
+
+(b) In what way is diffraction from each slit related to the
+interference pattern in a double-slit experiment?
+
+(c) When a tiny circular obstacle is placed in the path of light from
+a distant source, a bright spot is seen at the centre of the shadow
+of the obstacle. Explain why?
+
+((1) Two students are separated by a 7 m partition wall in a room
+10 m high. If both light and sound waves can bend around
+
+2019-20

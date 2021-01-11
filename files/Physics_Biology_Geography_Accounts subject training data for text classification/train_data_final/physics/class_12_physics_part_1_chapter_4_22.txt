@@ -1,0 +1,78 @@
+i Physics
+
+Example 4.9 A solenoid of length 0.5 m has a radius of 1 cm and is
+made up of 500 turns. It carries a current of 5 A. What is the
+magnitude of the magnetic field inside the solenoid?
+
+Solution The number of turns per unit length is,
+
+_ 500
+
+n —=1000 turns/m
+0.5
+
+B=y0nI
+
+EXAMPLE 4.9
+
+The length l= 0.5 m and radius r = 0.01 m. Thus, l/a = 50 i.e., I» a.
+Hence, we can use the long solenoid formula, namely, Eq. (4.20)
+
+=47c>< 10“7x 103><5
+= 6.28 x 10‘3 T
+
+4.9 FORCE BETWEEN Two PARALLEL CURRENTS,
+THE AMPERE
+
+We have learnt that there exists a magnetic ﬁeld due to a conductor
+carrying a current which obeys the Biot-Savart law. Further, we have
+
+ 
+
+I
+
+I
+11.
+
+FIGURE 4.20 Two long straight
+parallel conductors carrying steady
+currents I“ and 1b and separated by a
+distance d. Bu is the magnetic ﬁeld set
+up by conductor “a” at conductor ‘b‘.
+
+learnt that an external magnetic ﬁeld will exert a force on
+a current-carrying conductor. This follows from the
+Lorentz force formula. Thus, it is logical to expect that
+two current-carrying conductors placed near each other
+will exert (magnetic) forces on each other. In the period
+1820-25, Ampere studied the nature of this magnetic
+force and its dependence on the magnitude of the current,
+on the shape and size of the conductors, as well as, the
+distances between the conductors. In this section, we
+shall take the simple example of two parallel current-
+carrying conductors, which will perhaps help us to
+appreciate Ampere’s painstaking work.
+
+Figure 4.20 shows two long parallel conductors a
+and b separated by a distance d and carrying (parallel)
+currents Ia and 1b, respectively. The conductor ‘a’
+produces, the same magnetic ﬁeld Ba at all points along
+the conductor ‘b’. The right-hand rule tells us that the
+direction of this ﬁeld is downwards (when the conductors
+
+are placed horizontally). Its magnitude is given by Eq. [4.19(a)] or from
+Ampere’s circuital law,
+
+Ba : #010.
+27rd
+
+ 
+
+The conductor ‘b’ carrying a current Ib will experience a sideways
+force due to the ﬁeld Ba. The direction of this force is towards the
+conductor ‘a’ (Verify this). We label this force as F a, the force on a
+segment L of ‘b’ due to ‘a’. The magnitude of this force is given by
+
+154 Eq. (4.4),
+
+2019-20

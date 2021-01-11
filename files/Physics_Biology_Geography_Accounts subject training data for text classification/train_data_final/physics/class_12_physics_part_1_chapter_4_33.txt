@@ -1,0 +1,68 @@
+Moving Charges and
+
+Magnetism
+arrangement is schematically shown in Fig. 4.25. The scale of this Re.
+ammeter is calibrated and then graduated to read off the current value .—@—/\/\/\/\—o
+with ease. We define the current sensitivity of the galvanometer as the
+deﬂection per unit current. From Eq. (4.38) this current sensitivity is, *
+
+g1) NAB :r""""""""":
+
+I — k (4.39) E Re E
+
+A convenient way for the manufacturer to increase the sensitivity is m
+to increase the number of turns N. We choose galvanometers having T
+sensitivities of value, required by our experiment. Ammeter
+
+The galvanometer can also be used as a voltmeter to measure the FIGURE 425
+
+voltage across a given section of the circuit. For this it must be connected Conversion of a
+
+in parallel with that section of the circuit. Further, it must draw a very galvanometer (G) to
+small current, otherwise the voltage measurement will disturb the original an ammeter by the
+set up by an amount which is very large. Usually we like to keep the introduction of a
+disturbance due to the measuring device below one per cent. To ensure Shunt 113815131106 Q of
+this, a large resistance R is connected in series with the galvanometer. very small value in
+This arrangement is schematically depicted in Fig.4.26. Note that the paralm'
+resistance of the voltmeter is now,
+
+RG+R=Rz large
+
+The scale of the voltmeter is calibrated to read off the voltage value '—©—M’V‘—‘
+with ease. We define the voltage sensitivity as the deﬂection per unit
+
+ 
+
+voltage. From Eq. (4.38), *
+¢_(NAB]I_(NAB]1 ________________________ ,
+V_ k V_ k R (4'40)! 3 Re R E
+
+An interesting point to note is that increasing the current sensitivity '- ----------------------- '
+
+may not necessarily increase the voltage sensitivity. Let us take Eq. (4.39) VOltmeter
+which provides a measure of current sensitivity. If N a 2N, i.e., we double FIGURE 4.26
+the number Of turns, then Conversion of a
+galvanometer (G) to a
+2 _) 22 voltmeter by the
+I I introduction of a
+Thus, the current sensitivity doubles. However, the resistance of the resistance R of large
+galvanometer is also likely to double, since it is proportional to the length Value in series-
+of the wire. In Eq. (4.40), N —>2N, and R AZR, thus the voltage sensitivity,
+V V
+
+remains unchanged. So in general, the modification needed for conversion
+of a galvanometer to an ammeter will be different from what is needed
+for converting it into a voltmeter.
+
+Example 4.13 In the circuit (Fig. 4.27) the current is to be
+measured. What is the value of the current if the ammeter shown
+(a) is a galvanometer with a resistance RC = 60.00 9; (b) is a
+galvanometer described in (a) but converted to an ammeter by a
+shunt resistance rs = 0.02 9; (c) is an ideal ammeter with zero
+resistance?
+
+SI 'f El’ldWVXﬂ
+
+165
+
+2019-20

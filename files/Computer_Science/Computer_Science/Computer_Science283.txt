@@ -1,0 +1,47 @@
+4.5 Fallacies and Pitfalls 267
+The execution time of the program after I make the improvement is given by
+the following simple equation known as Amdahl's law: Amdahl's law A rule stating
+that the performance
+Execution time after improvement
+enhancement possible with a
+given improvement is limited by
+Execution time affected by improvement + Execution time unaffected)
+the amount that the improved
+(
+Amount of improvement
+feature is used.
+For this problem:
+Execution time after improvement = 80 seconds + (100 _ 80 seconds)
+n
+Since we want the performance to be five times faster, the new execution time
+should be 20 seconds, giving
+20 seconds = 80 seconds + 20 seconds
+"
+80 seconds
+0=
+n
+That is, there is no amOll1lt by which we can enhance multiply to achieve a fivefold
+increase in performance, if multiply accounts for only 80% of the workload. The
+performance enhancement possible with a given improvement is limited by the
+amount that the improved feature is used.
+This concept also yields what we call the law of diminishing returns in everyday
+life. \¥e can use Amdahl's law to estimate performance improvements when we
+know the time consumed for some function and its potential speed up. Amdahl's
+law, together with the CPU performance equation, are handy tools for evaluating
+potential enhancements. Amdahl's law is explored in more detail in the exercises
+II
+and in the In More Depth: Amdal's Law on the CD.
+A common theme in hardware design is a corollary of Amdahl's law: Make the
+common case fast. This simple guideline reminds us that in many cases the fre 
+quency with which one event occurs may be much higher than another. Amdahl's
+law reminds us that the opportunity for improvement is affected by how much
+time the event consumes. Thus, making the common case fast will tend to
+enhance performance better than optimizing the rare case. Ironically, the com 
+mon case is often simpler than the rare case and hence is often easier to enhance.
+Pitfall: Using a subset ofthe performance equation as a performance metric.
+We have already shown the fallacy of predicting performance based on simply one
+of clock rate, instruction count, or CPI. Another common mistake is to use two of
+the three factors to compare performance. Although using two of the three factors
+may be valid in a limited context, it is also easily misused. Indeed, nea rly all pro 
+posed alternatives to the use of time as the performance metric have led evennlally
+to misleading claims, distorted results, or incorrect interpretations.

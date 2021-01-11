@@ -1,0 +1,84 @@
+128
+
+i Physics
+
+3.9
+
+3.10
+
+3.11
+
+3.12
+
+3.
+
+3.
+
+13
+
+14
+
+ 
+
+a steady value of 2.8 A. What is the steady temperature of the heating
+element if the room temperature is 27.0 °C? Temperature coefﬁcient
+of resistance of nichrome averaged over the temperature range
+involved is 1.70 X 10’4 °C’1.
+
+Determine the current in each branch of the network shown in
+Fig. 3.30:
+
+B
+
+ 
+
+100
+
+FIGURE 3.30
+
+(a) In a meter bridge [Fig 3.27], the balance point is found to be at
+39.5 cm from the end A, when the resistor Y is of 12.5 9.
+Determine the resistance of X. Why are the connections between
+resistors in a Wheatstone or meter bridge made of thick copper
+strips?
+
+(b) Determine the balance point of the bridge above if X and Y are
+interchanged.
+
+(c) What happens if the galvanometer and cell are interchanged at
+the balance point of the bridge? Would the galvanometer show
+any current?
+
+A storage battery of emf 8.0 V and internal resistance 0.5 Q is being
+
+charged by a 120 V dc supply using a series resistor of 15.5 Q. What
+
+is the terminal voltage of the battery during charging? What is the
+purpose of having a series resistor in the charging circuit?
+
+In a potentiometer arrangement, a cell of emf 1.25 V gives a balance
+
+point at 35.0 cm length of the wire. If the cell is replaced by another
+
+cell and the balance point shifts to 63.0 cm, what is the emf of the
+second cell?
+
+The number density of free electrons in a copper conductor
+
+estimated in Example 3.1 is 8.5 X 1028 m’s. How long does an electron
+
+take to drift from one end of a wire 3.0 m long to its other end? The
+
+area of cross-section of the wire is 2.0 X 10’6 m2 and it is carrying a
+
+current of 3.0 A.
+
+ADDITIONAL EXERCISES
+
+The earth’s surface has a negative surface charge density of 10’9 C
+m’z. The potential difference of 400 kV between the top of the
+atmosphere and the surface results (due to the low conductivity of
+the lower atmosphere) in a current of only 1800 A over the entire
+globe. If there were no mechanism of sustaining atmospheric electric
+
+2019-20

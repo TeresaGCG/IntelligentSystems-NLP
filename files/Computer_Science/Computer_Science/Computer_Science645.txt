@@ -1,0 +1,44 @@
+G-6 Glossary
+exception enable Also called intermpt en  flip-flop A memory element for which the
+able. A signal or action that controls wheth  output is equal to the value of the stored state
+er the process responds to an exception or inside the element and for which the internal
+not; necessary for preventing the occur  state is changed only on a clock edge.
+rence of exceptions during intervals before floating point Computer arithmetic that
+the processor has safely saved the state represents numbers in which the binary
+needed to restart. point is not fixed.
+executable file A functional program in the floppy disk A portable form of secondary
+format of an object file that contains no un  memory composed of a rotating mylar plat 
+resolved references, relocation information, ter coated with a magnetic recording
+symbol table, or debugging information. materiaL
+exponent In the numerical representation flush (instructions) To discard instruc 
+system of floating-point arithmetic, the val  tions in a pipeline, usually due to an unex 
+ue that is placed in the eAvonent field. pected event.
+external label Also called global labeLA la  formal parameter A variable that is the ar 
+bel referring to an object that can be refer  gument to a procedure or macro; replaced by
+enced from files other than the one in which that argument once the macro is eAl'anded.
+it is defined. forward reference A label that is used be 
+false sharing A sharing situation in which fore it is defined.
+two unrelated shared variables are located in forwarding Also called bypassing. A meth 
+the same cache block and the full block is ex  od of resolving a data hazard by retrieving the
+changed between processors even though the missing data element from internal buffers
+processors are accessing different variables. rather than waiting for it to arrive from
+field programmable devices (FPD) An in  programmer-visible registers or mem ory.
+tegrated circuit containing combinational fraction The value, generally between 0
+logic, and possibly memory devices, that is and 1, placed in the fraction field.
+configurable by the end user. frame pointer A value denoting the loca 
+field programmable gate array A config  tion of the saved registers and local variables
+urable integrated circuit containing both for a given procedure.
+combinational logic blocks and flip-flops. fully associative cache A cache structure in
+finite state machine A sequential logic which a block can be placed in any location
+function consisting of a set of inputs and in the cache.
+outputs, a next-state function that maps the fully connected network A network that
+current state and the inputs to a nelV state, connects processor-memory nodes by sup 
+and an output function that maps the plying a dedicated communication link be 
+current state and possibly the inputs to a set tween every node.
+of asserted outputs. gate A device that implements basic logic
+firmware Microcode implemented in a functions, such as AND or O R.
+mem ory structure, typically ROM or RAM. general-purpose register (GPR) A register
+flat panel display, liquid crystal display A that can be used for addresses or for data
+display technology using a thin layer ofliquid with virtually any instruction.
+polymers that can be used to transmit or block global miss rate The fraction of references
+light according to whether a charge is applied. that miss in all levels of a multilevel cache.

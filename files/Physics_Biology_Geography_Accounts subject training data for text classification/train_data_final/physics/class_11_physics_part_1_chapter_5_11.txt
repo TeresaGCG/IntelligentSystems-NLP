@@ -1,0 +1,104 @@
+lOO
+
+PHYSICS
+
+ 
+
+Answer Figures 5.8(b) and 5.8(c) are known as
+free-body diagrams. Figure 5.8(b) is the free-body
+diagram of W and Fig. 5.8(c) is the free-body
+diagram of point P.
+
+Consider the equilibrium of the weight W.
+Clearly,T2 = 6 X 10 = 60 N.
+
+Consider the equilibrium of the point P under
+the action of three forces - the tensions T1 and
+T2, and the horizontal force 50 N. The horizontal
+and vertical components of the resultant force
+must vanish separately :
+
+Tlcos0= T2 = SON
+T sin 0 = 50 N
+
+1
+
+which gives that
+
+tan0 = E or 6 = tan"1 (5) = 40°
+6 6
+Note the answer does not depend on the length
+
+of the rope (assumed massless) nor on the point
+at which the horizontal force is applied. 4
+
+5.9 COMMON FORCES IN MECHANICS
+
+In mechanics, we encounter several kinds of
+forces. The gravitational force is, of course,
+pervasive. Every object on the earth experiences
+the force of gravity due to the earth. Gravity also
+governs the motion of celestial bodies. The
+gravitational force can act at a distance without
+the need of any intervening medium.
+
+All the other forces common in mechanics are
+contact forcesf'< As the name suggests, a contact
+force on an object arises due to contact with some
+other object: solid or ﬂuid. When bodies are in
+contact (e. g. a book resting on a table, a system
+of rigid bodies connected by rods, hinges and
+
+kx
+
+ 
+
+mg
+
+other types of supports), there are mutual
+contact forces (for each pair of bodies) satisfying
+the third law. The component of contact force
+normal to the surfaces in contact is called
+normal reaction. The component parallel to the
+surfaces in contact is called friction. Contact
+forces arise also when solids are in contact with
+ﬂuids. For example, for a solid immersed in a
+ﬂuid, there is an upward bouyant force equal to
+the weight of the ﬂuid displaced. The viscous
+force, air resistance, etc are also examples of
+contact forces (Fig. 5.9).
+
+Two other common forces are tension in a
+string and the force due to spring. When a spring
+is compressed or extended by an external force,
+a restoring force is generated. This force is
+usually proportional to the compression or
+elongation (for small displacements). The spring
+force F is written as F = — k x where x is the
+displacement and k is the force constant. The
+negative sign denotes that the force is opposite
+to the displacement from the unstretched state.
+For an inextensible string, the force constant is
+very high. The restoring force in a string is called
+tension. It is customary to use a constant tension
+Tthroughout the string. This assumption is true
+for a string of negligible mass.
+
+In Chapter 1, we learnt that there are four
+fundamental forces in nature. Of these, the weak
+and strong forces appear in domains that do not
+concern us here. Only the gravitational and
+electrical forces are relevant in the context of
+mechanics. The different contact forces of
+mechanics mentioned above fundamentally arise
+from electrical forces. This may seem surprising
+
+ 
+
+Fig. 5.9 Some examples of contact forces in mechanics.
+
+* We are not considering, for simplicity, charged and magnetic bodies. For these, besides gravity, there are
+
+electrical and magnetic non—contact forces.
+
+2019-20

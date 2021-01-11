@@ -1,0 +1,29 @@
+Exponents
+81
+Example 3
+Simplify:
+Solution: Factor 120 into products of perfect squares:
+120= 4 ⋅ 30 so,
+The easiest way to approach these problems is to look at the list of
+perfect squares and check to see if any of them divides the radicand
+evenly. If so, factor the radicand into a product of a perfect square and
+another factor:
+Radicand ===== Perfect Square ××××× Other Factor
+Now do the same thing with the other factor: See if any other perfect
+squares divide that other factor. If they do, keep factoring. If not, pull
+out all of the perfect squares that you found.
+The only way for the square root of a number to be a whole number
+is if it is a perfect square, and the only way that the square root of a
+number can be a rational number is if it is the ratio of two perfect squares.
+The square root of any other kind of number is an irrational number.
+Recall that irrational numbers are numbers that cannot be written as the
+ratio of two integers.
+Lesson 4-6 Review
+Simplify the following radicals:
+1. 3.
+2. 4.
+Answer Key
+Lesson 4-1 Review
+1. 48
+2. −36
+3. 40

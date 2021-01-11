@@ -1,0 +1,59 @@
+WORK. ENERGY AND POWER 137
+
+6. 17 The bob A of a pendulum released from 30° to the
+vertical hits another bob B of the same mass at rest
+on a table as shown in Fig. 6.15. How high does
+the bob A rise after the collision ? Neglect the size of
+the bobs and assume the collision to be elastic.
+
+6. 18 The bob of a pendulum is released from a horizontal
+position. If the length of the pendulum is 1.5 m,
+what is the speed with which the bob arrives at the
+lowermost point, given that it dissipated 5% of its
+initial energy against air resistance ?
+
+6. 19 A trolley of mass 300 kg carrying a sandbag of 25 kg
+is moving uniformly with a speed of 27 km/ h on a Fig. 6.15
+frictionless track. After a while, sand starts leaking
+out of a hole on the ﬂoor of the trolley at the rate of
+0.05 kg s'l. What is the speed of the trolley after the entire sand bag is empty ?
+
+6.20 Abody ofmass 0.5 kg travels in a straight line with velocity v =ax3/2 where a= 5 m‘“2 s‘l.
+What is the work done by the net force during its displacement from x = 0 to
+x = 2 m ?
+
+6.21 The blades of a windmill sweep out a circle of area A. [a] If the wind ﬂows at a
+velocity v perpendicular to the circle, what is the mass of the air passing through it
+in time t ? [b] What is the kinetic energy of the air ? [c] Assume that the windmill
+converts 25% of the winds energy into electrical energy, and that A = 30 m2, 1) = 36
+km / h and the density of air is 1.2 kg m‘3. What is the electrical power produced ?
+
+6.22 A person trying to lose weight [dieter] lifts a 10 kg mass, one thousand times, to a
+height of 0.5 m each time. Assume that the potential energy lost each time she
+lowers the mass is dissipated. [a] How much work does she do against the gravitational
+force ? [b] Fat supplies 3.8 X 107J of energy per kilogram which is converted to
+mechanical energy with a 20% efficiency rate. How much fat will the dieter use up?
+
+6.23 A family uses 8 kW of power. [a] Direct solar energy is incident on the horizontal
+surface at an average rate of 200 W per square meter. If 20% of this energy can be
+converted to useful electrical energy, how large an area is needed to supply 8 kW?
+(b) Compare this area to that of the roof of a typical house.
+
+Additional Exercises
+
+6.24 A bullet of mass 0.012 kg and horizontal speed 70 m s‘1 strikes a block of wood of
+mass 0.4 kg and instantly comes to rest with respect to the block. The block is
+suspended from the ceiling by means of thin wires. Calculate the height to which
+the block rises. Also, estimate the amount of heat produced in the block.
+
+6.25 Two inclined frictionless tracks, one gradual and the other steep meet at A from
+where two stones are allowed to slide down from rest, one on each track (Fig. 6.16).
+Will the stones reach the bottom at the same time? Will they reach there with the
+same speed? Explain. Given 01 = 30°, 62 = 60°, and h = 10 m, what are the speeds and
+times taken by the two stones ?
+
+ 
+
+Fig. 6.16
+
+2019-20

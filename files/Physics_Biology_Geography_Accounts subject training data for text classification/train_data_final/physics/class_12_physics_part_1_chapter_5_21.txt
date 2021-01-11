@@ -1,0 +1,65 @@
+194
+
+ 
+
+ 
+
+i Physics
+
+Hysterisis in magnetic materials:
+, f" ’ http://hyperphysics.phy-astr.gsu.edu/hbase/solids/hysthtml
+
+   
+
+ferromagnetic substance of samples. This motion of suspension can be
+observed. Figure 5.12(b) shows the situation when the domains have
+aligned and amalgamated to form a single ‘giant’ domain.
+
+Thus, in a ferromagnetic material the field lines are highly
+concentrated. In non-uniform magnetic field, the sample tends to move
+towards the region of high field. We may wonder as to what happens
+when the external field is removed. In some ferromagnetic materials the
+magnetisation persists. Such materials are called hard magnetic materials
+or hard ferromagnets. Alnico, an alloy of iron, aluminium, nickel, cobalt
+and copper, is one such material. The naturally occurring lodestone is
+another. Such materials form permanent magnets to be used among other
+things as a compass needle. On the other hand, there is a class of
+ferromagnetic materials in which the magnetisation disappears on removal
+of the external ﬁeld. Soft iron is one such material. Appropriately enough,
+such materials are called soﬁ ferromagnetic materials. There are a number
+of elements, which are ferromagnetic: iron, cobalt, nickel, gadolinium,
+etc. The relative magnetic permeability is > 1000!
+
+The ferromagnetic property depends on temperature. At high enough
+temperature, a ferromagnet becomes a paramagnet. The domain structure
+disintegrates with temperature. This disappearance of magnetisation with
+temperature is gradual. It is a phase transition reminding us of the melting
+of a solid crystal. The temperature of transition from ferromagnetic to
+paramagnetism is called the Curie temperature TC. Table 5.4 lists
+the Curie temperature of certain ferromagnets. The susceptibility
+above the Curie temperature, i.e., in the paramagnetic phase is
+described by,
+
+C
+
+ 
+
+(T>R) wan
+
+TABLE 5.4 CURIE TEMPERATURE TC OF SOME
+FERROMAGNETIC MATERIALS
+
+Cobalt 1394
+Iron 1043
+Fe2O3 893
+Nickel 63 1
+Gadolinium 3 17
+
+Example 5.11 A domain in ferromagnetic iron is in the form of a cube
+of side length 1pm. Estimate the number of iron atoms in the domain
+and the maximum possible dipole moment and magnetisation of the
+domain. The molecular mass of iron is 55 g/ mole and its density
+is 7.9 g/cm3. Assume that each iron atom has a dipole moment
+of 9.27x10“24 A m2.
+
+2019-20

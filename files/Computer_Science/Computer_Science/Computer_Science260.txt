@@ -1,0 +1,49 @@
+244 Chapter 4 Assessing and Understanding Performance
+In the above example, we could also say that computer B is 1.5 times slower
+thall computer A, since
+Performance
+A
+1.5
+Performance
+B
+means that
+Performance
+A
+= Performance
+B
+1.5
+For simplicity, we will normally use the terminology faster than when we try to
+compare computers quantitatively. Because performance and execution time are
+reciprocals, increasing performance requires decreasing execution time. To avoid
+the potential confusion between the terms increasing and decreasing, we usually
+say "improve performance" or "improve execution time" when we mean "increase
+performance" and "decrease execution time."
+Elaboration: Performance in embedded systems is often characterized by real-time
+constraints: that is, certain application-specific events must occur within a limited
+amount of time. There are two common types of real-time constraints: hard real time
+and soft real time. Hard real time defines a fixed bound on the time to respond to or
+process some event. For example, the embedded processor that controls an antilock
+brake system must respond within a hard limit from the time it receives a signal that
+the wheels are locked. In soft real-time systems, an average response or a response
+within a limited time to a large fraction of the events suffices. For example, handling
+video frames in a DVD playback system would be an example of a soft real-time con 
+straint. since dropping a frame is permissible, if it happens very rarely. In embedded
+real-time applications, once the response-time performance constraint is met, design 
+ers often optimize throughput or try to reduce cost.
+Measuring Performance
+Time is the measure of computer performance: the computer that performs the
+same amount of work in the least time is the fastest. Program execlltion time is
+measured in seconds per program. But time can be defined in different ways,
+depending on what we count. The most straightforward definition of time is
+called wall-clock time, response time, or elapsed time. These terms mean the total
+time to complete a task, including disk accesses, memory accesses, input/output
+0 /0 ) activities, operating system overhead-everything.
+Computers are often shared, however, and a processor may work on several
+programs simultaneously. In such cases, the system may try to optimize through 
+CPU execution time Also
+put rather than attempt to minimize the elapsed time for one program. Hence, we
+called CPU time. The actual
+often want to distinguish between the elapsed time and the time that the proces 
+time the CPU spends comput 
+sor is working on our behalf. CPU execution time or simply CPU time, which
+ing for a specific task.

@@ -1,0 +1,40 @@
+452 Chapter 6 Enhancing Performance with Plpellnlng
+example, Bhandarkar and Clark [199 1) compared the MIPS M/2000 and the DEC
+VAX 8700 by counting clock cycles of the SPEC benchmarks; they concluded that,
+although the M IPS M/2000 executes mo re instructions, the VAX on average exe 
+cutes 2.7 times as many clock cycles, so the MIPS is faster.
+Nine-tenths ofwisdom con 
+sists ofbeing wise ill time.
+Concluding Remarks
+American proverb
+Pipelining improves the average execution time per instruction. Depending on
+whether you start with a single-cycle o r multiple-cycle datapath, this reduction
+can be thought of as decreasing the clock cycle time or as decreasing the number
+of clock cycles per instruction (CPl). We started with the simple single-cycle data 
+path, so pipelining was presented as reducing the clock cycle time of the simple
+datapath. Multiple issue, in comparison, clearly focuses on reducing CPI (or
+increasing IPC). Figure 6.52 shows the effect on CPI and clock rate for each of the
+microarchitectures from Chapters 5 and 6. Performance is increased by moving
+up and to the right, since it is the product of IPC and clock rate that determines
+performance for a given instruction set.
+Pipelining improves throughput, but not the inherent execution time, or
+latency, of instructions; the latency is similar in length to the multicycle approach.
+Unlike that approach, which uses the same hardware repeatedly during instruc 
+tion execution, pipelining starts an instruction every clock cycle by having dedi 
+cated hardware. Similarly, multiple issue adds additional datapath hardware to
+allow multiple instructions to begin every clock cycle, but at an increase in effec 
+tive latency. Figure 6.53 shows the datapaths from Figure 6.52 placed according to
+instruction latency The the amount of sharing of hardware and instruction latency.
+inherent execution time for an
+Pipelining and multiple issue both attempt to exploit instruction-level parallel 
+instruction.
+ism. The presence of data and control dependences, which can become hazards,
+are the primary limitations on how much parallelism can be exploited. Scheduling
+and speculation, both in hardware and software, are the primary techniques used
+to reduce the performance impact of dependences.
+The switch to longer pipelines, multiple instruction issue, and dynamic sched 
+uling in the mid-1990s has helped sustain the 60% per year processor perfor 
+mance increase that we have benefited from since the early 1980s. In the past, it
+appeared that the choice was between the highest clock rate processors and the
+most sophisticated superscalar processors. As we have seen, the Pentium 4 com  
+bines both and achieves remarkable performance.

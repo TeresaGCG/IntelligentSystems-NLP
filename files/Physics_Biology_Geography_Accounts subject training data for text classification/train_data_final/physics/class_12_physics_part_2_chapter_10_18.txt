@@ -1,0 +1,68 @@
+Wove Optics
+
+Fig. 10.15 indicates that the intensity has a
+central maximum at 6 = 0 and other
+secondary maxima at 0 z (n+1 / 2) l/ a, and
+has minima (zero intensity) at 6 z n1 / a,
+n= :1, i2, i3, It is easy to see why it has
+minima at these values of angle. Consider
+ﬁrst the angle 0where the path difference a0
+is A. Then,
+
+ 
+
+TOP
+
+49% xt/a. (10.22)
+Now, divide the slit into two equal halves FIGURE 10. 15 The geometry of path
+LM and MN each of size a/2_ For every point differences for diffraction by a single slit.
+
+M1 in LM, there is a point M2 in MN such that
+
+M1M2 = a/ 2. The path difference between M1 and M2 at P = MZP — MlP
+= 0a/ 2 = 1/2 for the angle chosen. This means that the contributions
+from M1 and M2 are 180° out of phase and cancel in the direction
+9 = l/ a. Contributions from the two halves of the slit LM and MN,
+therefore, cancel each other. Equation (10.22) gives the angle at which
+the intensity falls to zero. One can similarly show that the intensity is
+zero for 6 = nl/ a, with n being any integer (except zerol). Notice that the
+angular size of the central maximum increases when the slit width a
+decreases.
+
+It is also easy to see why there are maxima at 6 = (n + 1 / 2) M a and
+why they go on becoming weaker and weaker with increasing n. Consider
+an angle 9 = 31/ 2a which is midway between two of the dark fringes.
+Divide the slit into three equal parts. If we take the first two thirds of the
+slit, the path difference between the two ends would be
+
+3a><6—2—a><ﬂ—/1 1023
+3 3 2a ( ' )
+
+The first two-thirds of the slit can therefore be divided
+into two halves which have a A/ 2 path difference. The —>
+contributions of these two halves cancel in the same manner —>
+as described earlier. Only the remaining one-third of the —>
+slit contributes to the intensity at a point between the two —>
+minima. Clearly, this will be much weaker than the central —>
+maximum (where the entire slit contributes in phase). One
+can similarly show that there are maxima at (n + 1 / 2) l/ a T
+with n = 2, 3, etc. These become weaker with increasing n, Incoming
+since only one-ﬁfth, one-seventh, etc., of the slit contributes wave (a)
+in these cases. The photograph and intensity pattern
+
+corresponding to it is shown in Fig. 10.16.
+
+ 
+
+Viewing screen
+
+FIGURE 10.16 Intensity
+
+There has been prolonged discussion about difference distribution and photograph of
+between intereference and diffraction among scientists since fringes due to diffraCtiOH
+
+the discovery of these phenomena. In this context, it is
+
+2019-20
+
+at single slit. 369

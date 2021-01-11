@@ -1,0 +1,42 @@
+8.6 I/O Performance Measures: Examples from Disk and File Systems 597
+In ranking of the three ways of doing I/O, which statements are true? Check
+Yourself
+I. If we wa nt the lowest latency for an I/O operation to a single I/O device, the
+order is polling, DMA, and interrupt driven.
+2. In terms of lowest impact on processor utilization from a single I/O device,
+the order is DMA, interrupt driven, and polling
+I/O Performance Measures: Examples
+from Disk and File Systems
+How should we compare I/O systems? This is a complex question because I/O
+performance depends on many aspects of the system and different applications
+stress different aspects of the I/O system. Furthermore, a design can make com 
+plex trade-offs between response time and throughput, making it impossible to
+measure just one aspect in isolation. For example, handling a request as early as
+possible generally minimizes response time, although greater throughput can be
+achieved if we try to handle related requests together. Accordingly, we may
+increase throughput on a disk by grouping requests that access locations that are
+close together. Such a policy will increase the response time for some requests,
+probably leading to a larger variation in response time. Although throughput will
+be higher, some benchmarks constrain the maximum response time to any
+request, making such optimizations potentially problematic.
+In this section, we give some examples of measurements proposed for deter 
+mining the performance of disk systems. These benchmarks are affected by a
+variety of system features, including the disk technology, how disks are con 
+nected, the memory system, the processor, and the file system provided by the
+operating system.
+Before we discuss these benchmarks, we need to address a confusing point
+about terminology and units. The performance of I/O systems depends on the
+rate at which the system transfers data. The transfer rate depends on the clock
+9
+rate, which is typically given in GHz = 10 cycles per second. The transfer rate is
+usually quoted in GB/sec. In I/O systems, GBs are measured using base 10 (i.e., 1
+9
+GB = 10 = 1,000,000,000 bytes), unlike main memory where base 2 is used (i.e., 1
+30
+GB = 2 = 1,073,741 ,824). In addition to adding confusion, this difference intro 
+duces the need to convert between base 10 (l K = 1000) and base 2 ( IK = 1024)
+because many I/O accesses are for data blocks that have a size that is a power of
+two. Rather than complicate all our examples by accurately converting one of the
+two measurements, we make note here of this distinction and the fact that treating
+the two measures as if the units were identical introduces a small error. We illus 
+trate this error in Section 8.9.

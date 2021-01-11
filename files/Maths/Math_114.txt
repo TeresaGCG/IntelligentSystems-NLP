@@ -1,0 +1,24 @@
+Homework Helpers: Basic Math and Pre-Algebra
+114
+You can also look at the division transformation in terms of multipli-
+cation. If you start with the equation 3x = 15, you can multiply both sides
+of the equation by the reciprocal of the coefficient in front of the variable.
+In this case, the coefficient in front of the variable is 3, and its reciprocal
+is . So, in order to solve the equation 3x = 15 we could multiply both
+sides of this equation by  :
+This perspective is helpful when the coefficient in front of the vari-
+able is not an integer.
+Example 3
+Solve the equation: 
+Solution: You may have gotten used to seeing the variable on the
+left rather than on the right. Don’t let that bother you; switch
+them around using the transformation that lets you interchange
+the sides of the equation if it makes you feel better. Then multiply
+both sides of the equation by −4 (the reciprocal of  ) and
+simplify:
+Interchange the sides of the equation
+Multiply both sides of the equation by –4
+Simplify:  x= −80
+The last step is to check our work.
+Is  equal to 20? Yes, it is.
+www.ebook3000.com

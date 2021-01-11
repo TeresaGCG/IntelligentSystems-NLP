@@ -1,0 +1,63 @@
+OSCILLATIONS 365
+
+and the angular speed of the rotating particle. For simplicity, the sense of rotation
+may be fixed to be anticlockwise in every case: (x is in cm and tis in s].
+
+[a] = —2 sin [3t + n/S]
+(b) x=cos (n/B—t)
+
+[c] x= 3 sin [271:t+ n/4]
+(d) x= 2 cos nt
+
+14. 13 Figure 14.26 [a] shows a spring of force constant k clamped rigidly at one end and
+a mass m attached to its free end. A force F applied at the free end stretches the
+spring. Figure 14.26 (b) shows the same spring with both ends free and attached to
+a mass m at either end. Each end of the spring in Fig. 14.26(b) is stretched by the
+same force F.
+
+k m m k m
+(a) (b)
+
+Fig. 14.26
+
+(a) What is the maximum extension of the spring in the two cases ?
+[b] If the mass in Fig. (a) and the two masses in Fig. [b] are released, what is the
+period of oscillation in each case ?
+
+14. 14 The piston in the cylinder head of a locomotive has a stroke [twice the amplitude)
+of 1.0 m. Ifthe piston moves with simple harmonic motion with an angular frequency
+of 200 rad / min, what is its maximum speed ?
+
+14. 15 The acceleration due to gravity on the surface of moon is 1.7 m s”. What is the time
+period of a simple pendulum on the surface of moon if its time period on the surface
+of earth is 3.5 s ? [g on the surface of earth is 9.8 m s”)
+
+14. 16 Answer the following questions :
+[a] Time period of a particle in SHM depends on the force constant k and mass m
+of the particle:
+
+T = 2n 2. A simple pendulum executes SHM approximately. Why then is
+
+the time period of a pendulum independent of the mass of the pendulum?
+
+[b] The motion of a simple pendulum is approximately simple harmonic for small
+angle oscillations. For larger angles of oscillation, a more involved analysis
+
+I
+shows that T is greater than 271? —. Think of a qualitative argument to
+
+g
+appreciate this result.
+
+(0] A man with a wristwatch on his hand falls from the top of a tower. Does the
+watch give correct time during the free fall ?
+
+[d] What is the frequency of oscillation of a simple pendulum mounted in a cabin
+that is freely falling under gravity ?
+
+14. 17 A simple pendulum of length l and having a bob of mass M is suspended in a car.
+The car is moving on a circular track of radius R with a uniform speed 1). If the
+pendulum makes small oscillations in a radial direction about its equilibrium
+position, what will be its time period ?
+
+2019-20

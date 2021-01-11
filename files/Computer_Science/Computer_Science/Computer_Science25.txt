@@ -1,0 +1,44 @@
+1.1 Introduction 9
+We are honored to have the opportunity to explain what's inside this rev 
+olutionary machine, unraveling the software below your program and the hard 
+ware under the covers of your computer. By the time you complete this book, we
+believe you will be able to answer the following questions:
+• How are programs written in a high-level language, such as C or Java, trans 
+lated into the langll3ge of the hardwa re, and how does the hardwa re execute
+the resulting program? Comprehending these concepts forms the basis of
+understanding the aspects of both the hardware and software that affect pro 
+gram performance.
+• What is the interface between the software and the hardware, and how does
+softwa re instruct the hardware to perform needed functions? These con 
+cepts are vital to understanding how to write many kinds of software.
+• What determines the performance of a program, and how ca n a program 
+mer improve the performance? As we will see, this depends on the original
+program, the software translation of that program into the computer's lan 
+gll3ge, and the effectiveness of the hardware in executing the program.
+• What techniques can be used by hardware designers to improve perfor 
+mance? This book will introduce the basic concepts of modern computer
+design. The interested reader will find much more material on this topic in
+our advanced book, A Computer Architecture: A Qllantitlltive Approach.
+Without understanding the answers to these questions, improving the perfor 
+mance of your program on a modern computer, or evaluating what features might
+make one computer better than another for a particular application, will be a
+complex process of trial and error, rather than a scientific procedure driven by
+insight and analysis.
+This first chapter lays the foundation for the rest of the book. It introduces the
+basic ideas and definitions, places the major components of software and hard 
+ware in perspective, and introduces integrated circuits, the technology that fuels
+the computer revolution. In this chapter, and later ones, you will likely see a lot of
+new words, or words that you may have heard, but are not sure what they mean.
+Don't panic! Yes, there is a lot of special terminology used in describing modern
+computers, but the terminology acnlally helps since it enables us to describe pre  acronym A word constructed
+by taking the initial letters of
+cisely a function or capability. In addition, computer designers (including your
+string of words. For example:
+authors) love using acronyms, which are easy to understand once you know what
+RAM is an acronym for Ran 
+the letters stand for! To help you remember and locate terms, we have included a
+dom Access Memory, and CPU
+highlighted definition of every term, the first time it appears in the text. After a
+is an acronym for Central Pro 
+short time of working with the terminology, you will be fluent, and your friends
+cessing Unit.

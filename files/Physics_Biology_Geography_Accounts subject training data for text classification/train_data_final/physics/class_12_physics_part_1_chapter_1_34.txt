@@ -1,0 +1,56 @@
+Electric Charges
+and Fields
+
+ 
+
+(iv) The surface that we choose for the application of Gauss’s law is called
+the Gaussian surface. You may choose any Gaussian surface and
+apply Gauss’s law. However, take care not to let the Gaussian surface
+pass through any discrete charge. This is because electric field due
+to a system of discrete charges is not well defined at the location of
+any charge. (As you go close to the charge, the field grows without
+any bound.) However, the Gaussian surface can pass through a
+continuous charge distribution.
+
+(V) Gauss’s law is often useful towards a much easier calculation of the
+electrostatic field when the system has some symmetry. This is
+facilitated by the choice of a suitable Gaussian surface.
+
+(vi) Finally, Gauss’s law is based on the inverse square dependence on
+distance contained in the Coulomb’s law. Any violation of Gauss’s
+law will indicate departure from the inverse square law.
+
+Example 1.11 The electric field components in Fig 1. 27 are
+Ex=ou<,1/2 Ey = E2 = O, in which a: 800 N/C ml/Z. Calculate (a) the
+ﬂux throughy the cube and (b) the charge within the cube Assume
+that a= O. 1 m.
+
+ 
+
+FIGURE 1 .27
+
+Solution
+
+(a) Since the electric field has only an x component, for faces
+perpendicular to x direction, the angle between E and AS is
+i n/ 2. Therefore, the ﬂux g1) = E.AS is separately zero for each face
+of the cube except the two shaded ones. Now the magnitude of
+the electric field at the left face is
+EL = axl/Z = aal/Z
+(x = a at the left face).
+The magnitude of electric field at the right face is
+ER = 05x”2 = o:(2a)1/2
+(x = 2a at the right face).
+The corresponding ﬂuxes are
+
+¢L= EL-AS = ASEL -ﬁL =EL AS 0089 = —EL AS, since 9 = 180°
+= —ELa2
+
+¢R= ER-AS = ER AS 0080 = ER AS, since 9 = 0°
+= ERa2
+
+Net ﬂux through the cube
+
+2019-20
+
+35

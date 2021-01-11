@@ -1,0 +1,61 @@
+58
+
+3.17
+
+3.18
+
+3.19
+
+ 
+
+3.20
+
+3.21
+
+PHYSICS
+
+ 
+
+Figure 3.21 shows the x—t plot of one—dimensional
+motion of a particle. Is it correct to say from the
+graph that the particle moves in a straight line for
+t < 0 and on a parabolic path for t>0 ? If not, suggest
+a suitable physical context for this graph.
+
+A police van moving on a highway with a speed of
+30 km h“ fires a bullet at a thief s car speeding away
+in the same direction with a speed of 192 km h’l. If
+the muzzle speed of the bullet is 150 m S4, with
+what speed does the bullet hit the thiefs car ? (Note:
+Obtain that speed which is relevant for damaging
+the thiefs car].
+
+Suggest a suitable physical situation for each of the
+following graphs [Fig 3.22]:
+
+(a) (b) (C)
+
+Fig. 3.22
+
+Figure 3.23 gives the x—t plot of a particle executing one—dimensional simple
+harmonic motion. [You will learn about this motion in more detail in Chapterl4).
+Give the signs of position, velocity and acceleration variables of the particle at
+t= 0.3 s, 1.2 s. — 1.2 s.
+
+ 
+
+Fig. 3.23
+
+Figure 3.24 gives the x—t plot of a
+particle in one—dimensional motion.
+Three different equal intervals of time
+are shown. In which interval is the
+average speed greatest, and in which
+is it the least ? Give the sign of average
+velocity for each interval.
+
+ 
+
+Fig. 3.24
+
+2019-20

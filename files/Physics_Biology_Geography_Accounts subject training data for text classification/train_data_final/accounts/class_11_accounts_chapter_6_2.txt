@@ -1,0 +1,69 @@
+182 Accountancy
+
+Capital
+
+Land and Buildings
+Plant and Machinery
+Equipment
+
+Furniture and Fixtures
+Cash in Hand
+
+Cash at Bank
+
+Debtors
+
+Bills Receivable
+
+Stock of Raw Materials
+Stock of Finished Goods
+Purchases
+
+Carriage Inwards
+
+\/
+\/
+\/
+\/
+\/
+\/
+\/
+\/
+\/
+\/
+\/
+\/
+\/
+
+Carriage Outwards
+
+Sales
+
+Sales Return
+
+Purchases Return
+Interest Paid
+Commission/ Discount Received
+Salaries
+
+Long Term Loan
+
+Bills Payable
+
+Creditors
+
+Advances from Customers
+Drawings
+
+ 
+
+Fig. 6.2 : Illustrative trial balance
+
+6.2.1 To Ascertain the Arithmetical Accuracy of Ledger Accounts
+
+As stated earlier, the purpose of preparing a trial balance is to asceitain Whether
+all debits and credit are properly recorded in the ledger or not and that all
+accounts have been correctly balanced. As a summary of the ledger, it is a list
+of the accounts and their balances. When the totals of all the debit balances
+
+2019-2020

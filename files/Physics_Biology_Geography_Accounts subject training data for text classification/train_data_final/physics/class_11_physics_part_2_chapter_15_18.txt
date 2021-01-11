@@ -1,0 +1,119 @@
+WAVES
+
+385
+
+stationary but the source is moving, (2) observer
+is moving but the source is stationary, and (3)
+both the observer and the source are moving.
+The situations (1) and (2) differ from each other
+because of the absence or presence of relative
+motion between the observer and the medium.
+Most waves require a medium for their
+propagation; however, electromagnetic waves do
+not require any medium for propagation. If there
+is no medium present, the Doppler shifts are
+same irrespective of whether the source moves
+or the observer moves, since there is no way of
+distinction between the two situations.
+
+15.8. 1 Source Moving ; Observer Stationary
+
+Let us choose the convention to take the
+direction from the observer to the source as
+the positive direction of velocity. Consider a
+source S moving with velocity US and an observer
+who is stationary in a frame in which the
+medium is also at rest. Let the speed of a wave
+of angular frequency a) and period To, both
+measured by an observer at rest with respect to
+the medium, be D. We assume that the observer
+has a detector that counts every time a wave
+crest reaches it. As shown in
+Fig. 15.17, at time t = O the source is at point SI,
+located at a distance L from the observer, and
+emits a crest. This reaches the observer at time
+t1 = L/ 1). At time t= TO the source has moved a
+distance vSTo and is at point S2, located at a
+distance (L + vsTo) from the observer. At S2, the
+source emits a second crest. This reaches the
+observer at
+
+ 
+
+L +usTo
+
+UT
+
+s c
+
+Fig. 1 5. 1 7 Doppler effect (change in frequency of
+wave) detected when the source is moving
+and the observer is at rest in the medium.
+
+(L+ USTO)
+U
+
+t2 = T0+
+
+At time n To, the source emits its (n+1)th crest
+and this reaches the observer at time
+
+t+1= nT0+
+
+n
+
+Hence, in a time interval
+
+(L + nvsTo) L]
+
+[nT0+———
+v v
+
+the observer’s detector counts n crests and the
+observer records the period of the wave as T
+given by
+
+T : [nTO+W_£:|/n
+
+ 
+
+U
+
+= To [1 + A] (1549)
+v
+
+Equation (15.49) may be rewritten in terms
+of the frequency v0 that would be measured if
+the source and observer were stationary, and
+the frequency v observed when the source is
+moving, as
+
+US ‘1
+v = Vo 1+: (15.50)
+
+If Us is small compared with the wave speed v,
+taking binomial expansion to terms in ﬁrst order
+in v5/ v and neglecting higher power, Eq. (15.50)
+may be approximated, giving
+
+v = v0[1—vf] (15.51)
+
+For a source approaching the observer, we
+replace us by — Us to get
+
+v = v0[1+vfj (15.52)
+
+The observer thus measures a lower frequency
+when the source recedes from him than he does
+when it is at rest. He measures a higher
+frequency when the source approaches him.
+
+15.8.2 Observer Moving; Source
+Stationary
+
+Now to derive the Doppler shift when the
+observer is moving with velocity v0 towards the
+source and the source is at rest, we have to
+proceed in a different manner. We work in the
+
+2019-20

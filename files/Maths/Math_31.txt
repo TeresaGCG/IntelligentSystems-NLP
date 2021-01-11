@@ -1,0 +1,41 @@
+Numbers
+31
+Lesson 1-9: Variables and the Distributive Property
+We are starting to talk about the properties of numbers in general.
+Some numbers are prime; others are composite. Some numbers are even;
+others are odd. Talking about numbers in general can be awkward. We
+need a symbol to represent any number. The symbols we use to write
+specific numbers, such as 5, cannot be used to represent any number. A
+symbol that is used to represent any number is called a variable. We can
+use anything other than a number as a variable. We could use letters at
+the beginning of the alphabet, such as a,b, or c, to serve as a variable. We
+could use letters at the end of the alphabet, such as x, y, or z, to serve as
+a variable. We could use a happy face or a star to serve as a variable. The
+important thing is that a variable cannot be a number.
+Let me show you one way a variable can be used. If I say “Let a
+represent any counting number,” then a could be any number from our
+list (1, 2, 3, 4…). If I wanted to describe the multiplicative property of 0
+(remember that special property: 0 times any number is 0), I use the
+symbol a to represent any number and write 0 × a = 0.
+We can also use variables to make general statements about num-
+bers. We invented multiplication as a shorthand notation for addition.
+We noticed that 3 + 3 + 3 + 3 can be shortened to 4 × 3. This shorthand
+notation is not specific to the number 3. Any number added to itself 4
+times can be written as 4 times that number. This is awkward to express
+using words, but it is easy to express using variables: If a is any number,
+then a + a + a + a = 4 × a. The multiplication symbol is usually omitted,
+and we write 4a instead of 4 × a. Whenever you see a number and a
+variable next to each other with nothing in between them, you should
+imagine a multiplication symbol between them. The expression 3a means
+the same thing as “3 times a,” or 3 × a. The number in front of the vari-
+able is called the coefficient of the variable, and it represents how many
+times the variable is added to itself.
+Now that we know what 3a and 4a mean, let’s examine what 3a + 4a
+means. We can write out what 3a and 4a each mean, and go from there:
+3a = a + a + a, and 4a = a + a + a + a,
+so 3a + 4a means (a + a + a) + (a + a + a + a).
+This is just a added to itself 7 times, or 7a. Notice that 3a + 4a = 7a.
+Instead of writing out all of the a’s in the sum, it is easier just to add the
+coefficients of the variable together and write this new coefficient in front
+of the variable. You will see more examples of variables later on in this
+lesson, and I wanted you to be prepared.

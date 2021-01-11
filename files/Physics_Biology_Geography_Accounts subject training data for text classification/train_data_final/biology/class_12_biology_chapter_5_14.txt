@@ -1,0 +1,39 @@
+PRINCIPLES OF INHERITANCE AND VARIATION
+
+communication was not easy (as it is now) in those days and his work
+could not be widely publicised. Secondly, his concept of genes (or
+factors, in Mendel’s words) as stable and discrete units that controlled
+the expression of traits and, of the pair of alleles which did not ‘blend’
+with each other, was not accepted by his contemporaries as an
+explanation for the apparently continuous variation seen in nature.
+Thirdly, Mendel’s approach of using mathematics to explain biological
+phenomena was totally new and unacceptable to many of the
+biologists of his time. Finally, though Mendel’s work suggested that
+factors (genes) were discrete units, he could not provide any physical
+proof for the existence of factors or say what they were made of.
+
+In 1900, three Scientists (de Vries, Correns and von Tschermak)
+independently rediscovered Mendel’s results on the inheritance of
+characters. Also, by this time due to advancements in microscopy that
+were taking place, scientists were able to carefully observe cell division.
+This led to the discovery of structures in the nucleus that appeared to
+double and divide just before each cell division. These were called
+chromosomes (colored bodies, as they were visualised by staining). By
+1902, the chromosome movement during meiosis had been worked out.
+Walter Sutton and Theodore Boveri noted that the behaviour of
+chromosomes was parallel to the behaviour of genes and used
+chromosome movement (Figure 5.8) to explain Mendel’s laws (Table 5.3).
+Recall that you have studied the behaviour of chromosomes during mitosis
+(equational division) and during meiosis (reduction division). The
+important things to remember are that chromosomes as well as genes
+occur in pairs. The two alleles of a gene pair are located on homologous
+sites on homologous chromosomes.
+
+G1 G2 Meiosis I Meiosis II Germ cells
+anaphase
+
+Figure 5.8 Meiosis and germ cell formation in a cell with four chromosomes.
+Can you see how chromosomes segregate when germ cells
+are formed?
+
+2019-2020

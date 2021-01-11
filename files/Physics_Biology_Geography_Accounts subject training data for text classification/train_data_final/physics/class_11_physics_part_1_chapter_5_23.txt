@@ -1,0 +1,74 @@
+112
+
+PHYSICS
+
+5.26
+
+5.27
+
+5.28
+
+5.29
+
+5.30
+
+5.31
+
+5.32
+
+A stone of mass m tied to the end of a string revolves in a vertical circle of radius R.
+The net forces at the lowest and highest points of the circle directed vertically
+downwards are : [Choose the correct alternative]
+
+Lowest Point Highest Point
+[a] mg—T1 mg+T2
+(b) mg+T1 mg—T2
+{c} mg+T1—(mv%)/R mg—T2+(mvﬁ)/R
+(d) mg—TI—(mvﬁl/R mg+T2+lmv%]/R
+
+T1 and v1 denote the tension and speed at the lowest point. T2 and v2 denote
+corresponding values at the highest point.
+
+A helicopter of mass 1000 kg rises with a vertical acceleration of 15 m s‘z. The crew
+and the passengers weigh 300 kg. Give the magnitude and direction of the
+
+[a] force on the ﬂoor by the crew and passengers,
+
+(b) action of the rotor of the helicopter on the surrounding air,
+
+(c) force on the helicopter due to the surrounding air.
+
+A stream of water ﬂowing horizontally with a speed of 15 m s1 gushes out of a tube of
+cross—sectional area 10‘2 m2, and hits a vertical wall nearby. What is the force exerted
+on the wall by the impact of water, assuming it does not rebound ?
+
+Ten one—rupee coins are put on top of each other on a table. Each coin has a mass m
+Give the magnitude and direction of
+
+[a] the force on the 7th coin [counted from the bottom) due to all the coins on its top,
+
+(b) the force on the 7th coin by the eighth coin,
+[c] the reaction of the 6th coin on the 7th coin.
+
+An aircraft executes a horizontal loop at a speed of 720 km / h with its wings banked
+at 15°. What is the radius of the loop ?
+
+A train runs along an unbanked circular track of radius 30 m at a speed of 54 km/ h.
+The mass of the train is 106 kg. What provides the centripetal force required for this
+purpose — The engine or the rails ? What is the angle of banking required to prevent
+wearing out of the rail ?
+
+A block of mass 25 kg is raised by a 50 kg man in two different ways as shown in
+Fig. 5.19. What is the action on the ﬂoor by the man in the two cases ? If the ﬂoor
+yields to a normal force of 700 N, which mode should the man adopt to lift the block
+without the ﬂoor yielding ?
+
+   
+
+25 kg 25 kg
+
+(21) (b)
+
+Fig. 5.19
+
+2019-20

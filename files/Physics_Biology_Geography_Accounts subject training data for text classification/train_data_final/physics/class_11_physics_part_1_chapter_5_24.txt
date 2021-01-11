@@ -1,0 +1,92 @@
+LAWS OF MOTION
+
+5.33
+
+5.34
+
+5.35
+
+5.36
+
+5.37
+
+5.38
+
+5.39
+
+5.40
+
+A monkey of mass 40 kg climbs on a rope (Fig. 5.20) which
+can stand a maximum tension of 600 N. In which of the
+following cases will the rope break: the monkey m
+(a) climbs up with an acceleration of 6 m s‘2 ‘
+(b) climbs down with an acceleration of 4 m s‘2
+
+(c) climbs up with a uniform speed of 5 m s‘1
+
+[d] falls down the rope nearly freely under gravity?
+(Ignore the mass of the rope). Fig. 5-20
+
+ 
+
+Two bodies A and B of masses 5 kg and 10 kg in contact with
+each other rest on a table against a rigid wall (Fig. 5.2 l). The
+coefficient of friction between the bodies and the table is
+0.15. A force of 200 N is applied horizontally to A. What are
+[a] the reaction of the partition [b] the action—reaction forces
+between A and B ? What happens when the wall is removed? 20° N
+Does the answer to (b) change, when the bodies are in motion?
+Ignore the difference between us and pk. Fig. 5,21
+
+  
+ 
+
+A block of mass 15 kg is placed on a long trolley. The coefficient of static friction
+between the block and the trolley is 0.18. The trolley accelerates from rest with
+0.5 m s2 for 20 s and then moves with uniform velocity. Discuss the motion of the
+block as viewed by [a] a stationary observer on the ground, [b] an observer moving with
+the trolley.
+
+The rear side of a truck is open and a box of 40 kg
+mass is placed 5 m away from the open end as shown
+in Fig. 5.22. The coefficient of friction between the
+box and the surface below it is 0.15. On a straight
+road, the truck starts from rest and accelerates with
+2 m s‘2. At what distance from the starting point
+does the box fall off the truck? (Ignore the size of
+the box).
+
+ 
+
+ 
+
+ 
+
+ 
+
+A disc revolves with a speed of 33% rev/ min, and has a radius of 15 cm. Two coins are
+
+placed at 4 cm and 14 cm away from the centre of the record. If the co—efficient of friction
+between the coins and the record is 0. l 5, which of the coins will revolve with the record ?
+
+You may have seen in a circus a motorcyclist driving in vertical loops inside a ‘death—
+well’ (a hollow spherical chamber with holes, so the spectators can watch from outside).
+Explain clearly why the motorcyclist does not drop down when he is at the uppermost
+point, with no support from below. What is the minimum speed required at the
+uppermost position to perform a vertical loop if the radius of the chamber is 25 m ?
+
+A 70 kg man stands in contact against the inner wall of a hollow cylindrical drum of
+radius 3 m rotating about its vertical axis with 200 rev/ min. The coefficient of
+friction between the wall and his clothing is 0.15. What is the minimum rotational
+speed of the cylinder to enable the man to remain stuck to the wall [without falling]
+when the ﬂoor is suddenly removed ?
+
+A thin circular loop of radius R rotates about its vertical diameter with an angular
+frequency a). Show that a small bead on the wire loop remains at its lowermost point
+
+for w s V[g / R . What is the angle made by the radius vector joining the centre to
+the bead with the vertical downward direction for a) : V’29 / R ? Neglect friction.
+
+2019-20
+
+113

@@ -1,0 +1,42 @@
+3.4 Multiplication 177
+Although the decimal example above happened to use only 0 and 1, multiplica 
+tion of binary numbers must always use 0 and 1, and thus always offers only these
+two choices.
+Now that we have reviewed the basics of multiplication, the traditional next
+step is to provide the highly optimized multiply hardware. We break with tradi 
+tion in the belief that you will gain a better understanding by seeing the evolution
+of the multiply hardware and algorithm through multiple generations. For now,
+let's assume that we are multiplying only positive numbers.
+Sequential Version of the Multiplication Algorithm
+and Hardware
+This design mimics the algorithm we learned in grammar school; the hardware is
+shown in Figure 3.5. We have drawn the hardware so that data flows from top to
+bottom to more closely resemble the paper-and-pencil method.
+Let's assume that the multiplier is in the 32-bit Multiplier register and that the
+o.
+64-bit Product register is initialized to From the paper-and-pencil exa mple
+above, it's clear that we will need to move the multiplicand left one digit each step
+as it may be added to the intermediate products. Over 32 steps a 32-bit multipli 
+cand would move 32 bits to the left. Hence we need a 64-bit Multiplicand register,
+initialized with the 32-bit multiplicand in the right half and 0 in the left half. This
+register is then shifted left 1 bit each step to align the multiplicand with the sum
+being accumulated in the 64-bit Product register.
+•
+Multiplicand
+Shift left
+64 bits
+•
+~
+Multiplier
+" " 64.0;' ALU Shift right
+32 bits
+Product
+( Control test
+Write
+64 bits
+FIGURE 3.5 First version of the multiplication hardware. The MulllplJcand regiSter, ALU, and
+Product register are allM bits wide, with only the Multiplier register containing 32 bits. The 32·bit multi·
+plicand starts in the right half of the Multiplicand register and is shifted left I bit on each step. The multi·
+plier is shifted in the opposite direction at each step. The algorithm starts with the proouct initialized to o.
+Control decides when to shift the Multiplicand and Multiplier registers and when to write new values into
+the Product register.

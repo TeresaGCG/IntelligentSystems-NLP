@@ -1,0 +1,69 @@
+BIOLOGY
+
+You may have realised that normally, unless one cuts the vector and
+the source DNA with the same restriction enzyme, the recombinant vector
+molecule cannot be created.
+
+Separation and isolation of DNA fragments : The cutting of DNA by
+restriction endonucleases results in the fragments of DNA. These fragments
+can be separated by a technique known as gel electrophoresis. Since
+DNA fragments are negatively charged molecules they can be separated
+by forcing them to move towards the anode under an electric ﬁeld through
+a medium / matrix. Nowadays the most commonly used matrix is agarose
+which is a natural polymer extracted from sea weeds. The DNA fragments
+separate (resolve) according to their size through sieving effect provided
+by the agarose gel. Hence, the smaller the fragment size, the farther it
+moves. Look at the Figure 1 1.3 and guess at which end of the gel the
+sample was loaded.
+
+The separated DNA fragments can be
+
+visualised only after staining the DNA
+
+Wells with a compound known as ethidium
+i fbghvdAs—\ bromide followed by exposure to UV
+Largest Smallest radiation [you cannot see pure DNA
+
+DI
+
+U III] /I//
+
+U III/ /
+U IIII
+
+ 
+  
+
+fragments in the visible light and
+without staining). You can see bright
+orange coloured bands of DNA in a
+ethidium bromide stained gel
+exposed to UV light (Figure 1 1.3). The
+separated bands of DNA are cut out
+
+Figure 11.3 A typical agarose gel from the agarose gel and extracted
+electrophoresis showing from the gel piece. This step is known
+migration 0f undigeSted as elution. The DNA fragments
+
+(lane 1) and digested set of
+DNA fragments (lane 2 to 4)
+
+purified in this way are used in
+constructing recombinant DNA by
+joining them with cloning vectors.
+
+1 1.2.2 Cloning Vectors
+
+You know that plasmids and bacteriophages have the ability to replicate
+within bacterial cells independent of the control of chromosomal DNA.
+Bacteriophages because of their high number per cell, have very high
+copy numbers of their genome within the bacterial cells. Some plasmids
+may have only one or two copies per cell whereas others may have
+1 5- 100 copies per cell. Their numbers can go even higher. If we are able
+to link an alien piece of DNA with bacteriophage or plasmid DNA, we can
+multiply its numbers equal to the copy number of the plasmid or
+bacteriophage. Vectors used at present, are engineered in such a way
+that they help easy linking of foreign DNA and selection of recombinants
+from non-recombinants.
+
+2019-2020

@@ -1,0 +1,84 @@
+MECHANICAL PROPERTIES OF FLUIDS
+
+265
+
+ 
+
+10.6. 1 Surface Energy
+
+A liquid stays together because of attraction
+between molecules. Consider a molecule well
+inside a liquid. The intermolecular distances are
+such that it is attracted to all the surrounding
+molecules [Fig. 10.16(a)]. This attraction results
+in a negative potential energy for the molecule,
+which depends on the number and distribution
+of molecules around the chosen one. But the
+average potential energy of all the molecules is
+the same. This is supported by the fact that to
+take a collection of such molecules (the liquid)
+
+(at) 0?)
+
+terms of this fact. What is the energy required
+for having a molecule at the surface? As
+mentioned above, roughly it is half the energy
+required to remove it entirely from the liquid
+i.e., half the heat of evaporation.
+
+Finally, what is a surface? Since a liquid
+consists of molecules moving about, there cannot
+be a perfectly sharp surface. The density of the
+liquid molecules drops rapidly to zero around
+2 = O as we move along the direction indicated
+Fig 10.16 (c) in a distance of the order of a few
+molecular sizes.
+
+ 
+
+(C)
+
+Fig. 1 0. 1 6 Schematic picture of molecules in a liquid, at the surface and balance of forces. (a) Molecule inside
+
+a liquid. Forces on a molecule due to others are shown. Direction of arrows indicates attraction of
+
+repulsion. (b) Same, for a molecule at a surface. (c) Balance of attractive (AI and repulsive (R) forces.
+
+and to disperse them far away from each other
+in order to evaporate or vaporise, the heat of
+evaporation required is quite large. For water it
+is of the order of 40 kJ/mol.
+
+Let us consider a molecule near the surface
+Fig. 10.16(b). Only lower half side of it is
+surrounded by liquid molecules. There is some
+negative potential energy due to these, but
+obviously it is less than that of a molecule in
+bulk, i.e., the one fully inside. Approximately
+it is half of the latter. Thus, molecules on a
+liquid surface have some extra energy in
+comparison to molecules in the interior. A
+liquid, thus, tends to have the least surface
+area which external conditions permit.
+Increasing surface area requires energy. Most
+surface phenomenon can be understood in
+
+10.6.2 Surface Energy and Surface Tension
+
+As we have discussed that an extra energy is
+associated with surface of liquids, the creation
+of more surface (spreading of surface) keeping
+other things like volume fixed requires
+additional energy. To appreciate this, consider
+a horizontal liquid ﬁlm ending in bar free to slide
+over parallel guides Fig (10.17).
+
+—>1 d|<—
+
+ 
+
+(a) (b)
+Fig. 1 O. 1 7 Stretching a ﬁlm. (a) A ﬁlm in equilibrium;
+(b) The film stretched an extra distance.
+
+2019-20

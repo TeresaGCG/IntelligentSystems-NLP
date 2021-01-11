@@ -1,0 +1,35 @@
+2.4 Representing instructions in the Computer 63
+MIPS Fields
+MIPS fields are given names to make them easier to discuss:
+op ct cd srta mt f llnct
+6 bits 5 bits 5 bits 5 bits 5 bits 6 bits
+Here is the meaning of each name of the fields in MIPS instructions:
+• op: Basic operation of the instruction, traditionally called the apcade. opcode The field that denotes
+the operation and format of an
+• rs: The first register source operand.
+instruction.
+• rt: The second register source operand.
+• rd: The register destination operand. It gets the result of the operation.
+• shamt: Shift amount. (Section 2.5 explains shift instructions and this term;
+it will not be used until then, and hence the field contains zero.)
+• funct: Function. This field selects the specific variant of the operation in the
+op field and is sometimes called the function code.
+A problem occurs when an instruction needs longer fields than those shown
+above. For example, the load word instruction must specify two registers and a
+constant. If the address were to use one of the 5-bit fields in the format above, the
+5
+constant within the load word instruction would be limited to only 2 or 32. This
+constant is used to select elements from arrays or data structures, and it often
+needs to be much larger than 32. This 5-bit field is too small to be useful.
+Hence, we have a conflict between the desire to keep all instructions the same
+length and the desire to have a single instruction format. This leads us to the final
+hardware design principle:
+Design Principle 4: Good design demands good compromises.
+The compromise chosen by the MIPS designers is to keep all instructions the
+same length, thereby requiring different kinds of instruction formats for different
+kinds of instructions. For example, the format above is called R-type (for register)
+or R-format. A second type of instruction format is called I-type (for immediate)
+or I-format and is used by the immediate and data transfer instructions. The fields
+ofl -format are
+op ct const ant or addr ess
+6 bits 5 bits 5 bits 16 bits

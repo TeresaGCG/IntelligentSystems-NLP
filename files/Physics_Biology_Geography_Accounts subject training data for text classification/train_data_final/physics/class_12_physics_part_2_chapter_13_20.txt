@@ -1,0 +1,89 @@
+458
+
+l Physics
+
+I‘.
+CO
+H
+3
+E
+If]
+
+ 
+
+ 
+
+ 
+
+Example 13.7 Answer the following questions:
+
+(a)
+
+(b)
+
+(C)
+
+Are the equations of nuclear reactions (such as those given in
+Section 13.7) ‘balanced’ in the sense a chemical equation (e.g.,
+2H2 + 02—) 2 H20) is? If not, in what sense are they balanced on
+both sides?
+
+If both the number of protons and the number of neutrons are
+conserved in each nuclear reaction, in what way is mass converted
+into energy (or vice-versa) in a nuclear reaction?
+
+A general impression exists that mass-energy interconversion
+takes place only in nuclear reaction and never in chemical
+reaction. This is strictly speaking, incorrect. Explain.
+
+Solution
+
+(a)
+
+(b)
+
+(C)
+
+A chemical equation is balanced in the sense that the number of
+atoms of each element is the same on both sides of the equation.
+A chemical reaction merely alters the original combinations of
+atoms. In a nuclear reaction, elements may be transmuted. Thus,
+the number of atoms of each element is not necessarily conserved
+in a nuclear reaction. However, the number of protons and the
+number of neutrons are both separately conserved in a nuclear
+reaction. [Actually, even this is not strictly true in the realm of
+very high energies — what is strictly conserved is the total charge
+and total ‘baryon number’. We need not pursue this matter here.)
+
+In nuclear reactions (e. g., Eq. 13.26), the number of protons and
+the number of neutrons are the same on the two sides of the equation.
+
+We know that the binding energy of a nucleus gives a negative
+contribution to the mass of the nucleus (mass defect). Now, since
+proton number and neutron number are conserved in a nuclear
+reaction, the total rest mass of neutrons and protons is the same
+on either side of a reaction. But the total binding energy of nuclei
+on the left side need not be the same as that on the right hand
+side. The difference in these binding energies appears as energy
+released or absorbed in a nuclear reaction. Since binding energy
+contributes to mass, we say that the difference in the total mass
+of nuclei on the two sides get converted into energy or vice-versa.
+It is in these sense that a nuclear reaction is an example of mass-
+energy interconversion.
+
+From the point of view of mass-energy interconversion, a chemical
+reaction is similar to a nuclear reaction in principle. The energy
+released or absorbed in a chemical reaction can be traced to the
+difference in chemical (not nuclear) binding energies of atoms and
+molecules on the two sides of a reaction. Since, strictly speaking,
+chemical binding energy also gives a negative contribution (mass
+defect) to the total mass of an atom or molecule, we can equally
+well say that the difference in the total mass of atoms or molecules,
+on the two sides of the chemical reaction gets converted into energr
+or vice-versa. However, the mass defects involved in a chemical
+reaction are almost a million times smaller than those in a nuclear
+reaction.This is the reason for the general impression, (which is
+incorrect) that mass-energy interconversion does not take place
+in a chemical reaction.
+
+2019-20

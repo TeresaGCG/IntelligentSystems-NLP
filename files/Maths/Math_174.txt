@@ -1,0 +1,19 @@
+Homework Helpers: Basic Math and Pre-Algebra
+174
+Example 2
+Graph the line given by the equation:
+Solution: First, find the y-intercept by
+setting x = 0 and finding y:
+Then find the x-intercept by setting y = 0
+and solving for x:
+Then plot the two intercepts (0, 2) and   and connect the
+points as shown in Figure 9.6.
+y
+3
+2
+1
+x
+–2 2
+–1
+Figure 9.6
+www.ebook3000.com

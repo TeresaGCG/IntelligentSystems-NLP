@@ -1,0 +1,37 @@
+74
+Chapter 2 Instructions: Language of the Computer
+Hardware Compilers frequently create branches and labels where they do not appear in the
+programming language. Avoiding the burden of writing explicit labels and
+Software
+branches is one benefit of writing in high-level programming languages and is a
+Interface
+reason coding is faster at that level.
+Loops
+Decisions are important both for choosing between two alternatives-found in if
+statements- and for iterating a computation- found in loops. The same assem 
+bly instructions are the building blocks for both cases.
+Compiling a while Loop in C
+EXAMPLE Here is a traditional loop in C:
+while (save[ i] k)
+==
+i += 1 ;
+Assume that i and k correspond to registers $s 3 and $s 5 and the base of the
+array save is in $56. What is the MIPS assembly code corresponding to this
+C segment?
+The first step is to load s a ve [i] into a temporary register. Before we can
+ANSWER
+load sa ve [i] into a temporary register, we need to have its address. Before
+we can add i to the base of array 5a ve to form the address, we must multi 
+ply the index i by 4 due to the byte addressing problem. Fortunately, we can
+use shift left logical since shifting left by 2 bits multiplies by 4 (see page 69 in
+Section 2.5). We need to add the label Loop to it so that we can branch back
+to that instruction at the end of the loop:
+Loop : sll $t1,$s3,2 # Temp reg $tl 4 * i
+=
+To get the address of save [i ], we need to add $t 1 and the base of save in $ 56:
+#
+add $t1,$t1,$s6 $tl address of save[i]
+=
+Now we can use that address to load save [i ] into a temporary register:
+1w ItO , O(It!) # Temp reg $tO save[i]
+=

@@ -1,0 +1,45 @@
+274 Chapter 4 Assessing and Understanding Performance
+C2 is produced by the makers of 12, and the other compiler is a third-party product.
+Assume that each compiler uses the same number of instmctions for a given pro 
+gram but that the instruction mix is as described in the table. Using C i on both II
+and 12, how much faster can the makers of I1 claim II is compared to 12? Using C2,
+how much faster can the makers of 12 claim that 12 is compared to I I? If you pur 
+chase I I, which compiler would you use? If you purchased 12, which compiler would
+you use? Which computer and compiler would you purcllase if all other criteria are
+identical, including cost?
+4.11 [5J <§4.2> Consider program P, which runs on a 1 GHz machine Min 10
+seconds. An optimization is made to P, replacing all instances of multiplying a val 
+ue by 4 (mult X, X,4) with two instructions that set x to x + x twice (add X,X; add
+X,X). Call this new optimized program P'. The CPI of a multiply instruction is 4,
+and the CPI of an add is 1. After recompiling, the program now runs in 9 seconds
+on machine M. How many multiplies were replaced by the new compiler?
+4.12 [5 <§4.2> Your company could speed up a Java program on their new com  
+J
+puter by adding hardware support for garbage collection. Garbage collection cur 
+rently comprises 20% of the cycles of the program. You have two possible changes
+to the machine. The first one would be to automatically handle garbage collection
+in hardware. This causes an increase in cycle time by a factor of 1.2. The second
+would be to provide for new hardware instructions to be added to the ISA that
+could be used during garbage collection. This would halve the number of instruc 
+tion needed for garbage collections but increase the cycle time by 1.1. Which of
+these two options, if either, should you choose?
+4.13 [5J <§4.2> For the following set of variables, identify all of the subsets that
+can be used to calculate execution time. Each subset should be minimal; that is, it
+should not contain any variable that is not needed.
+{CPI, clock rate, cycle time, MIPS, number of instructions in program, number of
+cycles in program}
+4.14 [5 <§4.2> The table below shows the number of floating-point operations
+J
+executed in three different programs and the runtime for those programs on three
+different computers:
+Execution time In seconds
+Floating-point
+Program operations Computer A Computer B Computer C
+9
+Program 1 5x10 2 5 10
+9
+Program 2 20x10 20 20 20
+9
+Program 3 40x10 200 50 15
+Which computer is fastest according to total execution time? How many times as
+fast is it compared to the other two computers?

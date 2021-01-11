@@ -1,0 +1,96 @@
+270
+
+PIlYSlCS
+
+> Example 10.1 1 The lower end of a capillary
+tube of diameter 2.00 mm is dipped 8.00
+cm below the surface of water in a beaker.
+What is the pressure required in the tube
+in order to blow a hemispherical bubble at
+its end in water? The surface tension of
+
+water at temperature of the experiments is
+7.30><10'2 Nm‘l. l atmospheric pressure =
+1.01 X 105 Pa. density ofwater = 1000 kg/m“.
+g = 9.80 m s2. Also calculate the excess
+pressure.
+
+ 
+
+AnswerThe excess pressure in a bubble of gas
+in a liquid is given by 28/ r, where S is the
+surface tension of the liquid-gas interface. You
+should note there is only one liquid surface in
+this case. (For a bubble of liquid in a gas, there
+are two liquid surfaces, so the formula for
+
+excess pressure in that case is 4S/r.) The
+radius of the bubble is r. Now the pressure
+outside the bubble P0 equals atmospheric
+pressure plus the pressure due to 8.00 cm of
+water column. That is
+
+P0 = (1.01 X 105 Pa + 0.08 m X 1000 kg m‘3
+
+X 9.80 m S'Z)
+= 1.01784 X 105 Pa
+Therefore, the pressure inside the bubble is
+Pi = P0 + ZS/r
+
+= 1.01784X 105 Pa+ (2 X 7.3 X 10'2 Pa m/ 10'3 m)
+
+= (1.01784 + 0.00146) X 105 Pa
+
+= 1.02 X 105 Pa
+where the radius of the bubble is taken
+to be equal to the radius of the capillary tube,
+since the bubble is hemispherical ! (The answer
+has been rounded off to three significant
+
+figures.) The excess pressure in the
+bubble is 146 Pa. 4
+
+SUMNIARY
+
+1. The basic property of a ﬂuid is that it can ﬂow. The ﬂuid does not have any
+resistance to change of its shape. Thus, the shape of a ﬂuid is governed by the
+
+shape of its container.
+
+2. A liquid is incompressible and has a free surface of its own. A gas is compressible
+and it expands to occupy all the space available to it.
+
+3. If F is the normal force exerted by a ﬂuid on an area A then the average pressure Pav
+is defined as the ratio of the force to area
+
+P..=—
+A
+
+4. The unit of the pressure is the pascal (Pa). It is the same as N m’z. Other common
+
+units of pressure are
+
+1 atm = 1.01X105 Pa
+
+1 bar = 105 Pa
+
+1 torr = 133 Pa = 0.133 kPa
+
+1 mm ong = 1 torr = 133 Pa
+
+5. Pascal’s law states that: Pressure in a ﬂuid at rest is same at all points which are at
+the same height. A change in pressure applied to an enclosed ﬂuid is transmitted
+undiminished to every point of the ﬂuid and the walls of the containing vessel.
+
+6. The pressure in a ﬂuid varies with depth h according to the expression
+
+P=Pa+pgh
+
+where p is the density of the ﬂuid, assumed uniform.
+
+7. The volume of an incompressible ﬂuid passing any point every second in a pipe of
+non uniform crossection is the same in the steady ﬂow.
+1) A = constant ( v is the velocity and A is the area of crossection)
+The equation is due to mass conservation in incompressible ﬂuid ﬂow.
+
+2019-20

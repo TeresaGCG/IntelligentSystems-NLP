@@ -1,0 +1,93 @@
+l84
+
+PHYSICS
+
+Copernicus (1473-1543) proposed a deﬁnitive
+model in which the planets moved in circles
+around a fixed central sun. His theory was
+discredited by the church, but notable amongst
+its supporters was Galileo who had to face
+prosecution from the state for his beliefs.
+
+It was around the same time as Galileo, a
+nobleman called Tycho Brahe (1546-1601)
+hailing from Denmark, spent his entire lifetime
+recording observations of the planets with the
+naked eye. His compiled data were analysed
+later by his assistant Johannes Kepler (157 l-
+1640). He could extract from the data three
+elegant laws that now go by the name of Kepler’s
+laws. These laws were known to Newton and
+enabled him to make a great scientific leap in
+proposing his universal law of gravitation.
+
+8.2 KEPLER'S LAWS
+
+The three laws of Kepler can be stated as follows:
+1. Law of orbits : All planets move in elliptical
+orbits with the Sun situated at one of the foci
+
+ 
+
+Fig. 8.1(a) An ellipse traced out by a planet around
+the sun. The closest point is P and the
+farthest point is A, P is called the
+perihelion and A the aphelion. The
+semimajor axis is half the distance AP.
+
+ 
+
+Fig. 8.1(b) Drawing an ellipse. A string has its ends
+ﬁxed at F1 and F2. The tip of a pencil holds
+the string taut and is moved around.
+
+* Refer to information given in the Box on Page 182
+
+2019-20
+
+of the ellipse (Fig. 8.1a). This law was a deviation
+from the Copernican model which allowed only
+circular orbits. The ellipse, of which the circle is
+a special case, is a closed curve which can be
+drawn very simply as follows.
+
+Select two points F1 and F2. Take a length
+
+of a string and fix its ends at F1 and F2 by pins.
+With the tip of a pencil stretch the string taut
+and then draw a curve by moving the pencil
+keeping the string taut throughout.(Fig. 8.1(b))
+The closed curve you get is called an ellipse.
+Clearly for any point T on the ellipse, the sum of
+the distances from F1 and F2 is a constant. F1,
+F2 are called the focii. Join the points F1 and F2
+and extend the line to intersect the ellipse at
+points P and A as shown in Fig. 8.1(b). The
+midpoint of the line PA is the centre of the ellipse
+O and the length P0 = A0 is called the semi-
+major axis of the ellipse. For a circle, the two
+focii merge into one and the semi-major axis
+becomes the radius of the circle.
+2. Law of areas : The line that joins any planet
+to the sun sweeps equal areas in equal intervals
+of time (Fig. 8.2). This law comes from the
+observations that planets appear to move slower
+when they are farther from the sun than when
+they are nearer.
+
+   
+
+p (Planet)
+
+Fig. 8.2 The planet P moves around the sun in an
+elliptical orbit. The shaded area is the area
+AA swept out in a small interval of time At.
+
+3. Law of periods : The square of the time period
+of revolution of a planet is proportional to the
+cube of the semi-major axis of the ellipse traced
+out by the planet.
+
+Table 8.1 gives the approximate time periods
+of revolution of eight* planets around the sun
+along with values of their semi-major axes.

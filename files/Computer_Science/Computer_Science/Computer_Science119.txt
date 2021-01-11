@@ -1,0 +1,51 @@
+2.9 MIPS Addressing for 32·111t Immedlates and Addresses 103
+op(31:26)
+28-26 0(000) 1{OO1) 2{O10) 3(011) 4(100) 5(101) 6(110) 7(111)
+31-29
+O{OOO) R-format Bl tz/gez j ump j ump &link branch eq branch blez bgtz
+"
+1{OO1) odd addiu set less slti u andi or i xori load upper i mm
+i mmediate than i mm.
+2{O10) TlB Fl Pt
+,,,
+3(011)
+,
+,
+" ""
+4{1(0) load byte load ha lf load word lb"
+,,'
+5(101) s t ore byt e s t ore st o r e word m
+half
+6(110) 1wcO lwcl
+7(111) swcO swc l
+op(31:26)=010000 (TlB), rs(25:21)
+23--21 0(000) 1{OO1) 2{01O) 3(011) 4(100) 5(101) 6(110) 7(111)
+25--24
+O{OO) mfcO cf cO mtcO ctcO
+1{O1)
+2(10)
+3(11)
+op(31:26)=OOOOOO (R·format), funet(5:0)
+2-<>
+0(000) 1{OO1) 2{O10) 3(011) 4(100) 5(101) 6(110) 7(111)
+5-3
+O{OOO) shi ft 1eft shi ft ri ght m sl1v s r 1v srav
+logical logical
+1{OO1) jump reg. j a1r syscall break
+2{01O) mfhi mthi mfl 0 mtl0
+3(011) mult multu div di vu
+4{1(0) odd addu subt ract subu ood " '" not o r (nor )
+5(101) set 1. t. sltu
+6(110)
+7(111)
+FIGURE 2.25 MIPS Instruction encoding. This notation gives the value of a field by row and by column. For example, the top portion of the
+figure shows load wor d in row number 4 (IOO for bits 31- 29 ofthe instruction) and column number 3 (0111\<,.., for bits 28--26 ofthe instruction),
+two
+so the corresponding value of the op field (bits 31- 26) is IOOOlltwo. Underscore means the field is used elsewhere. For example, R-f ormat in row 0
+and column 0 (op = OOOOOOtv>..,) is defined in the bottom part ofthe figure. Hence, s u bt ract in row 4 and column 2 of the bottom section means
+that the funct field (bits 5--0) of the instruction is 1000101\<,.., and the op field (bits 31- 26) is OOOOOOtv>..,. The Fl Pt value in row 2, column 1 is defined
+II
+tzl
+in Figure 3.20 in Chapter 3. B1 gel is the opcode for four instructions found in AppendixA: b1tz , bgez , b1tza 1 , and bgeza 1. Chapter
+2 describes instructions given in full name using color, while Chapter 3 describes instructions given in mnemonics using color. Appendix A covers all
+instructions.

@@ -1,0 +1,33 @@
+Homework Helpers: Basic Math and Pre-Algebra
+40
+Example 7
+Find the sum: 3 + (−7)
+Solution: Find the difference between their absolute values:
+7− 3 = 4
+The integer with the larger absolute value is −7, so our answer
+should be negative:
+3+ (−7) =−4
+You will often see the parentheses left off of these problems. We can
+write(−12) + 5 as −12 + 5 and 3 + (−7) as 3 − 7.
+Lesson 2-2 Review
+Find the sums:
+1. 8 + (−3) 4. −6+ 4
+2. −2+ (−5) 5. 15 + (−3)
+3. −3+ (−8) 6. −10+ 3
+Lesson 2-3: Subtracting Integers
+Subtracting two integers can involve finding the opposite of an oppo-
+site. We need to examine what the opposite of a negative number is in
+more detail. When we write −3 we mean the opposite of 3. The negative
+sign in front of the 3 indicates that it is the opposite of 3. In general, if a
+is any number, then the opposite of a is written −a. For example, −3 is the
+opposite of 3, and the opposite of −3 is written as −(−3). Earlier we said
+that 3 and −3 were opposites of each other, meaning that 3 is the opposite
+of −3, and −3 is the opposite of 3. This means that −(−3) and 3 are two
+ways to write the opposite of −3; this leads us to the fact that −(−3) = 3.
+This equation just means that the opposite of −3 is 3. We can also make
+the signs more explicit: −(−3) = +3. This will come in handy when we
+subtract negative integers.
+Notice that we use the same symbol for subtraction and for a nega-
+tive number. This is not because we ran out of symbols. We use the same
+symbol to remind us that the two concepts are related. Subtracting is the
+www.ebook3000.com

@@ -1,0 +1,31 @@
+554 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+100,000 •..........•..•..........•..........•..•..........•..........•..•..........•..........•..•..........•..........•.
+10,000 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+1,000 •.. ... ... ..•..•.. ... ... ..•.. ... ... ..•..•.. ... ... ..•.. ... ... ..•..•.. ... ... ..•... ....•..•..........•..........•.
+Perlormance CPU
+100
+10 •..........•..•..........•....
+Memory
+Year
+FIGURE 7.37 Using their 1980 performance as a baseline, the access time of DRAMs versus the performance of processors
+Is plotted over time Note that the vertical axis must be on a logarithmic scale to record the size of the processor-DRAM performance g.1p. The
+memory baseline is 64 KB DRAM in 1980, with three years to the next generation until 1996 and two years thereafter, with a 7% per year performance
+improvement in latency. The processor line assumes a 35% improvement per year until 1986, and a 55% improvement wltiI2003. It slows thereafter.
+On-chip first-level caches initially helped close the gap that was growing
+between processor clock cycle time and off-chip SRAM cycle time. To narrow the
+gap between the small on-chip caches and DRAM, second-level caches became
+widespread. Today, all desktop computers use second-level caches on chip, and
+third-level caches are becoming popular in some segments. Multilevel caches also
+make it possible to use other optimizations more easily for two reasons. First, the
+design parameters of a second- or third-level cache are different from a first-level
+cache. For example, because a second- or third-level cache will be much larger, it
+is possible to use larger block sizes. Second, a second- or third-level cache is not
+constantly being used by the processor, as a first-level cache is. This allows us to
+consider having the second- or third-level cache do something when it is idle that
+may be useful in preventing future misses.
+Another possible direction is to seek software help. Efficiently managing the
+memory hierarchy using a variety of program transformations and hardware
+fa cilities is a major focus of compiler enhancements. Two different ideas are being
+explored. One idea is to reorganize the program to enhance its spatial and tempo 
+rallocality. This approach focuses on loop-oriented programs that use large arrays
+as the major data structure; large linear algebra problems are a typical example. By

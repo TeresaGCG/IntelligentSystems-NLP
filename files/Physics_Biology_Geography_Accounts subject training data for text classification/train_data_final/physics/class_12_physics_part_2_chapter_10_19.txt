@@ -1,0 +1,77 @@
+l Physics
+
+ 
+
+interesting to note what Richard Feynman* has said in his famous
+Feynman Lectures on Physics:
+
+No one has ever been able to deﬁne the difference between
+interference and diffraction satisfactorily. It is just a question
+of usage, and there is no speciﬁc, important physical difference
+between them. The best we can do is, roughly speaking, is to
+say that when there are only a few sources, say two interfering
+sources, then the result is usually called interference, but if there
+is a large number of them, it seems that the word diffraction is
+more often used.
+
+In the double-slit experiment, we must note that the pattern on the
+screen is actually a superposition of single-slit diffraction from each slit
+or hole, and the double-slit interference pattern. This is shown in
+Fig. 10.17. It shows a broader diffraction peak in which there appear
+several fringes of smaller width due to double-slit interference. The
+number of interference fringes occuring in the broad diffraction peak
+depends on the ratio d/ a, that is the ratio of the distance between the
+two slits to the width of a slit. In the limit of a becoming very small, the
+diffraction pattern will become very ﬂat and we will obsrve the two-slit
+interference pattern [see Fig. 10.13(b)].
+
+0
+
+ 
+
+FIGURE 10.17 The actual double—slit interference pattern.
+The envelope shows the single slit diffraction.
+
+Example 10.5 In Example 10.3, what should the width of each slit be
+to obtain 10 maxima of the double slit pattern within the central
+maximum of the single slit pattern?
+
+Interactive animation on single slit diffraction pattern
+
+1837!. http://www.physhawaii.edu/~teb/optiCS/java/slitdiffr/
+
+,
+3
+
+Solution We want a6 = 1,9 = i
+
+(1
+
+'u
+,5! .,
+r" 57"?-
+
+La
+
+“ t
+\
+
+10£=2i a=i=02 mm
+d a 5
+Notice that the wavelength of light and distance of the screen do not
+
+enter in the calculation of a.
+
+EXAMPLE 10.5
+
+In the double-slit interference experiment of Fig. 10. 12, what happens
+if we close one slit? You will see that it now amounts to a single slit. But
+you will have to take care of some shift in the pattern. We now have a
+source at S, and only one hole (or slit) S1 or S2. This will produce a single-
+
+* Richand Feynman was one of the recipients of the 1965 Nobel Prize in Physics
+for his fundamental work in quantum electrodynamics.
+
+370
+
+2019-20

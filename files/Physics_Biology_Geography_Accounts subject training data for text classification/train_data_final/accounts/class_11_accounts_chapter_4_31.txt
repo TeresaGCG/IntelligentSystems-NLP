@@ -1,0 +1,54 @@
+130 Accountancy
+
+keeper makes entries in the sales journal from one copy of the sales invoice. The
+format of the sales joournal is shown in figure 4.8. In the sales journal, one
+additional column may be added to record sales tax recovered from the customer
+and to be paid to the government Within the stipulated time. Periodically, at the
+end of each month the amount column is total led and posted to the credit of
+sales account in the ledger. Posting to the debit side of individual customer’s
+accounts may be made daily.
+
+Sales (Journal) Book
+
+Date Invoice Name of the Customer L.F Amount
+No. (Account to be debited) ?
+
+ 
+
+Fig. 4.8 : Format of sales (journal) cash book
+
+For example M/s Koina Supplies sold on credit:
+(i) Two water puriﬁers @ ? 2,100 each and five buckets @ ? 130 each to M / s
+Raman Traders (Invoice no. 17 8 dated April 06, 20 1 7).
+
+(ii) Five road side containers @ ? 4,200 each to M / s Nutan enterprises (Invoice
+no 180 dated April 09, 2017) .
+
+(iii) 100 big buckets @ 3 850 each to M / s Raman traders (Invoice no. 209,
+dated April 28, 2017).
+
+The above stated transactions Will be entered in a sales journal as follows:
+
+Books of Koina Suppliers
+Sales (Journal) Book
+
+Date nvoice Name of the customer L.F. Amount
+No. (Account to be debited) ?
+
+178 Raman Traders
+180 Nutan Enterprises
+209 Raman Traders
+
+1,10,850
+—
+
+Posting from the sales journal are done to the debit of customer’s accounts
+kept in the ledger. Like the purchases journal, individual customer’s accounts
+are generally posted daily, With the amount involved. The sales journal is also
+totaled periodically (generally monthly), and this total is credited to sales
+account in the ledger. The sales (journal) book illustrated above Will be posted
+in the related ledger account in the following manner:
+
+ 
+
+2019-2020

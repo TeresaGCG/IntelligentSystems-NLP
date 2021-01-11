@@ -1,0 +1,73 @@
+246 PIIYSICS
+
+ 
+
+due to gravity. The material at the bottom 30 x 107 N m'2. Equating this to hpg, with
+experiences this force in the vertical direction, p = 3 x 103 kg m'3 gives
+
+and the sides of the mountain are free. Therefore, hpg = 30 x 107 N m‘2 .
+this is not a case of pressure or bulk compression. h = 30 x 107 N m"2 / (3 x 103 kg m‘3 x 10 m s‘2)
+There is a shear component, approximately hpg = 10 km
+
+itself. Now the elastic limit for a typical rock is which is more than the height of Mt. Everest!
+
+SUMMARY
+
+1. Stress is the restoring force per unit area and strain is the fractional change in dimension.
+In general there are three types of stresses (a) tensile stress — longitudinal stress
+(associated with stretching) or compressive stress [associated with compression},
+(b) shearing stress, and (c) hydraulic stress.
+
+2. For small deformations, stress is directly proportional to the strain for many materials.
+This is known as Hooke’s law. The constant of proportionality is called modulus of
+elasticity. Three elastic moduli viz., Young’s modulus, shear modulus and bulk modulus
+are used to describe the elastic behaviour of objects as they respond to deforming forces
+that act on them.
+
+A class of solids called elastomers does not obey Hooke’s law.
+3. When an object is under tension or compression, the Hooke’s law takes the form
+F/A = YAL/ L
+where AL/ L is the tensile or compressive strain of the object, Fis the magnitude of the
+applied force causing the strain, A is the cross-sectional area over which F is applied
+[perpendicular to A) and Yis the Young’s modulus for the object. The stress is F/A.
+
+4. A pair of forces when applied parallel to the upper and lower faces, the solid deforms so
+that the upper face moves sideways with respect to the lower. The horizontal displacement
+AL of the upper face is perpendicular to the vertical height L. This type of deformation is
+called shear and the corresponding stress is the shearing stress. This type of stress is
+possible only in solids.
+
+In this kind of deformation the Hooke’s law takes the form
+
+F/A = G x AL/ L
+where AL is the displacement of one end of object in the direction of the applied force F,
+and G is the shear modulus.
+
+5. When an object undergoes hydraulic compression due to a stress exerted by a surrounding
+ﬂuid, the Hooke’s law takes the form
+
+P = B (AV/ VI,
+where p is the pressure [hydraulic stress) on the object due to the ﬂuid, AV/ V (the
+volume strain) is the absolute fractional change in the object’s volume due to that
+
+pressure and B is the bulk modulus of the object.
+
+POINTS TO PONDER
+
+ 
+
+I. In the case ofa wire. suspended from celing and stretched under the action ofa weight (Fl
+suspended from its other end. the force exerted by the ceiling on it is equal and opposite
+to the weight. However. the tension at any crossesection A of the wire is just Fand not
+2F. Hence. tensile stress which is equal to the tension per unit area is equal to F/A.
+
+2. Hooke‘s law is valid only in the linear part of stressrstrain curve.
+
+3. The Young's modulus and shear modulus are relevant only for solids since only solids
+have lengths and shapes.
+
+4. Bulk modulus is relevant for solids. liquid and gases. It refers to the change in volume
+when every part of the body is under the uniform stress so that the shape of the body
+remains unchanged.
+
+2019-20

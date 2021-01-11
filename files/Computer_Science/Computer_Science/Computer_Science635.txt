@@ -1,0 +1,42 @@
+8.12 Exercises 619
+2. The floppy disk transfers data to the processor in 16-bit units and has a data
+rate of 50 KB/sec. No data transfer can be missed.
+3. The hard disk transfers data in four-word chunks and can transfer at
+4 MB/sec. Again, no transfer can be missed.
+8.30 [IS) <§§8.3-8.6> For the I/O system described in Exercise 8.45, find the
+maximum instantaneous bandwidth at which data can be transferred from disk to
+memory using as many disks as needed. How many disks and I/O buses (the min 
+imum ofeach) do you need to achieve the bandwidth? Since you need only achieve
+this bandwidth for an instant, latencies need not be considered.
+II
+8.31 (20) <§§8.3-8.6> In More Depth: Disk Arrays versus Single Disk
+II
+8.32 (10 ) <§§8.3-8.6> In More Depth: Disk Arrays Bandwidth
+8.33 [5] <§8.6> Suppose you are designing a microprocessor that uses special
+instructions to access I/O devices (instead of mapping the devices to memory
+addresses). What special instructions would you need to include? What additional
+bus lines would you need this microprocessor to support in order to address I/O
+devices?
+8.34 <§8.6> An important advantage of interrupts over polling is the ability of
+the processor to perform other tasks while waiting for communication from an I/O
+device. Suppose that a I GHz processor needs to read 1000 bytes of data from a par 
+ticular I/O device. The I/O device supplies I byte of data every 0.02 ms. The code
+to process the data and store it in a buffer takes 1000 cycles.
+a. If the processor detects that a byte of data is ready through polling, and a
+polling iteration takes 60 cycles, how many cycles does the entire operation
+take?
+b. If instead, the processor is interrupted when a byte is ready, and the proces 
+sor spends the time between interrupts on another task, how many cycles of
+this other task can the processor complete while the I/O communication is
+taking place? The overhead for handling an interrupt is 200 cycles.
+II
+8.35 (20) <§§8.3-8.6> For More Practice: Finding I/O Bandwidth Bottlenecks
+II
+8.36 [IS) <§§8.3-8.6> For More Practice: Finding I/O Bandwidth Bottlenecks
+II
+8.37 [IS) <§§7.3, 7.5, 8.5, 8.6> For More Practice: I/O System Operation
+8.38 (10 ) <§8.6> Write a paragraph identifying some ofthe simplifying assump 
+tions made in the analysis below:
+Suppose we have a processor that executes with a Soo-M Hz clock and the number
+of clock cycles for a polling operation- including transferring to the polling rou 
+tine, accessing the devise, and restarting the user program-is 400. The hard disk

@@ -1,0 +1,61 @@
+Accounting for Share Capital 4 9
+
+Feb. 16 Equity Share Allotment A/c .
+To Equity Share Capital A/c 2.00.000
+
+(Amount due on allotment of 50,000) Shares
+@ Rs. 4 per share)
+
+Bank A/c . 1.40.000
+To Equity Share Allotment A/c 1.40.000
+
+(Money received on allotment)
+
+Equity Share First and Final Call A/c . 150,000
+To Equity Share Capital A/c 1.50.000
+
+(First call money due)
+
+Bank A/c . 1,48,500
+To Equity Share First and Final Call A/c 1.48.500
+(Money received on ﬁrst call)
+
+Equity Share Capital A/c
+
+To Shares Forfeiture A/c
+
+To Equity Share First and Final Call A/c
+(Forﬁeted of 500 shares for non-payment of call)
+
+Bank A/c
+Shares Forfeiture A/c
+
+To Equity Share Capital A/c
+(Reissue of 500 forfeited shares as fully
+paid at Rs. 8 per share)
+
+Shares Forfeiture A/c Dr.
+To Capital Reserve
+
+(Proﬁt on reissue of Forfeited Shares Accounts
+transferred to capital reserve)
+
+ 
+
+Illustration 18
+
+0 Limited issued a prospectus offering 2,00,000 equity shares of Rs. 10 each, at
+a premium of Rs. 2 per share, payable as follows:
+
+On Application Rs. 2.50 per share
+
+On Allotment Rs. 4.50 per share
+
+(including premium)
+
+On First Call (three months from allotment) Rs. 2.50 per share
+
+On Second Call (three months after ﬁrst call) Rs. 2.50 per share
+
+Subscriptions were received for 3,1 7,000 shares on April 23, 20 1 7 and the
+allotment made on April 30, was as under:

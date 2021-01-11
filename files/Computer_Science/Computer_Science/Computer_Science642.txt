@@ -1,0 +1,44 @@
+Glossary G-3
+cache with tags, making it more costly than cathode ray tube (CRT) display A display,
+a simple prediction buffer. such as a television set, that displays an im 
+bus In logic design , a collection of data age using an electron beam scanned across a
+lines that is treated together as a single logi  screen.
+cal signal; also, a shared collection oflines central processor unit (CPU) Also called
+with multiple sources and uses. processor. The active part of the computer,
+bus master A unit on the bus that can ini  which contains the datapath and control
+tiate bus requests. and which adds numbers, tests numbers,
+bus transaction A sequence of bus opera  signals I/O devices to activate, and so on.
+tions that includes a request and may in  clock cycle Also called tick, clock tick,
+clude a response, either ofwhich may carry clock period, clock, cycle. The time for one
+data. A transaction is initiated by a single re  clock period, usually of the processor clock,
+quest and maytake many individual bus op  which nms at a constant rate.
+erations. clock cycles per instruction (CPI) Average
+cache coherency Consistency in the value number ofclock cycles per instruction for a
+ofdata benveen theversions in the caches of program or program fragm ent.
+several processors. clock period The length of each clock cycle.
+cachecoherent NUMACC-NUMA A non  clock skew The difference in absolute time
+uniform memory access multiprocessor between the times when two state elements
+that maintains coherence for all caches. see a clock edge.
+cache memory A small, fast memory that clocking methodology The approach used
+acts as a buffer for a slower, larger memory. to determine when data is valid and stable
+cache miss A request for data from the relative to the clock.
+cache that cannot be filled because the data cluster A set of computers connected over
+is not present in the cache. a local area network (LAN) that function as
+callee A procedure that executes a series of a single large multiprocessor.
+stored instructions based on parameters combinational logic A logic system whose
+provided by the caller and then returns con  blocks do not contain memory and hence
+trol to the caller. compute the same output given the same
+callee-saved register A register saved by input.
+the routine making a procedure calL commit unit The unit in a dynamic or out 
+caller The program that instigates a proce  of-order execution pipeline that decides
+dure and provides the necessary parameter when it is safe to release the result of an op 
+values. eration to programmer-visible registers and
+caller-saved register A register saved by memory.
+the routine being called. compiler A program that translates high 
+capacity miss A cache miss that occurs be  level language statements into assembly
+cause the cache, even with full associativity, language statements.
+cannot contain all the block needed to satis  compulsory miss Also called cold start
+fy the request. miss.A cache miss caused by the first access
+carrier signal A continuous signal of a sin  to a block that has never been in the cache.
+gle frequency capable of being modulated conditional branch An instruction that re 
+by a second data-carrying signaL quires the comparison of two values and

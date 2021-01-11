@@ -1,0 +1,61 @@
+Magnetism and
+
+Mutter
+
+It must not be assumed that there is a giant bar magnet deep inside the earth which is
+causing the earth’s magnetic ﬁeld. Although there are large deposits of iron inside the earth,
+it is highly unlikely that a large solid block of iron stretches from the magnetic north pole to
+the magnetic south pole. The earth’s core is very hot and molten, and the ions of iron and
+nickel are responsible for earth’s magnetism. This hypothesis seems very probable. Moon,
+which has no molten core, has no magnetic field, Venus has a slower rate of rotation, and a
+weaker magnetic ﬁeld, while Jupiter, which has the fastest rotation rate among planets, has
+a fairly strong magnetic ﬁeld. However, the precise mode of these circulating currents and
+the energy needed to sustain them are not very well understood. These are several open
+questions which form an important area of continuing research.
+
+The variation of the earth’s magnetic ﬁeld with position is also an interesting area of
+study. Charged particles emitted by the sun ﬂow towards the earth and beyond, in a stream
+called the solar wind. Their motion is affected by the earth’s magnetic ﬁeld, and in turn, they
+affect the pattern of the earth’s magnetic ﬁeld. The pattern of magnetic ﬁeld near the poles is
+quite different from that in other regions of the earth.
+
+The variation of earth’s magnetic ﬁeld with time is no less fascinating. There are short
+term variations taking place over centuries and long term variations taking place over a
+period of a million years. In a span of 240 years from 1580 to 1820 AD, over which records
+are available, the magnetic declination at London has been found to change by 35°,
+suggesting that the magnetic poles inside the earth change position with time. On the scale
+of a million years, the earth’s magnetic ﬁelds has been found to reverse its direction. Basalt
+contains iron, and basalt is emitted during volcanic activity. The little iron magnets inside it
+align themselves parallel to the magnetic ﬁeld at that place as the basalt cools and solidiﬁes.
+Geological studies of basalt containing such pieces of magnetised region have provided
+evidence for the change of direction of earth’s magnetic ﬁeld, several times in the past.
+
+5.5 MAGNETISATION AND MAGNETIC INTENSITY
+
+The earth abounds with a bewildering variety of elements and compounds.
+In addition, we have been synthesising new alloys, compounds and even
+elements. One would like to classify the magnetic properties of these
+substances. In the present section, we deﬁne and explain certain terms
+which will help us to carry out this exercise.
+
+We have seen that a circulating electron in an atom has a magnetic
+
+moment. In a bulk material, these moments add up vectorially and they
+can give a net magnetic moment which is non-zero. We define
+magnetisation M of a sample to be equal to its net magnetic moment per
+
+ 
+
+unit volume:
+m
+M = f (5.1 1)
+
+M is a vector with dimensions L‘1 A and is measured in a units of A m‘l.
+
+Consider a long solenoid of n turns per unit length and carrying a
+
+current I. The magnetic field in the interior of the solenoid was shown to
+
+be given by 189
+
+2019-20

@@ -1,0 +1,33 @@
+454 Chapter 6 Enhancing Performance with Plpellnlng
+With remarkable advances in processing, Amdahl's law suggests that another pa rt
+of the system will become the bottleneck. That bottleneck is the topic of the next
+chapter: the memory system.
+An alternative to pushing uniprocessors to automatically exploit parallelism at
+the instruction level is trying multiprocessors, which exploit parallelism at much
+II
+coarser levels. Parallel processing is the topic of Chapter 9, which appears on the
+CD.
+Historical Perspective and Further
+Reading
+This section, which appears on the CD, discusses the history of the first pipelined
+processors, the earliest superscalars, the development of ollt-of-order and specula 
+tive techniques, as well as important developments in the accompanying com piler
+technology.
+Exercises
+6.1 [5] <§6.1 > If the time for an ALU operation can be shortened by 25% (com  
+pared to the description in Figure 6.2 on page 373);
+a. Will it affect the speedup obtained from pipelining? If yes, by how much?
+Otherwise, why?
+b. What if the ALU operation now takes 25% more time?
+6.2 (10) <§6.1 > A computer architect needs to design the pipeline of a new m icro 
+6
+p rocessor. She has an example workload program core with 10 instructions. Each
+instruction takes 100 ps to finish.
+a. How long does it take to execute this program core on a nonpipelined proces 
+sor?
+b. The current state-of-the-art microprocessor has about 20 pipeline stages.
+Assume it is perfectly pipelined. How much speedup will it achieve compared
+to the nonpipelined p rocessor?
+c. Real pipelining isn't perfect, since implementing pipelining introduces some
+overhead per pipeline stage. Will this overhead affect instruction latency,
+instruction throughput, o r both?

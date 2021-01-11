@@ -1,0 +1,44 @@
+432 Chapter 6 Enhancing Performance with Plpellnlng
+imprecise interrupt Also The difficulty of always aSSOcl3tmg the correct exception with the correct
+called imprecise exception. instruction in pipelined computers has led some computer designers to relax this
+Interrupts or exceptions in pipe  requirement in noncritical cases. Such processors are said to have imprecise
+lined computers that are not
+interrupts or imprecise exceptions. In the example above, PC would normally
+associated with the exact
+have 58 at the start of the clock cycle after the exception is detected, even
+hex
+instruction that was the cause of
+though the offending instruction is at address 4C t>x' A processor with imprecise
+the interrupt or exception. h
+exceptions might put 58 into EPC and leave it up to the operating system to
+ht'X
+precise interrupt Also called
+determine which instruction caused the problem. MIPS and the vast majority of
+precise exception.An interrupt
+computers today support precise interrupts or precise exceptions. (One reason is
+or exception that is alway asso 
+to support virtual memory, which we shall see in Chapter 7.)
+ciated with the correct instruc 
+tion in pipelined computers.
+Check
+The MIPS designers wanted the integer multiply and divide instructions to oper 
+Yourself ate in parallel with other integer instructions. Since multiply and divide take mul 
+tiple clock cycles, a group of students is arguing over whether it is possible to
+implement precise exceptions. \Vhich of the following arguments are completely
+accurate?
+I. It is impossible to implement precise exceptions, since a multiply or divide
+can raise an exception after instructions that follow it.
+2. It is trivial to implement precise exceptions since multiply and divide can 
+not raise an exception once they start, and so the timing of all exceptions is
+obviously precise.
+3. It does not matter whether multiply or divide can raise an exception. The
+fact that they could still be executing and not completed when some other
+instruction raised an exception makes it impossible to implement precise
+exceptions.
+4. Although it is true that a multiply or divide could still be executing, it is
+guaranteed to complete shortly, and when it does, any exception raised for
+an instruction following a multiply or divide will then be precise.
+Advanced Pipelining: Extracting More
+Performance
+Be forewarned that Sections 6.9 and 6.10 are brief overviews of fascinating but
+advanced topics. If you want to learn more details, you should consult our more

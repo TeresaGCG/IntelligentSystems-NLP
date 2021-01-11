@@ -1,0 +1,58 @@
+Issue and Redemption of Debentures 91
+
+insist on additional assets as collateral security so that the amount of loan can
+be realised in full with the help of collateral security in case the amount from the
+sale of principal security falls short of the loan money. In such situation, the
+company may issue its own debentures to the lenders in addition to some other
+assets already pledged. Such an issue of debentures is lmown as ‘Debentures
+issued as Collateral Security'.
+
+If the company fails to repay the loan along with interest, the lender is free to
+receive his money from the sale of primary security and if the realisable value of
+the primary security falls short to cover the entire amount, the lender has the
+right to invoke the beneﬁt of collateral security whereby debentures may either
+be presented for redemption or sold in the open market.
+
+Debentures issued as collateral security can be dealt within two ways in the
+books of the company:
+
+First Method
+
+No entry is made in the books of accounts since no liability is created by such
+issue. However, on the liability side of the balance sheet, below the item of loan,
+a note to the effect that it has been secured by issue of debentures as a collateral
+security is appended. For example, X Company has issued 9%, 10,000
+debentures of Rs. 100 each for a loan of Rs. 10, 00,000 taken from a bank. This
+fact may be shown in the balance sheet as under:
+
+X Company
+Balance Sheet as at
+
+Particulars Note Amount
+No. (Rs)
+1
+
+1. Equity and Liabilities
+1. Non-current Liabilities
+Long-term borrowings 10 00 000
+
+ 
+
+Notes to Accounts
+
+(RS)
+
+1. Long-term borrowings
+m -
+10,00,000
+
+(Secured by issue of 10,000. 10% debentures
+
+of Rs. 10 each as Collateral Security) —
+
+ 
+
+Second Method
+
+The issue of debentures as a collateral security may be recorded by means of
+journal entry as follows:

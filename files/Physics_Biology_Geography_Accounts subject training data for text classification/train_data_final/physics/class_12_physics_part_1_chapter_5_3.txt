@@ -1,0 +1,81 @@
+i Physics
+
+(iii) The larger the number of ﬁeld lines crossing per unit area, the stronger
+is the magnitude of the magnetic ﬁeld B. In Fig. 5.3(a), B is larger
+around region ® than in region@.
+
+(iv) The magnetic ﬁeld lines do not intersect, for if they did, the direction
+of the magnetic ﬁeld would not be unique at the point of intersection.
+One can plot the magnetic field lines in a variety of ways. One way is
+
+to place a small magnetic compass needle at various positions and note
+
+its orientation. This gives us an idea of the magnetic ﬁeld direction at
+various points in space.
+
+5.2.2 Bar magnet as an equivalent solenoid
+
+In the previous chapter, we have explained how a current loop acts as a
+magnetic dipole (Section 4.10). We mentioned Ampere’s hypothesis that
+all magnetic phenomena can be explained in terms of circulating currents.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURE 5.4 Calculation of (a) The axial field of a
+finite solenoid in order to demonstrate its similarity
+to that of a bar magnet. (b) A magnetic needle
+in a uniform magnetic ﬁeld B. The
+arrangement may be used to
+determine either B or the magnetic
+moment In of the needle.
+
+Recall that the magnetic dipole moment m
+associated with a current loop was deﬁned
+to be m = N1 A where N is the number of
+turns in the loop, I the current and A the
+area vector (Eq. 4.30).
+
+The resemblance of magnetic ﬁeld lines
+
+for a bar magnet and a solenoid suggest that
+a bar magnet may be thought of as a large
+number of circulating currents in analogy
+with a solenoid. Cutting a bar magnet in half
+is like cutting a solenoid. We get two smaller
+solenoids with weaker magnetic properties.
+The ﬁeld lines remain continuous, emerging
+from one face of the solenoid and entering
+into the other face. One can test this analogy
+by moving a small compass needle in the
+neighbourhood of a bar magnet and a
+current-carrying ﬁnite solenoid and noting
+that the deﬂections of the needle are similar
+in both cases.
+To make this analogy more firm we
+calculate the axial ﬁeld of a ﬁnite solenoid
+depicted in Fig. 5.4 (a). We shall demonstrate
+that at large distances this axial field
+resembles that of a bar magnet.
+
+Let the solenoid of Fig. 5.4(a) consists of
+n turns per unit length. Let its length be 21
+and radius a. We can evaluate the axial ﬁeld
+at a point P, at a distance r from the centre 0
+
+of the solenoid. To do this, consider a circular element of thickness dxof
+the solenoid at a distance xfrom its centre. It consists of n dxturns. Let I
+be the current in the solenoid. In Section 4.6 of the previous chapter we
+have calculated the magnetic ﬁeld on the axis of a circular current loop.
+From Eq. (4.13), the magnitude of the ﬁeld at point P due to the circular
+
+1 76 element is
+
+2019-20

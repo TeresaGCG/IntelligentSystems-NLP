@@ -1,0 +1,74 @@
+404
+
+ 
+
+ 
+
+l Physics
+
+http://www.nobelprizc.org/nobeLprich/physics/laureates/l 986/presentalion—speech.html
+
+Development of electron microscope
+
+by applying suitable potential/voltage from a high voltage power supply
+(H.T. or battery). They are made to pass through a cylinder with fine
+holes along its axis, producing a fine collimated beam. The beam is made
+to fall on the surface of a nickel crystal. The electrons are scattered in all
+directions by the atoms of the crystal. The intensity of the electron beam,
+scattered in a given direction, is measured by the electron detector
+(collector). The detector can be moved on a circular scale and is connected
+to a sensitive galvanometer, which records the current. The deﬂection of
+the galvanometer is proportional to the intensity of the electron beam
+entering the collector. The apparatus is enclosed in an evacuated chamber.
+By moving the detector on the circular scale at different positions, the
+intensity of the scattered electron beam is measured for different values
+of angle of scattering 0 which is the angle between the incident and the
+scattered electron beams. The variation of the intensity (I) of the scattered
+electrons with the angle of scattering 0 is obtained for different accelerating
+voltages.
+
+The experiment was performed by varying the accelarating voltage
+from 44 V to 68 V. It was noticed that a strong peak appeared in the
+intensity (I) of the scattered electron for an accelarating voltage of 54V at
+a scattering angle 6 = 50°
+
+The appearance of the peak in a particular direction is due to the
+constructive interference of electrons scattered from different layers of the
+regularly spaced atoms of the crystals. From the electron diffraction
+measurements, the wavelength of matter waves was found to be
+0.165 nm.
+
+The de Broglie wavelength 2. associated with electrons, using
+Eq. (1 1.1 1), for V= 54 V is given by
+
+1 227
+
+JV
+
+ 
+
+A=h/p= nm
+
+2. 1 227 O 167
+= nm = . nm
+\/54
+
+ 
+
+Thus, there is an excellent agreement between the theoretical value
+and the experimentally obtained value of de Broglie wavelength. Davisson-
+Gerrner experiment thus strikingly conﬁrms the wave nature of electrons
+and the de Broglie relation. More recently, in 1989, the wave nature of a
+beam of electrons was experimentally demonstrated in a double-slit
+experiment, similar to that used for the wave nature of light. Also, in an
+experiment in 1994, interference fringes were obtained with the beams of
+iodine molecules, which are about a million times more massive than
+electrons.
+
+The de Broglie hypothesis has been basic to the development of modern
+quantum mechanics. It has also led to the ﬁeld of electron optics. The
+wave properties of electrons have been utilised in the design of electron
+microscope which is a great improvement, with higher resolution, over
+the optical microscope.
+
+2019-20

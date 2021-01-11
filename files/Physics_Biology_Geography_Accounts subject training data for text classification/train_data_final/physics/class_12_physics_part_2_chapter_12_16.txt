@@ -1,0 +1,77 @@
+430
+
+ 
+
+ 
+
+l Physics
+
+EXAMPLE 12.6
+
+ 
+
+the same energy needed by the electron in a lower energy state to make
+transitions to a higher energy state, the process is called absorption.
+Thus if photons with a continuous range of frequencies pass through a
+rarefied gas and then are analysed with a spectrometer, a series of dark
+spectral absorption lines appear in the continuous spectrum. The dark
+lines indicate the frequencies that have been absorbed by the atoms of
+the gas.
+
+The explanation of the hydrogen atom spectrum provided by Bohr’s
+model was a brilliant achievement, which greatly stimulated progress
+towards the modern quantum theory. In 1922, Bohr was awarded Nobel
+Prize in Physics.
+
+Example 12.6 Using the Rydberg formula, calculate the wavelengths
+of the first four spectral lines in the Lyman series of the hydrogen
+spectrum.
+
+Solution The Rydberg formula is
+
+me4 (1 1\
+h x. = ———
+C/ If Seﬁhz kn? n2)
+
+l
+
+ 
+
+The wavelengths of the first four lines in the Lyman series correspond
+to transitions from nl. = 2,3,4,5 to n = 1. We know that
+
+ 
+
+f
+me4 136 V 2176 10ng
+= = X
+833112 . e .
+Therefore,
+h
+f“: c (1 mm
+21.76x10‘19 ———2
+k1 n)
+6.625><10'34 ><3><108 x n? 0.9134 n? _7
+21.76x10 ><(n —1) (n, —1)
+
+= 913. 4 niiH/(n —1)A , ., ,
+Substituting n. = 2, 3, 4, 5, we get K21= 1218 A, 7‘31 = 1028A, K41 = 974.3 A,
+and k51= 951. 4 A.
+
+12.6 DE BROGLIE’S EXPLANATION OF BOHR’S
+
+SECOND POSTULATE 0F QUANTISATION
+
+Of all the postulates, Bohr made in his model of the atom, perhaps the
+most puzzling is his second postulate. It states that the angular
+momentum of the electron orbiting around the nucleus is quantised (that
+is, Ln = nh/27t; n = 1, 2, 3 ...). Why should the angular momentum have
+only those values that are integral multiples of h/ 27:? The French physicist
+Louis de Broglie explained this puzzle in 1923, ten years after Bohr
+proposed his model.
+
+We studied, in Chapter 11, about the de Broglie’s hypothesis that
+material particles, such as electrons, also have awave nature. C. J. Davisson
+and L. H. Germer later experimentally veriﬁed the wave nature of electrons
+
+2019-20

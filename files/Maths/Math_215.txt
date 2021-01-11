@@ -1,0 +1,14 @@
+Monomials and Polynomials
+215
+Example 6
+Find the product: 
+Solution: Use the distributive property twice and gather like terms:
+Example 7
+Find the product: 
+Solution:Use the distributive property twice and gather like terms:
+The process of multiplying binomials together is often referred to as
+FOIL, which stands for first, outside, inside, and last. This represents
+one way of doing the multiplication as shown in Figure 11.1.
+− −
+(x a) (x b)
+ Figure 11.1

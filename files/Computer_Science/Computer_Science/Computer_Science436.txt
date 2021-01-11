@@ -1,0 +1,20 @@
+420 Chapter 6 Enhancing Performance with Plpellnlng
+on<! f12,$2,$5
+-
+--
+,
+"
+•
+b<>q $l,$:l,7
+,
+,
+'''''
+,
+-
+-
+"
+•
+FIGURE 6.38 The ID stage of clock cycle 3 determines that a branch must be taken, so It selects 72 as the next PC address
+and zeros the Instruction fetched for the next clock cycle. Clock cycle 4 shows the instruction allocation 72 being fetched and the single
+bubble or nap instruction in the pipeline as a result oflhe taken branch. (Since the nap is really s11 $0, SO, 0, it's arguable whether or not the ID
+stage in clock 4 should be highlighted.)

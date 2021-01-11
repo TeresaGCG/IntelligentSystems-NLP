@@ -1,0 +1,94 @@
+CHAPTER FIVE
+
+HOSECHDS
+
+5.1
+5.2
+5.3
+5.4
+5.5
+
+5.6
+5.7
+5.8
+5.9
+
+Introduction
+
+Aristotle’s fallacy
+
+The law of inertia
+
+Newton's ﬁrst law of motion
+
+Newton’s second law of
+motion
+
+Newton's third law of motion
+Conservation of momentum
+
+Equilibrium of a particle
+
+Common forces in mechanics
+
+5. 10 Circular motion
+
+5. 1 1 Solving problems in
+
+mechanics
+
+Summary
+
+Points to ponder
+Exercises
+Additional exercises
+
+ 
+
+LAWS OF MOTION
+
+,l
+
+ 
+
+5. 1 INTRODUCTION
+
+In the preceding Chapter, our concern was to describe the
+motion of a particle in space quantitatively. We saw that
+uniform motion needs the concept of velocity alone whereas
+non-uniform motion requires the concept of acceleration in
+addition. So far, we have not asked the question as to what
+governs the motion of bodies. In this chapter, we turn to this
+basic question.
+
+Let us first guess the answer based on our common
+experience. To move a football at rest, someone must kick it.
+To throw a stone upwards, one has to give it an upward
+push. A breeze causes the branches of a tree to swing; a
+strong wind can even move heavy objects. A boat moves in a
+ﬂowing river without anyone rowing it. Clearly, some external
+agency is needed to provide force to move a body from rest.
+Likewise, an external force is needed also to retard or stop
+motion. You can stop a ball rolling down an inclined plane by
+applying a force against the direction of its motion.
+
+In these examples, the external agency of force (hands,
+wind, stream, etc) is in contact with the object. This is not
+always necessary. A stone released from the top of a building
+accelerates downward due to the gravitational pull of the
+earth. A bar magnet can attract an iron nail from a distance.
+This shows that external agencies (e.g. gravitational and
+magnetic forces) can exert force on a body even from a
+distance.
+
+In short, a force is required to put a stationary body in
+motion or stop a moving body, and some external agency is
+needed to provide this force. The external agency may or may
+not be in contact with the body.
+
+So far so good. But what if a body is moving uniformly (e.g.
+a skater moving straight with constant speed on a horizontal
+ice slab) ? Is an external force required to keep a body in
+uniform motion?
+
+2019-20

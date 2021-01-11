@@ -1,0 +1,24 @@
+1.1 Introduction 7
+1122
+892
+862
+135 129 131
+4 4 5
+2000 2001 2002
+FIGURE 1.1 The number of distinct processors sold between 1998 and 2002. These counts
+are obtained somewhat diffefently, so some caution is fequired in interpfeting the results. For example, the
+totals fOf desktops and servers count complete computer systems, because some fraction of these include
+ntultiple pfocessors, the number of processors sold is somewhat highef, but probably by only 10--20% in
+total (since the sefvers, which ntay average mOfe than one proCessof per system, afe only about 3% of the
+desktop sales, which afe pfedominantly single-processof systents). The totals fOf entbedded computers actu 
+ally count pfocessors, ntany of which are not even visible, and in sonte cases there ntay be multiple pfOCes 
+sors pef device.
+been growing very fast. For example, in 1998 only 31% of the embedded processors
+were cores. By 2002, 56% of the embedded processors were cores. Furthermore,
+while the overall growth rate in the embedded market has been 40% per year, this
+growth has been primarily driven by cores, where the compounded annual growth rate
+has been 63%!
+Figure 1.2 shows the major architectures sold in these markets with counts for
+each architecture, across all three types of products (embedded, desktop, and
+server). Only 32-bit and 64-bit processors are included, although 32-bit proces 
+sors are the vast majority for most of the architectures.

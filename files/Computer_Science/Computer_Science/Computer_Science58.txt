@@ -1,0 +1,32 @@
+42 Chapter 1 Computer Abstractions and Technology
+1.56 (15) <§§ 1.1- 1.5> A less technically inclined friend has asked you to explain
+how computers work. Write a detailed, one-page description for your friend.
+1.57 (101 <§§ 1.1- 1.5> In what ways do you lack a dea r understa nding of how
+computers work? Are there levels of abstraction with which you are particularly
+unfamiliar? Are there levels ofabstraction with which you are familiar but still have
+specific questions about? Write at least one paragraph addressing each of these
+questions.
+1.58 (15) <§ 1.3> In this exercise, you will learn more about interfaces or abstrac 
+tions. For example, we can provide an abstraction for a disk like this:
+Performance characteristics:
+• Capacity (how much data can it store?)
+• Bandwidth (how fast can data be transferred between the computer and
+disk?)
+• Latency (how long does it take to find a specific position for access?)
+Functions the interface provides:
+• Read/write data
+• Seek to a specific position
+• Status report (is the disk ready to read/write, etc.?)
+Following this pattern, please provide an abstraction for a network card.
+1.59 [5J <§§ I.4, 1.5> " In More Depth: Integrated Circuit Cost
+1.60 [15) <§§ 1.4, 1.5> .. In More Depth: Integrated Circuit Cost
+1.61 (10 ) <§§ I.4, 1.5> " In More Depth: Integrated Circuit Cost
+1.62 [5J <§§ I.4, 1.5> " In More Depth: Integrated Circuit Cost
+1.63 (10 ) <§§ I.4, 1.5> . In More Depth: Integrated Circuit Cost
+'II
+1.64 (10 ) <§§ I.4, 1.5> In More Depth: Integrated Circuit Cost
+Answers to §1.1 , page 10: Discussion questions: lots of answers are acceptable.
+Check Yourself §1.3, page 27: Disk memory: nonvolatile, long access time (milliseconds), and cost
+$2-4/GB. Semiconductor memory: volatile, short access time (nanoseconds), and
+cost $200-400/GB.
+§1.4, page 33: I, 3, and 4 are valid reasons.

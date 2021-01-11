@@ -1,0 +1,52 @@
+4 4 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Illustration 15
+
+X Ltd. issued for public subscription 40,000 equity shares of Rs. 10 each at
+premium of Rs. 2 per share payable as under :
+
+On application Rs. 4 per share
+On Allotment Rs. 5 per share (including premium)
+On Call Rs. 3 per share
+
+Applications were received for 60,000 shares. Allotment was made pro—rata
+to the applicants for 48,000 shares, the remaining applications being rejected.
+Money overpaid on application was applied towards sums due on allotment.
+
+Shri Chitnis, to whom 1,600 shares were allotted, failed to pay the allotment
+money and Shri J agdale, to whom 2,000 shares were allotted, failed to pay the
+call money. These shares were subsequently forfeited.
+
+Record journal entries in the books of the company to record the above
+transactions.
+
+Solution:
+
+Books of X Ltd.
+Journal
+
+Bank A/c 2.40.000
+To Equity Share Apincation A/c 2,40,000
+
+(Money received on applications for 60,000
+shares @ Rs. 4 per share)
+
+Equity Share AppIication A/c . 2,40,000
+To Equity Share Capital A/c 1,60,000
+To Equity Share Allotment A/c 32,000
+To Bank a/c 48,000
+
+(Application amount transferred to share
+capital, excess application money
+
+under pro-rata distribution credited to
+share allotment and money refunded
+
+on rejected application)
+
+Equity Share Allotment A/c . 2,00,000
+To Equity Share Capital A/c 120,000
+To Securities Premium Reserve A/c 80,000
+
+(Amount due on allotment of 40,000 shares
+@ Rs. 5 per share including premium)

@@ -1,0 +1,96 @@
+Building energy per nucleon [MeV)
+
+444
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+in the process. The energy Eb is called the binding energy of the nucleus.
+If we separate a nucleus into its nucleons, we would have to supply a
+total energy equal to Eb, to those particles. Although we cannot tear
+apart a nucleus in this way, the nuclear binding energy is still a convenient
+measure of how well a nucleus is held together. A more useful measure
+of the binding between the constituents of the nucleus is the binding
+energy per nucleon, Eb”, which is the ratio of the binding energy Eb of a
+nucleus to the number of the nucleons, A, in that nucleus:
+
+E = Eb/A (13.9)
+
+bn
+We can think of binding energy per nucleon as the average energy
+
+per nucleon needed to separate a nucleus into its individual nucleons.
+Figure 13.1 is a plot of the
+
+binding energy per nucleon Elm
+
+ 
+
+versus the mass number A for a
+large number of nuclei. We notice
+
+ 
+
+ 
+
+the following main features of
+
+the plot:
+
+(i) the binding energy per
+nucleon, Ebn, is practically
+constant, i.e. practically
+independent of the atomic
+number for nuclei of middle
+mass number ( 3O <A< 170).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 150 200 250 The curve has a maximum of
+about 8.75 MeV for A = 56
+
+M b A
+ass Hum 6“ ) and has a value of 7.6 MeV
+
+FIGURE 13.1 The. binding energy per nucleon forA= 238.
+as a function of mass number. (ii) E
+
+bn is lower for both light
+nuclei (A<30) and heavy
+nuclei (A> l 70).
+We can draw some conclusions from these two observations:
+(i) The force is attractive and sufficiently strong to produce a binding
+energy of a few MeV per nucleon.
+(ii) The constancy of the binding energy in the range 30 < A < 170 is a
+consequence of the fact that the nuclear force is short-ranged. Consider
+a particular nucleon inside a sufﬁciently large nucleus. It will be under
+the inﬂuence of only some of its neighbours, which come within the
+range of the nuclear force. If any other nucleon is at a distance more
+than the range of the nuclear force from the particular nucleon it will
+have no inﬂuence on the binding energy of the nucleon under
+consideration. If a nucleon can have a maximum of p neighbours
+within the range of nuclear force, its binding energy would be
+proportional to p. Let the binding energy of the nucleus be pk, where
+k is a constant having the dimensions of energy. If we increase A by
+adding nucleons they will not change the binding energy of a nucleon
+inside. Since most of the nucleons in a large nucleus reside inside it
+and not on the surface, the change in binding energy per nucleon
+would be small. The binding energy per nucleon is a constant and is
+approximately equal to pk. The property that a given nucleon
+
+2019-20

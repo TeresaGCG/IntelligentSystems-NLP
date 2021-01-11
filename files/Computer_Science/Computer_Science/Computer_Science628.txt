@@ -1,0 +1,29 @@
+612 Chapter 8
+8.4 [ IOJ <§§8.1-8.2> Consider the laptop's hard disk power consumption in
+Exercise 8.3. Assume that it is no longer constant, but varies between 6 watts when
+it is spinning and 1watt when it is not spinning. The power consumed by the lap 
+top apart from the hard disk and wireless ca rd is a constant 32 watts. Suppose that
+the hard disk's transfer rate is 50 MB/sec, its delay before it can begin transfer is 20
+ms, and at all other times it does not spin. How many complete files can we transfer
+before the laptop's battery runs down to zero? How much energy would we need
+to send all 100 files? (Consider that the wireless card cannot send data until it is in
+memory.)
+8.5 [5J <§8.3> The following simplified diagram shows two potential ways of
+numbering the sectors of data on a disk (only two tracks are shown and each track
+has eight sectors). Assuming that typical reads are contiguous (e.g., all 16 sectors
+are read in order), which way of numbering the sectors will be likely to result in
+high er performance? Why?
+o o
+2 2
+4 4
+8.6 [20J <§8.3> In this exercise, we will run a program to evaluate the behavior of
+a disk drive. Disk sectors are addressed sequentially within a track, tracks sequen 
+tially within cylinders, and cylinders sequentially within the disk. Determining
+head switch time and cylinder switch time is difficult because of rotational effects.
+Even determining platter count, sectors/track, and rotational delay is difficult
+based on observation of typical disk workloads.
+The key is to facto r out disk rotational effects by making consecutive seeks to indi 
+vidual sectors with addresses that differ by a linea rly increasing amount starting
+with 0, 1, 2, and so forth. The Skippy algorithm, from work by Nisha Talagala and
+u.c. J,
+colleagues of Berkeley [2000 is

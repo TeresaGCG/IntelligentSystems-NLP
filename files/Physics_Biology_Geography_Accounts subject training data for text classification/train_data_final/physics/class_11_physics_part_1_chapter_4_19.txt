@@ -1,0 +1,124 @@
+84 PHYSICS
+—
+
+(v0 sineo )2
+
+The time taken to reach this height is :
+
+_ v0 sinao
+9
+
+The horizontal distance travelled by a projectile from its initial position to the position
+it passes y = 0 during its fall is called the range, R of the projectile. It is :
+
+U2
+
+R = —° sin260
+g
+17. When an object follows a circular path at constant speed, the motion of the object is
+
+called uniform circular motion. The magnitude of its acceleration is ac = v2 /R. The
+direction of ac is always towards the centre of the circle.
+
+The angular speed a). is the rate of change of angular distance. It is related to velocity
+v by v = (OR. The acceleration is ac = a) 2R.
+
+If T is the time period of revolution of the object in circular motion and v is its
+frequency, we have w= 2n v, v = 27th, ac = 47t2V2R
+
+5”“ -W
+
+tm
+
+  
+   
+         
+     
+       
+ 
+ 
+        
+      
+   
+ 
+ 
+       
+       
+       
+   
+  
+
+Physical
+Quantity
+
+   
+
+ 
+  
+
+Position vector 1' [L] m Vector. It may be denoted by
+any other symbol as well.
+Displacement Ar [L] m - do -
+Velocity [LT—1] m s"1
+Ar
+
+4|
+
+(3) Average = — vector
+
+At’
+
+dr
+(b) Instantaneous V =— ,vector
+
+dt
+
+  
+
+Acceleration
+
+ 
+ 
+
+Av
+=—, vector
+
+At
+dv
+
+(b) Instantaneous a = d— , vector
+t
+
+M
+
+(a) Average
+
+ 
+ 
+
+Projectile motion
+
+(a) Time of max. tm [T] s = v0 Sin90
+height 9
+- 2
+(b) Max. height hm [L] m = (120 s1n60)
+29
+2 .
+(c) Horizontal range R [L] m 2 v0 sm290
+
+9
+
+        
+ 
+
+Circular motion
+
+ 
+   
+
+(a) Angular speed (,3 [T“] rad/s =A—6 = 3
+At r
+(b) Centripetal a [L -2] m 5—2 _ “2
+acceleration ° _ 7
+
+2019-20

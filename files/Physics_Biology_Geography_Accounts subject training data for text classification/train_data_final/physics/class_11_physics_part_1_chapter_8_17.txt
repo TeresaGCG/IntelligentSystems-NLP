@@ -1,0 +1,85 @@
+200 PHYSICS
+—
+
+ 
+
+POINTS TO PONDER
+l .
+
+In considering motion of an object under the gravitational inﬂuence of another object
+the following quantities are conserved:
+
+(a) Angular momentum
+
+(b) Total mechanical energy
+
+Linear momentum is not conserved
+
+Angular momentum conservation leads to Kepler‘s second law. However. it is not special
+to the inverse square law of gravitation. It holds for any central force.
+
+In Kepler‘s third law [see Eq. [8.1] and T2 = Ks R“. The constant K5 is the same for all
+planets in circular orbits. This applies to satellites orbiting the Earth [[Eq. (8.38)].
+
+An astronaut experiences weightlessness in a space satellite. This is not because the
+gravitational force is small at that location in space. It is because both the astronaut
+and the satellite are in “free fall” towards the Earth.
+
+. The gravitational potential energy associated with two particles separated by a distance
+
+r is given by
+
+Gm1m2
+r
+
+The constant can be given any value. The simplest choice is to take it to be zero. With
+this choice
+
+V = — + constant
+
+VLM
+r
+
+This choice implies that V —> 0 as r —> 00. Choosing location of zero of the gravitational
+energy is the same as choosing the arbitrary constant in the potential energy. Note that
+the gravitational force is not altered by the choice of this constant.
+
+The total mechanical energy of an object is the sum of its kinetic energy [which is always
+positive] and the potential energy. Relative to infinity (i.e. if we presume that the potential
+energy of the object at inﬁnity is zero]. the gravitational potential energy of an object is
+negative. The total energy of a satellite is negative.
+
+The commonly encountered expression mg h for the potential energy is actually an
+approximation to the difference in the gravitational potential energy discussed in the
+point 6, above.
+
+Although the gravitational force between two particles is central. the force between two
+finite rigid bodies is not necessarily along the line joining their centre of mass. For a
+spherically symmetric body however the force on a particle external to the body is as if
+the mass is concentrated at the centre and this force is therefore central.
+
+. The gravitational force on a particle inside a spherical shell is zero. However. [unlike a
+
+metallic shell which shields electrical forces) the shell does not shield other bodies outside
+it from exerting gravitational forces on a particle inside. Gravitational shielding is not
+possible.
+
+EXERCISES
+
+8.1 Answer the following :
+
+(a) You can shield a charge from electrical forces by putting it inside a hollow conductor.
+Can you shield a body from the gravitational inﬂuence of nearby matter by putting
+it inside a hollow sphere or by some other means ?
+
+(b) An astronaut inside a small space ship orbiting around the earth cannot detect
+gravity. If the space station orbiting around the earth has a large size, can he hope
+to detect gravity ?
+
+(c) If you compare the gravitational force on the earth due to the sun to that due
+to the moon, you would find that the Sun’s pull is greater than the moon’s pull.
+[you can check this yourself using the data available in the succeeding exercises).
+However, the tidal effect of the moon’s pull is greater than the tidal effect of sun.
+Why ?
+
+2019-20

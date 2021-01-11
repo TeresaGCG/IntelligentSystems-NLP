@@ -1,0 +1,106 @@
+382
+
+PHYSICS
+
+ 
+
+Normal modes of a circular membrane rigidly
+clamped to the circumference as in a tabla are
+determined by the boundary condition that no
+point on the circumference of the membrane
+vibrates. Estimation of the frequencies of normal
+modes of this system is more complex. This
+problem involves wave propagation in two
+dimensions. However, the underlying physics is
+the same.
+
+Example 15.5 A pipe. 30.0 cm long. is
+open at both ends. Which harmonic mode
+of the pipe resonates a 1 . 1 kHz source? Will
+resonance with the same source be
+
+observed if one end of the pipe is closed ‘?
+Take the speed of sound in air as
+330 m s".
+
+ 
+
+Answer The ﬁrst harmonic frequency is given
+by
+D D .
+v1 = Tl=ﬁ (open pipe)
+
+where L is the length of the pipe. The frequency
+of its nth harmonic is:
+
+vn= %, forn= 1, 2, 3, (open pipe)
+
+First few modes of an open pipe are shown in
+Fig. 15.15.
+
+(a) (b) (C)
+
+l
+M
+
+£1
+
+Fundamental
+or third fifth
+first harmonic harmonic harmonic
+
+2019-20
+
+(d) (e) (f)
+
+p
+R
+
+I.
+I IOIOIOI
+I 101010101
+
+ 
+
+seventh ninth eleventh
+harmonic harmonic harmonic
+
+Fig. 1 5. 1 4 Normal modes of an air column open at
+one end and closed at the other end. Only
+the odd harmonics are seen to be possible.
+
+For L= 30.0 cm, v = 330 m s*1,
+
+—1
+V =Lﬁns) =550ns‘1
+
+n 0.6 (m)
+Clearly, a source of frequency 1.1 kHz will
+resonate at v2, i.e. the second harmonic.
+
+Now if one end of the pipe is closed (Fig. 1 5. 1 5),
+it follows from Eq. (14.50) that the fundamental
+frequency is
+
+D D ,
+v1 — leﬁ (pipe closed at one end)
+and only the odd numbered harmonics are
+present :
+_ ﬂ _ E d
+3 4L’ v5 4L,an soon.
+
+For L = 30 cm and v = 330 m S'l, the
+fundamental frequency of the pipe closed at one
+end is 275 Hz and the source frequency
+corresponds to its fourth harmonic. Since this
+harmonic is not a possible mode, no resonance
+will be observed with the source, the moment
+one end is closed. 4
+
+15.7 BEATS
+
+‘Beats’ is an interesting phenomenon arising
+from interference of waves. When two harmonic
+sound waves of close (but not equal) frequencies
+
+V

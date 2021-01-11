@@ -1,0 +1,36 @@
+3.4 Multiplication 181
+Faster Multiplication
+Moore's Law has provided so much more in resources that hardware designers can
+now build a much faster multiplication hardware. \Vhether the multiplicand is to
+be added or not is known at the beginning of the multiplication by looking at each
+of the 32 multiplier bits. Faster multiplications are possible by essentially provid 
+ing one 32-bit adder for each bit of the multiplier: one input is the multiplicand
+ANDed with a multiplier bit and the other is the output of a prior adder. Figure
+3.9 shows how they would be connected.
+\Vhy is this much hardware faster? The sequential multiplier pays the overhead
+of a clock for each bit of the product. This multiplier array of adders does not. A
+second reason is this large collection of adders lends itself to many optimizations
+to gain further improvements. One example is using carry save adders to add such
+a large column of numbers; see Exercises 3.24 and 3.49. A third reason is that it is
+easy to pipeline such a design to be able to support many multiplies simulta 
+neously (see Chapter 6).
+Multiply in MIPS
+MIPS provides a separate pair of 32-bit registers to contain the 64-bit product,
+called Hi and Lo. To produce a properly signed or unsigned product, MIPS has
+two instructions: multiply (mul t ) and multiply unsigned (mul t u). To fetch the
+integer 32-bit product, the programmer uses move from 10 (mflo). The MIPS
+assembler generates a pseudoinstruction for multiply that specifies three general 
+purpose registers, generating mfl and mfhi instructions to place the product
+0
+into registers.
+Summary
+Multiplication is accomplished by simple shift and add hardware, derived from
+the paper-and-pencil method lea rned in grammar school. Compilers even use
+shift instructions for multiplications by powers of two.
+Both MIPS multiply instructions ignore overflow, so it is up to the softwa re to Hardware
+check to see if the product is too big to fit in 32 bits. There is no overflow if Hi is 0
+Software
+for mu1t u or the replicated sign of Lo for mu 1t. The instruction move from hi
+Interface
+(mf hi) can be used to transfer Hi to a general-purpose register to test for over 
+flow.

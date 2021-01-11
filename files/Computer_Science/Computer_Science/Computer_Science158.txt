@@ -1,0 +1,37 @@
+142 Chapter 2 Instructions: Language of the Computer
+a. JE EIP + displacement
+4 4 ,
+~~~i- I
+I J E I Displacement I
+,
+b. CALL
+32
+CALL Offset
+c. MOV
+6
+d. PUSH ESI
+5 ,
+~
+I PUSH
+e. ADD EAX, #6765
+4 " ,3,=2-- _
+I FR
+'r_nr_n"_''_"_, _
+ADD
+I. TEST EDX, #42
+_----=,'--- ",,,, _
+7 B1
+TEST Postbyte Immediate
+FIGURE 2.45 TypIcal IA-32 Instruction formats. Figure 2.46 shows the encOOing of the postbyte.
+Many instructions comain the I-bit field w, which says whether the operation is a byte or double word. The d
+field in MOV is U'ied in instructions that fJl.1y move to or from memory and shows the direction of the move.
+The ADD instruction requires 32 bits for the immediate field because in 32-bit mooe the imme&1tes are either
+8 bits or 32 bils. The immediate field in the TEST is 32 bils long bec.1use there is no 8-bit immediate for test in
+32-bit mooe. Overall, instructions may vary from I to 17 bytes in length. The long length comes from extra 1 
+byte prefixes, having both a 4-byte inlmediate and a 4-byte displacement address, U'iing an opcooe of 2 bytes,
+and U'iing the Sl:aled index mode specifier, which adds another byte.
+IA·32 Conclusion
+Intel had a 16-bit microprocessor two years before its competitors' more elegant
+architectures, such as the Motorola 68000, and this headstart led to the selection
+of the 8086 as the CPU for the IBM Pc. Intel engineers generally acknowledge
+that the IA-32 is more difficult to build than machines like MIPS, but the much

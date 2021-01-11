@@ -1,0 +1,68 @@
+Magnetism and
+Mo’r’rer
+
+ 
+
+POINTS TO PONDER
+
+l. A satisfactory understanding of magnetic phenomenon in terms of moving
+charges / currents was arrived at after 1800 AD. But technological
+exploitation of the directional properties of magnets predates this scientific
+understanding by two thousand years. Thus, scientific understanding is
+not a necessary condition for engineering applications. Ideally, science
+and engineering go hand—in—hand, one leading and assisting the other in
+tandem.
+
+2. Magnetic monopoles do not exist. If you slice a magnet in half, you get
+two smaller magnets. On the other hand, isolated positive and negative
+charges exist. There exists a smallest unit of charge, for example, the
+electronic charge with value |e| = 1.6 ><lO~19 C. All other charges are
+integral multiples of this smallest unit charge. In other words, charge is
+quantised. We do not know why magnetic monopoles do not exist or why
+electric charge is quantised.
+
+3. A consequence of the fact that magnetic monopoles do not exist is that
+the magnetic field lines are continuous and form closed loops. In contrast,
+the electrostatic lines of force begin on a positive charge and terminate
+on the negative charge [or fade out at infinity).
+
+4. The earth’s magnetic field is not due to a huge bar magnet inside it. The
+earth's core is hot and molten. Perhaps convective currents in this core
+are responsible for the earth’s magnetic field. As to what ‘dynamo’ effect
+sustains this current, and why the earth’s field reverses polarity every
+million years or so, we do not know.
+
+5. A miniscule difference in the value of x, the magnetic susceptibility, yields
+radically different behaviour: diamagnetic versus paramagnetic. For
+diamagnetic materials )5 = —10”5 whereas 95 = +10'5 for paramagnetic
+materials.
+
+6. There exists a perfect diamagnet, namely, a superconductor. This is a
+metal at very low temperatures. In this case x = —1, ,ur = 0, ,u = 0. The
+external magnetic field is totally expelled. Interestingly, this material is
+also a perfect conductor. However, there exists no classical theory which
+ties these two properties together. A quantum—mechanical theory by
+Bardeen, Cooper, and Schrieffer [BCS theory] explains these effects. The
+BCS theory was proposed in1957 and was eventually recognised by a Nobel
+Prize in physics in 1970.
+
+7. The phenomenon of magnetic hysteresis is reminiscent of similar
+behaviour concerning the elastic properties of materials. Strain
+may not be proportional to stress; here H and B [or M] are not
+linearly related. The stress—strain curve exhibits hysteresis and
+area enclosed by it represents the energy dissipated per unit volume.
+A similar interpretation can be given to the B—H magnetic hysteresis
+curve.
+
+8. Diamagnetism is universal. It is present in all materials. But it
+is weak and hard to detect if the substance is para— or ferromagnetic.
+
+9. We have classified materials as diamagnetic, paramagnetic, and
+ferromagnetic. However, there exist additional types of magnetic material
+such as ferrimagnetic, anti—ferromagnetic, spin glass, etc. with properties
+
+which are exotic and mysterious.
+
+199
+
+2019-20

@@ -1,0 +1,37 @@
+450 Chapter 6 Enhancing Performance with Plpellnlng
+register renaming to remove antidependences. Register renaming requires the processor
+to maintain a map between the architectural registers and the physical registers, indicat 
+ing which physical register is the most current copy of an architectural register. By keeping
+track of the renamings that have occurred, register renaming offers another approach to
+recovery in the event of incorrect speculation: simply undo the mappings that have
+occurred since the first incorrectly speculated instruction. This will cause the state of the
+processor to return to the last correctly executed instruction, keeping the correct mapping
+between the architectural and physical registers.
+Understanding The Pentium 4 combines a deep pipeline (averaging 20 or more pipe stages per
+instruction) and aggressive multiple issue to achieve high performance. By keep 
+Program
+ing the latencies for back-to-back operations low (0 for ALU operations and 2 for
+Performance
+loads), the impact of data dependences is reduced. What are the most serious
+potential performance bottlenecks for programs running on this processor? The
+following list includes some potential performance problems, the last three of
+which can apply in some fo rm to any high-performance pipelined processor.
+• The use of IA-32 instructions that do not map to three or fewer simple mi 
+crooperations
+• Branches that are difficult to predict,causing misprediction stalls and restarts
+when speculation fails
+• Poor instruction locality, which causes the trace cache not to function effec 
+tively
+• Long dependences-typically caused by long-running instructions or data
+cache misses-which lead to stalls
+Performance delays arising in accessing memory (see Chapter 7) that cause the
+processor to stall
+Check Are the following statements true or false?
+Yourself
+1. The Pentium 4 can issue more instructions per clock then the Pentium III.
+2. The Pentium 4 multiple-issue pipeline directly executes IA-32 instructions.
+3. The Pentium 4 uses dynamic scheduling but no speculation.
+4. The Pentium 4 microarchitecture has many more registers than IA-32
+reqUIres.
+5. The Pentium 4 pipeline has fewer stages than the Pentium II I.
+6. The trace cache in the Pentium 4 is exactly the same as an instruction cache.

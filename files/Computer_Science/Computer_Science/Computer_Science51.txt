@@ -1,0 +1,44 @@
+1.6 Concluding Remarks 35
+Where . .. the ENIAC is
+equipped with 18,000
+Concluding Remarks
+vacuum tubes and weighs 30
+tons, computers in the future
+may have 1,000 vaClium
+Although it is difficult to predict exactly what level of cost/performance comput 
+wbes and perhaps weigh just
+ers will have in the future, it's a safe bet that they will be much better than they are
+1
+1 12 tons.
+today. To participate in these advances, computer designers and programmers
+Papillar Mechanics, March
+must understand a wider variety of issues.
+1949
+Both hardware and software designers construct computer systems in hierar 
+chicallayers, with each lower layer hiding details from the level above. This princi 
+ple of abstraction is fundamental to understanding today's computer systems, but
+it does not mean that designers can limit themselves to knowing a single technol 
+ogy. Perhaps the most important example of abstraction is the interface between
+hardware and low-level software, called the instruction set architecture. Maintain 
+ing the instruction set architecture as a constant enables many implementations of
+that architecture-presumably varying in cost and performance-to run identical
+software. On the downside, the architecture may preclude introducing innova 
+tions that require the interface to change.
+Key technologies for modern processors are compilers and silicon. Clearly, to
+participate you must understand some of the characteristics of both. Equal in
+importance to an understanding of integrated circuit technology is an under 
+standing of the expected rates of technological change. While silicon fuels the
+rapid advance of hardware, new ideas in the organization of computers have
+improved price/performance. Two of the key ideas are exploiting parallelism in
+the processor, typically via pipelining, and exploiting locality of accesses to a
+memory hierarchy, typically via caches.
+Road Map for This Book
+At the bottom of these abstractions are the five classic components of a
+computer: datapath, control, memory, input, and output (refer back to Figure
+1.5). These five components also serve as the framework for the rest of the chap 
+ters in this book:
+• Datapath: Chapters 3, 5, and 6
+• Control: Chapters 5 and 6
+• Memory: Chapter 7
+• Inpllt: Chapter 8
+• Outpllt: Chapter 8

@@ -1,0 +1,48 @@
+Accounting for Share Capital 9
+
+Irrespective of the fact that shares are issued at par or at a premium, the
+share capital of a company as stated earlier, may be collected in instalments
+payable at different stages.
+
+1.6 Accounting Treatment
+
+On application :The amount of money paid with various instalment represents
+the contribution to share capital and should ultimately be credited to share
+capital. However, for the sake of convenience, initially individual accounts are
+opened for each instalment. All money received along with application is deposited
+
+with a scheduled bank in a separate account opened for the purpose. The joumal
+entry is as follows:
+
+Bank A/c Dr.
+To Share Application A/c
+(Amount received on application for — shares @ Rs. per share)
+
+On allotment :When minimum subscription has been received and certain legal
+formalities on the allotment of shares have been duly compiled with, the directors
+of the company proceed to make the allotment of shares.
+
+The allotment of shares implies a contract between the company and the
+
+applicants who now become the allottees and assume the status of shareholders
+or members.
+
+Allotment of Shares
+(Implications from accounting point of view)
+
+It is customary to ask for some amount called “Allotment Money" from the
+allottees on the shares allotted to them as soon as the allotment is made.
+
+With the acceptance to the offer made by the applicants, the amount of
+application money received has to be transferred to share capital account as it
+has formally become the part of the same.
+
+The money received on rejected applications should either be fully returned to
+the applicant within period prescribed by law/SEBI.
+
+In case lesser number of shares have to be allotted. than those applied for the
+excess application money must be adjusted towards the amount due on allotment
+from the allottees.
+
+The effect of the later two steps is to close the share application account which
+is only a temporary account for share capital transactions.

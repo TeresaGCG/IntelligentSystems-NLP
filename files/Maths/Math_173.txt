@@ -1,0 +1,22 @@
+Linear Functions and Graphs
+173
+to do it my way, though. You can draw your graphs using your two favorite
+points and compare your graphs to mine. It doesn’t matter which two
+points you plot and connect, as long as the points actually lie on the line
+in question.
+Example 1
+Graph the line given by the equation: y = 2x + 1
+Solution: First, find the y-intercept by
+setting x = 0 and finding y: y = 2⋅ 0 + 1 = 1
+Then find the x-intercept by setting y = 0
+and solving for x:
+Then plot the two intercepts (0, 1) and   and connect the
+points, as shown in Figure 9.5.
+y
+2
+1
+x
+–2 2
+–1
+–2
+Figure 9.5

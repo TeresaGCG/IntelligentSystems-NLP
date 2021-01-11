@@ -1,0 +1,27 @@
+Homework Helpers: Basic Math and Pre-Algebra
+150
+Lesson 8-3 Review
+Solve the following inequalities:
+1. x+ 5< 12 4. 3x> 5
+2. −2>x− 5 5. −4x< 20
+3. 6.
+Lesson 8-4: Solving Inequalities in 2 Steps
+In general, when you want to solve an inequality involving one vari-
+able, the first thing you need to do is move all of the terms that involve
+the variable over to one side of the inequality and move all of the terms
+that don’t involve the variable over to the other side. If, after combining
+all of the terms together, the coefficient in front of the variable is a num-
+ber other than 1, you will need to multiply both sides of the inequality by
+the reciprocal of the coefficient in front of the variable. Hopefully this
+process sounds familiar. It is similar to the method we used to solve
+equalities using two steps.
+Example 1
+Solve the inequality:
+Solution: Subtract 4 from both sides, then multiply by 3, and
+simplify:
+Subtract 4 from both sides
+Simplify
+Multiply both sides by 3
+Simplify x> −36
+The solution is all real numbers greater than −36.
+www.ebook3000.com

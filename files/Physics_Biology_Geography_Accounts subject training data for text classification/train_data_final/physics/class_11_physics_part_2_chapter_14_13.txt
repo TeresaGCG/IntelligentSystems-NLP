@@ -1,0 +1,124 @@
+354
+
+ 
+
+Let 0 be the angle made by the string with
+the vertical. When the bob is at the mean
+position, 9 = 0
+
+There are only two forces acting on the bob;
+the tension T along the string and the vertical
+force due to gravity (=mg). The force mg can be
+resolved into the component mg cost) along the
+string and mg sine perpendicular to it. Since
+the motion of the bob is along a circle of length
+L and centre at the support point, the bob has
+a radial acceleration (wZL) and also a tangental
+acceleration; the latter arises since motion along
+the arc of the circle is not uniform. The radial
+acceleration is provided by the net radial force
+T —mg cosG, while the tangential acceleration is
+provided by mg sine. It is more convenient to
+work with torque about the support since the
+radial force gives zero torque. Torque 1' about
+the support is entirely provided by the tangental
+component of force
+
+1 = —L (mg sine) (14.22)
+
+This is the restoring torque that tends to reduce
+angular displacement — hence the negative
+sign. By Newton’s law of rotational motion,
+
+1' = ICC (14.23)
+
+where I is the moment of inertia of the system
+about the support and 0L is the angular
+acceleration. Thus,
+
+I a: —mg sin 0 L (14.24)
+
+Or,
+
+mgL
+
+a = — sin6 (14.25)
+
+ 
+
+We can simplify Eq. (14.25) if we assume that
+the displacement 9 is small. We know that sin 9
+can be expressed as,
+
+sing: 0—£+i+m (14.26)
+
+3! 5! _
+where 6 is in radians.
+
+Now if 0 is small, sin 9 can be approximated
+by 0 and Eq. (14.25) can then be written as,
+
+mgL
+‘1 = —T‘9 (14.27)
+
+In Table 14.1, we have listed the angle 9 in
+degrees, its equivalent in radians, and the value
+
+2019-20
+
+PHYSICS
+
+Sl-IM - how small should the amplitude be?
+
+When you perform the experiment to
+determine the time period of a simple
+pendulum, your teacher tells you to keep
+the amplitude small. But have you ever
+asked how small is small? Should the
+amplitude to 5°, 2°, 1°. or 05°? Or could it
+be 10°. 20°, or 30°?
+
+To appreciate this. it would be better to
+measure the time period for different
+amplitudes, up to large amplitudes. Of
+course, for large oscillations, you will have
+to take care that the pendulum oscillates
+in a vertical plane. Let us denote the time
+period for small-amplitude oscillations as
+T(0) and write the time period for amplitude
+00 as ’1190) = cT(0). where cis the multiplying
+factor. If you plot a graph of c versus 00.
+you will get values somewhat like this:
+
+20° 45° 50° 700 90°
+1.02 1.04 1.05 1.10 1.18
+
+This means that the error in the time
+period is about 2% at an amplitude of 20°.
+
+5% at an amplitude of 50°. and 10% at an
+
+amplitude of 70° and 18% at an amplitude
+of 90°.
+
+In the experiment. you will never be able
+to measure T(0) because this means there
+are no oscillations. Even theoretically,
+sin 0 is exactly equal to 0 only for 6 = 0.
+There will be some inaccuracy for all other
+values of 0 . The difference increases with
+increasing 9 . Therefore we have to decide
+how much error we can tolerate. No
+measurement is ever perfectly accurate.
+You must also consider questions like
+these: What is the accuracy of the
+stopwatch? What is your own accuracy in
+starting and stopping the stopwatch? You
+will realise that the accuracy in your
+measurements at this level is never better
+than 5% or 10%. Since the above table
+shows that the time period of the pendulum
+increases hardly by 5% at an amplitude of
+50° over its low amplitude value. you could
+very well keep the amplitude to be 50° in
+your experiments.

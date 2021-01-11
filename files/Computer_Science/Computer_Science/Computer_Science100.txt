@@ -1,0 +1,33 @@
+84 Chapter 2 Instructions: Language of the Computer
+The parameter variable n corresponds to the argument register $aO. The
+ANSWER
+compiled program starts with the label of the procedure and then saves two
+registers on the stack, the return address and $a0:
+fact :
+addi $sp , $sp , - 8 # adjust stack for 2 items
+sw $ra , 4($sp) # save the return address
+sw $aO , O($sp) # save the argument n
+The first time fact is called, sw saves an address in the program that called
+f act. The next two instructions test if n is less than 1, going to Ll if n ;::.: 1.
+<
+slti HO,$aO,1 It test for n 1
+beq HO,$zero,Ll It if n ) = 1 , go to Ll
+If n is less than 1, fact returns 1 by putting 1 into a value register: it adds 1
+to 0 and places that sum in $vO. It then pops the two saved values off the
+stack and jumps to the return address:
+addi hO , $zero , 1 It return 1
+addi $sp , $sp , 8 It pop 2 items off stack
+Jr Ira It return to after jal
+°
+Before popping two items off the stack, we could have loaded $a and $ra. Since
+°
+$a and $ra don't change when n is less than 1, we skip those instructions.
+If n is not less than 1, the argument n is decremented and then fact is
+called again with the decremented value:
+Ll : addi$aO , $aO , - 1 It n ) = 1 : argument gets (n - 1)
+jalfact It call fact with (n - 1)
+The next instruction is where fact returns. Now the old return address and
+old argument are restored, along with the stack pointer:
+1w $aO, O($sp) It return from jal : restore argument n
+1w $ra, 4($sp) It restore the return address
+addi $sp, $sp ,8 It adjust stack pointer to pop 2 items

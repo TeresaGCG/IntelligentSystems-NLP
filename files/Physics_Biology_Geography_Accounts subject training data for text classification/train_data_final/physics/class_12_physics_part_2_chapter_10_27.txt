@@ -1,0 +1,57 @@
+378
+
+ 
+
+l Physics
+
+EXAMPLE 10.8
+
+ 
+
+by P2 followed by P1 is nearly zero. When turned by 90° from this position,
+P1 transmits nearly the full intensity emerging from P2 (Fig. 10.22).
+
+P2 P2 P2
+P1 P1 P1
+(a)
+(13)
+
+FIGURE 10.22 (a) Passage of light through two polaroids P2 and PI. The
+transmitted fraction falls from 1 to 0 as the angle between them varies
+from 0° to 90°. Notice that the light seen through a single polaroid
+Pl does not vary with angle. (b) Behaviour of the electric vector
+when light passes through two polaroids. The transmitted
+
+polarisation is the component parallel to the polaroid axis.
+The double arrows show the oscillations of the electric vector.
+
+The above experiment can be easily understood by assuming that
+light passing through the polaroid P2 gets polarised along the pass-axis
+of P2. If the pass-axis of P2 makes an angle 0 with the pass-axis of P1,
+then when the polarised beam passes through the polaroid P2, the
+component E cos 0 (along the pass-axis of P2) will pass through P2.
+Thus, as we rotate the polaroid P1 (or P2), the intensity will vary as:
+
+1= 10 cos26 (10.35)
+
+where I0 is the intensity of the polarized light after passing through
+P1. This is known as Malus’ law. The above discussion shows that the
+intensity coming out of a single polaroid is half of the incident intensity.
+By putting a second polaroid, the intensity can be further controlled
+from 50% to zero of the incident intensity by adjusting the angle between
+the pass-axes of two polaroids.
+
+Polaroids can be used to control the intensity, in sunglasses,
+windowpanes, etc. Polaroids are also used in photographic cameras and
+3D movie cameras.
+
+Example 10.8 Discuss the intensity of transmitted light when a
+polaroid sheet is rotated between two crossed polaroids?
+
+Solution Let IO be the intensity of polarised light after passing through
+the first polariser P1. Then the intensity of light after passing through
+second polariser P2 will be
+
+I = Iocoszﬁ,
+
+2019-20

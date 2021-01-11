@@ -1,0 +1,33 @@
+Homework Helpers: Basic Math and Pre-Algebra
+32
+In order to evaluate an expression that involves both multiplication
+and addition you need to use the order of operations. Consider the prob-
+lem 7 × (5+ 3). Using the order of operations, we would add 5 and 3 first
+because of the parentheses (to get 8) and then multiply 7 and 8 together
+to get 56. I would get the same result if I added the products 7 × 5 and
+7 × 3 together: 35 + 21 = 56. This isn’t just a coincidence. It will always
+happen.
+The distributive property allows us to evaluate expressions such as
+7 × (5 + 3) in more than one way. The distributive property is stated in
+general terms using variables. If a, b, and c are any numbers, the dis-
+tributive property states that:
+a × (b + c) = a × b + a × c
+We say that multiplication distributes over addition. The distributive
+property can be used to make calculations easier, as we will see in the
+examples. Sometimes it is easier to find the sum of two products using
+the distributive property than it is to find one product directly.
+Example 1
+Use the distributive property to calculate 25 × 104.
+Solution:
+25 × 104 = 25 × (100+ 4)
+= 25 × 100+ 25 × 4
+= 2,500 + 100
+= 2,600
+Example 2
+Use the distributive property to calculate 4 × 508
+Solution:
+4 × 508 = 4 × (500+ 8)
+= 4 × 500+ 4 × 8
+= 2,000 + 32
+= 2,032
+www.ebook3000.com

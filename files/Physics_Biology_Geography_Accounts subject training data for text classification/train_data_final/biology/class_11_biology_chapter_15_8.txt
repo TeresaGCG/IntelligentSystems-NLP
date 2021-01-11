@@ -1,0 +1,66 @@
+PLANT GROWTH AND DEVELOPMENT
+
+Thus, growth, differentiation and development are very closely related
+events in the life of a plant. Broadly, development is considered as the
+sum of growth and differentiation. Development in plants (i.e., both growth
+and differentiation) is under the control of intrinsic and extrinsic factors.
+The former includes both intracellular (genetic) or intercellular factors
+(chemicals such as plant growth regulators) while the latter includes light,
+temperature, water, oxygen, nutrition, etc.
+
+15.4 PLANT GROWTH REGULATORS
+
+15.4. 1 Characteristics
+
+The plant growth regulators (PGRs) are small, simple molecules of diverse
+chemical composition. They could be indole compounds (indole-3-acetic
+acid, 1AA); adenine derivatives (Ne-furfurylamino purine, kinetin),
+derivatives of carotenoids (abscisic acid, ABA); terpenes (gibberellic acid,
+GA3) or gases (ethylene, CZH4). Plant growth regulators are variously
+described as plant growth substances, plant hormones or phytohormones
+in literature.
+
+The PGRs can be broadly divided into two groups based on their
+functions in a living plant body. One group of PGRs are involved in growth
+promoting activities, such as cell division, cell enlargement, pattern
+formation, tropic growth, ﬂowering, fruiting and seed formation. These
+are also called plant growth promoters, e.g., auxins, gibberellins and
+cytokinins. The PGRs of the other group play an important role in plant
+responses to wounds and stresses of biotic and abiotic origin. They are
+also involved in various growth inhibiting activities such as dormancy
+and abscission. ’Ihe PGR abscisic acid belongs to this group. The gaseous
+PGR, ethylene, could ﬁt either of the groups, but it is largely an inhibitor
+of grth activities.
+
+15.4.2 The Discovery of Plant Growth Regulators
+
+Interestingly, the discovery of each of the ﬁve
+major groups of PGRs have been accidental.
+All this started with the observation of Charles
+Darwin and his son Francis Darwin when they
+observed that the coleoptiles of canary grass
+responded to unilateral illumination by
+growing towards the light source
+(phototropism). After a series of experiments,
+it was concluded that the tip of coleoptile was
+the site of transmittable inﬂuence that caused
+
+ 
+
+E] 13 P
+a b c
+
+d
+
+247
+
+ 
+
+the bending of the entire coleoptile (Figure Figure 15.10 Experiment used to demonstrate
+
+1 5. 10). Auxin was isolated by F.W. Went from
+
+tips of coleoptiles of oat seedlings. direction of light
+
+that tip of the coleoptile is the
+source of auxin. Arrows indicate

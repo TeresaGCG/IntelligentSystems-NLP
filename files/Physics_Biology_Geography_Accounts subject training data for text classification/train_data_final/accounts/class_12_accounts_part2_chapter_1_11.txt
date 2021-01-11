@@ -1,0 +1,61 @@
+1 2 Accountancy : Company Accounts andAnalysis of Financial Statements
+
+Another point to be noted is that the words ‘and Final' will also be added to the
+last call, say, if second call is the last call it will be termed as ‘Second and Final
+Call' and if it is the third call which is the last call. it will be termed as ‘Third and
+Final Call'. It is also possible that the whole balance after allotment may be
+collected in one call only. In that case the ﬁrst call itself, shall be termed as the
+‘First and Final Call'.
+
+The following points should be kept in mind while issuing the share capital for
+public subscription :
+
+1. The application money should be at least 5% of the face value of the share.
+2. Calls are to be made as per the provisions of the articles of association.
+
+3. Where there is no articles of association of its own. the following provisions
+of Table A will apply:
+
+(a) A period of one month must elapse between two calls;
+
+(b) The amount of call should not exceed 25% of the face value of the share;
+
+(0) A minimum of 14 days' notice is given to the shareholders to pay the
+amount: and
+
+(d) Calls must be made on a uniform basis on all shares within the same
+class.
+
+4. The procedure for accounting for the issue of both equity and preference shares
+is the same. To differentiate between the two the words ‘Equity’ and ‘Preference’
+is preﬁxed to each and every instalment.
+
+ 
+
+Illustration 1
+
+Mona Earth Mover Limited decided to issue 12,000 shares of Rs. 100 each
+payable at Rs.30 on application, Rs.40 on allotment. Rs.20 on ﬁrst call and
+balance on second and ﬁnal call. Applications were received for 13,000 shares.
+The directors decided to reject application of 1,000 shares and their application
+money being refunded in full. The allotment money was duly received on all the
+shares, and all sums due on calls are received except on 100 shares.
+
+Record the transactions in the books of Mona Earth Movers Limited
+
+Solution
+Books of Mona Earth Mover Limited
+Journal
+
+Date Particulars Credit
+Amount Amount
+
+Bank A/c 3.90.000
+To Share Application A/c 3.90.000
+(Application money on 13.000 shares @ Rs.30
+
+per share received)
+
+Share Application A/c Dr. 3.60.000
+To Share Capital A/c 3.60.000
+(Application money transferred to share capital)

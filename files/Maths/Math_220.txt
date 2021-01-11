@@ -1,0 +1,29 @@
+Homework Helpers: Basic Math and Pre-Algebra
+220
+Simplify
+Subtract 10 from both sides
+Simplify
+Divide both sides of the equation by 7
+Simplify
+Add 8 to both sides of the equation
+Simplify
+The integer is 13.
+Lesson 12-2 Review
+Solve the following problems:
+1. Six more than 5 times an integer is 41. Find the integer.
+2. Five less than twice an integer is the same as 3 times the integer.
+Find the integer.
+3. Take an integer and add 2, multiply the result by 5 and divide that
+result by 3. If the result is 10, find the original integer.
+Lesson 12-3: Rate Problems
+Rate problems revolve around the idea that rate times time equals
+distance. If r represents the rate, t is the time, and d represents the dis-
+tance, then this equation can be written
+r⋅ t=d
+You are usually given values for two of the three quantities and are asked
+to find the third.
+Example 1
+Amy plans to drive 520 miles to Port Orange, Florida, to visit
+with her nephew. If she drives at a rate of 65 miles per hour, how
+long will it take her to make the trip?
+www.ebook3000.com

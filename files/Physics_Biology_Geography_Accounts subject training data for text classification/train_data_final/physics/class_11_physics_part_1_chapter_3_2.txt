@@ -1,0 +1,90 @@
+MOTION IN A STRAIGHT LINE
+
+41
+
+ 
+
+negative sign indicates the direction of
+displacement. Thus, it is not necessary to use
+vector notation for discussing motion of objects
+in one-dimension.
+
+The magnitude of displacement may or may
+not be equal to the path length traversed by
+an object. For example, for motion of the car
+from O to P, the path length is +360 m and the
+displacement is +360 m. In this case, the
+magnitude of displacement (360 m) is equal to
+the path length (360 m). But consider the motion
+of the car from O to P and back to Q. In this
+case, the path length = (+360 m) + (+120 m) = +
+480 m. However, the displacement = (+240 m) —
+(0 m) = + 240 m. Thus, the magnitude of
+displacement (240 m) is not equal to the path
+length (480 m).
+
+The magnitude of the displacement for a
+course of motion may be zero but the
+corresponding path length is not zero. For
+example, if the car starts from 0, goes to P and
+
+x
+(m)
+
+40
+20
+0
+10 20 30 40 50 60 t(S)
+
+(a)
+
+then returns to O, the final position coincides
+with the initial position and the displacement
+is zero. However, the path length of this journey
+isOP+PO=360m+ 360m=720m.
+
+Motion of an object can be represented by a
+position-time graph as you have already learnt
+about it. Such a graph is a powerful tool to
+represent and analyse different aspects of
+motion of an object. For motion along a straight
+line, say X-axis, only x—coordinate varies with
+time and we have an x—t graph. Let us first
+consider the simple case in which an object is
+stationary, e. g. a car standing still at x = 40 m.
+The position-time graph is a straight line parallel
+to the time axis, as shown in Fig. 3.2(a).
+
+If an object moving along the straight line
+covers equal distances in equal intervals of
+time, it is said to be in uniform motion along a
+straight line. Fig. 3.2(b) shows the position-time
+graph of such a motion.
+
+X
+(m)
+
+0
+t(s)
+(b)
+
+Fig. 3.2 Position-time graph of (a) stationary object, and (b) an object in umfom motion.
+
+350
+T
+
+X300
+[W250
+200
+150
+100
+50
+o
+
+0246810121416182022
+
+t(s) ->
+
+Fig. 3.3 Position-time graph of a car.
+
+2019-20

@@ -1,0 +1,39 @@
+7.4 Virtual Memory 537
+operating system can change the address translations, which is implemented by
+preventing user programs from changing the page tables. Controlled sharing of
+pages among processes can be implemented with the help of the operating sys 
+tem and access bits in the page table that indicate whether the user program has
+read or write access to a page.
+If a processor had to access a page table resident in memory to translate every
+access, virtual memory would have too much overhead and caches would be
+pointless! Instead, a TLB acts as a cache for translations from the page table.
+Addresses are then translated from virtual to physical using the translations in
+the TLB.
+Caches, virtual memory, and TLBs all rely on a common set of principles and
+policies. The next section discusses this common framework.
+Although virtual memory was invented to enable a small memory to act as a Understanding
+large one, the performance difference between disk and memory means that if
+Program
+a program routinely accesses more virtual memory than it has physical mem  
+Performance
+ory it will run very slowly. Such a program would be continuously swapping
+pages between memory and disk, called thrashing. Thrashing is a disaster if it
+occurs, but it is rare. If your program thrashes, the easiest solution is to run it
+on a computer with more memory or buy more memory for your computer. A
+more complex choice is to reexamine your algorithm and data structures to
+see if you can change the locality and thereby reduce the number of pages that
+your program uses simultaneously. This set of pages is informally called the
+working set.
+A more common performance problem is TLB misses. Since a TLB might han 
+dle only 32-64 page entries at a time, a program could easily see a high TLB miss
+rate, as the processor may access less than a quarter megabyte directly: 64 X 4 KB
+= 0.25 MB. For example, TLB misses are often a challenge for Radix Sort. To try to
+alleviate this problem, most computer architectures now support variable page
+sizes. For example, in addition to the standard 4 KB page, MIPS hardware sup 
+ports 16 KB, 64 KB, 256 KB, 1 MB, 4 MB, 16 MB, 64 MB, and 256 MB pages.
+Hence, if a program uses large page sizes, it can access more memory directly
+without TLB misses.
+The practical challenge is getting the operating system to allow programs to
+select these larger page sizes. Once again, the more complex solution to reducing
+TLB misses is to reexamine the algorithm and data structures to reduce the work 
+ing set of pages.

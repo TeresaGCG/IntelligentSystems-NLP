@@ -1,0 +1,71 @@
+64
+
+Accountancy : Company Accounts and Analysis of Financial Statements
+
+balance of Share forfeiture account relating to shares being reissued. Therefore,
+discount allowed on the reissue of forfeited shares is debited to Share forfeiture
+account.
+
+Once all the forfeited shares have been reissued, any credit balance on Share
+forfeiture account is transferred to Capital Reserve representing proﬁt on forfeiture
+of shares. In the event of all forfeited share not being reissued, the credit amount
+on Share forfeiture account relating to shares yet to be reissued is carried forward
+and the remaining balance on the account only is credited to capital reserve
+account.
+
+Question for Practice
+
+Short Answer Questions
+
+@NQWFPP?‘
+
+What is public company?
+
+What is a private company.
+
+When can shares be Forfeited?
+
+What is meant by Calls in Arrears?
+
+What do you mean by a listed company?
+What are the uses of securities premium?
+What is meant by Calls in Advance?
+
+Write a brief note on “Minimum Subscription".
+
+Long Answer Questions
+
+1.
+2.
+
+3.
+
+10.
+
+What is meant by the word ‘Company‘? Describe its characteristics.
+Explain in brief the main categories in which the share capital of a company
+is divided.
+
+What do you mean by the term ‘share’? Discuss the type of shares, which
+can be issued under the Companies Act, 2013 as amended to date.
+Discuss the process for the allotment of shares of a company in case of over
+subscription.
+
+What is a ‘Preference Share’? Describe the different types of preference
+shares.
+
+Describe the provisions of law relating to ‘Calls in Arrears’ and ‘Calls in
+Advance’.
+
+Explain the terms ‘Over subscription’ and ‘Under subscription’. How are
+they dealt with in accounting records?
+
+Describe the purposes for which a company can use the amount of Securities
+Premium.
+
+State clearly the conditions under which a company can issue shares at a
+discount.
+
+Explain the term ‘Forfeiture of Shares’ and give the accounting treatment
+
+on forfeiture.

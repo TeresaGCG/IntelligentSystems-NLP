@@ -1,0 +1,38 @@
+Index
+Index
+CD information is listed by chapter translation, 512, 521-524 and (AND), 70, 301, 321, B6
+and section number followed by page virnlal,512 AND gate, CD3.1O:5
+ranges (CD9. 1:1-2). In More Depth Addressing, MIPS and immediate, 71
+references are listed by chapter num  branches and jumps, 97- 99, 294-295 Andreessen, Marc, CD8.11;7
+ber followed by page ranges (lMD4:5  decoding machine language, 100--104 Antidependence, 439
+6). Page references preceded by a sin  mode summary, 100 Antifuse, B77
+gle letter refer to appendices. 32-bit immediate operands, 95--96 Antilock brakes, 281
+Addressing modes Apple II, CDI.7:5
+A IA-32,138 Application binary interface (ABl), 22
+MIPS, 100 Applications software, II
+Absolute addresses, AI3 RISC, D5-9 Archeological sites, 236--237
+Abstractions, 21-22, 24 add unsigned, 172 Architectural registers, 448
+Accumulator architecnlres, CD2.19: 1-2 Advanced Research Project Agency Architecture. See Instruction set
+Accumulator instructions, IMD2:7 (ARPA), CD7.9;9, CD8.3:5, ardlitecture
+Acronyms, 9--10 CD8.11;7 Arithmetic
+ACS, CD6.13A Advance load, 442 addition, 170-176
+Activation record, 86 Agarwala, Tilak, CD6.13:4 division, 183-189
+Active matrix display, 18 Aho, AI, CD2.19:8 fallacies and pitfalls, 220-224
+Ada, 173 Aiken, Howard, CD 1.7:3 floating point, 189, 191-220
+add,49--51,301 Air bags, 281 mean, 257-258
+Adder, 292 Algol, CD2.19;6--7 multiplication, 176--182
+add immediate, 58 Aliasing, 528 signed and unsigned numbers,
+add immediate unsigned, 172 Alignment restriction, 56 160-170
+Addition, 170-176 Allan, Fran, CD2.19:8 subtraction, 170-176
+carry lookahead, B38--47 Allocate-on-miss, 484 Arithmetic-logical instructions,
+floating point, 197-20 I Alpha architecnlre, CD5.12:3, D27-28 292- 293,298
+Address (addressing) Alto, 16, CDI.7:7-8, CD7.9: 10, CD8.11:7 multiple-cycle implementation,
+absolute, AI3 ALU. See Arithmetic logic unit 327,329
+base, 55 ALUOp, 301-305 single-cycle implementation, 300--318
+calculation, 385, 390, 392, 402 ALUOut, 319, 320, 327 Arithmetic logic unit (ALU), 177, 179,
+exception, 342-343 AMD,136 184,187,201
+in large-scale parallel processors, Amdahl, Gene, CD5.12: I adders and, 292, 294
+CD9.4:23- 25 Amdahl's law, 179,267,494, CD9.2;9, ALVOp, 301-305
+memory,54 CD9.9:40, IMD4:5-6 ALVOut, 319, 320, 327
+PC-relative, 98 AMD Opteron, memory hierarchy, constructing, B26-38
+physical, 511,512,513-514 546--550 control, 301-303, C4-8

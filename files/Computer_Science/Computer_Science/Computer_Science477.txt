@@ -1,0 +1,51 @@
+IF.Flustl
+... Hazard
+dotIectlon
+r
+/-- "-""- /
+'-.
+'"",
+"
+r l ' - H- - - - - - - - ,
+'"
+~ ,~~
+- ~
+'--+-I '----,-+1-1 ." • - '1-,.-----,
+_ 1'\
+r Control
+r
+~ M~
+O~, _
+V >. ~ EX L... M WB-
+- f- -
+•
+V
+~"
+lef1 2
+ 
+-
+-
+Registers
+f~·I'nstruct'on I- y " +--1 •
+"
+memory
+momory
+,
+"
+-I
+Ll
+Sign
+..."'ndr
+-
+r
+•
+,
+"
+-
+forwarding
+unit
+FIGURE 6.54 Datapath for branch, Including hardware to flush the Instruction that follows the branch. ThIS optImIZatIon moves the branch
+decision from the fourth pipeline stage to the second; onlyone instruction thm follows the branch wm be in the pipe m thm time. The comrolline IEFlush turns
+the fetched instruction into a nop by zeroing the IFlID pipeline register. Although the flush line is shown coming from the control unit in this figure, in reality it
+comes from hardware that determines if a branch is taken, l1beled with an equal sign to the right of the registers in the ID stage. The forwarding muxes and p.1ths
+must also be added to this stage, but are not shown to simplify the figure.

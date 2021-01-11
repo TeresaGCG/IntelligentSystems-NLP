@@ -1,0 +1,43 @@
+Recording of Transactions — II 101
+
+Sold goods to Kamal for cash
+Paid monthly rent
+
+Paid salary
+Deposited in bank
+
+ 
+
+Roopa Traders
+
+Cash Book
+Dr. Cr.
+? ?
+
+    
+
+Balance b / d Insurance
+Gurmeet Furniture
+Sales Purchases
+Sales . Stationery
+Rukmani
+
+Balance 0 / d
+
+Balance b / d
+
+Posting of the Single Column Cash Book
+
+As evident from figure 4.1, the left side of the cash book shows the receipts of
+the cash whereas the right side of the cash book shows all the payments
+made in cash. The accounts appearing on then debit side for the cash book
+are credited in the respective ledger accounts because cash has been received
+in respect of them. Thus, in our example, an entry ‘cash received from Gurmeet’
+appears on the debit side of the cash book conveys that the cash has been
+received from Gurmeet. Therefore, in the ledger, Gurmeet’s account will be
+credited by writing ‘Cash’ in the particulars column on the credit side. Similarly,
+all the account names appearing on the credit side of the cash book are debited
+as cash/ cheque has been paid in respect of them. Now, notice, how the
+transactions in our example are posted to the related ledger accounts:
+
+2019-2020

@@ -1,0 +1,60 @@
+2.10 Translating and Starting a Program 111
+Executable file header
+Text size 300
+ne<
+Data size 50..
+Text segment Address Instruction
+00400000""" lw SaO. 8000h•x(Sgp)
+00400004""" j" 40 OIOOh.x
+... -
+00400100""" sw Sal. 8020h•x(Sgp)
+00400104""" j" 40 OOOOh.x
+...
+Data segment Address
+m
+10000000"""
+...
+m
+10000020"""
+... ...
+From Figure 2.1 7 on page 87, we know that the text segment starts at address
+40 and the data segment at 1000 The text of procedure A
+OOOOhex OOOOhex'
+is placed at the first address and its data at the second. The object file header
+for procedure Asays that its text is bytes and its data is 20 bytes, so
+l OOhex
+hex
+the starting address for procedure B text is 40 0100 and its data starts at
+,
+hex
+10000020
+'
+hex
+Now the linker updates the address fields of the instructions. It uses the
+instruction type field to know the format of the address to be edited. We have
+two types here:
+I. The j a 1s are easy because they use pseudodirect addressing. The j a 1 at
+address 40 0004 gets 40 0100 (the address of procedure B) in its
+hex hex
+address field, and the j a1 at 40 0104 gets 40 (the address
+OOOOhex
+hex
+of procedure A) in its address field.
+2. The load and store addresses are harder because they are relative to a
+base register. This example uses the global pointer as the base register.
+Figure 2.1 7 shows that $gp is initialized to 1000 8000 To get the
+'
+hex
+address 1000 (the address of word X), we place 8000 in the
+OOOO hex
+hex
+address field of 1w at address 40 Chapter 3 explains 16-bit
+OOOOhex'
+two's complement computer arithmetic, which is why 8000 in the
+hex
+address field yields 1000 as the address. Similarly, we place
+OOOOhex
+8020 in the address field of swat address 40 0100 to get the
+hex hex
+address 1000 0020 (the address of word Y).
+hex

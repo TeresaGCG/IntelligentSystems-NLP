@@ -1,0 +1,42 @@
+258 Chapter 4 Assessing and Understanding Performance
+where Time; is the execution time for the ith program of a total of n in the work 
+load. Since it is the mean of execution times, a smaller mean indicates a smaller
+average execution time and thus improved performance.
+The arithmetic mean is proportional to execution time, assuming that the pro 
+grams in the workload are each run an equal number of times. Is that the right
+workload? If not, we can assign a weighting factor wi to each program to indicate
+the frequency of the program in that workload. If, for example, 20% of the tasks in
+the workload were program 1 and 80% of the tasks in the workload were program
+weighted arithmetic mean
+2, then the weighting factors would be 0.2 and 0.8. By summing the products of
+An average of the execution
+weighting factors and execution times, we can obtain a clear picture of the perfor 
+time of a workload with weight 
+mance of the workload. This sum is called the weighted arithmetic mean. One
+ing factors designed to reflect
+method of weighting programs is to choose weights so that the execution time of
+the presence of the programs in
+a workload; computed as the each benchmark is equal on the computer used as the base. The standard arith 
+sum of the products of weight  metic mean is a special case of the weighted arithmetic mean where all weights are
+ing factors and execution times.
+equal. We explore the weighted mea n in more detail in Exercises 4.1 5 and 4.1 6.
+Check
+1. Suppose you are choosing between four different desktop computers: one is
+Yourself an Apple Macintosh and the other three are PC-compatible computers that
+use a Pentium 4, an AMD processor (using the same compiler as the Pen 
+tium 4), and a Pentium 5 (which does not yet exist in 2004 but has the same
+architecture as the Pentium 4 and uses the same compiler). \Vhich of the
+following statements are true?
+a. The fastest computer will be the one with the highest clock rate.
+b. Since all PCs use the same Intel-compatible instruction set and execute
+the sa me number of instructions for a program, the fastest PC will be
+the one with the highest clock rate.
+c. Since AMD uses different techniques than Intel to execute instructions,
+they may have different CPIs. But, you can still tell which of the two
+Pentium-based PCs is fastest by looking at the clock rate.
+d. Only by looking at the results of benchmarks for tasks similar to your
+workload can you get an accurate picture of likely performance.
+2. Assume the following measurements of execution time were taken:
+~I ====-;~":=:====
+Computer A Computer B
+==""":'":":":===

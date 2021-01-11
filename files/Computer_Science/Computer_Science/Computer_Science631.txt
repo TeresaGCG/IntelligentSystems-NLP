@@ -1,0 +1,41 @@
+615
+8.12 Exercises
+term high speed is applied to a network, it is the bandwidth that is higher, not nec 
+essarily the velocity of the electrical signals. How much of a factor is the actual
+"flight time" for the electrical signals? Consider two computers that are 20 meters
+apart and two computers that are 2000 kilometers apart. Compare your results to
+the latencies reported in the example on page 8.3-7 in " Section 8.3.
+8.11 [5J <§8.3> The number of bytes in transit on a network is defined as the
+flight time (described in Exercise 8.10) multiplied by the delivered bandwidth. Cal 
+culate the number of bytes in transit for the two networks described in Exercise
+8.1 0, assuming a delivered bandwidth of 6 MB/sec.
+8.12 [5 <§8.3> Asecret agency simultaneously monitors 100 cellular phone con 
+J
+versations and multiplexes the data onto a network with a bandwidth of 5 MB/sec
+and an overhead latency of 150 ps per 1 KB message. Calculate the transmission
+time per message and determine whether there is sufficient bandwidth to support
+this application. Assume that the phone conversation data consists of 2 bytes sa m 
+pled at a rate of 4 KHz.
+8.13 [5 <§8.3> Wireless networking has a much higher bit error rate (BER) than
+J
+wired networking. One way to cope with a higher BER is to use an error correcting
+code (ECC) on the transmitted data. A very simple ECC is to triplicate each bit,
+encoding each zero as 000 and each one as 111. When an encoded 3-bit pattern is
+received, the system chooses the most likely original bit.
+a. If the system received 00 1, what is the most likely value of the original bit?
+b. If 000 was sent but a double-bit error causes it to be received as 110, what
+will the receiver believe was the original bit's value?
+c. How many bit errors can this simple ECC correct?
+d. How many bit errors can this ECC detect?
+e. If l out of every 100 bits sent over the network is incorrect, what percentage
+of bit errors would a receiver using this ECC not detect?
+8.14 [5 <§8.3> There are two types of parity: even and odd. Abinary word with
+J
+even parity and no errors will have an even number of Is in it, while a word with
+odd parity and no errors will have an odd number of 1's in it. Compute the parity
+bit for each of the following 8-bit words ifeven parity is used:
+a. 0 1100111
+b. 0 1010101
+8.15 [ 101<,8.3>
+a. If a system uses even parity, and the word 0111 is read from the disk, can we
+tell if there is a single-bit error?

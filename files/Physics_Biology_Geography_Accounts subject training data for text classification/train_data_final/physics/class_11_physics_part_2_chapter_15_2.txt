@@ -1,0 +1,98 @@
+WAV ES
+
+369
+
+ 
+
+In solids, similar arguments can be made. In
+a crystalline solid, atoms or group of atoms are
+arranged in a periodic lattice. In these, each
+atom or group of atoms is in equilibrium, due to
+forces from the surrounding atoms. Displacing
+one atom, keeping the others fixed, leads to
+restoring forces, exactly as in a spring. So we
+can think of atoms in a lattice as end points,
+with springs between pairs of them.
+
+In the subsequent sections of this chapter
+we are going to discuss various characteristic
+properties of waves.
+
+15.2 TRANSVERSE AND LONGITUDINAL
+WAVES
+
+We have seen that motion of mechanical waves
+involves oscillations of constituents of the
+medium. If the constituents of the medium
+oscillate perpendicular to the direction of wave
+propagation, we call the wave a transverse wave.
+If they oscillate along the direction of wave
+propagation, we call the wave a longitudinal
+wave.
+
+Fig.15.2 shows the propagation of a single
+pulse along a string, resulting from a single up
+and down jerk. If the string is very long compared
+
+ 
+
+Fig. 1 5.2 When a pulse travels along the length of a
+stretched string (x—direction), the elements
+of the string oscillate up and down (y—
+direction)
+
+to the size of the pulse, the pulse will damp out
+before it reaches the other end and reﬂection
+from that end may be ignored. Fig. 15.3 shows a
+similar situation, but this time the external
+agent gives a continuous periodic sinusoidal up
+and down jerk to one end of the string. The
+resulting disturbance on the string is then a
+sinusoidal wave. In either case the elements of
+the string oscillate about their equilibrium mean
+
+Harmonic —> L x
+
+wave
+
+ 
+
+Fig. 1 5.3 A harmonic (sinusoidal) wave travelling
+along a stretched string is an example of a
+transverse wave. An element of the string
+in the region of the wave oscillates about
+its equilibrium position perpendicular to the
+direction of wave propagation.
+
+position as the pulse or wave passes through
+them. The oscillations are normal to the
+direction of wave motion along the string, so this
+is an example of transverse wave.
+
+We can look at a wave in two ways. We can fix
+an instant of time and picture the wave in space.
+This will give us the shape of the wave as a
+whole in space at a given instant. Another way
+is to ﬁx a location i.e. fix our attention on a
+particular element of string and see its
+oscillatory motion in time.
+
+Fig. 15.4 describes the situation for
+longitudinal waves in the most familiar example
+of the propagation of sound waves. A long pipe
+filled with air has a piston at one end. A single
+sudden push forward and pull back of the piston
+will generate a pulse of condensations (higher
+density) and rarefactions (lower density) in the
+medium (air). If the push-pull of the piston is
+continuous and periodic (sinusoidal), a
+
+ 
+
+Fig. 1 5.4 Longitudinal waves (sound) generated in a
+pipe ﬁlled with air by moving the piston up
+and down. A volume element of air oscillates
+in the direction parallel to the direction of
+wave propagation.
+
+2019-20

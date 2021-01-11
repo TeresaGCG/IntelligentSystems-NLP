@@ -1,0 +1,99 @@
+266
+
+PHYSICS
+
+Suppose that we move the bar by a small
+distance d as shown. Since the area of the
+surface increases, the system now has more
+energy, this means that some work has been
+done against an internal force. Let this internal
+force be F, the work done by the applied force is
+F-d = Fd. From conservation of energy, this is
+stored as additional energy in the film. If the
+surface energy of the film is S per unit area, the
+extra area is 2dl. A film has two sides and the
+liquid in between, so there are two surfaces and
+the extra energy is
+
+S (2dl) = Fd (10.21)
+Or, S=Fd/2dl= F/21 (10.22)
+
+This quantity S is the magnitude of surface
+tension. It is equal to the surface energy per unit
+area of the liquid interface and is also equal to
+the force per unit length exerted by the ﬂuid on
+the movable bar.
+
+So far we have talked about the surface of one
+liquid. More generally, we need to consider ﬂuid
+surface in contact with other ﬂuids or solid
+surfaces. The surface energy in that case depends
+on the materials on both sides of the surface. For
+example, if the molecules of the materials attract
+each other, surface energy is reduced while if they
+repel each other the surface energy is increased.
+Thus, more appropriately, the surface energy is
+the energy of the interface between two materials
+and depends on both of them.
+
+We make the following observations from
+above:
+
+(i) Surface tension is a force per unit length
+(or surface energy per unit area) acting in
+the plane of the interface between the plane
+of the liquid and any other substance; it also
+is the extra energy that the molecules at the
+interface have as compared to molecules in
+the interior.
+
+(ii) At any point on the interface besides the
+boundary, we can draw a line and imagine
+
+2019-20
+
+equal and opposite surface tension forces S
+per unit length of the line acting
+perpendicular to the line, in the plane of the
+interface. The line is in equilibrium. To be
+more specific, imagine a line of atoms or
+molecules at the surface. The atoms to the
+left pull the line towards them; those to the
+right pull it towards them! This line of atoms
+is in equilibrium under tension. If the line
+really marks the end of the interface, as in
+Figure 10.16 (a) and (b) there is only the force
+S per unit length acting inwards.
+
+Table 10.3 gives the surface tension of various
+liquids. The value of surface tension depends
+on temperature. Like viscosity, the surface
+tension of a liquid usually falls with
+temperature.
+
+Table 10.3 Surface tension of some liquids at the
+temperatures indicated with the
+heats of the vaporisation
+
+ 
+
+Surface Heat of
+Tension vaporisation
+(N/m) (kJ/mol)
+
+Helium —270 0.000239 0.115
+Oxygen —183 0.0132 7.1
+Ethanol 20 0.0227 40.6
+Water 20 0.0727 44.16
+Mercury 20 0.4355 63.2
+
+A ﬂuid will stick to a solid surface if the
+surface energy between ﬂuid and the solid is
+smaller than the sum of surface energies
+between solid-air, and ﬂuid-air. Now there is
+attraction between the solid surface and the
+liquid. It can be directly measured
+experimentaly as schematically shown in Fig.
+10.18. A ﬂat vertical glass plate, below which a
+vessel of some liquid is kept, forms one arm of
+the balance. The plate is balanced by weights

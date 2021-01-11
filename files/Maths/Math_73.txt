@@ -1,0 +1,23 @@
+Exponents
+73
+For example, let’s examine 
+Using our order of operations, we have to work out what is in paren-
+theses first, then deal with the exponent:
+Notice that the exponent of the final result is 12, which happens to be
+the product of the two powers involved in the exponential expression: 3
+and 4. This generalizes into a power rule for exponents: When you raise
+an exponential expression to a power, you multiply the exponents, or
+when you raise a power to a power you multiply the powers. We can write
+this mathematically as:
+( )
+am n= am××××× n
+Example 3
+Evaluate the following. Leave your answers as exponential
+expressions:
+a.
+b.
+c.
+Solution:
+a.
+b.
+c.

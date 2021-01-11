@@ -1,0 +1,45 @@
+6.5 Data Hazards and Stalls 413
+If atfirst don't succeed,
+yOIl
+redefine sllccess.
+Data Hazards and Stalls
+Anonymous
+As we said in Section 6.1 , one case where forwarding ca nnot save the day is when
+an instruction tries to read a register following a load instruction that writes the
+same register. Figure 6.34 illustrates the problem. The data is still being read from
+memory in clock cycle 4 while the ALU is performing the operation for the fol 
+lowing instruction. Something must stall the pipeline for the combination of load
+followed by an instruction that reads its result.
+Hence, in addition to a forwa rding unit, we need a hazard detection unit. It
+operates during the 10 stage so that it can insert the stall between the load and its
+use. Checking for load instructions, the control for the hazard detection unit is
+this single condition:
+if (ID/ EX.MemRe ad and
+((lD/ EX. Regis t erRt I FIID . Regis t e r Rs) or
+=
+(ID/ EX. Regis t erRt I FIID . Regis t e r Rt )))
+=
+s t all the pipeline
+The first line tests to see if the instruction is a load: the only instruction that reads
+data memory is a load. The next two lines check to see if the destination register
+field of the load in the EX stage matches either source register of the instruction in
+the ID stage. If the condition holds, the instruction stalls I clock cycle. After this
+I-cycle stall, the forwarding logic can handle the dependence and execution pro 
+ceeds. (If there were no forwarding, then the instructions in Figure 6.34 would
+need another stall cycle.)
+If the instruction in the 10 stage is stalled, then the instruction in the IF stage
+must also be stalled; otherwise, we would lose the fetched instruction. Preventing
+these two instructions from making progress is accomplished simply by prevent 
+ing the PC register and the IF/ID pipeline register from changing. Provided these
+registers are preserved, the instruction in the IF stage will continue to be read
+using the same PC, and the registers in the 10 stage will continue to be read using
+the same instruction fields in the IFIID pipeline register. Returning to our favorite
+analogy, it's as if you restart the washer with the same clothes and let the dryer
+continue nlmbling empty. Of course, like the dryer, the back half of the pipeline
+starting with the EX stage must be doing something; what it is doing is executing
+instructions that have no effect: nops. nap An instruction that does
+no operation to change state.
+How can we insert these nops, which act like bubbles, into the pipeline? In
+Figure 6.25 on page 401, we see that deasserting all nine control signals (setting
+them to 0) in the EX, MEM , and WB stages will create a "do nothing" or nop
+instruction. By identifying the hazard in the 10 stage, we can insert a bubble into

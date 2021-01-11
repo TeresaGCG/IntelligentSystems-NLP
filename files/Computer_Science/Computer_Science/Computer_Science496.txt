@@ -1,0 +1,35 @@
+480 Chapter 7 Large and Fast: Exploiting Memory Hierarchy
+Mapping an Address to a Multiword Cache Block
+EXAMPLE Consider a cache with 64 blocks and a block size of 16 bytes. What block
+number does byte address 1200 map to?
+We saw the formula on page 474. The block is given by
+ANSWER
+(Block address) modulo (Number of cache blocks)
+where the address of the block is
+Byte address
+Bytes per block
+Notice that this block address is the block containing all addresses between
+j
+l
+Byte address X Bytes per block
+Bytes per block
+and
+j
+l
++
+Byte address X Bytes per block ( Bytes per block - 1)
+Bytes per block
+Thus, with 16 bytes per block, byte address 1200 is block address
+l l~~
+J
+= 75
+which maps to cache block number (75 modulo 64) = 11. In fact, this block
+maps all addresses between 1200 and 12 15.
+Larger blocks exploit spatial locality to lower miss rates. Ai; Figure 7.8 shows,
+increasing the block size usually decreases the miss rate. The miss rate may go up
+eventually if the block size becomes a significant fraction of the cache size because
+the number of blocks that can be held in the cache will become small, and there
+will be a great deal of competition for those blocks. Ai; a result, a block will be
+bumped out of the cache before many of its words are accessed. Stated alterna 
+tively, spatial locality among the words in a block decreases with a very large
+block; consequently, the benefits in the miss rate become smaller.

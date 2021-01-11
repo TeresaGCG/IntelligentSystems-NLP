@@ -1,0 +1,42 @@
+7.3 Measuring and Improving Cache Performance 497
+is called direct mapped because there is a direct mapping from any block address in
+memory to a single location in the upper level of the hierarchy. There is actually a
+whole range of schemes for placing blocks. At one extreme is direct mapped,
+where a block ca n be placed in exactly one location.
+At the other extreme is a scheme where a block can be placed in any location in
+the cache. Such a scheme is called fully associative because a block in memory fullyassociative cache A
+cache structure in which a block
+may be associated with any entry in the cache. To find a given block in a fullyasso 
+can be placed in any location in
+ciative cache, all the entries in the cache must be searched because a block can be
+the cache.
+placed in anyone. To make the sea rch practical, it is done in parallel with a com  
+parator associated with each cache entry. These comparators significantly increase
+the hardware cost, effectively making fully associative placement practical only for
+caches with small numbers of blocks.
+The middle range of designs between direct mapped and fully associative is
+called set associative. In a set-associative cache, there are a fixed number of set-associative cache Acache
+locations (at least two) where each block can be placed; a set-associative cache that has a fixed number ofloca 
+tions (at least two) where each
+with n locations for a block is called an n-way set-associative cache. An n-way
+block can be placed.
+set-associative cache consists of a number of sets, each of which consists of n
+blocks. Each block in the mem ory maps to a unique set in the cache given by the
+index field, and a block can be placed in any element of that set. Thus, a set 
+associative placement combines direct-mapped placement and fully associative
+placement: a block is directly mapped into a set, and then all the blocks in the
+set are searched for a match.
+Remember that in a direct-mapped cache, the position of a mem ory block is
+given by
+(Block number) modulo (Number of cache blocks)
+In a set-associative cache, the set containing a memory block is given by
+(Block number) modulo (Number of sets in the cache)
+Since the block may be placed in any element of the set, all the tags ofall the ele 
+ments of the set must be searched. In a fully associative cache, the block can go
+anywhere and all tags ofall the blocks in the cache must be searched. For exa mple,
+Figure 7. 13 shows where block 12 may be placed in a cache with eight blocks total,
+according to the block placement policy fo r direct-mapped, two-way set-associa 
+tive, and fully associative caches.
+We can think of every block placement strategy as a variation on set asso 
+ciativity. Figure 7. 14 shows the possible associativity strucnlfes for an eight-block
+cache. A direct-mapped cache is simply a one-way set-associative cache: each

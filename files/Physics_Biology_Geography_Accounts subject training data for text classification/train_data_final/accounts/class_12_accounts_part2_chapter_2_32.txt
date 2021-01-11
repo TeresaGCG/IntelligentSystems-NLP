@@ -1,0 +1,63 @@
+1 04 Accountancy : Company Accounts and Analysis of Financial Statements
+
+Solution:
+Book of A Ltd.
+
+Journal
+Particulars
+
+Bank A/c . 1.80.000
+To 10% Debenture Application & 1,80,000
+Allotment A/c
+(Application money received on 2,000.
+10% debentures)
+
+10% Debentures Application &
+
+Allotment A/c . 1.80.000
+
+Loss on Issue of Debenture A/c . 40,000
+To 10% Debentures A/c 200,000
+To Premium on Redemption of 20.000
+
+Debentures A/c
+(AlloUnent of debentures at a discount of 10%
+and redeemable at a premium of 10%)
+
+Debenture Interest A/c
+
+To Debentureholders A/c
+
+To Income Tax Payable A/c
+(Interest due for 6 months and tax
+deducted at source)
+
+Income Tax payable A/c Dr.
+Bank A/c
+(Tax deducted at source paid to the government)
+
+Debentureholders A/c
+To Bank A/c
+(Payment of interest)
+
+Debenture interest A/c
+
+To Debentureholders A/c
+
+To Income Tax Payable A/c
+(Interest due for 6 months and tax
+deducted at source)
+
+Debenturesholders A/c
+To Bank A/c
+(Payment of interest)
+
+Income Tax Payable A/c Dr.
+To Bank A/c
+(Paid tax deducted at source to the government)
+
+Statement of Proﬁt and Loss
+
+To Debenture Interest A/c
+(Debenture interest transferred to proﬁt
+and loss account)

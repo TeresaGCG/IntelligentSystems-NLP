@@ -1,0 +1,56 @@
+BIOLOGY
+
+ 
+
+Radioactive phages were allowed to attach to E. coli bacteria. Then, as
+the infection proceeded, the viral coats were removed from the bacteria by
+agitating them in a blender. The virus particles were separated from the
+bacteria by spinning them in a centrifuge.
+
+Bacteria which was infected with Viruses that had radioactive DNA
+were radioactive, indicating that DNA was the material that passed from
+the virus to the bacteria. Bacteria that were infected with viruses that had
+radioactive proteins were not radioactive. This indicates that proteins did
+not enter the bacteria from the viruses. DNA is therefore the genetic
+material that is passed from virus to bacteria (Figure 6.5).
+
+35 Radioactive (32F)
+Radioactive ( S) labelled labelled DNA
+
+1 . Infection
+
+2. Blending
+
+ 
+
+3. Centrifugation
+
+ 
+
+Radioactive (32F)
+detected in cells
+
++
+No Radioactivity 2 j
+
+detected in supernatant
+
+No Radioactive (35$)
+detected in cells
+
++
+$% Radioactive (35$)
+
+detected in supernatant
+
+Figure 6.5 The Hershey-Chase experiment
+
+m 6.2.2 Properties of Genetic Material (DNA versus RNA)
+—
+
+From the foregoing discussion, it is clear that the debate between proteins
+versus DNA as the genetic material was unequivocally resolved from
+Hershey-Chase experiment. It became an established fact that it is DNA
+that acts as genetic material. However, it subsequently became clear that
+
+2019—2020

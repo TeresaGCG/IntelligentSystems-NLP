@@ -1,0 +1,86 @@
+q
+(15:2 2
+
+—AS
+aHAS 41:80 r
+
+Since each area element of the sphere is at the same
+distance r from the charge,
+
+FIGURE 1.26 Calculation of the q
+
+ﬂux of uniform electric field _ 4758 ,2 (111135
+through the surface of a cylinder. 0
+
+34
+
+ 
+
+q
+— 2 AS = —S
+¢ 47580 r2
+
+Now S, the total area of the sphere, equals 4751‘2. Thus,
+
+q q
+
+= ><4atr2 = —
+¢ 47:80 r2 80 (1.30)
+
+ 
+
+Equation (1.30) is a simple illustration of a general result of
+electrostatics called Gauss’s law.
+
+We state Gauss’s law without proof:
+
+Electric ﬂux through a closed surface S
+
+= q / 80 (1.3 1)
+
+q = total charge enclosed by S.
+
+The law implies that the total electric ﬂux through a closed surface is
+zero if no charge is enclosed by the surface. We can see that explicitly in
+the simple situation of Fig. 1.26.
+
+Here the electric ﬁeld is uniform and we are considering a closed
+cylindrical surface, with its axis parallel to the uniform field E. The total
+ﬂux ¢ through the surface is ¢ = $1 + $2 + ¢3, where ¢1 and $2 represent
+the ﬂux through the surfaces 1 and 2 (of circular cross-section) of the
+cylinder and $3 is the ﬂux through the curved cylindrical part of the
+closed surface. Now the normal to the surface 3 at every point is
+perpendicular to E, so by deﬁnition of ﬂux, $3 = 0. Further, the outward
+normal to 2 is along E while the outward normal to 1 is opposite to E.
+Therefore,
+
+¢1=_ES1’ ¢2=+E52
+S1 = S2 = S
+
+where S is the area of circular cross-section. Thus, the total ﬂux is zero,
+
+as expected by Gauss’s law. Thus, whenever you find that the net electric
+
+ﬂux through a closed surface is zero, we conclude that the total charge
+contained in the closed surface is zero.
+
+The great significance of Gauss’s law Eq. (1.31), is that it is true in
+general, and not only for the simple cases we have considered above. Let
+us note some important points regarding this law:
+
+(i) Gauss’s law is true for any closed surface, no matter what its shape
+or Size.
+
+(ii) The term q on the right side of Gauss’s law, Eq. (1 .31), includes the
+sum of all charges enclosed by the surface. The charges may be located
+anywhere inside the surface.
+
+(iii) In the situation when the surface is so chosen that there are some
+charges inside and some outside, the electric ﬁeld [whose ﬂux appears
+
+on the left side of Eq. (1.3 1)] is due to all the charges, both inside and
+outside S. The term q on the right side of Gauss’s law, however,
+
+represents only the total charge inside S.
+
+2019-20

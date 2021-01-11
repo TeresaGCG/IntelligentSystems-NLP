@@ -1,0 +1,67 @@
+Current
+Electricity
+
+ 
+
+So, we have £/V= 11/12 [3.94(a)]
+But, 8 = I (r + R) and V= IR. This gives
+8/V= (r+R)/R [3.94(b)]
+
+From Eq. [3.94(a)] and [3.94(b)] we have
+(R+r)/R = 11/12
+
+1
+r = R[l—1- 1] (3.95)
+
+Using Eq. (3.95) we can find the internal resistance of a given cell.
+
+The potentiometer has the advantage that it draws no current from
+the voltage source being measured. As such it is unaffected by the internal
+resistance of the source.
+
+Example 3.10 A resistance of R 9 draws current from a
+potentiometer. The potentiometer has a total resistance RO S2
+(Fig. 3.29). A voltage V is supplied to the potentiometer. Derive an
+expression for the voltage across R when the sliding contact is in the
+middle of the potentiometer.
+
+V
+
+FIGURE 3.29
+
+Solution While the slide is in the middle of the potentiometer only
+half of its resistance (R0/ 2) will be between the points A and B. Hence,
+the total resistance between A and B, say, R1, will be given by the
+following expression:
+
+ 
+
+ 
+
+i=l+ 1
+
+R R (Re/2)
+
+R1: ROR
+R0+2R
+
+The total resistance between A and C will be sum of resistance between
+A and B and B and C, Le, R1 + RO/Z
+The current ﬂowing through the potentiometer will be
+
+V 2V
+
+I=—=—
+R1+R0/2 2R1+R0
+
+The voltage V1 taken from the potentiometer will be the product of
+current I and resistance R1,
+
+2—VxR
+V1=IR1= 2R1+R0 1
+
+2019-20
+
+OI '8 GI’IJWVXEI
+
+123

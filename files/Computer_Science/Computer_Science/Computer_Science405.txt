@@ -1,0 +1,56 @@
+6.2 A Plpellned Datapath 389
+•
+lnouuaion felell
+_.
+.-
+~ ;'"
+.:;-,
+- ~
+• 0
+~,
+• _.
+•
+• •
+• j- "" - -
+• - ~ --
+- - ......... "i' ' _. ALU;:r -
+-
+......... .-....... - '"""" ~ • ';:>' - ••
+•
+• •
+•• • -- •
+•
+0
+~
+--
+"
+" ~
+~
+•
+Insuuaion<looode
+_.
+.-
+••
+~
+-
+- ~
+• 0
+~,
+•
+•
+1_ -
+• •
+,• - J -, ::,~ - --
+- - ......... "i' ' _. ALU;:r -
+......... .-:. . - - ~ •• /' -- ••
+•• •• -- ,••
+•
+~
+"
+..
+" .~ ~
+FtGURE 6.12 IF and ID.• first and second pipe stages of an Instruction, with the active portions of the datapath In
+Figure 6.11 highlighted. The highlighting convention is the same as that used in Figure 6.4. As in Chapter S, there is no confusion when reading
+and WTiting registers because the contents change only on the dock edge.Although the lo.1d needs only the top register in stage 2, the processor doesn't
+know what instruction is being decoded, so it sign-extends the 16-bit constant and reads both registers into the ID/EX pipeline register. We don't need
+all three operands, but it simplifies control to keep all three.

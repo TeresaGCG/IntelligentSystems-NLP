@@ -1,0 +1,33 @@
+5.13 Exercises 363
+o
+1 23
+Func field (22:30): Similar to MIPS, identifies function code.
+RC bit(3 1): IF set (1), update the RC-reg control bits to reflect the
+results of the instruction (all R-type).
+AA(30): 1 indicates that the given address is an absolute address;
+o
+indicates relative address.
+LK: IF 1, updates LNKR (the link register), which can be later used
+for subroutine return implementation.
+BI: Encodes the branch condition (e.g., beg -> BI = 2, bit -> BI = 0, etc.)
+BD: Branch relative destination.
+Your simplified PowerPC implementation should be able to implement the
+following instructions:
+add : add $Rd , $Rt, $Rs ($Rd ( - $Rt + $Rs)
+Un
+addi $Rd , $Rt, ($Rd ( - $Rt + Un)
+subtr ac t : sub $Rd, $Rt, $Rs ($Rd ( - $Rt $Rs)
+sub i $Rd , $Rt, Itn ($Rd ( - $Rt Un)
+load: lw $Rd , Addr($Rt) ( $Rd ( - Memory [$Rt + AddrJ)
+st ore : sw $Rd , Addr($Rt) ( Memory[$Rt + Addr] ( - $Rd)
+AND , OR : and/or $Rd , $Rt, $Rs ($Rd ( - $Rt AND/OR $Rs)
+andi/ori $Rd, $Rt , #n ($Rd ( - $Rt AND/OR Un)
+Jump : jmp Addr (PC ( - Addr)
+Branch cond itional: Seq Addr (CR[2] ==1? PC( - PC+SD : PC ( -
+PC+4 )
+subrou tine c all : jal Addr (LN KR ( - PC+4 ; PC( - Addr)
+subrou tine re st ore : Ret IPC ( - LNKR)
+I
+5.64 Discussion <§§5.7, 5.10, 5.11 > Hypothesis: Ifthe first implementation of
+J
+an architecnlre uses microprogramming, it affects the instmction set architecnlre.

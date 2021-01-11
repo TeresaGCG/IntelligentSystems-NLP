@@ -1,0 +1,48 @@
+350 Chapter 5 The Processor: Datapath and Control
+handling the microinstructions together with the trace cache of decoded instruc 
+tions allows the Pentium 4 to achieve impressive clock rates, similar to those for
+microprocessors implementing simpler instruction set architectures. Further 
+more, the translation process, which combines direct hardwired control for sim 
+ple instructions with microcoded control for complex instructions, allows the
+Pentium 4 to execute the simple, high-frequency instructions in the IA-32 instruc 
+tion set at a high rate, yielding a low, and very competitive, CPI.
+Understanding Although most of the Pentium 4 performance, ignoring the memory system,
+depends on the efficiency of the pipelined microoperations, the effectiveness of
+Program
+the front end in decoding IA-32 instructions can have a significant effect on per 
+Performance
+forma nce. In particular, because of the structure of the decoder, using simpler IA 
+32 instructions that require four or fewer microoperations, and hence, avoiding a
+dispatch An operation in a microcode dispatch, is likely to lead to better performance. Because of this imple 
+microprogrammed control unit mentation strategy (and a similar one on the Pentium 1lI), compiler writers and
+in which the next microinstruc 
+assembly language programmers should try to make use of sequences of simple
+tion is selected on the basis of
+IA-32 instructions rather than more complex alternatives.
+one or more fields ofa macroin 
+struction, usually by creating a
+table containing the addresses of
+the target microinstructions and
+indexing the table lIsing a field
+ofthe macroinstruction. The
+dispatch tables are typically
+Fallacies and Pitfalls
+implemented in ROM or pro 
+grammable logic array (PLA).
+The term dispatch is also used in
+dynamically scheduled proces  Pitfall: Adding a complex instrtlction implemented with microprogramming may
+sors to refer to the process of
+not befaster than a sequence using simpler instructions.
+sending an instruction to a
+Most machines with a large and complex instruction set are implemented, at least
+queue.
+in part, using microcode stored in ROM. Surprisingly, on such machines,
+sequences of individuaIsimpler instructions are sometimes as fast as or even faster
+than the custom microcode sequence for a particular instruction.
+How can this possibly be true? At one time, microcode had the advantage of
+being fetched from a much faster memory than instructions in the program. Since
+caches came into use in 1968, microcode no longer has such a consistent edge in
+fetch time. Microcode does, however, still have the advantage of using internal
+temporary registers in the computation, which can be helpful on machines with
+few general-purpose registers. The disadvantage of microcode is that the
+algorithms must be selected before the machine is announced and can't be

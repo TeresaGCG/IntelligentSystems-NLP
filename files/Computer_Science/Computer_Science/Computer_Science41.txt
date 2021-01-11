@@ -1,0 +1,41 @@
+1.3 Under the Covers 25
+Although hard drives are not removable, there are several storage technologies
+in use that include the following:
+• Optical disks, including both compact disks (CDs) and digital video disks
+(DVDs), constitute the most common form of removable storage.
+• Magnetic tape provides only slow serial access and has been used to back up
+disks, in a role now often replaced by duplicate hard drives.
+• FLASH-based removable memory cards typically attach by a USB (Universal
+Serial Bus) connection and are often used to transfer files.
+• Floppy drives and Zip drives are a version of magnetic disk technology with
+removable flexible disks. Floppydisks were the original primary storage for floppy disk A portable form of
+personal computers, but have now largely vanished. secondarymemory composed of
+a rotating mylar platter coated
+Optical disk technology works in a completely different way than magnetic disk
+with a magnetic recording
+technology. In a CD, data is recorded in a spiral fashion, with individual bits being material.
+recorded by burning small pits-approximately I micron ( 10--6 meters) in diame 
+,,,-into the disk surface. The disk is read by shining a laser at the CD surface and
+determining by examining the reflected light whether there is a pit or flat (reflec 
+tive) surface. DVDs use the same approach of bouncing a laser beam off a series of
+pits and flat surfaces. In addition, there are multiple layers that the laser beam can
+be focused on, and the size of each bit is much smaller, which together yield a sig 
+nificant increase in capacity.
+CD and DVD writers in personal computers use a laser to make the pits in the
+recording layer on the CD or DVD surface. This writing process is relatively slow,
+taking from tens of minutes (for a full CD) to close to an hour (for a full DVD).
+Thus, for large quantities a different technique called pressing is used, which costs
+only pennies per CD or DVD.
+Rewritable CDs and DVDs use a different recording surface that has a crystal 
+line, reflective material; pits are formed that are not reflective in a manner similar
+to that for a write-once CD or DVD. To erase the CD or DVD, the surface is
+heated and cooled slowly, allowing an annealing process to restore the surface
+recording layer to its crystalline structure. These rewritable disks are the most
+expensive, with write-once being cheaper; for read-only disks-used to distribute
+softwa re, music, or movies-both the disk cost and recording cost are much
+lower.
+Communicating with Other Computers
+We've explained how we can input, compute, display, and save data, but there is
+still one missing item found in today's computers: computer networks. Just as the
+processor shown in Figure 1.5 on page 16 is connected to memory and I/O
+devices, networks connect whole computers, allowing computer users to extend

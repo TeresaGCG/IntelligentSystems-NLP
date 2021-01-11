@@ -1,0 +1,38 @@
+8.4 Buses and other Connections between Processors, Memory, and i/ O Devlc:es 581
+Buses and Other Connections between
+Processors, Memory, and I/O Devices
+In a computer system, the various subsystems must have interfaces to one another.
+For example, the memory and processor need to communicate, as do the proces 
+sor and the I/O devices. For many years, this has been done with a bus. A bus is a
+shared communication link, which uses one set of wires to connect multiple sub 
+systems. The two major advantages of the bus organization are versatility and low
+cost. By defining a single connection scheme, new devices ca n easily be added, and
+peripherals can even be moved between computer systems that use the same kind
+of bus. Furthermore, buses are cost-effective because a single set of wires is shared
+in multiple ways.
+The major disadvantage of a bus is that it creates a communication bottleneck,
+possibly limiting the maximum I/O throughput. When I/O must pass through a
+single bus, the bandwidth of that bus limits the maximum I/O throughput.
+Designing a bus system capable of meeting the demands of the processor as well as
+connecting large numbers of I/O devices to the machine presents a major chal 
+lenge.
+One reason bus design is so difficult is that the maximum bus speed is largely
+limited by physical factors: the length of the bus and the number of devices.
+These physical limits prevent us from running the bus arbitrarily fast. In addition,
+the need to support a range of devices with widely varying latencies and data
+transfer rates also makes bus design challenging.
+As it becomes difficult to run many parallel wires at high speed due to clock
+skew and reflection, the industry is in transition from parallel shared buses to
+high-speed serial point-to-point interconnections with switches. Thus, such net 
+works are gradually replacing buses in our systems.
+As a result of this transition, this section has been revised in this edition to
+emphasize the general problem of connecting I/O devices, processors, and mem 
+ory rather than focus exclusively on buses.
+Bus Basics
+Classically, a bus generally contains a set of control lines and a set of data lines.
+The control lines are used to signal requests and acknowledgments, and to indi 
+cate what type of information is on the data lines. The data lines of the bus carry
+information between the source and the destination. This information may con 
+sist of data, complex commands, or addresses. For example, if a disk wa nts to
+write some data into memory from a disk sector, the data lines will be used to
+indicate the address in memory in which to place the data as well as to carry the

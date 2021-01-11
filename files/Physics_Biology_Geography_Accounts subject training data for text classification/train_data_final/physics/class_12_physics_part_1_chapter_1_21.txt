@@ -1,0 +1,69 @@
+22
+
+ 
+
+ 
+
+i Physics
+
+5?
+H
+E
+III
+
+ 
+
+ 
+
+ 
+
+2hm
+tp = {ﬂ = f P = 1.3x10‘7s
+ap eE
+
+Thus, the heavier particle (proton) takes a greater time to fall through
+the same distance. This is in basic contrast to the situation of ‘free
+fall under gravity’ where the time of fall is independent of the mass of
+the body. Note that in this example we have ignored the acceleration
+due to gravity in calculating the time of fall. To see if this is justiﬁed,
+
+let us calculate the acceleration of the proton in the given electric
+field:
+
+_(1.6 x 10“19 C) x (2.0 x 104 NC‘l)
+_ 1.67 x 10—27 kg
+
+ 
+
+= 1.9 x 1012 ms‘2
+
+which is enormous compared to the value of g (9.8 m S”), the
+acceleration due to gravity. The acceleration of the electron is even
+
+greater. Thus, the effect of acceleration due to gravity can be ignored
+in this example.
+
+Example 1.9 Two point charges q1 and q2, of magnitude +10‘8 C and
+—10‘8 C, respectively, are placed 0.1 m apart. Calculate the electric
+fields at points A, B and C shown in Fig. 1.14.
+
+ 
+
+FIGURE 1. 14
+
+Solution The electric ﬁeld vector E1A at A due to the positive charge
+q1 points towards the right and has a magnitude
+
+9 2 —2 43
+E1A=(9><10 NmC )2><(10 C) = 3.6x 104 NC’1
+(0.05m)
+
+The electric field vector E2A at A due to the negative charge q2 points
+
+towards the right and has the same magnitude. Hence the magnitude
+of the total electric field EA at A is
+
+EA = E1A + E2A = 7.2 x 104 N C‘1
+EA is directed toward the right.
+
+2019-20

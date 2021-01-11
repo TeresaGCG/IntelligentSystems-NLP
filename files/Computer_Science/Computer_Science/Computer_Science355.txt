@@ -1,0 +1,30 @@
+5.5 A Multleycle Implementation 339
+~-'L:'o~':truction
+fetch Instruction decode!
+register fetch
+MemRead
+o
+ALUSrcA =0
+lorD =0
+- - --I IRWrite
+Start
+ALUSrcB =01
+ALUOp =00
+PCWrite
+PCSource =00
+Memory address Branch Jump
+computation completion completion
+2
+ALUSrcA = 1
+ALUSrcB =00
+ALUOp =01
+PCWriteCond
+PCSource =01
+3
+Memory read
+~J...::ro~mPleton step
+FtGURE 5.38 The complete finite state machine control for the datapath shown In
+Figure 5.28. The labels on the arcs are conditions that are tested to determine which state is the next state;
+when the next state is unconditional, no label is given. The labels inside the nodes indicate the output sig 
+nals asserted during that state; we always specify the setting of a multiplexor control signal if the correct
+operation requires it. Hence, in some states a multiplexor control will be set to o.

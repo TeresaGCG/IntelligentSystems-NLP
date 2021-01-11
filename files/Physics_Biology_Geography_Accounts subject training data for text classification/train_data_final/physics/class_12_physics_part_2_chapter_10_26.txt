@@ -1,0 +1,60 @@
+Wave Optics
+
+y (x,t) = asin (kx—wt) (10.32)
+
+where a and a)(= 271v) represent the amplitude and the angular frequency
+of the wave, respectively; further,
+
+_E
+It
+
+represents the wavelength associated with the wave. We had discussed
+propagation of such waves in Chapter 15 of Class XI textbook. Since the
+displacement (which is along the y direction) is at right angles to the
+direction of propagation of the wave, we have what is known as a
+transverse wave. Also, since the displacement is in the y direction, it is
+often referred to as a y-polarised wave. Since each point on the string
+moves on a straight line, the wave is also referred to as a linearly polarised
+wave. Further, the string always remains confined to the x—y plane and
+therefore it is also referred to as a plane polarised wave.
+
+In a similar manner we can consider the vibration of the string in the
+x-z plane generating a z—polarised wave whose displacement will be given
+by
+
+z(x,t) = asin (kx— wt) (10.34)
+
+It should be mentioned that the linearly polarised waves [described
+by Eqs. (10.33) and (10.34)] are all transverse waves; i.e., the
+displacement of each point of the string is always at right angles to the
+direction of propagation of the wave. Finally, if the plane of vibration of
+the string is changed randomly in very short intervals of time, then we
+have what is known as an unpolarised wave. Thus, for an unpolarised
+wave the displacement will be randomly changing with time though it
+will always be perpendicular to the direction of propagation.
+
+A (10.33)
+
+Light waves are transverse in nature; i.e., the electric field associated
+with a propagating light wave is always at right angles to the direction of
+propagation of the wave. This can be easily demonstrated using a simple
+polaroid. You must have seen thin plastic like sheets, which are called
+polaroids. A polaroid consists of long chain molecules aligned in a
+particular direction. The electric vectors (associated with the propagating
+light wave) along the direction of the aligned molecules get absorbed.
+Thus, if an unpolarised light wave is incident on such a polaroid then
+the light wave will get linearly polarised with the electric vector oscillating
+along a direction perpendicular to the aligned molecules; this direction
+is known as the pass-axis of the polaroid.
+
+Thus, if the light from an ordinary source (like a sodium lamp) passes
+through a polaroid sheet P1, it is observed that its intensity is reduced by
+half. Rotating P1 has no effect on the transmitted beam and transmitted
+intensity remains constant. Now, let an identical piece of polaroid P2 be
+placed before P1. As expected, the light from the lamp is reduced in
+intensity on passing through P2 alone. But now rotating P1 has a dramatic
+effect on the light coming from P2. In one position, the intensity transmitted
+
+2019-20
+
+377

@@ -1,0 +1,37 @@
+7.10 Exercises 555
+restructuring the loops that access the arrays, substantially improved locality 
+and, therefore, cache performance-can be obtained. The example on page 551
+showed how effective even a simple change of loop structure could be.
+Another direction is to try to use compiler-directed prefetching. In prefetch  prefetching A technique in
+ing, a block of data is brought into the cache before it is actually referenced. The which data blocks needed in the
+fi.lture are brought into the
+compiler tries to identify data blocks needed in the funlfe and, using special
+cache early by the use ofspecial
+instructions, tells the memory hierarchy to move the blocks into the cache. When
+instructions that specify the
+the block is actually referenced, it is found in the cache, rather than causing a
+address ofthe block.
+cache miss. The use of secondary caches has made prefetching even more attrac 
+tive, since the secondary cache can be involved in a prefetch, while the primary
+cache continues to service processor requests.
+As we will see in • Chapter 9, memory systems are also a central design issue
+for parallel processors. The growing importance of the memory hierarchy in
+determining system performance in both uniprocessor and multiprocessor sys 
+tems means that this important area will continue to be a focus of both designers
+and researchers for some years to come.
+Historical Perspective and Further
+Reading
+This history section . gives an overview of memory technologies, from mercury
+delay lines to DRAM, the invention of the memory hierarchy and protection
+mechanisms, and concludes with a brief history of operating systems, including
+crss,
+MULTICS, UNIX, BSD UNIX, MS-DOS, Windows, and Linux.
+Exercises
+7.1 [5] <§7. 1> SRAM is commonly used to implement small, fa st, on-chip caches
+while DRAM is used for larger, slower main memory. In the past, a common de 
+sign for supercomputers was to build machines with no caches and main memo 
+ries made entirely out of SRAM (the Cray C90, for example, a very fa st computer
+in its day). If cost were no object, would you still want to design a system this way?
+7.2 [!O] <§7.2> Describe the general characteristics of a program that would ex 
+hibit very little temporal and spatial locality with regard to data accesses. Provide
+an example program (pseudocode is fine).

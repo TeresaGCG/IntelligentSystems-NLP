@@ -1,0 +1,33 @@
+Numbers
+29
+numbers. The least common multiple of two numbers is the smallest
+number that they both divide into evenly. The easiest way to find the
+least common multiple is to create a factor tree for both numbers and
+find the greatest common factor. Then multiply the original two numbers
+together and divide by the greatest common factor. This result is the
+least common multiple of the two numbers.
+Example 2
+Find the least common multiple of 12 and 15.
+Solution: As discussed above, the greatest common factor of 12
+and 15 is 3. The least common multiple of 12 and 15 is found by
+evaluating (12 × 15) ÷ 3: (12 × 15) ÷ 3 = 180 ÷ 3 = 60. So the
+smallest number that both 12 and 15 divide evenly into is 60.
+Lesson 1-7 Review
+1. Create factor trees for the following numbers:
+a. 96
+b. 215
+c. 310
+2. Find the greatest common factor and the least common multiple of
+15 and 35.
+Lesson 1-8: Order of Operations
+We have four basic operations: addition, subtraction, multiplication,
+and division. If several numbers are involved in any combination of these
+operations, we need to know which operation to perform first. For ex-
+ample, if we want to evaluate 4 + 3 × 2, we need to decide whether we will
+add 4 and 3 together first and then multiply by 2, or multiply 3 and 2
+together first and then add 4. You may want to do it one way and I may
+want to do it the other way. We would both get different answers and
+then argue about who was right. In order to avoid the confusion, an order
+of operations was established. Using the accepted order of operations,
+everyone will get the same answer when working out calculations that
+involve more than one operation.

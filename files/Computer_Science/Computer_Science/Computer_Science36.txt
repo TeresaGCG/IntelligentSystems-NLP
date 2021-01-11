@@ -1,0 +1,70 @@
+2.
+Chapter 1 Computer Abstractions and Technology
+motherboard A plastic board shows the contents of the desktop computer in Figure 1.6. This motherboard is
+containing packages of shown vertically on the left with the power supply. Three disk drives-a DVD
+integrated circuits or chips,
+drive, Zip drive, and hard drive-appear on the right.
+including processor, cache,
+The small rectangles on the motherboard contain the devices that drive our
+va
+memory, and connectors for
+advancing technology, integrated circuits or chips. The board is composed of
+devices such as networks and
+three pieces: the piece connecting to the I/O devices mentioned earlier, the mem  
+disks.
+ory, and the processor. The I/O devices are connected via the two large boards
+integrated circuit Also called
+attached perpendicularly to the motherboard toward the middle on the right 
+chip. A device combining doz 
+hand side.
+ens to millions oftransistors.
+The memory is where the programs are kept when they are running; it also
+memory The storage area in
+contains the data needed by the running programs. In Figure 1.8, memory is
+which programs are kept when
+found on the two small boards that are attached perpendicularly toward the mid 
+they are running and that con 
+dle of the motherboard. Each small memory board contains eight integrated cir 
+tains the data needed by the
+cuits.
+rUfimng programs.
+The processor is the active pa rt of the boa rd, following the instructions of a pro 
+gram to the letter. It adds numbers, tests numbers, signals I/O devices to activate,
+and so on. The processor is the large square below the mem ory boards in the
+central processor unit (CPU)
+lower-right corner of Figure 1.8. Occasionally, people call the processor the CPU,
+Also called processor. The active
+for the more bureaucratic-sounding central processor unit.
+part ofthe computer, which
+contains the datapath and Descending even lower into the hardware, Figure 1.9 reveals details of the pro 
+COI1 
+trol and which adds numbers, cessor in Figure 1.8. The processor comprises two main components: datapath
+tests numbers, signals I/O and control, the respective brawn and brain of the processor. The datapath per 
+devices to activate, and so on.
+forms the arithmetic operations, and control tells the datapath, memory, and I/O
+devices what to do according to the wishes of the instructions of the program.
+datapath The component of
+the processor that performs Chapter 5 explains the datapath and control for a straightforward implementa 
+arithmetic operations. tion, and Chapter 6 describes the changes needed for a higher-performance
+design.
+control The component ofthe
+Descending into the depths of any component of the hardware reveals insights
+processor that commands the
+datapath, memory, and I/O into the machine. The memory in Figure 1.10 is built from DRAM chips. DRAM
+devices according to the instruc 
+stands for dynamic random access memory. Several DRAMs are used together to
+tions ofthe program.
+contain the instructions and data of a program. In contrast to sequential access
+dynamic random access memories such as magnetic tapes, the RAM portion of the term DRAM means
+memory (DRAM) Memory that memory accesses take the same amount of time no matter what portion of
+built as an integrated circuit, it
+the memory is read. Inside the processor is another type of memory-cache
+provides random access to any
+memory. Cache memory consists of a small, fa st memory that acts as a buffer for
+location.
+the DRAM memory. (The nontechnical definition of cache is a safe place for hid 
+cache memory A small, fast ing things.) Cache is built using a different memory technology, static random
+memory that acts as a buffer for
+access memory (SRAM). SRAM is fa ster but less dense, and hence more expen 
+a slower, larger memory.
+sive, than DRAM.

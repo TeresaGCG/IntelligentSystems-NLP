@@ -1,0 +1,44 @@
+Accounting for Share Capital 3 5
+
+1.7 Forfeiture of Shares
+
+It may happen that some shareholders fail to pay one or more instalments,
+viz. allotment money and / or call money. In such circumstances, the company
+can forfeit their shares, i.e. cancel their allotment and treat the amount already
+received thereon as forfeited to the company within the framework of the
+provisions in its articles. These provisions are usually based on Table F
+which authorise the directors to forefeit the shares for non—payment of calls
+made. For this purpose, they have to strictly follow the procedure laid down
+in this regard. Following is the accounting treatment of shares issued at par,
+premium or at a discount. When shares are forefeited all entries relating to
+the shares forfeited except those relating to premium, already recorded in
+the accounting records must be reversed. Accordingly, share capital account
+is debited with the amount called-up in respect of shares are forfeited and
+crediting the respective unpaid calls accounts’s or calls in arrears account
+with the amount already received. Thus, the journal entry will be as follows:
+
+(a) Forfeiture of Shares issued at Par:
+Share Capital A/c .......... (Called up amount) Dr.
+To Share Forfeiture A/c ........... (Paid up amount)
+To Share Allotment A/c
+To Share Calls A/c (individually)
+( ..... shares forfeited for non-payment of
+allotment money and calls made)
+
+It may be noted here that when the shares are forfeited. all entries relating to the
+forfeited shares must be reversed except the entry relating to share premium received. if
+any. Accordingly, the share capital is debited to the extent to called-up capital and credited
+to (i) respective unpaid calls account i.e., calls in arrears and (ii) share forfeiture account
+with the amount already received on shares.
+
+The balance of shares forfeited account is shown as an addition to the total
+paid-up capital of the company under the head ‘Share Capital’ under title
+‘Equity and Liabilities’ of the Balance Sheet till the forfeited shares are reissued.
+
+Illustration 10
+
+Honda Limited issued 10,000 equity shares of 100 each payable as follows:
+Rs. 20 on application, Rs. 30 on allotment, Rs. 20 on ﬁrst call and Rs. 30 on
+second and ﬁnal calls 10,000 shares were applied for and allotted. All money
+due was received with the exception of both calls on 300 shares held by Supriya.
+These shares were forfeited. Give necessary journal entries.

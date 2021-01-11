@@ -1,0 +1,140 @@
+UNITS AND MEASUREMENT
+
+25
+
+Relative error = Aa / a (2.9)
+
+mean mean
+
+When the relative error is expressed in per
+cent, it is called the percentage error (8a).
+
+Thus, Percentage error
+
+8a=(Aqm /amWJX10ﬁé (210)
+
+an
+
+Let us now consider an example.
+
+Example 2.6 Two clocks are being tested
+against a standard clock located in a
+national laboratory. At 12:00:00 noon by
+the standard clock. the readings of the two
+clocks are :
+
+Clock 1 Clock 2
+
+Monday 12:00:05 10: 15:06
+Tuesday 12:01:15 10:14:59
+
+Wednesday 11:59:08 10: 15: 18
+Thursday 12:01 :50 10: 15:07
+Friday 11:59: 15 10: 14:53
+Saturday 12:01:30 10:15:24
+Sunday 12:01:19 10:15:11
+
+If you are doing an experiment that requires
+precision time interval measurements. which
+of the two clocks will you prefer ‘?
+
+ 
+
+Answer The range of variation over the seven
+days of observations is 162 s for clock 1, and
+3 1 s for clock 2. The average reading of clock 1
+is much closer to the standard time than the
+average reading of clock 2. The important point
+is that a clock’s zero error is not as significant
+for precision work as its variation, because a
+‘zero-error’ can always be easily corrected.
+Hence clock 2 is to be preferred to clock 1. 4
+
+Example 2.7 We measure the period of
+oscillation of a simple pendulum. In
+successive measurements. the readings
+
+turn out to be 2.63 s. 2.56 s. 2.42 s. 2.71s
+and 2.80 5. Calculate the absolute errors.
+relative error or percentage error.
+
+ 
+
+Answer The mean period of oscillation of the
+
+pendulum
+(2.63 + 256+ 2.42 + 2.71 + 2.80)s
+
+5
+
+ 
+
+13. 12
+_ s
+
+‘ 5
+
+ 
+
+= 2.624 s
+= 2.62 s
+
+As the periods are measured to a resolution
+of 0.01 s, all times are to the second decimal; it
+is proper to put this mean period also to the
+second decimal.
+
+The errors in the measurements are
+
+2.63s—2.62s= 0.01 s
+2.56 s — 2.62 s = — 0.06 s
+2.42 s — 2.62 s = — 0.20 s
+2.71 s—2.62s= 0.09s
+2.80s—2.62s= 0.18s
+
+Note that the errors have the same units as the
+quantity to be measured.
+
+The arithmetic mean of all the absolute errors
+(for arithmetic mean, we take only the
+magnitudes) is
+
+ATmem = [(0.01+ 0.06+0.20+0.09+0.18)s]/5
+= 0.54 s/5
+= 0.1 1 s
+
+That means, the period of oscillation of the
+simple pendulum is (2.62 i 0.11) s i.e. it lies
+between (2.62 + 0.11) s and (2.62 — 0.11) s or
+between 2.73 s and 2.51 s. As the arithmetic
+mean of all the absolute errors is 0.1 1 s, there
+is already an error in the tenth of a second.
+Hence there is no point in giving the period to a
+hundredth. A more correct way will be to write
+
+T=2.6i0.1 S
+
+Note that the last numeral 6 is unreliable, since
+it may be anything between 5 and 7. We indicate
+this by saying that the measurement has two
+significant figures. In this case, the two
+significant figures are 2, which is reliable and
+6, which has an error associated with it. You
+will learn more about the significant figures in
+section 2.7.
+
+For this example, the relative error or the
+percentage error is
+
+0.1
+8a=—x100=4% 4
+
+2.6
+
+2.6.2 Combination of Errors
+
+If we do an experiment involving several
+measurements, we must know how the errors
+in all the measurements combine. For example,
+
+2019-20

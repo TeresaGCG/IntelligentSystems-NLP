@@ -1,0 +1,25 @@
+1 2 3 4 5 6 7 8 9 10 11 12
+Monomials and Polynomials
+Your experiences with functions have exposed you to some math-
+ematical expressions that are very important in algebra. For example, the
+function ƒ(x) = 4x is the function that takes whatever is in parentheses
+and multiplies it by 4. The expression 4x is an example of a monomial. A
+monomial is an expression that involves only numbers and variables that
+have powers that are positive integers.
+A monomial in one variable is an expression of the form
+k ⋅ xn where k is a real number and n is a positive integer.
+The degree of a monomial with only one variable is the power that
+the variable is raised to. A constant can be viewed as a monomial of the
+form k ⋅ x0 (remember from our rules for exponents that any non-zero
+number raised to the power of 0 is 1), so a constant is a monomial of
+degree 0.
+A monomial with two variables is an expression of the form
+k⋅xn⋅ym
+The number k is called the coefficient of the monomial. The degree
+of a monomial with more than one variable is the sum of the powers of
+all of the variables that appear. A monomial of the form k ⋅ xn⋅ ym has
+degree n +m.
+Lesson 11-1: Adding and Subtracting Monomials
+The only way that you can effectively add or subtract two monomials
+is if both of the monomials involved have the exact same variables raised
+205

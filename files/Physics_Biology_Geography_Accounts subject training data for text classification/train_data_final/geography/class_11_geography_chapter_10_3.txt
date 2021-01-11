@@ -1,0 +1,124 @@
+ATMOSPHERIC CIRCULATION AND WEATHER SYSTEMS
+
+to the left in the southern hemisphere. The
+deﬂection is more when the wind velocity is
+high. The Coriolis force is directly proportional
+to the angle of latitude. It is maximum at the
+poles and is absent at the equator.
+
+The Coriolis force acts perpendicular to the
+pressure gradient force. The pressure gradient
+force is perpendicular to an isobar. The higher
+the pressure gradient force, the more is the
+velocity of the wind and the larger is the
+deﬂection in the direction of wind. As a result of
+these two forces operating perpendicular to each
+other, in the low-pressure areas the wind blows
+around it. At the equator, the Coriolis force is
+zero and the wind blows perpendicular to the
+isobars. The low pressure gets filled instead of
+getting intensiﬁed. That is the reason why tropical
+cyclones are not formed near the equator.
+
+Pressure and Wind
+
+The velocity and direction of the wind are the
+net result of the wind generating forces. The
+winds in the upper atmosphere, 2 - 3 km above
+the surface, are free from frictional effect of the
+surface and are controlled mainly by the
+pressure gradient and the Coriolis force. When
+isobars are straight and when there is no
+friction, the pressure gradient force is balanced
+by the Coriolis force and the resultant wind
+blows parallel to the isobar. This wind is known
+as the geostrophic wind (Figure 10.4).
+
+P C - Coriolis force
+H V — Geostrophic wind
+PH — Horizontal pressure
+
+radient
+g pH
+7
+V 04111b
+V
+7
+08ml) 7 041121)
+C
+Northern hemisphere 7 0831 b
+
+Southern hemisphere
+
+Figure 10.4 : Geostropic Wind
+
+87
+
+The wind circulation around a low is
+called cyclonic circulation. Around a high
+it is called anti cyclonic circulation. The
+direction of winds around such systems
+changes according to their location in
+different hemispheres (Table 10.2).
+
+The wind circulation at the earth’s surface
+around low and high on many occasions is
+closely related to the wind circulation at higher
+level. Generally, over low pressure area the air
+will converge and rise. Over high pressure area
+the air will subside from above and diverge at
+the surface (Figure 1 0.5). Apart from
+convergence, some eddies, convection
+currents, orographic uplift and uplift along
+fronts cause the rising of air, which is essential
+for the formation of clouds and precipitation.
+
+Divergence Convergence
+
+¢ ------- x / ————————— r --------- .\ f4 --------
+I! \\,
+. l
+’l \\ ,’ \
+______ yx ~~-___¢_____________/ ‘\___.>__-Surface
+Convergence Divergence
+Low High
+
+Figure 10.5 : Convergence and divergence of winds
+
+General circulation of the atmosphere
+
+The pattern of planetary winds largely depends
+on : (i) latitudinal variation of atmospheric
+heating; (ii) emergence of pressure belts; (iii)
+the migration of belts following apparent path
+of the sun; (iv) the distribution of continents
+and oceans; (v) the rotation of earth. The pattern
+of the movement of the planetary winds is
+called the general circulation of the
+atmosphere. The general circulation of the
+atmosphere also sets in motion the ocean water
+circulation which inﬂuences the earth’s
+
+Table 10.2 : Pattern of Wind Direction in Cyclones and Anticyclones
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pressure System Pressure Condition Pattern of Wind Direction
+at the Centre Northern Hemisphere Southern Hemisphere
+Cyclone Low Anticlockwise Clockwise
+Anticyclone High Clockwise Anticlockwise
+2019-2020

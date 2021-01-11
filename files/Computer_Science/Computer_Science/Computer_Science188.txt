@@ -1,0 +1,37 @@
+172 Chapter 3 Arithmetic: for Computers
+the same sign we end up by adding operands of different signs. From the prior
+paragraph, we know that overflow cannot occur in this case either.
+Having examined when overflow ca nnot occur in addition and subtraction, we
+still haven't answered how to detect when it does occur. Overflow occurs when
+adding two positive numbers and the sum is negative, or vice versa. Clearly, add 
+ing or subtracting two 32-bit numbers can yield a result that needs 33 bits to be
+fully expressed. The lack of a 33rd bit means that when overflow occurs the sign
+bit is being set with the vallie of the result instead of the proper sign of the result.
+Since we need just one extra bit, only the sign bit can be wrong. This means a
+carry out occurred into the sign bit.
+Overflow occurs in subtraction when we subtract a negative number from a
+positive number and get a negative result, or when we subtract a positive number
+from a negative number and get a positive result. This means a borrow occurred
+from the sign bit. Figure 3.3 shows the combination of operations, operands, and
+results that indicate an overflow.
+VVe have just seen how to detect overflow for two's complement numbers in a
+computer. What about unsigned integers? Unsigned integers are commonly used
+for memory addresses where overflows are ignored.
+The computer designer must therefore provide a way to ignore overflow in
+some cases and to recognize it in others. The MIPSsolution is to have two kinds of
+arithmetic instructions to recognize the two choices:
+• Add (add), add immediate (add i ), and subtract (sub) cause exceptions on
+overflow.
+• Add unsigned (addu), add immediate unsigned (addiu), and subtract
+unsigned (s ubu) do not cause exceptions on overflow.
+Because C ignores overflows, the MIPS C compilers will always generate the
+unsigned versions of the arithmetic instructions addu, addi u, and subu no mat 
+ter what the type of the variables. The MIPS Fortran compilers, however, pick the
+appropriate arithmetic instructions, depending on the type of the operands.
+Result
+Operation Operand A Operand B Indlc:atlng overflow
+A+ B >0 >0 +0
+A+ B +0 +0 >0
+A-B >0 +0 +0
+A-B +0 >0 >0
+FIGURE 3.3 Overflow c:ondltlons for addition and subtrac:tlon.

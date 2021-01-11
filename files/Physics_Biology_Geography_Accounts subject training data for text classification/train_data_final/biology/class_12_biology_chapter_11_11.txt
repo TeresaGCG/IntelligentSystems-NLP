@@ -1,0 +1,53 @@
+V
+/) BIOLOGY
+1 1.3.2 Cutting of DNA at Speciﬁc Locations
+
+ 
+
+Restriction enzyme digestions are performed by incubating puriﬁed DNA
+molecules with the restriction enzyme, at the optimal conditions for that
+speciﬁc enzyme. Agarose gel electrophoresis is employed to check the
+progression of a restriction enzyme digestion. DNA is a negatively charged
+molecule, hence it moves towards the positive electrode (anode)
+(Figure 1 1.3). The process is repeated with the vector DNA also.
+
+The joining of DNA involves several processes. After having cut the
+source DNA as well as the vector DNA with a speciﬁc restriction enzyme,
+the cut out ‘gene of interest’ from the source DNA and the cut vector with
+space are mixed and ligase is added. This results in the preparation of
+recombinant DNA.
+
+1 1.3.3 Ampliﬁcation of Gene of Interest using PCR
+
+PCR stands for Polymerase Chain Reaction. In this reaction, multiple
+copies of the gene (or DNA) of interest is synthesised in vitro using two
+
+Region to be ampliﬁed
+
+; Heat Denaturation
+
+A Primers Annealing
+
+; DNA polymerase
+
+   
+ 
+
+(Taq polymerase)
++ deoxynucleotides
+
+5’ 3’
+3 5 Extension
+5’ 3'
+3._I_I_—_I_I_5,
+
+¥ 30 cycles
+m Ampliﬁed
+—
+
+_ “I ”m’
+
+Figure 11.6 Polymerase chain reaction (PCR) : Each cycle has three steps: (1) Denaturation;
+(ii) Primer annealing; and (iii) Extension of primers
+
+2019—2020

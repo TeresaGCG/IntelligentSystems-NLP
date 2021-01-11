@@ -1,0 +1,28 @@
+272 Chapter 4 Assessing and Understanding Performance
+Historical Perspective and Further
+Reading
+This section, which reviews the history of performance measurement and bench 
+marking, appears as Section 4.7011 the . CD.
+Exercises
+4.1 [5J <§4.i > We wish to compare the performance of two different
+computers: M 1 and M2. The following measurements have been made on these
+computers:
+Program Time on Ml Time on M2
+1 2.0 se<:onds 1.5 seconds
+2 5.0 seconds 10.0 seconds
+Which computer is faster for each program, and how many times as fast is it?
+4.2 [5J <§4.i > Consider the two computers and programs in Exercise 4.1. The
+following additional measurements were made:
+Program Instructions executed on Ml Instructions executed on M2
+1
+Find the instruction execution rate (instructions per second) for each computer
+when running program 1.
+4.3 [SJ <§4.1 > Suppose that M I in Exercise 4.1 costs $500 and M2 costs $800. If
+you needed to run program I a large number of times, which computer would you
+buy in large quantities? Why?
+4.4 [ IOJ <§4.1 > • For More Practice: Cost-Effective Computing
+4.5 [SJ <§4.1 > • For More Practice: Cost-Effective Computing
+4.6 [SJ <§4.1 > Another user has the following requirements for the computers
+discussed in Exercise 4.1: PI must be executed 1600 times each hour. Any remain 
+ing time is used to run P2. If the computer has enough performance to execute
+program I the required number of times per hour, then performance is measured

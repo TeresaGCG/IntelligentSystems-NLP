@@ -1,0 +1,36 @@
+Expressions and Equations
+109
+Lesson 6-3: Equality
+The concept of equality is an important idea and has very special
+properties worth examining in more detail. It is used to relate seemingly
+distinct objects together and is called a relation. A relation is something
+that compares two objects. For example, if I had 10 $1 bills and you had
+a $10 bill, then we would have an equal amount of money, even though
+the form of our money is different. If my son broke his piggy bank and
+discovered that he had 40 quarters, he would have the same amount of
+money as we do. This example helps illustrate three important properties
+of equality:
+(cid:96) Equality is reflexive. This means that any object is equal to
+itself. This idea is almost self-evident. To illustrate the
+reflexive property mathematically we write a=a. For example,
+5= 5.
+(cid:96) Equality is symmetric. This means that if object A is equal to
+object B, then object B is equal to object A. This property
+emphasizes the fact that the order in which we equate objects
+doesn’t matter. It doesn’t matter if object A appears on the
+left or the right hand side of the =. To state this idea
+mathematically we write: If a = b, then b = a. For example, if
+3⋅ 4 = 12, then 12 = 3 ⋅ 4.
+(cid:96) Equality is transitive. This means that if object A is equal to
+object B, and object B is equal to object C, then object A is
+equal to object C. Object B is just an intermediate object that
+can be eliminated in the comparison; we can cut to the chase
+and set object A equal to object C. This can be expressed
+mathematically as: If a=b and b=c, then a= c. For example,
+if 10 ⋅ 5 = 50 and 50 = 25 ⋅ 2, then 10 ⋅ 5 = 25 ⋅ 2.
+Because these three properties are so important in mathematics, we
+say that any relation that has all three of these properties is an equiva-
+lence relation. It is important to note that every equivalence relation has
+all three of these properties. There are other relations besides equality
+that we will use later on that are not equivalence relations. Those rela-
+tions will be missing at least one of the three required properties.

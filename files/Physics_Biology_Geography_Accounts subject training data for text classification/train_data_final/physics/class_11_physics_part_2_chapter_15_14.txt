@@ -1,0 +1,138 @@
+WAV ES
+
+381
+
+ 
+
+and so on. We can label the various
+harmonics by the symbol vn ( n = 1,
+2, ...).
+
+ig. 15. 13 shows the first six
+harmonics of a stretched string
+fixed at either end. A string need not
+vibrate in one of these modes only.
+Generally, the vibration of a string
+will be a superposition of different
+modes; some modes may be more
+strongly excited and some less.
+Musical instruments like sitar or
+
+\\\\\\\\\\‘
+
+\i\\u\\\\
+
+\\\\\\\\\\
+> |
+Z l
+>
+\i\\\\\\\\
+
+\\\\\\\\\\'
+
+(a)
+Fundamental
+or first harmonic
+
+>
+
+(b)
+
+second harmonic
+
+\\\\\\\\\\
+
+A A A
+violin are based on this principle. . , (c)
+Where the string is plucked or N N third harmonic
+A A A
+
+bowed, determines which modes are
+more prominent than others.
+
+Let us next consider normal
+modes of oscillation of an air column
+with one end closed and the other
+open. A glass tube partially filled
+with water illustrates this system.
+The end in contact with water is a
+node, while the open end is an
+antinode. At the node the pressure
+changes are the largest, while the
+displacement is minimum (zero). At
+the open end - the antinode, it is
+just the other way - least pressure
+
+\\\\\\\\\\
+
+\\\\\\\\\\
+
+\\\\\\\\\\
+
+A A A A
+mNNN» fourth Egrmonic
+
+)\\\\\\\\\
+
+A A A A A
+N NN fifth hger)monic
+
+\\\\\\\\\\
+
+A A A A A A
+change and maximum amplitude of , ,
+displacement. Taking the end in ”NNNuNN sixth tigrmonic
+
+contact with water to be x = O, the
+node condition (Eq. 15.38) is already
+
+ 
+
+satisfied. If the other end x= L is an Fig. 15.13 The ﬁrst six harmonics of vibrations of a stretched
+
+antinode, Eq. (15.39) gives
+
+1 ,1
+L= n+5 §,forn=0,1,2,3,...
+
+The possible wavelengths are then restricted by
+the relation :
+
+2L
+/l =—, forn=O, 1, 2,3,... (15.43)
+
+(n+ 1/2)
+
+The normal modes — the natural frequencies —
+of the system are
+
+1 v
+V = (n+5) i;n=0, 1, 2, 3s (15'44)
+
+The fundamental frequency corresponds to n = 0,
+
+string ﬁxed at both ends.
+
+and is given by L . The higher frequencies
+
+4L
+are odd harmonics, i.e., odd multiples of the
+
+fundamental frequency : 3:, 5L, etc.
+
+4L 4L
+Fig. 15.14 shows the first six odd harmonics of
+
+air column with one end closed and the other
+open. For a pipe open at both ends, each end is
+an antinode. It is then easily seen that an open
+air column at both ends generates all harmonics
+(See Fig. 15.15).
+
+The systems above, strings and air columns,
+can also undergo forced oscillations (Chapter
+14). If the external frequency is close to one of
+the natural frequencies, the system shows
+resonance.
+
+2019-20

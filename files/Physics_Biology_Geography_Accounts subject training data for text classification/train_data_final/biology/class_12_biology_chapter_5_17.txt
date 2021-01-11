@@ -1,0 +1,74 @@
+BIOLOGY
+
+are extensively used as a starting point in the sequencing of whole
+genomes as was done in the case of the Human Genome Sequencing
+Project, described later.
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 Cross A 07’ 9 Cross B
+y W y+W+ W m W+ m+
+_) _)
+
+Parental _) é ‘ _) *
+
+y W W m
+
+Yellow,white Wild type White,miniature Wild type
+
+Y W y W w m W m
+F1 generation _) —)
+
+y W W m
+
+Wild type Yellow,White Wild type White,miniature
+
+¢ Gametes ¢
+Parental Recombinant Parental Recombinant
+
+type(98.7%)
+
+types(l .3%)
+
++
+
+YW
+
+type(62.8%)
+
+types(37 . 2%)
+
+_) _) —) _)
+Wild type white r Wild type miniature
++
+y W Y W w In W m+
+_) —) ‘- —)
+yellow,white yellow White,miniature White
+-
+F2 generation
++ + +
+K) &) W+ m“ w+ m
+_) _)
+—) — w _)
+y W Y W W m w In
+mid type White Wild type miniature
++
+&) K) W In W m‘”
+_) —-)
+‘- — —) _)
+y W y W W In W _ m
+yellow,White yellow White,miniature wh1te
+
+Figure 5.11 Linkage: Results of two dihybrid crosses conducted by Morgan. Cross A shows
+crossing between gene y and w; Cross B shows crossing between genes W and m.
+Here dominant Wild type alleles are represented with (+) sign in superscript
+
+Note: The strength of linkage between y and W is higher than W and m.
+
+2019-2020

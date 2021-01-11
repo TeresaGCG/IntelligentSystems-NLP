@@ -1,0 +1,35 @@
+5.2 Logie Design Conventions 289
+when we discuss more advanced control concepts, handling exceptions, and the
+use of hardware design languages in Sections 5.5 through 5.8.
+The single-cycle datapath conceptually described in this section must have sepa  Check
+rate instruction and data memories because Yourself
+I. the format of data and instructions is different in MIPS and hence different
+memories are needed
+2. having separate memories is less expensive
+3. the processor operates in one cycle and cannot use a single-ported memory
+for two different accesses within that cycle
+Logic Design Conventions
+To discuss the design of a machine, we must decide how the logic implementing
+the machine will operate and how the machine is clocked. This section reviews a
+few key ideas in digital logic that we will use extensively in this chapter. If you have
+little or no background in digital logic, you will find it helpful to read through
+Appendix B before continuing.
+The functional units in the MIPS implementation consist of two different types
+of logic elements: elements that operate on data values and elements that contain
+state. The elements that operate on data values are all combinational, which means
+that their outputs depend only on the current inputs. Given the same input, a
+combinational element always produces the same output. The ALU shown in
+Figure 5. 1 and discussed in Chapter 3 and . Appendix B is a combinational ele 
+ment. Given a set of inputs, it always produces the same output because it has no
+internal storage.
+Other elements in the design are not combinational, but instead contain state.
+An element contains state if it has some internal storage. We call these elements
+state elements because, if we pulled the plug on the machine, we could restart it state element A memory
+element.
+by loading the state elements with the values they contained before we pulled the
+plug. Furthermore, if we saved and restored the state elements, it would be as if
+the machine had never lost power. Thus, these state elements completely charac 
+terize the machine. In Figure 5. 1, the instruction and data memories as well as the
+registers are all examples of state elements.
+A state element has at least two inputs and one output. The required inputs are
+the data value to be written into the element and the clock, which determines

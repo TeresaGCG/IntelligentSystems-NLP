@@ -1,0 +1,80 @@
+i Physics
+
+ 
+
+A galvanometer of 15S) resistance is connected across BD. Calculate
+the current through the galvanometer when a potential difference of
+10 V is maintained across AC.
+
+Solution Considering the mesh BADB, we have
+10011 + 1519— 6012 = O
+
+or 2011 + 319 — 1212: o [3.84(a)]
+
+Considering the mesh BCDB, we have
+
+10 (11 —19)— 1519—5 (12 +19) =0
+
+1011 — 3019 —512 = O
+
+211 — 619 — 12 = O [3.84(b)]
+Considering the mesh ADCEA,
+
+6012 + 5 (12 + 19
+
+6512 + 519 = 10
+1312 + 19 = 2
+Multiplying Eq. (3
+
+)=10
+
+[384(0)]
+
+.84b) by 10
+
+2011 — 6019 — 1012 = O [3.84(d)]
+From Eqs. (3.84d) and (3.84a) we have
+
+6319 — 212 = o
+12 = 31.519
+
+13 (31.519) +
+410.5 Ig= 2
+I9 = 4.87 mA.
+
+EXAMPLE 3.8
+
+ 
+
+FIGURE 3.27 A meter bridge. Wire AC
+is l m long. R is a resistance to be
+measured and S is a standard
+
+resistance.
+
+[3.84(e)]
+
+Substituting the value of 12 into Eq. [3.84(c)l, we get
+
+I9=2
+
+3. 15 METER BRIDGE
+
+The meter bridge is shown in Fig. 3.27. It consists of
+a wire of length 1 m and of uniform cross sectional
+area stretched taut and clamped between two thick
+metallic strips bent at right angles, as shown. The
+metallic strip has two gaps across which resistors can
+be connected. The end points where the wire is
+clamped are connected to a cell through a key. One
+end of a galvanometer is connected to the metallic
+strip midway between the two gaps. The other end of
+the galvanometer is connected to a jockey’. The jockey
+is essentially a metallic rod whose one end has a
+knife-edge which can slide over the wire to make
+electrical connection.
+
+R is an unknown resistance whose value we want to determine. It is
+120 connected across one of the gaps. Across the other gap, we connect a
+
+2019-20

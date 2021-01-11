@@ -1,0 +1,40 @@
+242
+
+EXAMPLE 7. 3
+
+EXAMPLE 7.4
+
+ 
+
+ 
+
+Example 7.3 A lamp is connected in series with a capacitor. Predict
+your observations for do and ac connections. What happens in each
+case if the capacitance of the capacitor is reduced?
+
+Solution When a dc source is connected to a capacitor. the capacitor
+gets charged and after charging no current ﬂows in the circuit and
+
+the lamp will not glow. There will be no change even if C is reduced.
+With ac source. the capacitor offers capacitative reactance (l/(DC)
+and the current ﬂows in the circuit. Consequently. the lamp will shine.
+Reducing C will increase reactance and the lamp will shine less brightly
+than before.
+
+ 
+
+Example 7.4 A 15.0 tlF capacitor is connected to a 220 V. 50 HZ source.
+Find the capacitive reactance and the current (rms and peak) in the
+circuit. If the frequency is doubled. What happens to the capacitive
+reactance and the current?
+
+Solution The capacitive reactance is
+
+1 l
+
+= =. =212§2
+2m’c 27t(50Hz](15.0><10’°F]
+
+XC
+
+The rms current is

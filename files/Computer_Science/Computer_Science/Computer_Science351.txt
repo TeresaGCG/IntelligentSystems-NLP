@@ -1,0 +1,35 @@
+5.5 A Multleycle Implementation 335
+sponding to the step Memory access) does the memory read (MemRead is
+asserted). The output of the memory is always written into MDR. If it is sw, state 5
+does a memory write (MemWrite is asserted). In states 3 and 5, the signal lorD is
+set to 1 to force the memory address to come from the ALU. After performing a
+o.
+write, the instruction sw has completed execution, and the next state is state If
+the instruction is a load, however, another state (state 4) is needed to write the
+result from the memory into the register file. Setting the multiplexor controls
+MemtoReg = 1 and RegDst = 0 will send the loaded value in the MDR to be writ 
+ten into the register file, using rt as the register number. After this state, corre 
+o.
+sponding to the Memory read completion step, the next state is state
+To implement the R-type instructions requires two states corresponding to
+steps 3 (Execute) and 4 (R-type completion). Figure 5.34 shows this two-state
+portion of the finite state machine. State 6 asserts ALUSrcA and sets the ALUSrcB
+From state 1
+(Op = R-Type)
+~~~ Execution
+6
+ALUSrcA = 1
+ALUSrcB = 00
+ALUOp = 10
+~~ R-type completion
+7
+RegDst =1
+RegWrite
+MemtoReg = 0
+To state 0
+(Figure 5.32)
+FtGURE 5.34 R.f:ype Instructions can be Implemented with a simple two-state finite
+state machine. These states correspond to the box labeled "R-type instructions" in Figure 5.31. The first
+state canses the ALU operation to occur, while the second state causes the ALU result (which is in ALUOnt)
+to be written in the register file. The three signals asserted duringstate 7 canse the contents ofALUOm to be
+written into the register file in the entry specified by the rd field ofthe Instruction register.

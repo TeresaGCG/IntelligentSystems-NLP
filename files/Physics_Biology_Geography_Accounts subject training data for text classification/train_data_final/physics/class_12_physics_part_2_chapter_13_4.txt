@@ -1,0 +1,70 @@
+442
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+Example 13.1 Given the mass of iron nucleus as 55.85u and A=56,
+find the nuclear density?
+
+Solution
+mFe = 5585, u = 9.27 x 10‘26 kg
+mass 9.27><10'26 x 1
+volume ' (41c/3)(1.2><10‘15)3 56
+= 2.29 x 1017 kg m“3
+The density of matter in neutron stars (an astrophysical object) is
+comparable to this density. This shows that matter in these objects
+
+has been compressed to such an extent that they resemble a big nucleus.
+
+ 
+
+Nuclear density =
+
+13.4 MASS-ENERGY AND NUCLEAR BINDING ENERGY
+13.4.1 Mass - Energy
+
+Einstein showed from his theory of special relativity that it is necessary
+to treat mass as another form of energy. Before the advent of this theory
+of special relativity it was presumed that mass and energy were conserved
+separately in a reaction. However, Einstein showed that mass is another
+form of energy and one can convert mass-energy into other forms of
+energy, say kinetic energy and vice-versa.
+
+Einstein gave the famous mass-energy equivalence relation
+E = mc2 (13.6)
+
+Here the energy equivalent of mass m is related by the above equation
+
+and c is the velocity of light in vacuum and is approximately equal to
+3X 108 m s‘l.
+
+Example 13.2 Calculate the energy equivalent of 1 g of substance.
+
+Solution
+Energy, E= 10“3 x (3 x 108)2J
+
+E= 10‘3x 9 x 1016: 9 x 1013.1
+Thus, if one gram of matter is converted to energy, there is a release
+of enormous amount of energy.
+
+Experimental verification of the Einstein’s mass-energy relation has
+been achieved in the study of nuclear reactions amongst nucleons, nuclei,
+electrons and other more recently discovered particles. In a reaction the
+conservation law of energy states that the initial energy and the ﬁnal
+energy are equal provided the energy associated with mass is also
+included. This concept is important in understanding nuclear masses
+and the interaction of nuclei with one another. They form the subject
+matter of the next few sections.
+
+13.4.2 Nuclear binding energy
+
+In Section 13.2 we have seen that the nucleus is made up of neutrons
+and protons. Therefore it may be expected that the mass of the nucleus
+is equal to the total mass of its individual protons and neutrons. However,
+
+2019-20

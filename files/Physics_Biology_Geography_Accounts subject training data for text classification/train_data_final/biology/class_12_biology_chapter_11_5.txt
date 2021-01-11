@@ -1,0 +1,51 @@
+BIOLOGY
+
+strain. Roman numbers following the names indicate the order in which
+the enzymes were isolated from that strain of bacteria.
+
+Restriction enzymes belong to a larger class of enzymes called
+nucleases. These are of two kinds; exonucleases and endonucleases.
+Exonucleases remove nucleotides from the ends of the DNA whereas,
+endonucleases make cuts at speciﬁc positions within the DNA.
+
+Each restriction endonuclease functions by ‘inspecting’ the length of
+a DNA sequence. Once it finds its speciﬁc recognition sequence, it
+will bind to the DNA and cut each of the two strands of the double
+helix at specific points in their sugar-phosphate backbones
+(Figure 11.1). Each restriction endonuclease recognises a specific
+palindromic nucleotide sequences in the DNA.
+
+Action of Restriction enzyme
+The enzyme cuts both DNA EcoRI cuts the DNA between bases
+strands at the same site G and A only when the sequence
+
+GAATl‘C is present in the DNA
+
+Vector DNA Foreign DNA
+
+Sticky end
+
+C
+T T
+G
+Sticky end
+
+DNA fragments join at sticky ends
+
+1
+
+WW“
+
+Recombinant DNA
+
+Figure 11.1 Steps in formation of recombinant DNA by action of restriction endonuclease
+
+enzyme - EcoRI
+
+Do you know what palindromes are? These are groups of letters
+that form the same words when read both forward and backward,
+e.g., MALAYALAM’. As against a word-palindrome where the same
+word is read in both directions, the palindrome in DNA is a sequence
+of base pairs that reads same on the two strands when orientation of
+
+2019—2020

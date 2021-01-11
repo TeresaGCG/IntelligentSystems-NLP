@@ -1,0 +1,90 @@
+Physics
+
+ 
+
+ 
+
+3. 16 POTENTIOMETER
+
+This is a versatile instrument. It is basically a long piece of uniform wire,
+sometimes a few meters in length across which a standard cell (B) is
+connected. In actual design, the wire is sometimes cut in several pieces
+placed side by side and connected at the ends by thick metal strip.
+(Fig. 3.28). In the figure, the wires run from A to C. The small vertical
+portions are the thick metal strips connecting the various sections of
+
+the wire.
+
+A current I ﬂows through the wire which can be varied by a variable
+resistance (rheostat, R) in the circuit. Since the wire is uniform, the
+potential difference between A and any point at a distance lfrom A is
+
+8(l)=¢l
+
+(3.89)
+
+where q) is the potential drop per unit length.
+
+Figure 3.28 (a) shows an application of the potentiometer to compare
+the emf of two cells of emf £1 and £2 . The points marked 1, 2, 3 form a two
+way key. Consider first a position of the key where 1 and 3 are connected
+
+ 
+
+K
+(b)
+
+FIGURE 3.28 A potentiometer. G is
+a galvanometer and R a variable
+resistance (rheostat). I. 2. 3 are
+
+terminals of a two way key
+
+(a) circuit for comparing emfs of two
+
+cells: (b) circuit for determining
+internal resistance of a cell.
+
+122
+
+so that the galvanometer is connected to £1. The jockey
+is moved along the wire till at a point N1, at a distance 11
+from A, there is no deﬂection in the galvanometer. We
+can apply Kirchhoffs loop rule to the closed loop
+
+AN1G31A and get,
+
+¢ll+O—£1=O (3.90)
+Similarly, if another emf 82 is balanced against 12 (AN 2)
+¢l2+0—82=0 (3.91)
+From the last two equations
+
+8 l
+
+.1=—1 (3.92)
+
+£2 12
+
+This simple mechanism thus allows one to compare
+the emf s of any two sources (81,82). In practice one of the
+cells is chosen as a standard cell whose emf is known to
+a high degree of accuracy. The emf of the other cell is
+then easily calculated from Eq. (3.92).
+
+We can also use a potentiometer to measure internal
+resistance of a cell [Fig. 3.28 (b)]. For this the cell (emf 8)
+whose internal resistance (r) is to be determined is
+connected across a resistance box through a key K2, as
+shown in the figure. With key K2 open, balance is
+obtained at length 11 (AN 1). Then,
+
+8 = 45 11 [3.93(a)1
+
+When key K2 is closed, the cell sends a current (I)
+through the resistance box (R). If V is the terminal
+potential difference of the cell and balance is obtained at
+length 12(AN2),
+
+V: ¢ 12 [3.93m]
+
+2019-20

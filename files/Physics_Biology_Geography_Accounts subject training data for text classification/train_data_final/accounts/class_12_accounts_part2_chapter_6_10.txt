@@ -1,0 +1,63 @@
+Cash Flow Statement 245
+
+Additional information:
+
+Particulars April 01, 201 6 March 31, 201 7
+Rs Rs
+
+Trade receivables
+Trade payables
+Inventory
+
+Outstanding employees beneﬁts
+expenses
+
+Prepaid insurance
+
+Income tax outstanding
+
+ 
+
+Solution:
+Cash Flows from Operating Activities
+
+Cash receipts from customers 2,17,000
+Cash Paid to suppliers [1,27,000)
+Cash Paid to employees (29,000)
+
+Cash Paid for Insurance premium 18,500!
+Cash generated from operations 52,500
+Income Tax paid (1 1,000)
+Net Cash Inﬂow from Operations
+
+ 
+
+Working Notes:
+
+1. Cash Receipts from Customers is calculated as under :
+Cash Receipts from Customers = Revenue from Operations + Trade Receivables
+in the beginning — Trade Receivables in the end
+= Rs 2.20.000 + Rs 33,000 — Rs 36,000
+= Rs 2,17,000
+2. Purchases = Cost of Revenue from Operations — Opening
+Inventory + Closing Inventory
+= Rs 1,20,000 — Rs 22,000 + Rs 27,000
+= Rs 125,000
+3. Cash payment to suppliers = Purchases + Trade Payables in the beginning —Trade
+Payables in the end
+= Rs 1,25,000 + Rs 17,000 — Rs 15,000
+= Rs 1,27,000
+4. Cash Expenses = Expenses on Accrual basis — Prepaid Expenses
+in the beginning and Outstanding Expenses in the end + Prepaid Expenses in the
+end and Outstanding Expenses in the beginning
+
+5. Cash Paid to Employees = Rs 30,000 + Rs 2,000 — Rs 3,000
+= Rs 29,000
+
+6. Cash Paid for Insurance Premium = Rs 8,000 — Rs 5,000 + Rs 5,500
+= Rs 8,500
+
+7. Income Tax Paid = Rs 10,000+Rs 3,000 — Rs 2,000
+= Rs 1 1,000
+
+8. It is important to note here that there are no extraordinary items.

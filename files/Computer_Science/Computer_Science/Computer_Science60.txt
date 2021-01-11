@@ -1,0 +1,34 @@
+Computers
+Information Technology for the 4
+in the
+Billion without IT
+Real World
+Throughout this book you will see sections what they wanted neA't, villagers said they
+entitled "Computers in the Real World." These wanted access to the Internet! First, they
+sections describe compelling uses for comput  wanted to learn the prices before taking their
+ers outside of their typical functions in office crops to the nearest market, which is 35 kilo 
+automation and data processing. The goal of meters away. They could also learn about the
+these sections is to illustrate the diversity of market abroad to make better decisions on
+uses for information technology. what crops to grow and to increase their bar 
+gaining power when it was time to sell them.
+Problem to solve: Make information tech  Second, they wanted to use Internet telephony
+nology available to the rest of humanity, such to talk to relatives in Laos and beyond.
+as farmers in rural villages, beyond a multilin  The goal was "a rugged computer and
+gual character set like Unicode. printer assembled from off-the-shelf compo 
+nents that draws less than 20 watts in normal
+Solution: Develop a computer, software, and use- less than 70 watts when the printer is
+a communication system for a rural farming printing-and that can survive dirt, heat, and
+village. However, there is no electricity, no
+immersion in water."
+telephone, no technical support, and the vil 
+The resulting Jhai PC design uses flash
+lagers do not read English. memory instead of a disk drive, thereby elimi 
+The Jhai Foundation took on this challenge nating moving parts from the PC to make it
+for five villages in the Hin Heup district of more rugged and easier to maintain. Rather
+Laos. This American-Lao foundation was than use a power-hungry cathode ray tube, it
+founded to raise the standard of living for has a liquid-crystal display. To lower costs and
+rural Laos by developing an export economy.
+power, it uses an 80486 microprocessor. The
+It also built schools, installed wells, and
+power is supplied by a car battery, which can
+started a weaving cooperative. When asked be charged by a turning bicycle crank. An old

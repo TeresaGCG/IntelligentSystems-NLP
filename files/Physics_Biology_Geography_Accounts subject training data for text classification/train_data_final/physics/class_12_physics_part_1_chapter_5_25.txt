@@ -1,0 +1,58 @@
+I Physics
+
+6. Three quantities are needed to specify the magnetic ﬁeld of the earth
+on its surface — the horizontal component, the magnetic declination,
+and the magnetic dip. These are known as the elements of the earth’s
+magnetic ﬁeld.
+
+7. Consider a material placed in an external magnetic field B0. The
+magnetic intensity is deﬁned as,
+
+H=ﬁ
+
+#0
+The magnetisation M of the material is its dipole moment per unit volume.
+
+The magnetic ﬁeld B in the material is,
+B = #0 (H + M)
+
+8. For a linear material M = 25 H. So that B = [J H and 25 is called the
+magnetic susceptibility of the material. The three quantities, 25, the
+relative magnetic permeability yr, and the magnetic permeability y are
+related as follows:
+
+,u = [Jo l~lr
+Iir = 1+ 76
+
+9. Magnetic materials are broadly classiﬁed as: diamagnetic, paramagnetic,
+and ferromagnetic. For diamagnetic materials. 25% negative and small
+and for paramagnetiomateriéals it is positiVe: and small. Ferromagnetic
+materials have large 254and are characterised by non-linear relation
+between B and.H. They show the property of hysteresis.
+
+10. Substances,_ which at room temperature, retain their ferromagnetic
+property fOr a long period of time areacalled permanent magnets.
+
+ 
+
+Physical quantity Symbol Nature
+
+  
+ 
+
+Magnetic moment
+Volume
+
+B = #0 (H + M)
+
+M = 25H
+
+B = #0.”,1'1
+
+,u = #0 H,
+
+B = y H
+
+198
+
+2019-20

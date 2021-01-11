@@ -1,0 +1,98 @@
+272
+
+[M L‘lT'Zl pascal (Pa) 1 atm = 1.013 x 105 Pa, Scalar
+
+Pressure
+
+Density
+
+[M L‘3] kg nf3 Scalar
+
+Speciﬁc Gravity No No Psubstance , Scalar
+
+grater
+
+Co—efﬁcient of viscosity 7; 1 Pa s or Scalar
+
+poiseiulles
+(P1)
+
+Surface Tension 2 N m—1
+
+10.1
+
+10.2
+
+10.3
+
+10.4
+
+10.5
+
+EXERCISES
+
+Explain why
+
+[a] The blood pressure in humans is greater at the feet than at the brain
+
+(b) Atmospheric pressure at a height of about 6 km decreases to nearly half of
+its value at the sea level, though the height of the atmosphere is more than
+100 km
+
+[c] Hydrostatic pressure is a scalar quantity even though pressure is force
+divided by area.
+
+Explain why
+
+[a] The angle of contact of mercury with glass is obtuse, while that of water
+with glass is acute.
+
+(b) Water on a clean glass surface tends to spread out while mercury on the
+same surface tends to form drops. (Put differently, water wets glass while
+mercury does not.)
+
+[c] Surface tension of a liquid is independent of the area of the surface
+
+[d] Water with detergent disolved in it should have small angles of contact.
+
+(e) A drop of liquid under no external forces is always spherical in shape
+
+Fill in the blanks using the word[s) from the list appended with each statement:
+
+[a] Surface tension of liquids generally . . . with temperatures (increases / decreases)
+
+(b) Viscosity of gases . .. with temperature, whereas viscosity of liquids . . . with
+temperature [increases / decreases]
+
+[c] For solids with elastic modulus of rigidity, the shearing force is proportional
+to , while for ﬂuids it is proportional to [shear strain / rate of shear
+strain)
+
+(d) For a ﬂuid in a steady ﬂow, the increase in ﬂow speed at a constriction follows
+[conservation of mass / Bernoulli’s principle]
+
+(e) For the model of a plane in a wind tunnel, turbulence occurs at a speed for
+turbulence for an actual plane [greater / smaller]
+
+Explain why
+
+[a] To keep a piece of paper horizontal, you should blow over, not under, it
+
+(b) When we try to close a water tap with our fingers, fast jets of water gush
+through the openings between our fingers
+
+[c] The size of the needle of a syringe controls ﬂow rate better than the thumb
+pressure exerted by a doctor while administering an injection
+
+[d] A ﬂuid ﬂowing out of a small hole in a vessel results in a backward thrust on
+the vessel
+
+(e) A spinning cricket ball in air does not follow a parabolic trajectory
+
+A 50 kg girl wearing high heel shoes balances on a single heel. The heel is circular with
+
+a diameter 1.0 cm. What is the pressure exerted by the heel on the horizontal ﬂoor ?
+
+2019-20
+
+PHYSICS

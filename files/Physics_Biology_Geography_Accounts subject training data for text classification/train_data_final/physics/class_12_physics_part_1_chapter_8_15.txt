@@ -1,0 +1,76 @@
+284
+
+l Physics
+
+ 
+
+ 
+
+SUMMARY
+
+Maxwell found an inconsistency in the Ampere’s law and suggested the
+existence of an additional current, called displacement current, to remove
+this inconsistency. This displacement current is due to time—varying electric
+field and is given by
+
+8d¢E
+
+i = —
+d 0 C1 t
+and acts as a source of magnetic field in exactly the same way as conduction
+
+current.
+
+An accelerating charge produces electromagnetic waves. An electric charge
+oscillating harmonically with frequency v, produces electromagnetic waves
+of the same frequency v. An electric dipole is a basic source of
+electromagnetic waves.
+
+Electromagnetic waves with wavelength of the order of a few metres were
+first produced and detected in the laboratory by Hertz in 1887. He thus
+verified a basic prediction of Maxwell's equations.
+
+Electric and magnetic fields oscillate sinusoidally in space and time in an
+electromagnetic wave. The oscillating electric and magnetic fields, E and
+B are perpendicular to each other, and to the direction of propagation of
+the electromagnetic wave. For a wave of frequency v, wavelength A,
+propagating along z—direction, we have
+
+E =Ex(t] =E0sin[kz—cot)
+
+lznlé—wll=Eosml2n(%—%Jl
+
+B = By(t) = B0 sin [kz - a) t)
+
+= B0 sin [21:6 — vtj] = Bo “[24; _ 3]
+
+They are related by EO/B0 = c.
+
+The speed c of electromagnetic wave in vacuum is related to ,uo and so [the
+free space permeability and permittivity constants} as follows:
+
+c = 1/ Jﬂo £0 . The value of 0 equals the speed of light obtained from
+
+optical measurements.
+
+Light is an electromagnetic wave; 0 is, therefore, also the speed of light.
+Electromagnetic waves other than light also have the same velocity c in
+free space.
+
+The speed of light, or of electromagnetic waves in a material medium is
+
+given by v = l/Jﬂs
+where [.1 is the permeability of the medium and 8 its permittivity.
+
+Electromagnetic waves carry energy as they travel through space and this
+energy is shared equally by the electric and magnetic fields.
+
+Electromagnetic waves transport momentum as well. When these waves
+strike a surface, a pressure is exerted on the surface. If total energy
+transferred to a surface in time t is U, total momentum delivered to this
+surface is p = U/c.
+
+The spectrum of electromagnetic waves stretches, in principle, over an
+infinite range of wavelengths. Different regions are known by different
+
+2019-20

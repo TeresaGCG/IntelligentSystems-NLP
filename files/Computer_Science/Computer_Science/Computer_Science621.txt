@@ -1,0 +1,49 @@
+8.8 Real Stuff: A Digital Camera 605
+The CompactFlash standard package was proposed by Sa ndisk Corporation in
+1994 for the PCMCIA-ATA cards of portable PCs. Because it follows the ATA
+interface, it simulates a disk interface including seek commands, logical tracks,
+and so on. It includes a built-in controller to support many types of Flash memory
+and to help with chip yield for Flash memories by mapping out bad blocks.
+The electronic brain of this camera is an embedded computer with several spe 
+cial functions embedded on the chip. Figure 8. 16 shows the block diagram of a
+chip similar to the one in the camera. Such chips have been called systems on a
+chip (SOC) because they essentially integrate into a single chip all the parts that
+were found on a small printed circuit board of the past. SOC generally reduces
+size and lowers power compared to less integrated solutions. The manufacturer
+claims the SOC enables the camera to operate on half the number of batteries and
+to offer a smaller form factor than competitors' cameras.
+2-channel
+LCDITV
+video D/A
+10 bits V 16
+CCD Signal NTSCJPAL bits
+MJPEG
+16b~sl I processor encoder
+SDRAM
+I I
+controller
+SDRAM I 32 b~s Signal bus
+Bus bridge
+Smart SSFDC Audio MIC
+RISC
+Media controller D/A. AID Speaker
+16 bits
+SlO
+Flash DRAM UART PCMCIA DMA CPU bus
+IrDA PlO
+(program) controller , 2 controller controller
+PWM
+,, -- ,,
+,
+, ,
+1 DRAM
+1_____1
+RS-232 IrCA PCMCIA Others
+port card
+FtGURE 8.16 The system on a chip (SOC) found In Sanyo digital cameras. This block dia 
+gram is for the predecessor of the SOC in the camera in Figure 8.14. The successor SOC, called Super
+Advanced IC, uses three buses instead oftwo, operates at 60 MHz, consumes 800 mW, and fits 3.IM transis 
+tors in a 10.2 x 10.2 mm die using a 0.35-micron process. Note that this embedded system has twice as
+manytransistors as the state-of-the-art, high-performance microprocessor in 1990! The SOC in the figure is
+limited to processing 1024 x 768 pixels, but its su((;essor supports 1360 x 1024 pixels. (See Okada, M.11suda,
+Yamada, and Kobayashi [19991).

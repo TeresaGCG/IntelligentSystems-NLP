@@ -1,0 +1,82 @@
+SYSTEMS OI’ PARTICLES AND ROTATIONAL MOTION
+
+7.11
+
+7.20
+
+7.21
+
+Torques of equal magnitude are applied to a hollow cylinder and a solid sphere, both
+having the same mass and radius. The cylinder is free to rotate about its standard
+axis of symmetry, and the sphere is free to rotate about an axis passing through its
+centre. Which of the two will acquire a greater angular speed after a given time.
+
+A solid cylinder of mass 20 kg rotates about its axis with angular speed 100 rad S" 1.
+The radius of the cylinder is 0.25 m. What is the kinetic energy associated with the
+rotation of the cylinder? What is the magnitude of angular momentum of the cylinder
+about its axis?
+
+[a] A child stands at the centre of a turntable with his two arms outstretched. The
+turntable is set rotating with an angular speed of 40 rev/ min. How much is the
+angular speed of the child if he folds his hands back and thereby reduces his
+moment of inertia to 2/5 times the initial value ? Assume that the turntable
+rotates without friction.
+
+[b] Show that the child’s new kinetic energy of rotation is more than the initial
+kinetic energy of rotation. How do you account for this increase in kinetic energy?
+
+A rope of negligible mass is wound round a hollow cylinder of mass 3 kg and radius
+40 cm. What is the angular acceleration of the cylinder if the rope is pulled with a
+force of 30 N ? What is the linear acceleration of the rope ? Assume that there is no
+slipping.
+
+To maintain a rotor at a uniform angular speed of 200 rad s‘l, an engine needs to
+transmit a torque of 180 N m. What is the power required by the engine ?
+(Note: uniform angular velocity in the absence of friction implies zero torque. In
+practice, applied torque is needed to counter frictional torque). Assume that the
+engine is 100% efficient.
+
+From a uniform disk of radius R, a circular hole of radius R/ 2 is cut out. The centre
+of the hole is at R/ 2 from the centre of the original disc. Locate the centre of gravity
+of the resulting ﬂat body.
+
+A metre stick is balanced on a knife edge at its centre. When two coins, each of mass
+5 g are put one on top of the other at the 12.0 cm mark, the stick is found to be
+balanced at 45.0 cm. What is the mass of the metre stick?
+
+A solid sphere rolls down two different inclined planes of the same heights but
+different angles of inclination. (a) Will it reach the bottom with the same speed in
+each case? [b] Will it take longer to roll down one plane than the other? [c] If so,
+which one and why?
+
+A hoop of radius 2 m weighs 100 kg. It rolls along a horizontal ﬂoor so that its centre
+of mass has a speed of 20 cm/s. How much work has to be done to stop it?
+
+The oxygen molecule has a mass of 5.30 X 10’26 kg and a moment of inertia of
+1.94><10’46 kg m2 about an axis through its centre perpendicular to the lines joining
+the two atoms. Suppose the mean speed of such a molecule in a gas is 500 m / s and
+that its kinetic energy of rotation is two thirds of its kinetic energy of translation.
+Find the average angular velocity of the molecule.
+
+A solid cylinder rolls up an inclined plane of angle of inclination 30°. At the bottom
+of the inclined plane the centre of mass of the cylinder has a speed of 5 m / s.
+
+[a] How far will the cylinder go up the plane?
+
+(b) How long will it take to return to the bottom?
+
+Additional Exercises
+
+7.22
+
+As shown in Fig.7.40, the two sides of a step ladder BA and CA are 1.6 m long and
+hinged at A. A rope DE, 0.5 m is tied half way up. A weight 40 kg is suspended from
+a point F, 1.2 m from B along the ladder BA. Assuming the ﬂoor to be frictionless
+and neglecting the weight of the ladder, find the tension in the rope and forces
+exerted by the ﬂoor on the ladder. (Take 9 = 9.8 m/s2)
+
+(Hint: Consider the equilibrium of each side of the ladder separately.)
+
+2019-20
+
+I79

@@ -1,0 +1,113 @@
+7O
+
+ 
+
+a given vector into two component vectors along
+a set of two vectors — all the three lie in the same
+plane. It is convenient to resolve a general vector
+along the axes of a rectangular coordinate
+system using vectors of unit magnitude. These
+are called unit vectors that we discuss now. A
+unit vector is a vector of unit magnitude and
+points in a particular direction. It has no
+dimension and unit. It is used to specify a
+direction only. Unit vectors along the x—, y- and
+z—axes of a rectangular coordinate system are
+
+denoted by i 3 and 1}, respectively, as shown
+
+in Fig. 4.9(a).
+Since these are unit vectors, we have
+
+ 
+
+ 
+
+ 
+
+= ll‘: |=1 (4.9)
+
+ﬂ.)
+
+ 
+
+These unit vectors are perpendicular to each
+other. In this text, they are printed in bold face
+with a cap (A) to distinguish them from other
+vectors. Since we are dealing with motion in two
+dimensions in this chapter, we require use of
+only two unit vectors. If we multiply a unit vector,
+
+say 13 by a scalar, the result is a vector
+
+A. = kﬁ. In general, a vector A can be written as
+A = IAI ﬁ (4.10)
+
+where fl is a unit vector along A.
+
+We can now resolve a vector A in terms
+of component vectors that lie along unit vectors
+
+i and 3. Consider a vector A that lies in x—y
+
+plane as shown in Fig. 4.9(b). We draw lines from
+the head of A perpendicular to the coordinate
+axes as in Fig. 4.9(b), and get vectors Al and A2
+
+A
+
+such that Al + A2 = A. Since Al is parallel to i
+
+y
+
+ 
+
+ 
+
+PHYSICS
+and A2 is parallel to 3, we have :
+A1=Ax§, 112:ij (4.11)
+where AX and Ag are real numbers.
+Thus, A = AX 3+ ij (4.12)
+
+This is represented in Fig. 4.9(c). The quantities
+AX and Ag are called x—, and y- components of the
+vector A. Note that AX is itself not a vector, but
+
+AX i is a vector, and so is Ag 3. Using simple
+trigonometry, we can express AX and Ag in terms
+of the magnitude of A and the angle 0y it makes
+with the x— axis.
+
+AX =Acos 0
+Ag = A sin 6 (4.13)
+
+As is clear from Eq. (4.13), a component of a
+vector can be positive, negative or zero
+depending on the value of 0.
+
+Now, we have two ways to specify a vector A
+in a plane. It can be specified by :
+(i) its magnitude A and the direction 9 it makes
+
+with the x—axis; or
+
+(ii) its components AX and Ag
+
+If A and 9 are given, Axand Ay can be obtained
+using Eq. (4.13). If AX and Ag are given, A and 0
+can be obtained as follows :
+
+Ai + A5 = AZCOSZB + Azsin26
+
+=A2
+Or, A: 1lAi+Aj (4.14)
+d tan9= i 9: tan’1i 5
+An Ax, Ax (4.1 )
+
+ 
+
+Fig. 4.9 (a) Unit vectors i , j and k lie along the x—, y—, and z axes (b) A vectorA is resolved into its
+components AX and Ag along x—, and y— axes. [c] A and A2 expressed in terms of' 1 and j.
+
+2019-20

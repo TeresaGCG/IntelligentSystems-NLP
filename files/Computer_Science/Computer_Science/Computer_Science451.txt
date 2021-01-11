@@ -1,0 +1,44 @@
+6.9 Advanced Plpellnlng: Extracting More Performance 435
+use when the speculation was incorrect. In hardwa re speculation, the processor
+usually buffers the speculative results until it knows they are no longer speculative.
+If the speculation was correct, the instructions are completed by allowing the con 
+tents of the buffers to be written to the registers or memory. If the speculation was
+incorrect, the hardware flushes the buffers and reexecutes the correct instruction
+sequence.
+Speculation introduces one other possible problem: speculating on certain
+instructions may introduce exceptions that were formerly not present. For exam 
+ple, suppose a load instruction is moved in a speculative manner, but the address
+it uses is not legal when the speculation is incorrect. The result would be that an
+exception that should not have occurred will occur. The problem is complicated
+by the fact that if the load instruction were not speculative, then the exception
+must occur! In compiler-based speculation, such problems are avoided by adding
+special speculation support that allows such exceptions to be ignored until it is
+clear that they really should occur. In hardware-based speculation, exceptions are
+simply buffered until it is clear that the instruction causing them is no longer
+speculative and is ready to complete; at that point the exception is raised,and nor 
+mal exception handling proceeds.
+Since speculation can improve performance when done properly and decrease
+performance when done carelessly, significant effort goes into deciding when it is
+appropriate to speculate. Later in this section, we will examine both static and
+dynamic techniques for speculation.
+Static Multiple Issue
+Static multiple-issue processors all use the compiler to assist with packaging
+instructions and handling hazards. In a static issue processor, you can think of the
+set of instructions that issue in a given clock cycle, which is called an issue packet, issue packet The set of instruc 
+as one large instruction with multiple operations. This view is more than an anal  tions that issues together in 1
+clock cycle; the packet maybe
+ogy. Since a static multiple-issue processor usually restricts what mix of instruc 
+determined statically by the
+tions can be initiated in a given clock cycle, it is useful to think of the issue packet
+compiler or dynamically by the
+as a single instruction allowing several operations in certain predefined fields.
+processor.
+This view led to the original name for this approach: Very Long Instruction Word
+(VLIW). The Intel IA-64 architecture uses this approach, which it calls by its own
+name: Explicitly Parallel Instruction Computer (EPIC). The Itanium and Itanium
+2 processors, available in 2000 and 2002, respectively, are the first implementa 
+tions of the IA-64 architecture.
+Most static issue processors also rely on the compiler to take on some respon 
+sibility for handling data and control hazards. The compiler's responsibilities
+may include static branch prediction and code scheduling to reduce or prevent
+all haza rds.

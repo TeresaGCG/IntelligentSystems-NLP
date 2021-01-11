@@ -1,0 +1,36 @@
+5.5 A Multleycle Implementation 333
+Instruction fetch
+Instruction decode!
+Register fetch
+MemRead
+o
+ALUSrcA ",O
+lorD '" 0
+IRWrite
+Start ---~~
+ALUSrcB ", 01
+ALUOp '" 00
+PCWrite
+PCSource '" 00
+Memory-reference FSM R-type FSM Branch FSM Jump FSM
+(Figure 5.33) (Figure 5.34) (Figure 5.35) (Figure 5.36)
+FIGURE 5.32 The Instruction fetch and decode portion of every Instruction Is Identi 
+cal. These states correspond to the top box in the abstract finite state machine in Figure 5.31 .ln the first
+state we assert two signals to cause the memory to read an instruction and write it into the Instruction
+register (MemRead and IRWrite), and we set lorD to 0 to choose the PC as the address source. The signals
+ALUSrcA, ALUSrcB, ALUOp, PCWrite, and PCSource are set to compute PC + 4 and store it into the Pc.
+(It will also be stored into ALUOut, but never used from there.) In the next state, we compute the branch
+target address by setting ALUSrcB to II (causing the shifted and sign-extended lower 16 bits of the IR to
+be sent to the ALU), setting ALUSrcA to 0 and ALUOp to 00; we store the result in the ALUOut register,
+which is written on every cycle. There are four next states that depend on the class of the instruction,
+which is known during this state. The control unit input, called Op, is used to determine which of these
+arcs to follow. Remember that all signals not explicitly asserted are deasserted; this is particularly impor 
+tant for signals that control writes. For multiplexors controls, lack of a specific setting indicates that we
+do not care about the setting ofthe multiplexor.
+conditions that select a specific next state when multiple next states are possible.
+After state 1, the signals asserted depend on the class of instruction. Thus, the
+finite state machine has four arcs exiting state 1, corresponding to the four
+instruction classes: memory reference, R-type, branch on equal, and jump. This
+process of branching to different states depending on the instruction is called
+decoding, since the choice of the next state, and hence the actions that follow,
+depend on the instruction class.

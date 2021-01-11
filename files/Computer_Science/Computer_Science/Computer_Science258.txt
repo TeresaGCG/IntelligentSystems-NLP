@@ -1,0 +1,42 @@
+242 Chapter 4 Assessing and Understanding Performance
+ever, the 747 would clearly be the fastest, as the last column of the figure shows. Sim 
+ilarly, we can define computer performance in several different ways.
+If you were running a program on two different desktop computers, you'd say
+that the faster one is the desktop computer that gets the job done first. If you were
+running a data center that had several servers running jobs submitted by many
+response time Also called users, you'd say that the faster computer was the one that completed the most jobs
+execution time. The total time
+during a day. As an individual computer user, you are interested in reducing
+required for the computer to
+response time-the time between the start and completion of a task-also referred
+complete a task, including disk
+to as execution time. Data center managers are often interested in increasing
+accesses, memory accesses, I/O
+throughput-the total amount of work done in a given time. Hence, in most cases,
+activities, operating system
+we will need different performance metrics as well as different sets of applications to
+overhead, CPU execution time,
+bendlmark desktop computers versus servers, and embedded computers require yet
+and so all.
+other metrics and applications. We will see examples of this in section 4.4 when we
+look at different SPEC benchmarks: one meant to measure CPU performance
+(SPEC CPU) and one meant to measure Web server performance (SPECweb99).
+Throughput and Response Time
+EXAMPLE Do the following changes to a computer system increase throughput, decrease re 
+sponse time, or both?
+1. Replacing the processor in a computer with a faster version
+2. Adding additional processors to a system that uses multiple processors
+for separate tasks-for example, searching the World Wide Web.
+ANSWER Decreasing response time almost always improves throughput. Hence, in case
+1, both response time and throughput are improved. In case 2, no one task
+gets work done faster, so only throughput increases. If, however, the demand
+for processing in the second case was almost as large as the throughput, the
+system might fo rce requests to queue up. In this case, increasing the through  
+put could also improve response time, since it would reduce the waiting time
+in the queue. Thus, in many real computer systems, changing either execu 
+tion time or throughput often affects the other.
+In discussing the performance of computers, we will be primarily concerned
+with response time for the first few chapters. (In Chapter 8, on input/output sys 
+tems, we will discuss throughput-related measures.) To maximize performance,
+we want to minimize response time or execution time for some task. Thus we can
+relate performance and execution time for a computer X:

@@ -1,0 +1,48 @@
+1-2
+Index
+datapaths and, 286, 292, 294, 296 Basket, Forrest, CD7.9:9 Block-interleaved parity (RAID 4),
+MIPS, B32-38 Behavioral specification, B21 577-578
+muiticycle implementation, 318- 340 Bell Labs, CD7.9:8-9 Blocks
+I-bit, B26-29 Benchmarks, 254--255 defined,470
+single-cycle implementation, 300-318 EEMBC, 255, IMD4: 17- 18 finding, 540-541
+32-bit, B29-36 kernel, CD4.7:2, IMD4:7--8 locating in Glches, 502-504
+ARM, D36--38 SPEC CPU, 254--255, 259-266, placement of, 538-540
+ARPANET, CD8.3:5, CD8.l1:7 CD4.7:2- 3, IMD4:7-8 reducing cache misses with, 496-502
+Arrays SPE~eb99,262-266 replacing, 504, 541-542
+of logic elements, B18-19 synthetic, CD4.7:1-2, IMD4: 11-12 Bonding, 30
+versus pointers, I3()....1 34 Berkeley Computer Corp. (BCC), Boolean algebra, B6
+Art, restoration of, 562-563 CD7.9:8,9 Booth's algorithm, IMD3:5---9
+ASCII (American Standard Code for Berkeley Software Distribution (BSD), Bounds check shortcut, 168
+Information Interchange), 90--91 CD7.9:9 Branch (es)
+versus binary numbers, 162 Berners-Lee, Tim, CD8.11:7 addressing in, 97- 99, 294--295
+Assembler directives, A5 Biased notation, 170, 194 delayed, 297,382, 418-419,A41
+Assemblers, 13, 107-108, A4, 10-17 Bigelow, Julian, CDI.?:3 delay slot, 423
+Assembly language, 13, 107,1\3-10 Big Endian, 56, A43 history table, 421
+See also MIPS assembly language Big-interleaved parity (RAID 3), loop, 421-422
+disadvantages of, A9-IO 576-577 multiple-cycle implementation,
+when to use, A7-9 BINAC,CDI.7:4 327-328,336
+Asserted signal, 290, B4 Binary digits (numbers), 12,60 not taken, 295, 418
+Assert signal, 290 adding and subtracting, 170-176 prediction, 382, 421-423
+Associativity, in caches, 499-502 ASCII versus, 162 prediction buffer, 421
+Asynchronous bus, 582-583 converting to decimal floating taken, 295
+Asynchronous inputs, B75- 77 point, 196 target address, 294---296
+Atanasoff, John, CD 1.7:3 converting to decimals, 164 target buffer, 423
+AT&T Bell Labs, CD7.9:8-9 hexadecimal-binary conversion Branch equal (beq), 294, 297,300-318
+Atomic swap operation, CD9.3: 18 table, 62 Branch/control hazards, 379-382,
+Automatic storage class, 85 scientific notation, 191 416--424
+Availability, 573 use of, 16()....161 delayed, 297,382,418-419
+Average MemoryAccess Time (AMAT), Binary point, 191 dynamic branch prediction, 421-423
+IMD7:1 Bit(s), 12,60 not taken, 295, 418
+in a cache, 479 untaken, 381
+B dirty,521 Verilog and, CD6.7:S--9
+fields, IMD2: 13-14 Brooks, Fred, Jr., CD6.13:2
+Bachman, Charles, CD8.11:4, 5 least significant, 161 Bubble Sort, 129
+Backpatching, A13 map, 18 Burks, Arthur \Y., 48, CDI.7:3, CD3.10: I
+Backplane, 582 most significant, 161 Buses, 291-292
+Backus, John, CD2.l9:6, 7 reference/use, 519 advantages/disadvantages of, 581
+Barrier synchronization, CD9.3: 15 sign, 163 asynchronous, 582-583
+Base address, 55, 100 sticky, 215 backplane, 582
+Base register, 55 Bit error rate (BER), CD8.3:9 basics of, 581-585
+Base stations, CD8.3:9 Blaauw, Gerrit, CD6.13:2 defined,581,BI8-19
+Base 2 to represent numbers, 16()....161 Block, Barbara, 156-157 master, 594
+Basic block, 75 Blocking assignment, B24 Pentium 4, 585-587

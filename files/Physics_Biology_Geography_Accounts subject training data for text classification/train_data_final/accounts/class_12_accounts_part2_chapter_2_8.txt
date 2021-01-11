@@ -1,0 +1,72 @@
+80 Accountancy : Company Accounts and Analysis of Financial Statements
+
+The debentures were fully subscribed and all money was duly received.
+Record the journal entries in the books of a company. Show how the amounts
+
+will appear in the balance sheet.
+
+Solution:
+Books of XYZ Industries Limited
+Journal
+Debit Credit
+Amount Amount
+(RS) {Rs}
+
+1 .00,000
+
+Bank A/c
+To 10% Debenture Application A/c
+(Application money Rs 50 per debentures received)
+
+1 ,00,000
+
+10% Debenture Application A/c 1,00,000
+
+To 10% Debentures A/c
+(Transfer of application money to debenture
+
+account)
+
+1 ,00,000
+
+1 ,20,000
+1 .00.000
+20,000
+
+1 0% Debenture AlloiInent A / c
+To 1 0% Debentures A/c
+To Securities Premium Reserve A/c
+
+(AlloUnent money due on debentures
+including the premium)
+
+Bank A/c 1 ,20,000
+
+To 10% Debenture Allotment A/c
+(AlloiInent money received)
+
+XYZ Industries Limited
+Balance Sheet as at
+
+(RS)
+
+I. Equity and Liabilities
+1. Shareholders' Funds
+Reserve and Surplus 20,000
+2. Non—current Liabilities
+2 0—0 000
+
+1 ,20,000
+
+ 
+
+ 
+
+Long-term borrowings
+
+2, 2-0—— 000
+
+H. Assets
+Current Assets
+
+Cash and cash equivalents 2. 2—_. 000

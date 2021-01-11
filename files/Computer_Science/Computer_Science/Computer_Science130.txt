@@ -1,0 +1,40 @@
+114 Chapter 2 Instructions: Language of the Computer
+The linker-loader finds the desired routine, remaps it, and changes the address in
+the indirect jump location to point to that routine. It then jumps to it. When the
+routine completes, it returns to the original calling site. Thereafter, it jumps indi 
+rectly to the routine without the extra hops.
+In summary, DLLs require extra space for the information needed for dynamic
+linking, but do not require that whole libraries be copied or linked. They pay a
+good deal of overhead the first time a routine is called, but only a single indirect
+jump thereafter. Note that the return from the library pays no extra overhead.
+Microsoft's Windows relies extensively on lazy dynamically linked libraries, and it
+is also the normal way of executing programs on UNIX systems today.
+Starting a Java Program
+The discussion above captures the traditional model of executing a program,
+where the emphasis is on fast execution time fo r a program targeted to a specific
+instruction set architecture, or even a specific implementation of that architec 
+ture. Indeed, it is possible to execute Java programs just like C. Java was invented
+with a different set of goals, however. One was to quickly run safely on any com 
+puter, even if it might slow execution time.
+Figure 2.30 shows the typical translation and execution steps for Java. Rather
+than com pile to the assembly language of a target com puter, Java is com piled
+Java bytecode Instruction first to instructions that are easy to interpret: the Java bytecode instruction set.
+from an instruction set designed This instruction set is designed to be close to the Java language so that this com-
+to interpret Java programs.
+I Java program I
+( Compiler)
+"
+I I
+Class files (Java bytecodes) Java Library routines (machine language)
+/
+(. ....us! In Time
+( Java Virtual Machine)
+compiler
+"-
+Compiled Java methods (machine language)
+FIGURE 2.30 A translation hierarchy for Java. A Java program is first compiled into a binaryversion
+of JaVll bytecodes, with aU addresses defined by the compiler. The Java program is now ready to rw} on the
+imerpreter, called the Java Virtual Machine (JVM).The JVM links to desired methods in the JaVll library while
+orr)
+the program is running. To achieve gre.1ter performance, the JVM can invoke the Just In Time compiler,
+which selectivelycompiles methods into the n.1tive machine language ofthe m.1chine on which it is rwming.

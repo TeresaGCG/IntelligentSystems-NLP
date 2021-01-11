@@ -1,0 +1,55 @@
+Accounting for Share Capital 2 5
+
+2 Share Application A/c Dr.
+To Share Capital A/c
+To Share Allotment A/c
+To Bank A/c
+(Transfer of application money to share
+capital, and the excess application amount of
+pro-rata allottees credited to share allotment and
+the amount on rejected applications refunded)
+
+3 Share Allotment A/c Dr.
+To Share Capital A/c
+(Amount due on the Allotment of 10,000
+shares @ Rs. _ per share)
+
+4- Bank A/c Dr.
+To Share Allotment A/c
+(Allotment money received after adjusting the
+amount already received as excess
+application money)
+
+Illustration 7
+
+J anta Papers Limited invited applications for 1 ,00,000 equity shares of Rs. 25
+each payable as under:
+
+On Application Rs. 5.00 per share
+On Allotment Rs. 7.50 per share
+On First Call Rs. 7 .50 per share
+(due two months after allotment)
+
+On Second and Final Call Rs. 5.00 per share
+
+(due two months after First Call)
+
+Applications were received for 4,00,000 shares on January 01, 2017 and
+allotment was made on February 01, 20 1 7.
+
+Record journal entries in the books of the company to record these share
+capital transactions under each of the following circumstances:
+
+1 The directors decide to allot 1 ,00,000 shares in full to selected applicants
+and the applications for the remaining 3,00,000 shares were rejected
+outright.
+
+2 The directors decide to make a pro-rata allotment of 25 per cent of the
+shares applied for to every applicant; to apply the balance of application
+money towards amount due on allotment; and to refund the amount
+remaining thereafter.
+
+3 The directors totally reject applications for 2,00,000 shares, accept
+full applications for 80,000 shares and make a pro-rata allotment of
+the 20,000 shares to remaining applicants and the excess application
+money is to be adjusted towards allotment and calls to be made.

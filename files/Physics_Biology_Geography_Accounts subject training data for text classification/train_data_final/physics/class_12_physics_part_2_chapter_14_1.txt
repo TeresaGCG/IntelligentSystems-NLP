@@ -1,0 +1,76 @@
+468
+
+ 
+
+ 
+
+l Physics
+
+ 
+
+and ﬂow of charge carriers in the semiconductor devices are within the
+solid itself, while in the earlier vacuum tubes /valves, the mobile electrons
+were obtained from a heated cathode and they were made to ﬂow in an
+evacuated space or vacuum. No external heating or large evacuated space
+is required by the semiconductor devices. They are small in size, consume
+low power, operate at low voltages and have long life and high reliability.
+Even the Cathode Ray Tubes (CRT) used in television and computer
+monitors which work on the principle of vacuum tubes are being replaced
+by Liquid Crystal Display (LCD) monitors with supporting solid state
+electronics. Much before the full implications of the semiconductor devices
+was formally understood, a naturally occurring crystal of galena (Lead
+sulphide, PbS) with a metal point contact attached to it was used as
+detector of radio waves.
+
+In the following sections, we will introduce the basic concepts of
+semiconductor physics and discuss some semiconductor devices like
+junction diodes (a 2-electrode device) and bipolar junction transistor (a
+3-electrode device). A few circuits illustrating their applications will also
+be described.
+
+14.2 CLASSIFICATION OF METALS, CONDUCTORS AND
+SEMICONDUCTORS
+
+On the basis of conductivity
+On the basis of the relative values of electrical conductivity (6) or resistivity
+(p = 1 /o), the solids are broadly classified as:
+
+(i) Metals: They possess very low resistivity (or high conductivity).
+
+p~ 10—2— 10‘89m
+
+a~ 102 — 108 S m-1
+(ii) Semiconductors: They have resistivity or conductivity intermediate
+
+to metals and insulators.
+
+p~ 10-5— IOGQm
+
+o~ 105— 10*"3 S m-1
+(iii) Insulators: They have high resistivity (or low conductivity).
+
+p ~ 1011 — 1019 O m
+
+6 ~ 10‘11 — 10‘19 S m—1
+
+The values of p and a given above are indicative of magnitude and
+could well go outside the ranges as well. Relative values of the resistivity
+are not the only criteria for distinguishing metals, insulators and
+semiconductors from each other. There are some other differences, which
+will become clear as we go along in this chapter.
+
+Our interest in this chapter is in the study of semiconductors which
+could be:
+(i) Elemental semiconductors: Si and Ge
+(ii) Compound semiconductors: Examples are:
+
+0 Inorganic: CdS, GaAs, CdSe, InP, etc.
+
+0 Organic: anthracene, doped pthalocyanines, etc.
+
+0 Organic polymers: polypyrrole, polyaniline, polythiophene, etc.
+
+Most of the currently available semiconductor devices are based on
+elemental semiconductors Si or Ge and compound inorganic
+
+2019-20

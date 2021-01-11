@@ -1,0 +1,27 @@
+Homework Helpers: Basic Math and Pre-Algebra
+56
+However, there is a better way. Instead of blindly multiplying numera-
+tors together and denominators together, factor both numerators and
+both denominators, and cancel out any common factors. You will find
+that the job will be much easier.
+Example 7
+Perform the following multiplication: 
+Solution: Rather than finding the products 5 × 63 and 18 × 130,
+it’s better to factor the numerators and denominators completely
+and cancel what you can:
+If you had decided to ignore my earlier advice and multiplied the
+fractions together without trying to cancel first, you would have gotten
+the fraction  . Create a factor tree for those numbers and then get
+back to me!
+Example 8
+Perform the following multiplication: 
+Solution:
+This last example occurs so frequently that it is worth writing out
+more formally.
+( )
+b
+If a and b are non-zero numbers, then a × = b.
+a
+Thea’s cancel out and you are left with just the numerator of the second
+factor.
+www.ebook3000.com

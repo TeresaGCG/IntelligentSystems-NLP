@@ -1,0 +1,14 @@
+Ratios, Proportions, and Percents
+139
+Example 3
+A jacket that usually sells for $60 is on sale for 20% off. Find the
+discount.
+Solution: Convert the percent discount to a decimal and use the
+equation for percent discount to find the discount:
+The discount is $12.
+Example 4
+A computer that regularly sells for $600 is on sale for 30% off.
+Find the sale price of the computer.
+Solution: First find the discount, and then find the sale price:
+Now find the sale price:
+The sale price is $420.

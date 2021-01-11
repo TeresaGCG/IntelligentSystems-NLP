@@ -1,0 +1,79 @@
+130 PHYSICS
+
+ 
+
+An experiment on head-on collision
+
+In performing an experiment on collision on a horizontal surface, we face three difﬁculties.
+One, there will be friction and bodies will not travel with uniform velocities. Two, if two bodies
+of different sizes collide on a table, it would be difficult to arrange them for a head-on collision
+unless their centres of mass are at the same height above the surface. Three, it will be fairly
+difﬁcult to measure velocities of the two bodies just before and just after collision.
+
+By performing this experiment in a vertical direction, all the three difficulties vanish. Take
+two balls, one of which is heavier (basketball / football / volleyball) and the other lighter (tennis
+ball / rubber ball / table tennis ball). First take only the heavier ball and drop it vertically from
+some height, say 1 m. Note to which it rises. This gives the velocities near the ﬂoor or ground,
+
+just before and just after the bounce (by using 1)2 = 2 gh ). Hence you
+will get the coefficient of restitution.
+
+Now take the big ball and a small ball and hold them in your W
+hands one over the other, with the heavier ball below the lighter
+one, as shown here. Drop them together, taking care that they remain
+together while falling, and see what happens. You will find that the
+heavier ball rises less than when it was dropped alone, while the
+
+lighter one shoots up to about 3 m. With practice, you will be able to
+hold the ball properly so that the lighter ball rises vertically up and I
+does not ﬂy sideways. This is head-on collision.
+
+You can try to find the best combination of balls which gives you ,
+the best effect. You can measure the masses on a standard balance.
+We leave it to you to think how you can determine the initial and l
+final velocities of the balls.
+
+ 
+
+ 
+
+_ (m1 —m2)
+
+1 mlm2 2 v _ —v .
+= _ v _ 1f 11 (6.27)
+2 m1 + m2 h m1 + m2
+_ 2mlv1i
+which is a positive quantity as expected. and ”2f _ m1 + m2 (6.28)
+
+Consider next an elastic collision. Using the Thus, the ‘unknowns’ {01f v21} are obtained in
+
+above nomenclature With 91 = 92 = 0, the terms of the ‘knowns’ {m1, m2, vu}. Special cases
+momentum and kinetic energy conservation of our analysis are interesting.
+
+e at'
+qu ions are Case I : If the two masses are equal
+
+mlv1i= m1v1f+ n12v2f (6.24) ”If = O
+mlvlzi = mlvlzf + m2v§f (6.25) 02f = v11,
+The first mass comes to rest and pushes off the
+From Eqs. (6.24) and (6.25) it follows that, second mass with its initial speed on collision.
+
+Case II : If one mass dominates, e.g. m2 > > m1
+vlf 1 _ Du 02f: 0
+or, v2f(v1i — v1 f) 2 vi. — vi. The heavier mass is undisturbed while the
+
+lighter mass reverses its velocity.
+
+m1v1i(v2f _ vii) Z m1v1f(v2f _ vlf)
+
+ 
+
+: (vli _ Ulf)(vli + vlf)
+V Example 6.1 2 Slowing down of neutrons:
+
+Hence, 02f = Uh. + vlf (6.26) In a nuclear reactor a neutron of high
+
+speed (typicallv 10"" m s") must be slowed
+Substituting this in Eq. (6.24), we obtain '
+
+2019-20

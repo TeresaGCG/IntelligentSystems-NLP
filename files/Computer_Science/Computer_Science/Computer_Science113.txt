@@ -1,0 +1,36 @@
+2.9 MIPS Addressing for 32·111t Immedlates and Addresses 97
+Addressing in Branches and Jumps
+The MIPS jump instructions have the simplest addressing. They use the final
+MIPS instruction format, called the I-type, which consists of 6 bits for the opera 
+tion field and the rest of the bits for the address field. Thus,
+10000 # go t o loc at ion 10000
+J
+could be assembled into this format (it's actually a bit more complicated, as we
+will see on the next page):
+____,=-1
+--=,=°-0,,0-0' _
+6 bits 26 bits
+where the value of the jump opcode is 2 and the jump address is 10000.
+Unlike the jump instruction, the conditional branch instruction must specify
+two operands in addition to the branch address. Thus,
+bne $sO , $sl ,Exi t # go t o Exit if $sO ~ $sl
+is assembled into this instruction, leaving only 16 bits for the branch address:
+5 ' 6 17 Exit
+6 bits 5 bits 5 bits 16 bits
+If addresses of the program had to fit in this 16-bit field , it would mea n that no
+16
+program could be bigger than 2 which is far too small to be a realistic option
+,
+today. An alternative would be to specify a register that would always be added to
+the branch address, so that a branch instruction would calculate the following:
++
+Program counter = Register Branch address
+32
+This sum allows the program to be as large as 2 and still be able to use condi 
+tional branches, solving the branch address size problem. The question is then,
+which register?
+The answer comes from seeing how conditional branches are used. Conditional
+branches are found in loops and in if statements, so they tend to branch to a
+nearby instruction. For example, about half of all conditional branches in
+SPEC2000 benchmarks go to locations less than 16 instructions away. Since the
+program counter (PC) contains the address of the current instruction, we can

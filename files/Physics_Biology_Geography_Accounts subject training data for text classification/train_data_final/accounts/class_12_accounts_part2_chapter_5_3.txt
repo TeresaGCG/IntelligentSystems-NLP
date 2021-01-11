@@ -1,0 +1,35 @@
+Accounting Ratios 1 9 1
+
+statements are as under:
+
+1. Limitations of Accounting Data: Accounting data give an unwarranted
+impression of precision and ﬁnality. In fact, accounting data “reﬂect a
+combination of recorded facts, accounting conventions and personal
+judgements which affect them materially. For example, proﬁt of the
+business is not a precise and final ﬁgure. It is merely an opinion of the
+accountant based on application of accounting policies. The soundness
+of the j udgement necessarily depends on the competence and integrity
+of those who make them and on their adherence to Generally Accepted
+Accounting Principles and Conventions". Thus, the ﬁnancial statements
+may not reveal the true state of affairs of the enterprises and so the
+ratios will also not give the true picture.
+
+2. Ignores Price-level Changes: The ﬁnancial accounting is based on
+stable money measurement principle. It implicitly assumes that price
+level changes are either non-existent or minimal. But the truth is
+otherwise. We are normally living in inﬂationary economies where the
+power of money declines constantly. A change in the price—level makes
+analysis of ﬁnancial statement of different accounting years meaningless
+because accounting records ignore changes in value of money.
+
+3. Ignore Qualitative or Non-monetary Aspects: Accounting provides
+information about quantitative (or monetary) aspects of business.
+Hence, the ratios also reﬂect only the monetary aspects, ignoring
+completely the non-monetary (qualitative) factors.
+
+4. Variations in Accounting Practices: There are differing accounting
+policies for valuation of inventory, calculation of depreciation, treatment
+of intangibles Assets definition of certain financial variables etc.,
+available for various aspects of business transactions. These variations
+leave a big question mark on the cross-sectional analysis. As there are
+variations in accounting practices followed by different busin

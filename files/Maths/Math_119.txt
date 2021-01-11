@@ -1,0 +1,24 @@
+Expressions and Equations
+119
+5x= 2x+ 6
+Subtract 2x from both sides 5x− 2x = 2x+ 6 − 2x
+Simplify 3x= 6
+Multiply both sides of the equation by 
+Simplify x= 2
+Finally, we’ll check our answer:
+Ifx= 2, then the left-hand side of the equation gives 5x= 5× 2 = 10
+and the right-hand side gives 2x+ 6 = 2 × 2 + 6 = 4+ 6= 10 . Both
+sides calculate to 10, so our answer is correct.
+There are potential problems that you have to look out for when you
+are working with an equation that has more than one term involving the
+variable. One of the potential problems is that a solution to the equation
+may not exist. For example, the equation x = x + 1 has no solution, be-
+cause there is no number that is equal to itself plus 1 (not even 0 can do
+that!). If you subtract x from both sides of the equation and simplify,
+you get:
+Because this last equation is absurd, so is our original equation. Ab-
+surd equations have no solution.
+Lesson 6-6 Review
+Solve the following equations:
+1. 3. 4x− 5= −1
+2. 10x= 3x− 14 4.

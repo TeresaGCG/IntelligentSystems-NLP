@@ -1,0 +1,51 @@
+Accounting for Share Capital 5
+
+0 Reserve Capital: A company may reserve a portion of its uncalled capital
+to be called only in the event of winding up of the company. Such uncalled
+amount is called ‘Reserve Capital' of the company. It is available only for
+the creditors on winding up of the company.
+
+Authorised Share Capital
+
+Issued Capital Unissued Capital
+Subscribed Capital
+
+Subscribed and Fully Paid up Subscribed but not Fully Paid up
+
+Exhibit. 1. 1 : Categories of Share Capital
+
+     
+   
+    
+     
+
+   
+
+Let us take the following example and show how the share capital will be
+shown in the balance sheet. Sunrise Company Ltd., New Delhi, has registered
+its capital as Rs. 40,00,000, divided into 4,00,000 shares of Rs. 10 each. The
+company offered to the public for subscription of 2,00,000 shares of Rs. 10
+each, as Rs. 2 on application, Rs.3 on allotment, Rs.3 on ﬁrst call and the balance
+on ﬁnal call. The company received applications for 2,50,000 shares. The
+
+company ﬁnalised the allotment on 2,00,000 shares and rejected applications
+for 50,000 shares. The company did not make the ﬁnal call. The company received
+all the amount except on 2,000 shares where call money has not been received.
+The above amounts will be shown in the Notes to Accounts of the balance sheet
+of Sunrise Company Ltd. as follows:
+
+Notes to Accounts
+
+are ap1 .
+
+Authorised or Registered or Nominal Capital:
+4,00,000 Shares of Rs. 10 each 40,00,000
+
+Issued Capital
+2,00,000 Shares of Rs. 10 each 20,00,000
+
+Subscribed Capital
+Subscribed but not fully paid up
+2,00,000 Shares of Rs. 10 each, Rs. 8 called up 16,00,000
+
+Less : Calls in Arrears (6,000) 15,94,000
